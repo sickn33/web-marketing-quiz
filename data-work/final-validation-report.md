@@ -1,0 +1,533 @@
+# Final Quiz Validation
+
+- Questions checked one by one: 500
+- Errors: 0
+- Warnings: 0
+- Sources represented: 24
+
+## Section Counts
+- Fondamenti di marketing: 18
+- Processo di marketing: 15
+- STP e segmentazione: 12
+- Marketing 4.0 e brand: 51
+- Ecosistema digitale: 66
+- Ricerche di mercato online: 48
+- Customer journey: 60
+- Business model ed e-commerce: 87
+- Granato, search e operational: 143
+
+## Tag Counts
+- fondamenti: 119
+- business: 136
+- digitale: 177
+- operational: 125
+- journey: 89
+- ricerca: 51
+
+## Per-Question Check
+- OK Q001 | Fondamenti di marketing | answer A: il processo di pianificazione ed esecuzione di concezione, prezzo, promozione e distribuzione per creare scambi di valore | distractors B/C/D present | source: 04_Slides_Corso.md / Evoluzione del marketing
+- OK Q002 | Fondamenti di marketing | answer A: serve a collegare analisi, strategia e leve operative orientate ai bisogni del mercato | distractors B/C/D present | source: 04_Slides_Corso.md / Evoluzione del marketing
+- OK Q003 | Fondamenti di marketing | answer A: uno stato di privazione fisica o psicologica che può essere soddisfatto | distractors B/C/D present | source: 04_Slides_Corso.md / Evoluzione del marketing
+- OK Q004 | Fondamenti di marketing | answer A: è il punto di partenza su cui il marketing costruisce offerte e valore percepito | distractors B/C/D present | source: 04_Slides_Corso.md / Evoluzione del marketing
+- OK Q005 | Fondamenti di marketing | answer A: la forma specifica che un bisogno assume in base a cultura, personalità e contesto | distractors B/C/D present | source: 04_Slides_Corso.md / Evoluzione del marketing
+- OK Q006 | Fondamenti di marketing | answer A: trasforma un bisogno generale in una preferenza verso una soluzione concreta | distractors B/C/D present | source: 04_Slides_Corso.md / Evoluzione del marketing
+- OK Q007 | Fondamenti di marketing | answer A: una combinazione di prodotti, servizi, informazioni o esperienze proposta al mercato | distractors B/C/D present | source: 04_Slides_Corso.md / Evoluzione del marketing
+- OK Q008 | Fondamenti di marketing | answer A: materializza la value proposition in qualcosa che il cliente può valutare e acquistare | distractors B/C/D present | source: 04_Slides_Corso.md / Evoluzione del marketing
+- OK Q009 | Fondamenti di marketing | answer A: l'insieme dei benefici promessi al cliente in cambio del valore che trasferisce all'impresa | distractors B/C/D present | source: 04_Slides_Corso.md / Business Model Digitali
+- OK Q010 | Fondamenti di marketing | answer A: spiega perché l'offerta dovrebbe essere rilevante per un segmento specifico | distractors B/C/D present | source: 04_Slides_Corso.md / Business Model Digitali
+- OK Q011 | Fondamenti di marketing | answer A: il processo attraverso cui valore viene trasferito tra venditore e acquirente | distractors B/C/D present | source: 04_Slides_Corso.md / Evoluzione del marketing
+- OK Q012 | Fondamenti di marketing | answer A: è la logica che collega bisogni del cliente e obiettivi dell'organizzazione | distractors B/C/D present | source: 04_Slides_Corso.md / Evoluzione del marketing
+- OK Q013 | Processo di marketing | answer A: la fase in cui si raccolgono e interpretano informazioni su ambiente, consumatori, concorrenza e impresa | distractors B/C/D present | source: 04_Slides_Corso.md / Evoluzione del marketing
+- OK Q014 | Processo di marketing | answer A: riduce l'asimmetria informativa prima delle scelte strategiche | distractors B/C/D present | source: 04_Slides_Corso.md / Evoluzione del marketing
+- OK Q015 | Processo di marketing | answer A: la fase in cui si definiscono obiettivi, segmentazione, target e posizionamento | distractors B/C/D present | source: 04_Slides_Corso.md / Evoluzione del marketing
+- OK Q016 | Processo di marketing | answer A: trasforma l'analisi in scelte di mercato e direzione competitiva | distractors B/C/D present | source: 04_Slides_Corso.md / Evoluzione del marketing
+- OK Q017 | Processo di marketing | answer A: la fase in cui si lavora sulle leve del marketing mix per eseguire la strategia | distractors B/C/D present | source: 04_Slides_Corso.md / Evoluzione del marketing
+- OK Q018 | Processo di marketing | answer A: traduce posizionamento e obiettivi in prodotto, prezzo, distribuzione e promozione | distractors B/C/D present | source: 04_Slides_Corso.md / Evoluzione del marketing
+- OK Q019 | Processo di marketing | answer A: il modello classico composto da prodotto, prezzo, distribuzione e promozione | distractors B/C/D present | source: 04_Slides_Corso.md / Evoluzione del marketing
+- OK Q020 | Processo di marketing | answer A: organizza le leve controllabili con cui l'impresa porta valore al mercato | distractors B/C/D present | source: 04_Slides_Corso.md / Evoluzione del marketing
+- OK Q021 | Processo di marketing | answer A: uno schema che mette in relazione punti di forza e debolezza interni con opportunità e minacce esterne | distractors B/C/D present | source: 04_Slides_Corso.md / Evoluzione del marketing
+- OK Q022 | Processo di marketing | answer A: aiuta a collegare analisi interna e ambiente competitivo | distractors B/C/D present | source: 04_Slides_Corso.md / Evoluzione del marketing
+- OK Q023 | STP e segmentazione | answer A: la suddivisione del mercato in gruppi omogenei internamente e distinguibili tra loro | distractors B/C/D present | source: 04_Slides_Corso.md / Segmentazione
+- OK Q024 | STP e segmentazione | answer A: permette di non trattare tutto il pubblico come una massa indifferenziata | distractors B/C/D present | source: 04_Slides_Corso.md / Segmentazione
+- OK Q025 | STP e segmentazione | answer A: la valutazione e selezione dei segmenti che l'impresa decide di servire | distractors B/C/D present | source: 04_Slides_Corso.md / Evoluzione del marketing
+- OK Q026 | STP e segmentazione | answer A: concentra risorse e offerta sui gruppi più coerenti con obiettivi e capacità aziendali | distractors B/C/D present | source: 04_Slides_Corso.md / Evoluzione del marketing
+- OK Q027 | STP e segmentazione | answer A: la strategia con cui il brand occupa una posizione distintiva nella mente del pubblico rispetto ai concorrenti | distractors B/C/D present | source: 04_Slides_Corso.md / Evoluzione del marketing
+- OK Q028 | STP e segmentazione | answer A: orienta la percezione del valore e differenzia l'offerta | distractors B/C/D present | source: 04_Slides_Corso.md / Evoluzione del marketing
+- OK Q029 | STP e segmentazione | answer A: uno strumento che rappresenta la percezione delle marche rispetto a dimensioni rilevanti per il consumatore | distractors B/C/D present | source: 04_Slides_Corso.md / Evoluzione del marketing
+- OK Q030 | STP e segmentazione | answer A: supporta le scelte di posizionamento visualizzando vicinanze e differenze competitive | distractors B/C/D present | source: 04_Slides_Corso.md / Evoluzione del marketing
+- OK Q031 | Marketing 4.0 e brand | answer A: un orientamento product-driven centrato sul prodotto e sulla vendita | distractors B/C/D present | source: 05_Dispense_Approfondimenti.md / Marketing 4.0
+- OK Q032 | Marketing 4.0 e brand | answer A: rappresenta la fase in cui il mercato viene trattato in modo poco differenziato | distractors B/C/D present | source: 05_Dispense_Approfondimenti.md / Marketing 4.0
+- OK Q033 | Marketing 4.0 e brand | answer A: un orientamento customer-centric che cerca di comprendere e soddisfare meglio il cliente | distractors B/C/D present | source: 05_Dispense_Approfondimenti.md / Marketing 4.0
+- OK Q034 | Marketing 4.0 e brand | answer A: sposta l'attenzione dal prodotto indifferenziato ai bisogni dei consumatori | distractors B/C/D present | source: 05_Dispense_Approfondimenti.md / Marketing 4.0
+- OK Q035 | Marketing 4.0 e brand | answer A: un orientamento human-centric legato ai valori, allo spirito umano e alle cause sociali | distractors B/C/D present | source: 05_Dispense_Approfondimenti.md / Marketing 4.0
+- OK Q036 | Marketing 4.0 e brand | answer A: porta il brand oltre la sola soddisfazione funzionale del cliente | distractors B/C/D present | source: 05_Dispense_Approfondimenti.md / Marketing 4.0
+- OK Q037 | Marketing 4.0 e brand | answer A: l'approccio che integra tradizionale e digitale, online e offline, M2M e H2H | distractors B/C/D present | source: 05_Dispense_Approfondimenti.md / Marketing 4.0
+- OK Q038 | Marketing 4.0 e brand | answer A: rafforza engagement e advocacy bilanciando tecnologia e relazione umana | distractors B/C/D present | source: 05_Dispense_Approfondimenti.md / Marketing 4.0
+- OK Q039 | Marketing 4.0 e brand | answer A: il passaggio da segmenti decisi unilateralmente dall'azienda a comunità di clienti connesse e riconosciute | distractors B/C/D present | source: 05_Dispense_Approfondimenti.md / Marketing 4.0
+- OK Q040 | Marketing 4.0 e brand | answer A: rende più orizzontale e partecipata la relazione tra brand e mercato | distractors B/C/D present | source: 05_Dispense_Approfondimenti.md / Marketing 4.0
+- OK Q041 | Marketing 4.0 e brand | answer A: il passaggio dal solo positioning a carattere e codici riconoscibili del brand | distractors B/C/D present | source: 05_Dispense_Approfondimenti.md / Marketing 4.0
+- OK Q042 | Marketing 4.0 e brand | answer A: mantiene coerenza identitaria anche quando linguaggi e touchpoint cambiano | distractors B/C/D present | source: 05_Dispense_Approfondimenti.md / Marketing 4.0
+- OK Q043 | Marketing 4.0 e brand | answer A: il coinvolgimento dei clienti nello sviluppo o nel miglioramento dell'offerta | distractors B/C/D present | source: 05_Dispense_Approfondimenti.md / Marketing 4.0
+- OK Q044 | Marketing 4.0 e brand | answer A: trasforma il cliente da destinatario passivo a parte attiva della creazione di valore | distractors B/C/D present | source: 05_Dispense_Approfondimenti.md / Marketing 4.0
+- OK Q045 | Marketing 4.0 e brand | answer A: la logica di prezzo dinamico che varia in relazione a domanda, dati e contesto | distractors B/C/D present | source: 05_Dispense_Approfondimenti.md / Marketing 4.0
+- OK Q046 | Marketing 4.0 e brand | answer A: sostituisce l'idea di prezzo fisso come unica leva del marketing mix digitale | distractors B/C/D present | source: 05_Dispense_Approfondimenti.md / Marketing 4.0
+- OK Q047 | Marketing 4.0 e brand | answer A: l'attivazione di comunità e canali peer-to-peer per distribuire e far circolare valore | distractors B/C/D present | source: 05_Dispense_Approfondimenti.md / Marketing 4.0
+- OK Q048 | Marketing 4.0 e brand | answer A: spiega perché nel digitale la distribuzione passa anche da reti e prossimità sociale | distractors B/C/D present | source: 05_Dispense_Approfondimenti.md / Marketing 4.0
+- OK Q049 | Marketing 4.0 e brand | answer A: il passaggio da promozione come monologo del brand a dialogo continuo con i clienti | distractors B/C/D present | source: 05_Dispense_Approfondimenti.md / Marketing 4.0
+- OK Q050 | Marketing 4.0 e brand | answer A: rende social, review, forum e community spazi di relazione e ascolto | distractors B/C/D present | source: 05_Dispense_Approfondimenti.md / Marketing 4.0
+- OK Q051 | Marketing 4.0 e brand | answer A: ciò che l'azienda comunica e vuole rappresentare come marca | distractors B/C/D present | source: 07_Appunti_Corso.md / Web Marketing
+- OK Q052 | Marketing 4.0 e brand | answer A: costruisce l'intenzione espressiva del brand prima della percezione pubblica | distractors B/C/D present | source: 07_Appunti_Corso.md / Web Marketing
+- OK Q053 | Marketing 4.0 e brand | answer A: la percezione reale e attuale che il pubblico ha della marca | distractors B/C/D present | source: 07_Appunti_Corso.md / Web Marketing
+- OK Q054 | Marketing 4.0 e brand | answer A: permette di valutare se ciò che l'azienda comunica viene recepito come previsto | distractors B/C/D present | source: 07_Appunti_Corso.md / Web Marketing
+- OK Q055 | Marketing 4.0 e brand | answer A: il livello di conoscenza e ricordo della marca da parte del pubblico | distractors B/C/D present | source: 07_Appunti_Corso.md / Web Marketing
+- OK Q056 | Marketing 4.0 e brand | answer A: misura quanto il brand entra nel set mentale dei consumatori | distractors B/C/D present | source: 07_Appunti_Corso.md / Web Marketing
+- OK Q057 | Marketing 4.0 e brand | answer A: il valore complessivo e reputazionale accumulato dalla marca nel tempo | distractors B/C/D present | source: 07_Appunti_Corso.md / Web Marketing
+- OK Q058 | Marketing 4.0 e brand | answer A: rende il brand un asset capace di generare preferenza e valore economico | distractors B/C/D present | source: 07_Appunti_Corso.md / Web Marketing
+- OK Q059 | Marketing 4.0 e brand | answer A: la fiducia riposta dal consumatore nella marca | distractors B/C/D present | source: 07_Appunti_Corso.md / Web Marketing
+- OK Q060 | Marketing 4.0 e brand | answer A: riduce incertezza e rischio percepito, soprattutto nei contesti digitali | distractors B/C/D present | source: 07_Appunti_Corso.md / Web Marketing
+- OK Q061 | Marketing 4.0 e brand | answer A: il coinvolgimento attivo e partecipativo dei consumatori con un marchio | distractors B/C/D present | source: 07_Appunti_Corso.md / Web Marketing
+- OK Q062 | Marketing 4.0 e brand | answer A: indica una relazione cognitiva, emotiva o comportamentale oltre la semplice esposizione | distractors B/C/D present | source: 07_Appunti_Corso.md / Web Marketing
+- OK Q063 | Marketing 4.0 e brand | answer A: il sostegno esplicito e spontaneo dei consumatori verso il brand | distractors B/C/D present | source: 07_Appunti_Corso.md / Web Marketing
+- OK Q064 | Marketing 4.0 e brand | answer A: trasforma clienti soddisfatti in promotori attivi della marca | distractors B/C/D present | source: 07_Appunti_Corso.md / Web Marketing
+- OK Q065 | Ecosistema digitale | answer A: un approccio manageriale che riconfigura in chiave digitale i processi di creazione del valore | distractors B/C/D present | source: 04_Slides_Corso.md / Orientamento al digitale
+- OK Q066 | Ecosistema digitale | answer A: ridefinisce fornitura, distribuzione, offerta e relazione con il cliente | distractors B/C/D present | source: 04_Slides_Corso.md / Orientamento al digitale
+- OK Q067 | Ecosistema digitale | answer A: il sistema con cui l'impresa sviluppa valore economico usando tecnologie digitali | distractors B/C/D present | source: 04_Slides_Corso.md / Orientamento al digitale
+- OK Q068 | Ecosistema digitale | answer A: collega tecnologie, clienti, processi e fonti di ricavo | distractors B/C/D present | source: 04_Slides_Corso.md / Orientamento al digitale
+- OK Q069 | Ecosistema digitale | answer A: l'uso di strumenti digitali per attività operative di comunicazione con basso impatto strategico | distractors B/C/D present | source: 04_Slides_Corso.md / Orientamento al digitale
+- OK Q070 | Ecosistema digitale | answer A: spesso produce siti vetrina o presenze informative scollegate dagli obiettivi di business | distractors B/C/D present | source: 04_Slides_Corso.md / Orientamento al digitale
+- OK Q071 | Ecosistema digitale | answer A: l'uso del digitale con obiettivi di business e integrazione tra strategie online e offline | distractors B/C/D present | source: 04_Slides_Corso.md / Orientamento al digitale
+- OK Q072 | Ecosistema digitale | answer A: coordina canali e azioni in ottica omnicanale | distractors B/C/D present | source: 04_Slides_Corso.md / Orientamento al digitale
+- OK Q073 | Ecosistema digitale | answer A: la situazione in cui il campo di esistenza dell'impresa è all digital | distractors B/C/D present | source: 04_Slides_Corso.md / Orientamento al digitale
+- OK Q074 | Ecosistema digitale | answer A: rende la strategia digitale parte centrale del modello di business | distractors B/C/D present | source: 04_Slides_Corso.md / Orientamento al digitale
+- OK Q075 | Ecosistema digitale | answer A: imprese tradizionali puramente fisiche senza canali digitali rilevanti | distractors B/C/D present | source: 04_Slides_Corso.md / Orientamento al digitale
+- OK Q076 | Ecosistema digitale | answer A: descrive il grado più basso di presenza online tra gli assetti strutturali | distractors B/C/D present | source: 04_Slides_Corso.md / Orientamento al digitale
+- OK Q077 | Ecosistema digitale | answer A: imprese nate fisiche che integrano canali e strategie digitali | distractors B/C/D present | source: 04_Slides_Corso.md / Orientamento al digitale
+- OK Q078 | Ecosistema digitale | answer A: combina presenza offline e online in modo potenzialmente omnicanale | distractors B/C/D present | source: 04_Slides_Corso.md / Orientamento al digitale
+- OK Q079 | Ecosistema digitale | answer A: imprese che operano esclusivamente online senza rete fisica tradizionale | distractors B/C/D present | source: 04_Slides_Corso.md / Orientamento al digitale
+- OK Q080 | Ecosistema digitale | answer A: rappresenta un assetto strutturale completamente digitale | distractors B/C/D present | source: 04_Slides_Corso.md / Orientamento al digitale
+- OK Q081 | Ecosistema digitale | answer A: l'interconnessione stretta tra canali fisici e digitali lungo il percorso del cliente | distractors B/C/D present | source: 04_Slides_Corso.md / Orientamento al digitale
+- OK Q082 | Ecosistema digitale | answer A: rende fluida l'esperienza quando il cliente passa tra touchpoint diversi | distractors B/C/D present | source: 04_Slides_Corso.md / Orientamento al digitale
+- OK Q083 | Ecosistema digitale | answer A: informazione codificata in forma binaria tramite 0 e 1 | distractors B/C/D present | source: 04_Slides_Corso.md / Caratteristiche tecnologie digitali
+- OK Q084 | Ecosistema digitale | answer A: è la base tecnica della trasformazione e trasmissione digitale | distractors B/C/D present | source: 04_Slides_Corso.md / Caratteristiche tecnologie digitali
+- OK Q085 | Ecosistema digitale | answer A: il bit è l'unità minima del digitale e 8 bit formano un byte | distractors B/C/D present | source: 04_Slides_Corso.md / Caratteristiche tecnologie digitali
+- OK Q086 | Ecosistema digitale | answer A: permettono di misurare e organizzare l'informazione digitale | distractors B/C/D present | source: 04_Slides_Corso.md / Caratteristiche tecnologie digitali
+- OK Q087 | Ecosistema digitale | answer A: il digitale cambia discretamente tra stati, mentre l'analogico cambia in modo continuo | distractors B/C/D present | source: 04_Slides_Corso.md / Caratteristiche tecnologie digitali
+- OK Q088 | Ecosistema digitale | answer A: spiega la differenza tra codifica binaria e segnali continui | distractors B/C/D present | source: 04_Slides_Corso.md / Caratteristiche tecnologie digitali
+- OK Q089 | Ecosistema digitale | answer A: ambienti come internet, web, mobile e TV digitale su cui avvengono interazioni e scambi | distractors B/C/D present | source: 04_Slides_Corso.md / Caratteristiche tecnologie digitali
+- OK Q090 | Ecosistema digitale | answer A: abilitano contenuti, comunicazioni e servizi digitali | distractors B/C/D present | source: 04_Slides_Corso.md / Caratteristiche tecnologie digitali
+- OK Q091 | Ecosistema digitale | answer A: dispositivi come laptop, tablet, smartphone, TV e wearable usati per accedere ai servizi digitali | distractors B/C/D present | source: 04_Slides_Corso.md / Caratteristiche tecnologie digitali
+- OK Q092 | Ecosistema digitale | answer A: sono i punti materiali di accesso alle piattaforme | distractors B/C/D present | source: 04_Slides_Corso.md / Caratteristiche tecnologie digitali
+- OK Q093 | Ecosistema digitale | answer A: un sistema di reti di computer che consente il trasporto dei dati | distractors B/C/D present | source: 04_Slides_Corso.md / Caratteristiche tecnologie digitali
+- OK Q094 | Ecosistema digitale | answer A: fornisce l'infrastruttura su cui possono operare web, piattaforme e servizi | distractors B/C/D present | source: 04_Slides_Corso.md / Caratteristiche tecnologie digitali
+- OK Q095 | Ecosistema digitale | answer A: il sistema di navigazione e fruizione dei contenuti presenti su Internet | distractors B/C/D present | source: 04_Slides_Corso.md / Caratteristiche tecnologie digitali
+- OK Q096 | Ecosistema digitale | answer A: permette l'accesso a pagine, siti e contenuti tramite browser e link | distractors B/C/D present | source: 04_Slides_Corso.md / Caratteristiche tecnologie digitali
+- OK Q097 | Ecosistema digitale | answer A: un modello interattivo, dinamico e collaborativo contrapposto alla linearità push del marketing tradizionale | distractors B/C/D present | source: 04_Slides_Corso.md / Caratteristiche tecnologie digitali
+- OK Q098 | Ecosistema digitale | answer A: rende i flussi di comunicazione bidirezionali e aperti alla co-creazione | distractors B/C/D present | source: 04_Slides_Corso.md / Caratteristiche tecnologie digitali
+- OK Q099 | Ecosistema digitale | answer A: l'idea che la capacità dei computer aumenti rapidamente nel tempo, tradizionalmente legata al raddoppio dei transistor | distractors B/C/D present | source: 04_Slides_Corso.md / Caratteristiche tecnologie digitali
+- OK Q100 | Ecosistema digitale | answer A: spiega l'elevata produttività e il progresso delle tecnologie digitali | distractors B/C/D present | source: 04_Slides_Corso.md / Caratteristiche tecnologie digitali
+- OK Q101 | Ecosistema digitale | answer A: l'utilità di una tecnologia di rete cresce circa con il quadrato del numero dei suoi utenti o nodi | distractors B/C/D present | source: 04_Slides_Corso.md / Caratteristiche tecnologie digitali
+- OK Q102 | Ecosistema digitale | answer A: spiega il potenziale diffusivo e gli effetti di rete | distractors B/C/D present | source: 04_Slides_Corso.md / Caratteristiche tecnologie digitali
+- OK Q103 | Ecosistema digitale | answer A: la condizione in cui cambiare tecnologia o piattaforma diventa costoso o difficile | distractors B/C/D present | source: 04_Slides_Corso.md / Caratteristiche tecnologie digitali
+- OK Q104 | Ecosistema digitale | answer A: rafforza la permanenza degli utenti anche quando esistono alternative | distractors B/C/D present | source: 04_Slides_Corso.md / Caratteristiche tecnologie digitali
+- OK Q105 | Ecosistema digitale | answer A: la tensione tra ampiezza del mercato raggiungibile e ricchezza informativa veicolabile | distractors B/C/D present | source: 04_Slides_Corso.md / Caratteristiche tecnologie digitali
+- OK Q106 | Ecosistema digitale | answer A: il digitale attenua il trade-off permettendo ampia portata e informazioni profonde | distractors B/C/D present | source: 04_Slides_Corso.md / Caratteristiche tecnologie digitali
+- OK Q107 | Ecosistema digitale | answer A: la possibilità nei mercati digitali di generare valore anche dalla somma di molti prodotti di nicchia | distractors B/C/D present | source: 04_Slides_Corso.md / Long Tail
+- OK Q108 | Ecosistema digitale | answer A: supera il vincolo fisico dello scaffale e riduce la dipendenza dai soli blockbuster | distractors B/C/D present | source: 04_Slides_Corso.md / Long Tail
+- OK Q109 | Ricerche di mercato online | answer A: una ricerca in cui il web funge da supporto operativo alla raccolta dati | distractors B/C/D present | source: 04_Slides_Corso.md / Ricerche di mercato
+- OK Q110 | Ricerche di mercato online | answer A: usa strumenti online senza avere necessariamente come oggetto i comportamenti digitali | distractors B/C/D present | source: 04_Slides_Corso.md / Ricerche di mercato
+- OK Q111 | Ricerche di mercato online | answer A: una ricerca che studia comportamenti, interazioni o fenomeni che avvengono online | distractors B/C/D present | source: 04_Slides_Corso.md / Ricerche di mercato
+- OK Q112 | Ricerche di mercato online | answer A: mette il web non solo come strumento ma come oggetto dell'indagine | distractors B/C/D present | source: 04_Slides_Corso.md / Ricerche di mercato
+- OK Q113 | Ricerche di mercato online | answer A: dati già disponibili e raccolti in precedenza da altre fonti | distractors B/C/D present | source: 04_Slides_Corso.md / Ricerche di mercato
+- OK Q114 | Ricerche di mercato online | answer A: permettono di partire da informazioni esistenti prima di raccogliere dati primari | distractors B/C/D present | source: 04_Slides_Corso.md / Ricerche di mercato
+- OK Q115 | Ricerche di mercato online | answer A: informazioni raccolte per la prima volta per rispondere a uno specifico problema di ricerca | distractors B/C/D present | source: 04_Slides_Corso.md / Ricerche di mercato
+- OK Q116 | Ricerche di mercato online | answer A: forniscono risposte dirette e aggiornate, ma richiedono tempo e risorse | distractors B/C/D present | source: 04_Slides_Corso.md / Ricerche di mercato
+- OK Q117 | Ricerche di mercato online | answer A: un questionario inviato agli individui tramite posta elettronica | distractors B/C/D present | source: 04_Slides_Corso.md / Ricerche di mercato
+- OK Q118 | Ricerche di mercato online | answer A: consente di raggiungere contatti specifici con un invito diretto alla compilazione | distractors B/C/D present | source: 04_Slides_Corso.md / Ricerche di mercato
+- OK Q119 | Ricerche di mercato online | answer A: un questionario pubblicato sul web, su pagine, piattaforme o social network | distractors B/C/D present | source: 04_Slides_Corso.md / Ricerche di mercato
+- OK Q120 | Ricerche di mercato online | answer A: rende rapida ed economica la raccolta di risposte online | distractors B/C/D present | source: 04_Slides_Corso.md / Ricerche di mercato
+- OK Q121 | Ricerche di mercato online | answer A: una domanda che lascia libertà di risposta all'intervistato | distractors B/C/D present | source: 04_Slides_Corso.md / Ricerche di mercato
+- OK Q122 | Ricerche di mercato online | answer A: permette approfondimenti ma richiede più lavoro di codifica e analisi | distractors B/C/D present | source: 04_Slides_Corso.md / Ricerche di mercato
+- OK Q123 | Ricerche di mercato online | answer A: una domanda in cui il rispondente sceglie tra alternative già proposte | distractors B/C/D present | source: 04_Slides_Corso.md / Ricerche di mercato
+- OK Q124 | Ricerche di mercato online | answer A: facilita codifica, confronto e analisi quantitativa delle risposte | distractors B/C/D present | source: 04_Slides_Corso.md / Ricerche di mercato
+- OK Q125 | Ricerche di mercato online | answer A: una domanda chiusa con due sole alternative di risposta | distractors B/C/D present | source: 04_Slides_Corso.md / Ricerche di mercato
+- OK Q126 | Ricerche di mercato online | answer A: serve quando la variabile può essere rilevata con una scelta binaria | distractors B/C/D present | source: 04_Slides_Corso.md / Ricerche di mercato
+- OK Q127 | Ricerche di mercato online | answer A: una domanda chiusa che propone più alternative selezionabili o una scelta tra varie opzioni | distractors B/C/D present | source: 04_Slides_Corso.md / Ricerche di mercato
+- OK Q128 | Ricerche di mercato online | answer A: permette di misurare preferenze o categorie in modo strutturato | distractors B/C/D present | source: 04_Slides_Corso.md / Ricerche di mercato
+- OK Q129 | Ricerche di mercato online | answer A: una scala di atteggiamento che misura il grado di accordo o intensità rispetto a un'affermazione | distractors B/C/D present | source: 04_Slides_Corso.md / Ricerche di mercato
+- OK Q130 | Ricerche di mercato online | answer A: trasforma percezioni e opinioni in dati confrontabili | distractors B/C/D present | source: 04_Slides_Corso.md / Ricerche di mercato
+- OK Q131 | Ricerche di mercato online | answer A: domande usate per indirizzare i rispondenti verso sezioni pertinenti del questionario | distractors B/C/D present | source: 04_Slides_Corso.md / Ricerche di mercato
+- OK Q132 | Ricerche di mercato online | answer A: evitano di porre domande irrilevanti o non applicabili | distractors B/C/D present | source: 04_Slides_Corso.md / Ricerche di mercato
+- OK Q133 | Ricerche di mercato online | answer A: l'ordine consigliato: introduzione e privacy, domande semplici, domande centrali, socio-demografiche finali | distractors B/C/D present | source: 04_Slides_Corso.md / Ricerche di mercato
+- OK Q134 | Ricerche di mercato online | answer A: riduce abbandono, stress e distorsioni nelle risposte | distractors B/C/D present | source: 04_Slides_Corso.md / Ricerche di mercato
+- OK Q135 | Ricerche di mercato online | answer A: una prova preliminare del questionario prima della somministrazione completa | distractors B/C/D present | source: 04_Slides_Corso.md / Ricerche di mercato
+- OK Q136 | Ricerche di mercato online | answer A: serve a individuare ambiguità, errori e problemi di comprensione | distractors B/C/D present | source: 04_Slides_Corso.md / Ricerche di mercato
+- OK Q137 | Ricerche di mercato online | answer A: la capacità del campione di riflettere correttamente la popolazione di riferimento | distractors B/C/D present | source: 04_Slides_Corso.md / Ricerche di mercato
+- OK Q138 | Ricerche di mercato online | answer A: è una criticità perché online non sempre si controlla chi risponde e quanto il target sia coperto | distractors B/C/D present | source: 04_Slides_Corso.md / Ricerche di mercato
+- OK Q139 | Ricerche di mercato online | answer A: la capacità dello strumento di misurare davvero ciò che intende misurare | distractors B/C/D present | source: 04_Slides_Corso.md / Ricerche di mercato
+- OK Q140 | Ricerche di mercato online | answer A: può essere influenzata da browser, dispositivi, contesto e interpretazione delle scale | distractors B/C/D present | source: 04_Slides_Corso.md / Ricerche di mercato
+- OK Q141 | Customer journey | answer A: un consumatore attivo, connesso e capace di usare molteplici fonti e touchpoint | distractors B/C/D present | source: 04_Slides_Corso.md / Customer Journey
+- OK Q142 | Customer journey | answer A: modifica la relazione brand-cliente rendendola più informata e partecipativa | distractors B/C/D present | source: 04_Slides_Corso.md / Customer Journey
+- OK Q143 | Customer journey | answer A: un consumatore che ricerca, richiede e produce contenuti o valore per il brand | distractors B/C/D present | source: 07_Appunti_Corso.md / Web Marketing
+- OK Q144 | Customer journey | answer A: partecipa alla narrazione e può influenzare altri consumatori | distractors B/C/D present | source: 07_Appunti_Corso.md / Web Marketing
+- OK Q145 | Customer journey | answer A: il processo complessivo che il cliente vive prima, durante e dopo l'accesso all'offerta | distractors B/C/D present | source: 04_Slides_Corso.md / Customer Journey
+- OK Q146 | Customer journey | answer A: permette di osservare interazioni, aspettative, emozioni e ostacoli nel tempo | distractors B/C/D present | source: 04_Slides_Corso.md / Customer Journey
+- OK Q147 | Customer journey | answer A: un momento di interazione tra consumatore e brand su una piattaforma o dispositivo specifico | distractors B/C/D present | source: 04_Slides_Corso.md / Customer Journey
+- OK Q148 | Customer journey | answer A: rende osservabile dove il cliente incontra o valuta l'impresa | distractors B/C/D present | source: 04_Slides_Corso.md / Customer Journey
+- OK Q149 | Customer journey | answer A: un modello lineare in cui il consumatore restringe progressivamente il set di marche fino all'acquisto | distractors B/C/D present | source: 05_Dispense_Approfondimenti.md / McKinsey
+- OK Q150 | Customer journey | answer A: rappresenta il percorso classico prima dei modelli circolari e multi-touchpoint | distractors B/C/D present | source: 05_Dispense_Approfondimenti.md / McKinsey
+- OK Q151 | Customer journey | answer A: un percorso circolare con considerazione iniziale, valutazione attiva, momento d'acquisto ed esperienza post-acquisto | distractors B/C/D present | source: 05_Dispense_Approfondimenti.md / McKinsey
+- OK Q152 | Customer journey | answer A: sostituisce la visione puramente lineare del funnel tradizionale | distractors B/C/D present | source: 05_Dispense_Approfondimenti.md / McKinsey
+- OK Q153 | Customer journey | answer A: la fase in cui il consumatore raccoglie informazioni e può aggiungere o togliere marche dal set considerato | distractors B/C/D present | source: 05_Dispense_Approfondimenti.md / McKinsey
+- OK Q154 | Customer journey | answer A: è fortemente influenzata da recensioni, passaparola ed esperienze consumer-driven | distractors B/C/D present | source: 05_Dispense_Approfondimenti.md / McKinsey
+- OK Q155 | Customer journey | answer A: l'anello di fedeltà alimentato dall'esperienza post-acquisto | distractors B/C/D present | source: 05_Dispense_Approfondimenti.md / McKinsey
+- OK Q156 | Customer journey | answer A: può accorciare o riattivare percorsi decisionali successivi | distractors B/C/D present | source: 05_Dispense_Approfondimenti.md / McKinsey
+- OK Q157 | Customer journey | answer A: la fase in cui l'uso del prodotto costruisce aspettative e influenza futuri percorsi decisionali | distractors B/C/D present | source: 05_Dispense_Approfondimenti.md / McKinsey
+- OK Q158 | Customer journey | answer A: è cruciale per alimentare il loyalty loop | distractors B/C/D present | source: 05_Dispense_Approfondimenti.md / McKinsey
+- OK Q159 | Customer journey | answer A: il momento in cui il consumatore cerca online informazioni, recensioni e confronti prima dell'acquisto | distractors B/C/D present | source: 07_Appunti_Corso.md / Web Marketing
+- OK Q160 | Customer journey | answer A: anticipa il contatto diretto con prodotto o venditore e influenza la decisione | distractors B/C/D present | source: 07_Appunti_Corso.md / Web Marketing
+- OK Q161 | Customer journey | answer A: il First Moment of Truth, cioè il momento dello scaffale fisico o digitale in cui il consumatore incontra l'offerta | distractors B/C/D present | source: 07_Appunti_Corso.md / Web Marketing
+- OK Q162 | Customer journey | answer A: riguarda la scelta nel punto di acquisto o nella pagina prodotto | distractors B/C/D present | source: 07_Appunti_Corso.md / Web Marketing
+- OK Q163 | Customer journey | answer A: il Second Moment of Truth, cioè l'esperienza d'uso del prodotto dopo l'acquisto | distractors B/C/D present | source: 07_Appunti_Corso.md / Web Marketing
+- OK Q164 | Customer journey | answer A: può generare contenuti e passaparola che diventano ZMOT per altri consumatori | distractors B/C/D present | source: 07_Appunti_Corso.md / Web Marketing
+- OK Q165 | Customer journey | answer A: interazioni progettate e controllate direttamente dall'impresa | distractors B/C/D present | source: 04_Slides_Corso.md / Customer Journey
+- OK Q166 | Customer journey | answer A: sono touchpoint su cui il brand ha maggiore governo | distractors B/C/D present | source: 04_Slides_Corso.md / Customer Journey
+- OK Q167 | Customer journey | answer A: azioni del cliente durante la journey che l'impresa non controlla direttamente | distractors B/C/D present | source: 04_Slides_Corso.md / Customer Journey
+- OK Q168 | Customer journey | answer A: mostrano come il cliente costruisce esperienza anche fuori dai canali gestiti | distractors B/C/D present | source: 04_Slides_Corso.md / Customer Journey
+- OK Q169 | Customer journey | answer A: una rappresentazione narrativa e visuale dell'esperienza del cliente lungo fasi e touchpoint | distractors B/C/D present | source: 04_Slides_Corso.md / Customer Journey
+- OK Q170 | Customer journey | answer A: aiuta a individuare frizioni, insight e opportunità di miglioramento | distractors B/C/D present | source: 04_Slides_Corso.md / Customer Journey
+- OK Q171 | Customer journey | answer A: la fase in cui si definiscono segmento/persona e parti del percorso da coprire | distractors B/C/D present | source: 04_Slides_Corso.md / Customer Journey
+- OK Q172 | Customer journey | answer A: delimita il perimetro dell'analisi prima della raccolta dati | distractors B/C/D present | source: 04_Slides_Corso.md / Customer Journey
+- OK Q173 | Customer journey | answer A: una caratterizzazione fittizia dei clienti migliori basata su informazioni reali | distractors B/C/D present | source: 04_Slides_Corso.md / Buyer personas
+- OK Q174 | Customer journey | answer A: aiuta a progettare contenuti, soluzioni e campagne più aderenti ai segmenti | distractors B/C/D present | source: 04_Slides_Corso.md / Buyer personas
+- OK Q175 | Customer journey | answer A: la soddisfazione deriva dal confronto tra performance percepita e aspettative | distractors B/C/D present | source: 04_Slides_Corso.md / Buyer personas
+- OK Q176 | Customer journey | answer A: spiega perché la customer satisfaction non dipende solo dalla qualità tecnica assoluta | distractors B/C/D present | source: 04_Slides_Corso.md / Buyer personas
+- OK Q177 | Customer journey | answer A: un livello di soddisfazione superiore legato al superamento significativo delle aspettative | distractors B/C/D present | source: 04_Slides_Corso.md / Buyer personas
+- OK Q178 | Customer journey | answer A: può rafforzare fedeltà, passaparola e relazione con il brand | distractors B/C/D present | source: 04_Slides_Corso.md / Buyer personas
+- OK Q179 | Customer journey | answer A: uno stato psicologico e comportamentale che include interazioni oltre l'acquisto | distractors B/C/D present | source: 04_Slides_Corso.md / Buyer personas
+- OK Q180 | Customer journey | answer A: può generare co-creazione, partecipazione e valore o anche effetti negativi | distractors B/C/D present | source: 04_Slides_Corso.md / Buyer personas
+- OK Q181 | Business model ed e-commerce | answer A: la logica con cui un'organizzazione crea, distribuisce e cattura valore | distractors B/C/D present | source: 04_Slides_Corso.md / Business Model Digitali
+- OK Q182 | Business model ed e-commerce | answer A: racconta come l'impresa funziona economicamente e strategicamente | distractors B/C/D present | source: 04_Slides_Corso.md / Business Model Digitali
+- OK Q183 | Business model ed e-commerce | answer A: uno schema che descrive value proposition, segmenti, canali, relazioni, ricavi, risorse, attività, partner e costi | distractors B/C/D present | source: 04_Slides_Corso.md / Business Model Digitali
+- OK Q184 | Business model ed e-commerce | answer A: aiuta a visualizzare le componenti chiave del modello d'impresa | distractors B/C/D present | source: 04_Slides_Corso.md / Business Model Digitali
+- OK Q185 | Business model ed e-commerce | answer A: i gruppi di clienti a cui l'impresa intende offrire valore | distractors B/C/D present | source: 04_Slides_Corso.md / Business Model Digitali
+- OK Q186 | Business model ed e-commerce | answer A: orientano value proposition, canali, relazioni e ricavi | distractors B/C/D present | source: 04_Slides_Corso.md / Business Model Digitali
+- OK Q187 | Business model ed e-commerce | answer A: i modi con cui l'impresa raggiunge i segmenti e consegna la value proposition | distractors B/C/D present | source: 04_Slides_Corso.md / Business Model Digitali
+- OK Q188 | Business model ed e-commerce | answer A: collegano offerta e cliente lungo comunicazione, distribuzione e vendita | distractors B/C/D present | source: 04_Slides_Corso.md / Business Model Digitali
+- OK Q189 | Business model ed e-commerce | answer A: il tipo di relazione che l'impresa stabilisce con ciascun segmento | distractors B/C/D present | source: 04_Slides_Corso.md / Business Model Digitali
+- OK Q190 | Business model ed e-commerce | answer A: definisce assistenza, automazione, community o personalizzazione del rapporto | distractors B/C/D present | source: 04_Slides_Corso.md / Business Model Digitali
+- OK Q191 | Business model ed e-commerce | answer A: il modo specifico in cui l'impresa genera fatturato dai segmenti serviti | distractors B/C/D present | source: 04_Slides_Corso.md / Business Model Digitali
+- OK Q192 | Business model ed e-commerce | answer A: è una componente del business model dedicata ai flussi di ricavo | distractors B/C/D present | source: 04_Slides_Corso.md / Business Model Digitali
+- OK Q193 | Business model ed e-commerce | answer A: l'insieme dei principali costi necessari per far funzionare il business model | distractors B/C/D present | source: 04_Slides_Corso.md / Business Model Digitali
+- OK Q194 | Business model ed e-commerce | answer A: aiuta a valutare sostenibilità economica e formula di profitto | distractors B/C/D present | source: 04_Slides_Corso.md / Business Model Digitali
+- OK Q195 | Business model ed e-commerce | answer A: un modello in cui una versione base gratuita convive con funzionalità premium a pagamento | distractors B/C/D present | source: 04_Slides_Corso.md / Business Model Digitali
+- OK Q196 | Business model ed e-commerce | answer A: riduce la barriera d'ingresso e monetizza gli utenti che percepiscono valore aggiuntivo | distractors B/C/D present | source: 04_Slides_Corso.md / Business Model Digitali
+- OK Q197 | Business model ed e-commerce | answer A: un modello di ricavo basato sulla vendita di spazi o visibilità pubblicitaria | distractors B/C/D present | source: 04_Slides_Corso.md / Business Model Digitali
+- OK Q198 | Business model ed e-commerce | answer A: monetizza l'attenzione o il traffico generato dalla piattaforma | distractors B/C/D present | source: 04_Slides_Corso.md / Business Model Digitali
+- OK Q199 | Business model ed e-commerce | answer A: un modello in cui si genera ricavo indirizzando traffico o vendite verso un altro soggetto | distractors B/C/D present | source: 04_Slides_Corso.md / Business Model Digitali
+- OK Q200 | Business model ed e-commerce | answer A: premia la capacità di portare utenti qualificati a un'offerta di terzi | distractors B/C/D present | source: 04_Slides_Corso.md / Business Model Digitali
+- OK Q201 | Business model ed e-commerce | answer A: un modello in cui la piattaforma trattiene una commissione sulle transazioni abilitate | distractors B/C/D present | source: 04_Slides_Corso.md / Business Model Digitali
+- OK Q202 | Business model ed e-commerce | answer A: è tipico di marketplace che mettono in contatto domanda e offerta | distractors B/C/D present | source: 04_Slides_Corso.md / Business Model Digitali
+- OK Q203 | Business model ed e-commerce | answer A: una piattaforma che mette in relazione due gruppi distinti di utenti che traggono beneficio reciproco | distractors B/C/D present | source: 07_Appunti_Corso.md / Web Marketing
+- OK Q204 | Business model ed e-commerce | answer A: deve attrarre entrambe le parti perché il valore dipende dalla presenza dell'altra | distractors B/C/D present | source: 07_Appunti_Corso.md / Web Marketing
+- OK Q205 | Business model ed e-commerce | answer A: l'aumento di valore di una piattaforma al crescere del numero di utenti | distractors B/C/D present | source: 07_Appunti_Corso.md / Web Marketing
+- OK Q206 | Business model ed e-commerce | answer A: spiega perché le piattaforme possono diventare più utili e attrattive con la scala | distractors B/C/D present | source: 07_Appunti_Corso.md / Web Marketing
+- OK Q207 | Business model ed e-commerce | answer A: un insieme di piattaforme digitali commerciali che facilitano lo scambio di beni e servizi tra attori | distractors B/C/D present | source: 05_Dispense_Approfondimenti.md / Sharing economy continuum
+- OK Q208 | Business model ed e-commerce | answer A: si colloca lungo un continuum tra condivisione e scambio economico | distractors B/C/D present | source: 05_Dispense_Approfondimenti.md / Sharing economy continuum
+- OK Q209 | Business model ed e-commerce | answer A: una pratica orientata alla condivisione con bassa enfasi su denaro e transazione bilanciata | distractors B/C/D present | source: 05_Dispense_Approfondimenti.md / Sharing economy continuum
+- OK Q210 | Business model ed e-commerce | answer A: valorizza comunità, socializzazione e accesso più che profitto immediato | distractors B/C/D present | source: 05_Dispense_Approfondimenti.md / Sharing economy continuum
+- OK Q211 | Business model ed e-commerce | answer A: una pratica che combina elementi di sharing e di exchange | distractors B/C/D present | source: 05_Dispense_Approfondimenti.md / Sharing economy continuum
+- OK Q212 | Business model ed e-commerce | answer A: richiede comunicazione coerente perché contiene sia comunità sia transazione | distractors B/C/D present | source: 05_Dispense_Approfondimenti.md / Sharing economy continuum
+- OK Q213 | Business model ed e-commerce | answer A: l'insieme delle attività commerciali prima, durante e dopo lo scambio realizzate tramite sistemi digitali | distractors B/C/D present | source: 04_Slides_Corso.md / E-commerce
+- OK Q214 | Business model ed e-commerce | answer A: estende la transazione includendo informazione, relazione, pagamento e servizio | distractors B/C/D present | source: 04_Slides_Corso.md / E-commerce
+- OK Q215 | Business model ed e-commerce | answer A: commercio elettronico tra due organizzazioni | distractors B/C/D present | source: 04_Slides_Corso.md / E-commerce
+- OK Q216 | Business model ed e-commerce | answer A: rappresenta una delle categorie più rilevanti in termini economici | distractors B/C/D present | source: 04_Slides_Corso.md / E-commerce
+- OK Q217 | Business model ed e-commerce | answer A: commercio elettronico tra impresa fornitrice e acquirente finale | distractors B/C/D present | source: 04_Slides_Corso.md / E-commerce
+- OK Q218 | Business model ed e-commerce | answer A: è la forma più intuitiva per il consumatore finale online | distractors B/C/D present | source: 04_Slides_Corso.md / E-commerce
+- OK Q219 | Business model ed e-commerce | answer A: commercio elettronico tra consumatori privati | distractors B/C/D present | source: 04_Slides_Corso.md / E-commerce
+- OK Q220 | Business model ed e-commerce | answer A: abilita scambi peer-to-peer spesso mediati da marketplace | distractors B/C/D present | source: 04_Slides_Corso.md / E-commerce
+- OK Q221 | Business model ed e-commerce | answer A: una relazione in cui l'individuo offre beni, idee o condizioni a un'organizzazione | distractors B/C/D present | source: 04_Slides_Corso.md / E-commerce
+- OK Q222 | Business model ed e-commerce | answer A: ribalta la direzione classica della vendita impresa-cliente | distractors B/C/D present | source: 04_Slides_Corso.md / E-commerce
+- OK Q223 | Business model ed e-commerce | answer A: un'estensione del B2C in cui i consumatori interagiscono per scoprire prodotti e decidere insieme | distractors B/C/D present | source: 04_Slides_Corso.md / E-commerce
+- OK Q224 | Business model ed e-commerce | answer A: integra relazione sociale, informazione e acquisto | distractors B/C/D present | source: 04_Slides_Corso.md / E-commerce
+- OK Q225 | Business model ed e-commerce | answer A: la riduzione del rischio percepito prima e dopo l'acquisto online | distractors B/C/D present | source: 04_Slides_Corso.md / E-commerce
+- OK Q226 | Business model ed e-commerce | answer A: è critica perché il cliente non ha contatto fisico immediato con venditore e prodotto | distractors B/C/D present | source: 04_Slides_Corso.md / E-commerce
+- OK Q227 | Business model ed e-commerce | answer A: la mancanza di contatto diretto con prodotto e venditore che può ostacolare l'acquisto | distractors B/C/D present | source: 04_Slides_Corso.md / E-commerce
+- OK Q228 | Business model ed e-commerce | answer A: va ridotta con contenuti visuali, descrizioni, video e realtà aumentata | distractors B/C/D present | source: 04_Slides_Corso.md / E-commerce
+- OK Q229 | Business model ed e-commerce | answer A: una possibile frizione nel percorso d'acquisto online | distractors B/C/D present | source: 04_Slides_Corso.md / E-commerce
+- OK Q230 | Business model ed e-commerce | answer A: può aumentare abbandono se imposta prima del checkout senza valore percepito | distractors B/C/D present | source: 04_Slides_Corso.md / E-commerce
+- OK Q231 | Business model ed e-commerce | answer A: la pagina cruciale in cui l'utente verifica prodotti, costi e decisione prima dell'acquisto | distractors B/C/D present | source: 04_Slides_Corso.md / E-commerce
+- OK Q232 | Business model ed e-commerce | answer A: è un punto delicato in cui frizioni, costi inattesi o complessità possono generare abbandono | distractors B/C/D present | source: 04_Slides_Corso.md / E-commerce
+- OK Q233 | Business model ed e-commerce | answer A: il costo sostenuto per ottenere un nuovo cliente | distractors B/C/D present | source: 04_Slides_Corso.md / E-commerce
+- OK Q234 | Business model ed e-commerce | answer A: è critico perché traffico e conversioni devono essere economicamente sostenibili | distractors B/C/D present | source: 04_Slides_Corso.md / E-commerce
+- OK Q235 | Business model ed e-commerce | answer A: uno strumento usato per garantire identità del sito e sicurezza del canale di trasferimento dati | distractors B/C/D present | source: 04_Slides_Corso.md / E-commerce
+- OK Q236 | Business model ed e-commerce | answer A: aumenta fiducia e sicurezza nelle transazioni online | distractors B/C/D present | source: 04_Slides_Corso.md / E-commerce
+- OK Q237 | Business model ed e-commerce | answer A: l'assistenza che accompagna l'utente nelle fasi delicate del rapporto con lo store digitale | distractors B/C/D present | source: 04_Slides_Corso.md / E-commerce
+- OK Q238 | Business model ed e-commerce | answer A: compensa l'assenza di rapporto umano diretto e riduce incertezza | distractors B/C/D present | source: 04_Slides_Corso.md / E-commerce
+- OK Q239 | Granato, search e operational | answer A: l'applicazione di nuove idee per migliorare prodotti, servizi o processi generando valore | distractors B/C/D present | source: converted-md/slide parte 2/01 Granato
+- OK Q240 | Granato, search e operational | answer A: distingue il miglioramento utile dalla semplice creazione di qualcosa di nuovo | distractors B/C/D present | source: converted-md/slide parte 2/01 Granato
+- OK Q241 | Granato, search e operational | answer A: la conversione di documenti o informazioni in formato digitale | distractors B/C/D present | source: converted-md/slide parte 2/01 Granato
+- OK Q242 | Granato, search e operational | answer A: è il primo livello del passaggio al digitale | distractors B/C/D present | source: converted-md/slide parte 2/01 Granato
+- OK Q243 | Granato, search e operational | answer A: l'automazione e ottimizzazione di processi aziendali tramite strumenti digitali | distractors B/C/D present | source: converted-md/slide parte 2/01 Granato
+- OK Q244 | Granato, search e operational | answer A: usa il digitale per rendere più efficienti attività esistenti | distractors B/C/D present | source: converted-md/slide parte 2/01 Granato
+- OK Q245 | Granato, search e operational | answer A: un cambiamento strategico e culturale che ridefinisce come l'azienda opera e genera valore attraverso il digitale | distractors B/C/D present | source: converted-md/slide parte 2/01 Granato
+- OK Q246 | Granato, search e operational | answer A: tocca modello di business, processi, organizzazione ed esperienza cliente | distractors B/C/D present | source: converted-md/slide parte 2/01 Granato
+- OK Q247 | Granato, search e operational | answer A: la promessa distintiva che spiega perché scegliere un'offerta rispetto a un'alternativa specifica | distractors B/C/D present | source: converted-md/slide parte 2/02 Granato
+- OK Q248 | Granato, search e operational | answer A: aiuta a emergere in un contesto digitale con molti messaggi e poca attenzione | distractors B/C/D present | source: converted-md/slide parte 2/02 Granato
+- OK Q249 | Granato, search e operational | answer A: ciò che l'azienda dichiara di essere, spesso più superficiale e imitabile | distractors B/C/D present | source: converted-md/slide parte 2/02 Granato
+- OK Q250 | Granato, search e operational | answer A: rappresenta il livello dichiarativo della promessa di valore | distractors B/C/D present | source: converted-md/slide parte 2/02 Granato
+- OK Q251 | Granato, search e operational | answer A: ciò che genera un'asimmetria competitiva reale percepita dal mercato | distractors B/C/D present | source: converted-md/slide parte 2/02 Granato
+- OK Q252 | Granato, search e operational | answer A: rende più credibile e difendibile la promessa comunicativa | distractors B/C/D present | source: converted-md/slide parte 2/02 Granato
+- OK Q253 | Granato, search e operational | answer A: la situazione in cui il consumatore non sa ancora di aver bisogno del prodotto | distractors B/C/D present | source: converted-md/slide parte 2/02 Granato
+- OK Q254 | Granato, search e operational | answer A: richiede comunicazione capace di attivare consapevolezza | distractors B/C/D present | source: converted-md/slide parte 2/02 Granato
+- OK Q255 | Granato, search e operational | answer A: la situazione in cui l'utente sa cosa vuole e cerca attivamente una soluzione | distractors B/C/D present | source: converted-md/slide parte 2/02 Granato
+- OK Q256 | Granato, search e operational | answer A: si intercetta spesso con motori di ricerca e contenuti coerenti con l'intento | distractors B/C/D present | source: converted-md/slide parte 2/02 Granato
+- OK Q257 | Granato, search e operational | answer A: il flusso di utenti in target e realmente interessati al prodotto o servizio | distractors B/C/D present | source: converted-md/slide parte 2/02 Granato
+- OK Q258 | Granato, search e operational | answer A: conta più del semplice volume di visite perché aumenta probabilità di conversione | distractors B/C/D present | source: converted-md/slide parte 2/02 Granato
+- OK Q259 | Granato, search e operational | answer A: l'ottimizzazione del sito e dei contenuti per ottenere traffico organico dai motori di ricerca | distractors B/C/D present | source: converted-md/slide parte 2/03 Granato
+- OK Q260 | Granato, search e operational | answer A: mira a rendere una pagina rilevante e autorevole rispetto alle query degli utenti | distractors B/C/D present | source: converted-md/slide parte 2/03 Granato
+- OK Q261 | Granato, search e operational | answer A: attività di marketing sui motori di ricerca, in particolare visibilità a pagamento tramite annunci | distractors B/C/D present | source: converted-md/appunti-web-marketing/Web Marketing.md
+- OK Q262 | Granato, search e operational | answer A: consentono risultati più rapidi ma richiedono budget pubblicitario | distractors B/C/D present | source: converted-md/appunti-web-marketing/Web Marketing.md
+- OK Q263 | Granato, search e operational | answer A: la fase in cui i bot del motore di ricerca scansionano URL, codice e contenuti | distractors B/C/D present | source: converted-md/slide parte 2/03 Granato
+- OK Q264 | Granato, search e operational | answer A: è il primo passaggio perché una pagina possa essere scoperta | distractors B/C/D present | source: converted-md/slide parte 2/03 Granato
+- OK Q265 | Granato, search e operational | answer A: la fase in cui il motore archivia e organizza il contenuto trovato nell'indice | distractors B/C/D present | source: converted-md/slide parte 2/03 Granato
+- OK Q266 | Granato, search e operational | answer A: fa diventare la pagina candidata a comparire per le query | distractors B/C/D present | source: converted-md/slide parte 2/03 Granato
+- OK Q267 | Granato, search e operational | answer A: la fase in cui il motore ordina le pagine in base alla pertinenza rispetto alla query | distractors B/C/D present | source: converted-md/slide parte 2/03 Granato
+- OK Q268 | Granato, search e operational | answer A: determina la visibilità effettiva nella SERP | distractors B/C/D present | source: converted-md/slide parte 2/03 Granato
+- OK Q269 | Granato, search e operational | answer A: l'ottimizzazione di pagine web e contenuti interni al sito | distractors B/C/D present | source: converted-md/slide parte 2/03 Granato
+- OK Q270 | Granato, search e operational | answer A: lavora su elementi che il sito controlla direttamente | distractors B/C/D present | source: converted-md/slide parte 2/03 Granato
+- OK Q271 | Granato, search e operational | answer A: le azioni esterne al sito che contribuiscono al posizionamento | distractors B/C/D present | source: converted-md/slide parte 2/03 Granato
+- OK Q272 | Granato, search e operational | answer A: costruisce autorevolezza tramite segnali come menzioni e backlink | distractors B/C/D present | source: converted-md/slide parte 2/03 Granato
+- OK Q273 | Granato, search e operational | answer A: l'ottimizzazione degli aspetti tecnici del sito che permettono scansione, indicizzazione e buona esperienza | distractors B/C/D present | source: converted-md/slide parte 2/03 Granato
+- OK Q274 | Granato, search e operational | answer A: lavora dietro le quinte su struttura, performance e accessibilità tecnica | distractors B/C/D present | source: converted-md/slide parte 2/03 Granato
+- OK Q275 | Granato, search e operational | answer A: il motivo principale per cui un utente esegue una ricerca online | distractors B/C/D present | source: converted-md/slide parte 2/04 Gabriele
+- OK Q276 | Granato, search e operational | answer A: guida la creazione di contenuti pertinenti e il miglioramento del traffico qualificato | distractors B/C/D present | source: converted-md/slide parte 2/04 Gabriele
+- OK Q277 | Granato, search e operational | answer A: un intento di ricerca in cui l'utente cerca una risposta o spiegazione | distractors B/C/D present | source: converted-md/appunti-web-marketing/Web Marketing.md
+- OK Q278 | Granato, search e operational | answer A: di solito indica una fase fredda o iniziale del percorso | distractors B/C/D present | source: converted-md/appunti-web-marketing/Web Marketing.md
+- OK Q279 | Granato, search e operational | answer A: un intento in cui l'utente cerca un sito, una pagina o un luogo specifico | distractors B/C/D present | source: converted-md/appunti-web-marketing/Web Marketing.md
+- OK Q280 | Granato, search e operational | answer A: indica che la destinazione è già nota almeno in parte | distractors B/C/D present | source: converted-md/appunti-web-marketing/Web Marketing.md
+- OK Q281 | Granato, search e operational | answer A: un intento in cui l'utente sta investigando e confrontando prima dell'acquisto | distractors B/C/D present | source: converted-md/appunti-web-marketing/Web Marketing.md
+- OK Q282 | Granato, search e operational | answer A: rappresenta un lead più caldo e una fase avanzata della journey | distractors B/C/D present | source: converted-md/appunti-web-marketing/Web Marketing.md
+- OK Q283 | Granato, search e operational | answer A: un intento in cui l'utente è già orientato a compiere un acquisto o un'azione | distractors B/C/D present | source: converted-md/appunti-web-marketing/Web Marketing.md
+- OK Q284 | Granato, search e operational | answer A: richiede pagine capaci di ridurre frizioni e sostenere la conversione | distractors B/C/D present | source: converted-md/appunti-web-marketing/Web Marketing.md
+- OK Q285 | Granato, search e operational | answer A: una risposta generata dall'IA di Google mostrata sopra i risultati organici sintetizzando più fonti | distractors B/C/D present | source: converted-md/slide parte 2/05 Granato
+- OK Q286 | Granato, search e operational | answer A: trasforma il motore di ricerca in motore di risposta e può ridurre il click verso i siti | distractors B/C/D present | source: converted-md/slide parte 2/05 Granato
+- OK Q287 | Granato, search e operational | answer A: Generative Engine Optimization, cioè ottimizzazione dei contenuti per essere usati o citati da motori generativi | distractors B/C/D present | source: converted-md/appunti-web-marketing/Web Marketing.md
+- OK Q288 | Granato, search e operational | answer A: nasce con i risultati AI e premia qualità, specificità e strutturazione del contenuto | distractors B/C/D present | source: converted-md/appunti-web-marketing/Web Marketing.md
+- OK Q289 | Granato, search e operational | answer A: l'attività di trovare e analizzare le parole o frasi usate dal pubblico nei motori di ricerca | distractors B/C/D present | source: converted-md/slide parte 2/05 Granato
+- OK Q290 | Granato, search e operational | answer A: la keyword diventa proxy della domanda e dell'intento dell'utente | distractors B/C/D present | source: converted-md/slide parte 2/05 Granato
+- OK Q291 | Granato, search e operational | answer A: query di ricerca più lunghe e specifiche con volumi più bassi e spesso conversione più alta | distractors B/C/D present | source: converted-md/slide parte 2/05 Granato
+- OK Q292 | Granato, search e operational | answer A: sono utili perché più vicine a bisogni precisi e meno competitive | distractors B/C/D present | source: converted-md/slide parte 2/05 Granato
+- OK Q293 | Granato, search e operational | answer A: il numero di volte in cui una keyword viene cercata in un intervallo di tempo | distractors B/C/D present | source: converted-md/slide parte 2/05 Granato
+- OK Q294 | Granato, search e operational | answer A: aiuta a stimare il potenziale traffico ma va letto insieme a rilevanza e concorrenza | distractors B/C/D present | source: converted-md/slide parte 2/05 Granato
+- OK Q295 | Granato, search e operational | answer A: il grado di fiducia e autorevolezza percepito dai motori di ricerca verso una fonte | distractors B/C/D present | source: converted-md/slide parte 2/05 Granato
+- OK Q296 | Granato, search e operational | answer A: influenza la capacità di competere su keyword presidiate da fonti forti | distractors B/C/D present | source: converted-md/slide parte 2/05 Granato
+- OK Q297 | Granato, search e operational | answer A: link provenienti da siti affidabili che possono rafforzare autorità e posizionamento organico | distractors B/C/D present | source: converted-md/appunti.md
+- OK Q298 | Granato, search e operational | answer A: sono un segnale esterno di fiducia per la SEO off-page | distractors B/C/D present | source: converted-md/appunti.md
+- OK Q299 | Granato, search e operational | answer A: attività promozionali online realizzate tramite sponsorizzazioni a pagamento | distractors B/C/D present | source: converted-md/appunti-web-marketing/Web Marketing.md
+- OK Q300 | Granato, search e operational | answer A: permette targeting, flessibilità, modifiche rapide e budget scalabile | distractors B/C/D present | source: converted-md/appunti-web-marketing/Web Marketing.md
+- OK Q301 | Granato, search e operational | answer A: annunci mostrati nelle pagine dei risultati dei motori di ricerca | distractors B/C/D present | source: converted-md/appunti-web-marketing/Web Marketing.md
+- OK Q302 | Granato, search e operational | answer A: intercetta utenti che stanno formulando una query esplicita | distractors B/C/D present | source: converted-md/appunti-web-marketing/Web Marketing.md
+- OK Q303 | Granato, search e operational | answer A: annunci con elementi testuali e visivi che appaiono su siti, app o dispositivi | distractors B/C/D present | source: converted-md/appunti-web-marketing/Web Marketing.md
+- OK Q304 | Granato, search e operational | answer A: lavora sulla visibilità in spazi pubblicitari esterni alla SERP organica | distractors B/C/D present | source: converted-md/appunti-web-marketing/Web Marketing.md
+- OK Q305 | Granato, search e operational | answer A: annunci video mostrati prima, durante o dopo un contenuto video | distractors B/C/D present | source: converted-md/appunti-web-marketing/Web Marketing.md
+- OK Q306 | Granato, search e operational | answer A: sfrutta il contesto di fruizione video per veicolare messaggi promozionali | distractors B/C/D present | source: converted-md/appunti-web-marketing/Web Marketing.md
+- OK Q307 | Granato, search e operational | answer A: annunci video mostrati in contenuti streaming trasmessi via Internet | distractors B/C/D present | source: converted-md/appunti-web-marketing/Web Marketing.md
+- OK Q308 | Granato, search e operational | answer A: raggiunge utenti su servizi over-the-top non via satellite o cavo tradizionale | distractors B/C/D present | source: converted-md/appunti-web-marketing/Web Marketing.md
+- OK Q309 | Granato, search e operational | answer A: il costo pagato ogni volta che un utente clicca su un annuncio | distractors B/C/D present | source: converted-md/appunti-web-marketing/Web Marketing.md
+- OK Q310 | Granato, search e operational | answer A: misura l'efficienza economica della generazione di click paid | distractors B/C/D present | source: converted-md/appunti-web-marketing/Web Marketing.md
+- OK Q311 | Granato, search e operational | answer A: il costo sostenuto per mille impression pubblicitarie | distractors B/C/D present | source: converted-md/appunti-web-marketing/Web Marketing.md
+- OK Q312 | Granato, search e operational | answer A: è utile per campagne orientate alla copertura o alla visibilità | distractors B/C/D present | source: converted-md/appunti-web-marketing/Web Marketing.md
+- OK Q313 | Granato, search e operational | answer A: il ritorno sulla spesa pubblicitaria, cioè ricavi attribuiti alla campagna rispetto al budget speso | distractors B/C/D present | source: converted-md/appunti-web-marketing/Web Marketing.md
+- OK Q314 | Granato, search e operational | answer A: valuta la resa economica specifica dell'investimento advertising | distractors B/C/D present | source: converted-md/appunti-web-marketing/Web Marketing.md
+- OK Q315 | Granato, search e operational | answer A: il rapporto tra spesa pubblicitaria e vendite attribuite agli annunci | distractors B/C/D present | source: converted-md/appunti-web-marketing/Web Marketing.md
+- OK Q316 | Granato, search e operational | answer A: indica quanto pesa l'advertising sulle vendite generate | distractors B/C/D present | source: converted-md/appunti-web-marketing/Web Marketing.md
+- OK Q317 | Granato, search e operational | answer A: l'analisi dei dati di traffico e comportamento degli utenti su siti e piattaforme digitali | distractors B/C/D present | source: converted-md/slide parte 2/07 Gabriele
+- OK Q318 | Granato, search e operational | answer A: serve a migliorare esperienza, visibilità, contenuti e conversioni | distractors B/C/D present | source: converted-md/slide parte 2/07 Gabriele
+- OK Q319 | Granato, search e operational | answer A: la fase in cui si crea awareness e si cattura interesse portando utenti al sito | distractors B/C/D present | source: converted-md/slide parte 2/07 Gabriele
+- OK Q320 | Granato, search e operational | answer A: permette di capire da quali canali arrivano utenti nuovi o esistenti | distractors B/C/D present | source: converted-md/slide parte 2/07 Gabriele
+- OK Q321 | Granato, search e operational | answer A: il rapporto tra visite di una sola pagina e totale delle visite | distractors B/C/D present | source: converted-md/slide parte 2/07 Gabriele
+- OK Q322 | Granato, search e operational | answer A: aiuta a valutare se gli utenti interagiscono oltre la prima pagina | distractors B/C/D present | source: converted-md/slide parte 2/07 Gabriele
+- OK Q323 | Granato, search e operational | answer A: il traffico arrivato al sito tramite ricerca gratuita non a pagamento | distractors B/C/D present | source: converted-md/slide parte 2/07 Gabriele
+- OK Q324 | Granato, search e operational | answer A: distingue visite provenienti da risultati organici rispetto a CPC o referral | distractors B/C/D present | source: converted-md/slide parte 2/07 Gabriele
+- OK Q325 | Granato, search e operational | answer A: un'azione desiderata compiuta dall'utente sul sito che genera una conversione | distractors B/C/D present | source: converted-md/slide parte 2/07 Gabriele
+- OK Q326 | Granato, search e operational | answer A: traduce un comportamento rilevante in dato misurabile | distractors B/C/D present | source: converted-md/slide parte 2/07 Gabriele
+- OK Q327 | Granato, search e operational | answer A: l'uso della posta elettronica per inviare messaggi diretti a clienti o potenziali clienti | distractors B/C/D present | source: converted-md/slide parte 2/08 Gabriele
+- OK Q328 | Granato, search e operational | answer A: mira a costruire relazione di valore e spingere alla conversione | distractors B/C/D present | source: converted-md/slide parte 2/08 Gabriele
+- OK Q329 | Granato, search e operational | answer A: un'email periodica inviata per informare su novità, prodotti, promozioni o aggiornamenti | distractors B/C/D present | source: converted-md/slide parte 2/08 Gabriele
+- OK Q330 | Granato, search e operational | answer A: mantiene vivo il rapporto con gli iscritti attraverso contenuti pertinenti | distractors B/C/D present | source: converted-md/slide parte 2/08 Gabriele
+- OK Q331 | Granato, search e operational | answer A: un'email inviata in risposta a un'azione specifica del cliente | distractors B/C/D present | source: converted-md/slide parte 2/08 Gabriele
+- OK Q332 | Granato, search e operational | answer A: conferma o supporta una transazione, iscrizione o richiesta | distractors B/C/D present | source: converted-md/slide parte 2/08 Gabriele
+- OK Q333 | Granato, search e operational | answer A: un'email usata per recuperare utenti che hanno abbandonato il carrello o non completato l'acquisto | distractors B/C/D present | source: converted-md/slide parte 2/08 Gabriele
+- OK Q334 | Granato, search e operational | answer A: riattiva un'intenzione già emersa nel percorso di conversione | distractors B/C/D present | source: converted-md/slide parte 2/08 Gabriele
+- OK Q335 | Granato, search e operational | answer A: la prima informazione letta dal destinatario, che deve essere chiara, breve e coinvolgente | distractors B/C/D present | source: converted-md/slide parte 2/08 Gabriele
+- OK Q336 | Granato, search e operational | answer A: ha forte impatto sull'apertura dell'email | distractors B/C/D present | source: converted-md/slide parte 2/08 Gabriele
+- OK Q337 | Granato, search e operational | answer A: l'adattamento del messaggio a dati demografici, comportamenti e livelli di coinvolgimento | distractors B/C/D present | source: converted-md/slide parte 2/08 Gabriele
+- OK Q338 | Granato, search e operational | answer A: aumenta engagement e percezione di rilevanza del brand | distractors B/C/D present | source: converted-md/slide parte 2/08 Gabriele
+- OK Q339 | Granato, search e operational | answer A: l'invio automatico di email a specifici iscritti in momenti ideali predefiniti | distractors B/C/D present | source: converted-md/slide parte 2/08 Gabriele
+- OK Q340 | Granato, search e operational | answer A: riduce lavoro manuale e aumenta tempestività ed efficacia | distractors B/C/D present | source: converted-md/slide parte 2/08 Gabriele
+- OK Q341 | Granato, search e operational | answer A: la creazione e distribuzione di contenuti di valore, pertinenti e coerenti per attrarre e fidelizzare un pubblico definito | distractors B/C/D present | source: converted-md/lezione-9-content-marketing
+- OK Q342 | Granato, search e operational | answer A: costruisce fiducia e guida azioni profittevoli senza interrompere l'utente | distractors B/C/D present | source: converted-md/lezione-9-content-marketing
+- OK Q343 | Granato, search e operational | answer A: la logica per cui contenuti utili attraggono l'utente che cerca valore | distractors B/C/D present | source: converted-md/lezione-9-content-marketing
+- OK Q344 | Granato, search e operational | answer A: si contrappone alla pubblicità push che mette il prodotto davanti all'utente | distractors B/C/D present | source: converted-md/lezione-9-content-marketing
+- OK Q345 | Granato, search e operational | answer A: lo strumento per programmare, coordinare e gestire creazione, pubblicazione e promozione dei contenuti | distractors B/C/D present | source: converted-md/lezione-9-content-marketing
+- OK Q346 | Granato, search e operational | answer A: assicura coerenza, qualità e allineamento agli obiettivi di content marketing | distractors B/C/D present | source: converted-md/lezione-9-content-marketing
+- OK Q347 | Granato, search e operational | answer A: un modello del percorso decisionale composto da attenzione, interesse, desiderio e azione | distractors B/C/D present | source: converted-md/lezione-9-content-marketing
+- OK Q348 | Granato, search e operational | answer A: aiuta a collegare contenuti e comunicazione a stadi psicologici progressivi | distractors B/C/D present | source: converted-md/lezione-9-content-marketing
+- OK Q349 | Granato, search e operational | answer A: la classificazione dei canali in Paid, Earned, Shared e Owned media | distractors B/C/D present | source: converted-md/lezione-9-content-marketing
+- OK Q350 | Granato, search e operational | answer A: aiuta a pianificare la distribuzione integrata dei contenuti | distractors B/C/D present | source: converted-md/lezione-9-content-marketing
+- OK Q351 | Granato, search e operational | answer A: contenuto ad alto impatto progettato per ispirare, catturare attenzione ed essere memorabile | distractors B/C/D present | source: converted-md/lezione-9-content-marketing
+- OK Q352 | Granato, search e operational | answer A: serve a momenti di grande visibilità nel framework Hero-Hub-Help | distractors B/C/D present | source: converted-md/lezione-9-content-marketing
+- OK Q353 | Granato, search e operational | answer A: contenuto regolare che offre valore continuo e sostiene engagement e fedeltà | distractors B/C/D present | source: converted-md/lezione-9-content-marketing
+- OK Q354 | Granato, search e operational | answer A: mantiene la relazione con il pubblico nel tempo | distractors B/C/D present | source: converted-md/lezione-9-content-marketing
+- OK Q355 | Granato, search e operational | answer A: contenuto pratico che risponde a domande quotidiane e bisogni informativi specifici | distractors B/C/D present | source: converted-md/lezione-9-content-marketing
+- OK Q356 | Granato, search e operational | answer A: attira nuovi pubblici tramite ricerca e costruisce fiducia | distractors B/C/D present | source: converted-md/lezione-9-content-marketing
+- OK Q357 | Fondamenti di marketing | answer A: un'impresa analizza bisogni, definisce offerta e promuove un servizio coerente con il target | distractors B/C/D present | source: 04_Slides_Corso.md / Evoluzione del marketing
+- OK Q358 | Fondamenti di marketing | answer A: la necessità di sicurezza o appartenenza collocata nella piramide di Maslow | distractors B/C/D present | source: 04_Slides_Corso.md / Evoluzione del marketing
+- OK Q359 | Fondamenti di marketing | answer A: scegliere uno smartphone premium per soddisfare un bisogno di connessione e status | distractors B/C/D present | source: 04_Slides_Corso.md / Evoluzione del marketing
+- OK Q360 | Fondamenti di marketing | answer A: un abbonamento digitale con app, assistenza, contenuti e community | distractors B/C/D present | source: 04_Slides_Corso.md / Evoluzione del marketing
+- OK Q361 | Fondamenti di marketing | answer A: Dropbox promette accesso semplice e sincronizzato ai file tra dispositivi | distractors B/C/D present | source: 04_Slides_Corso.md / Business Model Digitali
+- OK Q362 | Fondamenti di marketing | answer A: un utente paga un abbonamento perché percepisce benefici superiori al costo | distractors B/C/D present | source: 04_Slides_Corso.md / Evoluzione del marketing
+- OK Q363 | Processo di marketing | answer A: analisi PESTEL, concorrenza, customer journey e punti di forza interni | distractors B/C/D present | source: 04_Slides_Corso.md / Evoluzione del marketing
+- OK Q364 | Processo di marketing | answer A: scegliere un segmento prioritario e costruire una posizione distintiva | distractors B/C/D present | source: 04_Slides_Corso.md / Evoluzione del marketing
+- OK Q365 | Processo di marketing | answer A: definire packaging, pricing, canali e attività promozionali di un'offerta | distractors B/C/D present | source: 04_Slides_Corso.md / Evoluzione del marketing
+- OK Q366 | Processo di marketing | answer A: decidere assortimento, livello di prezzo, canali e comunicazione di lancio | distractors B/C/D present | source: 04_Slides_Corso.md / Evoluzione del marketing
+- OK Q367 | Processo di marketing | answer A: classificare una community forte come strength e una nuova normativa come threat | distractors B/C/D present | source: 04_Slides_Corso.md / Evoluzione del marketing
+- OK Q368 | STP e segmentazione | answer A: separare clienti per comportamenti d'acquisto, bisogni o caratteristiche psicografiche | distractors B/C/D present | source: 04_Slides_Corso.md / Segmentazione
+- OK Q369 | STP e segmentazione | answer A: scegliere giovani professionisti digitali come pubblico prioritario dopo aver segmentato | distractors B/C/D present | source: 04_Slides_Corso.md / Evoluzione del marketing
+- OK Q370 | STP e segmentazione | answer A: presentare un servizio come il più semplice e affidabile per uno specifico target | distractors B/C/D present | source: 04_Slides_Corso.md / Evoluzione del marketing
+- OK Q371 | STP e segmentazione | answer A: collocare marche di snack per prezzo percepito e naturalità | distractors B/C/D present | source: 04_Slides_Corso.md / Evoluzione del marketing
+- OK Q372 | Marketing 4.0 e brand | answer A: comunicare principalmente le caratteristiche del prodotto a un pubblico ampio | distractors B/C/D present | source: 05_Dispense_Approfondimenti.md / Marketing 4.0
+- OK Q373 | Marketing 4.0 e brand | answer A: adattare l'offerta a segmenti con esigenze diverse | distractors B/C/D present | source: 05_Dispense_Approfondimenti.md / Marketing 4.0
+- OK Q374 | Marketing 4.0 e brand | answer A: un'impresa costruisce valore collegandosi a temi sociali e ambientali coerenti | distractors B/C/D present | source: 05_Dispense_Approfondimenti.md / Marketing 4.0
+- OK Q375 | Marketing 4.0 e brand | answer A: usare dati e automazione senza perdere autenticità e contatto umano | distractors B/C/D present | source: 05_Dispense_Approfondimenti.md / Marketing 4.0
+- OK Q376 | Marketing 4.0 e brand | answer A: un brand entra in una community già attiva mostrando coerenza e ascolto | distractors B/C/D present | source: 05_Dispense_Approfondimenti.md / Marketing 4.0
+- OK Q377 | Marketing 4.0 e brand | answer A: un brand conserva tono, simboli e personalità coerenti su app, social e store | distractors B/C/D present | source: 05_Dispense_Approfondimenti.md / Marketing 4.0
+- OK Q378 | Marketing 4.0 e brand | answer A: una community contribuisce a progettare nuove funzionalità di un servizio | distractors B/C/D present | source: 05_Dispense_Approfondimenti.md / Marketing 4.0
+- OK Q379 | Marketing 4.0 e brand | answer A: un prezzo che cambia in base a disponibilità, domanda o profilo d'acquisto | distractors B/C/D present | source: 05_Dispense_Approfondimenti.md / Marketing 4.0
+- OK Q380 | Marketing 4.0 e brand | answer A: una piattaforma che abilita scambi tra utenti e valorizza la partecipazione della community | distractors B/C/D present | source: 05_Dispense_Approfondimenti.md / Marketing 4.0
+- OK Q381 | Marketing 4.0 e brand | answer A: rispondere alle recensioni e integrare feedback nella comunicazione | distractors B/C/D present | source: 05_Dispense_Approfondimenti.md / Marketing 4.0
+- OK Q382 | Marketing 4.0 e brand | answer A: definire valori, tono, simboli e promessa che l'impresa vuole trasmettere | distractors B/C/D present | source: 07_Appunti_Corso.md / Web Marketing
+- OK Q383 | Marketing 4.0 e brand | answer A: una marca percepita come sostenibile anche oltre ciò che dichiara nelle campagne | distractors B/C/D present | source: 07_Appunti_Corso.md / Web Marketing
+- OK Q384 | Marketing 4.0 e brand | answer A: essere top of mind nella categoria bevande | distractors B/C/D present | source: 07_Appunti_Corso.md / Web Marketing
+- OK Q385 | Marketing 4.0 e brand | answer A: un marchio forte permette premium price e fiducia più elevata | distractors B/C/D present | source: 07_Appunti_Corso.md / Web Marketing
+- OK Q386 | Marketing 4.0 e brand | answer A: un cliente acquista online perché ritiene affidabile il venditore | distractors B/C/D present | source: 07_Appunti_Corso.md / Web Marketing
+- OK Q387 | Marketing 4.0 e brand | answer A: commentare, condividere o contribuire a iniziative del brand | distractors B/C/D present | source: 07_Appunti_Corso.md / Web Marketing
+- OK Q388 | Marketing 4.0 e brand | answer A: un utente consiglia spontaneamente un servizio nella propria community | distractors B/C/D present | source: 07_Appunti_Corso.md / Web Marketing
+- OK Q389 | Ecosistema digitale | answer A: un'impresa integra sistemi informativi, e-commerce e processi con partner e clienti | distractors B/C/D present | source: 04_Slides_Corso.md / Orientamento al digitale
+- OK Q390 | Ecosistema digitale | answer A: Spotify cambia il modello musicale da vendita di supporti a streaming in abbonamento | distractors B/C/D present | source: 04_Slides_Corso.md / Orientamento al digitale
+- OK Q391 | Ecosistema digitale | answer A: un sito brochure aggiornato raramente e non integrato con canali o CRM | distractors B/C/D present | source: 04_Slides_Corso.md / Orientamento al digitale
+- OK Q392 | Ecosistema digitale | answer A: un retailer integra sito, store fisici, CRM e campagne coordinate | distractors B/C/D present | source: 04_Slides_Corso.md / Orientamento al digitale
+- OK Q393 | Ecosistema digitale | answer A: una piattaforma nata online che genera valore quasi interamente tramite canali digitali | distractors B/C/D present | source: 04_Slides_Corso.md / Orientamento al digitale
+- OK Q394 | Ecosistema digitale | answer A: un negozio di quartiere che vende solo nel punto vendita | distractors B/C/D present | source: 04_Slides_Corso.md / Orientamento al digitale
+- OK Q395 | Ecosistema digitale | answer A: Zara con punti vendita fisici e sito e-commerce | distractors B/C/D present | source: 04_Slides_Corso.md / Orientamento al digitale
+- OK Q396 | Ecosistema digitale | answer A: un marketplace nato e gestito solo via piattaforma online | distractors B/C/D present | source: 04_Slides_Corso.md / Orientamento al digitale
+- OK Q397 | Ecosistema digitale | answer A: iniziare un acquisto da smartphone, proseguirlo da desktop e ritirare in negozio | distractors B/C/D present | source: 04_Slides_Corso.md / Orientamento al digitale
+- OK Q398 | Ecosistema digitale | answer A: un file composto da bit organizzati in byte | distractors B/C/D present | source: 04_Slides_Corso.md / Caratteristiche tecnologie digitali
+- OK Q399 | Ecosistema digitale | answer A: una sequenza di 8 bit rappresenta un byte | distractors B/C/D present | source: 04_Slides_Corso.md / Caratteristiche tecnologie digitali
+- OK Q400 | Ecosistema digitale | answer A: un CD codifica dati digitali, un vinile è associato a un supporto analogico | distractors B/C/D present | source: 04_Slides_Corso.md / Caratteristiche tecnologie digitali
+- OK Q401 | Ecosistema digitale | answer A: il web come piattaforma che ospita siti, contenuti e social network | distractors B/C/D present | source: 04_Slides_Corso.md / Caratteristiche tecnologie digitali
+- OK Q402 | Ecosistema digitale | answer A: uno smartwatch o uno smartphone che consente l'uso di app e web | distractors B/C/D present | source: 04_Slides_Corso.md / Caratteristiche tecnologie digitali
+- OK Q403 | Ecosistema digitale | answer A: la rete che permette a un sito web di essere raggiunto | distractors B/C/D present | source: 04_Slides_Corso.md / Caratteristiche tecnologie digitali
+- OK Q404 | Ecosistema digitale | answer A: consultare una pagina informativa tramite browser | distractors B/C/D present | source: 04_Slides_Corso.md / Caratteristiche tecnologie digitali
+- OK Q405 | Ecosistema digitale | answer A: clienti che commentano, condividono e influenzano la narrazione del brand | distractors B/C/D present | source: 04_Slides_Corso.md / Caratteristiche tecnologie digitali
+- OK Q406 | Ecosistema digitale | answer A: maggiore potenza di calcolo disponibile a costi relativamente più accessibili | distractors B/C/D present | source: 04_Slides_Corso.md / Caratteristiche tecnologie digitali
+- OK Q407 | Ecosistema digitale | answer A: una piattaforma diventa più utile man mano che aumentano gli utenti collegati | distractors B/C/D present | source: 04_Slides_Corso.md / Caratteristiche tecnologie digitali
+- OK Q408 | Ecosistema digitale | answer A: abitudini e costi di migrazione rendono difficile abbandonare una tastiera o un ecosistema software | distractors B/C/D present | source: 04_Slides_Corso.md / Caratteristiche tecnologie digitali
+- OK Q409 | Ecosistema digitale | answer A: un sito può raggiungere molti utenti e offrire schede prodotto dettagliate | distractors B/C/D present | source: 04_Slides_Corso.md / Caratteristiche tecnologie digitali
+- OK Q410 | Ecosistema digitale | answer A: un e-commerce vende milioni di titoli, inclusi libri di nicchia poco richiesti singolarmente | distractors B/C/D present | source: 04_Slides_Corso.md / Long Tail
+- OK Q411 | Ricerche di mercato online | answer A: somministrare online un questionario su abitudini alimentari offline | distractors B/C/D present | source: 04_Slides_Corso.md / Ricerche di mercato
+- OK Q412 | Ricerche di mercato online | answer A: analizzare come gli utenti confrontano recensioni su un marketplace | distractors B/C/D present | source: 04_Slides_Corso.md / Ricerche di mercato
+- OK Q413 | Ricerche di mercato online | answer A: usare report di settore o statistiche pubbliche per stimare un mercato | distractors B/C/D present | source: 04_Slides_Corso.md / Ricerche di mercato
+- OK Q414 | Ricerche di mercato online | answer A: progettare una survey online per capire le preferenze di un nuovo target | distractors B/C/D present | source: 04_Slides_Corso.md / Ricerche di mercato
+- OK Q415 | Ricerche di mercato online | answer A: mandare un link survey a una lista di clienti selezionati | distractors B/C/D present | source: 04_Slides_Corso.md / Ricerche di mercato
+- OK Q416 | Ricerche di mercato online | answer A: inserire un questionario su una landing page o diffonderlo via social | distractors B/C/D present | source: 04_Slides_Corso.md / Ricerche di mercato
+- OK Q417 | Ricerche di mercato online | answer A: chiedere di descrivere con parole proprie l'esperienza con un servizio | distractors B/C/D present | source: 04_Slides_Corso.md / Ricerche di mercato
+- OK Q418 | Ricerche di mercato online | answer A: scegliere una risposta tra tre opzioni predefinite | distractors B/C/D present | source: 04_Slides_Corso.md / Ricerche di mercato
+- OK Q419 | Ricerche di mercato online | answer A: chiedere se l'utente ha mai acquistato online: sì o no | distractors B/C/D present | source: 04_Slides_Corso.md / Ricerche di mercato
+- OK Q420 | Ricerche di mercato online | answer A: chiedere quali canali usa il cliente tra sito, social, app e negozio | distractors B/C/D present | source: 04_Slides_Corso.md / Ricerche di mercato
+- OK Q421 | Ricerche di mercato online | answer A: valutare da per niente d'accordo a molto d'accordo la fiducia verso un brand | distractors B/C/D present | source: 04_Slides_Corso.md / Ricerche di mercato
+- OK Q422 | Ricerche di mercato online | answer A: chiedere se l'utente ha comprato online prima di domande sul checkout | distractors B/C/D present | source: 04_Slides_Corso.md / Ricerche di mercato
+- OK Q423 | Ricerche di mercato online | answer A: mettere dati personali alla fine e domande facili all'inizio | distractors B/C/D present | source: 04_Slides_Corso.md / Ricerche di mercato
+- OK Q424 | Ricerche di mercato online | answer A: testare una survey su pochi rispondenti prima del lancio | distractors B/C/D present | source: 04_Slides_Corso.md / Ricerche di mercato
+- OK Q425 | Ricerche di mercato online | answer A: una web survey molto diffusa ma compilata solo da utenti giovani può essere distorta | distractors B/C/D present | source: 04_Slides_Corso.md / Ricerche di mercato
+- OK Q426 | Ricerche di mercato online | answer A: una scala visualizzata male su mobile altera la qualità della risposta | distractors B/C/D present | source: 04_Slides_Corso.md / Ricerche di mercato
+- OK Q427 | Customer journey | answer A: un utente confronta recensioni, social, sito e negozio prima di decidere | distractors B/C/D present | source: 04_Slides_Corso.md / Customer Journey
+- OK Q428 | Customer journey | answer A: un cliente pubblica recensioni e contenuti che guidano le scelte altrui | distractors B/C/D present | source: 07_Appunti_Corso.md / Web Marketing
+- OK Q429 | Customer journey | answer A: seguire un cliente dalla ricerca online al consumo e al ricordo dell'esperienza | distractors B/C/D present | source: 04_Slides_Corso.md / Customer Journey
+- OK Q430 | Customer journey | answer A: una recensione, un sito, un punto vendita o una email di conferma | distractors B/C/D present | source: 04_Slides_Corso.md / Customer Journey
+- OK Q431 | Customer journey | answer A: passare da consapevolezza a considerazione e infine acquisto | distractors B/C/D present | source: 05_Dispense_Approfondimenti.md / McKinsey
+- OK Q432 | Customer journey | answer A: il consumatore aggiunge o rimuove brand durante la valutazione attiva | distractors B/C/D present | source: 05_Dispense_Approfondimenti.md / McKinsey
+- OK Q433 | Customer journey | answer A: un cliente scopre un nuovo brand leggendo confronti e recensioni online | distractors B/C/D present | source: 05_Dispense_Approfondimenti.md / McKinsey
+- OK Q434 | Customer journey | answer A: un'esperienza positiva porta il cliente a riacquistare senza rivalutare troppe alternative | distractors B/C/D present | source: 05_Dispense_Approfondimenti.md / McKinsey
+- OK Q435 | Customer journey | answer A: dopo l'acquisto un cliente valuta l'assistenza e decide se riacquistare | distractors B/C/D present | source: 05_Dispense_Approfondimenti.md / McKinsey
+- OK Q436 | Customer journey | answer A: vedere una pubblicità e poi cercare recensioni YouTube prima di comprare | distractors B/C/D present | source: 07_Appunti_Corso.md / Web Marketing
+- OK Q437 | Customer journey | answer A: valutare un prodotto nella scheda e-commerce prima di metterlo nel carrello | distractors B/C/D present | source: 07_Appunti_Corso.md / Web Marketing
+- OK Q438 | Customer journey | answer A: provare un prodotto a casa e condividere una recensione | distractors B/C/D present | source: 07_Appunti_Corso.md / Web Marketing
+- OK Q439 | Customer journey | answer A: sito aziendale, app, programma loyalty o pubblicità proprietaria | distractors B/C/D present | source: 04_Slides_Corso.md / Customer Journey
+- OK Q440 | Customer journey | answer A: un utente modifica un prodotto o cerca soluzioni autonome prima di contattare il brand | distractors B/C/D present | source: 04_Slides_Corso.md / Customer Journey
+- OK Q441 | Customer journey | answer A: mappare bisogni, emozioni, canali e ostacoli dalla ricerca al post-acquisto | distractors B/C/D present | source: 04_Slides_Corso.md / Customer Journey
+- OK Q442 | Customer journey | answer A: scegliere di mappare il percorso di una buyer persona nel pre-acquisto | distractors B/C/D present | source: 04_Slides_Corso.md / Customer Journey
+- OK Q443 | Customer journey | answer A: descrivere obiettivi, obiezioni e preferenze comunicative di un cliente tipo | distractors B/C/D present | source: 04_Slides_Corso.md / Buyer personas
+- OK Q444 | Customer journey | answer A: un cliente è soddisfatto se l'esperienza supera ciò che si aspettava | distractors B/C/D present | source: 04_Slides_Corso.md / Buyer personas
+- OK Q445 | Customer journey | answer A: un servizio sorprende positivamente il cliente oltre la promessa attesa | distractors B/C/D present | source: 04_Slides_Corso.md / Buyer personas
+- OK Q446 | Customer journey | answer A: un cliente partecipa alla community e produce contenuti sul brand | distractors B/C/D present | source: 04_Slides_Corso.md / Buyer personas
+- OK Q447 | Business model ed e-commerce | answer A: un servizio crea valore con piattaforma, consegna digitale e ricavi in abbonamento | distractors B/C/D present | source: 04_Slides_Corso.md / Business Model Digitali
+- OK Q448 | Business model ed e-commerce | answer A: mappare clienti, canali, ricavi e risorse di una piattaforma digitale | distractors B/C/D present | source: 04_Slides_Corso.md / Business Model Digitali
+- OK Q449 | Business model ed e-commerce | answer A: distinguere utenti free, clienti premium e aziende partner | distractors B/C/D present | source: 04_Slides_Corso.md / Business Model Digitali
+- OK Q450 | Business model ed e-commerce | answer A: app, sito e marketplace come canali per distribuire un servizio | distractors B/C/D present | source: 04_Slides_Corso.md / Business Model Digitali
+- OK Q451 | Business model ed e-commerce | answer A: self-service, community o assistenza dedicata per gruppi diversi di clienti | distractors B/C/D present | source: 04_Slides_Corso.md / Business Model Digitali
+- OK Q452 | Business model ed e-commerce | answer A: abbonamento, advertising, commissione o affiliazione | distractors B/C/D present | source: 04_Slides_Corso.md / Business Model Digitali
+- OK Q453 | Business model ed e-commerce | answer A: costi di piattaforma, logistica, acquisizione clienti e assistenza | distractors B/C/D present | source: 04_Slides_Corso.md / Business Model Digitali
+- OK Q454 | Business model ed e-commerce | answer A: Spotify offre accesso gratuito limitato e piano premium | distractors B/C/D present | source: 04_Slides_Corso.md / Business Model Digitali
+- OK Q455 | Business model ed e-commerce | answer A: un sito gratuito guadagna mostrando annunci a target specifici | distractors B/C/D present | source: 04_Slides_Corso.md / Business Model Digitali
+- OK Q456 | Business model ed e-commerce | answer A: un blog riceve una commissione per acquisti generati tramite link affiliato | distractors B/C/D present | source: 04_Slides_Corso.md / Business Model Digitali
+- OK Q457 | Business model ed e-commerce | answer A: una piattaforma incassa una percentuale per ogni vendita conclusa | distractors B/C/D present | source: 04_Slides_Corso.md / Business Model Digitali
+- OK Q458 | Business model ed e-commerce | answer A: Vinted ha bisogno sia di venditori sia di acquirenti | distractors B/C/D present | source: 07_Appunti_Corso.md / Web Marketing
+- OK Q459 | Business model ed e-commerce | answer A: un'app di messaggistica diventa più utile quando la usano più persone | distractors B/C/D present | source: 07_Appunti_Corso.md / Web Marketing
+- OK Q460 | Business model ed e-commerce | answer A: una piattaforma abilita accesso temporaneo o scambio tra utenti | distractors B/C/D present | source: 05_Dispense_Approfondimenti.md / Sharing economy continuum
+- OK Q461 | Business model ed e-commerce | answer A: utenti che si scambiano beni gratuitamente in una community | distractors B/C/D present | source: 05_Dispense_Approfondimenti.md / Sharing economy continuum
+- OK Q462 | Business model ed e-commerce | answer A: piattaforme come Airbnb o Uber presentano accesso peer-to-peer ma anche pagamento | distractors B/C/D present | source: 05_Dispense_Approfondimenti.md / Sharing economy continuum
+- OK Q463 | Business model ed e-commerce | answer A: un acquisto online con scheda prodotto, checkout, pagamento e assistenza post-vendita | distractors B/C/D present | source: 04_Slides_Corso.md / E-commerce
+- OK Q464 | Business model ed e-commerce | answer A: una piattaforma che vende forniture aziendali ad altre imprese | distractors B/C/D present | source: 04_Slides_Corso.md / E-commerce
+- OK Q465 | Business model ed e-commerce | answer A: un cliente compra scarpe dal sito di un retailer | distractors B/C/D present | source: 04_Slides_Corso.md / E-commerce
+- OK Q466 | Business model ed e-commerce | answer A: un privato vende un oggetto usato a un altro privato su una piattaforma | distractors B/C/D present | source: 04_Slides_Corso.md / E-commerce
+- OK Q467 | Business model ed e-commerce | answer A: un utente propone un'invenzione brevettata o condizioni di prezzo a un'azienda | distractors B/C/D present | source: 04_Slides_Corso.md / E-commerce
+- OK Q468 | Business model ed e-commerce | answer A: utenti condividono recensioni e consigli dentro un percorso di shopping online | distractors B/C/D present | source: 04_Slides_Corso.md / E-commerce
+- OK Q469 | Business model ed e-commerce | answer A: recensioni, trasparenza e sicurezza aiutano il primo acquisto | distractors B/C/D present | source: 04_Slides_Corso.md / E-commerce
+- OK Q470 | Business model ed e-commerce | answer A: foto degli utenti, video prodotto e AR riducono l'incertezza | distractors B/C/D present | source: 04_Slides_Corso.md / E-commerce
+- OK Q471 | Business model ed e-commerce | answer A: permettere checkout come ospite riduce la barriera all'acquisto | distractors B/C/D present | source: 04_Slides_Corso.md / E-commerce
+- OK Q472 | Business model ed e-commerce | answer A: un carrello chiaro mostra prezzo finale, spedizione e passaggi successivi | distractors B/C/D present | source: 04_Slides_Corso.md / E-commerce
+- OK Q473 | Business model ed e-commerce | answer A: valutare quanto costa trasformare campagne e visite in nuovi acquirenti | distractors B/C/D present | source: 04_Slides_Corso.md / E-commerce
+- OK Q474 | Business model ed e-commerce | answer A: un certificato SSL protegge lo scambio di informazioni tra cliente e sito | distractors B/C/D present | source: 04_Slides_Corso.md / E-commerce
+- OK Q475 | Business model ed e-commerce | answer A: chat, FAQ e supporto post-vendita aiutano durante acquisto e reso | distractors B/C/D present | source: 04_Slides_Corso.md / E-commerce
+- OK Q476 | Granato, search e operational | answer A: Netflix come innovazione del modello di fruizione rispetto al noleggio fisico | distractors B/C/D present | source: converted-md/slide parte 2/01 Granato
+- OK Q477 | Granato, search e operational | answer A: convertire fatture cartacee in fatture elettroniche o CD in MP3 | distractors B/C/D present | source: converted-md/slide parte 2/01 Granato
+- OK Q478 | Granato, search e operational | answer A: usare un CRM per gestire clienti o vendere musica online tramite iTunes | distractors B/C/D present | source: converted-md/slide parte 2/01 Granato
+- OK Q479 | Granato, search e operational | answer A: passare dalla vendita di musica online allo streaming come Spotify | distractors B/C/D present | source: converted-md/slide parte 2/01 Granato
+- OK Q480 | Granato, search e operational | answer A: chiarire il beneficio unico per un segmento e contesto d'acquisto specifico | distractors B/C/D present | source: converted-md/slide parte 2/02 Granato
+- OK Q481 | Granato, search e operational | answer A: un claim pubblicitario che comunica unicità senza provarla strutturalmente | distractors B/C/D present | source: converted-md/slide parte 2/02 Granato
+- OK Q482 | Granato, search e operational | answer A: Amazon riduce sistematicamente l'attrito nell'esperienza d'acquisto | distractors B/C/D present | source: converted-md/slide parte 2/02 Granato
+- OK Q483 | Granato, search e operational | answer A: un utente scopre un problema tramite contenuti o advertising prima di cercare una soluzione | distractors B/C/D present | source: converted-md/slide parte 2/02 Granato
+- OK Q484 | Granato, search e operational | answer A: digitare su Google una soluzione specifica a un problema già riconosciuto | distractors B/C/D present | source: converted-md/slide parte 2/02 Granato
+- OK Q485 | Granato, search e operational | answer A: visitatori che arrivano da query coerenti con l'offerta e il bisogno | distractors B/C/D present | source: converted-md/slide parte 2/02 Granato
+- OK Q486 | Granato, search e operational | answer A: ottimizzare titoli, contenuti, struttura tecnica e segnali esterni per la SERP | distractors B/C/D present | source: converted-md/slide parte 2/03 Granato
+- OK Q487 | Granato, search e operational | answer A: pagare annunci testuali sopra i risultati organici per una keyword | distractors B/C/D present | source: converted-md/appunti-web-marketing/Web Marketing.md
+- OK Q488 | Granato, search e operational | answer A: Googlebot visita pagine e segue link di un sito | distractors B/C/D present | source: converted-md/slide parte 2/03 Granato
+- OK Q489 | Granato, search e operational | answer A: una pagina accessibile viene salvata nel database del motore di ricerca | distractors B/C/D present | source: converted-md/slide parte 2/03 Granato
+- OK Q490 | Granato, search e operational | answer A: una pagina già indicizzata viene mostrata più in alto perché risponde meglio all'intento | distractors B/C/D present | source: converted-md/slide parte 2/03 Granato
+- OK Q491 | Granato, search e operational | answer A: migliorare titoli, URL, heading, contenuto e struttura informativa | distractors B/C/D present | source: converted-md/slide parte 2/03 Granato
+- OK Q492 | Granato, search e operational | answer A: un sito autorevole linka una guida del brand e ne rafforza la credibilità | distractors B/C/D present | source: converted-md/slide parte 2/03 Granato
+- OK Q493 | Granato, search e operational | answer A: migliorare codice, velocità, sitemap o problemi di indicizzazione | distractors B/C/D present | source: converted-md/slide parte 2/03 Granato
+- OK Q494 | Granato, search e operational | answer A: capire se l'utente vuole informarsi, confrontare o comprare | distractors B/C/D present | source: converted-md/slide parte 2/04 Gabriele
+- OK Q495 | Granato, search e operational | answer A: cercare 'che cos'è il content marketing' | distractors B/C/D present | source: converted-md/appunti-web-marketing/Web Marketing.md
+- OK Q496 | Granato, search e operational | answer A: digitare il nome di una marca per raggiungere il suo sito ufficiale | distractors B/C/D present | source: converted-md/appunti-web-marketing/Web Marketing.md
+- OK Q497 | Granato, search e operational | answer A: cercare 'miglior CRM per piccole imprese confronto prezzi' | distractors B/C/D present | source: converted-md/appunti-web-marketing/Web Marketing.md
+- OK Q498 | Granato, search e operational | answer A: cercare 'compra scarpe running numero 42 spedizione rapida' | distractors B/C/D present | source: converted-md/appunti-web-marketing/Web Marketing.md
+- OK Q499 | Granato, search e operational | answer A: l'utente ottiene una sintesi direttamente in SERP senza aprire subito un risultato | distractors B/C/D present | source: converted-md/slide parte 2/05 Granato
+- OK Q500 | Granato, search e operational | answer A: scrivere contenuti autorevoli e semanticamente chiari per comparire nelle risposte AI | distractors B/C/D present | source: converted-md/appunti-web-marketing/Web Marketing.md
+
+## Warnings
+- None
+
+## Errors
+- None

@@ -1,0 +1,206 @@
+# Web Marketing Quiz Bank Audit
+
+- Concetti sorgente controllati uno a uno: 178
+- Domande generate e validate una a una: 500
+- Schema verificato: id univoco, testo univoco, 4 opzioni, risposta valida, distrattori non duplicati, sezione/tag/fonte presenti.
+- Regola stile: domande brevi da esame, una risposta concettuale corretta, tre distrattori plausibili e vicini al tema.
+- Nota: l'opzione corretta è salvata come A nel dato sorgente, ma l'app mescola l'ordine visibile delle alternative a ogni sessione.
+
+## Copertura per sezione
+- Fondamenti di marketing: 18
+- Processo di marketing: 15
+- STP e segmentazione: 12
+- Marketing 4.0 e brand: 51
+- Ecosistema digitale: 66
+- Ricerche di mercato online: 48
+- Customer journey: 60
+- Business model ed e-commerce: 87
+- Granato, search e operational: 143
+
+## Copertura per modalità/tag
+- fondamenti: 119
+- business: 136
+- digitale: 177
+- operational: 125
+- journey: 89
+- ricerca: 51
+
+## Controllo per concetto madre
+- OK 001 | Fondamenti di marketing | marketing management | domande 1, 2, 357 | fonte: 04_Slides_Corso.md / Evoluzione del marketing
+- OK 002 | Fondamenti di marketing | bisogno | domande 3, 4, 358 | fonte: 04_Slides_Corso.md / Evoluzione del marketing
+- OK 003 | Fondamenti di marketing | desiderio | domande 5, 6, 359 | fonte: 04_Slides_Corso.md / Evoluzione del marketing
+- OK 004 | Fondamenti di marketing | offerta di marketing | domande 7, 8, 360 | fonte: 04_Slides_Corso.md / Evoluzione del marketing
+- OK 005 | Fondamenti di marketing | value proposition | domande 9, 10, 361 | fonte: 04_Slides_Corso.md / Business Model Digitali
+- OK 006 | Fondamenti di marketing | scambio di valore | domande 11, 12, 362 | fonte: 04_Slides_Corso.md / Evoluzione del marketing
+- OK 007 | Processo di marketing | fase analitica | domande 13, 14, 363 | fonte: 04_Slides_Corso.md / Evoluzione del marketing
+- OK 008 | Processo di marketing | fase strategica | domande 15, 16, 364 | fonte: 04_Slides_Corso.md / Evoluzione del marketing
+- OK 009 | Processo di marketing | fase operativa | domande 17, 18, 365 | fonte: 04_Slides_Corso.md / Evoluzione del marketing
+- OK 010 | Processo di marketing | marketing mix 4P | domande 19, 20, 366 | fonte: 04_Slides_Corso.md / Evoluzione del marketing
+- OK 011 | Processo di marketing | SWOT analysis | domande 21, 22, 367 | fonte: 04_Slides_Corso.md / Evoluzione del marketing
+- OK 012 | STP e segmentazione | segmentazione | domande 23, 24, 368 | fonte: 04_Slides_Corso.md / Segmentazione
+- OK 013 | STP e segmentazione | targeting | domande 25, 26, 369 | fonte: 04_Slides_Corso.md / Evoluzione del marketing
+- OK 014 | STP e segmentazione | posizionamento | domande 27, 28, 370 | fonte: 04_Slides_Corso.md / Evoluzione del marketing
+- OK 015 | STP e segmentazione | mappa percettiva | domande 29, 30, 371 | fonte: 04_Slides_Corso.md / Evoluzione del marketing
+- OK 016 | Marketing 4.0 e brand | Marketing 1.0 | domande 31, 32, 372 | fonte: 05_Dispense_Approfondimenti.md / Marketing 4.0
+- OK 017 | Marketing 4.0 e brand | Marketing 2.0 | domande 33, 34, 373 | fonte: 05_Dispense_Approfondimenti.md / Marketing 4.0
+- OK 018 | Marketing 4.0 e brand | Marketing 3.0 | domande 35, 36, 374 | fonte: 05_Dispense_Approfondimenti.md / Marketing 4.0
+- OK 019 | Marketing 4.0 e brand | Marketing 4.0 | domande 37, 38, 375 | fonte: 05_Dispense_Approfondimenti.md / Marketing 4.0
+- OK 020 | Marketing 4.0 e brand | customer community confirmation | domande 39, 40, 376 | fonte: 05_Dispense_Approfondimenti.md / Marketing 4.0
+- OK 021 | Marketing 4.0 e brand | brand characters and codes | domande 41, 42, 377 | fonte: 05_Dispense_Approfondimenti.md / Marketing 4.0
+- OK 022 | Marketing 4.0 e brand | co-creation | domande 43, 44, 378 | fonte: 05_Dispense_Approfondimenti.md / Marketing 4.0
+- OK 023 | Marketing 4.0 e brand | currency | domande 45, 46, 379 | fonte: 05_Dispense_Approfondimenti.md / Marketing 4.0
+- OK 024 | Marketing 4.0 e brand | communal activation | domande 47, 48, 380 | fonte: 05_Dispense_Approfondimenti.md / Marketing 4.0
+- OK 025 | Marketing 4.0 e brand | conversation | domande 49, 50, 381 | fonte: 05_Dispense_Approfondimenti.md / Marketing 4.0
+- OK 026 | Marketing 4.0 e brand | brand identity | domande 51, 52, 382 | fonte: 07_Appunti_Corso.md / Web Marketing
+- OK 027 | Marketing 4.0 e brand | brand image | domande 53, 54, 383 | fonte: 07_Appunti_Corso.md / Web Marketing
+- OK 028 | Marketing 4.0 e brand | brand awareness | domande 55, 56, 384 | fonte: 07_Appunti_Corso.md / Web Marketing
+- OK 029 | Marketing 4.0 e brand | brand equity | domande 57, 58, 385 | fonte: 07_Appunti_Corso.md / Web Marketing
+- OK 030 | Marketing 4.0 e brand | brand trust | domande 59, 60, 386 | fonte: 07_Appunti_Corso.md / Web Marketing
+- OK 031 | Marketing 4.0 e brand | brand engagement | domande 61, 62, 387 | fonte: 07_Appunti_Corso.md / Web Marketing
+- OK 032 | Marketing 4.0 e brand | brand advocacy | domande 63, 64, 388 | fonte: 07_Appunti_Corso.md / Web Marketing
+- OK 033 | Ecosistema digitale | orientamento all'e-business | domande 65, 66, 389 | fonte: 04_Slides_Corso.md / Orientamento al digitale
+- OK 034 | Ecosistema digitale | business model digitale | domande 67, 68, 390 | fonte: 04_Slides_Corso.md / Orientamento al digitale
+- OK 035 | Ecosistema digitale | digital marketing tattico | domande 69, 70, 391 | fonte: 04_Slides_Corso.md / Orientamento al digitale
+- OK 036 | Ecosistema digitale | digital marketing strategico | domande 71, 72, 392 | fonte: 04_Slides_Corso.md / Orientamento al digitale
+- OK 037 | Ecosistema digitale | livello core business digitale | domande 73, 74, 393 | fonte: 04_Slides_Corso.md / Orientamento al digitale
+- OK 038 | Ecosistema digitale | bricks and mortar | domande 75, 76, 394 | fonte: 04_Slides_Corso.md / Orientamento al digitale
+- OK 039 | Ecosistema digitale | click and mortar | domande 77, 78, 395 | fonte: 04_Slides_Corso.md / Orientamento al digitale
+- OK 040 | Ecosistema digitale | pure play | domande 79, 80, 396 | fonte: 04_Slides_Corso.md / Orientamento al digitale
+- OK 041 | Ecosistema digitale | omnicanalità | domande 81, 82, 397 | fonte: 04_Slides_Corso.md / Orientamento al digitale
+- OK 042 | Ecosistema digitale | dato digitale | domande 83, 84, 398 | fonte: 04_Slides_Corso.md / Caratteristiche tecnologie digitali
+- OK 043 | Ecosistema digitale | bit e byte | domande 85, 86, 399 | fonte: 04_Slides_Corso.md / Caratteristiche tecnologie digitali
+- OK 044 | Ecosistema digitale | digitale vs analogico | domande 87, 88, 400 | fonte: 04_Slides_Corso.md / Caratteristiche tecnologie digitali
+- OK 045 | Ecosistema digitale | piattaforme digitali | domande 89, 90, 401 | fonte: 04_Slides_Corso.md / Caratteristiche tecnologie digitali
+- OK 046 | Ecosistema digitale | device digitali | domande 91, 92, 402 | fonte: 04_Slides_Corso.md / Caratteristiche tecnologie digitali
+- OK 047 | Ecosistema digitale | Internet | domande 93, 94, 403 | fonte: 04_Slides_Corso.md / Caratteristiche tecnologie digitali
+- OK 048 | Ecosistema digitale | Web | domande 95, 96, 404 | fonte: 04_Slides_Corso.md / Caratteristiche tecnologie digitali
+- OK 049 | Ecosistema digitale | marketing digitale reticolare | domande 97, 98, 405 | fonte: 04_Slides_Corso.md / Caratteristiche tecnologie digitali
+- OK 050 | Ecosistema digitale | legge di Moore | domande 99, 100, 406 | fonte: 04_Slides_Corso.md / Caratteristiche tecnologie digitali
+- OK 051 | Ecosistema digitale | legge di Metcalfe | domande 101, 102, 407 | fonte: 04_Slides_Corso.md / Caratteristiche tecnologie digitali
+- OK 052 | Ecosistema digitale | lock-in | domande 103, 104, 408 | fonte: 04_Slides_Corso.md / Caratteristiche tecnologie digitali
+- OK 053 | Ecosistema digitale | reach e richness | domande 105, 106, 409 | fonte: 04_Slides_Corso.md / Caratteristiche tecnologie digitali
+- OK 054 | Ecosistema digitale | long tail | domande 107, 108, 410 | fonte: 04_Slides_Corso.md / Long Tail
+- OK 055 | Ricerche di mercato online | ricerca web-enabled | domande 109, 110, 411 | fonte: 04_Slides_Corso.md / Ricerche di mercato
+- OK 056 | Ricerche di mercato online | ricerca web-centric | domande 111, 112, 412 | fonte: 04_Slides_Corso.md / Ricerche di mercato
+- OK 057 | Ricerche di mercato online | dati secondari | domande 113, 114, 413 | fonte: 04_Slides_Corso.md / Ricerche di mercato
+- OK 058 | Ricerche di mercato online | dati primari | domande 115, 116, 414 | fonte: 04_Slides_Corso.md / Ricerche di mercato
+- OK 059 | Ricerche di mercato online | e-mail survey | domande 117, 118, 415 | fonte: 04_Slides_Corso.md / Ricerche di mercato
+- OK 060 | Ricerche di mercato online | web survey | domande 119, 120, 416 | fonte: 04_Slides_Corso.md / Ricerche di mercato
+- OK 061 | Ricerche di mercato online | domanda aperta | domande 121, 122, 417 | fonte: 04_Slides_Corso.md / Ricerche di mercato
+- OK 062 | Ricerche di mercato online | domanda chiusa | domande 123, 124, 418 | fonte: 04_Slides_Corso.md / Ricerche di mercato
+- OK 063 | Ricerche di mercato online | domanda dicotomica | domande 125, 126, 419 | fonte: 04_Slides_Corso.md / Ricerche di mercato
+- OK 064 | Ricerche di mercato online | domanda a risposta multipla | domande 127, 128, 420 | fonte: 04_Slides_Corso.md / Ricerche di mercato
+- OK 065 | Ricerche di mercato online | scala Likert | domande 129, 130, 421 | fonte: 04_Slides_Corso.md / Ricerche di mercato
+- OK 066 | Ricerche di mercato online | domande filtro | domande 131, 132, 422 | fonte: 04_Slides_Corso.md / Ricerche di mercato
+- OK 067 | Ricerche di mercato online | sequenza del questionario | domande 133, 134, 423 | fonte: 04_Slides_Corso.md / Ricerche di mercato
+- OK 068 | Ricerche di mercato online | pre-test del questionario | domande 135, 136, 424 | fonte: 04_Slides_Corso.md / Ricerche di mercato
+- OK 069 | Ricerche di mercato online | rappresentatività del campione online | domande 137, 138, 425 | fonte: 04_Slides_Corso.md / Ricerche di mercato
+- OK 070 | Ricerche di mercato online | validità della misurazione online | domande 139, 140, 426 | fonte: 04_Slides_Corso.md / Ricerche di mercato
+- OK 071 | Customer journey | nuovo consumatore iperconnesso | domande 141, 142, 427 | fonte: 04_Slides_Corso.md / Customer Journey
+- OK 072 | Customer journey | prosumer | domande 143, 144, 428 | fonte: 07_Appunti_Corso.md / Web Marketing
+- OK 073 | Customer journey | customer journey | domande 145, 146, 429 | fonte: 04_Slides_Corso.md / Customer Journey
+- OK 074 | Customer journey | touchpoint | domande 147, 148, 430 | fonte: 04_Slides_Corso.md / Customer Journey
+- OK 075 | Customer journey | funnel tradizionale | domande 149, 150, 431 | fonte: 05_Dispense_Approfondimenti.md / McKinsey
+- OK 076 | Customer journey | consumer decision journey McKinsey | domande 151, 152, 432 | fonte: 05_Dispense_Approfondimenti.md / McKinsey
+- OK 077 | Customer journey | valutazione attiva | domande 153, 154, 433 | fonte: 05_Dispense_Approfondimenti.md / McKinsey
+- OK 078 | Customer journey | loyalty loop | domande 155, 156, 434 | fonte: 05_Dispense_Approfondimenti.md / McKinsey
+- OK 079 | Customer journey | esperienza post-acquisto | domande 157, 158, 435 | fonte: 05_Dispense_Approfondimenti.md / McKinsey
+- OK 080 | Customer journey | ZMOT | domande 159, 160, 436 | fonte: 07_Appunti_Corso.md / Web Marketing
+- OK 081 | Customer journey | FMOT | domande 161, 162, 437 | fonte: 07_Appunti_Corso.md / Web Marketing
+- OK 082 | Customer journey | SMOT | domande 163, 164, 438 | fonte: 07_Appunti_Corso.md / Web Marketing
+- OK 083 | Customer journey | touchpoint brand-owned | domande 165, 166, 439 | fonte: 04_Slides_Corso.md / Customer Journey
+- OK 084 | Customer journey | touchpoint customer-owned | domande 167, 168, 440 | fonte: 04_Slides_Corso.md / Customer Journey
+- OK 085 | Customer journey | customer journey map | domande 169, 170, 441 | fonte: 04_Slides_Corso.md / Customer Journey
+- OK 086 | Customer journey | scoping della journey map | domande 171, 172, 442 | fonte: 04_Slides_Corso.md / Customer Journey
+- OK 087 | Customer journey | buyer persona | domande 173, 174, 443 | fonte: 04_Slides_Corso.md / Buyer personas
+- OK 088 | Customer journey | disconfirmation paradigm | domande 175, 176, 444 | fonte: 04_Slides_Corso.md / Buyer personas
+- OK 089 | Customer journey | customer delight | domande 177, 178, 445 | fonte: 04_Slides_Corso.md / Buyer personas
+- OK 090 | Customer journey | customer engagement | domande 179, 180, 446 | fonte: 04_Slides_Corso.md / Buyer personas
+- OK 091 | Business model ed e-commerce | business model | domande 181, 182, 447 | fonte: 04_Slides_Corso.md / Business Model Digitali
+- OK 092 | Business model ed e-commerce | Business Model Canvas | domande 183, 184, 448 | fonte: 04_Slides_Corso.md / Business Model Digitali
+- OK 093 | Business model ed e-commerce | customer segments nel canvas | domande 185, 186, 449 | fonte: 04_Slides_Corso.md / Business Model Digitali
+- OK 094 | Business model ed e-commerce | channels nel canvas | domande 187, 188, 450 | fonte: 04_Slides_Corso.md / Business Model Digitali
+- OK 095 | Business model ed e-commerce | customer relationships nel canvas | domande 189, 190, 451 | fonte: 04_Slides_Corso.md / Business Model Digitali
+- OK 096 | Business model ed e-commerce | revenue model | domande 191, 192, 452 | fonte: 04_Slides_Corso.md / Business Model Digitali
+- OK 097 | Business model ed e-commerce | cost structure | domande 193, 194, 453 | fonte: 04_Slides_Corso.md / Business Model Digitali
+- OK 098 | Business model ed e-commerce | freemium | domande 195, 196, 454 | fonte: 04_Slides_Corso.md / Business Model Digitali
+- OK 099 | Business model ed e-commerce | advertising based revenue | domande 197, 198, 455 | fonte: 04_Slides_Corso.md / Business Model Digitali
+- OK 100 | Business model ed e-commerce | affiliation | domande 199, 200, 456 | fonte: 04_Slides_Corso.md / Business Model Digitali
+- OK 101 | Business model ed e-commerce | commission based model | domande 201, 202, 457 | fonte: 04_Slides_Corso.md / Business Model Digitali
+- OK 102 | Business model ed e-commerce | two-sided platform | domande 203, 204, 458 | fonte: 07_Appunti_Corso.md / Web Marketing
+- OK 103 | Business model ed e-commerce | network effect | domande 205, 206, 459 | fonte: 07_Appunti_Corso.md / Web Marketing
+- OK 104 | Business model ed e-commerce | sharing economy | domande 207, 208, 460 | fonte: 05_Dispense_Approfondimenti.md / Sharing economy continuum
+- OK 105 | Business model ed e-commerce | pure sharing | domande 209, 210, 461 | fonte: 05_Dispense_Approfondimenti.md / Sharing economy continuum
+- OK 106 | Business model ed e-commerce | dual-mode sharing | domande 211, 212, 462 | fonte: 05_Dispense_Approfondimenti.md / Sharing economy continuum
+- OK 107 | Business model ed e-commerce | e-commerce | domande 213, 214, 215, 216, 217, 218, 219, 220, 221, 222, 225, 226, 227, 228, 231, 232, 463, 464, 465, 466, 467, 469, 470, 472 | fonte: 04_Slides_Corso.md / E-commerce
+- OK 108 | Business model ed e-commerce | B2B e-commerce | domande 215, 216, 464 | fonte: 04_Slides_Corso.md / E-commerce
+- OK 109 | Business model ed e-commerce | B2C e-commerce | domande 217, 218, 465 | fonte: 04_Slides_Corso.md / E-commerce
+- OK 110 | Business model ed e-commerce | C2C e-commerce | domande 219, 220, 466 | fonte: 04_Slides_Corso.md / E-commerce
+- OK 111 | Business model ed e-commerce | C2B e-commerce | domande 221, 222, 467 | fonte: 04_Slides_Corso.md / E-commerce
+- OK 112 | Business model ed e-commerce | social commerce | domande 223, 224, 468 | fonte: 04_Slides_Corso.md / E-commerce
+- OK 113 | Business model ed e-commerce | fiducia nell'e-commerce | domande 225, 226, 469 | fonte: 04_Slides_Corso.md / E-commerce
+- OK 114 | Business model ed e-commerce | distanza fisica nell'e-commerce | domande 227, 228, 470 | fonte: 04_Slides_Corso.md / E-commerce
+- OK 115 | Business model ed e-commerce | registrazione obbligatoria | domande 229, 230, 471 | fonte: 04_Slides_Corso.md / E-commerce
+- OK 116 | Business model ed e-commerce | carrello e-commerce | domande 231, 232, 472 | fonte: 04_Slides_Corso.md / E-commerce
+- OK 117 | Business model ed e-commerce | costo di acquisizione cliente | domande 233, 234, 473 | fonte: 04_Slides_Corso.md / E-commerce
+- OK 118 | Business model ed e-commerce | certificato digitale | domande 235, 236, 474 | fonte: 04_Slides_Corso.md / E-commerce
+- OK 119 | Business model ed e-commerce | customer care online | domande 237, 238, 475 | fonte: 04_Slides_Corso.md / E-commerce
+- OK 120 | Granato, search e operational | innovazione | domande 239, 240, 476 | fonte: converted-md/slide parte 2/01 Granato
+- OK 121 | Granato, search e operational | digitalizzazione | domande 241, 242, 477 | fonte: converted-md/slide parte 2/01 Granato
+- OK 122 | Granato, search e operational | digitalizzazione dei processi | domande 243, 244, 478 | fonte: converted-md/slide parte 2/01 Granato
+- OK 123 | Granato, search e operational | trasformazione digitale | domande 245, 246, 479 | fonte: converted-md/slide parte 2/01 Granato
+- OK 124 | Granato, search e operational | USP | domande 247, 248, 480 | fonte: converted-md/slide parte 2/02 Granato
+- OK 125 | Granato, search e operational | USP comunicativa | domande 249, 250, 481 | fonte: converted-md/slide parte 2/02 Granato
+- OK 126 | Granato, search e operational | USP strutturale | domande 251, 252, 482 | fonte: converted-md/slide parte 2/02 Granato
+- OK 127 | Granato, search e operational | domanda latente | domande 253, 254, 483 | fonte: converted-md/slide parte 2/02 Granato
+- OK 128 | Granato, search e operational | domanda consapevole | domande 255, 256, 484 | fonte: converted-md/slide parte 2/02 Granato
+- OK 129 | Granato, search e operational | traffico qualificato | domande 257, 258, 485 | fonte: converted-md/slide parte 2/02 Granato
+- OK 130 | Granato, search e operational | SEO | domande 259, 260, 295, 296, 486 | fonte: converted-md/slide parte 2/03 Granato
+- OK 131 | Granato, search e operational | SEM e SEA | domande 261, 262, 487 | fonte: converted-md/appunti-web-marketing/Web Marketing.md
+- OK 132 | Granato, search e operational | crawling | domande 263, 264, 488 | fonte: converted-md/slide parte 2/03 Granato
+- OK 133 | Granato, search e operational | indexing | domande 265, 266, 489 | fonte: converted-md/slide parte 2/03 Granato
+- OK 134 | Granato, search e operational | ranking | domande 267, 268, 490 | fonte: converted-md/slide parte 2/03 Granato
+- OK 135 | Granato, search e operational | SEO on-page | domande 269, 270, 491 | fonte: converted-md/slide parte 2/03 Granato
+- OK 136 | Granato, search e operational | SEO off-page | domande 271, 272, 492 | fonte: converted-md/slide parte 2/03 Granato
+- OK 137 | Granato, search e operational | SEO tecnica | domande 273, 274, 493 | fonte: converted-md/slide parte 2/03 Granato
+- OK 138 | Granato, search e operational | search intent | domande 275, 276, 494 | fonte: converted-md/slide parte 2/04 Gabriele
+- OK 139 | Granato, search e operational | intento informazionale | domande 277, 278, 495 | fonte: converted-md/appunti-web-marketing/Web Marketing.md
+- OK 140 | Granato, search e operational | intento navigazionale | domande 279, 280, 496 | fonte: converted-md/appunti-web-marketing/Web Marketing.md
+- OK 141 | Granato, search e operational | intento commerciale | domande 281, 282, 497 | fonte: converted-md/appunti-web-marketing/Web Marketing.md
+- OK 142 | Granato, search e operational | intento transazionale | domande 283, 284, 498 | fonte: converted-md/appunti-web-marketing/Web Marketing.md
+- OK 143 | Granato, search e operational | AI Overview | domande 285, 286, 499 | fonte: converted-md/slide parte 2/05 Granato
+- OK 144 | Granato, search e operational | GEO | domande 287, 288, 500 | fonte: converted-md/appunti-web-marketing/Web Marketing.md
+- OK 145 | Granato, search e operational | keyword research | domande 289, 290 | fonte: converted-md/slide parte 2/05 Granato
+- OK 146 | Granato, search e operational | keyword long-tail | domande 291, 292 | fonte: converted-md/slide parte 2/05 Granato
+- OK 147 | Granato, search e operational | volume di ricerca | domande 293, 294 | fonte: converted-md/slide parte 2/05 Granato
+- OK 148 | Granato, search e operational | autorità SEO | domande 295, 296 | fonte: converted-md/slide parte 2/05 Granato
+- OK 149 | Granato, search e operational | backlink autorevoli | domande 297, 298 | fonte: converted-md/appunti.md
+- OK 150 | Granato, search e operational | digital advertising | domande 299, 300 | fonte: converted-md/appunti-web-marketing/Web Marketing.md
+- OK 151 | Granato, search e operational | search advertising | domande 301, 302 | fonte: converted-md/appunti-web-marketing/Web Marketing.md
+- OK 152 | Granato, search e operational | display advertising | domande 303, 304 | fonte: converted-md/appunti-web-marketing/Web Marketing.md
+- OK 153 | Granato, search e operational | video advertising in-stream | domande 305, 306 | fonte: converted-md/appunti-web-marketing/Web Marketing.md
+- OK 154 | Granato, search e operational | OTT advertising | domande 307, 308 | fonte: converted-md/appunti-web-marketing/Web Marketing.md
+- OK 155 | Granato, search e operational | CPC | domande 309, 310 | fonte: converted-md/appunti-web-marketing/Web Marketing.md
+- OK 156 | Granato, search e operational | CPM | domande 311, 312 | fonte: converted-md/appunti-web-marketing/Web Marketing.md
+- OK 157 | Granato, search e operational | ROAS | domande 313, 314 | fonte: converted-md/appunti-web-marketing/Web Marketing.md
+- OK 158 | Granato, search e operational | ACOS | domande 315, 316 | fonte: converted-md/appunti-web-marketing/Web Marketing.md
+- OK 159 | Granato, search e operational | digital analytics | domande 317, 318, 319, 320 | fonte: converted-md/slide parte 2/07 Gabriele
+- OK 160 | Granato, search e operational | acquisizione in digital analytics | domande 319, 320 | fonte: converted-md/slide parte 2/07 Gabriele
+- OK 161 | Granato, search e operational | frequenza di rimbalzo | domande 321, 322 | fonte: converted-md/slide parte 2/07 Gabriele
+- OK 162 | Granato, search e operational | acquisizione organica | domande 323, 324 | fonte: converted-md/slide parte 2/07 Gabriele
+- OK 163 | Granato, search e operational | obiettivo completato | domande 325, 326 | fonte: converted-md/slide parte 2/07 Gabriele
+- OK 164 | Granato, search e operational | email marketing | domande 327, 328 | fonte: converted-md/slide parte 2/08 Gabriele
+- OK 165 | Granato, search e operational | newsletter | domande 329, 330, 335, 336 | fonte: converted-md/slide parte 2/08 Gabriele
+- OK 166 | Granato, search e operational | email transazionale | domande 331, 332 | fonte: converted-md/slide parte 2/08 Gabriele
+- OK 167 | Granato, search e operational | email di remarketing | domande 333, 334 | fonte: converted-md/slide parte 2/08 Gabriele
+- OK 168 | Granato, search e operational | oggetto della newsletter | domande 335, 336 | fonte: converted-md/slide parte 2/08 Gabriele
+- OK 169 | Granato, search e operational | personalizzazione email | domande 337, 338 | fonte: converted-md/slide parte 2/08 Gabriele
+- OK 170 | Granato, search e operational | automazione email | domande 339, 340 | fonte: converted-md/slide parte 2/08 Gabriele
+- OK 171 | Granato, search e operational | content marketing | domande 341, 342 | fonte: converted-md/lezione-9-content-marketing
+- OK 172 | Granato, search e operational | content marketing pull | domande 343, 344 | fonte: converted-md/lezione-9-content-marketing
+- OK 173 | Granato, search e operational | piano editoriale | domande 345, 346 | fonte: converted-md/lezione-9-content-marketing
+- OK 174 | Granato, search e operational | modello AIDA | domande 347, 348 | fonte: converted-md/lezione-9-content-marketing
+- OK 175 | Granato, search e operational | modello PESO | domande 349, 350 | fonte: converted-md/lezione-9-content-marketing
+- OK 176 | Granato, search e operational | contenuto Hero | domande 351, 352 | fonte: converted-md/lezione-9-content-marketing
+- OK 177 | Granato, search e operational | contenuto Hub | domande 353, 354 | fonte: converted-md/lezione-9-content-marketing
+- OK 178 | Granato, search e operational | contenuto Help | domande 355, 356 | fonte: converted-md/lezione-9-content-marketing

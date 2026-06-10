@@ -6826,8 +6826,8 @@
     "options": {
       "A": "progettare una survey online per capire le preferenze di un nuovo target",
       "B": "usare report di settore o statistiche pubbliche per stimare un mercato",
-      "C": "mandare un link survey a una lista di clienti selezionati",
-      "D": "analizzare come gli utenti confrontano recensioni su un marketplace"
+      "C": "acquistare un report già pubblicato da una società di ricerca",
+      "D": "riutilizzare statistiche pubbliche raccolte da un ente esterno"
     }
   },
   {
@@ -6860,7 +6860,7 @@
       "A": "inserire un questionario su una landing page o diffonderlo via social",
       "B": "mandare un link survey a una lista di clienti selezionati",
       "C": "chiedere di descrivere con parole proprie l'esperienza con un servizio",
-      "D": "progettare una survey online per capire le preferenze di un nuovo target"
+      "D": "usare report di settore già pubblicati per descrivere il mercato"
     }
   },
   {
@@ -6891,7 +6891,7 @@
     "options": {
       "A": "scegliere una risposta tra tre opzioni predefinite",
       "B": "chiedere di descrivere con parole proprie l'esperienza con un servizio",
-      "C": "chiedere se l'utente ha mai acquistato online: sì o no",
+      "C": "misurare il tasso di completamento della survey dopo la raccolta",
       "D": "inserire un questionario su una landing page o diffonderlo via social"
     }
   },
@@ -7129,10 +7129,10 @@
     "source": "05_Dispense_Approfondimenti.md / McKinsey",
     "text": "Quale esempio è più coerente con valutazione attiva?",
     "options": {
-      "A": "un cliente scopre un nuovo brand leggendo confronti e recensioni online",
-      "B": "il consumatore aggiunge o rimuove brand durante la valutazione attiva",
+      "A": "confrontare recensioni, prezzi e alternative aggiungendo o rimuovendo brand dal set considerato",
+      "B": "passare da consapevolezza a considerazione e infine acquisto",
       "C": "un'esperienza positiva porta il cliente a riacquistare senza rivalutare troppe alternative",
-      "D": "passare da consapevolezza a considerazione e infine acquisto"
+      "D": "una recensione, un sito, un punto vendita o una email di conferma"
     }
   },
   {
@@ -7309,7 +7309,7 @@
     "source": "04_Slides_Corso.md / Buyer personas",
     "text": "Quale esempio è più coerente con disconfirmation paradigm?",
     "options": {
-      "A": "un cliente è soddisfatto se l'esperienza supera ciò che si aspettava",
+      "A": "confrontare le aspettative iniziali del cliente con la performance percepita dopo l'esperienza",
       "B": "descrivere obiettivi, obiezioni e preferenze comunicative di un cliente tipo",
       "C": "un servizio sorprende positivamente il cliente oltre la promessa attesa",
       "D": "scegliere di mappare il percorso di una buyer persona nel pre-acquisto"
@@ -7733,7 +7733,7 @@
     "source": "04_Slides_Corso.md / E-commerce",
     "text": "Quale esempio è più coerente con distanza fisica nell'e-commerce?",
     "options": {
-      "A": "foto degli utenti, video prodotto e AR riducono l'incertezza",
+      "A": "non poter toccare o provare il prodotto prima dell'acquisto online",
       "B": "recensioni, trasparenza e sicurezza aiutano il primo acquisto",
       "C": "permettere checkout come ospite riduce la barriera all'acquisto",
       "D": "utenti condividono recensioni e consigli dentro un percorso di shopping online"
@@ -7750,7 +7750,7 @@
     "source": "04_Slides_Corso.md / E-commerce",
     "text": "Quale esempio è più coerente con registrazione obbligatoria?",
     "options": {
-      "A": "permettere checkout come ospite riduce la barriera all'acquisto",
+      "A": "obbligare l'utente a creare un account prima di completare il checkout",
       "B": "foto degli utenti, video prodotto e AR riducono l'incertezza",
       "C": "un carrello chiaro mostra prezzo finale, spedizione e passaggi successivi",
       "D": "recensioni, trasparenza e sicurezza aiutano il primo acquisto"

@@ -199,6 +199,32 @@ function rotate(items, offset) {
   return items.map((_, index) => items[(index + offset) % items.length]);
 }
 
+function roleStem(term, conceptIndex) {
+  const variants = [
+    `A cosa serve il concetto di ${term} nel web marketing?`,
+    `Qual è il ruolo del concetto di ${term} nel web marketing?`,
+    `Perché il concetto di ${term} è rilevante nel web marketing?`,
+    `In che modo il concetto di ${term} aiuta nel web marketing?`,
+    `Nel contesto del web marketing, a cosa serve il concetto di ${term}?`,
+    `Quale affermazione descrive meglio il ruolo del concetto di ${term}?`,
+    `Qual è la funzione principale del concetto di ${term} nel web marketing?`,
+    `A cosa contribuisce il concetto di ${term} nel web marketing?`
+  ];
+  return variants[conceptIndex % variants.length];
+}
+
+function exampleStem(term, conceptIndex) {
+  const variants = [
+    `Quale di questi è un esempio del concetto di ${term}?`,
+    `Quale situazione descrive meglio il concetto di ${term}?`,
+    `In quale caso si applica meglio il concetto di ${term}?`,
+    `Quale tra questi esempi è collegato al concetto di ${term}?`,
+    `Quale opzione descrive un esempio corretto del concetto di ${term}?`,
+    `Quale dei seguenti esempi rappresenta meglio il concetto di ${term}?`
+  ];
+  return variants[conceptIndex % variants.length];
+}
+
 function questionFor(concept, kind, id, conceptIndex) {
   const d = distractorsFor(concept, kind, conceptIndex);
   const base = {
@@ -212,21 +238,21 @@ function questionFor(concept, kind, id, conceptIndex) {
   if (kind === 0) {
     return {
       ...base,
-      text: `Che cosa indica il concetto di ${concept.term}?`,
+      text: `Cosa si intende per ${concept.term}?`,
       options: { A: concept.definition, B: d[0], C: d[1], D: d[2] }
     };
   }
   if (kind === 1) {
     return {
       ...base,
-      text: `Nel web marketing, a cosa serve il concetto di ${concept.term}?`,
+      text: roleStem(concept.term, conceptIndex),
       options: { A: concept.role, B: d[0], C: d[1], D: d[2] }
     };
   }
   if (kind === 2) {
     return {
       ...base,
-      text: `Quale esempio è più coerente con il concetto di ${concept.term}?`,
+      text: exampleStem(concept.term, conceptIndex),
       options: { A: concept.example, B: d[0], C: d[1], D: d[2] }
     };
   }

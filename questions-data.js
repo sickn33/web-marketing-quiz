@@ -70,7 +70,7 @@
       "fondamenti"
     ],
     "source": "04_Slides_Corso.md / Evoluzione del marketing",
-    "text": "Quale ruolo svolge marketing management nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di marketing management?",
     "options": {
       "A": "serve a collegare analisi, strategia e leve operative orientate ai bisogni del mercato",
       "B": "è il punto di partenza su cui il marketing costruisce offerte e valore percepito",
@@ -102,7 +102,7 @@
       "fondamenti"
     ],
     "source": "04_Slides_Corso.md / Evoluzione del marketing",
-    "text": "Quale ruolo svolge bisogno nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di bisogno?",
     "options": {
       "A": "è il punto di partenza su cui il marketing costruisce offerte e valore percepito",
       "B": "serve a collegare analisi, strategia e leve operative orientate ai bisogni del mercato",
@@ -134,7 +134,7 @@
       "fondamenti"
     ],
     "source": "04_Slides_Corso.md / Evoluzione del marketing",
-    "text": "Quale ruolo svolge desiderio nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di desiderio?",
     "options": {
       "A": "trasforma un bisogno generale in una preferenza verso una soluzione concreta",
       "B": "è il punto di partenza su cui il marketing costruisce offerte e valore percepito",
@@ -166,7 +166,7 @@
       "fondamenti"
     ],
     "source": "04_Slides_Corso.md / Evoluzione del marketing",
-    "text": "Quale ruolo svolge offerta di marketing nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di offerta di marketing?",
     "options": {
       "A": "materializza la value proposition in qualcosa che il cliente può valutare e acquistare",
       "B": "trasforma un bisogno generale in una preferenza verso una soluzione concreta",
@@ -200,7 +200,7 @@
       "business"
     ],
     "source": "04_Slides_Corso.md / Business Model Digitali",
-    "text": "Quale ruolo svolge value proposition nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di value proposition?",
     "options": {
       "A": "spiega perché l'offerta dovrebbe essere rilevante per un segmento specifico",
       "B": "materializza la value proposition in qualcosa che il cliente può valutare e acquistare",
@@ -232,7 +232,7 @@
       "fondamenti"
     ],
     "source": "04_Slides_Corso.md / Evoluzione del marketing",
-    "text": "Quale ruolo svolge scambio di valore nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di scambio di valore?",
     "options": {
       "A": "è la logica che collega bisogni del cliente e obiettivi dell'organizzazione",
       "B": "spiega perché l'offerta dovrebbe essere rilevante per un segmento specifico",
@@ -264,7 +264,7 @@
       "fondamenti"
     ],
     "source": "04_Slides_Corso.md / Evoluzione del marketing",
-    "text": "Quale ruolo svolge fase analitica nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di fase analitica?",
     "options": {
       "A": "riduce l'asimmetria informativa prima delle scelte strategiche",
       "B": "trasforma l'analisi in scelte di mercato e direzione competitiva",
@@ -296,7 +296,7 @@
       "fondamenti"
     ],
     "source": "04_Slides_Corso.md / Evoluzione del marketing",
-    "text": "Quale ruolo svolge fase strategica nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di fase strategica?",
     "options": {
       "A": "trasforma l'analisi in scelte di mercato e direzione competitiva",
       "B": "riduce l'asimmetria informativa prima delle scelte strategiche",
@@ -328,7 +328,7 @@
       "fondamenti"
     ],
     "source": "04_Slides_Corso.md / Evoluzione del marketing",
-    "text": "Quale ruolo svolge fase operativa nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di fase operativa?",
     "options": {
       "A": "traduce posizionamento e obiettivi in prodotto, prezzo, distribuzione e promozione",
       "B": "trasforma l'analisi in scelte di mercato e direzione competitiva",
@@ -360,7 +360,7 @@
       "fondamenti"
     ],
     "source": "04_Slides_Corso.md / Evoluzione del marketing",
-    "text": "Quale ruolo svolge marketing mix 4P nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di marketing mix 4P?",
     "options": {
       "A": "organizza le leve controllabili con cui l'impresa porta valore al mercato",
       "B": "traduce posizionamento e obiettivi in prodotto, prezzo, distribuzione e promozione",
@@ -392,7 +392,7 @@
       "fondamenti"
     ],
     "source": "04_Slides_Corso.md / Evoluzione del marketing",
-    "text": "Quale ruolo svolge SWOT analysis nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di SWOT analysis?",
     "options": {
       "A": "aiuta a collegare analisi interna e ambiente competitivo",
       "B": "organizza le leve controllabili con cui l'impresa porta valore al mercato",
@@ -424,7 +424,7 @@
       "fondamenti"
     ],
     "source": "04_Slides_Corso.md / Segmentazione",
-    "text": "Quale ruolo svolge segmentazione nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di segmentazione?",
     "options": {
       "A": "permette di non trattare tutto il pubblico come una massa indifferenziata",
       "B": "concentra risorse e offerta sui gruppi più coerenti con obiettivi e capacità aziendali",
@@ -456,7 +456,7 @@
       "fondamenti"
     ],
     "source": "04_Slides_Corso.md / Evoluzione del marketing",
-    "text": "Quale ruolo svolge targeting nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di targeting?",
     "options": {
       "A": "concentra risorse e offerta sui gruppi più coerenti con obiettivi e capacità aziendali",
       "B": "permette di non trattare tutto il pubblico come una massa indifferenziata",
@@ -488,7 +488,7 @@
       "fondamenti"
     ],
     "source": "04_Slides_Corso.md / Evoluzione del marketing",
-    "text": "Quale ruolo svolge posizionamento nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di posizionamento?",
     "options": {
       "A": "orienta la percezione del valore e differenzia l'offerta",
       "B": "concentra risorse e offerta sui gruppi più coerenti con obiettivi e capacità aziendali",
@@ -520,7 +520,7 @@
       "fondamenti"
     ],
     "source": "04_Slides_Corso.md / Evoluzione del marketing",
-    "text": "Quale ruolo svolge mappa percettiva nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di mappa percettiva?",
     "options": {
       "A": "supporta le scelte di posizionamento visualizzando vicinanze e differenze competitive",
       "B": "orienta la percezione del valore e differenzia l'offerta",
@@ -552,7 +552,7 @@
       "fondamenti"
     ],
     "source": "05_Dispense_Approfondimenti.md / Marketing 4.0",
-    "text": "Quale ruolo svolge Marketing 1.0 nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di Marketing 1.0?",
     "options": {
       "A": "rappresenta la fase in cui il mercato viene trattato in modo poco differenziato",
       "B": "sposta l'attenzione dal prodotto indifferenziato ai bisogni dei consumatori",
@@ -584,7 +584,7 @@
       "fondamenti"
     ],
     "source": "05_Dispense_Approfondimenti.md / Marketing 4.0",
-    "text": "Quale ruolo svolge Marketing 2.0 nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di Marketing 2.0?",
     "options": {
       "A": "sposta l'attenzione dal prodotto indifferenziato ai bisogni dei consumatori",
       "B": "rappresenta la fase in cui il mercato viene trattato in modo poco differenziato",
@@ -616,7 +616,7 @@
       "fondamenti"
     ],
     "source": "05_Dispense_Approfondimenti.md / Marketing 4.0",
-    "text": "Quale ruolo svolge Marketing 3.0 nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di Marketing 3.0?",
     "options": {
       "A": "porta il brand oltre la sola soddisfazione funzionale del cliente",
       "B": "sposta l'attenzione dal prodotto indifferenziato ai bisogni dei consumatori",
@@ -650,7 +650,7 @@
       "digitale"
     ],
     "source": "05_Dispense_Approfondimenti.md / Marketing 4.0",
-    "text": "Quale ruolo svolge Marketing 4.0 nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di Marketing 4.0?",
     "options": {
       "A": "rafforza engagement e advocacy bilanciando tecnologia e relazione umana",
       "B": "porta il brand oltre la sola soddisfazione funzionale del cliente",
@@ -684,7 +684,7 @@
       "digitale"
     ],
     "source": "05_Dispense_Approfondimenti.md / Marketing 4.0",
-    "text": "Quale ruolo svolge customer community confirmation nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di customer community confirmation?",
     "options": {
       "A": "rende più orizzontale e partecipata la relazione tra brand e mercato",
       "B": "rafforza engagement e advocacy bilanciando tecnologia e relazione umana",
@@ -716,7 +716,7 @@
       "fondamenti"
     ],
     "source": "05_Dispense_Approfondimenti.md / Marketing 4.0",
-    "text": "Quale ruolo svolge brand characters and codes nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di brand characters and codes?",
     "options": {
       "A": "mantiene coerenza identitaria anche quando linguaggi e touchpoint cambiano",
       "B": "rende più orizzontale e partecipata la relazione tra brand e mercato",
@@ -750,7 +750,7 @@
       "business"
     ],
     "source": "05_Dispense_Approfondimenti.md / Marketing 4.0",
-    "text": "Quale ruolo svolge co-creation nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di co-creation?",
     "options": {
       "A": "trasforma il cliente da destinatario passivo a parte attiva della creazione di valore",
       "B": "mantiene coerenza identitaria anche quando linguaggi e touchpoint cambiano",
@@ -784,7 +784,7 @@
       "business"
     ],
     "source": "05_Dispense_Approfondimenti.md / Marketing 4.0",
-    "text": "Quale ruolo svolge currency nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di currency?",
     "options": {
       "A": "sostituisce l'idea di prezzo fisso come unica leva del marketing mix digitale",
       "B": "trasforma il cliente da destinatario passivo a parte attiva della creazione di valore",
@@ -818,7 +818,7 @@
       "business"
     ],
     "source": "05_Dispense_Approfondimenti.md / Marketing 4.0",
-    "text": "Quale ruolo svolge communal activation nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di communal activation?",
     "options": {
       "A": "spiega perché nel digitale la distribuzione passa anche da reti e prossimità sociale",
       "B": "sostituisce l'idea di prezzo fisso come unica leva del marketing mix digitale",
@@ -852,7 +852,7 @@
       "operational"
     ],
     "source": "05_Dispense_Approfondimenti.md / Marketing 4.0",
-    "text": "Quale ruolo svolge conversation nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di conversation?",
     "options": {
       "A": "rende social, review, forum e community spazi di relazione e ascolto",
       "B": "spiega perché nel digitale la distribuzione passa anche da reti e prossimità sociale",
@@ -884,7 +884,7 @@
       "fondamenti"
     ],
     "source": "07_Appunti_Corso.md / Web Marketing",
-    "text": "Quale ruolo svolge brand identity nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di brand identity?",
     "options": {
       "A": "costruisce l'intenzione espressiva del brand prima della percezione pubblica",
       "B": "rende social, review, forum e community spazi di relazione e ascolto",
@@ -916,7 +916,7 @@
       "fondamenti"
     ],
     "source": "07_Appunti_Corso.md / Web Marketing",
-    "text": "Quale ruolo svolge brand image nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di brand image?",
     "options": {
       "A": "permette di valutare se ciò che l'azienda comunica viene recepito come previsto",
       "B": "costruisce l'intenzione espressiva del brand prima della percezione pubblica",
@@ -948,7 +948,7 @@
       "fondamenti"
     ],
     "source": "07_Appunti_Corso.md / Web Marketing",
-    "text": "Quale ruolo svolge brand awareness nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di brand awareness?",
     "options": {
       "A": "misura quanto il brand entra nel set mentale dei consumatori",
       "B": "permette di valutare se ciò che l'azienda comunica viene recepito come previsto",
@@ -980,7 +980,7 @@
       "fondamenti"
     ],
     "source": "07_Appunti_Corso.md / Web Marketing",
-    "text": "Quale ruolo svolge brand equity nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di brand equity?",
     "options": {
       "A": "rende il brand un asset capace di generare preferenza e valore economico",
       "B": "misura quanto il brand entra nel set mentale dei consumatori",
@@ -1014,7 +1014,7 @@
       "business"
     ],
     "source": "07_Appunti_Corso.md / Web Marketing",
-    "text": "Quale ruolo svolge brand trust nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di brand trust?",
     "options": {
       "A": "riduce incertezza e rischio percepito, soprattutto nei contesti digitali",
       "B": "rende il brand un asset capace di generare preferenza e valore economico",
@@ -1048,7 +1048,7 @@
       "journey"
     ],
     "source": "07_Appunti_Corso.md / Web Marketing",
-    "text": "Quale ruolo svolge brand engagement nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di brand engagement?",
     "options": {
       "A": "indica una relazione cognitiva, emotiva o comportamentale oltre la semplice esposizione",
       "B": "riduce incertezza e rischio percepito, soprattutto nei contesti digitali",
@@ -1082,7 +1082,7 @@
       "journey"
     ],
     "source": "07_Appunti_Corso.md / Web Marketing",
-    "text": "Quale ruolo svolge brand advocacy nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di brand advocacy?",
     "options": {
       "A": "trasforma clienti soddisfatti in promotori attivi della marca",
       "B": "indica una relazione cognitiva, emotiva o comportamentale oltre la semplice esposizione",
@@ -1114,7 +1114,7 @@
       "digitale"
     ],
     "source": "04_Slides_Corso.md / Orientamento al digitale",
-    "text": "Quale ruolo svolge orientamento all'e-business nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di orientamento all'e-business?",
     "options": {
       "A": "ridefinisce fornitura, distribuzione, offerta e relazione con il cliente",
       "B": "collega tecnologie, clienti, processi e fonti di ricavo",
@@ -1148,7 +1148,7 @@
       "business"
     ],
     "source": "04_Slides_Corso.md / Orientamento al digitale",
-    "text": "Quale ruolo svolge business model digitale nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di business model digitale?",
     "options": {
       "A": "collega tecnologie, clienti, processi e fonti di ricavo",
       "B": "ridefinisce fornitura, distribuzione, offerta e relazione con il cliente",
@@ -1180,7 +1180,7 @@
       "digitale"
     ],
     "source": "04_Slides_Corso.md / Orientamento al digitale",
-    "text": "Quale ruolo svolge digital marketing tattico nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di digital marketing tattico?",
     "options": {
       "A": "spesso produce siti vetrina o presenze informative scollegate dagli obiettivi di business",
       "B": "collega tecnologie, clienti, processi e fonti di ricavo",
@@ -1212,7 +1212,7 @@
       "digitale"
     ],
     "source": "04_Slides_Corso.md / Orientamento al digitale",
-    "text": "Quale ruolo svolge digital marketing strategico nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di digital marketing strategico?",
     "options": {
       "A": "coordina canali e azioni in ottica omnicanale",
       "B": "spesso produce siti vetrina o presenze informative scollegate dagli obiettivi di business",
@@ -1246,7 +1246,7 @@
       "business"
     ],
     "source": "04_Slides_Corso.md / Orientamento al digitale",
-    "text": "Quale ruolo svolge livello core business digitale nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di livello core business digitale?",
     "options": {
       "A": "rende la strategia digitale parte centrale del modello di business",
       "B": "coordina canali e azioni in ottica omnicanale",
@@ -1280,7 +1280,7 @@
       "business"
     ],
     "source": "04_Slides_Corso.md / Orientamento al digitale",
-    "text": "Quale ruolo svolge bricks and mortar nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di bricks and mortar?",
     "options": {
       "A": "descrive il grado più basso di presenza online tra gli assetti strutturali",
       "B": "rende la strategia digitale parte centrale del modello di business",
@@ -1314,7 +1314,7 @@
       "business"
     ],
     "source": "04_Slides_Corso.md / Orientamento al digitale",
-    "text": "Quale ruolo svolge click and mortar nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di click and mortar?",
     "options": {
       "A": "combina presenza offline e online in modo potenzialmente omnicanale",
       "B": "descrive il grado più basso di presenza online tra gli assetti strutturali",
@@ -1348,7 +1348,7 @@
       "business"
     ],
     "source": "04_Slides_Corso.md / Orientamento al digitale",
-    "text": "Quale ruolo svolge pure play nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di pure play?",
     "options": {
       "A": "rappresenta un assetto strutturale completamente digitale",
       "B": "combina presenza offline e online in modo potenzialmente omnicanale",
@@ -1382,7 +1382,7 @@
       "journey"
     ],
     "source": "04_Slides_Corso.md / Orientamento al digitale",
-    "text": "Quale ruolo svolge omnicanalità nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di omnicanalità?",
     "options": {
       "A": "rende fluida l'esperienza quando il cliente passa tra touchpoint diversi",
       "B": "rappresenta un assetto strutturale completamente digitale",
@@ -1414,7 +1414,7 @@
       "digitale"
     ],
     "source": "04_Slides_Corso.md / Caratteristiche tecnologie digitali",
-    "text": "Quale ruolo svolge dato digitale nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di dato digitale?",
     "options": {
       "A": "è la base tecnica della trasformazione e trasmissione digitale",
       "B": "rende fluida l'esperienza quando il cliente passa tra touchpoint diversi",
@@ -1446,7 +1446,7 @@
       "digitale"
     ],
     "source": "04_Slides_Corso.md / Caratteristiche tecnologie digitali",
-    "text": "Quale ruolo svolge bit e byte nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di bit e byte?",
     "options": {
       "A": "permettono di misurare e organizzare l'informazione digitale",
       "B": "è la base tecnica della trasformazione e trasmissione digitale",
@@ -1478,7 +1478,7 @@
       "digitale"
     ],
     "source": "04_Slides_Corso.md / Caratteristiche tecnologie digitali",
-    "text": "Quale ruolo svolge digitale vs analogico nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di digitale vs analogico?",
     "options": {
       "A": "spiega la differenza tra codifica binaria e segnali continui",
       "B": "permettono di misurare e organizzare l'informazione digitale",
@@ -1510,7 +1510,7 @@
       "digitale"
     ],
     "source": "04_Slides_Corso.md / Caratteristiche tecnologie digitali",
-    "text": "Quale ruolo svolge piattaforme digitali nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di piattaforme digitali?",
     "options": {
       "A": "abilitano contenuti, comunicazioni e servizi digitali",
       "B": "spiega la differenza tra codifica binaria e segnali continui",
@@ -1542,7 +1542,7 @@
       "digitale"
     ],
     "source": "04_Slides_Corso.md / Caratteristiche tecnologie digitali",
-    "text": "Quale ruolo svolge device digitali nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di device digitali?",
     "options": {
       "A": "sono i punti materiali di accesso alle piattaforme",
       "B": "abilitano contenuti, comunicazioni e servizi digitali",
@@ -1574,7 +1574,7 @@
       "digitale"
     ],
     "source": "04_Slides_Corso.md / Caratteristiche tecnologie digitali",
-    "text": "Quale ruolo svolge Internet nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di Internet?",
     "options": {
       "A": "fornisce l'infrastruttura su cui possono operare web, piattaforme e servizi",
       "B": "sono i punti materiali di accesso alle piattaforme",
@@ -1606,7 +1606,7 @@
       "digitale"
     ],
     "source": "04_Slides_Corso.md / Caratteristiche tecnologie digitali",
-    "text": "Quale ruolo svolge Web nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di Web?",
     "options": {
       "A": "permette l'accesso a pagine, siti e contenuti tramite browser e link",
       "B": "fornisce l'infrastruttura su cui possono operare web, piattaforme e servizi",
@@ -1640,7 +1640,7 @@
       "fondamenti"
     ],
     "source": "04_Slides_Corso.md / Caratteristiche tecnologie digitali",
-    "text": "Quale ruolo svolge marketing digitale reticolare nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di marketing digitale reticolare?",
     "options": {
       "A": "rende i flussi di comunicazione bidirezionali e aperti alla co-creazione",
       "B": "permette l'accesso a pagine, siti e contenuti tramite browser e link",
@@ -1672,7 +1672,7 @@
       "digitale"
     ],
     "source": "04_Slides_Corso.md / Caratteristiche tecnologie digitali",
-    "text": "Quale ruolo svolge legge di Moore nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di legge di Moore?",
     "options": {
       "A": "spiega l'elevata produttività e il progresso delle tecnologie digitali",
       "B": "rende i flussi di comunicazione bidirezionali e aperti alla co-creazione",
@@ -1706,7 +1706,7 @@
       "business"
     ],
     "source": "04_Slides_Corso.md / Caratteristiche tecnologie digitali",
-    "text": "Quale ruolo svolge legge di Metcalfe nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di legge di Metcalfe?",
     "options": {
       "A": "spiega il potenziale diffusivo e gli effetti di rete",
       "B": "spiega l'elevata produttività e il progresso delle tecnologie digitali",
@@ -1740,7 +1740,7 @@
       "business"
     ],
     "source": "04_Slides_Corso.md / Caratteristiche tecnologie digitali",
-    "text": "Quale ruolo svolge lock-in nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di lock-in?",
     "options": {
       "A": "rafforza la permanenza degli utenti anche quando esistono alternative",
       "B": "spiega il potenziale diffusivo e gli effetti di rete",
@@ -1772,7 +1772,7 @@
       "digitale"
     ],
     "source": "04_Slides_Corso.md / Caratteristiche tecnologie digitali",
-    "text": "Quale ruolo svolge reach e richness nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di reach e richness?",
     "options": {
       "A": "il digitale attenua il trade-off permettendo ampia portata e informazioni profonde",
       "B": "rafforza la permanenza degli utenti anche quando esistono alternative",
@@ -1806,7 +1806,7 @@
       "business"
     ],
     "source": "04_Slides_Corso.md / Long Tail",
-    "text": "Quale ruolo svolge long tail nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di long tail?",
     "options": {
       "A": "supera il vincolo fisico dello scaffale e riduce la dipendenza dai soli blockbuster",
       "B": "il digitale attenua il trade-off permettendo ampia portata e informazioni profonde",
@@ -1838,7 +1838,7 @@
       "ricerca"
     ],
     "source": "04_Slides_Corso.md / Ricerche di mercato",
-    "text": "Quale ruolo svolge ricerca web-enabled nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di ricerca web-enabled?",
     "options": {
       "A": "usa strumenti online senza avere necessariamente come oggetto i comportamenti digitali",
       "B": "mette il web non solo come strumento ma come oggetto dell'indagine",
@@ -1870,7 +1870,7 @@
       "ricerca"
     ],
     "source": "04_Slides_Corso.md / Ricerche di mercato",
-    "text": "Quale ruolo svolge ricerca web-centric nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di ricerca web-centric?",
     "options": {
       "A": "mette il web non solo come strumento ma come oggetto dell'indagine",
       "B": "usa strumenti online senza avere necessariamente come oggetto i comportamenti digitali",
@@ -1902,7 +1902,7 @@
       "ricerca"
     ],
     "source": "04_Slides_Corso.md / Ricerche di mercato",
-    "text": "Quale ruolo svolge dati secondari nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di dati secondari?",
     "options": {
       "A": "permettono di partire da informazioni esistenti prima di raccogliere dati primari",
       "B": "mette il web non solo come strumento ma come oggetto dell'indagine",
@@ -1934,7 +1934,7 @@
       "ricerca"
     ],
     "source": "04_Slides_Corso.md / Ricerche di mercato",
-    "text": "Quale ruolo svolge dati primari nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di dati primari?",
     "options": {
       "A": "forniscono risposte dirette e aggiornate, ma richiedono tempo e risorse",
       "B": "permettono di partire da informazioni esistenti prima di raccogliere dati primari",
@@ -1968,7 +1968,7 @@
       "operational"
     ],
     "source": "04_Slides_Corso.md / Ricerche di mercato",
-    "text": "Quale ruolo svolge e-mail survey nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di e-mail survey?",
     "options": {
       "A": "consente di raggiungere contatti specifici con un invito diretto alla compilazione",
       "B": "forniscono risposte dirette e aggiornate, ma richiedono tempo e risorse",
@@ -2000,7 +2000,7 @@
       "ricerca"
     ],
     "source": "04_Slides_Corso.md / Ricerche di mercato",
-    "text": "Quale ruolo svolge web survey nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di web survey?",
     "options": {
       "A": "rende rapida ed economica la raccolta di risposte online",
       "B": "consente di raggiungere contatti specifici con un invito diretto alla compilazione",
@@ -2032,7 +2032,7 @@
       "ricerca"
     ],
     "source": "04_Slides_Corso.md / Ricerche di mercato",
-    "text": "Quale ruolo svolge domanda aperta nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di domanda aperta?",
     "options": {
       "A": "permette approfondimenti ma richiede più lavoro di codifica e analisi",
       "B": "rende rapida ed economica la raccolta di risposte online",
@@ -2064,7 +2064,7 @@
       "ricerca"
     ],
     "source": "04_Slides_Corso.md / Ricerche di mercato",
-    "text": "Quale ruolo svolge domanda chiusa nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di domanda chiusa?",
     "options": {
       "A": "facilita codifica, confronto e analisi quantitativa delle risposte",
       "B": "permette approfondimenti ma richiede più lavoro di codifica e analisi",
@@ -2096,7 +2096,7 @@
       "ricerca"
     ],
     "source": "04_Slides_Corso.md / Ricerche di mercato",
-    "text": "Quale ruolo svolge domanda dicotomica nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di domanda dicotomica?",
     "options": {
       "A": "serve quando la variabile può essere rilevata con una scelta binaria",
       "B": "facilita codifica, confronto e analisi quantitativa delle risposte",
@@ -2128,7 +2128,7 @@
       "ricerca"
     ],
     "source": "04_Slides_Corso.md / Ricerche di mercato",
-    "text": "Quale ruolo svolge domanda a risposta multipla nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di domanda a risposta multipla?",
     "options": {
       "A": "permette di misurare preferenze o categorie in modo strutturato",
       "B": "serve quando la variabile può essere rilevata con una scelta binaria",
@@ -2160,7 +2160,7 @@
       "ricerca"
     ],
     "source": "04_Slides_Corso.md / Ricerche di mercato",
-    "text": "Quale ruolo svolge scala Likert nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di scala Likert?",
     "options": {
       "A": "trasforma percezioni e opinioni in dati confrontabili",
       "B": "permette di misurare preferenze o categorie in modo strutturato",
@@ -2192,7 +2192,7 @@
       "ricerca"
     ],
     "source": "04_Slides_Corso.md / Ricerche di mercato",
-    "text": "Quale ruolo svolge domande filtro nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di domande filtro?",
     "options": {
       "A": "evitano di porre domande irrilevanti o non applicabili",
       "B": "trasforma percezioni e opinioni in dati confrontabili",
@@ -2224,7 +2224,7 @@
       "ricerca"
     ],
     "source": "04_Slides_Corso.md / Ricerche di mercato",
-    "text": "Quale ruolo svolge sequenza del questionario nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di sequenza del questionario?",
     "options": {
       "A": "riduce abbandono, stress e distorsioni nelle risposte",
       "B": "evitano di porre domande irrilevanti o non applicabili",
@@ -2256,7 +2256,7 @@
       "ricerca"
     ],
     "source": "04_Slides_Corso.md / Ricerche di mercato",
-    "text": "Quale ruolo svolge pre-test del questionario nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di pre-test del questionario?",
     "options": {
       "A": "serve a individuare ambiguità, errori e problemi di comprensione",
       "B": "riduce abbandono, stress e distorsioni nelle risposte",
@@ -2288,7 +2288,7 @@
       "ricerca"
     ],
     "source": "04_Slides_Corso.md / Ricerche di mercato",
-    "text": "Quale ruolo svolge rappresentatività del campione online nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di rappresentatività del campione online?",
     "options": {
       "A": "è una criticità perché online non sempre si controlla chi risponde e quanto il target sia coperto",
       "B": "serve a individuare ambiguità, errori e problemi di comprensione",
@@ -2320,7 +2320,7 @@
       "ricerca"
     ],
     "source": "04_Slides_Corso.md / Ricerche di mercato",
-    "text": "Quale ruolo svolge validità della misurazione online nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di validità della misurazione online?",
     "options": {
       "A": "può essere influenzata da browser, dispositivi, contesto e interpretazione delle scale",
       "B": "è una criticità perché online non sempre si controlla chi risponde e quanto il target sia coperto",
@@ -2352,7 +2352,7 @@
       "journey"
     ],
     "source": "04_Slides_Corso.md / Customer Journey",
-    "text": "Quale ruolo svolge nuovo consumatore iperconnesso nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di nuovo consumatore iperconnesso?",
     "options": {
       "A": "modifica la relazione brand-cliente rendendola più informata e partecipativa",
       "B": "partecipa alla narrazione e può influenzare altri consumatori",
@@ -2384,7 +2384,7 @@
       "journey"
     ],
     "source": "07_Appunti_Corso.md / Web Marketing",
-    "text": "Quale ruolo svolge prosumer nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di prosumer?",
     "options": {
       "A": "partecipa alla narrazione e può influenzare altri consumatori",
       "B": "modifica la relazione brand-cliente rendendola più informata e partecipativa",
@@ -2416,7 +2416,7 @@
       "journey"
     ],
     "source": "04_Slides_Corso.md / Customer Journey",
-    "text": "Quale ruolo svolge customer journey nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di customer journey?",
     "options": {
       "A": "permette di osservare interazioni, aspettative, emozioni e ostacoli nel tempo",
       "B": "partecipa alla narrazione e può influenzare altri consumatori",
@@ -2448,7 +2448,7 @@
       "journey"
     ],
     "source": "04_Slides_Corso.md / Customer Journey",
-    "text": "Quale ruolo svolge touchpoint nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di touchpoint?",
     "options": {
       "A": "rende osservabile dove il cliente incontra o valuta l'impresa",
       "B": "permette di osservare interazioni, aspettative, emozioni e ostacoli nel tempo",
@@ -2480,7 +2480,7 @@
       "journey"
     ],
     "source": "05_Dispense_Approfondimenti.md / McKinsey",
-    "text": "Quale ruolo svolge funnel tradizionale nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di funnel tradizionale?",
     "options": {
       "A": "rappresenta il percorso classico prima dei modelli circolari e multi-touchpoint",
       "B": "rende osservabile dove il cliente incontra o valuta l'impresa",
@@ -2512,7 +2512,7 @@
       "journey"
     ],
     "source": "05_Dispense_Approfondimenti.md / McKinsey",
-    "text": "Quale ruolo svolge consumer decision journey McKinsey nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di consumer decision journey McKinsey?",
     "options": {
       "A": "sostituisce la visione puramente lineare del funnel tradizionale",
       "B": "rappresenta il percorso classico prima dei modelli circolari e multi-touchpoint",
@@ -2544,7 +2544,7 @@
       "journey"
     ],
     "source": "05_Dispense_Approfondimenti.md / McKinsey",
-    "text": "Quale ruolo svolge valutazione attiva nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di valutazione attiva?",
     "options": {
       "A": "è fortemente influenzata da recensioni, passaparola ed esperienze consumer-driven",
       "B": "sostituisce la visione puramente lineare del funnel tradizionale",
@@ -2576,7 +2576,7 @@
       "journey"
     ],
     "source": "05_Dispense_Approfondimenti.md / McKinsey",
-    "text": "Quale ruolo svolge loyalty loop nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di loyalty loop?",
     "options": {
       "A": "può accorciare o riattivare percorsi decisionali successivi",
       "B": "è fortemente influenzata da recensioni, passaparola ed esperienze consumer-driven",
@@ -2608,7 +2608,7 @@
       "journey"
     ],
     "source": "05_Dispense_Approfondimenti.md / McKinsey",
-    "text": "Quale ruolo svolge esperienza post-acquisto nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di esperienza post-acquisto?",
     "options": {
       "A": "è cruciale per alimentare il loyalty loop",
       "B": "può accorciare o riattivare percorsi decisionali successivi",
@@ -2642,7 +2642,7 @@
       "digitale"
     ],
     "source": "07_Appunti_Corso.md / Web Marketing",
-    "text": "Quale ruolo svolge ZMOT nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di ZMOT?",
     "options": {
       "A": "anticipa il contatto diretto con prodotto o venditore e influenza la decisione",
       "B": "è cruciale per alimentare il loyalty loop",
@@ -2676,7 +2676,7 @@
       "business"
     ],
     "source": "07_Appunti_Corso.md / Web Marketing",
-    "text": "Quale ruolo svolge FMOT nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di FMOT?",
     "options": {
       "A": "riguarda la scelta nel punto di acquisto o nella pagina prodotto",
       "B": "anticipa il contatto diretto con prodotto o venditore e influenza la decisione",
@@ -2708,7 +2708,7 @@
       "journey"
     ],
     "source": "07_Appunti_Corso.md / Web Marketing",
-    "text": "Quale ruolo svolge SMOT nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di SMOT?",
     "options": {
       "A": "può generare contenuti e passaparola che diventano ZMOT per altri consumatori",
       "B": "riguarda la scelta nel punto di acquisto o nella pagina prodotto",
@@ -2740,7 +2740,7 @@
       "journey"
     ],
     "source": "04_Slides_Corso.md / Customer Journey",
-    "text": "Quale ruolo svolge touchpoint brand-owned nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di touchpoint brand-owned?",
     "options": {
       "A": "sono touchpoint su cui il brand ha maggiore governo",
       "B": "può generare contenuti e passaparola che diventano ZMOT per altri consumatori",
@@ -2772,7 +2772,7 @@
       "journey"
     ],
     "source": "04_Slides_Corso.md / Customer Journey",
-    "text": "Quale ruolo svolge touchpoint customer-owned nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di touchpoint customer-owned?",
     "options": {
       "A": "mostrano come il cliente costruisce esperienza anche fuori dai canali gestiti",
       "B": "sono touchpoint su cui il brand ha maggiore governo",
@@ -2804,7 +2804,7 @@
       "journey"
     ],
     "source": "04_Slides_Corso.md / Customer Journey",
-    "text": "Quale ruolo svolge customer journey map nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di customer journey map?",
     "options": {
       "A": "aiuta a individuare frizioni, insight e opportunità di miglioramento",
       "B": "mostrano come il cliente costruisce esperienza anche fuori dai canali gestiti",
@@ -2838,7 +2838,7 @@
       "ricerca"
     ],
     "source": "04_Slides_Corso.md / Customer Journey",
-    "text": "Quale ruolo svolge scoping della journey map nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di scoping della journey map?",
     "options": {
       "A": "delimita il perimetro dell'analisi prima della raccolta dati",
       "B": "aiuta a individuare frizioni, insight e opportunità di miglioramento",
@@ -2872,7 +2872,7 @@
       "fondamenti"
     ],
     "source": "04_Slides_Corso.md / Buyer personas",
-    "text": "Quale ruolo svolge buyer persona nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di buyer persona?",
     "options": {
       "A": "aiuta a progettare contenuti, soluzioni e campagne più aderenti ai segmenti",
       "B": "delimita il perimetro dell'analisi prima della raccolta dati",
@@ -2904,7 +2904,7 @@
       "journey"
     ],
     "source": "04_Slides_Corso.md / Buyer personas",
-    "text": "Quale ruolo svolge disconfirmation paradigm nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di disconfirmation paradigm?",
     "options": {
       "A": "spiega perché la customer satisfaction non dipende solo dalla qualità tecnica assoluta",
       "B": "aiuta a progettare contenuti, soluzioni e campagne più aderenti ai segmenti",
@@ -2936,7 +2936,7 @@
       "journey"
     ],
     "source": "04_Slides_Corso.md / Buyer personas",
-    "text": "Quale ruolo svolge customer delight nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di customer delight?",
     "options": {
       "A": "può rafforzare fedeltà, passaparola e relazione con il brand",
       "B": "spiega perché la customer satisfaction non dipende solo dalla qualità tecnica assoluta",
@@ -2970,7 +2970,7 @@
       "fondamenti"
     ],
     "source": "04_Slides_Corso.md / Buyer personas",
-    "text": "Quale ruolo svolge customer engagement nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di customer engagement?",
     "options": {
       "A": "può generare co-creazione, partecipazione e valore o anche effetti negativi",
       "B": "può rafforzare fedeltà, passaparola e relazione con il brand",
@@ -3002,7 +3002,7 @@
       "business"
     ],
     "source": "04_Slides_Corso.md / Business Model Digitali",
-    "text": "Quale ruolo svolge business model nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di business model?",
     "options": {
       "A": "racconta come l'impresa funziona economicamente e strategicamente",
       "B": "aiuta a visualizzare le componenti chiave del modello d'impresa",
@@ -3034,7 +3034,7 @@
       "business"
     ],
     "source": "04_Slides_Corso.md / Business Model Digitali",
-    "text": "Quale ruolo svolge Business Model Canvas nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di Business Model Canvas?",
     "options": {
       "A": "aiuta a visualizzare le componenti chiave del modello d'impresa",
       "B": "racconta come l'impresa funziona economicamente e strategicamente",
@@ -3068,7 +3068,7 @@
       "fondamenti"
     ],
     "source": "04_Slides_Corso.md / Business Model Digitali",
-    "text": "Quale ruolo svolge customer segments nel canvas nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di customer segments nel canvas?",
     "options": {
       "A": "orientano value proposition, canali, relazioni e ricavi",
       "B": "aiuta a visualizzare le componenti chiave del modello d'impresa",
@@ -3100,7 +3100,7 @@
       "business"
     ],
     "source": "04_Slides_Corso.md / Business Model Digitali",
-    "text": "Quale ruolo svolge channels nel canvas nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di channels nel canvas?",
     "options": {
       "A": "collegano offerta e cliente lungo comunicazione, distribuzione e vendita",
       "B": "orientano value proposition, canali, relazioni e ricavi",
@@ -3134,7 +3134,7 @@
       "journey"
     ],
     "source": "04_Slides_Corso.md / Business Model Digitali",
-    "text": "Quale ruolo svolge customer relationships nel canvas nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di customer relationships nel canvas?",
     "options": {
       "A": "definisce assistenza, automazione, community o personalizzazione del rapporto",
       "B": "collegano offerta e cliente lungo comunicazione, distribuzione e vendita",
@@ -3166,7 +3166,7 @@
       "business"
     ],
     "source": "04_Slides_Corso.md / Business Model Digitali",
-    "text": "Quale ruolo svolge revenue model nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di revenue model?",
     "options": {
       "A": "è una componente del business model dedicata ai flussi di ricavo",
       "B": "definisce assistenza, automazione, community o personalizzazione del rapporto",
@@ -3198,7 +3198,7 @@
       "business"
     ],
     "source": "04_Slides_Corso.md / Business Model Digitali",
-    "text": "Quale ruolo svolge cost structure nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di cost structure?",
     "options": {
       "A": "aiuta a valutare sostenibilità economica e formula di profitto",
       "B": "è una componente del business model dedicata ai flussi di ricavo",
@@ -3230,7 +3230,7 @@
       "business"
     ],
     "source": "04_Slides_Corso.md / Business Model Digitali",
-    "text": "Quale ruolo svolge freemium nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di freemium?",
     "options": {
       "A": "riduce la barriera d'ingresso e monetizza gli utenti che percepiscono valore aggiuntivo",
       "B": "aiuta a valutare sostenibilità economica e formula di profitto",
@@ -3264,7 +3264,7 @@
       "operational"
     ],
     "source": "04_Slides_Corso.md / Business Model Digitali",
-    "text": "Quale ruolo svolge advertising based revenue nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di advertising based revenue?",
     "options": {
       "A": "monetizza l'attenzione o il traffico generato dalla piattaforma",
       "B": "riduce la barriera d'ingresso e monetizza gli utenti che percepiscono valore aggiuntivo",
@@ -3296,7 +3296,7 @@
       "business"
     ],
     "source": "04_Slides_Corso.md / Business Model Digitali",
-    "text": "Quale ruolo svolge affiliation nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di affiliation?",
     "options": {
       "A": "premia la capacità di portare utenti qualificati a un'offerta di terzi",
       "B": "monetizza l'attenzione o il traffico generato dalla piattaforma",
@@ -3328,7 +3328,7 @@
       "business"
     ],
     "source": "04_Slides_Corso.md / Business Model Digitali",
-    "text": "Quale ruolo svolge commission based model nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di commission based model?",
     "options": {
       "A": "è tipico di marketplace che mettono in contatto domanda e offerta",
       "B": "premia la capacità di portare utenti qualificati a un'offerta di terzi",
@@ -3362,7 +3362,7 @@
       "digitale"
     ],
     "source": "07_Appunti_Corso.md / Web Marketing",
-    "text": "Quale ruolo svolge two-sided platform nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di two-sided platform?",
     "options": {
       "A": "deve attrarre entrambe le parti perché il valore dipende dalla presenza dell'altra",
       "B": "è tipico di marketplace che mettono in contatto domanda e offerta",
@@ -3396,7 +3396,7 @@
       "digitale"
     ],
     "source": "07_Appunti_Corso.md / Web Marketing",
-    "text": "Quale ruolo svolge network effect nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di network effect?",
     "options": {
       "A": "spiega perché le piattaforme possono diventare più utili e attrattive con la scala",
       "B": "deve attrarre entrambe le parti perché il valore dipende dalla presenza dell'altra",
@@ -3428,7 +3428,7 @@
       "business"
     ],
     "source": "05_Dispense_Approfondimenti.md / Sharing economy continuum",
-    "text": "Quale ruolo svolge sharing economy nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di sharing economy?",
     "options": {
       "A": "si colloca lungo un continuum tra condivisione e scambio economico",
       "B": "spiega perché le piattaforme possono diventare più utili e attrattive con la scala",
@@ -3460,7 +3460,7 @@
       "business"
     ],
     "source": "05_Dispense_Approfondimenti.md / Sharing economy continuum",
-    "text": "Quale ruolo svolge pure sharing nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di pure sharing?",
     "options": {
       "A": "valorizza comunità, socializzazione e accesso più che profitto immediato",
       "B": "si colloca lungo un continuum tra condivisione e scambio economico",
@@ -3492,7 +3492,7 @@
       "business"
     ],
     "source": "05_Dispense_Approfondimenti.md / Sharing economy continuum",
-    "text": "Quale ruolo svolge dual-mode sharing nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di dual-mode sharing?",
     "options": {
       "A": "richiede comunicazione coerente perché contiene sia comunità sia transazione",
       "B": "valorizza comunità, socializzazione e accesso più che profitto immediato",
@@ -3524,7 +3524,7 @@
       "business"
     ],
     "source": "04_Slides_Corso.md / E-commerce",
-    "text": "Quale ruolo svolge e-commerce nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di e-commerce?",
     "options": {
       "A": "estende la transazione includendo informazione, relazione, pagamento e servizio",
       "B": "richiede comunicazione coerente perché contiene sia comunità sia transazione",
@@ -3556,7 +3556,7 @@
       "business"
     ],
     "source": "04_Slides_Corso.md / E-commerce",
-    "text": "Quale ruolo svolge B2B e-commerce nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di B2B e-commerce?",
     "options": {
       "A": "rappresenta una delle categorie più rilevanti in termini economici",
       "B": "estende la transazione includendo informazione, relazione, pagamento e servizio",
@@ -3588,7 +3588,7 @@
       "business"
     ],
     "source": "04_Slides_Corso.md / E-commerce",
-    "text": "Quale ruolo svolge B2C e-commerce nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di B2C e-commerce?",
     "options": {
       "A": "è la forma più intuitiva per il consumatore finale online",
       "B": "rappresenta una delle categorie più rilevanti in termini economici",
@@ -3620,7 +3620,7 @@
       "business"
     ],
     "source": "04_Slides_Corso.md / E-commerce",
-    "text": "Quale ruolo svolge C2C e-commerce nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di C2C e-commerce?",
     "options": {
       "A": "abilita scambi peer-to-peer spesso mediati da marketplace",
       "B": "è la forma più intuitiva per il consumatore finale online",
@@ -3652,7 +3652,7 @@
       "business"
     ],
     "source": "04_Slides_Corso.md / E-commerce",
-    "text": "Quale ruolo svolge C2B e-commerce nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di C2B e-commerce?",
     "options": {
       "A": "ribalta la direzione classica della vendita impresa-cliente",
       "B": "abilita scambi peer-to-peer spesso mediati da marketplace",
@@ -3686,7 +3686,7 @@
       "journey"
     ],
     "source": "04_Slides_Corso.md / E-commerce",
-    "text": "Quale ruolo svolge social commerce nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di social commerce?",
     "options": {
       "A": "integra relazione sociale, informazione e acquisto",
       "B": "ribalta la direzione classica della vendita impresa-cliente",
@@ -3720,7 +3720,7 @@
       "journey"
     ],
     "source": "04_Slides_Corso.md / E-commerce",
-    "text": "Quale ruolo svolge fiducia nell'e-commerce nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di fiducia nell'e-commerce?",
     "options": {
       "A": "è critica perché il cliente non ha contatto fisico immediato con venditore e prodotto",
       "B": "integra relazione sociale, informazione e acquisto",
@@ -3752,7 +3752,7 @@
       "business"
     ],
     "source": "04_Slides_Corso.md / E-commerce",
-    "text": "Quale ruolo svolge distanza fisica nell'e-commerce nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di distanza fisica nell'e-commerce?",
     "options": {
       "A": "va ridotta con contenuti visuali, descrizioni, video e realtà aumentata",
       "B": "è critica perché il cliente non ha contatto fisico immediato con venditore e prodotto",
@@ -3786,7 +3786,7 @@
       "journey"
     ],
     "source": "04_Slides_Corso.md / E-commerce",
-    "text": "Quale ruolo svolge registrazione obbligatoria nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di registrazione obbligatoria?",
     "options": {
       "A": "può aumentare abbandono se imposta prima del checkout senza valore percepito",
       "B": "va ridotta con contenuti visuali, descrizioni, video e realtà aumentata",
@@ -3820,7 +3820,7 @@
       "journey"
     ],
     "source": "04_Slides_Corso.md / E-commerce",
-    "text": "Quale ruolo svolge carrello e-commerce nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di carrello e-commerce?",
     "options": {
       "A": "è un punto delicato in cui frizioni, costi inattesi o complessità possono generare abbandono",
       "B": "può aumentare abbandono se imposta prima del checkout senza valore percepito",
@@ -3854,7 +3854,7 @@
       "operational"
     ],
     "source": "04_Slides_Corso.md / E-commerce",
-    "text": "Quale ruolo svolge costo di acquisizione cliente nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di costo di acquisizione cliente?",
     "options": {
       "A": "è critico perché traffico e conversioni devono essere economicamente sostenibili",
       "B": "è un punto delicato in cui frizioni, costi inattesi o complessità possono generare abbandono",
@@ -3888,7 +3888,7 @@
       "digitale"
     ],
     "source": "04_Slides_Corso.md / E-commerce",
-    "text": "Quale ruolo svolge certificato digitale nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di certificato digitale?",
     "options": {
       "A": "aumenta fiducia e sicurezza nelle transazioni online",
       "B": "è critico perché traffico e conversioni devono essere economicamente sostenibili",
@@ -3922,7 +3922,7 @@
       "journey"
     ],
     "source": "04_Slides_Corso.md / E-commerce",
-    "text": "Quale ruolo svolge customer care online nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di customer care online?",
     "options": {
       "A": "compensa l'assenza di rapporto umano diretto e riduce incertezza",
       "B": "aumenta fiducia e sicurezza nelle transazioni online",
@@ -3954,7 +3954,7 @@
       "digitale"
     ],
     "source": "converted-md/slide parte 2/01 Granato",
-    "text": "Quale ruolo svolge innovazione nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di innovazione?",
     "options": {
       "A": "distingue il miglioramento utile dalla semplice creazione di qualcosa di nuovo",
       "B": "è il primo livello del passaggio al digitale",
@@ -3986,7 +3986,7 @@
       "digitale"
     ],
     "source": "converted-md/slide parte 2/01 Granato",
-    "text": "Quale ruolo svolge digitalizzazione nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di digitalizzazione?",
     "options": {
       "A": "è il primo livello del passaggio al digitale",
       "B": "distingue il miglioramento utile dalla semplice creazione di qualcosa di nuovo",
@@ -4018,7 +4018,7 @@
       "digitale"
     ],
     "source": "converted-md/slide parte 2/01 Granato",
-    "text": "Quale ruolo svolge digitalizzazione dei processi nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di digitalizzazione dei processi?",
     "options": {
       "A": "usa il digitale per rendere più efficienti attività esistenti",
       "B": "è il primo livello del passaggio al digitale",
@@ -4052,7 +4052,7 @@
       "business"
     ],
     "source": "converted-md/slide parte 2/01 Granato",
-    "text": "Quale ruolo svolge trasformazione digitale nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di trasformazione digitale?",
     "options": {
       "A": "tocca modello di business, processi, organizzazione ed esperienza cliente",
       "B": "usa il digitale per rendere più efficienti attività esistenti",
@@ -4086,7 +4086,7 @@
       "fondamenti"
     ],
     "source": "converted-md/slide parte 2/02 Granato",
-    "text": "Quale ruolo svolge USP nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di USP?",
     "options": {
       "A": "aiuta a emergere in un contesto digitale con molti messaggi e poca attenzione",
       "B": "tocca modello di business, processi, organizzazione ed esperienza cliente",
@@ -4120,7 +4120,7 @@
       "fondamenti"
     ],
     "source": "converted-md/slide parte 2/02 Granato",
-    "text": "Quale ruolo svolge USP comunicativa nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di USP comunicativa?",
     "options": {
       "A": "rappresenta il livello dichiarativo della promessa di valore",
       "B": "aiuta a emergere in un contesto digitale con molti messaggi e poca attenzione",
@@ -4154,7 +4154,7 @@
       "fondamenti"
     ],
     "source": "converted-md/slide parte 2/02 Granato",
-    "text": "Quale ruolo svolge USP strutturale nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di USP strutturale?",
     "options": {
       "A": "rende più credibile e difendibile la promessa comunicativa",
       "B": "rappresenta il livello dichiarativo della promessa di valore",
@@ -4188,7 +4188,7 @@
       "operational"
     ],
     "source": "converted-md/slide parte 2/02 Granato",
-    "text": "Quale ruolo svolge domanda latente nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di domanda latente?",
     "options": {
       "A": "richiede comunicazione capace di attivare consapevolezza",
       "B": "rende più credibile e difendibile la promessa comunicativa",
@@ -4222,7 +4222,7 @@
       "operational"
     ],
     "source": "converted-md/slide parte 2/02 Granato",
-    "text": "Quale ruolo svolge domanda consapevole nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di domanda consapevole?",
     "options": {
       "A": "si intercetta spesso con motori di ricerca e contenuti coerenti con l'intento",
       "B": "richiede comunicazione capace di attivare consapevolezza",
@@ -4256,7 +4256,7 @@
       "operational"
     ],
     "source": "converted-md/slide parte 2/02 Granato",
-    "text": "Quale ruolo svolge traffico qualificato nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di traffico qualificato?",
     "options": {
       "A": "conta più del semplice volume di visite perché aumenta probabilità di conversione",
       "B": "si intercetta spesso con motori di ricerca e contenuti coerenti con l'intento",
@@ -4290,7 +4290,7 @@
       "operational"
     ],
     "source": "converted-md/slide parte 2/03 Granato",
-    "text": "Quale ruolo svolge SEO nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di SEO?",
     "options": {
       "A": "mira a rendere una pagina rilevante e autorevole rispetto alle query degli utenti",
       "B": "conta più del semplice volume di visite perché aumenta probabilità di conversione",
@@ -4324,7 +4324,7 @@
       "operational"
     ],
     "source": "converted-md/appunti-web-marketing/Web Marketing.md",
-    "text": "Quale ruolo svolge SEM e SEA nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di SEM e SEA?",
     "options": {
       "A": "consentono risultati più rapidi ma richiedono budget pubblicitario",
       "B": "mira a rendere una pagina rilevante e autorevole rispetto alle query degli utenti",
@@ -4356,7 +4356,7 @@
       "digitale"
     ],
     "source": "converted-md/slide parte 2/03 Granato",
-    "text": "Quale ruolo svolge crawling nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di crawling?",
     "options": {
       "A": "è il primo passaggio perché una pagina possa essere scoperta",
       "B": "consentono risultati più rapidi ma richiedono budget pubblicitario",
@@ -4388,7 +4388,7 @@
       "digitale"
     ],
     "source": "converted-md/slide parte 2/03 Granato",
-    "text": "Quale ruolo svolge indexing nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di indexing?",
     "options": {
       "A": "fa diventare la pagina candidata a comparire per le query",
       "B": "è il primo passaggio perché una pagina possa essere scoperta",
@@ -4420,7 +4420,7 @@
       "digitale"
     ],
     "source": "converted-md/slide parte 2/03 Granato",
-    "text": "Quale ruolo svolge ranking nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di ranking?",
     "options": {
       "A": "determina la visibilità effettiva nella SERP",
       "B": "fa diventare la pagina candidata a comparire per le query",
@@ -4454,7 +4454,7 @@
       "operational"
     ],
     "source": "converted-md/slide parte 2/03 Granato",
-    "text": "Quale ruolo svolge SEO on-page nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di SEO on-page?",
     "options": {
       "A": "lavora su elementi che il sito controlla direttamente",
       "B": "determina la visibilità effettiva nella SERP",
@@ -4488,7 +4488,7 @@
       "operational"
     ],
     "source": "converted-md/slide parte 2/03 Granato",
-    "text": "Quale ruolo svolge SEO off-page nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di SEO off-page?",
     "options": {
       "A": "costruisce autorevolezza tramite segnali come menzioni e backlink",
       "B": "lavora su elementi che il sito controlla direttamente",
@@ -4522,7 +4522,7 @@
       "operational"
     ],
     "source": "converted-md/slide parte 2/03 Granato",
-    "text": "Quale ruolo svolge SEO tecnica nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di SEO tecnica?",
     "options": {
       "A": "lavora dietro le quinte su struttura, performance e accessibilità tecnica",
       "B": "costruisce autorevolezza tramite segnali come menzioni e backlink",
@@ -4556,7 +4556,7 @@
       "operational"
     ],
     "source": "converted-md/slide parte 2/04 Gabriele",
-    "text": "Quale ruolo svolge search intent nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di search intent?",
     "options": {
       "A": "guida la creazione di contenuti pertinenti e il miglioramento del traffico qualificato",
       "B": "lavora dietro le quinte su struttura, performance e accessibilità tecnica",
@@ -4590,7 +4590,7 @@
       "operational"
     ],
     "source": "converted-md/appunti-web-marketing/Web Marketing.md",
-    "text": "Quale ruolo svolge intento informazionale nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di intento informazionale?",
     "options": {
       "A": "di solito indica una fase fredda o iniziale del percorso",
       "B": "guida la creazione di contenuti pertinenti e il miglioramento del traffico qualificato",
@@ -4624,7 +4624,7 @@
       "operational"
     ],
     "source": "converted-md/appunti-web-marketing/Web Marketing.md",
-    "text": "Quale ruolo svolge intento navigazionale nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di intento navigazionale?",
     "options": {
       "A": "indica che la destinazione è già nota almeno in parte",
       "B": "di solito indica una fase fredda o iniziale del percorso",
@@ -4658,7 +4658,7 @@
       "operational"
     ],
     "source": "converted-md/appunti-web-marketing/Web Marketing.md",
-    "text": "Quale ruolo svolge intento commerciale nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di intento commerciale?",
     "options": {
       "A": "rappresenta un lead più caldo e una fase avanzata della journey",
       "B": "indica che la destinazione è già nota almeno in parte",
@@ -4692,7 +4692,7 @@
       "operational"
     ],
     "source": "converted-md/appunti-web-marketing/Web Marketing.md",
-    "text": "Quale ruolo svolge intento transazionale nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di intento transazionale?",
     "options": {
       "A": "richiede pagine capaci di ridurre frizioni e sostenere la conversione",
       "B": "rappresenta un lead più caldo e una fase avanzata della journey",
@@ -4726,7 +4726,7 @@
       "operational"
     ],
     "source": "converted-md/slide parte 2/05 Granato",
-    "text": "Quale ruolo svolge AI Overview nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di AI Overview?",
     "options": {
       "A": "trasforma il motore di ricerca in motore di risposta e può ridurre il click verso i siti",
       "B": "richiede pagine capaci di ridurre frizioni e sostenere la conversione",
@@ -4760,7 +4760,7 @@
       "operational"
     ],
     "source": "converted-md/appunti-web-marketing/Web Marketing.md",
-    "text": "Quale ruolo svolge GEO nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di GEO?",
     "options": {
       "A": "nasce con i risultati AI e premia qualità, specificità e strutturazione del contenuto",
       "B": "trasforma il motore di ricerca in motore di risposta e può ridurre il click verso i siti",
@@ -4794,7 +4794,7 @@
       "operational"
     ],
     "source": "converted-md/slide parte 2/05 Granato",
-    "text": "Quale ruolo svolge keyword research nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di keyword research?",
     "options": {
       "A": "la keyword diventa proxy della domanda e dell'intento dell'utente",
       "B": "nasce con i risultati AI e premia qualità, specificità e strutturazione del contenuto",
@@ -4828,7 +4828,7 @@
       "operational"
     ],
     "source": "converted-md/slide parte 2/05 Granato",
-    "text": "Quale ruolo svolge keyword long-tail nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di keyword long-tail?",
     "options": {
       "A": "sono utili perché più vicine a bisogni precisi e meno competitive",
       "B": "la keyword diventa proxy della domanda e dell'intento dell'utente",
@@ -4862,7 +4862,7 @@
       "operational"
     ],
     "source": "converted-md/slide parte 2/05 Granato",
-    "text": "Quale ruolo svolge volume di ricerca nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di volume di ricerca?",
     "options": {
       "A": "aiuta a stimare il potenziale traffico ma va letto insieme a rilevanza e concorrenza",
       "B": "sono utili perché più vicine a bisogni precisi e meno competitive",
@@ -4896,7 +4896,7 @@
       "operational"
     ],
     "source": "converted-md/slide parte 2/05 Granato",
-    "text": "Quale ruolo svolge autorità SEO nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di autorità SEO?",
     "options": {
       "A": "influenza la capacità di competere su keyword presidiate da fonti forti",
       "B": "aiuta a stimare il potenziale traffico ma va letto insieme a rilevanza e concorrenza",
@@ -4930,7 +4930,7 @@
       "operational"
     ],
     "source": "converted-md/appunti.md",
-    "text": "Quale ruolo svolge backlink autorevoli nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di backlink autorevoli?",
     "options": {
       "A": "sono un segnale esterno di fiducia per la SEO off-page",
       "B": "influenza la capacità di competere su keyword presidiate da fonti forti",
@@ -4962,7 +4962,7 @@
       "operational"
     ],
     "source": "converted-md/appunti-web-marketing/Web Marketing.md",
-    "text": "Quale ruolo svolge digital advertising nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di digital advertising?",
     "options": {
       "A": "permette targeting, flessibilità, modifiche rapide e budget scalabile",
       "B": "sono un segnale esterno di fiducia per la SEO off-page",
@@ -4996,7 +4996,7 @@
       "digitale"
     ],
     "source": "converted-md/appunti-web-marketing/Web Marketing.md",
-    "text": "Quale ruolo svolge search advertising nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di search advertising?",
     "options": {
       "A": "intercetta utenti che stanno formulando una query esplicita",
       "B": "permette targeting, flessibilità, modifiche rapide e budget scalabile",
@@ -5028,7 +5028,7 @@
       "operational"
     ],
     "source": "converted-md/appunti-web-marketing/Web Marketing.md",
-    "text": "Quale ruolo svolge display advertising nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di display advertising?",
     "options": {
       "A": "lavora sulla visibilità in spazi pubblicitari esterni alla SERP organica",
       "B": "intercetta utenti che stanno formulando una query esplicita",
@@ -5060,7 +5060,7 @@
       "operational"
     ],
     "source": "converted-md/appunti-web-marketing/Web Marketing.md",
-    "text": "Quale ruolo svolge video advertising in-stream nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di video advertising in-stream?",
     "options": {
       "A": "sfrutta il contesto di fruizione video per veicolare messaggi promozionali",
       "B": "lavora sulla visibilità in spazi pubblicitari esterni alla SERP organica",
@@ -5092,7 +5092,7 @@
       "operational"
     ],
     "source": "converted-md/appunti-web-marketing/Web Marketing.md",
-    "text": "Quale ruolo svolge OTT advertising nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di OTT advertising?",
     "options": {
       "A": "raggiunge utenti su servizi over-the-top non via satellite o cavo tradizionale",
       "B": "sfrutta il contesto di fruizione video per veicolare messaggi promozionali",
@@ -5124,7 +5124,7 @@
       "operational"
     ],
     "source": "converted-md/appunti-web-marketing/Web Marketing.md",
-    "text": "Quale ruolo svolge CPC nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di CPC?",
     "options": {
       "A": "misura l'efficienza economica della generazione di click paid",
       "B": "raggiunge utenti su servizi over-the-top non via satellite o cavo tradizionale",
@@ -5156,7 +5156,7 @@
       "operational"
     ],
     "source": "converted-md/appunti-web-marketing/Web Marketing.md",
-    "text": "Quale ruolo svolge CPM nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di CPM?",
     "options": {
       "A": "è utile per campagne orientate alla copertura o alla visibilità",
       "B": "misura l'efficienza economica della generazione di click paid",
@@ -5188,7 +5188,7 @@
       "operational"
     ],
     "source": "converted-md/appunti-web-marketing/Web Marketing.md",
-    "text": "Quale ruolo svolge ROAS nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di ROAS?",
     "options": {
       "A": "valuta la resa economica specifica dell'investimento advertising",
       "B": "è utile per campagne orientate alla copertura o alla visibilità",
@@ -5220,7 +5220,7 @@
       "operational"
     ],
     "source": "converted-md/appunti-web-marketing/Web Marketing.md",
-    "text": "Quale ruolo svolge ACOS nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di ACOS?",
     "options": {
       "A": "indica quanto pesa l'advertising sulle vendite generate",
       "B": "valuta la resa economica specifica dell'investimento advertising",
@@ -5254,7 +5254,7 @@
       "digitale"
     ],
     "source": "converted-md/slide parte 2/07 Gabriele",
-    "text": "Quale ruolo svolge digital analytics nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di digital analytics?",
     "options": {
       "A": "serve a migliorare esperienza, visibilità, contenuti e conversioni",
       "B": "indica quanto pesa l'advertising sulle vendite generate",
@@ -5286,7 +5286,7 @@
       "operational"
     ],
     "source": "converted-md/slide parte 2/07 Gabriele",
-    "text": "Quale ruolo svolge acquisizione in digital analytics nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di acquisizione in digital analytics?",
     "options": {
       "A": "permette di capire da quali canali arrivano utenti nuovi o esistenti",
       "B": "serve a migliorare esperienza, visibilità, contenuti e conversioni",
@@ -5318,7 +5318,7 @@
       "operational"
     ],
     "source": "converted-md/slide parte 2/07 Gabriele",
-    "text": "Quale ruolo svolge frequenza di rimbalzo nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di frequenza di rimbalzo?",
     "options": {
       "A": "aiuta a valutare se gli utenti interagiscono oltre la prima pagina",
       "B": "permette di capire da quali canali arrivano utenti nuovi o esistenti",
@@ -5352,7 +5352,7 @@
       "digitale"
     ],
     "source": "converted-md/slide parte 2/07 Gabriele",
-    "text": "Quale ruolo svolge acquisizione organica nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di acquisizione organica?",
     "options": {
       "A": "distingue visite provenienti da risultati organici rispetto a CPC o referral",
       "B": "aiuta a valutare se gli utenti interagiscono oltre la prima pagina",
@@ -5384,7 +5384,7 @@
       "operational"
     ],
     "source": "converted-md/slide parte 2/07 Gabriele",
-    "text": "Quale ruolo svolge obiettivo completato nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di obiettivo completato?",
     "options": {
       "A": "traduce un comportamento rilevante in dato misurabile",
       "B": "distingue visite provenienti da risultati organici rispetto a CPC o referral",
@@ -5416,7 +5416,7 @@
       "operational"
     ],
     "source": "converted-md/slide parte 2/08 Gabriele",
-    "text": "Quale ruolo svolge email marketing nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di email marketing?",
     "options": {
       "A": "mira a costruire relazione di valore e spingere alla conversione",
       "B": "traduce un comportamento rilevante in dato misurabile",
@@ -5448,7 +5448,7 @@
       "operational"
     ],
     "source": "converted-md/slide parte 2/08 Gabriele",
-    "text": "Quale ruolo svolge newsletter nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di newsletter?",
     "options": {
       "A": "mantiene vivo il rapporto con gli iscritti attraverso contenuti pertinenti",
       "B": "mira a costruire relazione di valore e spingere alla conversione",
@@ -5482,7 +5482,7 @@
       "business"
     ],
     "source": "converted-md/slide parte 2/08 Gabriele",
-    "text": "Quale ruolo svolge email transazionale nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di email transazionale?",
     "options": {
       "A": "conferma o supporta una transazione, iscrizione o richiesta",
       "B": "mantiene vivo il rapporto con gli iscritti attraverso contenuti pertinenti",
@@ -5516,7 +5516,7 @@
       "business"
     ],
     "source": "converted-md/slide parte 2/08 Gabriele",
-    "text": "Quale ruolo svolge email di remarketing nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di email di remarketing?",
     "options": {
       "A": "riattiva un'intenzione già emersa nel percorso di conversione",
       "B": "conferma o supporta una transazione, iscrizione o richiesta",
@@ -5548,7 +5548,7 @@
       "operational"
     ],
     "source": "converted-md/slide parte 2/08 Gabriele",
-    "text": "Quale ruolo svolge oggetto della newsletter nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di oggetto della newsletter?",
     "options": {
       "A": "ha forte impatto sull'apertura dell'email",
       "B": "riattiva un'intenzione già emersa nel percorso di conversione",
@@ -5580,7 +5580,7 @@
       "operational"
     ],
     "source": "converted-md/slide parte 2/08 Gabriele",
-    "text": "Quale ruolo svolge personalizzazione email nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di personalizzazione email?",
     "options": {
       "A": "aumenta engagement e percezione di rilevanza del brand",
       "B": "ha forte impatto sull'apertura dell'email",
@@ -5612,7 +5612,7 @@
       "operational"
     ],
     "source": "converted-md/slide parte 2/08 Gabriele",
-    "text": "Quale ruolo svolge automazione email nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di automazione email?",
     "options": {
       "A": "riduce lavoro manuale e aumenta tempestività ed efficacia",
       "B": "aumenta engagement e percezione di rilevanza del brand",
@@ -5646,7 +5646,7 @@
       "fondamenti"
     ],
     "source": "converted-md/lezione-9-content-marketing",
-    "text": "Quale ruolo svolge content marketing nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di content marketing?",
     "options": {
       "A": "costruisce fiducia e guida azioni profittevoli senza interrompere l'utente",
       "B": "riduce lavoro manuale e aumenta tempestività ed efficacia",
@@ -5678,7 +5678,7 @@
       "operational"
     ],
     "source": "converted-md/lezione-9-content-marketing",
-    "text": "Quale ruolo svolge content marketing pull nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di content marketing pull?",
     "options": {
       "A": "si contrappone alla pubblicità push che mette il prodotto davanti all'utente",
       "B": "costruisce fiducia e guida azioni profittevoli senza interrompere l'utente",
@@ -5710,7 +5710,7 @@
       "operational"
     ],
     "source": "converted-md/lezione-9-content-marketing",
-    "text": "Quale ruolo svolge piano editoriale nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di piano editoriale?",
     "options": {
       "A": "assicura coerenza, qualità e allineamento agli obiettivi di content marketing",
       "B": "si contrappone alla pubblicità push che mette il prodotto davanti all'utente",
@@ -5744,7 +5744,7 @@
       "journey"
     ],
     "source": "converted-md/lezione-9-content-marketing",
-    "text": "Quale ruolo svolge modello AIDA nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di modello AIDA?",
     "options": {
       "A": "aiuta a collegare contenuti e comunicazione a stadi psicologici progressivi",
       "B": "assicura coerenza, qualità e allineamento agli obiettivi di content marketing",
@@ -5776,7 +5776,7 @@
       "operational"
     ],
     "source": "converted-md/lezione-9-content-marketing",
-    "text": "Quale ruolo svolge modello PESO nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di modello PESO?",
     "options": {
       "A": "aiuta a pianificare la distribuzione integrata dei contenuti",
       "B": "aiuta a collegare contenuti e comunicazione a stadi psicologici progressivi",
@@ -5808,7 +5808,7 @@
       "operational"
     ],
     "source": "converted-md/lezione-9-content-marketing",
-    "text": "Quale ruolo svolge contenuto Hero nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di contenuto Hero?",
     "options": {
       "A": "serve a momenti di grande visibilità nel framework Hero-Hub-Help",
       "B": "aiuta a pianificare la distribuzione integrata dei contenuti",
@@ -5840,7 +5840,7 @@
       "operational"
     ],
     "source": "converted-md/lezione-9-content-marketing",
-    "text": "Quale ruolo svolge contenuto Hub nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di contenuto Hub?",
     "options": {
       "A": "mantiene la relazione con il pubblico nel tempo",
       "B": "serve a momenti di grande visibilità nel framework Hero-Hub-Help",
@@ -5874,7 +5874,7 @@
       "digitale"
     ],
     "source": "converted-md/lezione-9-content-marketing",
-    "text": "Quale ruolo svolge contenuto Help nel web marketing?",
+    "text": "Nel web marketing, a cosa serve il concetto di contenuto Help?",
     "options": {
       "A": "attira nuovi pubblici tramite ricerca e costruisce fiducia",
       "B": "mantiene la relazione con il pubblico nel tempo",
@@ -5890,7 +5890,7 @@
       "fondamenti"
     ],
     "source": "04_Slides_Corso.md / Evoluzione del marketing",
-    "text": "Quale esempio è più coerente con marketing management?",
+    "text": "Quale esempio è più coerente con il concetto di marketing management?",
     "options": {
       "A": "un'impresa analizza bisogni, definisce offerta e promuove un servizio coerente con il target",
       "B": "la necessità di sicurezza o appartenenza collocata nella piramide di Maslow",
@@ -5906,7 +5906,7 @@
       "fondamenti"
     ],
     "source": "04_Slides_Corso.md / Evoluzione del marketing",
-    "text": "Quale esempio è più coerente con bisogno?",
+    "text": "Quale esempio è più coerente con il concetto di bisogno?",
     "options": {
       "A": "la necessità di sicurezza o appartenenza collocata nella piramide di Maslow",
       "B": "un'impresa analizza bisogni, definisce offerta e promuove un servizio coerente con il target",
@@ -5922,7 +5922,7 @@
       "fondamenti"
     ],
     "source": "04_Slides_Corso.md / Evoluzione del marketing",
-    "text": "Quale esempio è più coerente con desiderio?",
+    "text": "Quale esempio è più coerente con il concetto di desiderio?",
     "options": {
       "A": "scegliere uno smartphone premium per soddisfare un bisogno di connessione e status",
       "B": "la necessità di sicurezza o appartenenza collocata nella piramide di Maslow",
@@ -5938,7 +5938,7 @@
       "fondamenti"
     ],
     "source": "04_Slides_Corso.md / Evoluzione del marketing",
-    "text": "Quale esempio è più coerente con offerta di marketing?",
+    "text": "Quale esempio è più coerente con il concetto di offerta di marketing?",
     "options": {
       "A": "un abbonamento digitale con app, assistenza, contenuti e community",
       "B": "scegliere uno smartphone premium per soddisfare un bisogno di connessione e status",
@@ -5955,7 +5955,7 @@
       "business"
     ],
     "source": "04_Slides_Corso.md / Business Model Digitali",
-    "text": "Quale esempio è più coerente con value proposition?",
+    "text": "Quale esempio è più coerente con il concetto di value proposition?",
     "options": {
       "A": "Dropbox promette accesso semplice e sincronizzato ai file tra dispositivi",
       "B": "un abbonamento digitale con app, assistenza, contenuti e community",
@@ -5971,7 +5971,7 @@
       "fondamenti"
     ],
     "source": "04_Slides_Corso.md / Evoluzione del marketing",
-    "text": "Quale esempio è più coerente con scambio di valore?",
+    "text": "Quale esempio è più coerente con il concetto di scambio di valore?",
     "options": {
       "A": "un utente paga un abbonamento perché percepisce benefici superiori al costo",
       "B": "Dropbox promette accesso semplice e sincronizzato ai file tra dispositivi",
@@ -5987,7 +5987,7 @@
       "fondamenti"
     ],
     "source": "04_Slides_Corso.md / Evoluzione del marketing",
-    "text": "Quale esempio è più coerente con fase analitica?",
+    "text": "Quale esempio è più coerente con il concetto di fase analitica?",
     "options": {
       "A": "analisi PESTEL, concorrenza, customer journey e punti di forza interni",
       "B": "scegliere un segmento prioritario e costruire una posizione distintiva",
@@ -6003,7 +6003,7 @@
       "fondamenti"
     ],
     "source": "04_Slides_Corso.md / Evoluzione del marketing",
-    "text": "Quale esempio è più coerente con fase strategica?",
+    "text": "Quale esempio è più coerente con il concetto di fase strategica?",
     "options": {
       "A": "scegliere un segmento prioritario e costruire una posizione distintiva",
       "B": "analisi PESTEL, concorrenza, customer journey e punti di forza interni",
@@ -6019,7 +6019,7 @@
       "fondamenti"
     ],
     "source": "04_Slides_Corso.md / Evoluzione del marketing",
-    "text": "Quale esempio è più coerente con fase operativa?",
+    "text": "Quale esempio è più coerente con il concetto di fase operativa?",
     "options": {
       "A": "definire packaging, pricing, canali e attività promozionali di un'offerta",
       "B": "scegliere un segmento prioritario e costruire una posizione distintiva",
@@ -6035,7 +6035,7 @@
       "fondamenti"
     ],
     "source": "04_Slides_Corso.md / Evoluzione del marketing",
-    "text": "Quale esempio è più coerente con marketing mix 4P?",
+    "text": "Quale esempio è più coerente con il concetto di marketing mix 4P?",
     "options": {
       "A": "decidere assortimento, livello di prezzo, canali e comunicazione di lancio",
       "B": "definire packaging, pricing, canali e attività promozionali di un'offerta",
@@ -6051,7 +6051,7 @@
       "fondamenti"
     ],
     "source": "04_Slides_Corso.md / Evoluzione del marketing",
-    "text": "Quale esempio è più coerente con SWOT analysis?",
+    "text": "Quale esempio è più coerente con il concetto di SWOT analysis?",
     "options": {
       "A": "classificare una community forte come strength e una nuova normativa come threat",
       "B": "decidere assortimento, livello di prezzo, canali e comunicazione di lancio",
@@ -6067,7 +6067,7 @@
       "fondamenti"
     ],
     "source": "04_Slides_Corso.md / Segmentazione",
-    "text": "Quale esempio è più coerente con segmentazione?",
+    "text": "Quale esempio è più coerente con il concetto di segmentazione?",
     "options": {
       "A": "separare clienti per comportamenti d'acquisto, bisogni o caratteristiche psicografiche",
       "B": "scegliere giovani professionisti digitali come pubblico prioritario dopo aver segmentato",
@@ -6083,7 +6083,7 @@
       "fondamenti"
     ],
     "source": "04_Slides_Corso.md / Evoluzione del marketing",
-    "text": "Quale esempio è più coerente con targeting?",
+    "text": "Quale esempio è più coerente con il concetto di targeting?",
     "options": {
       "A": "scegliere giovani professionisti digitali come pubblico prioritario dopo aver segmentato",
       "B": "separare clienti per comportamenti d'acquisto, bisogni o caratteristiche psicografiche",
@@ -6099,7 +6099,7 @@
       "fondamenti"
     ],
     "source": "04_Slides_Corso.md / Evoluzione del marketing",
-    "text": "Quale esempio è più coerente con posizionamento?",
+    "text": "Quale esempio è più coerente con il concetto di posizionamento?",
     "options": {
       "A": "presentare un servizio come il più semplice e affidabile per uno specifico target",
       "B": "scegliere giovani professionisti digitali come pubblico prioritario dopo aver segmentato",
@@ -6115,7 +6115,7 @@
       "fondamenti"
     ],
     "source": "04_Slides_Corso.md / Evoluzione del marketing",
-    "text": "Quale esempio è più coerente con mappa percettiva?",
+    "text": "Quale esempio è più coerente con il concetto di mappa percettiva?",
     "options": {
       "A": "collocare marche di snack per prezzo percepito e naturalità",
       "B": "presentare un servizio come il più semplice e affidabile per uno specifico target",
@@ -6131,7 +6131,7 @@
       "fondamenti"
     ],
     "source": "05_Dispense_Approfondimenti.md / Marketing 4.0",
-    "text": "Quale esempio è più coerente con Marketing 1.0?",
+    "text": "Quale esempio è più coerente con il concetto di Marketing 1.0?",
     "options": {
       "A": "comunicare principalmente le caratteristiche del prodotto a un pubblico ampio",
       "B": "adattare l'offerta a segmenti con esigenze diverse",
@@ -6147,7 +6147,7 @@
       "fondamenti"
     ],
     "source": "05_Dispense_Approfondimenti.md / Marketing 4.0",
-    "text": "Quale esempio è più coerente con Marketing 2.0?",
+    "text": "Quale esempio è più coerente con il concetto di Marketing 2.0?",
     "options": {
       "A": "adattare l'offerta a segmenti con esigenze diverse",
       "B": "comunicare principalmente le caratteristiche del prodotto a un pubblico ampio",
@@ -6163,7 +6163,7 @@
       "fondamenti"
     ],
     "source": "05_Dispense_Approfondimenti.md / Marketing 4.0",
-    "text": "Quale esempio è più coerente con Marketing 3.0?",
+    "text": "Quale esempio è più coerente con il concetto di Marketing 3.0?",
     "options": {
       "A": "un'impresa costruisce valore collegandosi a temi sociali e ambientali coerenti",
       "B": "adattare l'offerta a segmenti con esigenze diverse",
@@ -6180,7 +6180,7 @@
       "digitale"
     ],
     "source": "05_Dispense_Approfondimenti.md / Marketing 4.0",
-    "text": "Quale esempio è più coerente con Marketing 4.0?",
+    "text": "Quale esempio è più coerente con il concetto di Marketing 4.0?",
     "options": {
       "A": "usare dati e automazione senza perdere autenticità e contatto umano",
       "B": "un'impresa costruisce valore collegandosi a temi sociali e ambientali coerenti",
@@ -6197,7 +6197,7 @@
       "digitale"
     ],
     "source": "05_Dispense_Approfondimenti.md / Marketing 4.0",
-    "text": "Quale esempio è più coerente con customer community confirmation?",
+    "text": "Quale esempio è più coerente con il concetto di customer community confirmation?",
     "options": {
       "A": "un brand entra in una community già attiva mostrando coerenza e ascolto",
       "B": "usare dati e automazione senza perdere autenticità e contatto umano",
@@ -6213,7 +6213,7 @@
       "fondamenti"
     ],
     "source": "05_Dispense_Approfondimenti.md / Marketing 4.0",
-    "text": "Quale esempio è più coerente con brand characters and codes?",
+    "text": "Quale esempio è più coerente con il concetto di brand characters and codes?",
     "options": {
       "A": "un brand conserva tono, simboli e personalità coerenti su app, social e store",
       "B": "un brand entra in una community già attiva mostrando coerenza e ascolto",
@@ -6230,7 +6230,7 @@
       "business"
     ],
     "source": "05_Dispense_Approfondimenti.md / Marketing 4.0",
-    "text": "Quale esempio è più coerente con co-creation?",
+    "text": "Quale esempio è più coerente con il concetto di co-creation?",
     "options": {
       "A": "una community contribuisce a progettare nuove funzionalità di un servizio",
       "B": "un brand conserva tono, simboli e personalità coerenti su app, social e store",
@@ -6247,7 +6247,7 @@
       "business"
     ],
     "source": "05_Dispense_Approfondimenti.md / Marketing 4.0",
-    "text": "Quale esempio è più coerente con currency?",
+    "text": "Quale esempio è più coerente con il concetto di currency?",
     "options": {
       "A": "un prezzo che cambia in base a disponibilità, domanda o profilo d'acquisto",
       "B": "una community contribuisce a progettare nuove funzionalità di un servizio",
@@ -6264,7 +6264,7 @@
       "business"
     ],
     "source": "05_Dispense_Approfondimenti.md / Marketing 4.0",
-    "text": "Quale esempio è più coerente con communal activation?",
+    "text": "Quale esempio è più coerente con il concetto di communal activation?",
     "options": {
       "A": "una piattaforma che abilita scambi tra utenti e valorizza la partecipazione della community",
       "B": "un prezzo che cambia in base a disponibilità, domanda o profilo d'acquisto",
@@ -6281,7 +6281,7 @@
       "operational"
     ],
     "source": "05_Dispense_Approfondimenti.md / Marketing 4.0",
-    "text": "Quale esempio è più coerente con conversation?",
+    "text": "Quale esempio è più coerente con il concetto di conversation?",
     "options": {
       "A": "rispondere alle recensioni e integrare feedback nella comunicazione",
       "B": "una piattaforma che abilita scambi tra utenti e valorizza la partecipazione della community",
@@ -6297,7 +6297,7 @@
       "fondamenti"
     ],
     "source": "07_Appunti_Corso.md / Web Marketing",
-    "text": "Quale esempio è più coerente con brand identity?",
+    "text": "Quale esempio è più coerente con il concetto di brand identity?",
     "options": {
       "A": "definire valori, tono, simboli e promessa che l'impresa vuole trasmettere",
       "B": "rispondere alle recensioni e integrare feedback nella comunicazione",
@@ -6313,7 +6313,7 @@
       "fondamenti"
     ],
     "source": "07_Appunti_Corso.md / Web Marketing",
-    "text": "Quale esempio è più coerente con brand image?",
+    "text": "Quale esempio è più coerente con il concetto di brand image?",
     "options": {
       "A": "una marca percepita come sostenibile anche oltre ciò che dichiara nelle campagne",
       "B": "definire valori, tono, simboli e promessa che l'impresa vuole trasmettere",
@@ -6329,7 +6329,7 @@
       "fondamenti"
     ],
     "source": "07_Appunti_Corso.md / Web Marketing",
-    "text": "Quale esempio è più coerente con brand awareness?",
+    "text": "Quale esempio è più coerente con il concetto di brand awareness?",
     "options": {
       "A": "essere top of mind nella categoria bevande",
       "B": "una marca percepita come sostenibile anche oltre ciò che dichiara nelle campagne",
@@ -6345,7 +6345,7 @@
       "fondamenti"
     ],
     "source": "07_Appunti_Corso.md / Web Marketing",
-    "text": "Quale esempio è più coerente con brand equity?",
+    "text": "Quale esempio è più coerente con il concetto di brand equity?",
     "options": {
       "A": "un marchio forte permette premium price e fiducia più elevata",
       "B": "essere top of mind nella categoria bevande",
@@ -6362,7 +6362,7 @@
       "business"
     ],
     "source": "07_Appunti_Corso.md / Web Marketing",
-    "text": "Quale esempio è più coerente con brand trust?",
+    "text": "Quale esempio è più coerente con il concetto di brand trust?",
     "options": {
       "A": "un cliente acquista online perché ritiene affidabile il venditore",
       "B": "un marchio forte permette premium price e fiducia più elevata",
@@ -6379,7 +6379,7 @@
       "journey"
     ],
     "source": "07_Appunti_Corso.md / Web Marketing",
-    "text": "Quale esempio è più coerente con brand engagement?",
+    "text": "Quale esempio è più coerente con il concetto di brand engagement?",
     "options": {
       "A": "commentare, condividere o contribuire a iniziative del brand",
       "B": "un cliente acquista online perché ritiene affidabile il venditore",
@@ -6396,7 +6396,7 @@
       "journey"
     ],
     "source": "07_Appunti_Corso.md / Web Marketing",
-    "text": "Quale esempio è più coerente con brand advocacy?",
+    "text": "Quale esempio è più coerente con il concetto di brand advocacy?",
     "options": {
       "A": "un utente consiglia spontaneamente un servizio nella propria community",
       "B": "commentare, condividere o contribuire a iniziative del brand",
@@ -6412,7 +6412,7 @@
       "digitale"
     ],
     "source": "04_Slides_Corso.md / Orientamento al digitale",
-    "text": "Quale esempio è più coerente con orientamento all'e-business?",
+    "text": "Quale esempio è più coerente con il concetto di orientamento all'e-business?",
     "options": {
       "A": "un'impresa integra sistemi informativi, e-commerce e processi con partner e clienti",
       "B": "Spotify cambia il modello musicale da vendita di supporti a streaming in abbonamento",
@@ -6429,7 +6429,7 @@
       "business"
     ],
     "source": "04_Slides_Corso.md / Orientamento al digitale",
-    "text": "Quale esempio è più coerente con business model digitale?",
+    "text": "Quale esempio è più coerente con il concetto di business model digitale?",
     "options": {
       "A": "Spotify cambia il modello musicale da vendita di supporti a streaming in abbonamento",
       "B": "un'impresa integra sistemi informativi, e-commerce e processi con partner e clienti",
@@ -6445,7 +6445,7 @@
       "digitale"
     ],
     "source": "04_Slides_Corso.md / Orientamento al digitale",
-    "text": "Quale esempio è più coerente con digital marketing tattico?",
+    "text": "Quale esempio è più coerente con il concetto di digital marketing tattico?",
     "options": {
       "A": "un sito brochure aggiornato raramente e non integrato con canali o CRM",
       "B": "Spotify cambia il modello musicale da vendita di supporti a streaming in abbonamento",
@@ -6461,7 +6461,7 @@
       "digitale"
     ],
     "source": "04_Slides_Corso.md / Orientamento al digitale",
-    "text": "Quale esempio è più coerente con digital marketing strategico?",
+    "text": "Quale esempio è più coerente con il concetto di digital marketing strategico?",
     "options": {
       "A": "un retailer integra sito, store fisici, CRM e campagne coordinate",
       "B": "un sito brochure aggiornato raramente e non integrato con canali o CRM",
@@ -6478,7 +6478,7 @@
       "business"
     ],
     "source": "04_Slides_Corso.md / Orientamento al digitale",
-    "text": "Quale esempio è più coerente con livello core business digitale?",
+    "text": "Quale esempio è più coerente con il concetto di livello core business digitale?",
     "options": {
       "A": "una piattaforma nata online che genera valore quasi interamente tramite canali digitali",
       "B": "un retailer integra sito, store fisici, CRM e campagne coordinate",
@@ -6495,7 +6495,7 @@
       "business"
     ],
     "source": "04_Slides_Corso.md / Orientamento al digitale",
-    "text": "Quale esempio è più coerente con bricks and mortar?",
+    "text": "Quale esempio è più coerente con il concetto di bricks and mortar?",
     "options": {
       "A": "un negozio di quartiere che vende solo nel punto vendita",
       "B": "una piattaforma nata online che genera valore quasi interamente tramite canali digitali",
@@ -6512,7 +6512,7 @@
       "business"
     ],
     "source": "04_Slides_Corso.md / Orientamento al digitale",
-    "text": "Quale esempio è più coerente con click and mortar?",
+    "text": "Quale esempio è più coerente con il concetto di click and mortar?",
     "options": {
       "A": "Zara con punti vendita fisici e sito e-commerce",
       "B": "un negozio di quartiere che vende solo nel punto vendita",
@@ -6529,7 +6529,7 @@
       "business"
     ],
     "source": "04_Slides_Corso.md / Orientamento al digitale",
-    "text": "Quale esempio è più coerente con pure play?",
+    "text": "Quale esempio è più coerente con il concetto di pure play?",
     "options": {
       "A": "un marketplace nato e gestito solo via piattaforma online",
       "B": "Zara con punti vendita fisici e sito e-commerce",
@@ -6546,7 +6546,7 @@
       "journey"
     ],
     "source": "04_Slides_Corso.md / Orientamento al digitale",
-    "text": "Quale esempio è più coerente con omnicanalità?",
+    "text": "Quale esempio è più coerente con il concetto di omnicanalità?",
     "options": {
       "A": "iniziare un acquisto da smartphone, proseguirlo da desktop e ritirare in negozio",
       "B": "un marketplace nato e gestito solo via piattaforma online",
@@ -6562,7 +6562,7 @@
       "digitale"
     ],
     "source": "04_Slides_Corso.md / Caratteristiche tecnologie digitali",
-    "text": "Quale esempio è più coerente con dato digitale?",
+    "text": "Quale esempio è più coerente con il concetto di dato digitale?",
     "options": {
       "A": "un file composto da bit organizzati in byte",
       "B": "iniziare un acquisto da smartphone, proseguirlo da desktop e ritirare in negozio",
@@ -6578,7 +6578,7 @@
       "digitale"
     ],
     "source": "04_Slides_Corso.md / Caratteristiche tecnologie digitali",
-    "text": "Quale esempio è più coerente con bit e byte?",
+    "text": "Quale esempio è più coerente con il concetto di bit e byte?",
     "options": {
       "A": "una sequenza di 8 bit rappresenta un byte",
       "B": "un file composto da bit organizzati in byte",
@@ -6594,7 +6594,7 @@
       "digitale"
     ],
     "source": "04_Slides_Corso.md / Caratteristiche tecnologie digitali",
-    "text": "Quale esempio è più coerente con digitale vs analogico?",
+    "text": "Quale esempio è più coerente con il concetto di digitale vs analogico?",
     "options": {
       "A": "un CD codifica dati digitali, un vinile è associato a un supporto analogico",
       "B": "una sequenza di 8 bit rappresenta un byte",
@@ -6610,7 +6610,7 @@
       "digitale"
     ],
     "source": "04_Slides_Corso.md / Caratteristiche tecnologie digitali",
-    "text": "Quale esempio è più coerente con piattaforme digitali?",
+    "text": "Quale esempio è più coerente con il concetto di piattaforme digitali?",
     "options": {
       "A": "il web come piattaforma che ospita siti, contenuti e social network",
       "B": "un CD codifica dati digitali, un vinile è associato a un supporto analogico",
@@ -6626,7 +6626,7 @@
       "digitale"
     ],
     "source": "04_Slides_Corso.md / Caratteristiche tecnologie digitali",
-    "text": "Quale esempio è più coerente con device digitali?",
+    "text": "Quale esempio è più coerente con il concetto di device digitali?",
     "options": {
       "A": "uno smartwatch o uno smartphone che consente l'uso di app e web",
       "B": "il web come piattaforma che ospita siti, contenuti e social network",
@@ -6642,7 +6642,7 @@
       "digitale"
     ],
     "source": "04_Slides_Corso.md / Caratteristiche tecnologie digitali",
-    "text": "Quale esempio è più coerente con Internet?",
+    "text": "Quale esempio è più coerente con il concetto di Internet?",
     "options": {
       "A": "la rete che permette a un sito web di essere raggiunto",
       "B": "uno smartwatch o uno smartphone che consente l'uso di app e web",
@@ -6658,7 +6658,7 @@
       "digitale"
     ],
     "source": "04_Slides_Corso.md / Caratteristiche tecnologie digitali",
-    "text": "Quale esempio è più coerente con Web?",
+    "text": "Quale esempio è più coerente con il concetto di Web?",
     "options": {
       "A": "consultare una pagina informativa tramite browser",
       "B": "la rete che permette a un sito web di essere raggiunto",
@@ -6675,7 +6675,7 @@
       "fondamenti"
     ],
     "source": "04_Slides_Corso.md / Caratteristiche tecnologie digitali",
-    "text": "Quale esempio è più coerente con marketing digitale reticolare?",
+    "text": "Quale esempio è più coerente con il concetto di marketing digitale reticolare?",
     "options": {
       "A": "clienti che commentano, condividono e influenzano la narrazione del brand",
       "B": "consultare una pagina informativa tramite browser",
@@ -6691,7 +6691,7 @@
       "digitale"
     ],
     "source": "04_Slides_Corso.md / Caratteristiche tecnologie digitali",
-    "text": "Quale esempio è più coerente con legge di Moore?",
+    "text": "Quale esempio è più coerente con il concetto di legge di Moore?",
     "options": {
       "A": "maggiore potenza di calcolo disponibile a costi relativamente più accessibili",
       "B": "clienti che commentano, condividono e influenzano la narrazione del brand",
@@ -6708,7 +6708,7 @@
       "business"
     ],
     "source": "04_Slides_Corso.md / Caratteristiche tecnologie digitali",
-    "text": "Quale esempio è più coerente con legge di Metcalfe?",
+    "text": "Quale esempio è più coerente con il concetto di legge di Metcalfe?",
     "options": {
       "A": "una piattaforma diventa più utile man mano che aumentano gli utenti collegati",
       "B": "maggiore potenza di calcolo disponibile a costi relativamente più accessibili",
@@ -6725,7 +6725,7 @@
       "business"
     ],
     "source": "04_Slides_Corso.md / Caratteristiche tecnologie digitali",
-    "text": "Quale esempio è più coerente con lock-in?",
+    "text": "Quale esempio è più coerente con il concetto di lock-in?",
     "options": {
       "A": "abitudini e costi di migrazione rendono difficile abbandonare una tastiera o un ecosistema software",
       "B": "una piattaforma diventa più utile man mano che aumentano gli utenti collegati",
@@ -6741,7 +6741,7 @@
       "digitale"
     ],
     "source": "04_Slides_Corso.md / Caratteristiche tecnologie digitali",
-    "text": "Quale esempio è più coerente con reach e richness?",
+    "text": "Quale esempio è più coerente con il concetto di reach e richness?",
     "options": {
       "A": "un sito può raggiungere molti utenti e offrire schede prodotto dettagliate",
       "B": "abitudini e costi di migrazione rendono difficile abbandonare una tastiera o un ecosistema software",
@@ -6758,7 +6758,7 @@
       "business"
     ],
     "source": "04_Slides_Corso.md / Long Tail",
-    "text": "Quale esempio è più coerente con long tail?",
+    "text": "Quale esempio è più coerente con il concetto di long tail?",
     "options": {
       "A": "un e-commerce vende milioni di titoli, inclusi libri di nicchia poco richiesti singolarmente",
       "B": "un sito può raggiungere molti utenti e offrire schede prodotto dettagliate",
@@ -6774,7 +6774,7 @@
       "ricerca"
     ],
     "source": "04_Slides_Corso.md / Ricerche di mercato",
-    "text": "Quale esempio è più coerente con ricerca web-enabled?",
+    "text": "Quale esempio è più coerente con il concetto di ricerca web-enabled?",
     "options": {
       "A": "somministrare online un questionario su abitudini alimentari offline",
       "B": "analizzare come gli utenti confrontano recensioni su un marketplace",
@@ -6790,7 +6790,7 @@
       "ricerca"
     ],
     "source": "04_Slides_Corso.md / Ricerche di mercato",
-    "text": "Quale esempio è più coerente con ricerca web-centric?",
+    "text": "Quale esempio è più coerente con il concetto di ricerca web-centric?",
     "options": {
       "A": "analizzare come gli utenti confrontano recensioni su un marketplace",
       "B": "somministrare online un questionario su abitudini alimentari offline",
@@ -6806,7 +6806,7 @@
       "ricerca"
     ],
     "source": "04_Slides_Corso.md / Ricerche di mercato",
-    "text": "Quale esempio è più coerente con dati secondari?",
+    "text": "Quale esempio è più coerente con il concetto di dati secondari?",
     "options": {
       "A": "usare report di settore o statistiche pubbliche per stimare un mercato",
       "B": "analizzare come gli utenti confrontano recensioni su un marketplace",
@@ -6822,7 +6822,7 @@
       "ricerca"
     ],
     "source": "04_Slides_Corso.md / Ricerche di mercato",
-    "text": "Quale esempio è più coerente con dati primari?",
+    "text": "Quale esempio è più coerente con il concetto di dati primari?",
     "options": {
       "A": "progettare una survey online per capire le preferenze di un nuovo target",
       "B": "usare report di settore o statistiche pubbliche per stimare un mercato",
@@ -6839,7 +6839,7 @@
       "operational"
     ],
     "source": "04_Slides_Corso.md / Ricerche di mercato",
-    "text": "Quale esempio è più coerente con e-mail survey?",
+    "text": "Quale esempio è più coerente con il concetto di e-mail survey?",
     "options": {
       "A": "mandare un link survey a una lista di clienti selezionati",
       "B": "progettare una survey online per capire le preferenze di un nuovo target",
@@ -6855,7 +6855,7 @@
       "ricerca"
     ],
     "source": "04_Slides_Corso.md / Ricerche di mercato",
-    "text": "Quale esempio è più coerente con web survey?",
+    "text": "Quale esempio è più coerente con il concetto di web survey?",
     "options": {
       "A": "inserire un questionario su una landing page o diffonderlo via social",
       "B": "mandare un link survey a una lista di clienti selezionati",
@@ -6871,7 +6871,7 @@
       "ricerca"
     ],
     "source": "04_Slides_Corso.md / Ricerche di mercato",
-    "text": "Quale esempio è più coerente con domanda aperta?",
+    "text": "Quale esempio è più coerente con il concetto di domanda aperta?",
     "options": {
       "A": "chiedere di descrivere con parole proprie l'esperienza con un servizio",
       "B": "inserire un questionario su una landing page o diffonderlo via social",
@@ -6887,7 +6887,7 @@
       "ricerca"
     ],
     "source": "04_Slides_Corso.md / Ricerche di mercato",
-    "text": "Quale esempio è più coerente con domanda chiusa?",
+    "text": "Quale esempio è più coerente con il concetto di domanda chiusa?",
     "options": {
       "A": "scegliere una risposta tra tre opzioni predefinite",
       "B": "chiedere di descrivere con parole proprie l'esperienza con un servizio",
@@ -6903,7 +6903,7 @@
       "ricerca"
     ],
     "source": "04_Slides_Corso.md / Ricerche di mercato",
-    "text": "Quale esempio è più coerente con domanda dicotomica?",
+    "text": "Quale esempio è più coerente con il concetto di domanda dicotomica?",
     "options": {
       "A": "chiedere se l'utente ha mai acquistato online: sì o no",
       "B": "scegliere una risposta tra tre opzioni predefinite",
@@ -6919,7 +6919,7 @@
       "ricerca"
     ],
     "source": "04_Slides_Corso.md / Ricerche di mercato",
-    "text": "Quale esempio è più coerente con domanda a risposta multipla?",
+    "text": "Quale esempio è più coerente con il concetto di domanda a risposta multipla?",
     "options": {
       "A": "chiedere quali canali usa il cliente tra sito, social, app e negozio",
       "B": "chiedere se l'utente ha mai acquistato online: sì o no",
@@ -6935,7 +6935,7 @@
       "ricerca"
     ],
     "source": "04_Slides_Corso.md / Ricerche di mercato",
-    "text": "Quale esempio è più coerente con scala Likert?",
+    "text": "Quale esempio è più coerente con il concetto di scala Likert?",
     "options": {
       "A": "valutare da per niente d'accordo a molto d'accordo la fiducia verso un brand",
       "B": "chiedere quali canali usa il cliente tra sito, social, app e negozio",
@@ -6951,7 +6951,7 @@
       "ricerca"
     ],
     "source": "04_Slides_Corso.md / Ricerche di mercato",
-    "text": "Quale esempio è più coerente con domande filtro?",
+    "text": "Quale esempio è più coerente con il concetto di domande filtro?",
     "options": {
       "A": "chiedere se l'utente ha comprato online prima di domande sul checkout",
       "B": "valutare da per niente d'accordo a molto d'accordo la fiducia verso un brand",
@@ -6967,7 +6967,7 @@
       "ricerca"
     ],
     "source": "04_Slides_Corso.md / Ricerche di mercato",
-    "text": "Quale esempio è più coerente con sequenza del questionario?",
+    "text": "Quale esempio è più coerente con il concetto di sequenza del questionario?",
     "options": {
       "A": "mettere dati personali alla fine e domande facili all'inizio",
       "B": "chiedere se l'utente ha comprato online prima di domande sul checkout",
@@ -6983,7 +6983,7 @@
       "ricerca"
     ],
     "source": "04_Slides_Corso.md / Ricerche di mercato",
-    "text": "Quale esempio è più coerente con pre-test del questionario?",
+    "text": "Quale esempio è più coerente con il concetto di pre-test del questionario?",
     "options": {
       "A": "testare una survey su pochi rispondenti prima del lancio",
       "B": "mettere dati personali alla fine e domande facili all'inizio",
@@ -6999,7 +6999,7 @@
       "ricerca"
     ],
     "source": "04_Slides_Corso.md / Ricerche di mercato",
-    "text": "Quale esempio è più coerente con rappresentatività del campione online?",
+    "text": "Quale esempio è più coerente con il concetto di rappresentatività del campione online?",
     "options": {
       "A": "una web survey molto diffusa ma compilata solo da utenti giovani può essere distorta",
       "B": "testare una survey su pochi rispondenti prima del lancio",
@@ -7015,7 +7015,7 @@
       "ricerca"
     ],
     "source": "04_Slides_Corso.md / Ricerche di mercato",
-    "text": "Quale esempio è più coerente con validità della misurazione online?",
+    "text": "Quale esempio è più coerente con il concetto di validità della misurazione online?",
     "options": {
       "A": "una scala visualizzata male su mobile altera la qualità della risposta",
       "B": "una web survey molto diffusa ma compilata solo da utenti giovani può essere distorta",
@@ -7031,7 +7031,7 @@
       "journey"
     ],
     "source": "04_Slides_Corso.md / Customer Journey",
-    "text": "Quale esempio è più coerente con nuovo consumatore iperconnesso?",
+    "text": "Quale esempio è più coerente con il concetto di nuovo consumatore iperconnesso?",
     "options": {
       "A": "un utente confronta recensioni, social, sito e negozio prima di decidere",
       "B": "un cliente pubblica recensioni e contenuti che guidano le scelte altrui",
@@ -7047,7 +7047,7 @@
       "journey"
     ],
     "source": "07_Appunti_Corso.md / Web Marketing",
-    "text": "Quale esempio è più coerente con prosumer?",
+    "text": "Quale esempio è più coerente con il concetto di prosumer?",
     "options": {
       "A": "un cliente pubblica recensioni e contenuti che guidano le scelte altrui",
       "B": "un utente confronta recensioni, social, sito e negozio prima di decidere",
@@ -7063,7 +7063,7 @@
       "journey"
     ],
     "source": "04_Slides_Corso.md / Customer Journey",
-    "text": "Quale esempio è più coerente con customer journey?",
+    "text": "Quale esempio è più coerente con il concetto di customer journey?",
     "options": {
       "A": "seguire un cliente dalla ricerca online al consumo e al ricordo dell'esperienza",
       "B": "un cliente pubblica recensioni e contenuti che guidano le scelte altrui",
@@ -7079,7 +7079,7 @@
       "journey"
     ],
     "source": "04_Slides_Corso.md / Customer Journey",
-    "text": "Quale esempio è più coerente con touchpoint?",
+    "text": "Quale esempio è più coerente con il concetto di touchpoint?",
     "options": {
       "A": "una recensione, un sito, un punto vendita o una email di conferma",
       "B": "seguire un cliente dalla ricerca online al consumo e al ricordo dell'esperienza",
@@ -7095,7 +7095,7 @@
       "journey"
     ],
     "source": "05_Dispense_Approfondimenti.md / McKinsey",
-    "text": "Quale esempio è più coerente con funnel tradizionale?",
+    "text": "Quale esempio è più coerente con il concetto di funnel tradizionale?",
     "options": {
       "A": "passare da consapevolezza a considerazione e infine acquisto",
       "B": "una recensione, un sito, un punto vendita o una email di conferma",
@@ -7111,7 +7111,7 @@
       "journey"
     ],
     "source": "05_Dispense_Approfondimenti.md / McKinsey",
-    "text": "Quale esempio è più coerente con consumer decision journey McKinsey?",
+    "text": "Quale esempio è più coerente con il concetto di consumer decision journey McKinsey?",
     "options": {
       "A": "il consumatore aggiunge o rimuove brand durante la valutazione attiva",
       "B": "passare da consapevolezza a considerazione e infine acquisto",
@@ -7127,7 +7127,7 @@
       "journey"
     ],
     "source": "05_Dispense_Approfondimenti.md / McKinsey",
-    "text": "Quale esempio è più coerente con valutazione attiva?",
+    "text": "Quale esempio è più coerente con il concetto di valutazione attiva?",
     "options": {
       "A": "confrontare recensioni, prezzi e alternative aggiungendo o rimuovendo brand dal set considerato",
       "B": "passare da consapevolezza a considerazione e infine acquisto",
@@ -7143,7 +7143,7 @@
       "journey"
     ],
     "source": "05_Dispense_Approfondimenti.md / McKinsey",
-    "text": "Quale esempio è più coerente con loyalty loop?",
+    "text": "Quale esempio è più coerente con il concetto di loyalty loop?",
     "options": {
       "A": "un'esperienza positiva porta il cliente a riacquistare senza rivalutare troppe alternative",
       "B": "un cliente scopre un nuovo brand leggendo confronti e recensioni online",
@@ -7159,7 +7159,7 @@
       "journey"
     ],
     "source": "05_Dispense_Approfondimenti.md / McKinsey",
-    "text": "Quale esempio è più coerente con esperienza post-acquisto?",
+    "text": "Quale esempio è più coerente con il concetto di esperienza post-acquisto?",
     "options": {
       "A": "dopo l'acquisto un cliente valuta l'assistenza e decide se riacquistare",
       "B": "un'esperienza positiva porta il cliente a riacquistare senza rivalutare troppe alternative",
@@ -7176,7 +7176,7 @@
       "digitale"
     ],
     "source": "07_Appunti_Corso.md / Web Marketing",
-    "text": "Quale esempio è più coerente con ZMOT?",
+    "text": "Quale esempio è più coerente con il concetto di ZMOT?",
     "options": {
       "A": "vedere una pubblicità e poi cercare recensioni YouTube prima di comprare",
       "B": "dopo l'acquisto un cliente valuta l'assistenza e decide se riacquistare",
@@ -7193,7 +7193,7 @@
       "business"
     ],
     "source": "07_Appunti_Corso.md / Web Marketing",
-    "text": "Quale esempio è più coerente con FMOT?",
+    "text": "Quale esempio è più coerente con il concetto di FMOT?",
     "options": {
       "A": "valutare un prodotto nella scheda e-commerce prima di metterlo nel carrello",
       "B": "vedere una pubblicità e poi cercare recensioni YouTube prima di comprare",
@@ -7209,7 +7209,7 @@
       "journey"
     ],
     "source": "07_Appunti_Corso.md / Web Marketing",
-    "text": "Quale esempio è più coerente con SMOT?",
+    "text": "Quale esempio è più coerente con il concetto di SMOT?",
     "options": {
       "A": "provare un prodotto a casa e condividere una recensione",
       "B": "valutare un prodotto nella scheda e-commerce prima di metterlo nel carrello",
@@ -7225,7 +7225,7 @@
       "journey"
     ],
     "source": "04_Slides_Corso.md / Customer Journey",
-    "text": "Quale esempio è più coerente con touchpoint brand-owned?",
+    "text": "Quale esempio è più coerente con il concetto di touchpoint brand-owned?",
     "options": {
       "A": "sito aziendale, app, programma loyalty o pubblicità proprietaria",
       "B": "provare un prodotto a casa e condividere una recensione",
@@ -7241,7 +7241,7 @@
       "journey"
     ],
     "source": "04_Slides_Corso.md / Customer Journey",
-    "text": "Quale esempio è più coerente con touchpoint customer-owned?",
+    "text": "Quale esempio è più coerente con il concetto di touchpoint customer-owned?",
     "options": {
       "A": "un utente modifica un prodotto o cerca soluzioni autonome prima di contattare il brand",
       "B": "sito aziendale, app, programma loyalty o pubblicità proprietaria",
@@ -7257,7 +7257,7 @@
       "journey"
     ],
     "source": "04_Slides_Corso.md / Customer Journey",
-    "text": "Quale esempio è più coerente con customer journey map?",
+    "text": "Quale esempio è più coerente con il concetto di customer journey map?",
     "options": {
       "A": "mappare bisogni, emozioni, canali e ostacoli dalla ricerca al post-acquisto",
       "B": "un utente modifica un prodotto o cerca soluzioni autonome prima di contattare il brand",
@@ -7274,7 +7274,7 @@
       "ricerca"
     ],
     "source": "04_Slides_Corso.md / Customer Journey",
-    "text": "Quale esempio è più coerente con scoping della journey map?",
+    "text": "Quale esempio è più coerente con il concetto di scoping della journey map?",
     "options": {
       "A": "scegliere di mappare il percorso di una buyer persona nel pre-acquisto",
       "B": "mappare bisogni, emozioni, canali e ostacoli dalla ricerca al post-acquisto",
@@ -7291,7 +7291,7 @@
       "fondamenti"
     ],
     "source": "04_Slides_Corso.md / Buyer personas",
-    "text": "Quale esempio è più coerente con buyer persona?",
+    "text": "Quale esempio è più coerente con il concetto di buyer persona?",
     "options": {
       "A": "descrivere obiettivi, obiezioni e preferenze comunicative di un cliente tipo",
       "B": "scegliere di mappare il percorso di una buyer persona nel pre-acquisto",
@@ -7307,7 +7307,7 @@
       "journey"
     ],
     "source": "04_Slides_Corso.md / Buyer personas",
-    "text": "Quale esempio è più coerente con disconfirmation paradigm?",
+    "text": "Quale esempio è più coerente con il concetto di disconfirmation paradigm?",
     "options": {
       "A": "confrontare le aspettative iniziali del cliente con la performance percepita dopo l'esperienza",
       "B": "descrivere obiettivi, obiezioni e preferenze comunicative di un cliente tipo",
@@ -7323,7 +7323,7 @@
       "journey"
     ],
     "source": "04_Slides_Corso.md / Buyer personas",
-    "text": "Quale esempio è più coerente con customer delight?",
+    "text": "Quale esempio è più coerente con il concetto di customer delight?",
     "options": {
       "A": "un servizio sorprende positivamente il cliente oltre la promessa attesa",
       "B": "un cliente è soddisfatto se l'esperienza supera ciò che si aspettava",
@@ -7340,7 +7340,7 @@
       "fondamenti"
     ],
     "source": "04_Slides_Corso.md / Buyer personas",
-    "text": "Quale esempio è più coerente con customer engagement?",
+    "text": "Quale esempio è più coerente con il concetto di customer engagement?",
     "options": {
       "A": "un cliente partecipa alla community e produce contenuti sul brand",
       "B": "un servizio sorprende positivamente il cliente oltre la promessa attesa",
@@ -7356,7 +7356,7 @@
       "business"
     ],
     "source": "04_Slides_Corso.md / Business Model Digitali",
-    "text": "Quale esempio è più coerente con business model?",
+    "text": "Quale esempio è più coerente con il concetto di business model?",
     "options": {
       "A": "un servizio crea valore con piattaforma, consegna digitale e ricavi in abbonamento",
       "B": "mappare clienti, canali, ricavi e risorse di una piattaforma digitale",
@@ -7372,7 +7372,7 @@
       "business"
     ],
     "source": "04_Slides_Corso.md / Business Model Digitali",
-    "text": "Quale esempio è più coerente con Business Model Canvas?",
+    "text": "Quale esempio è più coerente con il concetto di Business Model Canvas?",
     "options": {
       "A": "mappare clienti, canali, ricavi e risorse di una piattaforma digitale",
       "B": "un servizio crea valore con piattaforma, consegna digitale e ricavi in abbonamento",
@@ -7389,7 +7389,7 @@
       "fondamenti"
     ],
     "source": "04_Slides_Corso.md / Business Model Digitali",
-    "text": "Quale esempio è più coerente con customer segments nel canvas?",
+    "text": "Quale esempio è più coerente con il concetto di customer segments nel canvas?",
     "options": {
       "A": "distinguere utenti free, clienti premium e aziende partner",
       "B": "mappare clienti, canali, ricavi e risorse di una piattaforma digitale",
@@ -7405,7 +7405,7 @@
       "business"
     ],
     "source": "04_Slides_Corso.md / Business Model Digitali",
-    "text": "Quale esempio è più coerente con channels nel canvas?",
+    "text": "Quale esempio è più coerente con il concetto di channels nel canvas?",
     "options": {
       "A": "app, sito e marketplace come canali per distribuire un servizio",
       "B": "distinguere utenti free, clienti premium e aziende partner",
@@ -7422,7 +7422,7 @@
       "journey"
     ],
     "source": "04_Slides_Corso.md / Business Model Digitali",
-    "text": "Quale esempio è più coerente con customer relationships nel canvas?",
+    "text": "Quale esempio è più coerente con il concetto di customer relationships nel canvas?",
     "options": {
       "A": "self-service, community o assistenza dedicata per gruppi diversi di clienti",
       "B": "app, sito e marketplace come canali per distribuire un servizio",
@@ -7438,7 +7438,7 @@
       "business"
     ],
     "source": "04_Slides_Corso.md / Business Model Digitali",
-    "text": "Quale esempio è più coerente con revenue model?",
+    "text": "Quale esempio è più coerente con il concetto di revenue model?",
     "options": {
       "A": "abbonamento, advertising, commissione o affiliazione",
       "B": "self-service, community o assistenza dedicata per gruppi diversi di clienti",
@@ -7454,7 +7454,7 @@
       "business"
     ],
     "source": "04_Slides_Corso.md / Business Model Digitali",
-    "text": "Quale esempio è più coerente con cost structure?",
+    "text": "Quale esempio è più coerente con il concetto di cost structure?",
     "options": {
       "A": "costi di piattaforma, logistica, acquisizione clienti e assistenza",
       "B": "abbonamento, advertising, commissione o affiliazione",
@@ -7470,7 +7470,7 @@
       "business"
     ],
     "source": "04_Slides_Corso.md / Business Model Digitali",
-    "text": "Quale esempio è più coerente con freemium?",
+    "text": "Quale esempio è più coerente con il concetto di freemium?",
     "options": {
       "A": "Spotify offre accesso gratuito limitato e piano premium",
       "B": "costi di piattaforma, logistica, acquisizione clienti e assistenza",
@@ -7487,7 +7487,7 @@
       "operational"
     ],
     "source": "04_Slides_Corso.md / Business Model Digitali",
-    "text": "Quale esempio è più coerente con advertising based revenue?",
+    "text": "Quale esempio è più coerente con il concetto di advertising based revenue?",
     "options": {
       "A": "un sito gratuito guadagna mostrando annunci a target specifici",
       "B": "Spotify offre accesso gratuito limitato e piano premium",
@@ -7503,7 +7503,7 @@
       "business"
     ],
     "source": "04_Slides_Corso.md / Business Model Digitali",
-    "text": "Quale esempio è più coerente con affiliation?",
+    "text": "Quale esempio è più coerente con il concetto di affiliation?",
     "options": {
       "A": "un blog riceve una commissione per acquisti generati tramite link affiliato",
       "B": "un sito gratuito guadagna mostrando annunci a target specifici",
@@ -7519,7 +7519,7 @@
       "business"
     ],
     "source": "04_Slides_Corso.md / Business Model Digitali",
-    "text": "Quale esempio è più coerente con commission based model?",
+    "text": "Quale esempio è più coerente con il concetto di commission based model?",
     "options": {
       "A": "una piattaforma incassa una percentuale per ogni vendita conclusa",
       "B": "un blog riceve una commissione per acquisti generati tramite link affiliato",
@@ -7536,7 +7536,7 @@
       "digitale"
     ],
     "source": "07_Appunti_Corso.md / Web Marketing",
-    "text": "Quale esempio è più coerente con two-sided platform?",
+    "text": "Quale esempio è più coerente con il concetto di two-sided platform?",
     "options": {
       "A": "Vinted ha bisogno sia di venditori sia di acquirenti",
       "B": "una piattaforma incassa una percentuale per ogni vendita conclusa",
@@ -7553,7 +7553,7 @@
       "digitale"
     ],
     "source": "07_Appunti_Corso.md / Web Marketing",
-    "text": "Quale esempio è più coerente con network effect?",
+    "text": "Quale esempio è più coerente con il concetto di network effect?",
     "options": {
       "A": "un'app di messaggistica diventa più utile quando la usano più persone",
       "B": "Vinted ha bisogno sia di venditori sia di acquirenti",
@@ -7569,7 +7569,7 @@
       "business"
     ],
     "source": "05_Dispense_Approfondimenti.md / Sharing economy continuum",
-    "text": "Quale esempio è più coerente con sharing economy?",
+    "text": "Quale esempio è più coerente con il concetto di sharing economy?",
     "options": {
       "A": "una piattaforma abilita accesso temporaneo o scambio tra utenti",
       "B": "un'app di messaggistica diventa più utile quando la usano più persone",
@@ -7585,7 +7585,7 @@
       "business"
     ],
     "source": "05_Dispense_Approfondimenti.md / Sharing economy continuum",
-    "text": "Quale esempio è più coerente con pure sharing?",
+    "text": "Quale esempio è più coerente con il concetto di pure sharing?",
     "options": {
       "A": "utenti che si scambiano beni gratuitamente in una community",
       "B": "una piattaforma abilita accesso temporaneo o scambio tra utenti",
@@ -7601,7 +7601,7 @@
       "business"
     ],
     "source": "05_Dispense_Approfondimenti.md / Sharing economy continuum",
-    "text": "Quale esempio è più coerente con dual-mode sharing?",
+    "text": "Quale esempio è più coerente con il concetto di dual-mode sharing?",
     "options": {
       "A": "piattaforme come Airbnb o Uber presentano accesso peer-to-peer ma anche pagamento",
       "B": "utenti che si scambiano beni gratuitamente in una community",
@@ -7617,7 +7617,7 @@
       "business"
     ],
     "source": "04_Slides_Corso.md / E-commerce",
-    "text": "Quale esempio è più coerente con e-commerce?",
+    "text": "Quale esempio è più coerente con il concetto di e-commerce?",
     "options": {
       "A": "un acquisto online con scheda prodotto, checkout, pagamento e assistenza post-vendita",
       "B": "piattaforme come Airbnb o Uber presentano accesso peer-to-peer ma anche pagamento",
@@ -7633,7 +7633,7 @@
       "business"
     ],
     "source": "04_Slides_Corso.md / E-commerce",
-    "text": "Quale esempio è più coerente con B2B e-commerce?",
+    "text": "Quale esempio è più coerente con il concetto di B2B e-commerce?",
     "options": {
       "A": "una piattaforma che vende forniture aziendali ad altre imprese",
       "B": "un acquisto online con scheda prodotto, checkout, pagamento e assistenza post-vendita",
@@ -7649,7 +7649,7 @@
       "business"
     ],
     "source": "04_Slides_Corso.md / E-commerce",
-    "text": "Quale esempio è più coerente con B2C e-commerce?",
+    "text": "Quale esempio è più coerente con il concetto di B2C e-commerce?",
     "options": {
       "A": "un cliente compra scarpe dal sito di un retailer",
       "B": "una piattaforma che vende forniture aziendali ad altre imprese",
@@ -7665,7 +7665,7 @@
       "business"
     ],
     "source": "04_Slides_Corso.md / E-commerce",
-    "text": "Quale esempio è più coerente con C2C e-commerce?",
+    "text": "Quale esempio è più coerente con il concetto di C2C e-commerce?",
     "options": {
       "A": "un privato vende un oggetto usato a un altro privato su una piattaforma",
       "B": "un cliente compra scarpe dal sito di un retailer",
@@ -7681,7 +7681,7 @@
       "business"
     ],
     "source": "04_Slides_Corso.md / E-commerce",
-    "text": "Quale esempio è più coerente con C2B e-commerce?",
+    "text": "Quale esempio è più coerente con il concetto di C2B e-commerce?",
     "options": {
       "A": "un utente propone un'invenzione brevettata o condizioni di prezzo a un'azienda",
       "B": "un privato vende un oggetto usato a un altro privato su una piattaforma",
@@ -7698,7 +7698,7 @@
       "journey"
     ],
     "source": "04_Slides_Corso.md / E-commerce",
-    "text": "Quale esempio è più coerente con social commerce?",
+    "text": "Quale esempio è più coerente con il concetto di social commerce?",
     "options": {
       "A": "utenti condividono recensioni e consigli dentro un percorso di shopping online",
       "B": "un utente propone un'invenzione brevettata o condizioni di prezzo a un'azienda",
@@ -7715,7 +7715,7 @@
       "journey"
     ],
     "source": "04_Slides_Corso.md / E-commerce",
-    "text": "Quale esempio è più coerente con fiducia nell'e-commerce?",
+    "text": "Quale esempio è più coerente con il concetto di fiducia nell'e-commerce?",
     "options": {
       "A": "recensioni, trasparenza e sicurezza aiutano il primo acquisto",
       "B": "utenti condividono recensioni e consigli dentro un percorso di shopping online",
@@ -7731,7 +7731,7 @@
       "business"
     ],
     "source": "04_Slides_Corso.md / E-commerce",
-    "text": "Quale esempio è più coerente con distanza fisica nell'e-commerce?",
+    "text": "Quale esempio è più coerente con il concetto di distanza fisica nell'e-commerce?",
     "options": {
       "A": "non poter toccare o provare il prodotto prima dell'acquisto online",
       "B": "recensioni, trasparenza e sicurezza aiutano il primo acquisto",
@@ -7748,7 +7748,7 @@
       "journey"
     ],
     "source": "04_Slides_Corso.md / E-commerce",
-    "text": "Quale esempio è più coerente con registrazione obbligatoria?",
+    "text": "Quale esempio è più coerente con il concetto di registrazione obbligatoria?",
     "options": {
       "A": "obbligare l'utente a creare un account prima di completare il checkout",
       "B": "foto degli utenti, video prodotto e AR riducono l'incertezza",
@@ -7765,7 +7765,7 @@
       "journey"
     ],
     "source": "04_Slides_Corso.md / E-commerce",
-    "text": "Quale esempio è più coerente con carrello e-commerce?",
+    "text": "Quale esempio è più coerente con il concetto di carrello e-commerce?",
     "options": {
       "A": "un carrello chiaro mostra prezzo finale, spedizione e passaggi successivi",
       "B": "permettere checkout come ospite riduce la barriera all'acquisto",
@@ -7782,7 +7782,7 @@
       "operational"
     ],
     "source": "04_Slides_Corso.md / E-commerce",
-    "text": "Quale esempio è più coerente con costo di acquisizione cliente?",
+    "text": "Quale esempio è più coerente con il concetto di costo di acquisizione cliente?",
     "options": {
       "A": "valutare quanto costa trasformare campagne e visite in nuovi acquirenti",
       "B": "un carrello chiaro mostra prezzo finale, spedizione e passaggi successivi",
@@ -7799,7 +7799,7 @@
       "digitale"
     ],
     "source": "04_Slides_Corso.md / E-commerce",
-    "text": "Quale esempio è più coerente con certificato digitale?",
+    "text": "Quale esempio è più coerente con il concetto di certificato digitale?",
     "options": {
       "A": "un certificato SSL protegge lo scambio di informazioni tra cliente e sito",
       "B": "valutare quanto costa trasformare campagne e visite in nuovi acquirenti",
@@ -7816,7 +7816,7 @@
       "journey"
     ],
     "source": "04_Slides_Corso.md / E-commerce",
-    "text": "Quale esempio è più coerente con customer care online?",
+    "text": "Quale esempio è più coerente con il concetto di customer care online?",
     "options": {
       "A": "chat, FAQ e supporto post-vendita aiutano durante acquisto e reso",
       "B": "un certificato SSL protegge lo scambio di informazioni tra cliente e sito",
@@ -7832,7 +7832,7 @@
       "digitale"
     ],
     "source": "converted-md/slide parte 2/01 Granato",
-    "text": "Quale esempio è più coerente con innovazione?",
+    "text": "Quale esempio è più coerente con il concetto di innovazione?",
     "options": {
       "A": "Netflix come innovazione del modello di fruizione rispetto al noleggio fisico",
       "B": "convertire fatture cartacee in fatture elettroniche o CD in MP3",
@@ -7848,7 +7848,7 @@
       "digitale"
     ],
     "source": "converted-md/slide parte 2/01 Granato",
-    "text": "Quale esempio è più coerente con digitalizzazione?",
+    "text": "Quale esempio è più coerente con il concetto di digitalizzazione?",
     "options": {
       "A": "convertire fatture cartacee in fatture elettroniche o CD in MP3",
       "B": "Netflix come innovazione del modello di fruizione rispetto al noleggio fisico",
@@ -7864,7 +7864,7 @@
       "digitale"
     ],
     "source": "converted-md/slide parte 2/01 Granato",
-    "text": "Quale esempio è più coerente con digitalizzazione dei processi?",
+    "text": "Quale esempio è più coerente con il concetto di digitalizzazione dei processi?",
     "options": {
       "A": "usare un CRM per gestire clienti o vendere musica online tramite iTunes",
       "B": "convertire fatture cartacee in fatture elettroniche o CD in MP3",
@@ -7881,7 +7881,7 @@
       "business"
     ],
     "source": "converted-md/slide parte 2/01 Granato",
-    "text": "Quale esempio è più coerente con trasformazione digitale?",
+    "text": "Quale esempio è più coerente con il concetto di trasformazione digitale?",
     "options": {
       "A": "passare dalla vendita di musica online allo streaming come Spotify",
       "B": "usare un CRM per gestire clienti o vendere musica online tramite iTunes",
@@ -7898,7 +7898,7 @@
       "fondamenti"
     ],
     "source": "converted-md/slide parte 2/02 Granato",
-    "text": "Quale esempio è più coerente con USP?",
+    "text": "Quale esempio è più coerente con il concetto di USP?",
     "options": {
       "A": "chiarire il beneficio unico per un segmento e contesto d'acquisto specifico",
       "B": "passare dalla vendita di musica online allo streaming come Spotify",
@@ -7915,7 +7915,7 @@
       "fondamenti"
     ],
     "source": "converted-md/slide parte 2/02 Granato",
-    "text": "Quale esempio è più coerente con USP comunicativa?",
+    "text": "Quale esempio è più coerente con il concetto di USP comunicativa?",
     "options": {
       "A": "un claim pubblicitario che comunica unicità senza provarla strutturalmente",
       "B": "chiarire il beneficio unico per un segmento e contesto d'acquisto specifico",
@@ -7932,7 +7932,7 @@
       "fondamenti"
     ],
     "source": "converted-md/slide parte 2/02 Granato",
-    "text": "Quale esempio è più coerente con USP strutturale?",
+    "text": "Quale esempio è più coerente con il concetto di USP strutturale?",
     "options": {
       "A": "Amazon riduce sistematicamente l'attrito nell'esperienza d'acquisto",
       "B": "un claim pubblicitario che comunica unicità senza provarla strutturalmente",
@@ -7949,7 +7949,7 @@
       "operational"
     ],
     "source": "converted-md/slide parte 2/02 Granato",
-    "text": "Quale esempio è più coerente con domanda latente?",
+    "text": "Quale esempio è più coerente con il concetto di domanda latente?",
     "options": {
       "A": "un utente scopre un problema tramite contenuti o advertising prima di cercare una soluzione",
       "B": "Amazon riduce sistematicamente l'attrito nell'esperienza d'acquisto",
@@ -7966,7 +7966,7 @@
       "operational"
     ],
     "source": "converted-md/slide parte 2/02 Granato",
-    "text": "Quale esempio è più coerente con domanda consapevole?",
+    "text": "Quale esempio è più coerente con il concetto di domanda consapevole?",
     "options": {
       "A": "digitare su Google una soluzione specifica a un problema già riconosciuto",
       "B": "un utente scopre un problema tramite contenuti o advertising prima di cercare una soluzione",
@@ -7983,7 +7983,7 @@
       "operational"
     ],
     "source": "converted-md/slide parte 2/02 Granato",
-    "text": "Quale esempio è più coerente con traffico qualificato?",
+    "text": "Quale esempio è più coerente con il concetto di traffico qualificato?",
     "options": {
       "A": "visitatori che arrivano da query coerenti con l'offerta e il bisogno",
       "B": "digitare su Google una soluzione specifica a un problema già riconosciuto",
@@ -8000,7 +8000,7 @@
       "operational"
     ],
     "source": "converted-md/slide parte 2/03 Granato",
-    "text": "Quale esempio è più coerente con SEO?",
+    "text": "Quale esempio è più coerente con il concetto di SEO?",
     "options": {
       "A": "ottimizzare titoli, contenuti, struttura tecnica e segnali esterni per la SERP",
       "B": "visitatori che arrivano da query coerenti con l'offerta e il bisogno",
@@ -8017,7 +8017,7 @@
       "operational"
     ],
     "source": "converted-md/appunti-web-marketing/Web Marketing.md",
-    "text": "Quale esempio è più coerente con SEM e SEA?",
+    "text": "Quale esempio è più coerente con il concetto di SEM e SEA?",
     "options": {
       "A": "pagare annunci testuali sopra i risultati organici per una keyword",
       "B": "ottimizzare titoli, contenuti, struttura tecnica e segnali esterni per la SERP",
@@ -8033,7 +8033,7 @@
       "digitale"
     ],
     "source": "converted-md/slide parte 2/03 Granato",
-    "text": "Quale esempio è più coerente con crawling?",
+    "text": "Quale esempio è più coerente con il concetto di crawling?",
     "options": {
       "A": "Googlebot visita pagine e segue link di un sito",
       "B": "pagare annunci testuali sopra i risultati organici per una keyword",
@@ -8049,7 +8049,7 @@
       "digitale"
     ],
     "source": "converted-md/slide parte 2/03 Granato",
-    "text": "Quale esempio è più coerente con indexing?",
+    "text": "Quale esempio è più coerente con il concetto di indexing?",
     "options": {
       "A": "una pagina accessibile viene salvata nel database del motore di ricerca",
       "B": "Googlebot visita pagine e segue link di un sito",
@@ -8065,7 +8065,7 @@
       "digitale"
     ],
     "source": "converted-md/slide parte 2/03 Granato",
-    "text": "Quale esempio è più coerente con ranking?",
+    "text": "Quale esempio è più coerente con il concetto di ranking?",
     "options": {
       "A": "una pagina già indicizzata viene mostrata più in alto perché risponde meglio all'intento",
       "B": "una pagina accessibile viene salvata nel database del motore di ricerca",
@@ -8082,7 +8082,7 @@
       "operational"
     ],
     "source": "converted-md/slide parte 2/03 Granato",
-    "text": "Quale esempio è più coerente con SEO on-page?",
+    "text": "Quale esempio è più coerente con il concetto di SEO on-page?",
     "options": {
       "A": "migliorare titoli, URL, heading, contenuto e struttura informativa",
       "B": "una pagina già indicizzata viene mostrata più in alto perché risponde meglio all'intento",
@@ -8099,7 +8099,7 @@
       "operational"
     ],
     "source": "converted-md/slide parte 2/03 Granato",
-    "text": "Quale esempio è più coerente con SEO off-page?",
+    "text": "Quale esempio è più coerente con il concetto di SEO off-page?",
     "options": {
       "A": "un sito autorevole linka una guida del brand e ne rafforza la credibilità",
       "B": "migliorare titoli, URL, heading, contenuto e struttura informativa",
@@ -8116,7 +8116,7 @@
       "operational"
     ],
     "source": "converted-md/slide parte 2/03 Granato",
-    "text": "Quale esempio è più coerente con SEO tecnica?",
+    "text": "Quale esempio è più coerente con il concetto di SEO tecnica?",
     "options": {
       "A": "migliorare codice, velocità, sitemap o problemi di indicizzazione",
       "B": "un sito autorevole linka una guida del brand e ne rafforza la credibilità",
@@ -8133,7 +8133,7 @@
       "operational"
     ],
     "source": "converted-md/slide parte 2/04 Gabriele",
-    "text": "Quale esempio è più coerente con search intent?",
+    "text": "Quale esempio è più coerente con il concetto di search intent?",
     "options": {
       "A": "capire se l'utente vuole informarsi, confrontare o comprare",
       "B": "migliorare codice, velocità, sitemap o problemi di indicizzazione",
@@ -8150,7 +8150,7 @@
       "operational"
     ],
     "source": "converted-md/appunti-web-marketing/Web Marketing.md",
-    "text": "Quale esempio è più coerente con intento informazionale?",
+    "text": "Quale esempio è più coerente con il concetto di intento informazionale?",
     "options": {
       "A": "cercare 'che cos'è il content marketing'",
       "B": "capire se l'utente vuole informarsi, confrontare o comprare",
@@ -8167,7 +8167,7 @@
       "operational"
     ],
     "source": "converted-md/appunti-web-marketing/Web Marketing.md",
-    "text": "Quale esempio è più coerente con intento navigazionale?",
+    "text": "Quale esempio è più coerente con il concetto di intento navigazionale?",
     "options": {
       "A": "digitare il nome di una marca per raggiungere il suo sito ufficiale",
       "B": "cercare 'che cos'è il content marketing'",
@@ -8184,7 +8184,7 @@
       "operational"
     ],
     "source": "converted-md/appunti-web-marketing/Web Marketing.md",
-    "text": "Quale esempio è più coerente con intento commerciale?",
+    "text": "Quale esempio è più coerente con il concetto di intento commerciale?",
     "options": {
       "A": "cercare 'miglior CRM per piccole imprese confronto prezzi'",
       "B": "digitare il nome di una marca per raggiungere il suo sito ufficiale",
@@ -8201,7 +8201,7 @@
       "operational"
     ],
     "source": "converted-md/appunti-web-marketing/Web Marketing.md",
-    "text": "Quale esempio è più coerente con intento transazionale?",
+    "text": "Quale esempio è più coerente con il concetto di intento transazionale?",
     "options": {
       "A": "cercare 'compra scarpe running numero 42 spedizione rapida'",
       "B": "cercare 'miglior CRM per piccole imprese confronto prezzi'",
@@ -8218,7 +8218,7 @@
       "operational"
     ],
     "source": "converted-md/slide parte 2/05 Granato",
-    "text": "Quale esempio è più coerente con AI Overview?",
+    "text": "Quale esempio è più coerente con il concetto di AI Overview?",
     "options": {
       "A": "l'utente ottiene una sintesi direttamente in SERP senza aprire subito un risultato",
       "B": "cercare 'compra scarpe running numero 42 spedizione rapida'",
@@ -8235,7 +8235,7 @@
       "operational"
     ],
     "source": "converted-md/appunti-web-marketing/Web Marketing.md",
-    "text": "Quale esempio è più coerente con GEO?",
+    "text": "Quale esempio è più coerente con il concetto di GEO?",
     "options": {
       "A": "scrivere contenuti autorevoli e semanticamente chiari per comparire nelle risposte AI",
       "B": "l'utente ottiene una sintesi direttamente in SERP senza aprire subito un risultato",

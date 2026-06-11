@@ -219,14 +219,14 @@ function questionFor(concept, kind, id, conceptIndex) {
   if (kind === 1) {
     return {
       ...base,
-      text: `Quale ruolo svolge ${concept.term} nel web marketing?`,
+      text: `Nel web marketing, a cosa serve il concetto di ${concept.term}?`,
       options: { A: concept.role, B: d[0], C: d[1], D: d[2] }
     };
   }
   if (kind === 2) {
     return {
       ...base,
-      text: `Quale esempio è più coerente con ${concept.term}?`,
+      text: `Quale esempio è più coerente con il concetto di ${concept.term}?`,
       options: { A: concept.example, B: d[0], C: d[1], D: d[2] }
     };
   }

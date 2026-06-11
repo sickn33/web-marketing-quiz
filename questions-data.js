@@ -784,7 +784,7 @@
       "business"
     ],
     "source": "05_Dispense_Approfondimenti.md / Marketing 4.0",
-    "text": "Quale frase sintetizza meglio la funzione del concetto di currency nel web marketing?",
+    "text": "Nel marketing 4.0, che cosa indica il concetto di currency?",
     "options": {
       "A": "sostituisce l'idea di prezzo fisso come unica leva del marketing mix digitale",
       "B": "trasforma il cliente da destinatario passivo a parte attiva della creazione di valore",

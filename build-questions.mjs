@@ -201,6 +201,10 @@ function rotate(items, offset) {
 
 function roleStem(term, conceptIndex) {
   const label = term;
+  const roleStemOverrides = {
+    currency: "Nel marketing 4.0, che cosa indica il concetto di currency?"
+  };
+  if (roleStemOverrides[term]) return roleStemOverrides[term];
   const isCanvasTerm = term.endsWith("nel Business Model Canvas");
   const webSuffix = isCanvasTerm ? "" : " nel web marketing";
   const variants = [

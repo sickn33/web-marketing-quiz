@@ -118,9 +118,9 @@
 - OK 090 | Customer journey | customer engagement | domande 179, 180, 446 | fonte: 04_Slides_Corso.md / Buyer personas
 - OK 091 | Business model ed e-commerce | business model | domande 181, 182, 447 | fonte: 04_Slides_Corso.md / Business Model Digitali
 - OK 092 | Business model ed e-commerce | Business Model Canvas | domande 183, 184, 448 | fonte: 04_Slides_Corso.md / Business Model Digitali
-- OK 093 | Business model ed e-commerce | customer segments nel canvas | domande 185, 186, 449 | fonte: 04_Slides_Corso.md / Business Model Digitali
-- OK 094 | Business model ed e-commerce | channels nel canvas | domande 187, 188, 450 | fonte: 04_Slides_Corso.md / Business Model Digitali
-- OK 095 | Business model ed e-commerce | customer relationships nel canvas | domande 189, 190, 451 | fonte: 04_Slides_Corso.md / Business Model Digitali
+- OK 093 | Business model ed e-commerce | customer segments nel Business Model Canvas | domande 185, 186, 449 | fonte: 04_Slides_Corso.md / Business Model Digitali
+- OK 094 | Business model ed e-commerce | channels nel Business Model Canvas | domande 187, 188, 450 | fonte: 04_Slides_Corso.md / Business Model Digitali
+- OK 095 | Business model ed e-commerce | customer relationships nel Business Model Canvas | domande 189, 190, 451 | fonte: 04_Slides_Corso.md / Business Model Digitali
 - OK 096 | Business model ed e-commerce | revenue model | domande 191, 192, 452 | fonte: 04_Slides_Corso.md / Business Model Digitali
 - OK 097 | Business model ed e-commerce | cost structure | domande 193, 194, 453 | fonte: 04_Slides_Corso.md / Business Model Digitali
 - OK 098 | Business model ed e-commerce | freemium | domande 195, 196, 454 | fonte: 04_Slides_Corso.md / Business Model Digitali
@@ -132,7 +132,7 @@
 - OK 104 | Business model ed e-commerce | sharing economy | domande 207, 208, 460 | fonte: 05_Dispense_Approfondimenti.md / Sharing economy continuum
 - OK 105 | Business model ed e-commerce | pure sharing | domande 209, 210, 461 | fonte: 05_Dispense_Approfondimenti.md / Sharing economy continuum
 - OK 106 | Business model ed e-commerce | dual-mode sharing | domande 211, 212, 462 | fonte: 05_Dispense_Approfondimenti.md / Sharing economy continuum
-- OK 107 | Business model ed e-commerce | e-commerce | domande 213, 214, 215, 216, 217, 218, 219, 220, 221, 222, 225, 226, 227, 228, 231, 232, 463, 464, 465, 466, 467, 469, 470, 472 | fonte: 04_Slides_Corso.md / E-commerce
+- OK 107 | Business model ed e-commerce | e-commerce | domande 213, 214, 463 | fonte: 04_Slides_Corso.md / E-commerce
 - OK 108 | Business model ed e-commerce | B2B e-commerce | domande 215, 216, 464 | fonte: 04_Slides_Corso.md / E-commerce
 - OK 109 | Business model ed e-commerce | B2C e-commerce | domande 217, 218, 465 | fonte: 04_Slides_Corso.md / E-commerce
 - OK 110 | Business model ed e-commerce | C2C e-commerce | domande 219, 220, 466 | fonte: 04_Slides_Corso.md / E-commerce
@@ -155,7 +155,7 @@
 - OK 127 | Granato, search e operational | domanda latente | domande 253, 254, 483 | fonte: converted-md/slide parte 2/02 Granato
 - OK 128 | Granato, search e operational | domanda consapevole | domande 255, 256, 484 | fonte: converted-md/slide parte 2/02 Granato
 - OK 129 | Granato, search e operational | traffico qualificato | domande 257, 258, 485 | fonte: converted-md/slide parte 2/02 Granato
-- OK 130 | Granato, search e operational | SEO | domande 259, 260, 295, 296, 486 | fonte: converted-md/slide parte 2/03 Granato
+- OK 130 | Granato, search e operational | SEO | domande 259, 260, 486 | fonte: converted-md/slide parte 2/03 Granato
 - OK 131 | Granato, search e operational | SEM e SEA | domande 261, 262, 487 | fonte: converted-md/appunti-web-marketing/Web Marketing.md
 - OK 132 | Granato, search e operational | crawling | domande 263, 264, 488 | fonte: converted-md/slide parte 2/03 Granato
 - OK 133 | Granato, search e operational | indexing | domande 265, 266, 489 | fonte: converted-md/slide parte 2/03 Granato
@@ -184,13 +184,13 @@
 - OK 156 | Granato, search e operational | CPM | domande 311, 312 | fonte: converted-md/appunti-web-marketing/Web Marketing.md
 - OK 157 | Granato, search e operational | ROAS | domande 313, 314 | fonte: converted-md/appunti-web-marketing/Web Marketing.md
 - OK 158 | Granato, search e operational | ACOS | domande 315, 316 | fonte: converted-md/appunti-web-marketing/Web Marketing.md
-- OK 159 | Granato, search e operational | digital analytics | domande 317, 318, 319, 320 | fonte: converted-md/slide parte 2/07 Gabriele
+- OK 159 | Granato, search e operational | digital analytics | domande 317, 318 | fonte: converted-md/slide parte 2/07 Gabriele
 - OK 160 | Granato, search e operational | acquisizione in digital analytics | domande 319, 320 | fonte: converted-md/slide parte 2/07 Gabriele
 - OK 161 | Granato, search e operational | frequenza di rimbalzo | domande 321, 322 | fonte: converted-md/slide parte 2/07 Gabriele
 - OK 162 | Granato, search e operational | acquisizione organica | domande 323, 324 | fonte: converted-md/slide parte 2/07 Gabriele
 - OK 163 | Granato, search e operational | obiettivo completato | domande 325, 326 | fonte: converted-md/slide parte 2/07 Gabriele
 - OK 164 | Granato, search e operational | email marketing | domande 327, 328 | fonte: converted-md/slide parte 2/08 Gabriele
-- OK 165 | Granato, search e operational | newsletter | domande 329, 330, 335, 336 | fonte: converted-md/slide parte 2/08 Gabriele
+- OK 165 | Granato, search e operational | newsletter | domande 329, 330 | fonte: converted-md/slide parte 2/08 Gabriele
 - OK 166 | Granato, search e operational | email transazionale | domande 331, 332 | fonte: converted-md/slide parte 2/08 Gabriele
 - OK 167 | Granato, search e operational | email di remarketing | domande 333, 334 | fonte: converted-md/slide parte 2/08 Gabriele
 - OK 168 | Granato, search e operational | oggetto della newsletter | domande 335, 336 | fonte: converted-md/slide parte 2/08 Gabriele

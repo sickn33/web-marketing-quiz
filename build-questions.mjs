@@ -103,9 +103,9 @@ const concepts = [
   c("Customer journey", "customer engagement", "uno stato psicologico e comportamentale che include interazioni oltre l'acquisto", "può generare co-creazione, partecipazione e valore o anche effetti negativi", "un cliente partecipa alla community e produce contenuti sul brand", "non coincide solo con la conversione finale", ["transazione di checkout", "metrica CPC", "dato secondario"], ["journey", "fondamenti"], "04_Slides_Corso.md / Buyer personas"),
   c("Business model ed e-commerce", "business model", "la logica con cui un'organizzazione crea, distribuisce e cattura valore", "racconta come l'impresa funziona economicamente e strategicamente", "un servizio crea valore con piattaforma, consegna digitale e ricavi in abbonamento", "non è soltanto il modello di revenue", ["revenue model", "campagna display", "questionario online"], ["business"], "04_Slides_Corso.md / Business Model Digitali"),
   c("Business model ed e-commerce", "Business Model Canvas", "uno schema che descrive value proposition, segmenti, canali, relazioni, ricavi, risorse, attività, partner e costi", "aiuta a visualizzare le componenti chiave del modello d'impresa", "mappare clienti, canali, ricavi e risorse di una piattaforma digitale", "non è una SWOT o un piano editoriale", ["SWOT analysis", "AIDA", "scala Likert"], ["business"], "04_Slides_Corso.md / Business Model Digitali"),
-  c("Business model ed e-commerce", "customer segments nel canvas", "i gruppi di clienti a cui l'impresa intende offrire valore", "orientano value proposition, canali, relazioni e ricavi", "distinguere utenti free, clienti premium e aziende partner", "non sono le attività chiave interne", ["key activities", "cost structure", "keyword research"], ["business", "fondamenti"], "04_Slides_Corso.md / Business Model Digitali"),
-  c("Business model ed e-commerce", "channels nel canvas", "i modi con cui l'impresa raggiunge i segmenti e consegna la value proposition", "collegano offerta e cliente lungo comunicazione, distribuzione e vendita", "app, sito e marketplace come canali per distribuire un servizio", "non sono i partner chiave dell'impresa", ["key partners", "cost structure", "brand image"], ["business"], "04_Slides_Corso.md / Business Model Digitali"),
-  c("Business model ed e-commerce", "customer relationships nel canvas", "il tipo di relazione che l'impresa stabilisce con ciascun segmento", "definisce assistenza, automazione, community o personalizzazione del rapporto", "self-service, community o assistenza dedicata per gruppi diversi di clienti", "non indica direttamente il flusso di ricavi", ["revenue streams", "CPC", "domande filtro"], ["business", "journey"], "04_Slides_Corso.md / Business Model Digitali"),
+  c("Business model ed e-commerce", "customer segments nel Business Model Canvas", "i gruppi di clienti a cui l'impresa intende offrire valore", "orientano value proposition, canali, relazioni e ricavi", "distinguere utenti free, clienti premium e aziende partner", "non sono le attività chiave interne", ["key activities", "cost structure", "keyword research"], ["business", "fondamenti"], "04_Slides_Corso.md / Business Model Digitali"),
+  c("Business model ed e-commerce", "channels nel Business Model Canvas", "i modi con cui l'impresa raggiunge i segmenti e consegna la value proposition", "collegano offerta e cliente lungo comunicazione, distribuzione e vendita", "app, sito e marketplace come canali per distribuire un servizio", "non sono i partner chiave dell'impresa", ["key partners", "cost structure", "brand image"], ["business"], "04_Slides_Corso.md / Business Model Digitali"),
+  c("Business model ed e-commerce", "customer relationships nel Business Model Canvas", "il tipo di relazione che l'impresa stabilisce con ciascun segmento", "definisce assistenza, automazione, community o personalizzazione del rapporto", "self-service, community o assistenza dedicata per gruppi diversi di clienti", "non indica direttamente il flusso di ricavi", ["revenue streams", "CPC", "domande filtro"], ["business", "journey"], "04_Slides_Corso.md / Business Model Digitali"),
   c("Business model ed e-commerce", "revenue model", "il modo specifico in cui l'impresa genera fatturato dai segmenti serviti", "è una componente del business model dedicata ai flussi di ricavo", "abbonamento, advertising, commissione o affiliazione", "non descrive tutta la logica di creazione e distribuzione del valore", ["business model complessivo", "costo per utente", "brand positioning"], ["business"], "04_Slides_Corso.md / Business Model Digitali"),
   c("Business model ed e-commerce", "cost structure", "l'insieme dei principali costi necessari per far funzionare il business model", "aiuta a valutare sostenibilità economica e formula di profitto", "costi di piattaforma, logistica, acquisizione clienti e assistenza", "non è il prezzo pagato dal cliente", ["price list", "brand trust", "search intent"], ["business"], "04_Slides_Corso.md / Business Model Digitali"),
   c("Business model ed e-commerce", "freemium", "un modello in cui una versione base gratuita convive con funzionalità premium a pagamento", "riduce la barriera d'ingresso e monetizza gli utenti che percepiscono valore aggiuntivo", "Spotify offre accesso gratuito limitato e piano premium", "non è un servizio completamente gratuito senza possibilità di upgrade", ["free model puro", "paid model puro", "commission based"], ["business"], "04_Slides_Corso.md / Business Model Digitali"),
@@ -200,15 +200,18 @@ function rotate(items, offset) {
 }
 
 function roleStem(term, conceptIndex) {
+  const label = term;
+  const isCanvasTerm = term.endsWith("nel Business Model Canvas");
+  const webSuffix = isCanvasTerm ? "" : " nel web marketing";
   const variants = [
-    `A cosa serve il concetto di ${term} nel web marketing?`,
-    `Qual è il ruolo del concetto di ${term} nel web marketing?`,
-    `Perché il concetto di ${term} è rilevante nel web marketing?`,
-    `In che modo il concetto di ${term} aiuta nel web marketing?`,
-    `Nel contesto del web marketing, a cosa serve il concetto di ${term}?`,
-    `Quale affermazione descrive meglio il ruolo del concetto di ${term}?`,
-    `Qual è la funzione principale del concetto di ${term} nel web marketing?`,
-    `A cosa contribuisce il concetto di ${term} nel web marketing?`
+    `Quale affermazione descrive meglio il concetto di ${label}${webSuffix}?`,
+    `Qual è il ruolo del concetto di ${label}${webSuffix}?`,
+    `Perché il concetto di ${label} è rilevante nel web marketing?`,
+    `Quale frase spiega meglio il concetto di ${label}${webSuffix}?`,
+    `Nel contesto del web marketing, quale affermazione descrive meglio il concetto di ${label}?`,
+    `Quale affermazione descrive meglio il ruolo del concetto di ${label}?`,
+    `Quale frase sintetizza meglio la funzione del concetto di ${label}${webSuffix}?`,
+    `Quale affermazione è più corretta sul concetto di ${label}?`
   ];
   return variants[conceptIndex % variants.length];
 }
@@ -356,7 +359,7 @@ const js = `// Banco quiz per Web Marketing e Comunicazione Digitale.\n// Genera
 
 mkdirSync("data-work", { recursive: true });
 writeFileSync("questions-data.js", js);
-writeFileSync("data-work/quiz-bank-audit.md", buildAudit(concepts, questions));
+writeFileSync("data-work/quiz-bank-audit.md", buildAudit(concepts, questions, questionDrafts.slice(0, 500)));
 
 function validate(conceptsToCheck, questionsToCheck) {
   const errors = [];
@@ -398,9 +401,15 @@ function validate(conceptsToCheck, questionsToCheck) {
   }
 }
 
-function buildAudit(conceptsToCheck, questionsToCheck) {
+function buildAudit(conceptsToCheck, questionsToCheck, draftsToCheck) {
   const sectionCounts = countBy(questionsToCheck, q => q.section);
   const tagCounts = countBy(questionsToCheck.flatMap(q => q.tags), tag => tag);
+  const idsByConceptIndex = new Map();
+  draftsToCheck.forEach((draft, questionIndex) => {
+    const ids = idsByConceptIndex.get(draft.conceptIndex) || [];
+    ids.push(questionIndex + 1);
+    idsByConceptIndex.set(draft.conceptIndex, ids);
+  });
   const lines = [
     "# Web Marketing Quiz Bank Audit",
     "",
@@ -418,9 +427,7 @@ function buildAudit(conceptsToCheck, questionsToCheck) {
     "",
     "## Controllo per concetto madre",
     ...conceptsToCheck.map((concept, index) => {
-      const ids = questionsToCheck
-        .filter(q => q.text.endsWith(`${concept.term}?`) || q.text.includes(`${concept.term} nel web marketing`) || q.text.includes(`${concept.term}?`))
-        .map(q => q.id);
+      const ids = idsByConceptIndex.get(index) || [];
       return `- OK ${String(index + 1).padStart(3, "0")} | ${concept.section} | ${concept.term} | domande ${ids.join(", ") || "non campionata"} | fonte: ${concept.source}`;
     })
   ];

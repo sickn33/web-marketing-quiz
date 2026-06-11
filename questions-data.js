@@ -70,7 +70,7 @@
       "fondamenti"
     ],
     "source": "04_Slides_Corso.md / Evoluzione del marketing",
-    "text": "A cosa serve il concetto di marketing management nel web marketing?",
+    "text": "Quale affermazione descrive meglio il concetto di marketing management nel web marketing?",
     "options": {
       "A": "serve a collegare analisi, strategia e leve operative orientate ai bisogni del mercato",
       "B": "è il punto di partenza su cui il marketing costruisce offerte e valore percepito",
@@ -166,7 +166,7 @@
       "fondamenti"
     ],
     "source": "04_Slides_Corso.md / Evoluzione del marketing",
-    "text": "In che modo il concetto di offerta di marketing aiuta nel web marketing?",
+    "text": "Quale frase spiega meglio il concetto di offerta di marketing nel web marketing?",
     "options": {
       "A": "materializza la value proposition in qualcosa che il cliente può valutare e acquistare",
       "B": "trasforma un bisogno generale in una preferenza verso una soluzione concreta",
@@ -200,7 +200,7 @@
       "business"
     ],
     "source": "04_Slides_Corso.md / Business Model Digitali",
-    "text": "Nel contesto del web marketing, a cosa serve il concetto di value proposition?",
+    "text": "Nel contesto del web marketing, quale affermazione descrive meglio il concetto di value proposition?",
     "options": {
       "A": "spiega perché l'offerta dovrebbe essere rilevante per un segmento specifico",
       "B": "materializza la value proposition in qualcosa che il cliente può valutare e acquistare",
@@ -264,7 +264,7 @@
       "fondamenti"
     ],
     "source": "04_Slides_Corso.md / Evoluzione del marketing",
-    "text": "Qual è la funzione principale del concetto di fase analitica nel web marketing?",
+    "text": "Quale frase sintetizza meglio la funzione del concetto di fase analitica nel web marketing?",
     "options": {
       "A": "riduce l'asimmetria informativa prima delle scelte strategiche",
       "B": "trasforma l'analisi in scelte di mercato e direzione competitiva",
@@ -296,7 +296,7 @@
       "fondamenti"
     ],
     "source": "04_Slides_Corso.md / Evoluzione del marketing",
-    "text": "A cosa contribuisce il concetto di fase strategica nel web marketing?",
+    "text": "Quale affermazione è più corretta sul concetto di fase strategica?",
     "options": {
       "A": "trasforma l'analisi in scelte di mercato e direzione competitiva",
       "B": "riduce l'asimmetria informativa prima delle scelte strategiche",
@@ -328,7 +328,7 @@
       "fondamenti"
     ],
     "source": "04_Slides_Corso.md / Evoluzione del marketing",
-    "text": "A cosa serve il concetto di fase operativa nel web marketing?",
+    "text": "Quale affermazione descrive meglio il concetto di fase operativa nel web marketing?",
     "options": {
       "A": "traduce posizionamento e obiettivi in prodotto, prezzo, distribuzione e promozione",
       "B": "trasforma l'analisi in scelte di mercato e direzione competitiva",
@@ -424,7 +424,7 @@
       "fondamenti"
     ],
     "source": "04_Slides_Corso.md / Segmentazione",
-    "text": "In che modo il concetto di segmentazione aiuta nel web marketing?",
+    "text": "Quale frase spiega meglio il concetto di segmentazione nel web marketing?",
     "options": {
       "A": "permette di non trattare tutto il pubblico come una massa indifferenziata",
       "B": "concentra risorse e offerta sui gruppi più coerenti con obiettivi e capacità aziendali",
@@ -456,7 +456,7 @@
       "fondamenti"
     ],
     "source": "04_Slides_Corso.md / Evoluzione del marketing",
-    "text": "Nel contesto del web marketing, a cosa serve il concetto di targeting?",
+    "text": "Nel contesto del web marketing, quale affermazione descrive meglio il concetto di targeting?",
     "options": {
       "A": "concentra risorse e offerta sui gruppi più coerenti con obiettivi e capacità aziendali",
       "B": "permette di non trattare tutto il pubblico come una massa indifferenziata",
@@ -520,7 +520,7 @@
       "fondamenti"
     ],
     "source": "04_Slides_Corso.md / Evoluzione del marketing",
-    "text": "Qual è la funzione principale del concetto di mappa percettiva nel web marketing?",
+    "text": "Quale frase sintetizza meglio la funzione del concetto di mappa percettiva nel web marketing?",
     "options": {
       "A": "supporta le scelte di posizionamento visualizzando vicinanze e differenze competitive",
       "B": "orienta la percezione del valore e differenzia l'offerta",
@@ -552,7 +552,7 @@
       "fondamenti"
     ],
     "source": "05_Dispense_Approfondimenti.md / Marketing 4.0",
-    "text": "A cosa contribuisce il concetto di Marketing 1.0 nel web marketing?",
+    "text": "Quale affermazione è più corretta sul concetto di Marketing 1.0?",
     "options": {
       "A": "rappresenta la fase in cui il mercato viene trattato in modo poco differenziato",
       "B": "sposta l'attenzione dal prodotto indifferenziato ai bisogni dei consumatori",
@@ -584,7 +584,7 @@
       "fondamenti"
     ],
     "source": "05_Dispense_Approfondimenti.md / Marketing 4.0",
-    "text": "A cosa serve il concetto di Marketing 2.0 nel web marketing?",
+    "text": "Quale affermazione descrive meglio il concetto di Marketing 2.0 nel web marketing?",
     "options": {
       "A": "sposta l'attenzione dal prodotto indifferenziato ai bisogni dei consumatori",
       "B": "rappresenta la fase in cui il mercato viene trattato in modo poco differenziato",
@@ -684,7 +684,7 @@
       "digitale"
     ],
     "source": "05_Dispense_Approfondimenti.md / Marketing 4.0",
-    "text": "In che modo il concetto di customer community confirmation aiuta nel web marketing?",
+    "text": "Quale frase spiega meglio il concetto di customer community confirmation nel web marketing?",
     "options": {
       "A": "rende più orizzontale e partecipata la relazione tra brand e mercato",
       "B": "rafforza engagement e advocacy bilanciando tecnologia e relazione umana",
@@ -716,7 +716,7 @@
       "fondamenti"
     ],
     "source": "05_Dispense_Approfondimenti.md / Marketing 4.0",
-    "text": "Nel contesto del web marketing, a cosa serve il concetto di brand characters and codes?",
+    "text": "Nel contesto del web marketing, quale affermazione descrive meglio il concetto di brand characters and codes?",
     "options": {
       "A": "mantiene coerenza identitaria anche quando linguaggi e touchpoint cambiano",
       "B": "rende più orizzontale e partecipata la relazione tra brand e mercato",
@@ -784,7 +784,7 @@
       "business"
     ],
     "source": "05_Dispense_Approfondimenti.md / Marketing 4.0",
-    "text": "Qual è la funzione principale del concetto di currency nel web marketing?",
+    "text": "Quale frase sintetizza meglio la funzione del concetto di currency nel web marketing?",
     "options": {
       "A": "sostituisce l'idea di prezzo fisso come unica leva del marketing mix digitale",
       "B": "trasforma il cliente da destinatario passivo a parte attiva della creazione di valore",
@@ -818,7 +818,7 @@
       "business"
     ],
     "source": "05_Dispense_Approfondimenti.md / Marketing 4.0",
-    "text": "A cosa contribuisce il concetto di communal activation nel web marketing?",
+    "text": "Quale affermazione è più corretta sul concetto di communal activation?",
     "options": {
       "A": "spiega perché nel digitale la distribuzione passa anche da reti e prossimità sociale",
       "B": "sostituisce l'idea di prezzo fisso come unica leva del marketing mix digitale",
@@ -852,7 +852,7 @@
       "operational"
     ],
     "source": "05_Dispense_Approfondimenti.md / Marketing 4.0",
-    "text": "A cosa serve il concetto di conversation nel web marketing?",
+    "text": "Quale affermazione descrive meglio il concetto di conversation nel web marketing?",
     "options": {
       "A": "rende social, review, forum e community spazi di relazione e ascolto",
       "B": "spiega perché nel digitale la distribuzione passa anche da reti e prossimità sociale",
@@ -948,7 +948,7 @@
       "fondamenti"
     ],
     "source": "07_Appunti_Corso.md / Web Marketing",
-    "text": "In che modo il concetto di brand awareness aiuta nel web marketing?",
+    "text": "Quale frase spiega meglio il concetto di brand awareness nel web marketing?",
     "options": {
       "A": "misura quanto il brand entra nel set mentale dei consumatori",
       "B": "permette di valutare se ciò che l'azienda comunica viene recepito come previsto",
@@ -980,7 +980,7 @@
       "fondamenti"
     ],
     "source": "07_Appunti_Corso.md / Web Marketing",
-    "text": "Nel contesto del web marketing, a cosa serve il concetto di brand equity?",
+    "text": "Nel contesto del web marketing, quale affermazione descrive meglio il concetto di brand equity?",
     "options": {
       "A": "rende il brand un asset capace di generare preferenza e valore economico",
       "B": "misura quanto il brand entra nel set mentale dei consumatori",
@@ -1048,7 +1048,7 @@
       "journey"
     ],
     "source": "07_Appunti_Corso.md / Web Marketing",
-    "text": "Qual è la funzione principale del concetto di brand engagement nel web marketing?",
+    "text": "Quale frase sintetizza meglio la funzione del concetto di brand engagement nel web marketing?",
     "options": {
       "A": "indica una relazione cognitiva, emotiva o comportamentale oltre la semplice esposizione",
       "B": "riduce incertezza e rischio percepito, soprattutto nei contesti digitali",
@@ -1082,7 +1082,7 @@
       "journey"
     ],
     "source": "07_Appunti_Corso.md / Web Marketing",
-    "text": "A cosa contribuisce il concetto di brand advocacy nel web marketing?",
+    "text": "Quale affermazione è più corretta sul concetto di brand advocacy?",
     "options": {
       "A": "trasforma clienti soddisfatti in promotori attivi della marca",
       "B": "indica una relazione cognitiva, emotiva o comportamentale oltre la semplice esposizione",
@@ -1114,7 +1114,7 @@
       "digitale"
     ],
     "source": "04_Slides_Corso.md / Orientamento al digitale",
-    "text": "A cosa serve il concetto di orientamento all'e-business nel web marketing?",
+    "text": "Quale affermazione descrive meglio il concetto di orientamento all'e-business nel web marketing?",
     "options": {
       "A": "ridefinisce fornitura, distribuzione, offerta e relazione con il cliente",
       "B": "collega tecnologie, clienti, processi e fonti di ricavo",
@@ -1212,7 +1212,7 @@
       "digitale"
     ],
     "source": "04_Slides_Corso.md / Orientamento al digitale",
-    "text": "In che modo il concetto di digital marketing strategico aiuta nel web marketing?",
+    "text": "Quale frase spiega meglio il concetto di digital marketing strategico nel web marketing?",
     "options": {
       "A": "coordina canali e azioni in ottica omnicanale",
       "B": "spesso produce siti vetrina o presenze informative scollegate dagli obiettivi di business",
@@ -1246,7 +1246,7 @@
       "business"
     ],
     "source": "04_Slides_Corso.md / Orientamento al digitale",
-    "text": "Nel contesto del web marketing, a cosa serve il concetto di livello core business digitale?",
+    "text": "Nel contesto del web marketing, quale affermazione descrive meglio il concetto di livello core business digitale?",
     "options": {
       "A": "rende la strategia digitale parte centrale del modello di business",
       "B": "coordina canali e azioni in ottica omnicanale",
@@ -1314,7 +1314,7 @@
       "business"
     ],
     "source": "04_Slides_Corso.md / Orientamento al digitale",
-    "text": "Qual è la funzione principale del concetto di click and mortar nel web marketing?",
+    "text": "Quale frase sintetizza meglio la funzione del concetto di click and mortar nel web marketing?",
     "options": {
       "A": "combina presenza offline e online in modo potenzialmente omnicanale",
       "B": "descrive il grado più basso di presenza online tra gli assetti strutturali",
@@ -1348,7 +1348,7 @@
       "business"
     ],
     "source": "04_Slides_Corso.md / Orientamento al digitale",
-    "text": "A cosa contribuisce il concetto di pure play nel web marketing?",
+    "text": "Quale affermazione è più corretta sul concetto di pure play?",
     "options": {
       "A": "rappresenta un assetto strutturale completamente digitale",
       "B": "combina presenza offline e online in modo potenzialmente omnicanale",
@@ -1382,7 +1382,7 @@
       "journey"
     ],
     "source": "04_Slides_Corso.md / Orientamento al digitale",
-    "text": "A cosa serve il concetto di omnicanalità nel web marketing?",
+    "text": "Quale affermazione descrive meglio il concetto di omnicanalità nel web marketing?",
     "options": {
       "A": "rende fluida l'esperienza quando il cliente passa tra touchpoint diversi",
       "B": "rappresenta un assetto strutturale completamente digitale",
@@ -1478,7 +1478,7 @@
       "digitale"
     ],
     "source": "04_Slides_Corso.md / Caratteristiche tecnologie digitali",
-    "text": "In che modo il concetto di digitale vs analogico aiuta nel web marketing?",
+    "text": "Quale frase spiega meglio il concetto di digitale vs analogico nel web marketing?",
     "options": {
       "A": "spiega la differenza tra codifica binaria e segnali continui",
       "B": "permettono di misurare e organizzare l'informazione digitale",
@@ -1510,7 +1510,7 @@
       "digitale"
     ],
     "source": "04_Slides_Corso.md / Caratteristiche tecnologie digitali",
-    "text": "Nel contesto del web marketing, a cosa serve il concetto di piattaforme digitali?",
+    "text": "Nel contesto del web marketing, quale affermazione descrive meglio il concetto di piattaforme digitali?",
     "options": {
       "A": "abilitano contenuti, comunicazioni e servizi digitali",
       "B": "spiega la differenza tra codifica binaria e segnali continui",
@@ -1574,7 +1574,7 @@
       "digitale"
     ],
     "source": "04_Slides_Corso.md / Caratteristiche tecnologie digitali",
-    "text": "Qual è la funzione principale del concetto di Internet nel web marketing?",
+    "text": "Quale frase sintetizza meglio la funzione del concetto di Internet nel web marketing?",
     "options": {
       "A": "fornisce l'infrastruttura su cui possono operare web, piattaforme e servizi",
       "B": "sono i punti materiali di accesso alle piattaforme",
@@ -1606,7 +1606,7 @@
       "digitale"
     ],
     "source": "04_Slides_Corso.md / Caratteristiche tecnologie digitali",
-    "text": "A cosa contribuisce il concetto di Web nel web marketing?",
+    "text": "Quale affermazione è più corretta sul concetto di Web?",
     "options": {
       "A": "permette l'accesso a pagine, siti e contenuti tramite browser e link",
       "B": "fornisce l'infrastruttura su cui possono operare web, piattaforme e servizi",
@@ -1640,7 +1640,7 @@
       "fondamenti"
     ],
     "source": "04_Slides_Corso.md / Caratteristiche tecnologie digitali",
-    "text": "A cosa serve il concetto di marketing digitale reticolare nel web marketing?",
+    "text": "Quale affermazione descrive meglio il concetto di marketing digitale reticolare nel web marketing?",
     "options": {
       "A": "rende i flussi di comunicazione bidirezionali e aperti alla co-creazione",
       "B": "permette l'accesso a pagine, siti e contenuti tramite browser e link",
@@ -1740,7 +1740,7 @@
       "business"
     ],
     "source": "04_Slides_Corso.md / Caratteristiche tecnologie digitali",
-    "text": "In che modo il concetto di lock-in aiuta nel web marketing?",
+    "text": "Quale frase spiega meglio il concetto di lock-in nel web marketing?",
     "options": {
       "A": "rafforza la permanenza degli utenti anche quando esistono alternative",
       "B": "spiega il potenziale diffusivo e gli effetti di rete",
@@ -1772,7 +1772,7 @@
       "digitale"
     ],
     "source": "04_Slides_Corso.md / Caratteristiche tecnologie digitali",
-    "text": "Nel contesto del web marketing, a cosa serve il concetto di reach e richness?",
+    "text": "Nel contesto del web marketing, quale affermazione descrive meglio il concetto di reach e richness?",
     "options": {
       "A": "il digitale attenua il trade-off permettendo ampia portata e informazioni profonde",
       "B": "rafforza la permanenza degli utenti anche quando esistono alternative",
@@ -1838,7 +1838,7 @@
       "ricerca"
     ],
     "source": "04_Slides_Corso.md / Ricerche di mercato",
-    "text": "Qual è la funzione principale del concetto di ricerca web-enabled nel web marketing?",
+    "text": "Quale frase sintetizza meglio la funzione del concetto di ricerca web-enabled nel web marketing?",
     "options": {
       "A": "usa strumenti online senza avere necessariamente come oggetto i comportamenti digitali",
       "B": "mette il web non solo come strumento ma come oggetto dell'indagine",
@@ -1870,7 +1870,7 @@
       "ricerca"
     ],
     "source": "04_Slides_Corso.md / Ricerche di mercato",
-    "text": "A cosa contribuisce il concetto di ricerca web-centric nel web marketing?",
+    "text": "Quale affermazione è più corretta sul concetto di ricerca web-centric?",
     "options": {
       "A": "mette il web non solo come strumento ma come oggetto dell'indagine",
       "B": "usa strumenti online senza avere necessariamente come oggetto i comportamenti digitali",
@@ -1902,7 +1902,7 @@
       "ricerca"
     ],
     "source": "04_Slides_Corso.md / Ricerche di mercato",
-    "text": "A cosa serve il concetto di dati secondari nel web marketing?",
+    "text": "Quale affermazione descrive meglio il concetto di dati secondari nel web marketing?",
     "options": {
       "A": "permettono di partire da informazioni esistenti prima di raccogliere dati primari",
       "B": "mette il web non solo come strumento ma come oggetto dell'indagine",
@@ -2000,7 +2000,7 @@
       "ricerca"
     ],
     "source": "04_Slides_Corso.md / Ricerche di mercato",
-    "text": "In che modo il concetto di web survey aiuta nel web marketing?",
+    "text": "Quale frase spiega meglio il concetto di web survey nel web marketing?",
     "options": {
       "A": "rende rapida ed economica la raccolta di risposte online",
       "B": "consente di raggiungere contatti specifici con un invito diretto alla compilazione",
@@ -2032,7 +2032,7 @@
       "ricerca"
     ],
     "source": "04_Slides_Corso.md / Ricerche di mercato",
-    "text": "Nel contesto del web marketing, a cosa serve il concetto di domanda aperta?",
+    "text": "Nel contesto del web marketing, quale affermazione descrive meglio il concetto di domanda aperta?",
     "options": {
       "A": "permette approfondimenti ma richiede più lavoro di codifica e analisi",
       "B": "rende rapida ed economica la raccolta di risposte online",
@@ -2096,7 +2096,7 @@
       "ricerca"
     ],
     "source": "04_Slides_Corso.md / Ricerche di mercato",
-    "text": "Qual è la funzione principale del concetto di domanda dicotomica nel web marketing?",
+    "text": "Quale frase sintetizza meglio la funzione del concetto di domanda dicotomica nel web marketing?",
     "options": {
       "A": "serve quando la variabile può essere rilevata con una scelta binaria",
       "B": "facilita codifica, confronto e analisi quantitativa delle risposte",
@@ -2128,7 +2128,7 @@
       "ricerca"
     ],
     "source": "04_Slides_Corso.md / Ricerche di mercato",
-    "text": "A cosa contribuisce il concetto di domanda a risposta multipla nel web marketing?",
+    "text": "Quale affermazione è più corretta sul concetto di domanda a risposta multipla?",
     "options": {
       "A": "permette di misurare preferenze o categorie in modo strutturato",
       "B": "serve quando la variabile può essere rilevata con una scelta binaria",
@@ -2160,7 +2160,7 @@
       "ricerca"
     ],
     "source": "04_Slides_Corso.md / Ricerche di mercato",
-    "text": "A cosa serve il concetto di scala Likert nel web marketing?",
+    "text": "Quale affermazione descrive meglio il concetto di scala Likert nel web marketing?",
     "options": {
       "A": "trasforma percezioni e opinioni in dati confrontabili",
       "B": "permette di misurare preferenze o categorie in modo strutturato",
@@ -2256,7 +2256,7 @@
       "ricerca"
     ],
     "source": "04_Slides_Corso.md / Ricerche di mercato",
-    "text": "In che modo il concetto di pre-test del questionario aiuta nel web marketing?",
+    "text": "Quale frase spiega meglio il concetto di pre-test del questionario nel web marketing?",
     "options": {
       "A": "serve a individuare ambiguità, errori e problemi di comprensione",
       "B": "riduce abbandono, stress e distorsioni nelle risposte",
@@ -2288,7 +2288,7 @@
       "ricerca"
     ],
     "source": "04_Slides_Corso.md / Ricerche di mercato",
-    "text": "Nel contesto del web marketing, a cosa serve il concetto di rappresentatività del campione online?",
+    "text": "Nel contesto del web marketing, quale affermazione descrive meglio il concetto di rappresentatività del campione online?",
     "options": {
       "A": "è una criticità perché online non sempre si controlla chi risponde e quanto il target sia coperto",
       "B": "serve a individuare ambiguità, errori e problemi di comprensione",
@@ -2352,7 +2352,7 @@
       "journey"
     ],
     "source": "04_Slides_Corso.md / Customer Journey",
-    "text": "Qual è la funzione principale del concetto di nuovo consumatore iperconnesso nel web marketing?",
+    "text": "Quale frase sintetizza meglio la funzione del concetto di nuovo consumatore iperconnesso nel web marketing?",
     "options": {
       "A": "modifica la relazione brand-cliente rendendola più informata e partecipativa",
       "B": "partecipa alla narrazione e può influenzare altri consumatori",
@@ -2384,7 +2384,7 @@
       "journey"
     ],
     "source": "07_Appunti_Corso.md / Web Marketing",
-    "text": "A cosa contribuisce il concetto di prosumer nel web marketing?",
+    "text": "Quale affermazione è più corretta sul concetto di prosumer?",
     "options": {
       "A": "partecipa alla narrazione e può influenzare altri consumatori",
       "B": "modifica la relazione brand-cliente rendendola più informata e partecipativa",
@@ -2416,7 +2416,7 @@
       "journey"
     ],
     "source": "04_Slides_Corso.md / Customer Journey",
-    "text": "A cosa serve il concetto di customer journey nel web marketing?",
+    "text": "Quale affermazione descrive meglio il concetto di customer journey nel web marketing?",
     "options": {
       "A": "permette di osservare interazioni, aspettative, emozioni e ostacoli nel tempo",
       "B": "partecipa alla narrazione e può influenzare altri consumatori",
@@ -2512,7 +2512,7 @@
       "journey"
     ],
     "source": "05_Dispense_Approfondimenti.md / McKinsey",
-    "text": "In che modo il concetto di consumer decision journey McKinsey aiuta nel web marketing?",
+    "text": "Quale frase spiega meglio il concetto di consumer decision journey McKinsey nel web marketing?",
     "options": {
       "A": "sostituisce la visione puramente lineare del funnel tradizionale",
       "B": "rappresenta il percorso classico prima dei modelli circolari e multi-touchpoint",
@@ -2544,7 +2544,7 @@
       "journey"
     ],
     "source": "05_Dispense_Approfondimenti.md / McKinsey",
-    "text": "Nel contesto del web marketing, a cosa serve il concetto di valutazione attiva?",
+    "text": "Nel contesto del web marketing, quale affermazione descrive meglio il concetto di valutazione attiva?",
     "options": {
       "A": "è fortemente influenzata da recensioni, passaparola ed esperienze consumer-driven",
       "B": "sostituisce la visione puramente lineare del funnel tradizionale",
@@ -2608,7 +2608,7 @@
       "journey"
     ],
     "source": "05_Dispense_Approfondimenti.md / McKinsey",
-    "text": "Qual è la funzione principale del concetto di esperienza post-acquisto nel web marketing?",
+    "text": "Quale frase sintetizza meglio la funzione del concetto di esperienza post-acquisto nel web marketing?",
     "options": {
       "A": "è cruciale per alimentare il loyalty loop",
       "B": "può accorciare o riattivare percorsi decisionali successivi",
@@ -2642,7 +2642,7 @@
       "digitale"
     ],
     "source": "07_Appunti_Corso.md / Web Marketing",
-    "text": "A cosa contribuisce il concetto di ZMOT nel web marketing?",
+    "text": "Quale affermazione è più corretta sul concetto di ZMOT?",
     "options": {
       "A": "anticipa il contatto diretto con prodotto o venditore e influenza la decisione",
       "B": "è cruciale per alimentare il loyalty loop",
@@ -2676,7 +2676,7 @@
       "business"
     ],
     "source": "07_Appunti_Corso.md / Web Marketing",
-    "text": "A cosa serve il concetto di FMOT nel web marketing?",
+    "text": "Quale affermazione descrive meglio il concetto di FMOT nel web marketing?",
     "options": {
       "A": "riguarda la scelta nel punto di acquisto o nella pagina prodotto",
       "B": "anticipa il contatto diretto con prodotto o venditore e influenza la decisione",
@@ -2772,7 +2772,7 @@
       "journey"
     ],
     "source": "04_Slides_Corso.md / Customer Journey",
-    "text": "In che modo il concetto di touchpoint customer-owned aiuta nel web marketing?",
+    "text": "Quale frase spiega meglio il concetto di touchpoint customer-owned nel web marketing?",
     "options": {
       "A": "mostrano come il cliente costruisce esperienza anche fuori dai canali gestiti",
       "B": "sono touchpoint su cui il brand ha maggiore governo",
@@ -2804,7 +2804,7 @@
       "journey"
     ],
     "source": "04_Slides_Corso.md / Customer Journey",
-    "text": "Nel contesto del web marketing, a cosa serve il concetto di customer journey map?",
+    "text": "Nel contesto del web marketing, quale affermazione descrive meglio il concetto di customer journey map?",
     "options": {
       "A": "aiuta a individuare frizioni, insight e opportunità di miglioramento",
       "B": "mostrano come il cliente costruisce esperienza anche fuori dai canali gestiti",
@@ -2872,7 +2872,7 @@
       "fondamenti"
     ],
     "source": "04_Slides_Corso.md / Buyer personas",
-    "text": "Qual è la funzione principale del concetto di buyer persona nel web marketing?",
+    "text": "Quale frase sintetizza meglio la funzione del concetto di buyer persona nel web marketing?",
     "options": {
       "A": "aiuta a progettare contenuti, soluzioni e campagne più aderenti ai segmenti",
       "B": "delimita il perimetro dell'analisi prima della raccolta dati",
@@ -2904,7 +2904,7 @@
       "journey"
     ],
     "source": "04_Slides_Corso.md / Buyer personas",
-    "text": "A cosa contribuisce il concetto di disconfirmation paradigm nel web marketing?",
+    "text": "Quale affermazione è più corretta sul concetto di disconfirmation paradigm?",
     "options": {
       "A": "spiega perché la customer satisfaction non dipende solo dalla qualità tecnica assoluta",
       "B": "aiuta a progettare contenuti, soluzioni e campagne più aderenti ai segmenti",
@@ -2936,7 +2936,7 @@
       "journey"
     ],
     "source": "04_Slides_Corso.md / Buyer personas",
-    "text": "A cosa serve il concetto di customer delight nel web marketing?",
+    "text": "Quale affermazione descrive meglio il concetto di customer delight nel web marketing?",
     "options": {
       "A": "può rafforzare fedeltà, passaparola e relazione con il brand",
       "B": "spiega perché la customer satisfaction non dipende solo dalla qualità tecnica assoluta",
@@ -3034,7 +3034,7 @@
       "business"
     ],
     "source": "04_Slides_Corso.md / Business Model Digitali",
-    "text": "In che modo il concetto di Business Model Canvas aiuta nel web marketing?",
+    "text": "Quale frase spiega meglio il concetto di Business Model Canvas nel web marketing?",
     "options": {
       "A": "aiuta a visualizzare le componenti chiave del modello d'impresa",
       "B": "racconta come l'impresa funziona economicamente e strategicamente",
@@ -3051,7 +3051,7 @@
       "fondamenti"
     ],
     "source": "04_Slides_Corso.md / Business Model Digitali",
-    "text": "Cosa si intende per customer segments nel canvas?",
+    "text": "Cosa si intende per customer segments nel Business Model Canvas?",
     "options": {
       "A": "i gruppi di clienti a cui l'impresa intende offrire valore",
       "B": "uno schema che descrive value proposition, segmenti, canali, relazioni, ricavi, risorse, attività, partner e costi",
@@ -3068,7 +3068,7 @@
       "fondamenti"
     ],
     "source": "04_Slides_Corso.md / Business Model Digitali",
-    "text": "Nel contesto del web marketing, a cosa serve il concetto di customer segments nel canvas?",
+    "text": "Nel contesto del web marketing, quale affermazione descrive meglio il concetto di customer segments nel Business Model Canvas?",
     "options": {
       "A": "orientano value proposition, canali, relazioni e ricavi",
       "B": "aiuta a visualizzare le componenti chiave del modello d'impresa",
@@ -3084,7 +3084,7 @@
       "business"
     ],
     "source": "04_Slides_Corso.md / Business Model Digitali",
-    "text": "Cosa si intende per channels nel canvas?",
+    "text": "Cosa si intende per channels nel Business Model Canvas?",
     "options": {
       "A": "i modi con cui l'impresa raggiunge i segmenti e consegna la value proposition",
       "B": "i gruppi di clienti a cui l'impresa intende offrire valore",
@@ -3100,7 +3100,7 @@
       "business"
     ],
     "source": "04_Slides_Corso.md / Business Model Digitali",
-    "text": "Quale affermazione descrive meglio il ruolo del concetto di channels nel canvas?",
+    "text": "Quale affermazione descrive meglio il ruolo del concetto di channels nel Business Model Canvas?",
     "options": {
       "A": "collegano offerta e cliente lungo comunicazione, distribuzione e vendita",
       "B": "orientano value proposition, canali, relazioni e ricavi",
@@ -3117,7 +3117,7 @@
       "journey"
     ],
     "source": "04_Slides_Corso.md / Business Model Digitali",
-    "text": "Cosa si intende per customer relationships nel canvas?",
+    "text": "Cosa si intende per customer relationships nel Business Model Canvas?",
     "options": {
       "A": "il tipo di relazione che l'impresa stabilisce con ciascun segmento",
       "B": "i modi con cui l'impresa raggiunge i segmenti e consegna la value proposition",
@@ -3134,7 +3134,7 @@
       "journey"
     ],
     "source": "04_Slides_Corso.md / Business Model Digitali",
-    "text": "Qual è la funzione principale del concetto di customer relationships nel canvas nel web marketing?",
+    "text": "Quale frase sintetizza meglio la funzione del concetto di customer relationships nel Business Model Canvas?",
     "options": {
       "A": "definisce assistenza, automazione, community o personalizzazione del rapporto",
       "B": "collegano offerta e cliente lungo comunicazione, distribuzione e vendita",
@@ -3166,7 +3166,7 @@
       "business"
     ],
     "source": "04_Slides_Corso.md / Business Model Digitali",
-    "text": "A cosa contribuisce il concetto di revenue model nel web marketing?",
+    "text": "Quale affermazione è più corretta sul concetto di revenue model?",
     "options": {
       "A": "è una componente del business model dedicata ai flussi di ricavo",
       "B": "definisce assistenza, automazione, community o personalizzazione del rapporto",
@@ -3198,7 +3198,7 @@
       "business"
     ],
     "source": "04_Slides_Corso.md / Business Model Digitali",
-    "text": "A cosa serve il concetto di cost structure nel web marketing?",
+    "text": "Quale affermazione descrive meglio il concetto di cost structure nel web marketing?",
     "options": {
       "A": "aiuta a valutare sostenibilità economica e formula di profitto",
       "B": "è una componente del business model dedicata ai flussi di ricavo",
@@ -3296,7 +3296,7 @@
       "business"
     ],
     "source": "04_Slides_Corso.md / Business Model Digitali",
-    "text": "In che modo il concetto di affiliation aiuta nel web marketing?",
+    "text": "Quale frase spiega meglio il concetto di affiliation nel web marketing?",
     "options": {
       "A": "premia la capacità di portare utenti qualificati a un'offerta di terzi",
       "B": "monetizza l'attenzione o il traffico generato dalla piattaforma",
@@ -3328,7 +3328,7 @@
       "business"
     ],
     "source": "04_Slides_Corso.md / Business Model Digitali",
-    "text": "Nel contesto del web marketing, a cosa serve il concetto di commission based model?",
+    "text": "Nel contesto del web marketing, quale affermazione descrive meglio il concetto di commission based model?",
     "options": {
       "A": "è tipico di marketplace che mettono in contatto domanda e offerta",
       "B": "premia la capacità di portare utenti qualificati a un'offerta di terzi",
@@ -3396,7 +3396,7 @@
       "digitale"
     ],
     "source": "07_Appunti_Corso.md / Web Marketing",
-    "text": "Qual è la funzione principale del concetto di network effect nel web marketing?",
+    "text": "Quale frase sintetizza meglio la funzione del concetto di network effect nel web marketing?",
     "options": {
       "A": "spiega perché le piattaforme possono diventare più utili e attrattive con la scala",
       "B": "deve attrarre entrambe le parti perché il valore dipende dalla presenza dell'altra",
@@ -3428,7 +3428,7 @@
       "business"
     ],
     "source": "05_Dispense_Approfondimenti.md / Sharing economy continuum",
-    "text": "A cosa contribuisce il concetto di sharing economy nel web marketing?",
+    "text": "Quale affermazione è più corretta sul concetto di sharing economy?",
     "options": {
       "A": "si colloca lungo un continuum tra condivisione e scambio economico",
       "B": "spiega perché le piattaforme possono diventare più utili e attrattive con la scala",
@@ -3460,7 +3460,7 @@
       "business"
     ],
     "source": "05_Dispense_Approfondimenti.md / Sharing economy continuum",
-    "text": "A cosa serve il concetto di pure sharing nel web marketing?",
+    "text": "Quale affermazione descrive meglio il concetto di pure sharing nel web marketing?",
     "options": {
       "A": "valorizza comunità, socializzazione e accesso più che profitto immediato",
       "B": "si colloca lungo un continuum tra condivisione e scambio economico",
@@ -3556,7 +3556,7 @@
       "business"
     ],
     "source": "04_Slides_Corso.md / E-commerce",
-    "text": "In che modo il concetto di B2B e-commerce aiuta nel web marketing?",
+    "text": "Quale frase spiega meglio il concetto di B2B e-commerce nel web marketing?",
     "options": {
       "A": "rappresenta una delle categorie più rilevanti in termini economici",
       "B": "estende la transazione includendo informazione, relazione, pagamento e servizio",
@@ -3588,7 +3588,7 @@
       "business"
     ],
     "source": "04_Slides_Corso.md / E-commerce",
-    "text": "Nel contesto del web marketing, a cosa serve il concetto di B2C e-commerce?",
+    "text": "Nel contesto del web marketing, quale affermazione descrive meglio il concetto di B2C e-commerce?",
     "options": {
       "A": "è la forma più intuitiva per il consumatore finale online",
       "B": "rappresenta una delle categorie più rilevanti in termini economici",
@@ -3652,7 +3652,7 @@
       "business"
     ],
     "source": "04_Slides_Corso.md / E-commerce",
-    "text": "Qual è la funzione principale del concetto di C2B e-commerce nel web marketing?",
+    "text": "Quale frase sintetizza meglio la funzione del concetto di C2B e-commerce nel web marketing?",
     "options": {
       "A": "ribalta la direzione classica della vendita impresa-cliente",
       "B": "abilita scambi peer-to-peer spesso mediati da marketplace",
@@ -3686,7 +3686,7 @@
       "journey"
     ],
     "source": "04_Slides_Corso.md / E-commerce",
-    "text": "A cosa contribuisce il concetto di social commerce nel web marketing?",
+    "text": "Quale affermazione è più corretta sul concetto di social commerce?",
     "options": {
       "A": "integra relazione sociale, informazione e acquisto",
       "B": "ribalta la direzione classica della vendita impresa-cliente",
@@ -3720,7 +3720,7 @@
       "journey"
     ],
     "source": "04_Slides_Corso.md / E-commerce",
-    "text": "A cosa serve il concetto di fiducia nell'e-commerce nel web marketing?",
+    "text": "Quale affermazione descrive meglio il concetto di fiducia nell'e-commerce nel web marketing?",
     "options": {
       "A": "è critica perché il cliente non ha contatto fisico immediato con venditore e prodotto",
       "B": "integra relazione sociale, informazione e acquisto",
@@ -3820,7 +3820,7 @@
       "journey"
     ],
     "source": "04_Slides_Corso.md / E-commerce",
-    "text": "In che modo il concetto di carrello e-commerce aiuta nel web marketing?",
+    "text": "Quale frase spiega meglio il concetto di carrello e-commerce nel web marketing?",
     "options": {
       "A": "è un punto delicato in cui frizioni, costi inattesi o complessità possono generare abbandono",
       "B": "può aumentare abbandono se imposta prima del checkout senza valore percepito",
@@ -3854,7 +3854,7 @@
       "operational"
     ],
     "source": "04_Slides_Corso.md / E-commerce",
-    "text": "Nel contesto del web marketing, a cosa serve il concetto di costo di acquisizione cliente?",
+    "text": "Nel contesto del web marketing, quale affermazione descrive meglio il concetto di costo di acquisizione cliente?",
     "options": {
       "A": "è critico perché traffico e conversioni devono essere economicamente sostenibili",
       "B": "è un punto delicato in cui frizioni, costi inattesi o complessità possono generare abbandono",
@@ -3922,7 +3922,7 @@
       "journey"
     ],
     "source": "04_Slides_Corso.md / E-commerce",
-    "text": "Qual è la funzione principale del concetto di customer care online nel web marketing?",
+    "text": "Quale frase sintetizza meglio la funzione del concetto di customer care online nel web marketing?",
     "options": {
       "A": "compensa l'assenza di rapporto umano diretto e riduce incertezza",
       "B": "aumenta fiducia e sicurezza nelle transazioni online",
@@ -3954,7 +3954,7 @@
       "digitale"
     ],
     "source": "converted-md/slide parte 2/01 Granato",
-    "text": "A cosa contribuisce il concetto di innovazione nel web marketing?",
+    "text": "Quale affermazione è più corretta sul concetto di innovazione?",
     "options": {
       "A": "distingue il miglioramento utile dalla semplice creazione di qualcosa di nuovo",
       "B": "è il primo livello del passaggio al digitale",
@@ -3986,7 +3986,7 @@
       "digitale"
     ],
     "source": "converted-md/slide parte 2/01 Granato",
-    "text": "A cosa serve il concetto di digitalizzazione nel web marketing?",
+    "text": "Quale affermazione descrive meglio il concetto di digitalizzazione nel web marketing?",
     "options": {
       "A": "è il primo livello del passaggio al digitale",
       "B": "distingue il miglioramento utile dalla semplice creazione di qualcosa di nuovo",
@@ -4086,7 +4086,7 @@
       "fondamenti"
     ],
     "source": "converted-md/slide parte 2/02 Granato",
-    "text": "In che modo il concetto di USP aiuta nel web marketing?",
+    "text": "Quale frase spiega meglio il concetto di USP nel web marketing?",
     "options": {
       "A": "aiuta a emergere in un contesto digitale con molti messaggi e poca attenzione",
       "B": "tocca modello di business, processi, organizzazione ed esperienza cliente",
@@ -4120,7 +4120,7 @@
       "fondamenti"
     ],
     "source": "converted-md/slide parte 2/02 Granato",
-    "text": "Nel contesto del web marketing, a cosa serve il concetto di USP comunicativa?",
+    "text": "Nel contesto del web marketing, quale affermazione descrive meglio il concetto di USP comunicativa?",
     "options": {
       "A": "rappresenta il livello dichiarativo della promessa di valore",
       "B": "aiuta a emergere in un contesto digitale con molti messaggi e poca attenzione",
@@ -4188,7 +4188,7 @@
       "operational"
     ],
     "source": "converted-md/slide parte 2/02 Granato",
-    "text": "Qual è la funzione principale del concetto di domanda latente nel web marketing?",
+    "text": "Quale frase sintetizza meglio la funzione del concetto di domanda latente nel web marketing?",
     "options": {
       "A": "richiede comunicazione capace di attivare consapevolezza",
       "B": "rende più credibile e difendibile la promessa comunicativa",
@@ -4222,7 +4222,7 @@
       "operational"
     ],
     "source": "converted-md/slide parte 2/02 Granato",
-    "text": "A cosa contribuisce il concetto di domanda consapevole nel web marketing?",
+    "text": "Quale affermazione è più corretta sul concetto di domanda consapevole?",
     "options": {
       "A": "si intercetta spesso con motori di ricerca e contenuti coerenti con l'intento",
       "B": "richiede comunicazione capace di attivare consapevolezza",
@@ -4256,7 +4256,7 @@
       "operational"
     ],
     "source": "converted-md/slide parte 2/02 Granato",
-    "text": "A cosa serve il concetto di traffico qualificato nel web marketing?",
+    "text": "Quale affermazione descrive meglio il concetto di traffico qualificato nel web marketing?",
     "options": {
       "A": "conta più del semplice volume di visite perché aumenta probabilità di conversione",
       "B": "si intercetta spesso con motori di ricerca e contenuti coerenti con l'intento",
@@ -4356,7 +4356,7 @@
       "digitale"
     ],
     "source": "converted-md/slide parte 2/03 Granato",
-    "text": "In che modo il concetto di crawling aiuta nel web marketing?",
+    "text": "Quale frase spiega meglio il concetto di crawling nel web marketing?",
     "options": {
       "A": "è il primo passaggio perché una pagina possa essere scoperta",
       "B": "consentono risultati più rapidi ma richiedono budget pubblicitario",
@@ -4388,7 +4388,7 @@
       "digitale"
     ],
     "source": "converted-md/slide parte 2/03 Granato",
-    "text": "Nel contesto del web marketing, a cosa serve il concetto di indexing?",
+    "text": "Nel contesto del web marketing, quale affermazione descrive meglio il concetto di indexing?",
     "options": {
       "A": "fa diventare la pagina candidata a comparire per le query",
       "B": "è il primo passaggio perché una pagina possa essere scoperta",
@@ -4454,7 +4454,7 @@
       "operational"
     ],
     "source": "converted-md/slide parte 2/03 Granato",
-    "text": "Qual è la funzione principale del concetto di SEO on-page nel web marketing?",
+    "text": "Quale frase sintetizza meglio la funzione del concetto di SEO on-page nel web marketing?",
     "options": {
       "A": "lavora su elementi che il sito controlla direttamente",
       "B": "determina la visibilità effettiva nella SERP",
@@ -4488,7 +4488,7 @@
       "operational"
     ],
     "source": "converted-md/slide parte 2/03 Granato",
-    "text": "A cosa contribuisce il concetto di SEO off-page nel web marketing?",
+    "text": "Quale affermazione è più corretta sul concetto di SEO off-page?",
     "options": {
       "A": "costruisce autorevolezza tramite segnali come menzioni e backlink",
       "B": "lavora su elementi che il sito controlla direttamente",
@@ -4522,7 +4522,7 @@
       "operational"
     ],
     "source": "converted-md/slide parte 2/03 Granato",
-    "text": "A cosa serve il concetto di SEO tecnica nel web marketing?",
+    "text": "Quale affermazione descrive meglio il concetto di SEO tecnica nel web marketing?",
     "options": {
       "A": "lavora dietro le quinte su struttura, performance e accessibilità tecnica",
       "B": "costruisce autorevolezza tramite segnali come menzioni e backlink",
@@ -4624,7 +4624,7 @@
       "operational"
     ],
     "source": "converted-md/appunti-web-marketing/Web Marketing.md",
-    "text": "In che modo il concetto di intento navigazionale aiuta nel web marketing?",
+    "text": "Quale frase spiega meglio il concetto di intento navigazionale nel web marketing?",
     "options": {
       "A": "indica che la destinazione è già nota almeno in parte",
       "B": "di solito indica una fase fredda o iniziale del percorso",
@@ -4658,7 +4658,7 @@
       "operational"
     ],
     "source": "converted-md/appunti-web-marketing/Web Marketing.md",
-    "text": "Nel contesto del web marketing, a cosa serve il concetto di intento commerciale?",
+    "text": "Nel contesto del web marketing, quale affermazione descrive meglio il concetto di intento commerciale?",
     "options": {
       "A": "rappresenta un lead più caldo e una fase avanzata della journey",
       "B": "indica che la destinazione è già nota almeno in parte",
@@ -4726,7 +4726,7 @@
       "operational"
     ],
     "source": "converted-md/slide parte 2/05 Granato",
-    "text": "Qual è la funzione principale del concetto di AI Overview nel web marketing?",
+    "text": "Quale frase sintetizza meglio la funzione del concetto di AI Overview nel web marketing?",
     "options": {
       "A": "trasforma il motore di ricerca in motore di risposta e può ridurre il click verso i siti",
       "B": "richiede pagine capaci di ridurre frizioni e sostenere la conversione",
@@ -4760,7 +4760,7 @@
       "operational"
     ],
     "source": "converted-md/appunti-web-marketing/Web Marketing.md",
-    "text": "A cosa contribuisce il concetto di GEO nel web marketing?",
+    "text": "Quale affermazione è più corretta sul concetto di GEO?",
     "options": {
       "A": "nasce con i risultati AI e premia qualità, specificità e strutturazione del contenuto",
       "B": "trasforma il motore di ricerca in motore di risposta e può ridurre il click verso i siti",
@@ -4794,7 +4794,7 @@
       "operational"
     ],
     "source": "converted-md/slide parte 2/05 Granato",
-    "text": "A cosa serve il concetto di keyword research nel web marketing?",
+    "text": "Quale affermazione descrive meglio il concetto di keyword research nel web marketing?",
     "options": {
       "A": "la keyword diventa proxy della domanda e dell'intento dell'utente",
       "B": "nasce con i risultati AI e premia qualità, specificità e strutturazione del contenuto",
@@ -4896,7 +4896,7 @@
       "operational"
     ],
     "source": "converted-md/slide parte 2/05 Granato",
-    "text": "In che modo il concetto di autorità SEO aiuta nel web marketing?",
+    "text": "Quale frase spiega meglio il concetto di autorità SEO nel web marketing?",
     "options": {
       "A": "influenza la capacità di competere su keyword presidiate da fonti forti",
       "B": "aiuta a stimare il potenziale traffico ma va letto insieme a rilevanza e concorrenza",
@@ -4930,7 +4930,7 @@
       "operational"
     ],
     "source": "converted-md/appunti.md",
-    "text": "Nel contesto del web marketing, a cosa serve il concetto di backlink autorevoli?",
+    "text": "Nel contesto del web marketing, quale affermazione descrive meglio il concetto di backlink autorevoli?",
     "options": {
       "A": "sono un segnale esterno di fiducia per la SEO off-page",
       "B": "influenza la capacità di competere su keyword presidiate da fonti forti",
@@ -4996,7 +4996,7 @@
       "digitale"
     ],
     "source": "converted-md/appunti-web-marketing/Web Marketing.md",
-    "text": "Qual è la funzione principale del concetto di search advertising nel web marketing?",
+    "text": "Quale frase sintetizza meglio la funzione del concetto di search advertising nel web marketing?",
     "options": {
       "A": "intercetta utenti che stanno formulando una query esplicita",
       "B": "permette targeting, flessibilità, modifiche rapide e budget scalabile",
@@ -5028,7 +5028,7 @@
       "operational"
     ],
     "source": "converted-md/appunti-web-marketing/Web Marketing.md",
-    "text": "A cosa contribuisce il concetto di display advertising nel web marketing?",
+    "text": "Quale affermazione è più corretta sul concetto di display advertising?",
     "options": {
       "A": "lavora sulla visibilità in spazi pubblicitari esterni alla SERP organica",
       "B": "intercetta utenti che stanno formulando una query esplicita",
@@ -5060,7 +5060,7 @@
       "operational"
     ],
     "source": "converted-md/appunti-web-marketing/Web Marketing.md",
-    "text": "A cosa serve il concetto di video advertising in-stream nel web marketing?",
+    "text": "Quale affermazione descrive meglio il concetto di video advertising in-stream nel web marketing?",
     "options": {
       "A": "sfrutta il contesto di fruizione video per veicolare messaggi promozionali",
       "B": "lavora sulla visibilità in spazi pubblicitari esterni alla SERP organica",
@@ -5156,7 +5156,7 @@
       "operational"
     ],
     "source": "converted-md/appunti-web-marketing/Web Marketing.md",
-    "text": "In che modo il concetto di CPM aiuta nel web marketing?",
+    "text": "Quale frase spiega meglio il concetto di CPM nel web marketing?",
     "options": {
       "A": "è utile per campagne orientate alla copertura o alla visibilità",
       "B": "misura l'efficienza economica della generazione di click paid",
@@ -5188,7 +5188,7 @@
       "operational"
     ],
     "source": "converted-md/appunti-web-marketing/Web Marketing.md",
-    "text": "Nel contesto del web marketing, a cosa serve il concetto di ROAS?",
+    "text": "Nel contesto del web marketing, quale affermazione descrive meglio il concetto di ROAS?",
     "options": {
       "A": "valuta la resa economica specifica dell'investimento advertising",
       "B": "è utile per campagne orientate alla copertura o alla visibilità",
@@ -5254,7 +5254,7 @@
       "digitale"
     ],
     "source": "converted-md/slide parte 2/07 Gabriele",
-    "text": "Qual è la funzione principale del concetto di digital analytics nel web marketing?",
+    "text": "Quale frase sintetizza meglio la funzione del concetto di digital analytics nel web marketing?",
     "options": {
       "A": "serve a migliorare esperienza, visibilità, contenuti e conversioni",
       "B": "indica quanto pesa l'advertising sulle vendite generate",
@@ -5286,7 +5286,7 @@
       "operational"
     ],
     "source": "converted-md/slide parte 2/07 Gabriele",
-    "text": "A cosa contribuisce il concetto di acquisizione in digital analytics nel web marketing?",
+    "text": "Quale affermazione è più corretta sul concetto di acquisizione in digital analytics?",
     "options": {
       "A": "permette di capire da quali canali arrivano utenti nuovi o esistenti",
       "B": "serve a migliorare esperienza, visibilità, contenuti e conversioni",
@@ -5318,7 +5318,7 @@
       "operational"
     ],
     "source": "converted-md/slide parte 2/07 Gabriele",
-    "text": "A cosa serve il concetto di frequenza di rimbalzo nel web marketing?",
+    "text": "Quale affermazione descrive meglio il concetto di frequenza di rimbalzo nel web marketing?",
     "options": {
       "A": "aiuta a valutare se gli utenti interagiscono oltre la prima pagina",
       "B": "permette di capire da quali canali arrivano utenti nuovi o esistenti",
@@ -5416,7 +5416,7 @@
       "operational"
     ],
     "source": "converted-md/slide parte 2/08 Gabriele",
-    "text": "In che modo il concetto di email marketing aiuta nel web marketing?",
+    "text": "Quale frase spiega meglio il concetto di email marketing nel web marketing?",
     "options": {
       "A": "mira a costruire relazione di valore e spingere alla conversione",
       "B": "traduce un comportamento rilevante in dato misurabile",
@@ -5448,7 +5448,7 @@
       "operational"
     ],
     "source": "converted-md/slide parte 2/08 Gabriele",
-    "text": "Nel contesto del web marketing, a cosa serve il concetto di newsletter?",
+    "text": "Nel contesto del web marketing, quale affermazione descrive meglio il concetto di newsletter?",
     "options": {
       "A": "mantiene vivo il rapporto con gli iscritti attraverso contenuti pertinenti",
       "B": "mira a costruire relazione di valore e spingere alla conversione",
@@ -5516,7 +5516,7 @@
       "business"
     ],
     "source": "converted-md/slide parte 2/08 Gabriele",
-    "text": "Qual è la funzione principale del concetto di email di remarketing nel web marketing?",
+    "text": "Quale frase sintetizza meglio la funzione del concetto di email di remarketing nel web marketing?",
     "options": {
       "A": "riattiva un'intenzione già emersa nel percorso di conversione",
       "B": "conferma o supporta una transazione, iscrizione o richiesta",
@@ -5548,7 +5548,7 @@
       "operational"
     ],
     "source": "converted-md/slide parte 2/08 Gabriele",
-    "text": "A cosa contribuisce il concetto di oggetto della newsletter nel web marketing?",
+    "text": "Quale affermazione è più corretta sul concetto di oggetto della newsletter?",
     "options": {
       "A": "ha forte impatto sull'apertura dell'email",
       "B": "riattiva un'intenzione già emersa nel percorso di conversione",
@@ -5580,7 +5580,7 @@
       "operational"
     ],
     "source": "converted-md/slide parte 2/08 Gabriele",
-    "text": "A cosa serve il concetto di personalizzazione email nel web marketing?",
+    "text": "Quale affermazione descrive meglio il concetto di personalizzazione email nel web marketing?",
     "options": {
       "A": "aumenta engagement e percezione di rilevanza del brand",
       "B": "ha forte impatto sull'apertura dell'email",
@@ -5678,7 +5678,7 @@
       "operational"
     ],
     "source": "converted-md/lezione-9-content-marketing",
-    "text": "In che modo il concetto di content marketing pull aiuta nel web marketing?",
+    "text": "Quale frase spiega meglio il concetto di content marketing pull nel web marketing?",
     "options": {
       "A": "si contrappone alla pubblicità push che mette il prodotto davanti all'utente",
       "B": "costruisce fiducia e guida azioni profittevoli senza interrompere l'utente",
@@ -5710,7 +5710,7 @@
       "operational"
     ],
     "source": "converted-md/lezione-9-content-marketing",
-    "text": "Nel contesto del web marketing, a cosa serve il concetto di piano editoriale?",
+    "text": "Nel contesto del web marketing, quale affermazione descrive meglio il concetto di piano editoriale?",
     "options": {
       "A": "assicura coerenza, qualità e allineamento agli obiettivi di content marketing",
       "B": "si contrappone alla pubblicità push che mette il prodotto davanti all'utente",
@@ -5776,7 +5776,7 @@
       "operational"
     ],
     "source": "converted-md/lezione-9-content-marketing",
-    "text": "Qual è la funzione principale del concetto di modello PESO nel web marketing?",
+    "text": "Quale frase sintetizza meglio la funzione del concetto di modello PESO nel web marketing?",
     "options": {
       "A": "aiuta a pianificare la distribuzione integrata dei contenuti",
       "B": "aiuta a collegare contenuti e comunicazione a stadi psicologici progressivi",
@@ -5808,7 +5808,7 @@
       "operational"
     ],
     "source": "converted-md/lezione-9-content-marketing",
-    "text": "A cosa contribuisce il concetto di contenuto Hero nel web marketing?",
+    "text": "Quale affermazione è più corretta sul concetto di contenuto Hero?",
     "options": {
       "A": "serve a momenti di grande visibilità nel framework Hero-Hub-Help",
       "B": "aiuta a pianificare la distribuzione integrata dei contenuti",
@@ -5840,7 +5840,7 @@
       "operational"
     ],
     "source": "converted-md/lezione-9-content-marketing",
-    "text": "A cosa serve il concetto di contenuto Hub nel web marketing?",
+    "text": "Quale affermazione descrive meglio il concetto di contenuto Hub nel web marketing?",
     "options": {
       "A": "mantiene la relazione con il pubblico nel tempo",
       "B": "serve a momenti di grande visibilità nel framework Hero-Hub-Help",
@@ -6826,8 +6826,8 @@
     "options": {
       "A": "progettare una survey online per capire le preferenze di un nuovo target",
       "B": "usare report di settore o statistiche pubbliche per stimare un mercato",
-      "C": "acquistare un report già pubblicato da una società di ricerca",
-      "D": "riutilizzare statistiche pubbliche raccolte da un ente esterno"
+      "C": "mandare un link survey a una lista di clienti selezionati",
+      "D": "analizzare come gli utenti confrontano recensioni su un marketplace"
     }
   },
   {
@@ -6860,7 +6860,7 @@
       "A": "inserire un questionario su una landing page o diffonderlo via social",
       "B": "mandare un link survey a una lista di clienti selezionati",
       "C": "chiedere di descrivere con parole proprie l'esperienza con un servizio",
-      "D": "usare report di settore già pubblicati per descrivere il mercato"
+      "D": "progettare una survey online per capire le preferenze di un nuovo target"
     }
   },
   {
@@ -6891,7 +6891,7 @@
     "options": {
       "A": "scegliere una risposta tra tre opzioni predefinite",
       "B": "chiedere di descrivere con parole proprie l'esperienza con un servizio",
-      "C": "misurare il tasso di completamento della survey dopo la raccolta",
+      "C": "chiedere se l'utente ha mai acquistato online: sì o no",
       "D": "inserire un questionario su una landing page o diffonderlo via social"
     }
   },
@@ -7129,10 +7129,10 @@
     "source": "05_Dispense_Approfondimenti.md / McKinsey",
     "text": "Quale opzione descrive un esempio corretto del concetto di valutazione attiva?",
     "options": {
-      "A": "confrontare recensioni, prezzi e alternative aggiungendo o rimuovendo brand dal set considerato",
-      "B": "passare da consapevolezza a considerazione e infine acquisto",
+      "A": "un cliente scopre un nuovo brand leggendo confronti e recensioni online",
+      "B": "il consumatore aggiunge o rimuove brand durante la valutazione attiva",
       "C": "un'esperienza positiva porta il cliente a riacquistare senza rivalutare troppe alternative",
-      "D": "una recensione, un sito, un punto vendita o una email di conferma"
+      "D": "passare da consapevolezza a considerazione e infine acquisto"
     }
   },
   {
@@ -7309,7 +7309,7 @@
     "source": "04_Slides_Corso.md / Buyer personas",
     "text": "Quale tra questi esempi è collegato al concetto di disconfirmation paradigm?",
     "options": {
-      "A": "confrontare le aspettative iniziali del cliente con la performance percepita dopo l'esperienza",
+      "A": "un cliente è soddisfatto se l'esperienza supera ciò che si aspettava",
       "B": "descrivere obiettivi, obiezioni e preferenze comunicative di un cliente tipo",
       "C": "un servizio sorprende positivamente il cliente oltre la promessa attesa",
       "D": "scegliere di mappare il percorso di una buyer persona nel pre-acquisto"
@@ -7389,7 +7389,7 @@
       "fondamenti"
     ],
     "source": "04_Slides_Corso.md / Business Model Digitali",
-    "text": "In quale caso si applica meglio il concetto di customer segments nel canvas?",
+    "text": "In quale caso si applica meglio il concetto di customer segments nel Business Model Canvas?",
     "options": {
       "A": "distinguere utenti free, clienti premium e aziende partner",
       "B": "mappare clienti, canali, ricavi e risorse di una piattaforma digitale",
@@ -7405,7 +7405,7 @@
       "business"
     ],
     "source": "04_Slides_Corso.md / Business Model Digitali",
-    "text": "Quale tra questi esempi è collegato al concetto di channels nel canvas?",
+    "text": "Quale tra questi esempi è collegato al concetto di channels nel Business Model Canvas?",
     "options": {
       "A": "app, sito e marketplace come canali per distribuire un servizio",
       "B": "distinguere utenti free, clienti premium e aziende partner",
@@ -7422,7 +7422,7 @@
       "journey"
     ],
     "source": "04_Slides_Corso.md / Business Model Digitali",
-    "text": "Quale opzione descrive un esempio corretto del concetto di customer relationships nel canvas?",
+    "text": "Quale opzione descrive un esempio corretto del concetto di customer relationships nel Business Model Canvas?",
     "options": {
       "A": "self-service, community o assistenza dedicata per gruppi diversi di clienti",
       "B": "app, sito e marketplace come canali per distribuire un servizio",
@@ -7733,7 +7733,7 @@
     "source": "04_Slides_Corso.md / E-commerce",
     "text": "Quale dei seguenti esempi rappresenta meglio il concetto di distanza fisica nell'e-commerce?",
     "options": {
-      "A": "non poter toccare o provare il prodotto prima dell'acquisto online",
+      "A": "foto degli utenti, video prodotto e AR riducono l'incertezza",
       "B": "recensioni, trasparenza e sicurezza aiutano il primo acquisto",
       "C": "permettere checkout come ospite riduce la barriera all'acquisto",
       "D": "utenti condividono recensioni e consigli dentro un percorso di shopping online"
@@ -7750,7 +7750,7 @@
     "source": "04_Slides_Corso.md / E-commerce",
     "text": "Quale di questi è un esempio del concetto di registrazione obbligatoria?",
     "options": {
-      "A": "obbligare l'utente a creare un account prima di completare il checkout",
+      "A": "permettere checkout come ospite riduce la barriera all'acquisto",
       "B": "foto degli utenti, video prodotto e AR riducono l'incertezza",
       "C": "un carrello chiaro mostra prezzo finale, spedizione e passaggi successivi",
       "D": "recensioni, trasparenza e sicurezza aiutano il primo acquisto"

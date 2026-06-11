@@ -54,7 +54,7 @@
       "fondamenti"
     ],
     "source": "04_Slides_Corso.md / Evoluzione del marketing",
-    "text": "Cosa si intende per marketing management?",
+    "text": "Che cosa indica il concetto di marketing management?",
     "options": {
       "A": "il processo di pianificazione ed esecuzione di concezione, prezzo, promozione e distribuzione per creare scambi di valore",
       "B": "uno stato di privazione fisica o psicologica che può essere soddisfatto",
@@ -86,7 +86,7 @@
       "fondamenti"
     ],
     "source": "04_Slides_Corso.md / Evoluzione del marketing",
-    "text": "Cosa si intende per bisogno?",
+    "text": "Che cosa indica il concetto di bisogno?",
     "options": {
       "A": "uno stato di privazione fisica o psicologica che può essere soddisfatto",
       "B": "il processo di pianificazione ed esecuzione di concezione, prezzo, promozione e distribuzione per creare scambi di valore",
@@ -118,7 +118,7 @@
       "fondamenti"
     ],
     "source": "04_Slides_Corso.md / Evoluzione del marketing",
-    "text": "Cosa si intende per desiderio?",
+    "text": "Che cosa indica il concetto di desiderio?",
     "options": {
       "A": "la forma specifica che un bisogno assume in base a cultura, personalità e contesto",
       "B": "uno stato di privazione fisica o psicologica che può essere soddisfatto",
@@ -150,7 +150,7 @@
       "fondamenti"
     ],
     "source": "04_Slides_Corso.md / Evoluzione del marketing",
-    "text": "Cosa si intende per offerta di marketing?",
+    "text": "Che cosa indica il concetto di offerta di marketing?",
     "options": {
       "A": "una combinazione di prodotti, servizi, informazioni o esperienze proposta al mercato",
       "B": "la forma specifica che un bisogno assume in base a cultura, personalità e contesto",
@@ -183,7 +183,7 @@
       "business"
     ],
     "source": "04_Slides_Corso.md / Business Model Digitali",
-    "text": "Cosa si intende per value proposition?",
+    "text": "Che cosa indica il concetto di value proposition?",
     "options": {
       "A": "l'insieme dei benefici promessi al cliente in cambio del valore che trasferisce all'impresa",
       "B": "una combinazione di prodotti, servizi, informazioni o esperienze proposta al mercato",
@@ -216,7 +216,7 @@
       "fondamenti"
     ],
     "source": "04_Slides_Corso.md / Evoluzione del marketing",
-    "text": "Cosa si intende per scambio di valore?",
+    "text": "Che cosa indica il concetto di scambio di valore?",
     "options": {
       "A": "il processo attraverso cui valore viene trasferito tra venditore e acquirente",
       "B": "l'insieme dei benefici promessi al cliente in cambio del valore che trasferisce all'impresa",
@@ -248,7 +248,7 @@
       "fondamenti"
     ],
     "source": "04_Slides_Corso.md / Evoluzione del marketing",
-    "text": "Cosa si intende per fase analitica?",
+    "text": "Che cosa indica il concetto di fase analitica?",
     "options": {
       "A": "la fase in cui si raccolgono e interpretano informazioni su ambiente, consumatori, concorrenza e impresa",
       "B": "la fase in cui si definiscono obiettivi, segmentazione, target e posizionamento",
@@ -280,7 +280,7 @@
       "fondamenti"
     ],
     "source": "04_Slides_Corso.md / Evoluzione del marketing",
-    "text": "Cosa si intende per fase strategica?",
+    "text": "Che cosa indica il concetto di fase strategica?",
     "options": {
       "A": "la fase in cui si definiscono obiettivi, segmentazione, target e posizionamento",
       "B": "la fase in cui si raccolgono e interpretano informazioni su ambiente, consumatori, concorrenza e impresa",
@@ -312,7 +312,7 @@
       "fondamenti"
     ],
     "source": "04_Slides_Corso.md / Evoluzione del marketing",
-    "text": "Cosa si intende per fase operativa?",
+    "text": "Che cosa indica il concetto di fase operativa?",
     "options": {
       "A": "la fase in cui si lavora sulle leve del marketing mix per eseguire la strategia",
       "B": "la fase in cui si definiscono obiettivi, segmentazione, target e posizionamento",
@@ -344,7 +344,7 @@
       "fondamenti"
     ],
     "source": "04_Slides_Corso.md / Evoluzione del marketing",
-    "text": "Cosa si intende per marketing mix 4P?",
+    "text": "Che cosa indica il concetto di marketing mix 4P?",
     "options": {
       "A": "il modello classico composto da prodotto, prezzo, distribuzione e promozione",
       "B": "la fase in cui si lavora sulle leve del marketing mix per eseguire la strategia",
@@ -376,7 +376,7 @@
       "fondamenti"
     ],
     "source": "04_Slides_Corso.md / Evoluzione del marketing",
-    "text": "Cosa si intende per SWOT analysis?",
+    "text": "Che cosa indica il concetto di SWOT analysis?",
     "options": {
       "A": "uno schema che mette in relazione punti di forza e debolezza interni con opportunità e minacce esterne",
       "B": "il modello classico composto da prodotto, prezzo, distribuzione e promozione",
@@ -408,7 +408,7 @@
       "fondamenti"
     ],
     "source": "04_Slides_Corso.md / Segmentazione",
-    "text": "Cosa si intende per segmentazione?",
+    "text": "Che cosa indica il concetto di segmentazione?",
     "options": {
       "A": "la suddivisione del mercato in gruppi omogenei internamente e distinguibili tra loro",
       "B": "la valutazione e selezione dei segmenti che l'impresa decide di servire",
@@ -440,7 +440,7 @@
       "fondamenti"
     ],
     "source": "04_Slides_Corso.md / Evoluzione del marketing",
-    "text": "Cosa si intende per targeting?",
+    "text": "Che cosa indica il concetto di targeting?",
     "options": {
       "A": "la valutazione e selezione dei segmenti che l'impresa decide di servire",
       "B": "la suddivisione del mercato in gruppi omogenei internamente e distinguibili tra loro",
@@ -472,7 +472,7 @@
       "fondamenti"
     ],
     "source": "04_Slides_Corso.md / Evoluzione del marketing",
-    "text": "Cosa si intende per posizionamento?",
+    "text": "Che cosa indica il concetto di posizionamento?",
     "options": {
       "A": "la strategia con cui il brand occupa una posizione distintiva nella mente del pubblico rispetto ai concorrenti",
       "B": "la valutazione e selezione dei segmenti che l'impresa decide di servire",
@@ -504,7 +504,7 @@
       "fondamenti"
     ],
     "source": "04_Slides_Corso.md / Evoluzione del marketing",
-    "text": "Cosa si intende per mappa percettiva?",
+    "text": "Che cosa indica il concetto di mappa percettiva?",
     "options": {
       "A": "uno strumento che rappresenta la percezione delle marche rispetto a dimensioni rilevanti per il consumatore",
       "B": "la strategia con cui il brand occupa una posizione distintiva nella mente del pubblico rispetto ai concorrenti",
@@ -536,7 +536,7 @@
       "fondamenti"
     ],
     "source": "05_Dispense_Approfondimenti.md / Marketing 4.0",
-    "text": "Cosa si intende per Marketing 1.0?",
+    "text": "Che cosa indica il concetto di Marketing 1.0?",
     "options": {
       "A": "un orientamento product-driven centrato sul prodotto e sulla vendita",
       "B": "un orientamento customer-centric che cerca di comprendere e soddisfare meglio il cliente",
@@ -568,7 +568,7 @@
       "fondamenti"
     ],
     "source": "05_Dispense_Approfondimenti.md / Marketing 4.0",
-    "text": "Cosa si intende per Marketing 2.0?",
+    "text": "Che cosa indica il concetto di Marketing 2.0?",
     "options": {
       "A": "un orientamento customer-centric che cerca di comprendere e soddisfare meglio il cliente",
       "B": "un orientamento product-driven centrato sul prodotto e sulla vendita",
@@ -600,7 +600,7 @@
       "fondamenti"
     ],
     "source": "05_Dispense_Approfondimenti.md / Marketing 4.0",
-    "text": "Cosa si intende per Marketing 3.0?",
+    "text": "Che cosa indica il concetto di Marketing 3.0?",
     "options": {
       "A": "un orientamento human-centric legato ai valori, allo spirito umano e alle cause sociali",
       "B": "un orientamento customer-centric che cerca di comprendere e soddisfare meglio il cliente",
@@ -633,7 +633,7 @@
       "digitale"
     ],
     "source": "05_Dispense_Approfondimenti.md / Marketing 4.0",
-    "text": "Cosa si intende per Marketing 4.0?",
+    "text": "Che cosa indica il concetto di Marketing 4.0?",
     "options": {
       "A": "l'approccio che integra tradizionale e digitale, online e offline, M2M e H2H",
       "B": "un orientamento human-centric legato ai valori, allo spirito umano e alle cause sociali",
@@ -667,7 +667,7 @@
       "digitale"
     ],
     "source": "05_Dispense_Approfondimenti.md / Marketing 4.0",
-    "text": "Cosa si intende per customer community confirmation?",
+    "text": "Che cosa indica il concetto di customer community confirmation?",
     "options": {
       "A": "il passaggio da segmenti decisi unilateralmente dall'azienda a comunità di clienti connesse e riconosciute",
       "B": "l'approccio che integra tradizionale e digitale, online e offline, M2M e H2H",
@@ -700,7 +700,7 @@
       "fondamenti"
     ],
     "source": "05_Dispense_Approfondimenti.md / Marketing 4.0",
-    "text": "Cosa si intende per brand characters and codes?",
+    "text": "Che cosa indica il concetto di brand characters and codes?",
     "options": {
       "A": "il passaggio dal solo positioning a carattere e codici riconoscibili del brand",
       "B": "il passaggio da segmenti decisi unilateralmente dall'azienda a comunità di clienti connesse e riconosciute",
@@ -733,7 +733,7 @@
       "business"
     ],
     "source": "05_Dispense_Approfondimenti.md / Marketing 4.0",
-    "text": "Cosa si intende per co-creation?",
+    "text": "Che cosa indica il concetto di co-creation?",
     "options": {
       "A": "il coinvolgimento dei clienti nello sviluppo o nel miglioramento dell'offerta",
       "B": "il passaggio dal solo positioning a carattere e codici riconoscibili del brand",
@@ -767,7 +767,7 @@
       "business"
     ],
     "source": "05_Dispense_Approfondimenti.md / Marketing 4.0",
-    "text": "Cosa si intende per currency?",
+    "text": "Che cosa indica il concetto di currency?",
     "options": {
       "A": "la logica di prezzo dinamico che varia in relazione a domanda, dati e contesto",
       "B": "il coinvolgimento dei clienti nello sviluppo o nel miglioramento dell'offerta",
@@ -801,7 +801,7 @@
       "business"
     ],
     "source": "05_Dispense_Approfondimenti.md / Marketing 4.0",
-    "text": "Cosa si intende per communal activation?",
+    "text": "Che cosa indica il concetto di communal activation?",
     "options": {
       "A": "l'attivazione di comunità e canali peer-to-peer per distribuire e far circolare valore",
       "B": "la logica di prezzo dinamico che varia in relazione a domanda, dati e contesto",
@@ -835,7 +835,7 @@
       "operational"
     ],
     "source": "05_Dispense_Approfondimenti.md / Marketing 4.0",
-    "text": "Cosa si intende per conversation?",
+    "text": "Che cosa indica il concetto di conversation?",
     "options": {
       "A": "il passaggio da promozione come monologo del brand a dialogo continuo con i clienti",
       "B": "l'attivazione di comunità e canali peer-to-peer per distribuire e far circolare valore",
@@ -868,7 +868,7 @@
       "fondamenti"
     ],
     "source": "07_Appunti_Corso.md / Web Marketing",
-    "text": "Cosa si intende per brand identity?",
+    "text": "Che cosa indica il concetto di brand identity?",
     "options": {
       "A": "ciò che l'azienda comunica e vuole rappresentare come marca",
       "B": "il passaggio da promozione come monologo del brand a dialogo continuo con i clienti",
@@ -900,7 +900,7 @@
       "fondamenti"
     ],
     "source": "07_Appunti_Corso.md / Web Marketing",
-    "text": "Cosa si intende per brand image?",
+    "text": "Che cosa indica il concetto di brand image?",
     "options": {
       "A": "la percezione reale e attuale che il pubblico ha della marca",
       "B": "ciò che l'azienda comunica e vuole rappresentare come marca",
@@ -932,7 +932,7 @@
       "fondamenti"
     ],
     "source": "07_Appunti_Corso.md / Web Marketing",
-    "text": "Cosa si intende per brand awareness?",
+    "text": "Che cosa indica il concetto di brand awareness?",
     "options": {
       "A": "il livello di conoscenza e ricordo della marca da parte del pubblico",
       "B": "la percezione reale e attuale che il pubblico ha della marca",
@@ -964,7 +964,7 @@
       "fondamenti"
     ],
     "source": "07_Appunti_Corso.md / Web Marketing",
-    "text": "Cosa si intende per brand equity?",
+    "text": "Che cosa indica il concetto di brand equity?",
     "options": {
       "A": "il valore complessivo e reputazionale accumulato dalla marca nel tempo",
       "B": "il livello di conoscenza e ricordo della marca da parte del pubblico",
@@ -997,7 +997,7 @@
       "business"
     ],
     "source": "07_Appunti_Corso.md / Web Marketing",
-    "text": "Cosa si intende per brand trust?",
+    "text": "Che cosa indica il concetto di brand trust?",
     "options": {
       "A": "la fiducia riposta dal consumatore nella marca",
       "B": "il valore complessivo e reputazionale accumulato dalla marca nel tempo",
@@ -1031,7 +1031,7 @@
       "journey"
     ],
     "source": "07_Appunti_Corso.md / Web Marketing",
-    "text": "Cosa si intende per brand engagement?",
+    "text": "Che cosa indica il concetto di brand engagement?",
     "options": {
       "A": "il coinvolgimento attivo e partecipativo dei consumatori con un marchio",
       "B": "la fiducia riposta dal consumatore nella marca",
@@ -1065,7 +1065,7 @@
       "journey"
     ],
     "source": "07_Appunti_Corso.md / Web Marketing",
-    "text": "Cosa si intende per brand advocacy?",
+    "text": "Che cosa indica il concetto di brand advocacy?",
     "options": {
       "A": "il sostegno esplicito e spontaneo dei consumatori verso il brand",
       "B": "il coinvolgimento attivo e partecipativo dei consumatori con un marchio",
@@ -1098,7 +1098,7 @@
       "digitale"
     ],
     "source": "04_Slides_Corso.md / Orientamento al digitale",
-    "text": "Cosa si intende per orientamento all'e-business?",
+    "text": "Che cosa indica il concetto di orientamento all'e-business?",
     "options": {
       "A": "un approccio manageriale che riconfigura in chiave digitale i processi di creazione del valore",
       "B": "il sistema con cui l'impresa sviluppa valore economico usando tecnologie digitali",
@@ -1131,7 +1131,7 @@
       "business"
     ],
     "source": "04_Slides_Corso.md / Orientamento al digitale",
-    "text": "Cosa si intende per business model digitale?",
+    "text": "Che cosa indica il concetto di business model digitale?",
     "options": {
       "A": "il sistema con cui l'impresa sviluppa valore economico usando tecnologie digitali",
       "B": "un approccio manageriale che riconfigura in chiave digitale i processi di creazione del valore",
@@ -1164,7 +1164,7 @@
       "digitale"
     ],
     "source": "04_Slides_Corso.md / Orientamento al digitale",
-    "text": "Cosa si intende per digital marketing tattico?",
+    "text": "Che cosa indica il concetto di digital marketing tattico?",
     "options": {
       "A": "l'uso di strumenti digitali per attività operative di comunicazione con basso impatto strategico",
       "B": "il sistema con cui l'impresa sviluppa valore economico usando tecnologie digitali",
@@ -1196,7 +1196,7 @@
       "digitale"
     ],
     "source": "04_Slides_Corso.md / Orientamento al digitale",
-    "text": "Cosa si intende per digital marketing strategico?",
+    "text": "Che cosa indica il concetto di digital marketing strategico?",
     "options": {
       "A": "l'uso del digitale con obiettivi di business e integrazione tra strategie online e offline",
       "B": "l'uso di strumenti digitali per attività operative di comunicazione con basso impatto strategico",
@@ -1229,7 +1229,7 @@
       "business"
     ],
     "source": "04_Slides_Corso.md / Orientamento al digitale",
-    "text": "Cosa si intende per livello core business digitale?",
+    "text": "Che cosa indica il concetto di livello core business digitale?",
     "options": {
       "A": "la situazione in cui il campo di esistenza dell'impresa è all digital",
       "B": "l'uso del digitale con obiettivi di business e integrazione tra strategie online e offline",
@@ -1263,7 +1263,7 @@
       "business"
     ],
     "source": "04_Slides_Corso.md / Orientamento al digitale",
-    "text": "Cosa si intende per bricks and mortar?",
+    "text": "Che cosa indica il concetto di bricks and mortar?",
     "options": {
       "A": "imprese tradizionali puramente fisiche senza canali digitali rilevanti",
       "B": "la situazione in cui il campo di esistenza dell'impresa è all digital",
@@ -1297,7 +1297,7 @@
       "business"
     ],
     "source": "04_Slides_Corso.md / Orientamento al digitale",
-    "text": "Cosa si intende per click and mortar?",
+    "text": "Che cosa indica il concetto di click and mortar?",
     "options": {
       "A": "imprese nate fisiche che integrano canali e strategie digitali",
       "B": "imprese tradizionali puramente fisiche senza canali digitali rilevanti",
@@ -1331,7 +1331,7 @@
       "business"
     ],
     "source": "04_Slides_Corso.md / Orientamento al digitale",
-    "text": "Cosa si intende per pure play?",
+    "text": "Che cosa indica il concetto di pure play?",
     "options": {
       "A": "imprese che operano esclusivamente online senza rete fisica tradizionale",
       "B": "imprese nate fisiche che integrano canali e strategie digitali",
@@ -1365,7 +1365,7 @@
       "journey"
     ],
     "source": "04_Slides_Corso.md / Orientamento al digitale",
-    "text": "Cosa si intende per omnicanalità?",
+    "text": "Che cosa indica il concetto di omnicanalità?",
     "options": {
       "A": "l'interconnessione stretta tra canali fisici e digitali lungo il percorso del cliente",
       "B": "imprese che operano esclusivamente online senza rete fisica tradizionale",
@@ -1398,7 +1398,7 @@
       "digitale"
     ],
     "source": "04_Slides_Corso.md / Caratteristiche tecnologie digitali",
-    "text": "Cosa si intende per dato digitale?",
+    "text": "Che cosa indica il concetto di dato digitale?",
     "options": {
       "A": "informazione codificata in forma binaria tramite 0 e 1",
       "B": "l'interconnessione stretta tra canali fisici e digitali lungo il percorso del cliente",
@@ -1430,7 +1430,7 @@
       "digitale"
     ],
     "source": "04_Slides_Corso.md / Caratteristiche tecnologie digitali",
-    "text": "Cosa si intende per bit e byte?",
+    "text": "Che cosa indica il concetto di bit e byte?",
     "options": {
       "A": "il bit è l'unità minima del digitale e 8 bit formano un byte",
       "B": "informazione codificata in forma binaria tramite 0 e 1",
@@ -1462,7 +1462,7 @@
       "digitale"
     ],
     "source": "04_Slides_Corso.md / Caratteristiche tecnologie digitali",
-    "text": "Cosa si intende per digitale vs analogico?",
+    "text": "Che cosa indica il concetto di digitale vs analogico?",
     "options": {
       "A": "il digitale cambia discretamente tra stati, mentre l'analogico cambia in modo continuo",
       "B": "il bit è l'unità minima del digitale e 8 bit formano un byte",
@@ -1494,7 +1494,7 @@
       "digitale"
     ],
     "source": "04_Slides_Corso.md / Caratteristiche tecnologie digitali",
-    "text": "Cosa si intende per piattaforme digitali?",
+    "text": "Che cosa indica il concetto di piattaforme digitali?",
     "options": {
       "A": "ambienti come internet, web, mobile e TV digitale su cui avvengono interazioni e scambi",
       "B": "il digitale cambia discretamente tra stati, mentre l'analogico cambia in modo continuo",
@@ -1526,7 +1526,7 @@
       "digitale"
     ],
     "source": "04_Slides_Corso.md / Caratteristiche tecnologie digitali",
-    "text": "Cosa si intende per device digitali?",
+    "text": "Che cosa indica il concetto di device digitali?",
     "options": {
       "A": "dispositivi come laptop, tablet, smartphone, TV e wearable usati per accedere ai servizi digitali",
       "B": "ambienti come internet, web, mobile e TV digitale su cui avvengono interazioni e scambi",
@@ -1558,7 +1558,7 @@
       "digitale"
     ],
     "source": "04_Slides_Corso.md / Caratteristiche tecnologie digitali",
-    "text": "Cosa si intende per Internet?",
+    "text": "Che cosa indica il concetto di Internet?",
     "options": {
       "A": "un sistema di reti di computer che consente il trasporto dei dati",
       "B": "dispositivi come laptop, tablet, smartphone, TV e wearable usati per accedere ai servizi digitali",
@@ -1590,7 +1590,7 @@
       "digitale"
     ],
     "source": "04_Slides_Corso.md / Caratteristiche tecnologie digitali",
-    "text": "Cosa si intende per Web?",
+    "text": "Che cosa indica il concetto di Web?",
     "options": {
       "A": "il sistema di navigazione e fruizione dei contenuti presenti su Internet",
       "B": "un sistema di reti di computer che consente il trasporto dei dati",
@@ -1623,7 +1623,7 @@
       "fondamenti"
     ],
     "source": "04_Slides_Corso.md / Caratteristiche tecnologie digitali",
-    "text": "Cosa si intende per marketing digitale reticolare?",
+    "text": "Che cosa indica il concetto di marketing digitale reticolare?",
     "options": {
       "A": "un modello interattivo, dinamico e collaborativo contrapposto alla linearità push del marketing tradizionale",
       "B": "il sistema di navigazione e fruizione dei contenuti presenti su Internet",
@@ -1656,7 +1656,7 @@
       "digitale"
     ],
     "source": "04_Slides_Corso.md / Caratteristiche tecnologie digitali",
-    "text": "Cosa si intende per legge di Moore?",
+    "text": "Che cosa indica il concetto di legge di Moore?",
     "options": {
       "A": "l'idea che la capacità dei computer aumenti rapidamente nel tempo, tradizionalmente legata al raddoppio dei transistor",
       "B": "un modello interattivo, dinamico e collaborativo contrapposto alla linearità push del marketing tradizionale",
@@ -1689,7 +1689,7 @@
       "business"
     ],
     "source": "04_Slides_Corso.md / Caratteristiche tecnologie digitali",
-    "text": "Cosa si intende per legge di Metcalfe?",
+    "text": "Che cosa indica il concetto di legge di Metcalfe?",
     "options": {
       "A": "l'utilità di una tecnologia di rete cresce circa con il quadrato del numero dei suoi utenti o nodi",
       "B": "l'idea che la capacità dei computer aumenti rapidamente nel tempo, tradizionalmente legata al raddoppio dei transistor",
@@ -1723,7 +1723,7 @@
       "business"
     ],
     "source": "04_Slides_Corso.md / Caratteristiche tecnologie digitali",
-    "text": "Cosa si intende per lock-in?",
+    "text": "Che cosa indica il concetto di lock-in?",
     "options": {
       "A": "la condizione in cui cambiare tecnologia o piattaforma diventa costoso o difficile",
       "B": "l'utilità di una tecnologia di rete cresce circa con il quadrato del numero dei suoi utenti o nodi",
@@ -1756,7 +1756,7 @@
       "digitale"
     ],
     "source": "04_Slides_Corso.md / Caratteristiche tecnologie digitali",
-    "text": "Cosa si intende per reach e richness?",
+    "text": "Che cosa indica il concetto di reach e richness?",
     "options": {
       "A": "la tensione tra ampiezza del mercato raggiungibile e ricchezza informativa veicolabile",
       "B": "la condizione in cui cambiare tecnologia o piattaforma diventa costoso o difficile",
@@ -1789,7 +1789,7 @@
       "business"
     ],
     "source": "04_Slides_Corso.md / Long Tail",
-    "text": "Cosa si intende per long tail?",
+    "text": "Che cosa indica il concetto di long tail?",
     "options": {
       "A": "la possibilità nei mercati digitali di generare valore anche dalla somma di molti prodotti di nicchia",
       "B": "la tensione tra ampiezza del mercato raggiungibile e ricchezza informativa veicolabile",
@@ -1822,7 +1822,7 @@
       "ricerca"
     ],
     "source": "04_Slides_Corso.md / Ricerche di mercato",
-    "text": "Cosa si intende per ricerca web-enabled?",
+    "text": "Che cosa indica il concetto di ricerca web-enabled?",
     "options": {
       "A": "una ricerca in cui il web funge da supporto operativo alla raccolta dati",
       "B": "una ricerca che studia comportamenti, interazioni o fenomeni che avvengono online",
@@ -1854,7 +1854,7 @@
       "ricerca"
     ],
     "source": "04_Slides_Corso.md / Ricerche di mercato",
-    "text": "Cosa si intende per ricerca web-centric?",
+    "text": "Che cosa indica il concetto di ricerca web-centric?",
     "options": {
       "A": "una ricerca che studia comportamenti, interazioni o fenomeni che avvengono online",
       "B": "una ricerca in cui il web funge da supporto operativo alla raccolta dati",
@@ -1886,7 +1886,7 @@
       "ricerca"
     ],
     "source": "04_Slides_Corso.md / Ricerche di mercato",
-    "text": "Cosa si intende per dati secondari?",
+    "text": "Che cosa indica il concetto di dati secondari?",
     "options": {
       "A": "dati già disponibili e raccolti in precedenza da altre fonti",
       "B": "una ricerca che studia comportamenti, interazioni o fenomeni che avvengono online",
@@ -1918,7 +1918,7 @@
       "ricerca"
     ],
     "source": "04_Slides_Corso.md / Ricerche di mercato",
-    "text": "Cosa si intende per dati primari?",
+    "text": "Che cosa indica il concetto di dati primari?",
     "options": {
       "A": "informazioni raccolte per la prima volta per rispondere a uno specifico problema di ricerca",
       "B": "dati già disponibili e raccolti in precedenza da altre fonti",
@@ -1951,7 +1951,7 @@
       "operational"
     ],
     "source": "04_Slides_Corso.md / Ricerche di mercato",
-    "text": "Cosa si intende per e-mail survey?",
+    "text": "Che cosa indica il concetto di e-mail survey?",
     "options": {
       "A": "un questionario inviato agli individui tramite posta elettronica",
       "B": "informazioni raccolte per la prima volta per rispondere a uno specifico problema di ricerca",
@@ -1984,7 +1984,7 @@
       "ricerca"
     ],
     "source": "04_Slides_Corso.md / Ricerche di mercato",
-    "text": "Cosa si intende per web survey?",
+    "text": "Che cosa indica il concetto di web survey?",
     "options": {
       "A": "un questionario pubblicato sul web, su pagine, piattaforme o social network",
       "B": "un questionario inviato agli individui tramite posta elettronica",
@@ -2016,7 +2016,7 @@
       "ricerca"
     ],
     "source": "04_Slides_Corso.md / Ricerche di mercato",
-    "text": "Cosa si intende per domanda aperta?",
+    "text": "Che cosa indica il concetto di domanda aperta?",
     "options": {
       "A": "una domanda che lascia libertà di risposta all'intervistato",
       "B": "un questionario pubblicato sul web, su pagine, piattaforme o social network",
@@ -2048,7 +2048,7 @@
       "ricerca"
     ],
     "source": "04_Slides_Corso.md / Ricerche di mercato",
-    "text": "Cosa si intende per domanda chiusa?",
+    "text": "Che cosa indica il concetto di domanda chiusa?",
     "options": {
       "A": "una domanda in cui il rispondente sceglie tra alternative già proposte",
       "B": "una domanda che lascia libertà di risposta all'intervistato",
@@ -2080,7 +2080,7 @@
       "ricerca"
     ],
     "source": "04_Slides_Corso.md / Ricerche di mercato",
-    "text": "Cosa si intende per domanda dicotomica?",
+    "text": "Che cosa indica il concetto di domanda dicotomica?",
     "options": {
       "A": "una domanda chiusa con due sole alternative di risposta",
       "B": "una domanda in cui il rispondente sceglie tra alternative già proposte",
@@ -2112,7 +2112,7 @@
       "ricerca"
     ],
     "source": "04_Slides_Corso.md / Ricerche di mercato",
-    "text": "Cosa si intende per domanda a risposta multipla?",
+    "text": "Che cosa indica il concetto di domanda a risposta multipla?",
     "options": {
       "A": "una domanda chiusa che propone più alternative selezionabili o una scelta tra varie opzioni",
       "B": "una domanda chiusa con due sole alternative di risposta",
@@ -2144,7 +2144,7 @@
       "ricerca"
     ],
     "source": "04_Slides_Corso.md / Ricerche di mercato",
-    "text": "Cosa si intende per scala Likert?",
+    "text": "Che cosa indica il concetto di scala Likert?",
     "options": {
       "A": "una scala di atteggiamento che misura il grado di accordo o intensità rispetto a un'affermazione",
       "B": "una domanda chiusa che propone più alternative selezionabili o una scelta tra varie opzioni",
@@ -2176,7 +2176,7 @@
       "ricerca"
     ],
     "source": "04_Slides_Corso.md / Ricerche di mercato",
-    "text": "Cosa si intende per domande filtro?",
+    "text": "Che cosa indica il concetto di domande filtro?",
     "options": {
       "A": "domande usate per indirizzare i rispondenti verso sezioni pertinenti del questionario",
       "B": "una scala di atteggiamento che misura il grado di accordo o intensità rispetto a un'affermazione",
@@ -2208,7 +2208,7 @@
       "ricerca"
     ],
     "source": "04_Slides_Corso.md / Ricerche di mercato",
-    "text": "Cosa si intende per sequenza del questionario?",
+    "text": "Che cosa indica il concetto di sequenza del questionario?",
     "options": {
       "A": "l'ordine consigliato: introduzione e privacy, domande semplici, domande centrali, socio-demografiche finali",
       "B": "domande usate per indirizzare i rispondenti verso sezioni pertinenti del questionario",
@@ -2240,7 +2240,7 @@
       "ricerca"
     ],
     "source": "04_Slides_Corso.md / Ricerche di mercato",
-    "text": "Cosa si intende per pre-test del questionario?",
+    "text": "Che cosa indica il concetto di pre-test del questionario?",
     "options": {
       "A": "una prova preliminare del questionario prima della somministrazione completa",
       "B": "l'ordine consigliato: introduzione e privacy, domande semplici, domande centrali, socio-demografiche finali",
@@ -2272,7 +2272,7 @@
       "ricerca"
     ],
     "source": "04_Slides_Corso.md / Ricerche di mercato",
-    "text": "Cosa si intende per rappresentatività del campione online?",
+    "text": "Che cosa indica il concetto di rappresentatività del campione online?",
     "options": {
       "A": "la capacità del campione di riflettere correttamente la popolazione di riferimento",
       "B": "una prova preliminare del questionario prima della somministrazione completa",
@@ -2304,7 +2304,7 @@
       "ricerca"
     ],
     "source": "04_Slides_Corso.md / Ricerche di mercato",
-    "text": "Cosa si intende per validità della misurazione online?",
+    "text": "Che cosa indica il concetto di validità della misurazione online?",
     "options": {
       "A": "la capacità dello strumento di misurare davvero ciò che intende misurare",
       "B": "la capacità del campione di riflettere correttamente la popolazione di riferimento",
@@ -2336,7 +2336,7 @@
       "journey"
     ],
     "source": "04_Slides_Corso.md / Customer Journey",
-    "text": "Cosa si intende per nuovo consumatore iperconnesso?",
+    "text": "Che cosa indica il concetto di nuovo consumatore iperconnesso?",
     "options": {
       "A": "un consumatore attivo, connesso e capace di usare molteplici fonti e touchpoint",
       "B": "un consumatore che ricerca, richiede e produce contenuti o valore per il brand",
@@ -2368,7 +2368,7 @@
       "journey"
     ],
     "source": "07_Appunti_Corso.md / Web Marketing",
-    "text": "Cosa si intende per prosumer?",
+    "text": "Che cosa indica il concetto di prosumer?",
     "options": {
       "A": "un consumatore che ricerca, richiede e produce contenuti o valore per il brand",
       "B": "un consumatore attivo, connesso e capace di usare molteplici fonti e touchpoint",
@@ -2400,7 +2400,7 @@
       "journey"
     ],
     "source": "04_Slides_Corso.md / Customer Journey",
-    "text": "Cosa si intende per customer journey?",
+    "text": "Che cosa indica il concetto di customer journey?",
     "options": {
       "A": "il processo complessivo che il cliente vive prima, durante e dopo l'accesso all'offerta",
       "B": "un consumatore che ricerca, richiede e produce contenuti o valore per il brand",
@@ -2432,7 +2432,7 @@
       "journey"
     ],
     "source": "04_Slides_Corso.md / Customer Journey",
-    "text": "Cosa si intende per touchpoint?",
+    "text": "Che cosa indica il concetto di touchpoint?",
     "options": {
       "A": "un momento di interazione tra consumatore e brand su una piattaforma o dispositivo specifico",
       "B": "il processo complessivo che il cliente vive prima, durante e dopo l'accesso all'offerta",
@@ -2464,7 +2464,7 @@
       "journey"
     ],
     "source": "05_Dispense_Approfondimenti.md / McKinsey",
-    "text": "Cosa si intende per funnel tradizionale?",
+    "text": "Che cosa indica il concetto di funnel tradizionale?",
     "options": {
       "A": "un modello lineare in cui il consumatore restringe progressivamente il set di marche fino all'acquisto",
       "B": "un momento di interazione tra consumatore e brand su una piattaforma o dispositivo specifico",
@@ -2496,7 +2496,7 @@
       "journey"
     ],
     "source": "05_Dispense_Approfondimenti.md / McKinsey",
-    "text": "Cosa si intende per consumer decision journey McKinsey?",
+    "text": "Che cosa indica il concetto di consumer decision journey McKinsey?",
     "options": {
       "A": "un percorso circolare con considerazione iniziale, valutazione attiva, momento d'acquisto ed esperienza post-acquisto",
       "B": "un modello lineare in cui il consumatore restringe progressivamente il set di marche fino all'acquisto",
@@ -2528,7 +2528,7 @@
       "journey"
     ],
     "source": "05_Dispense_Approfondimenti.md / McKinsey",
-    "text": "Cosa si intende per valutazione attiva?",
+    "text": "Che cosa indica il concetto di valutazione attiva?",
     "options": {
       "A": "la fase in cui il consumatore raccoglie informazioni e può aggiungere o togliere marche dal set considerato",
       "B": "un percorso circolare con considerazione iniziale, valutazione attiva, momento d'acquisto ed esperienza post-acquisto",
@@ -2560,7 +2560,7 @@
       "journey"
     ],
     "source": "05_Dispense_Approfondimenti.md / McKinsey",
-    "text": "Cosa si intende per loyalty loop?",
+    "text": "Che cosa indica il concetto di loyalty loop?",
     "options": {
       "A": "l'anello di fedeltà alimentato dall'esperienza post-acquisto",
       "B": "la fase in cui il consumatore raccoglie informazioni e può aggiungere o togliere marche dal set considerato",
@@ -2592,7 +2592,7 @@
       "journey"
     ],
     "source": "05_Dispense_Approfondimenti.md / McKinsey",
-    "text": "Cosa si intende per esperienza post-acquisto?",
+    "text": "Che cosa indica il concetto di esperienza post-acquisto?",
     "options": {
       "A": "la fase in cui l'uso del prodotto costruisce aspettative e influenza futuri percorsi decisionali",
       "B": "l'anello di fedeltà alimentato dall'esperienza post-acquisto",
@@ -2625,7 +2625,7 @@
       "digitale"
     ],
     "source": "07_Appunti_Corso.md / Web Marketing",
-    "text": "Cosa si intende per ZMOT?",
+    "text": "Che cosa indica il concetto di ZMOT?",
     "options": {
       "A": "il momento in cui il consumatore cerca online informazioni, recensioni e confronti prima dell'acquisto",
       "B": "la fase in cui l'uso del prodotto costruisce aspettative e influenza futuri percorsi decisionali",
@@ -2659,7 +2659,7 @@
       "business"
     ],
     "source": "07_Appunti_Corso.md / Web Marketing",
-    "text": "Cosa si intende per FMOT?",
+    "text": "Che cosa indica il concetto di FMOT?",
     "options": {
       "A": "il First Moment of Truth, cioè il momento dello scaffale fisico o digitale in cui il consumatore incontra l'offerta",
       "B": "il momento in cui il consumatore cerca online informazioni, recensioni e confronti prima dell'acquisto",
@@ -2692,7 +2692,7 @@
       "journey"
     ],
     "source": "07_Appunti_Corso.md / Web Marketing",
-    "text": "Cosa si intende per SMOT?",
+    "text": "Che cosa indica il concetto di SMOT?",
     "options": {
       "A": "il Second Moment of Truth, cioè l'esperienza d'uso del prodotto dopo l'acquisto",
       "B": "il First Moment of Truth, cioè il momento dello scaffale fisico o digitale in cui il consumatore incontra l'offerta",
@@ -2724,7 +2724,7 @@
       "journey"
     ],
     "source": "04_Slides_Corso.md / Customer Journey",
-    "text": "Cosa si intende per touchpoint brand-owned?",
+    "text": "Che cosa indica il concetto di touchpoint brand-owned?",
     "options": {
       "A": "interazioni progettate e controllate direttamente dall'impresa",
       "B": "il Second Moment of Truth, cioè l'esperienza d'uso del prodotto dopo l'acquisto",
@@ -2756,7 +2756,7 @@
       "journey"
     ],
     "source": "04_Slides_Corso.md / Customer Journey",
-    "text": "Cosa si intende per touchpoint customer-owned?",
+    "text": "Che cosa indica il concetto di touchpoint customer-owned?",
     "options": {
       "A": "azioni del cliente durante la journey che l'impresa non controlla direttamente",
       "B": "interazioni progettate e controllate direttamente dall'impresa",
@@ -2788,7 +2788,7 @@
       "journey"
     ],
     "source": "04_Slides_Corso.md / Customer Journey",
-    "text": "Cosa si intende per customer journey map?",
+    "text": "Che cosa indica il concetto di customer journey map?",
     "options": {
       "A": "una rappresentazione narrativa e visuale dell'esperienza del cliente lungo fasi e touchpoint",
       "B": "azioni del cliente durante la journey che l'impresa non controlla direttamente",
@@ -2821,7 +2821,7 @@
       "ricerca"
     ],
     "source": "04_Slides_Corso.md / Customer Journey",
-    "text": "Cosa si intende per scoping della journey map?",
+    "text": "Che cosa indica il concetto di scoping della journey map?",
     "options": {
       "A": "la fase in cui si definiscono segmento/persona e parti del percorso da coprire",
       "B": "una rappresentazione narrativa e visuale dell'esperienza del cliente lungo fasi e touchpoint",
@@ -2855,7 +2855,7 @@
       "fondamenti"
     ],
     "source": "04_Slides_Corso.md / Buyer personas",
-    "text": "Cosa si intende per buyer persona?",
+    "text": "Che cosa indica il concetto di buyer persona?",
     "options": {
       "A": "una caratterizzazione fittizia dei clienti migliori basata su informazioni reali",
       "B": "la fase in cui si definiscono segmento/persona e parti del percorso da coprire",
@@ -2888,7 +2888,7 @@
       "journey"
     ],
     "source": "04_Slides_Corso.md / Buyer personas",
-    "text": "Cosa si intende per disconfirmation paradigm?",
+    "text": "Che cosa indica il concetto di disconfirmation paradigm?",
     "options": {
       "A": "la soddisfazione deriva dal confronto tra performance percepita e aspettative",
       "B": "una caratterizzazione fittizia dei clienti migliori basata su informazioni reali",
@@ -2920,7 +2920,7 @@
       "journey"
     ],
     "source": "04_Slides_Corso.md / Buyer personas",
-    "text": "Cosa si intende per customer delight?",
+    "text": "Che cosa indica il concetto di customer delight?",
     "options": {
       "A": "un livello di soddisfazione superiore legato al superamento significativo delle aspettative",
       "B": "la soddisfazione deriva dal confronto tra performance percepita e aspettative",
@@ -2953,7 +2953,7 @@
       "fondamenti"
     ],
     "source": "04_Slides_Corso.md / Buyer personas",
-    "text": "Cosa si intende per customer engagement?",
+    "text": "Che cosa indica il concetto di customer engagement?",
     "options": {
       "A": "uno stato psicologico e comportamentale che include interazioni oltre l'acquisto",
       "B": "un livello di soddisfazione superiore legato al superamento significativo delle aspettative",
@@ -2986,7 +2986,7 @@
       "business"
     ],
     "source": "04_Slides_Corso.md / Business Model Digitali",
-    "text": "Cosa si intende per business model?",
+    "text": "Che cosa indica il concetto di business model?",
     "options": {
       "A": "la logica con cui un'organizzazione crea, distribuisce e cattura valore",
       "B": "uno schema che descrive value proposition, segmenti, canali, relazioni, ricavi, risorse, attività, partner e costi",
@@ -3018,7 +3018,7 @@
       "business"
     ],
     "source": "04_Slides_Corso.md / Business Model Digitali",
-    "text": "Cosa si intende per Business Model Canvas?",
+    "text": "Che cosa indica il concetto di Business Model Canvas?",
     "options": {
       "A": "uno schema che descrive value proposition, segmenti, canali, relazioni, ricavi, risorse, attività, partner e costi",
       "B": "la logica con cui un'organizzazione crea, distribuisce e cattura valore",
@@ -3051,7 +3051,7 @@
       "fondamenti"
     ],
     "source": "04_Slides_Corso.md / Business Model Digitali",
-    "text": "Cosa si intende per customer segments nel canvas?",
+    "text": "Che cosa indica il concetto di customer segments nel canvas?",
     "options": {
       "A": "i gruppi di clienti a cui l'impresa intende offrire valore",
       "B": "uno schema che descrive value proposition, segmenti, canali, relazioni, ricavi, risorse, attività, partner e costi",
@@ -3084,7 +3084,7 @@
       "business"
     ],
     "source": "04_Slides_Corso.md / Business Model Digitali",
-    "text": "Cosa si intende per channels nel canvas?",
+    "text": "Che cosa indica il concetto di channels nel canvas?",
     "options": {
       "A": "i modi con cui l'impresa raggiunge i segmenti e consegna la value proposition",
       "B": "i gruppi di clienti a cui l'impresa intende offrire valore",
@@ -3117,7 +3117,7 @@
       "journey"
     ],
     "source": "04_Slides_Corso.md / Business Model Digitali",
-    "text": "Cosa si intende per customer relationships nel canvas?",
+    "text": "Che cosa indica il concetto di customer relationships nel canvas?",
     "options": {
       "A": "il tipo di relazione che l'impresa stabilisce con ciascun segmento",
       "B": "i modi con cui l'impresa raggiunge i segmenti e consegna la value proposition",
@@ -3150,7 +3150,7 @@
       "business"
     ],
     "source": "04_Slides_Corso.md / Business Model Digitali",
-    "text": "Cosa si intende per revenue model?",
+    "text": "Che cosa indica il concetto di revenue model?",
     "options": {
       "A": "il modo specifico in cui l'impresa genera fatturato dai segmenti serviti",
       "B": "il tipo di relazione che l'impresa stabilisce con ciascun segmento",
@@ -3182,7 +3182,7 @@
       "business"
     ],
     "source": "04_Slides_Corso.md / Business Model Digitali",
-    "text": "Cosa si intende per cost structure?",
+    "text": "Che cosa indica il concetto di cost structure?",
     "options": {
       "A": "l'insieme dei principali costi necessari per far funzionare il business model",
       "B": "il modo specifico in cui l'impresa genera fatturato dai segmenti serviti",
@@ -3214,7 +3214,7 @@
       "business"
     ],
     "source": "04_Slides_Corso.md / Business Model Digitali",
-    "text": "Cosa si intende per freemium?",
+    "text": "Che cosa indica il concetto di freemium?",
     "options": {
       "A": "un modello in cui una versione base gratuita convive con funzionalità premium a pagamento",
       "B": "l'insieme dei principali costi necessari per far funzionare il business model",
@@ -3247,7 +3247,7 @@
       "operational"
     ],
     "source": "04_Slides_Corso.md / Business Model Digitali",
-    "text": "Cosa si intende per advertising based revenue?",
+    "text": "Che cosa indica il concetto di advertising based revenue?",
     "options": {
       "A": "un modello di ricavo basato sulla vendita di spazi o visibilità pubblicitaria",
       "B": "un modello in cui una versione base gratuita convive con funzionalità premium a pagamento",
@@ -3280,7 +3280,7 @@
       "business"
     ],
     "source": "04_Slides_Corso.md / Business Model Digitali",
-    "text": "Cosa si intende per affiliation?",
+    "text": "Che cosa indica il concetto di affiliation?",
     "options": {
       "A": "un modello in cui si genera ricavo indirizzando traffico o vendite verso un altro soggetto",
       "B": "un modello di ricavo basato sulla vendita di spazi o visibilità pubblicitaria",
@@ -3312,7 +3312,7 @@
       "business"
     ],
     "source": "04_Slides_Corso.md / Business Model Digitali",
-    "text": "Cosa si intende per commission based model?",
+    "text": "Che cosa indica il concetto di commission based model?",
     "options": {
       "A": "un modello in cui la piattaforma trattiene una commissione sulle transazioni abilitate",
       "B": "un modello in cui si genera ricavo indirizzando traffico o vendite verso un altro soggetto",
@@ -3345,7 +3345,7 @@
       "digitale"
     ],
     "source": "07_Appunti_Corso.md / Web Marketing",
-    "text": "Cosa si intende per two-sided platform?",
+    "text": "Che cosa indica il concetto di two-sided platform?",
     "options": {
       "A": "una piattaforma che mette in relazione due gruppi distinti di utenti che traggono beneficio reciproco",
       "B": "un modello in cui la piattaforma trattiene una commissione sulle transazioni abilitate",
@@ -3379,7 +3379,7 @@
       "digitale"
     ],
     "source": "07_Appunti_Corso.md / Web Marketing",
-    "text": "Cosa si intende per network effect?",
+    "text": "Che cosa indica il concetto di network effect?",
     "options": {
       "A": "l'aumento di valore di una piattaforma al crescere del numero di utenti",
       "B": "una piattaforma che mette in relazione due gruppi distinti di utenti che traggono beneficio reciproco",
@@ -3412,7 +3412,7 @@
       "business"
     ],
     "source": "05_Dispense_Approfondimenti.md / Sharing economy continuum",
-    "text": "Cosa si intende per sharing economy?",
+    "text": "Che cosa indica il concetto di sharing economy?",
     "options": {
       "A": "un insieme di piattaforme digitali commerciali che facilitano lo scambio di beni e servizi tra attori",
       "B": "l'aumento di valore di una piattaforma al crescere del numero di utenti",
@@ -3444,7 +3444,7 @@
       "business"
     ],
     "source": "05_Dispense_Approfondimenti.md / Sharing economy continuum",
-    "text": "Cosa si intende per pure sharing?",
+    "text": "Che cosa indica il concetto di pure sharing?",
     "options": {
       "A": "una pratica orientata alla condivisione con bassa enfasi su denaro e transazione bilanciata",
       "B": "un insieme di piattaforme digitali commerciali che facilitano lo scambio di beni e servizi tra attori",
@@ -3476,7 +3476,7 @@
       "business"
     ],
     "source": "05_Dispense_Approfondimenti.md / Sharing economy continuum",
-    "text": "Cosa si intende per dual-mode sharing?",
+    "text": "Che cosa indica il concetto di dual-mode sharing?",
     "options": {
       "A": "una pratica che combina elementi di sharing e di exchange",
       "B": "una pratica orientata alla condivisione con bassa enfasi su denaro e transazione bilanciata",
@@ -3508,7 +3508,7 @@
       "business"
     ],
     "source": "04_Slides_Corso.md / E-commerce",
-    "text": "Cosa si intende per e-commerce?",
+    "text": "Che cosa indica il concetto di e-commerce?",
     "options": {
       "A": "l'insieme delle attività commerciali prima, durante e dopo lo scambio realizzate tramite sistemi digitali",
       "B": "una pratica che combina elementi di sharing e di exchange",
@@ -3540,7 +3540,7 @@
       "business"
     ],
     "source": "04_Slides_Corso.md / E-commerce",
-    "text": "Cosa si intende per B2B e-commerce?",
+    "text": "Che cosa indica il concetto di B2B e-commerce?",
     "options": {
       "A": "commercio elettronico tra due organizzazioni",
       "B": "l'insieme delle attività commerciali prima, durante e dopo lo scambio realizzate tramite sistemi digitali",
@@ -3572,7 +3572,7 @@
       "business"
     ],
     "source": "04_Slides_Corso.md / E-commerce",
-    "text": "Cosa si intende per B2C e-commerce?",
+    "text": "Che cosa indica il concetto di B2C e-commerce?",
     "options": {
       "A": "commercio elettronico tra impresa fornitrice e acquirente finale",
       "B": "commercio elettronico tra due organizzazioni",
@@ -3604,7 +3604,7 @@
       "business"
     ],
     "source": "04_Slides_Corso.md / E-commerce",
-    "text": "Cosa si intende per C2C e-commerce?",
+    "text": "Che cosa indica il concetto di C2C e-commerce?",
     "options": {
       "A": "commercio elettronico tra consumatori privati",
       "B": "commercio elettronico tra impresa fornitrice e acquirente finale",
@@ -3636,7 +3636,7 @@
       "business"
     ],
     "source": "04_Slides_Corso.md / E-commerce",
-    "text": "Cosa si intende per C2B e-commerce?",
+    "text": "Che cosa indica il concetto di C2B e-commerce?",
     "options": {
       "A": "una relazione in cui l'individuo offre beni, idee o condizioni a un'organizzazione",
       "B": "commercio elettronico tra consumatori privati",
@@ -3669,7 +3669,7 @@
       "journey"
     ],
     "source": "04_Slides_Corso.md / E-commerce",
-    "text": "Cosa si intende per social commerce?",
+    "text": "Che cosa indica il concetto di social commerce?",
     "options": {
       "A": "un'estensione del B2C in cui i consumatori interagiscono per scoprire prodotti e decidere insieme",
       "B": "una relazione in cui l'individuo offre beni, idee o condizioni a un'organizzazione",
@@ -3703,7 +3703,7 @@
       "journey"
     ],
     "source": "04_Slides_Corso.md / E-commerce",
-    "text": "Cosa si intende per fiducia nell'e-commerce?",
+    "text": "Che cosa indica il concetto di fiducia nell'e-commerce?",
     "options": {
       "A": "la riduzione del rischio percepito prima e dopo l'acquisto online",
       "B": "un'estensione del B2C in cui i consumatori interagiscono per scoprire prodotti e decidere insieme",
@@ -3736,7 +3736,7 @@
       "business"
     ],
     "source": "04_Slides_Corso.md / E-commerce",
-    "text": "Cosa si intende per distanza fisica nell'e-commerce?",
+    "text": "Che cosa indica il concetto di distanza fisica nell'e-commerce?",
     "options": {
       "A": "la mancanza di contatto diretto con prodotto e venditore che può ostacolare l'acquisto",
       "B": "la riduzione del rischio percepito prima e dopo l'acquisto online",
@@ -3769,7 +3769,7 @@
       "journey"
     ],
     "source": "04_Slides_Corso.md / E-commerce",
-    "text": "Cosa si intende per registrazione obbligatoria?",
+    "text": "Che cosa indica il concetto di registrazione obbligatoria?",
     "options": {
       "A": "una possibile frizione nel percorso d'acquisto online",
       "B": "la mancanza di contatto diretto con prodotto e venditore che può ostacolare l'acquisto",
@@ -3803,7 +3803,7 @@
       "journey"
     ],
     "source": "04_Slides_Corso.md / E-commerce",
-    "text": "Cosa si intende per carrello e-commerce?",
+    "text": "Che cosa indica il concetto di carrello e-commerce?",
     "options": {
       "A": "la pagina cruciale in cui l'utente verifica prodotti, costi e decisione prima dell'acquisto",
       "B": "una possibile frizione nel percorso d'acquisto online",
@@ -3837,7 +3837,7 @@
       "operational"
     ],
     "source": "04_Slides_Corso.md / E-commerce",
-    "text": "Cosa si intende per costo di acquisizione cliente?",
+    "text": "Che cosa indica il concetto di costo di acquisizione cliente?",
     "options": {
       "A": "il costo sostenuto per ottenere un nuovo cliente",
       "B": "la pagina cruciale in cui l'utente verifica prodotti, costi e decisione prima dell'acquisto",
@@ -3871,7 +3871,7 @@
       "digitale"
     ],
     "source": "04_Slides_Corso.md / E-commerce",
-    "text": "Cosa si intende per certificato digitale?",
+    "text": "Che cosa indica il concetto di certificato digitale?",
     "options": {
       "A": "uno strumento usato per garantire identità del sito e sicurezza del canale di trasferimento dati",
       "B": "il costo sostenuto per ottenere un nuovo cliente",
@@ -3905,7 +3905,7 @@
       "journey"
     ],
     "source": "04_Slides_Corso.md / E-commerce",
-    "text": "Cosa si intende per customer care online?",
+    "text": "Che cosa indica il concetto di customer care online?",
     "options": {
       "A": "l'assistenza che accompagna l'utente nelle fasi delicate del rapporto con lo store digitale",
       "B": "uno strumento usato per garantire identità del sito e sicurezza del canale di trasferimento dati",
@@ -3938,7 +3938,7 @@
       "digitale"
     ],
     "source": "converted-md/slide parte 2/01 Granato",
-    "text": "Cosa si intende per innovazione?",
+    "text": "Che cosa indica il concetto di innovazione?",
     "options": {
       "A": "l'applicazione di nuove idee per migliorare prodotti, servizi o processi generando valore",
       "B": "la conversione di documenti o informazioni in formato digitale",
@@ -3970,7 +3970,7 @@
       "digitale"
     ],
     "source": "converted-md/slide parte 2/01 Granato",
-    "text": "Cosa si intende per digitalizzazione?",
+    "text": "Che cosa indica il concetto di digitalizzazione?",
     "options": {
       "A": "la conversione di documenti o informazioni in formato digitale",
       "B": "l'applicazione di nuove idee per migliorare prodotti, servizi o processi generando valore",
@@ -4002,7 +4002,7 @@
       "digitale"
     ],
     "source": "converted-md/slide parte 2/01 Granato",
-    "text": "Cosa si intende per digitalizzazione dei processi?",
+    "text": "Che cosa indica il concetto di digitalizzazione dei processi?",
     "options": {
       "A": "l'automazione e ottimizzazione di processi aziendali tramite strumenti digitali",
       "B": "la conversione di documenti o informazioni in formato digitale",
@@ -4035,7 +4035,7 @@
       "business"
     ],
     "source": "converted-md/slide parte 2/01 Granato",
-    "text": "Cosa si intende per trasformazione digitale?",
+    "text": "Che cosa indica il concetto di trasformazione digitale?",
     "options": {
       "A": "un cambiamento strategico e culturale che ridefinisce come l'azienda opera e genera valore attraverso il digitale",
       "B": "l'automazione e ottimizzazione di processi aziendali tramite strumenti digitali",
@@ -4069,7 +4069,7 @@
       "fondamenti"
     ],
     "source": "converted-md/slide parte 2/02 Granato",
-    "text": "Cosa si intende per USP?",
+    "text": "Che cosa indica il concetto di USP?",
     "options": {
       "A": "la promessa distintiva che spiega perché scegliere un'offerta rispetto a un'alternativa specifica",
       "B": "un cambiamento strategico e culturale che ridefinisce come l'azienda opera e genera valore attraverso il digitale",
@@ -4103,7 +4103,7 @@
       "fondamenti"
     ],
     "source": "converted-md/slide parte 2/02 Granato",
-    "text": "Cosa si intende per USP comunicativa?",
+    "text": "Che cosa indica il concetto di USP comunicativa?",
     "options": {
       "A": "ciò che l'azienda dichiara di essere, spesso più superficiale e imitabile",
       "B": "la promessa distintiva che spiega perché scegliere un'offerta rispetto a un'alternativa specifica",
@@ -4137,7 +4137,7 @@
       "fondamenti"
     ],
     "source": "converted-md/slide parte 2/02 Granato",
-    "text": "Cosa si intende per USP strutturale?",
+    "text": "Che cosa indica il concetto di USP strutturale?",
     "options": {
       "A": "ciò che genera un'asimmetria competitiva reale percepita dal mercato",
       "B": "ciò che l'azienda dichiara di essere, spesso più superficiale e imitabile",
@@ -4171,7 +4171,7 @@
       "operational"
     ],
     "source": "converted-md/slide parte 2/02 Granato",
-    "text": "Cosa si intende per domanda latente?",
+    "text": "Che cosa indica il concetto di domanda latente?",
     "options": {
       "A": "la situazione in cui il consumatore non sa ancora di aver bisogno del prodotto",
       "B": "ciò che genera un'asimmetria competitiva reale percepita dal mercato",
@@ -4205,7 +4205,7 @@
       "operational"
     ],
     "source": "converted-md/slide parte 2/02 Granato",
-    "text": "Cosa si intende per domanda consapevole?",
+    "text": "Che cosa indica il concetto di domanda consapevole?",
     "options": {
       "A": "la situazione in cui l'utente sa cosa vuole e cerca attivamente una soluzione",
       "B": "la situazione in cui il consumatore non sa ancora di aver bisogno del prodotto",
@@ -4239,7 +4239,7 @@
       "operational"
     ],
     "source": "converted-md/slide parte 2/02 Granato",
-    "text": "Cosa si intende per traffico qualificato?",
+    "text": "Che cosa indica il concetto di traffico qualificato?",
     "options": {
       "A": "il flusso di utenti in target e realmente interessati al prodotto o servizio",
       "B": "la situazione in cui l'utente sa cosa vuole e cerca attivamente una soluzione",
@@ -4273,7 +4273,7 @@
       "operational"
     ],
     "source": "converted-md/slide parte 2/03 Granato",
-    "text": "Cosa si intende per SEO?",
+    "text": "Che cosa indica il concetto di SEO?",
     "options": {
       "A": "l'ottimizzazione del sito e dei contenuti per ottenere traffico organico dai motori di ricerca",
       "B": "il flusso di utenti in target e realmente interessati al prodotto o servizio",
@@ -4307,7 +4307,7 @@
       "operational"
     ],
     "source": "converted-md/appunti-web-marketing/Web Marketing.md",
-    "text": "Cosa si intende per SEM e SEA?",
+    "text": "Che cosa indica il concetto di SEM e SEA?",
     "options": {
       "A": "attività di marketing sui motori di ricerca, in particolare visibilità a pagamento tramite annunci",
       "B": "l'ottimizzazione del sito e dei contenuti per ottenere traffico organico dai motori di ricerca",
@@ -4340,7 +4340,7 @@
       "digitale"
     ],
     "source": "converted-md/slide parte 2/03 Granato",
-    "text": "Cosa si intende per crawling?",
+    "text": "Che cosa indica il concetto di crawling?",
     "options": {
       "A": "la fase in cui i bot del motore di ricerca scansionano URL, codice e contenuti",
       "B": "attività di marketing sui motori di ricerca, in particolare visibilità a pagamento tramite annunci",
@@ -4372,7 +4372,7 @@
       "digitale"
     ],
     "source": "converted-md/slide parte 2/03 Granato",
-    "text": "Cosa si intende per indexing?",
+    "text": "Che cosa indica il concetto di indexing?",
     "options": {
       "A": "la fase in cui il motore archivia e organizza il contenuto trovato nell'indice",
       "B": "la fase in cui i bot del motore di ricerca scansionano URL, codice e contenuti",
@@ -4404,7 +4404,7 @@
       "digitale"
     ],
     "source": "converted-md/slide parte 2/03 Granato",
-    "text": "Cosa si intende per ranking?",
+    "text": "Che cosa indica il concetto di ranking?",
     "options": {
       "A": "la fase in cui il motore ordina le pagine in base alla pertinenza rispetto alla query",
       "B": "la fase in cui il motore archivia e organizza il contenuto trovato nell'indice",
@@ -4437,7 +4437,7 @@
       "operational"
     ],
     "source": "converted-md/slide parte 2/03 Granato",
-    "text": "Cosa si intende per SEO on-page?",
+    "text": "Che cosa indica il concetto di SEO on-page?",
     "options": {
       "A": "l'ottimizzazione di pagine web e contenuti interni al sito",
       "B": "la fase in cui il motore ordina le pagine in base alla pertinenza rispetto alla query",
@@ -4471,7 +4471,7 @@
       "operational"
     ],
     "source": "converted-md/slide parte 2/03 Granato",
-    "text": "Cosa si intende per SEO off-page?",
+    "text": "Che cosa indica il concetto di SEO off-page?",
     "options": {
       "A": "le azioni esterne al sito che contribuiscono al posizionamento",
       "B": "l'ottimizzazione di pagine web e contenuti interni al sito",
@@ -4505,7 +4505,7 @@
       "operational"
     ],
     "source": "converted-md/slide parte 2/03 Granato",
-    "text": "Cosa si intende per SEO tecnica?",
+    "text": "Che cosa indica il concetto di SEO tecnica?",
     "options": {
       "A": "l'ottimizzazione degli aspetti tecnici del sito che permettono scansione, indicizzazione e buona esperienza",
       "B": "le azioni esterne al sito che contribuiscono al posizionamento",
@@ -4539,7 +4539,7 @@
       "operational"
     ],
     "source": "converted-md/slide parte 2/04 Gabriele",
-    "text": "Cosa si intende per search intent?",
+    "text": "Che cosa indica il concetto di search intent?",
     "options": {
       "A": "il motivo principale per cui un utente esegue una ricerca online",
       "B": "l'ottimizzazione degli aspetti tecnici del sito che permettono scansione, indicizzazione e buona esperienza",
@@ -4573,7 +4573,7 @@
       "operational"
     ],
     "source": "converted-md/appunti-web-marketing/Web Marketing.md",
-    "text": "Cosa si intende per intento informazionale?",
+    "text": "Che cosa indica il concetto di intento informazionale?",
     "options": {
       "A": "un intento di ricerca in cui l'utente cerca una risposta o spiegazione",
       "B": "il motivo principale per cui un utente esegue una ricerca online",
@@ -4607,7 +4607,7 @@
       "operational"
     ],
     "source": "converted-md/appunti-web-marketing/Web Marketing.md",
-    "text": "Cosa si intende per intento navigazionale?",
+    "text": "Che cosa indica il concetto di intento navigazionale?",
     "options": {
       "A": "un intento in cui l'utente cerca un sito, una pagina o un luogo specifico",
       "B": "un intento di ricerca in cui l'utente cerca una risposta o spiegazione",
@@ -4641,7 +4641,7 @@
       "operational"
     ],
     "source": "converted-md/appunti-web-marketing/Web Marketing.md",
-    "text": "Cosa si intende per intento commerciale?",
+    "text": "Che cosa indica il concetto di intento commerciale?",
     "options": {
       "A": "un intento in cui l'utente sta investigando e confrontando prima dell'acquisto",
       "B": "un intento in cui l'utente cerca un sito, una pagina o un luogo specifico",
@@ -4675,7 +4675,7 @@
       "operational"
     ],
     "source": "converted-md/appunti-web-marketing/Web Marketing.md",
-    "text": "Cosa si intende per intento transazionale?",
+    "text": "Che cosa indica il concetto di intento transazionale?",
     "options": {
       "A": "un intento in cui l'utente è già orientato a compiere un acquisto o un'azione",
       "B": "un intento in cui l'utente sta investigando e confrontando prima dell'acquisto",
@@ -4709,7 +4709,7 @@
       "operational"
     ],
     "source": "converted-md/slide parte 2/05 Granato",
-    "text": "Cosa si intende per AI Overview?",
+    "text": "Che cosa indica il concetto di AI Overview?",
     "options": {
       "A": "una risposta generata dall'IA di Google mostrata sopra i risultati organici sintetizzando più fonti",
       "B": "un intento in cui l'utente è già orientato a compiere un acquisto o un'azione",
@@ -4743,7 +4743,7 @@
       "operational"
     ],
     "source": "converted-md/appunti-web-marketing/Web Marketing.md",
-    "text": "Cosa si intende per GEO?",
+    "text": "Che cosa indica il concetto di GEO?",
     "options": {
       "A": "Generative Engine Optimization, cioè ottimizzazione dei contenuti per essere usati o citati da motori generativi",
       "B": "una risposta generata dall'IA di Google mostrata sopra i risultati organici sintetizzando più fonti",
@@ -4777,7 +4777,7 @@
       "operational"
     ],
     "source": "converted-md/slide parte 2/05 Granato",
-    "text": "Cosa si intende per keyword research?",
+    "text": "Che cosa indica il concetto di keyword research?",
     "options": {
       "A": "l'attività di trovare e analizzare le parole o frasi usate dal pubblico nei motori di ricerca",
       "B": "Generative Engine Optimization, cioè ottimizzazione dei contenuti per essere usati o citati da motori generativi",
@@ -4811,7 +4811,7 @@
       "operational"
     ],
     "source": "converted-md/slide parte 2/05 Granato",
-    "text": "Cosa si intende per keyword long-tail?",
+    "text": "Che cosa indica il concetto di keyword long-tail?",
     "options": {
       "A": "query di ricerca più lunghe e specifiche con volumi più bassi e spesso conversione più alta",
       "B": "l'attività di trovare e analizzare le parole o frasi usate dal pubblico nei motori di ricerca",
@@ -4845,7 +4845,7 @@
       "operational"
     ],
     "source": "converted-md/slide parte 2/05 Granato",
-    "text": "Cosa si intende per volume di ricerca?",
+    "text": "Che cosa indica il concetto di volume di ricerca?",
     "options": {
       "A": "il numero di volte in cui una keyword viene cercata in un intervallo di tempo",
       "B": "query di ricerca più lunghe e specifiche con volumi più bassi e spesso conversione più alta",
@@ -4879,7 +4879,7 @@
       "operational"
     ],
     "source": "converted-md/slide parte 2/05 Granato",
-    "text": "Cosa si intende per autorità SEO?",
+    "text": "Che cosa indica il concetto di autorità SEO?",
     "options": {
       "A": "il grado di fiducia e autorevolezza percepito dai motori di ricerca verso una fonte",
       "B": "il numero di volte in cui una keyword viene cercata in un intervallo di tempo",
@@ -4913,7 +4913,7 @@
       "operational"
     ],
     "source": "converted-md/appunti.md",
-    "text": "Cosa si intende per backlink autorevoli?",
+    "text": "Che cosa indica il concetto di backlink autorevoli?",
     "options": {
       "A": "link provenienti da siti affidabili che possono rafforzare autorità e posizionamento organico",
       "B": "il grado di fiducia e autorevolezza percepito dai motori di ricerca verso una fonte",
@@ -4946,7 +4946,7 @@
       "operational"
     ],
     "source": "converted-md/appunti-web-marketing/Web Marketing.md",
-    "text": "Cosa si intende per digital advertising?",
+    "text": "Che cosa indica il concetto di digital advertising?",
     "options": {
       "A": "attività promozionali online realizzate tramite sponsorizzazioni a pagamento",
       "B": "link provenienti da siti affidabili che possono rafforzare autorità e posizionamento organico",
@@ -4979,7 +4979,7 @@
       "digitale"
     ],
     "source": "converted-md/appunti-web-marketing/Web Marketing.md",
-    "text": "Cosa si intende per search advertising?",
+    "text": "Che cosa indica il concetto di search advertising?",
     "options": {
       "A": "annunci mostrati nelle pagine dei risultati dei motori di ricerca",
       "B": "attività promozionali online realizzate tramite sponsorizzazioni a pagamento",
@@ -5012,7 +5012,7 @@
       "operational"
     ],
     "source": "converted-md/appunti-web-marketing/Web Marketing.md",
-    "text": "Cosa si intende per display advertising?",
+    "text": "Che cosa indica il concetto di display advertising?",
     "options": {
       "A": "annunci con elementi testuali e visivi che appaiono su siti, app o dispositivi",
       "B": "annunci mostrati nelle pagine dei risultati dei motori di ricerca",
@@ -5044,7 +5044,7 @@
       "operational"
     ],
     "source": "converted-md/appunti-web-marketing/Web Marketing.md",
-    "text": "Cosa si intende per video advertising in-stream?",
+    "text": "Che cosa indica il concetto di video advertising in-stream?",
     "options": {
       "A": "annunci video mostrati prima, durante o dopo un contenuto video",
       "B": "annunci con elementi testuali e visivi che appaiono su siti, app o dispositivi",
@@ -5076,7 +5076,7 @@
       "operational"
     ],
     "source": "converted-md/appunti-web-marketing/Web Marketing.md",
-    "text": "Cosa si intende per OTT advertising?",
+    "text": "Che cosa indica il concetto di OTT advertising?",
     "options": {
       "A": "annunci video mostrati in contenuti streaming trasmessi via Internet",
       "B": "annunci video mostrati prima, durante o dopo un contenuto video",
@@ -5108,7 +5108,7 @@
       "operational"
     ],
     "source": "converted-md/appunti-web-marketing/Web Marketing.md",
-    "text": "Cosa si intende per CPC?",
+    "text": "Che cosa indica il concetto di CPC?",
     "options": {
       "A": "il costo pagato ogni volta che un utente clicca su un annuncio",
       "B": "annunci video mostrati in contenuti streaming trasmessi via Internet",
@@ -5140,7 +5140,7 @@
       "operational"
     ],
     "source": "converted-md/appunti-web-marketing/Web Marketing.md",
-    "text": "Cosa si intende per CPM?",
+    "text": "Che cosa indica il concetto di CPM?",
     "options": {
       "A": "il costo sostenuto per mille impression pubblicitarie",
       "B": "il costo pagato ogni volta che un utente clicca su un annuncio",
@@ -5172,7 +5172,7 @@
       "operational"
     ],
     "source": "converted-md/appunti-web-marketing/Web Marketing.md",
-    "text": "Cosa si intende per ROAS?",
+    "text": "Che cosa indica il concetto di ROAS?",
     "options": {
       "A": "il ritorno sulla spesa pubblicitaria, cioè ricavi attribuiti alla campagna rispetto al budget speso",
       "B": "il costo sostenuto per mille impression pubblicitarie",
@@ -5204,7 +5204,7 @@
       "operational"
     ],
     "source": "converted-md/appunti-web-marketing/Web Marketing.md",
-    "text": "Cosa si intende per ACOS?",
+    "text": "Che cosa indica il concetto di ACOS?",
     "options": {
       "A": "il rapporto tra spesa pubblicitaria e vendite attribuite agli annunci",
       "B": "il ritorno sulla spesa pubblicitaria, cioè ricavi attribuiti alla campagna rispetto al budget speso",
@@ -5237,7 +5237,7 @@
       "digitale"
     ],
     "source": "converted-md/slide parte 2/07 Gabriele",
-    "text": "Cosa si intende per digital analytics?",
+    "text": "Che cosa indica il concetto di digital analytics?",
     "options": {
       "A": "l'analisi dei dati di traffico e comportamento degli utenti su siti e piattaforme digitali",
       "B": "il rapporto tra spesa pubblicitaria e vendite attribuite agli annunci",
@@ -5270,7 +5270,7 @@
       "operational"
     ],
     "source": "converted-md/slide parte 2/07 Gabriele",
-    "text": "Cosa si intende per acquisizione in digital analytics?",
+    "text": "Che cosa indica il concetto di acquisizione in digital analytics?",
     "options": {
       "A": "la fase in cui si crea awareness e si cattura interesse portando utenti al sito",
       "B": "l'analisi dei dati di traffico e comportamento degli utenti su siti e piattaforme digitali",
@@ -5302,7 +5302,7 @@
       "operational"
     ],
     "source": "converted-md/slide parte 2/07 Gabriele",
-    "text": "Cosa si intende per frequenza di rimbalzo?",
+    "text": "Che cosa indica il concetto di frequenza di rimbalzo?",
     "options": {
       "A": "il rapporto tra visite di una sola pagina e totale delle visite",
       "B": "la fase in cui si crea awareness e si cattura interesse portando utenti al sito",
@@ -5335,7 +5335,7 @@
       "digitale"
     ],
     "source": "converted-md/slide parte 2/07 Gabriele",
-    "text": "Cosa si intende per acquisizione organica?",
+    "text": "Che cosa indica il concetto di acquisizione organica?",
     "options": {
       "A": "il traffico arrivato al sito tramite ricerca gratuita non a pagamento",
       "B": "il rapporto tra visite di una sola pagina e totale delle visite",
@@ -5368,7 +5368,7 @@
       "operational"
     ],
     "source": "converted-md/slide parte 2/07 Gabriele",
-    "text": "Cosa si intende per obiettivo completato?",
+    "text": "Che cosa indica il concetto di obiettivo completato?",
     "options": {
       "A": "un'azione desiderata compiuta dall'utente sul sito che genera una conversione",
       "B": "il traffico arrivato al sito tramite ricerca gratuita non a pagamento",
@@ -5400,7 +5400,7 @@
       "operational"
     ],
     "source": "converted-md/slide parte 2/08 Gabriele",
-    "text": "Cosa si intende per email marketing?",
+    "text": "Che cosa indica il concetto di email marketing?",
     "options": {
       "A": "l'uso della posta elettronica per inviare messaggi diretti a clienti o potenziali clienti",
       "B": "un'azione desiderata compiuta dall'utente sul sito che genera una conversione",
@@ -5432,7 +5432,7 @@
       "operational"
     ],
     "source": "converted-md/slide parte 2/08 Gabriele",
-    "text": "Cosa si intende per newsletter?",
+    "text": "Che cosa indica il concetto di newsletter?",
     "options": {
       "A": "un'email periodica inviata per informare su novità, prodotti, promozioni o aggiornamenti",
       "B": "l'uso della posta elettronica per inviare messaggi diretti a clienti o potenziali clienti",
@@ -5465,7 +5465,7 @@
       "business"
     ],
     "source": "converted-md/slide parte 2/08 Gabriele",
-    "text": "Cosa si intende per email transazionale?",
+    "text": "Che cosa indica il concetto di email transazionale?",
     "options": {
       "A": "un'email inviata in risposta a un'azione specifica del cliente",
       "B": "un'email periodica inviata per informare su novità, prodotti, promozioni o aggiornamenti",
@@ -5499,7 +5499,7 @@
       "business"
     ],
     "source": "converted-md/slide parte 2/08 Gabriele",
-    "text": "Cosa si intende per email di remarketing?",
+    "text": "Che cosa indica il concetto di email di remarketing?",
     "options": {
       "A": "un'email usata per recuperare utenti che hanno abbandonato il carrello o non completato l'acquisto",
       "B": "un'email inviata in risposta a un'azione specifica del cliente",
@@ -5532,7 +5532,7 @@
       "operational"
     ],
     "source": "converted-md/slide parte 2/08 Gabriele",
-    "text": "Cosa si intende per oggetto della newsletter?",
+    "text": "Che cosa indica il concetto di oggetto della newsletter?",
     "options": {
       "A": "la prima informazione letta dal destinatario, che deve essere chiara, breve e coinvolgente",
       "B": "un'email usata per recuperare utenti che hanno abbandonato il carrello o non completato l'acquisto",
@@ -5564,7 +5564,7 @@
       "operational"
     ],
     "source": "converted-md/slide parte 2/08 Gabriele",
-    "text": "Cosa si intende per personalizzazione email?",
+    "text": "Che cosa indica il concetto di personalizzazione email?",
     "options": {
       "A": "l'adattamento del messaggio a dati demografici, comportamenti e livelli di coinvolgimento",
       "B": "la prima informazione letta dal destinatario, che deve essere chiara, breve e coinvolgente",
@@ -5596,7 +5596,7 @@
       "operational"
     ],
     "source": "converted-md/slide parte 2/08 Gabriele",
-    "text": "Cosa si intende per automazione email?",
+    "text": "Che cosa indica il concetto di automazione email?",
     "options": {
       "A": "l'invio automatico di email a specifici iscritti in momenti ideali predefiniti",
       "B": "l'adattamento del messaggio a dati demografici, comportamenti e livelli di coinvolgimento",
@@ -5629,7 +5629,7 @@
       "fondamenti"
     ],
     "source": "converted-md/lezione-9-content-marketing",
-    "text": "Cosa si intende per content marketing?",
+    "text": "Che cosa indica il concetto di content marketing?",
     "options": {
       "A": "la creazione e distribuzione di contenuti di valore, pertinenti e coerenti per attrarre e fidelizzare un pubblico definito",
       "B": "l'invio automatico di email a specifici iscritti in momenti ideali predefiniti",
@@ -5662,7 +5662,7 @@
       "operational"
     ],
     "source": "converted-md/lezione-9-content-marketing",
-    "text": "Cosa si intende per content marketing pull?",
+    "text": "Che cosa indica il concetto di content marketing pull?",
     "options": {
       "A": "la logica per cui contenuti utili attraggono l'utente che cerca valore",
       "B": "la creazione e distribuzione di contenuti di valore, pertinenti e coerenti per attrarre e fidelizzare un pubblico definito",
@@ -5694,7 +5694,7 @@
       "operational"
     ],
     "source": "converted-md/lezione-9-content-marketing",
-    "text": "Cosa si intende per piano editoriale?",
+    "text": "Che cosa indica il concetto di piano editoriale?",
     "options": {
       "A": "lo strumento per programmare, coordinare e gestire creazione, pubblicazione e promozione dei contenuti",
       "B": "la logica per cui contenuti utili attraggono l'utente che cerca valore",
@@ -5727,7 +5727,7 @@
       "journey"
     ],
     "source": "converted-md/lezione-9-content-marketing",
-    "text": "Cosa si intende per modello AIDA?",
+    "text": "Che cosa indica il concetto di modello AIDA?",
     "options": {
       "A": "un modello del percorso decisionale composto da attenzione, interesse, desiderio e azione",
       "B": "lo strumento per programmare, coordinare e gestire creazione, pubblicazione e promozione dei contenuti",
@@ -5760,7 +5760,7 @@
       "operational"
     ],
     "source": "converted-md/lezione-9-content-marketing",
-    "text": "Cosa si intende per modello PESO?",
+    "text": "Che cosa indica il concetto di modello PESO?",
     "options": {
       "A": "la classificazione dei canali in Paid, Earned, Shared e Owned media",
       "B": "un modello del percorso decisionale composto da attenzione, interesse, desiderio e azione",
@@ -5792,7 +5792,7 @@
       "operational"
     ],
     "source": "converted-md/lezione-9-content-marketing",
-    "text": "Cosa si intende per contenuto Hero?",
+    "text": "Che cosa indica il concetto di contenuto Hero?",
     "options": {
       "A": "contenuto ad alto impatto progettato per ispirare, catturare attenzione ed essere memorabile",
       "B": "la classificazione dei canali in Paid, Earned, Shared e Owned media",
@@ -5824,7 +5824,7 @@
       "operational"
     ],
     "source": "converted-md/lezione-9-content-marketing",
-    "text": "Cosa si intende per contenuto Hub?",
+    "text": "Che cosa indica il concetto di contenuto Hub?",
     "options": {
       "A": "contenuto regolare che offre valore continuo e sostiene engagement e fedeltà",
       "B": "contenuto ad alto impatto progettato per ispirare, catturare attenzione ed essere memorabile",
@@ -5857,7 +5857,7 @@
       "digitale"
     ],
     "source": "converted-md/lezione-9-content-marketing",
-    "text": "Cosa si intende per contenuto Help?",
+    "text": "Che cosa indica il concetto di contenuto Help?",
     "options": {
       "A": "contenuto pratico che risponde a domande quotidiane e bisogni informativi specifici",
       "B": "contenuto regolare che offre valore continuo e sostiene engagement e fedeltà",

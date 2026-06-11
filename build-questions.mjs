@@ -212,7 +212,7 @@ function questionFor(concept, kind, id, conceptIndex) {
   if (kind === 0) {
     return {
       ...base,
-      text: `Cosa si intende per ${concept.term}?`,
+      text: `Che cosa indica il concetto di ${concept.term}?`,
       options: { A: concept.definition, B: d[0], C: d[1], D: d[2] }
     };
   }

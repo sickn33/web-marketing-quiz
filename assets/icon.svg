@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Quiz Web Marketing">
+  <rect width="512" height="512" rx="112" fill="#236854"/>
+  <rect x="94" y="108" width="324" height="296" rx="34" fill="#f7f8f5"/>
+  <rect x="128" y="151" width="174" height="18" rx="9" fill="#236854"/>
+  <rect x="128" y="202" width="256" height="16" rx="8" fill="#bac6b9"/>
+  <rect x="128" y="246" width="220" height="16" rx="8" fill="#bac6b9"/>
+  <circle cx="144" cy="326" r="27" fill="#e5efea"/>
+  <path d="M132 324l9 10 17-20" fill="none" stroke="#236854" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="188" y="311" width="156" height="16" rx="8" fill="#236854"/>
+</svg>

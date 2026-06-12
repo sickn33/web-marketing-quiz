@@ -3,6 +3,14 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#236854">
+  <meta name="application-name" content="Quiz Web Marketing">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-title" content="Quiz Web Marketing">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="assets/icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="assets/icon-192.png">
   <title>Quiz Web Marketing</title>
   <style>
     :root {
@@ -675,6 +683,12 @@
 
   <script src="questions-data.js"></script>
   <script>
+    if ("serviceWorker" in navigator && window.isSecureContext) {
+      window.addEventListener("load", () => {
+        navigator.serviceWorker.register("./sw.js").catch(() => {});
+      });
+    }
+
     const quizModes = window.WEB_MARKETING_SPECIAL_QUIZZES || [];
     const letters = ["A", "B", "C", "D"];
     const quizSize = 50;

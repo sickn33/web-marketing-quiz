@@ -106,6 +106,15 @@
     }
 
     .shell {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) auto;
+      grid-template-areas:
+        "title controls"
+        "intro controls"
+        "layout layout";
+      column-gap: 28px;
+      row-gap: 6px;
+      align-items: end;
       width: 100%;
       max-width: 1240px;
       margin: 0 auto;
@@ -113,12 +122,8 @@
     }
 
     .topbar {
-      display: grid;
-      grid-template-columns: minmax(0, 1fr) auto;
-      align-items: end;
-      column-gap: 28px;
-      row-gap: 6px;
-      margin-bottom: 24px;
+      grid-area: title;
+      min-width: 0;
     }
 
     .topbar > *,
@@ -128,7 +133,6 @@
     }
 
     h1 {
-      grid-column: 1;
       margin: 0 0 6px;
       font-size: clamp(31px, 4vw, 50px);
       line-height: 0.98;
@@ -137,7 +141,7 @@
     }
 
     .subhead {
-      grid-column: 1;
+      grid-area: intro;
       margin: 0;
       color: var(--muted);
       font-size: 16px;
@@ -147,8 +151,7 @@
     }
 
     .toolbar {
-      grid-column: 2;
-      grid-row: 1 / span 2;
+      grid-area: controls;
       display: flex;
       flex-wrap: wrap;
       justify-content: flex-end;
@@ -162,10 +165,12 @@
     }
 
     .layout {
+      grid-area: layout;
       display: grid;
       grid-template-columns: minmax(0, 1fr) 300px;
       gap: 20px;
       align-items: start;
+      margin-top: 18px;
     }
 
     .card,
@@ -476,8 +481,16 @@
     }
 
     @media (max-width: 880px) {
-      .topbar,
+      .shell,
       .layout { grid-template-columns: 1fr; }
+
+      .shell {
+        grid-template-areas:
+          "title"
+          "intro"
+          "controls"
+          "layout";
+      }
 
       .toolbar { justify-content: flex-start; }
       .question-head { grid-template-columns: 1fr; }
@@ -501,13 +514,12 @@
       }
 
       .topbar {
-        display: contents;
+        order: 1;
         gap: 16px;
         margin-bottom: 20px;
       }
 
       h1 {
-        order: 1;
         margin-bottom: 16px;
         font-size: 30px;
         line-height: 1;
@@ -515,6 +527,7 @@
 
       .layout {
         order: 2;
+        margin-top: 0;
       }
 
       .subhead {
@@ -634,12 +647,12 @@
   <main class="shell">
     <header class="topbar">
       <h1>Quiz Web Marketing</h1>
-      <p class="subhead">50 domande casuali da un banco di 500 quesiti costruito sugli appunti Granato, Michelini e sulla traccia d’esame precedente.</p>
-      <div class="toolbar">
-        <button id="restartBtn" type="button">Nuovo quiz</button>
-        <button id="reviewModeBtn" type="button">Ripassa errori</button>
-      </div>
     </header>
+    <p class="subhead">50 domande casuali da un banco di 500 quesiti costruito sugli appunti Granato, Michelini e sulla traccia d’esame precedente.</p>
+    <div class="toolbar">
+      <button id="restartBtn" type="button">Nuovo quiz</button>
+      <button id="reviewModeBtn" type="button">Ripassa errori</button>
+    </div>
 
     <section class="layout" aria-label="Quiz interattivo">
       <article class="card">

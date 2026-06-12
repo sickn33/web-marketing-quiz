@@ -50,6 +50,7 @@
       background: var(--panel);
       color: var(--text);
       cursor: pointer;
+      touch-action: manipulation;
       transition: border-color 160ms ease, background 160ms ease, transform 160ms ease;
     }
 
@@ -270,7 +271,11 @@
       gap: 10px;
     }
 
-    .side { padding: 18px; }
+    .side {
+      position: sticky;
+      top: 18px;
+      padding: 18px;
+    }
 
     .stat-grid {
       display: grid;
@@ -323,6 +328,12 @@
       background: #fff;
       color: var(--text);
       padding: 0 10px;
+    }
+
+    input[type="checkbox"] {
+      width: 16px;
+      height: 16px;
+      accent-color: var(--accent);
     }
 
     .toggles {
@@ -408,15 +419,78 @@
       .toolbar { justify-content: flex-start; }
       .question-head { grid-template-columns: 1fr; }
       .question-count { white-space: normal; }
+      .side {
+        position: static;
+      }
     }
 
     @media (max-width: 540px) {
+      body {
+        background:
+          linear-gradient(180deg, rgba(37, 111, 92, 0.1), transparent 210px),
+          var(--bg);
+      }
+
       .shell {
-        padding: 18px 10px 32px;
+        padding: 18px 10px calc(112px + env(safe-area-inset-bottom));
+      }
+
+      .topbar {
+        gap: 16px;
+        margin-bottom: 20px;
+      }
+
+      .subhead {
+        font-size: 15px;
+        line-height: 1.45;
+      }
+
+      .toolbar {
+        display: grid;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        width: 100%;
+      }
+
+      .toolbar button {
+        width: 100%;
+      }
+
+      .question-head {
+        padding: 20px 18px 16px;
+        border-radius: var(--radius) var(--radius) 0 0;
+      }
+
+      .question-body {
+        padding: 20px 18px;
+      }
+
+      .question-text {
+        font-size: 22px;
+        line-height: 1.22;
+      }
+
+      .answers {
+        gap: 10px;
       }
 
       .card-actions {
-        flex-direction: column;
+        position: fixed;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        z-index: 2;
+        display: grid;
+        grid-template-columns: 0.85fr 1.35fr 1fr;
+        gap: 8px;
+        width: min(370px, calc(100vw - 20px));
+        margin: 0 auto;
+        padding: 16px 18px 20px;
+        border-radius: 0 0 var(--radius) var(--radius);
+        box-shadow: 0 -14px 28px rgba(29, 46, 34, 0.08);
+      }
+
+      .card {
+        overflow: visible;
       }
 
       .card-actions > div,
@@ -425,12 +499,51 @@
       }
 
       .card-actions > div {
-        flex-direction: column;
+        display: contents;
+      }
+
+      .card-actions button {
+        padding: 0 8px;
+        white-space: nowrap;
       }
 
       .answer {
         grid-template-columns: 34px 1fr;
-        padding: 11px;
+        align-items: start;
+        min-height: 62px;
+        padding: 12px;
+      }
+
+      .answer .letter {
+        margin-top: 1px;
+      }
+
+      .feedback {
+        min-height: 0;
+        margin-top: 14px;
+      }
+
+      .side {
+        padding: 16px;
+      }
+
+      .stat {
+        min-height: 72px;
+      }
+
+      .topic-row {
+        font-size: 12px;
+      }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      *,
+      *::before,
+      *::after {
+        scroll-behavior: auto !important;
+        transition-duration: 0.01ms !important;
+        animation-duration: 0.01ms !important;
+        animation-iteration-count: 1 !important;
       }
     }
   </style>
@@ -745,7 +858,7 @@
       }).join("");
 
       if (!selected && !revealed) {
-        els.feedback.textContent = "Scegli una risposta. Puoi usare anche i tasti 1, 2, 3, 4.";
+        els.feedback.textContent = "Scegli una risposta.";
         els.feedback.className = "feedback";
       } else if (selected === q.answer) {
         els.feedback.textContent = "Corretto.";

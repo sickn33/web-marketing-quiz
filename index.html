@@ -114,9 +114,10 @@
 
     .topbar {
       display: grid;
-      grid-template-columns: 1fr auto;
+      grid-template-columns: minmax(0, 1fr) auto;
       align-items: end;
-      gap: 28px;
+      column-gap: 28px;
+      row-gap: 6px;
       margin-bottom: 24px;
     }
 
@@ -127,6 +128,7 @@
     }
 
     h1 {
+      grid-column: 1;
       margin: 0 0 6px;
       font-size: clamp(31px, 4vw, 50px);
       line-height: 0.98;
@@ -135,6 +137,7 @@
     }
 
     .subhead {
+      grid-column: 1;
       margin: 0;
       color: var(--muted);
       font-size: 16px;
@@ -144,9 +147,12 @@
     }
 
     .toolbar {
+      grid-column: 2;
+      grid-row: 1 / span 2;
       display: flex;
       flex-wrap: wrap;
       justify-content: flex-end;
+      align-self: end;
       gap: 10px;
     }
 
@@ -489,28 +495,41 @@
       }
 
       .shell {
+        display: flex;
+        flex-direction: column;
         padding: 18px 10px calc(110px + env(safe-area-inset-bottom));
       }
 
       .topbar {
+        display: contents;
         gap: 16px;
         margin-bottom: 20px;
       }
 
       h1 {
+        order: 1;
+        margin-bottom: 16px;
         font-size: 30px;
         line-height: 1;
       }
 
+      .layout {
+        order: 2;
+      }
+
       .subhead {
+        order: 3;
+        margin-top: 18px;
         font-size: 15px;
         line-height: 1.45;
       }
 
       .toolbar {
+        order: 4;
         display: grid;
         grid-template-columns: repeat(2, minmax(0, 1fr));
         width: 100%;
+        margin-top: 14px;
       }
 
       .toolbar button {
@@ -614,10 +633,8 @@
 <body>
   <main class="shell">
     <header class="topbar">
-      <div>
-        <h1>Quiz Web Marketing</h1>
-        <p class="subhead">50 domande casuali da un banco di 500 quesiti costruito sugli appunti Granato, Michelini e sulla traccia d’esame precedente.</p>
-      </div>
+      <h1>Quiz Web Marketing</h1>
+      <p class="subhead">50 domande casuali da un banco di 500 quesiti costruito sugli appunti Granato, Michelini e sulla traccia d’esame precedente.</p>
       <div class="toolbar">
         <button id="restartBtn" type="button">Nuovo quiz</button>
         <button id="reviewModeBtn" type="button">Ripassa errori</button>

@@ -1,0 +1,655 @@
+{
+  "title": "Marketing Quiz",
+  "questions": [
+    {
+      "question": "Qual è la differenza principale tra la digitalizzazione e la trasformazione digitale?",
+      "answerOptions": [
+        {
+          "text": "La digitalizzazione riguarda la conversione di documenti in formato digitale, mentre la trasformazione digitale è un cambiamento strategico e culturale.",
+          "isCorrect": true,
+          "rationale": "La digitalizzazione si concentra sull'aspetto tecnico della conversione dei dati, mentre la trasformazione digitale ridefinisce il modello di business e la generazione di valore."
+        },
+        {
+          "text": "La digitalizzazione si applica solo ai processi aziendali, mentre la trasformazione digitale riguarda solo l'hardware.",
+          "isCorrect": false,
+          "rationale": "Entrambi i concetti coinvolgono processi e tecnologia, ma la trasformazione digitale ha una portata strategica molto più ampia."
+        },
+        {
+          "text": "Non c'è differenza, sono sinonimi usati in contesti diversi.",
+          "isCorrect": false,
+          "rationale": "Il materiale distingue chiaramente tra la conversione di informazioni, l'automazione dei processi e il cambiamento culturale strategico."
+        },
+        {
+          "text": "La trasformazione digitale precede sempre la digitalizzazione dei documenti.",
+          "isCorrect": false,
+          "rationale": "Generalmente, la digitalizzazione dei dati è un prerequisito tecnico che abilita trasformazioni strategiche più profonde."
+        }
+      ],
+      "hint": "Pensa alla differenza tra il semplice atto di scansionare una fattura e il cambiare il modo in cui l'azienda crea valore."
+    },
+    {
+      "question": "Nell'analisi SWOT, quali elementi sono considerati variabili esterne all'azienda?",
+      "answerOptions": [
+        {
+          "text": "Opportunità e Minacce",
+          "isCorrect": true,
+          "rationale": "Questi fattori derivano dall'ambiente di riferimento esterno e non sono direttamente controllabili dall'organizzazione."
+        },
+        {
+          "text": "Punti di Forza e Debolezze",
+          "isCorrect": false,
+          "rationale": "Questi sono fattori interni all'organizzazione che l'azienda può gestire o migliorare direttamente."
+        },
+        {
+          "text": "Budget e Risorse Umane",
+          "isCorrect": false,
+          "rationale": "Questi sono elementi puramente operativi e interni, non categorie specifiche dell'ambiente esterno della SWOT."
+        },
+        {
+          "text": "Strategia e Posizionamento",
+          "isCorrect": false,
+          "rationale": "Questi rappresentano l'output della fase strategica e non i fattori ambientali analizzati nella SWOT."
+        }
+      ],
+      "hint": "Considera quali fattori dipendono dal mercato o dai concorrenti piuttosto che dalle capacità interne."
+    },
+    {
+      "question": "Cosa si intende per 'Targeting' nella fase strategica del marketing?",
+      "answerOptions": [
+        {
+          "text": "Valutare i segmenti di mercato e decidere quali cercare di raggiungere.",
+          "isCorrect": true,
+          "rationale": "Il targeting consiste nella selezione dei segmenti obiettivo identificati precedentemente durante la segmentazione."
+        },
+        {
+          "text": "Identificare e descrivere gruppi omogenei di individui.",
+          "isCorrect": false,
+          "rationale": "Questa descrizione corrisponde alla fase di segmentazione, che precede il targeting."
+        },
+        {
+          "text": "Definire come il mercato deve percepire il prodotto rispetto ai concorrenti.",
+          "isCorrect": false,
+          "rationale": "Questo obiettivo è tipico della fase di posizionamento."
+        },
+        {
+          "text": "Stabilire il prezzo di vendita per i diversi mercati esteri.",
+          "isCorrect": false,
+          "rationale": "Il targeting riguarda la scelta del pubblico obiettivo, non direttamente la politica di prezzo."
+        }
+      ],
+      "hint": "Si tratta di fare una scelta strategica su chi diventerà il cliente effettivo dell'azienda."
+    },
+    {
+      "question": "In una mappa di posizionamento (Perceptual Mapping) per il settore automotive, quali sono le variabili tipicamente utilizzate sugli assi?",
+      "answerOptions": [
+        {
+          "text": "Prezzo e Brand Image",
+          "isCorrect": true,
+          "rationale": "Questi assi permettono di visualizzare come i marchi sono percepiti in termini di costo e stile (es. Trendy vs Classic)."
+        },
+        {
+          "text": "Velocità e Consumo",
+          "isCorrect": false,
+          "rationale": "Sebbene importanti, queste sono caratteristiche tecniche e non le dimensioni percettive principali mostrate nel materiale."
+        },
+        {
+          "text": "Paese di origine e Numero di modelli",
+          "isCorrect": false,
+          "rationale": "Questi dati sono oggettivi e non riflettono necessariamente la percezione psicologica del consumatore nel mercato."
+        },
+        {
+          "text": "Dimensioni del veicolo e Sicurezza",
+          "isCorrect": false,
+          "rationale": "Questi fattori possono essere sotto-componenti dell'immagine di marca, ma non sono gli assi portanti della mappa presentata."
+        }
+      ],
+      "hint": "Pensa a come marchi come Ferrari o Fiat vengono posizionati rispetto alla spesa necessaria e al prestigio percepito."
+    },
+    {
+      "question": "Qual è l'obiettivo principale del Marketing 3.0?",
+      "answerOptions": [
+        {
+          "text": "Rendere il mondo un posto migliore.",
+          "isCorrect": true,
+          "rationale": "Il Marketing 3.0 è orientato ai valori e vede il consumatore come un essere umano integrale con mente, cuore e spirito."
+        },
+        {
+          "text": "Vendere prodotti su larga scala.",
+          "isCorrect": false,
+          "rationale": "Questo era l'obiettivo tipico del Marketing 1.0, focalizzato sul prodotto."
+        },
+        {
+          "text": "Soddisfare e trattenere i consumatori.",
+          "isCorrect": false,
+          "rationale": "Questo approccio è caratteristico del Marketing 2.0, che è orientato al cliente."
+        },
+        {
+          "text": "Sviluppare tecnologie immersive per il Metaverso.",
+          "isCorrect": false,
+          "rationale": "L'immersività è una caratteristica citata per le evoluzioni più recenti, come il Marketing 6.0."
+        }
+      ],
+      "hint": "Questa fase supera la semplice soddisfazione del cliente per abbracciare una missione sociale o etica."
+    },
+    {
+      "question": "Secondo Philip Kotler, cosa caratterizza il Marketing 4.0?",
+      "answerOptions": [
+        {
+          "text": "La convergenza tra il mondo offline e quello online.",
+          "isCorrect": true,
+          "rationale": "Il passaggio al 4.0 segna l'integrazione definitiva del digitale nel percorso d'acquisto e nella comunicazione del brand."
+        },
+        {
+          "text": "L'uso esclusivo della radio per la pubblicità.",
+          "isCorrect": false,
+          "rationale": "Il Marketing 4.0 si basa sulla digitalizzazione, non su media analogici tradizionali esclusivi."
+        },
+        {
+          "text": "La creazione di prodotti identici per tutti i consumatori.",
+          "isCorrect": false,
+          "rationale": "Questo approccio di massa appartiene al Marketing 1.0 della rivoluzione industriale."
+        },
+        {
+          "text": "La scomparsa totale dei negozi fisici.",
+          "isCorrect": false,
+          "rationale": "Il materiale parla di convergenza, suggerendo una convivenza e integrazione dei canali, non l'eliminazione dei negozi."
+        }
+      ],
+      "hint": "Pensa al legame che si crea tra l'esperienza in negozio e quella sullo smartphone."
+    },
+    {
+      "question": "Nel passaggio dalle 4P alle 4C del marketing digitale, cosa rappresenta la 'Co-creation'?",
+      "answerOptions": [
+        {
+          "text": "La partecipazione attiva del cliente nello sviluppo di nuovi prodotti.",
+          "isCorrect": true,
+          "rationale": "Rappresenta l'evoluzione del concetto di prodotto, dove il consumatore non è più solo un ricevente passivo."
+        },
+        {
+          "text": "La creazione di campagne pubblicitarie senza l'aiuto di agenzie.",
+          "isCorrect": false,
+          "rationale": "La co-creation riguarda il coinvolgimento degli utenti finali, non solo l'aspetto della produzione pubblicitaria interna."
+        },
+        {
+          "text": "La collaborazione obbligatoria tra concorrenti dello stesso settore.",
+          "isCorrect": false,
+          "rationale": "Si riferisce alla relazione azienda-cliente, non a pratiche di cooperazione forzata tra competitor."
+        },
+        {
+          "text": "L'uso di intelligenza artificiale per generare loghi aziendali.",
+          "isCorrect": false,
+          "rationale": "Sebbene l'AI sia citata tra i trend, la co-creation nel contesto delle 4C enfatizza il ruolo del cliente umano."
+        }
+      ],
+      "hint": "Considera come le aziende chiedono feedback o idee agli utenti prima di lanciare un nuovo servizio."
+    },
+    {
+      "question": "Cosa significa che i dati digitali sono codificati in formato binario?",
+      "answerOptions": [
+        {
+          "text": "Sono composti da stringhe di soli due simboli, 0 e 1.",
+          "isCorrect": true,
+          "rationale": "I bit, cifre binarie, sono l'unità minima di informazione che permette di rappresentare dati in modo discreto."
+        },
+        {
+          "text": "Vengono trasmessi solo attraverso due frequenze radio diverse.",
+          "isCorrect": false,
+          "rationale": "La natura binaria riguarda la codifica logica dell'informazione, non necessariamente la modalità fisica di trasmissione radio."
+        },
+        {
+          "text": "Sono leggibili solo da due tipi di dispositivi contemporaneamente.",
+          "isCorrect": false,
+          "rationale": "Il termine 'binario' non si riferisce al numero di dispositivi, ma al sistema numerico in base 2."
+        },
+        {
+          "text": "Possono essere archiviati solo su dischi a doppia faccia.",
+          "isCorrect": false,
+          "rationale": "La memorizzazione fisica può variare; il binario è il linguaggio fondamentale del computer."
+        }
+      ],
+      "hint": "Ricorda la definizione di 'bit' come unità minima di informazione."
+    },
+    {
+      "question": "Quanti bit formano un byte?",
+      "answerOptions": [
+        {
+          "text": "8",
+          "isCorrect": true,
+          "rationale": "Una serie di 8 bit è lo standard per formare un byte, l'unità di misura fondamentale della capacità di memoria."
+        },
+        {
+          "text": "2",
+          "isCorrect": false,
+          "rationale": "Il sistema è binario (base 2), ma un byte richiede un gruppo di 8 bit."
+        },
+        {
+          "text": "10",
+          "isCorrect": false,
+          "rationale": "Sebbene il sistema decimale sia basato sul 10, l'informatica utilizza potenze di 2 e l'ottetto per i byte."
+        },
+        {
+          "text": "1024",
+          "isCorrect": false,
+          "rationale": "1024 è tipicamente il numero di byte in un kilobyte, non di bit in un byte."
+        }
+      ],
+      "hint": "È un numero di potenza di 2 che definisce un 'ottetto'."
+    },
+    {
+      "question": "Perché i dischi in vinile sono definiti analogici?",
+      "answerOptions": [
+        {
+          "text": "Perché immagazzinano dati meccanici e continui che corrispondono ai suoni.",
+          "isCorrect": true,
+          "rationale": "A differenza dei sistemi digitali che usano 'scatti' discreti, l'analogico riproduce l'onda sonora in modo fluido e continuo."
+        },
+        {
+          "text": "Perché possono essere ascoltati solo se collegati a internet.",
+          "isCorrect": false,
+          "rationale": "Il vinile è una tecnologia offline e meccanica, indipendente dalla rete."
+        },
+        {
+          "text": "Perché usano il codice binario inciso sulla superficie plastica.",
+          "isCorrect": false,
+          "rationale": "Il codice binario (buchi e terre) è tipico dei CD, non dei solchi continui del vinile."
+        },
+        {
+          "text": "Perché sono stati inventati prima della rivoluzione industriale.",
+          "isCorrect": false,
+          "rationale": "L'analogico è una caratteristica del segnale e della memorizzazione, non solo una questione cronologica."
+        }
+      ],
+      "hint": "Pensa alla forma del solco del disco e a come cambia senza interruzioni."
+    },
+    {
+      "question": "Qual è la differenza tra Internet e il Web secondo il materiale didattico?",
+      "answerOptions": [
+        {
+          "text": "Internet è l'infrastruttura di rete globale, mentre il Web è un sistema di navigazione ipertestuale che gira su di essa.",
+          "isCorrect": true,
+          "rationale": "Internet comprende protocolli e hardware di rete; il Web è l'applicazione basata su HTML e link."
+        },
+        {
+          "text": "Il Web è la rete fisica dei cavi, mentre Internet è il contenuto dei siti.",
+          "isCorrect": false,
+          "rationale": "Questa affermazione inverte i ruoli: l'infrastruttura hardware appartiene a Internet."
+        },
+        {
+          "text": "Internet è usato solo dalle aziende, il Web è per i privati.",
+          "isCorrect": false,
+          "rationale": "Entrambi sono aperti al pubblico e integrano telecomunicazioni, hardware e software per tutti."
+        },
+        {
+          "text": "Sono la stessa cosa, i termini sono perfettamente intercambiabili.",
+          "isCorrect": false,
+          "rationale": "Sebbene nel linguaggio comune si confondano, tecnicamente rappresentano livelli diversi di tecnologia e servizio."
+        }
+      ],
+      "hint": "Uno è il sistema di strade e l'altro è uno dei servizi (come il trasporto di documenti) che ci viaggia sopra."
+    },
+    {
+      "question": "Secondo la Legge di Moore, cosa succede ogni 18 mesi circa?",
+      "answerOptions": [
+        {
+          "text": "È possibile raddoppiare il numero di transistor in un chip a parità di costo.",
+          "isCorrect": true,
+          "rationale": "Gordon Moore ha previsto l'aumento esponenziale della densità dei circuiti integrati, guidando l'evoluzione dell'hardware."
+        },
+        {
+          "text": "Il costo di un computer aumenta del doppio a causa dell'inflazione digitale.",
+          "isCorrect": false,
+          "rationale": "Al contrario, la legge suggerisce un aumento di potenza a costi costanti o decrescenti."
+        },
+        {
+          "text": "Gli utenti di internet diminuiscono della metà ogni anno e mezzo.",
+          "isCorrect": false,
+          "rationale": "La crescita degli utenti è trattata dalla Legge di Metcalfe, non di Moore, ed è generalmente in aumento."
+        },
+        {
+          "text": "La velocità di connessione raddoppia mentre il numero di siti web resta stabile.",
+          "isCorrect": false,
+          "rationale": "La legge di Moore si concentra specificamente sui transistor nei chip, non sulla larghezza di banda o sul numero di siti."
+        }
+      ],
+      "hint": "Si riferisce alla potenza di elaborazione dell'hardware dei microprocessori."
+    },
+    {
+      "question": "Qual è la formula che descrive la Legge di Metcalfe riguardante l'utilità di una rete?",
+      "answerOptions": [
+        {
+          "text": "$Ui = n(n-1) \\approx n^2$",
+          "isCorrect": true,
+          "rationale": "L'utilità della rete cresce esponenzialmente con il quadrato del numero di utenti (o nodi)."
+        },
+        {
+          "text": "$C = 2 \\times P$",
+          "isCorrect": false,
+          "rationale": "Questa non è una formula riconosciuta tra le leggi fondamentali della tecnologia digitale presentate."
+        },
+        {
+          "text": "$E = mc^2$",
+          "isCorrect": false,
+          "rationale": "Questa è la famosa equazione di Einstein sulla relatività, non pertinente alle leggi di rete."
+        },
+        {
+          "text": "$P = \\frac{1}{V}$",
+          "isCorrect": false,
+          "rationale": "Si tratta di una relazione fisica di proporzionalità inversa, estranea alla Legge di Metcalfe."
+        }
+      ],
+      "hint": "Considera come il valore di un social network aumenti drasticamente all'aggiungersi di ogni nuovo utente."
+    },
+    {
+      "question": "Nel Modello Internet Industry a strati (layer), cosa comprende il primo livello (Internet Infrastructure)?",
+      "answerOptions": [
+        {
+          "text": "Produttori di fibra ottica, server e hardware di networking.",
+          "isCorrect": true,
+          "rationale": "Il livello 1 riguarda l'attrezzatura fisica e la gestione dell'infrastruttura di base della rete."
+        },
+        {
+          "text": "Siti di e-commerce e portali di notizie.",
+          "isCorrect": false,
+          "rationale": "Questi appartengono al quinto livello (Internet Content)."
+        },
+        {
+          "text": "Motori di ricerca e intermediari pubblicitari.",
+          "isCorrect": false,
+          "rationale": "Questi servizi rientrano nel quarto livello (Internet Intermediation)."
+        },
+        {
+          "text": "Browser e sistemi operativi di accesso.",
+          "isCorrect": false,
+          "rationale": "Questi componenti software fanno parte del secondo livello (Internet Access)."
+        }
+      ],
+      "hint": "Pensa alla 'ferramenta' fisica necessaria per far esistere il segnale internet."
+    },
+    {
+      "question": "Quale di questi è considerato un 'device digitale' piuttosto che una 'piattaforma digitale'?",
+      "answerOptions": [
+        {
+          "text": "Wearable technologies (tecnologie indossabili)",
+          "isCorrect": true,
+          "rationale": "Gli smartwatch o i tracker sono hardware fisici (dispositivi), mentre le piattaforme sono gli ambienti software come il Web."
+        },
+        {
+          "text": "Social Network",
+          "isCorrect": false,
+          "rationale": "I social network sono piattaforme ospitate sul web, non dispositivi fisici."
+        },
+        {
+          "text": "Internet",
+          "isCorrect": false,
+          "rationale": "Internet è la piattaforma di rete globale di base."
+        },
+        {
+          "text": "Mobile (inteso come rete mobile)",
+          "isCorrect": false,
+          "rationale": "Il mobile come ecosistema di rete è considerato una piattaforma; lo smartphone è il relativo device."
+        }
+      ],
+      "hint": "Cerca l'oggetto fisico che l'utente può toccare o indossare."
+    },
+    {
+      "question": "In ambito Digital Marketing, cosa rappresenta il livello 'Core Business' nelle alternative strategiche?",
+      "answerOptions": [
+        {
+          "text": "L'integrazione del digitale nella strategia generale dell'impresa per ridefinire il business.",
+          "isCorrect": true,
+          "rationale": "A questo livello, il digitale non è solo un canale ma il cuore pulsante della strategia aziendale."
+        },
+        {
+          "text": "L'acquisto di nuovi computer per l'ufficio contabilità.",
+          "isCorrect": false,
+          "rationale": "Questa è una semplice digitalizzazione strumentale, non una strategia di core business."
+        },
+        {
+          "text": "L'uso saltuario dei social media per rispondere ai reclami.",
+          "isCorrect": false,
+          "rationale": "Questo approccio limitato rientra più nel livello tattico o di servizio."
+        },
+        {
+          "text": "La creazione di un sito web statico che non viene mai aggiornato.",
+          "isCorrect": false,
+          "rationale": "Una presenza statica non rappresenta un'integrazione strategica nel modello di business."
+        }
+      ],
+      "hint": "Si riferisce a quando l'essenza stessa dell'azienda viene trasformata dalle tecnologie digitali."
+    },
+    {
+      "question": "Cos'è un bit?",
+      "answerOptions": [
+        {
+          "text": "L'unità minima di informazione.",
+          "isCorrect": true,
+          "rationale": "Rappresenta lo stato base (0 o 1) su cui si costruisce tutta la logica digitale."
+        },
+        {
+          "text": "Un tipo di cavo per la fibra ottica.",
+          "isCorrect": false,
+          "rationale": "Il bit è un concetto logico/matematico di informazione, non un componente hardware fisico."
+        },
+        {
+          "text": "Un software per la navigazione web.",
+          "isCorrect": false,
+          "rationale": "I software sono composti da miliardi di bit, ma il bit in sé è solo il dato elementare."
+        },
+        {
+          "text": "La velocità massima di un processore.",
+          "isCorrect": false,
+          "rationale": "La velocità si misura in Hertz; il bit misura la quantità di informazione."
+        }
+      ],
+      "hint": "È il mattoncino più piccolo possibile nel mondo dei computer."
+    },
+    {
+      "question": "Il Marketing 2.0 si differenzia dall'1.0 perché:",
+      "answerOptions": [
+        {
+          "text": "È orientato al consumatore invece che al prodotto.",
+          "isCorrect": true,
+          "rationale": "Mentre l'1.0 voleva solo vendere ciò che produceva, il 2.0 cerca di soddisfare i bisogni specifici dei clienti."
+        },
+        {
+          "text": "Usa solo la televisione in bianco e nero.",
+          "isCorrect": false,
+          "rationale": "L'evoluzione del marketing riguarda la filosofia strategica, non solo il mezzo di trasmissione tecnologico."
+        },
+        {
+          "text": "Considera il consumatore come un essere spirituale.",
+          "isCorrect": false,
+          "rationale": "Questa visione 'olistica' dell'essere umano appartiene al Marketing 3.0."
+        },
+        {
+          "text": "Non prevede l'uso di pubblicità.",
+          "isCorrect": false,
+          "rationale": "Tutte le fasi del marketing utilizzano la comunicazione, cambiano solo i messaggi e gli obiettivi."
+        }
+      ],
+      "hint": "Pensa a come l'attenzione si sposta da 'cosa vendo' a 'di cosa ha bisogno chi compra'."
+    },
+    {
+      "question": "Cosa indica il termine 'Currency' nelle 4C del marketing digitale?",
+      "answerOptions": [
+        {
+          "text": "L'adozione di prezzi dinamici basati sulla domanda di mercato.",
+          "isCorrect": true,
+          "rationale": "Sostituisce il concetto statico di 'Price', permettendo fluttuazioni simili a quelle valutarie in base ai dati."
+        },
+        {
+          "text": "La scelta di quale moneta fisica accettare nel negozio.",
+          "isCorrect": false,
+          "rationale": "Riguarda la strategia di pricing digitale, non la logistica del cambio valuta fisico."
+        },
+        {
+          "text": "Il numero di volte che un post viene condiviso.",
+          "isCorrect": false,
+          "rationale": "Sebbene legata alla popolarità, questa metrica non definisce il concetto di 'Currency' inteso come evoluzione del prezzo."
+        },
+        {
+          "text": "La velocità di caricamento delle pagine web.",
+          "isCorrect": false,
+          "rationale": "Questa è una metrica tecnica di performance, non una delle 4C del marketing mix evoluto."
+        }
+      ],
+      "hint": "È l'evoluzione digitale della 'P' di Price (Prezzo)."
+    },
+    {
+      "question": "Quale tra questi è un esempio di 'digitalizzazione dei processi'?",
+      "answerOptions": [
+        {
+          "text": "Usare un CRM per gestire le relazioni con i clienti invece di archivi cartacei.",
+          "isCorrect": true,
+          "rationale": "L'automazione e l'ottimizzazione tramite strumenti digitali definiscono la digitalizzazione dei processi."
+        },
+        {
+          "text": "Convertire una collezione di CD in file MP3.",
+          "isCorrect": false,
+          "rationale": "Questo è un esempio di digitalizzazione delle informazioni/documenti, non di un processo aziendale complesso."
+        },
+        {
+          "text": "Stampare le email per leggerle con calma.",
+          "isCorrect": false,
+          "rationale": "Questa operazione fa il percorso opposto, riportando il digitale all'analogico cartaceo."
+        },
+        {
+          "text": "Cambiare l'intero modello di business per vendere solo servizi in abbonamento.",
+          "isCorrect": false,
+          "rationale": "Questa è più propriamente una trasformazione digitale strategica."
+        }
+      ],
+      "hint": "Pensa all'uso della tecnologia per rendere un'attività lavorativa ripetitiva più efficiente."
+    },
+    {
+      "question": "Nel Marketing 3.0, come vengono visti i consumatori dalle aziende?",
+      "answerOptions": [
+        {
+          "text": "Come esseri umani integrali con mente, cuore e spirito.",
+          "isCorrect": true,
+          "rationale": "Le aziende cercano di connettersi con i valori e le aspirazioni profonde degli individui."
+        },
+        {
+          "text": "Come semplici acquirenti di massa con bisogni fisici.",
+          "isCorrect": false,
+          "rationale": "Questa era la visione limitata del Marketing 1.0."
+        },
+        {
+          "text": "Come target da colpire con la massima forza pubblicitaria.",
+          "isCorrect": false,
+          "rationale": "Il 3.0 punta sulla collaborazione e sui valori condivisi, non sull'aggressione commerciale."
+        },
+        {
+          "text": "Come dati statistici senza identità.",
+          "isCorrect": false,
+          "rationale": "Sebbene si usino i dati, il cuore del Marketing 3.0 è l'umanizzazione del rapporto."
+        }
+      ],
+      "hint": "È un approccio che va oltre il mero consumo materiale."
+    },
+    {
+      "question": "Quale ambito del Digital Marketing si occupa di oggetti connessi alla rete che scambiano dati?",
+      "answerOptions": [
+        {
+          "text": "Internet of Things (IoT)",
+          "isCorrect": true,
+          "rationale": "L'IoT permette a dispositivi fisici di comunicare autonomamente tramite sensori e connessione internet."
+        },
+        {
+          "text": "Search Engine Optimization (SEO)",
+          "isCorrect": false,
+          "rationale": "La SEO riguarda l'ottimizzazione per i motori di ricerca, non l'interconnessione di oggetti fisici."
+        },
+        {
+          "text": "Digital Advertising",
+          "isCorrect": false,
+          "rationale": "Riguarda gli annunci a pagamento online, non la tecnologia degli oggetti smart."
+        },
+        {
+          "text": "Social Media Marketing",
+          "isCorrect": false,
+          "rationale": "Si focalizza sulla comunicazione nelle reti sociali umane."
+        }
+      ],
+      "hint": "Pensa a una lavatrice o a un termostato 'intelligente'."
+    },
+    {
+      "question": "Cosa stabilisce la Legge di Grosh?",
+      "answerOptions": [
+        {
+          "text": "Se la velocità di elaborazione aumenta di 4 volte, il costo del computer si riduce della metà.",
+          "isCorrect": true,
+          "rationale": "Questa legge mette in relazione l'incremento di potenza di calcolo con il drastico calo dei costi hardware."
+        },
+        {
+          "text": "Il valore di una rete è proporzionale al numero di cavi utilizzati.",
+          "isCorrect": false,
+          "rationale": "Il valore della rete è legato agli utenti (Metcalfe), non alla quantità fisica di cavi."
+        },
+        {
+          "text": "Il software diventa sempre più lento man mano che l'hardware accelera.",
+          "isCorrect": false,
+          "rationale": "Questa è un'osservazione ironica nota come legge di Wirth, non presente nel materiale."
+        },
+        {
+          "text": "Nessun computer può durare più di 18 mesi.",
+          "isCorrect": false,
+          "rationale": "Moore parla di transistor, Grosh di costi/potenza; nessuna legge stabilisce la durata fisica dei dispositivi."
+        }
+      ],
+      "hint": "Riguarda l'efficienza economica legata all'aumento della potenza di calcolo."
+    },
+    {
+      "question": "Quale di queste affermazioni sui dati analogici è corretta?",
+      "answerOptions": [
+        {
+          "text": "Cambiano continuamente e non per valori discreti.",
+          "isCorrect": true,
+          "rationale": "La natura dei segnali analogici è la fluidità e la continuità, come un'onda sonora reale."
+        },
+        {
+          "text": "Sono composti esclusivamente da stringhe di 0 e 1.",
+          "isCorrect": false,
+          "rationale": "Questa è la definizione di dati digitali binari."
+        },
+        {
+          "text": "Sono più facili da elaborare per un microprocessore moderno.",
+          "isCorrect": false,
+          "rationale": "I computer attuali sono nativamente digitali; i dati analogici devono essere convertiti per essere elaborati efficientemente."
+        },
+        {
+          "text": "Non possono essere trasmessi a distanza.",
+          "isCorrect": false,
+          "rationale": "I segnali analogici (es. radio, vecchi telefoni) sono stati trasmessi a distanza per decenni."
+        }
+      ],
+      "hint": "Pensa a un termometro a mercurio dove il livello sale senza 'salti'."
+    },
+    {
+      "question": "Il 'Posizionamento' nel marketing moderno (4.0) è definito come:",
+      "answerOptions": [
+        {
+          "text": "Una percezione condivisa costruita su coerenza valoriale e adattabilità comunicativa.",
+          "isCorrect": true,
+          "rationale": "Non è più solo un'affermazione unilaterale dell'azienda, ma un dialogo e una percezione del mercato."
+        },
+        {
+          "text": "La posizione fisica dei prodotti sugli scaffali del supermercato.",
+          "isCorrect": false,
+          "rationale": "Questo è il posizionamento logistico o di trade marketing, non quello strategico di brand."
+        },
+        {
+          "text": "L'ordine dei risultati di ricerca su Google.",
+          "isCorrect": false,
+          "rationale": "Questo è il 'ranking' o posizionamento SEO, una parte tattica ma non l'intera strategia di brand."
+        },
+        {
+          "text": "La lista di tutti i dipendenti dell'azienda.",
+          "isCorrect": false,
+          "rationale": "Il posizionamento riguarda il mercato e la marca, non l'organigramma interno."
+        }
+      ],
+      "hint": "Oggi il brand deve agire 'come un amico' per penetrare nelle comunità."
+    }
+  ]
+}

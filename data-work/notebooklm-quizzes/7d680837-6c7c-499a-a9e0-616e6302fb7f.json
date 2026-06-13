@@ -1,0 +1,785 @@
+{
+  "title": "Marketing Quiz",
+  "questions": [
+    {
+      "question": "Cosa si intende per consumatore 'prosumer' nel contesto del marketing digitale?",
+      "answerOptions": [
+        {
+          "text": "Un consumatore che si limita a ricevere passivamente i messaggi pubblicitari.",
+          "isCorrect": false,
+          "rationale": "Questo descrive il modello tradizionale di consumo, non quello attivo del prosumer."
+        },
+        {
+          "text": "Un utente che ricerca, richiede e produce contenuti rilevanti per il brand.",
+          "isCorrect": true,
+          "rationale": "Il termine unisce 'producer' e 'consumer', indicando un ruolo attivo nella creazione della narrazione aziendale."
+        },
+        {
+          "text": "Un cliente che acquista esclusivamente prodotti in promozione.",
+          "isCorrect": false,
+          "rationale": "Sebbene la sensibilità al prezzo esista, il concetto di prosumer riguarda la partecipazione ai contenuti, non la strategia di prezzo."
+        },
+        {
+          "text": "Un consumatore che utilizza un solo canale di informazione per le sue decisioni.",
+          "isCorrect": false,
+          "rationale": "Questo contraddice la natura omni-canale del nuovo consumatore digitale."
+        }
+      ],
+      "hint": "Pensa alla combinazione dei ruoli di produttore e consumatore."
+    },
+    {
+      "question": "Quale caratteristica definisce un consumatore 'omni-channel'?",
+      "answerOptions": [
+        {
+          "text": "L'utilizzo di un'unica fonte di informazione affidabile.",
+          "isCorrect": false,
+          "rationale": "L'omni-canalità presuppone l'uso di molteplici punti di contatto, non di uno solo."
+        },
+        {
+          "text": "La preferenza per gli acquisti esclusivamente nei negozi fisici.",
+          "isCorrect": false,
+          "rationale": "Un consumatore omni-canale integra touchpoint fisici e digitali a seconda delle necessità contestuali."
+        },
+        {
+          "text": "L'interazione con il brand attraverso molteplici touchpoint basati su bisogni contestuali.",
+          "isCorrect": true,
+          "rationale": "L'omni-canalità riguarda la fluidità dell'esperienza attraverso diversi canali durante il journey."
+        },
+        {
+          "text": "L'essere costantemente disconnessi dai social network.",
+          "isCorrect": false,
+          "rationale": "Essere hyper-connected è un prerequisito fondamentale del consumatore moderno descritto nel materiale."
+        }
+      ],
+      "hint": "Considera come l'utente si sposta tra diversi strumenti e ambienti."
+    },
+    {
+      "question": "Secondo Følstad & Kvale (2018), cos'è il 'customer journey'?",
+      "answerOptions": [
+        {
+          "text": "Il processo o sequenza che un cliente sperimenta nell'accedere o usare l'offerta di un'azienda.",
+          "isCorrect": true,
+          "rationale": "La definizione si focalizza sull'esperienza sequenziale del cliente nel tempo."
+        },
+        {
+          "text": "L'insieme dei costi logistici sostenuti per consegnare un prodotto al cliente.",
+          "isCorrect": false,
+          "rationale": "Il customer journey riguarda l'esperienza dell'utente, non la logistica interna aziendale."
+        },
+        {
+          "text": "Un diagramma che mostra esclusivamente i punti di vendita fisici di un'azienda.",
+          "isCorrect": false,
+          "rationale": "Il journey include interazioni digitali, fisiche e psicologiche ben oltre il semplice punto vendita."
+        },
+        {
+          "text": "La strategia di marketing utilizzata per acquisire nuovi segmenti di mercato.",
+          "isCorrect": false,
+          "rationale": "Questa è una definizione di strategia di acquisizione, mentre il journey descrive il vissuto del cliente."
+        }
+      ],
+      "hint": "Rifletti sul concetto di 'sequenza di esperienze'."
+    },
+    {
+      "question": "Cos'è specificamente un 'touchpoint'?",
+      "answerOptions": [
+        {
+          "text": "Il momento finale dell'acquisto in un negozio fisico.",
+          "isCorrect": false,
+          "rationale": "L'acquisto è solo uno dei molti possibili touchpoint lungo l'intero processo."
+        },
+        {
+          "text": "Il momento di interazione tra consumatore e brand su una piattaforma e dispositivo specifici.",
+          "isCorrect": true,
+          "rationale": "Un touchpoint è definito dall'interazione puntuale in un contesto tecnologico o fisico specifico."
+        },
+        {
+          "text": "Il budget totale assegnato a una campagna pubblicitaria.",
+          "isCorrect": false,
+          "rationale": "Il touchpoint è un punto di contatto esperienziale, non una metrica finanziaria."
+        },
+        {
+          "text": "La sede legale dell'azienda produttrice.",
+          "isCorrect": false,
+          "rationale": "Il touchpoint riguarda l'interazione con l'utente, non la localizzazione burocratica della ditta."
+        }
+      ],
+      "hint": "Pensa a un punto di contatto puntuale tra le due parti."
+    },
+    {
+      "question": "Quando termina idealmente il customer journey secondo le slide?",
+      "answerOptions": [
+        {
+          "text": "Nel momento in cui viene effettuato il pagamento.",
+          "isCorrect": false,
+          "rationale": "Il journey prosegue con il consumo e l'esperienza post-acquisto."
+        },
+        {
+          "text": "Appena il cliente riceve il prodotto a casa.",
+          "isCorrect": false,
+          "rationale": "L'esperienza continua attraverso l'uso del prodotto e il ricordo associato."
+        },
+        {
+          "text": "Solo quando svanisce il ricordo dell'esperienza.",
+          "isCorrect": true,
+          "rationale": "Il materiale specifica che ogni interazione chiave deve essere mappata finché permane la memoria dell'esperienza."
+        },
+        {
+          "text": "Al termine del periodo di garanzia del prodotto.",
+          "isCorrect": false,
+          "rationale": "La fine del journey è legata alla memoria psicologica del consumatore, non a scadenze legali."
+        }
+      ],
+      "hint": "Considera la durata psicologica e mnemonica dell'esperienza."
+    },
+    {
+      "question": "In cosa differisce il modello McKinsey rispetto al tradizionale funnel di marketing?",
+      "answerOptions": [
+        {
+          "text": "Il modello McKinsey è lineare, mentre il funnel è circolare.",
+          "isCorrect": false,
+          "rationale": "È l'esatto opposto: il funnel è lineare, il modello McKinsey è circolare."
+        },
+        {
+          "text": "Il funnel prevede più fasi di post-acquisto rispetto al modello McKinsey.",
+          "isCorrect": false,
+          "rationale": "Il modello McKinsey enfatizza molto di più l'esperienza post-acquisto come ciclo di fedeltà."
+        },
+        {
+          "text": "Il modello McKinsey descrive un viaggio circolare con fasi di valutazione attiva.",
+          "isCorrect": true,
+          "rationale": "Il nuovo journey è visto come un processo dinamico dove i brand possono essere aggiunti o eliminati durante la valutazione."
+        },
+        {
+          "text": "Il funnel tradizionale ignora completamente la fase di consapevolezza (awareness).",
+          "isCorrect": false,
+          "rationale": "L'awareness è proprio il punto di partenza del funnel tradizionale."
+        }
+      ],
+      "hint": "Pensa alla forma geometrica che meglio descrive la ripetizione dell'acquisto."
+    },
+    {
+      "question": "Quale fase del nuovo journey rappresenta il momento in cui il consumatore effettivamente acquista il brand?",
+      "answerOptions": [
+        {
+          "text": "Initial consideration",
+          "isCorrect": false,
+          "rationale": "Questa è la fase iniziale basata sulla percezione del brand."
+        },
+        {
+          "text": "Active evaluation",
+          "isCorrect": false,
+          "rationale": "In questa fase il consumatore raccoglie informazioni e confronta opzioni."
+        },
+        {
+          "text": "Closure (Moment of purchase)",
+          "isCorrect": true,
+          "rationale": "La 'chiusura' coincide con l'atto della selezione finale e dell'acquisto."
+        },
+        {
+          "text": "Loyalty loop",
+          "isCorrect": false,
+          "rationale": "Il loop di fedeltà avviene dopo l'acquisto, portando a una ripetizione senza passare per la valutazione attiva."
+        }
+      ],
+      "hint": "Cerca il termine che indica la conclusione del processo decisionale."
+    },
+    {
+      "question": "Secondo i dati McKinsey, in quale settore il numero di brand aggiunti durante la valutazione attiva è mediamente più alto?",
+      "answerOptions": [
+        {
+          "text": "Automobili (Autos)",
+          "isCorrect": true,
+          "rationale": "I dati mostrano che nel settore auto vengono aggiunti in media $2.2$ brand durante la valutazione attiva."
+        },
+        {
+          "text": "Telecomunicazioni (Telecom carriers)",
+          "isCorrect": false,
+          "rationale": "Il numero di brand aggiunti per le telecomunicazioni è significativamente più basso ($0.9$)."
+        },
+        {
+          "text": "Assicurazioni auto (Auto insurance)",
+          "isCorrect": false,
+          "rationale": "Le assicurazioni auto hanno un forte orientamento al loyalty loop piuttosto che all'aggiunta di nuovi brand ($1.4$)."
+        },
+        {
+          "text": "Personal computers",
+          "isCorrect": false,
+          "rationale": "Sebbene rilevante ($1.0$), è inferiore rispetto al dato del settore automobilistico."
+        }
+      ],
+      "hint": "Pensa a un acquisto complesso dove la ricerca di alternative è molto dinamica."
+    },
+    {
+      "question": "Quale percentuale dei touchpoint nella fase di valutazione attiva è guidata dal consumatore (es. recensioni online)?",
+      "answerOptions": [
+        {
+          "text": "Un terzo",
+          "isCorrect": false,
+          "rationale": "Questa stima sottovaluta il peso delle attività guidate dal consumatore."
+        },
+        {
+          "text": "Due terzi",
+          "isCorrect": true,
+          "rationale": "Il materiale indica chiaramente che i due terzi delle interazioni sono 'consumer-driven', come il passaparola e le recensioni."
+        },
+        {
+          "text": "La metà",
+          "isCorrect": false,
+          "rationale": "Le attività guidate dal consumatore superano la metà delle interazioni totali in questa fase."
+        },
+        {
+          "text": "Il dieci per cento",
+          "isCorrect": false,
+          "rationale": "Il marketing tradizionale (push) ha perso molto terreno rispetto a queste dinamiche."
+        }
+      ],
+      "hint": "È una frazione significativa che evidenzia la perdita di controllo delle aziende."
+    },
+    {
+      "question": "Cosa si consiglia ai marketer per affrontare il nuovo journey?",
+      "answerOptions": [
+        {
+          "text": "Utilizzare un messaggio unico per tutte le fasi del journey.",
+          "isCorrect": false,
+          "rationale": "Le slide suggeriscono di personalizzare il messaggio per affrontare debolezze specifiche in ogni fase."
+        },
+        {
+          "text": "Abbandonare completamente i social media a favore della radio.",
+          "isCorrect": false,
+          "rationale": "I social media sono cruciali per le interazioni C2C menzionate nel testo."
+        },
+        {
+          "text": "Investire in strategie che permettano di interagire con i consumatori mentre imparano a conoscere i brand.",
+          "isCorrect": true,
+          "rationale": "L'investimento nel marketing 'consumer-driven' è una priorità strategica indicata."
+        },
+        {
+          "text": "Ridurre gli investimenti nei touchpoint di post-acquisto.",
+          "isCorrect": false,
+          "rationale": "Il post-acquisto è fondamentale per innescare il loyalty loop."
+        }
+      ],
+      "hint": "Rifletti sull'importanza di supportare il consumatore durante la ricerca."
+    },
+    {
+      "question": "Quale fase del customer journey include il riconoscimento di un bisogno o di un impulso?",
+      "answerOptions": [
+        {
+          "text": "Pre-acquisto (Pre-purchase)",
+          "isCorrect": true,
+          "rationale": "Questa fase copre tutto ciò che accade prima della transazione, dal riconoscimento del bisogno alla ricerca."
+        },
+        {
+          "text": "Acquisto (Purchase)",
+          "isCorrect": false,
+          "rationale": "L'acquisto si focalizza sulla scelta finale, l'ordine e il pagamento."
+        },
+        {
+          "text": "Post-acquisto (Post-purchase)",
+          "isCorrect": false,
+          "rationale": "Questa fase riguarda l'uso del prodotto e i servizi post-vendita."
+        },
+        {
+          "text": "Fase di smaltimento",
+          "isCorrect": false,
+          "rationale": "Questa fase non è esplicitamente elencata come una delle tre macro-fasi principali nel modello proposto."
+        }
+      ],
+      "hint": "È il momento in cui l'utente realizza di volere qualcosa."
+    },
+    {
+      "question": "Cosa caratterizza i 'Brand-owned touch points'?",
+      "answerOptions": [
+        {
+          "text": "Sono gestiti da agenzie di comunicazione esterne senza controllo dell'azienda.",
+          "isCorrect": false,
+          "rationale": "Questi sarebbero partner-owned, mentre i brand-owned sono sotto il controllo diretto della ditta."
+        },
+        {
+          "text": "Sono interazioni progettate e gestite dall'azienda, come siti web e pubblicità.",
+          "isCorrect": true,
+          "rationale": "Includono tutti gli elementi del marketing mix controllati direttamente dal brand."
+        },
+        {
+          "text": "Sono creati esclusivamente dai clienti (es. blog di fan).",
+          "isCorrect": false,
+          "rationale": "Questi rientrano nei customer-owned touchpoints."
+        },
+        {
+          "text": "Si riferiscono alle recensioni su siti terzi come Amazon.",
+          "isCorrect": false,
+          "rationale": "Questi sono solitamente considerati social/external touchpoints."
+        }
+      ],
+      "hint": "Pensa agli strumenti su cui l'azienda ha il comando totale."
+    },
+    {
+      "question": "L'esempio di 'IKEA hacking' citato nelle slide appartiene a quale categoria di touchpoint?",
+      "answerOptions": [
+        {
+          "text": "Partner-owned touch points",
+          "isCorrect": false,
+          "rationale": "IKEA hackers non sono partner commerciali ufficiali dell'azienda."
+        },
+        {
+          "text": "Social/external touch points",
+          "isCorrect": false,
+          "rationale": "Sebbene sociale, l'esempio è usato specificamente per illustrare azioni dirette dei clienti non controllate dal brand."
+        },
+        {
+          "text": "Customer-owned touch points",
+          "isCorrect": true,
+          "rationale": "Si riferisce ad azioni del cliente che l'azienda non influenza o controlla direttamente."
+        },
+        {
+          "text": "Brand-owned touch points",
+          "isCorrect": false,
+          "rationale": "L'azienda non gestisce né incoraggia ufficialmente la modifica non autorizzata dei propri prodotti."
+        }
+      ],
+      "hint": "Rifletti su chi ha la 'proprietà' dell'azione in questo caso specifico."
+    },
+    {
+      "question": "Qual è lo scopo principale della creazione di 'Personas' nella mappatura del journey?",
+      "answerOptions": [
+        {
+          "text": "Calcolare il valore economico medio di un cliente.",
+          "isCorrect": false,
+          "rationale": "Il valore economico è una metrica quantitativa, mentre le personas sono archetipi qualitativi."
+        },
+        {
+          "text": "Incapsulare un intero segmento di pubblico in un archetipo con bisogni e desideri specifici.",
+          "isCorrect": true,
+          "rationale": "Le personas aiutano l'azienda a empatizzare con tipi reali di utenti."
+        },
+        {
+          "text": "Assumere nuovi dipendenti per il reparto marketing.",
+          "isCorrect": false,
+          "rationale": "Le personas riguardano i clienti, non il personale interno."
+        },
+        {
+          "text": "Creare un elenco di tutti i nomi dei clienti nel database.",
+          "isCorrect": false,
+          "rationale": "Le personas sono finzioni rappresentative, non un elenco di dati anagrafici reali."
+        }
+      ],
+      "hint": "Pensa alla rappresentazione idealizzata di un gruppo di utenti."
+    },
+    {
+      "question": "Quali sono i primi due step nel processo di creazione di una customer journey map?",
+      "answerOptions": [
+        {
+          "text": "Analisi e Architettura",
+          "isCorrect": false,
+          "rationale": "Questi avvengono dopo aver definito l'ambito e raccolto i dati."
+        },
+        {
+          "text": "Scoping (Definizione dell'ambito) e Research (Ricerca).",
+          "isCorrect": true,
+          "rationale": "Prima si decide su cosa concentrarsi e poi si raccolgono dati qualitativi e quantitativi."
+        },
+        {
+          "text": "Pubblicazione e Feedback",
+          "isCorrect": false,
+          "rationale": "Queste sono fasi conclusive o di revisione continua."
+        },
+        {
+          "text": "Design grafico e Stampa",
+          "isCorrect": false,
+          "rationale": "La visualizzazione è l'ultimo passaggio (architettura), non il primo."
+        }
+      ],
+      "hint": "Considera le fasi preparatorie di ogni progetto di analisi."
+    },
+    {
+      "question": "Nella fase di 'Insight' della mappatura, cosa si intende per 'layer cognitivo'?",
+      "answerOptions": [
+        {
+          "text": "La velocità di caricamento delle pagine web.",
+          "isCorrect": false,
+          "rationale": "Questo è un dato tecnico, non cognitivo o emotivo."
+        },
+        {
+          "text": "L'analisi di ciò che l'utente sta facendo, pensando e provando in ogni stadio.",
+          "isCorrect": true,
+          "rationale": "Il layer cognitivo serve a forzare l'azienda a empatizzare con l'audience."
+        },
+        {
+          "text": "Il numero di acquisti effettuati in un anno.",
+          "isCorrect": false,
+          "rationale": "Si tratta di un dato comportamentale puro, privo dell'analisi del pensiero sottostante."
+        },
+        {
+          "text": "L'elenco dei dispositivi utilizzati dal cliente.",
+          "isCorrect": false,
+          "rationale": "I dispositivi fanno parte del contesto tecnologico o del touchpoint, non del layer cognitivo."
+        }
+      ],
+      "hint": "Cerca gli elementi legati alla mente e alle emozioni del cliente."
+    },
+    {
+      "question": "Cosa rappresentano i 'Pain points' in una mappa del viaggio del cliente?",
+      "answerOptions": [
+        {
+          "text": "I punti del negozio fisico dove i prodotti sono più costosi.",
+          "isCorrect": false,
+          "rationale": "I pain points non sono legati al prezzo in sé, ma alla difficoltà dell'esperienza."
+        },
+        {
+          "text": "I momenti di gratificazione massima dell'utente.",
+          "isCorrect": false,
+          "rationale": "Questi sarebbero 'delight points' o momenti positivi, l'opposto dei pain points."
+        },
+        {
+          "text": "Ostacoli, frizioni o problemi che impediscono il progresso dell'utente.",
+          "isCorrect": true,
+          "rationale": "Identificare le frizioni è fondamentale per migliorare l'esperienza complessiva."
+        },
+        {
+          "text": "I punti di forza della concorrenza.",
+          "isCorrect": false,
+          "rationale": "Sebbene rilevanti, i pain points si riferiscono all'esperienza specifica del cliente con il brand analizzato."
+        }
+      ],
+      "hint": "Pensa a qualcosa che causa disagio o rallentamento durante il percorso."
+    },
+    {
+      "question": "Nel layer 'Architecture' della mappa, qual è l'obiettivo finale?",
+      "answerOptions": [
+        {
+          "text": "Creare un database di email.",
+          "isCorrect": false,
+          "rationale": "L'architettura riguarda l'organizzazione visiva e logica della mappa, non la raccolta dati."
+        },
+        {
+          "text": "Consolidare tutti gli elementi in una panoramica coesa e logica.",
+          "isCorrect": true,
+          "rationale": "È il momento in cui narrazione, fatti ed emozioni si fondono in un diagramma finale."
+        },
+        {
+          "text": "Eliminare i touchpoint meno costosi.",
+          "isCorrect": false,
+          "rationale": "L'obiettivo è la coerenza e l'ottimizzazione dell'esperienza, non il semplice taglio dei costi."
+        },
+        {
+          "text": "Sviluppare un nuovo logo per l'azienda.",
+          "isCorrect": false,
+          "rationale": "L'architettura della mappa non riguarda il design del brand, ma la struttura del journey."
+        }
+      ],
+      "hint": "Pensa alla fase di sintesi finale del lavoro di mappatura."
+    },
+    {
+      "question": "Nel diagramma di esempio per un'agenzia di viaggi online, qual è l'obiettivo della Persona 'Donna Redding'?",
+      "answerOptions": [
+        {
+          "text": "Trovare un lavoro nel settore turistico.",
+          "isCorrect": false,
+          "rationale": "Il goal indicato nell'esempio è legato al consumo, non alla carriera professionale."
+        },
+        {
+          "text": "Andare in vacanza con la famiglia (Go on a family vacation).",
+          "isCorrect": true,
+          "rationale": "L'esempio mostra chiaramente come le fasi del journey siano modellate su questo obiettivo specifico."
+        },
+        {
+          "text": "Vendere la propria casa in periferia.",
+          "isCorrect": false,
+          "rationale": "La descrizione 'Suburban mom' serve a definire il profilo, non l'obiettivo della vacanza."
+        },
+        {
+          "text": "Recensire negativamente tutti gli hotel visitati.",
+          "isCorrect": false,
+          "rationale": "Sebbene possa farlo nel post-acquisto, il suo obiettivo primario è l'organizzazione del viaggio."
+        }
+      ],
+      "hint": "Guarda all'intestazione del caso studio nell'immagine delle slide."
+    },
+    {
+      "question": "Quale elemento del journey map layer 'Questions' aiuta ad aumentare l'empatia?",
+      "answerOptions": [
+        {
+          "text": "Identificare cosa l'utente si sta chiedendo o su cosa è incerto in ogni fase.",
+          "isCorrect": true,
+          "rationale": "Capire le incertezze permette al brand di fornire risposte rassicuranti nei momenti giusti."
+        },
+        {
+          "text": "Contare il numero di domande poste al servizio clienti.",
+          "isCorrect": false,
+          "rationale": "Questo è un dato quantitativo, utile ma meno profondo dell'analisi delle domande interiori dell'utente."
+        },
+        {
+          "text": "Analizzare i quiz compilati dagli utenti sui social media.",
+          "isCorrect": false,
+          "rationale": "Si tratta di interazioni specifiche, non del layer di incertezza psicologica del journey."
+        },
+        {
+          "text": "Verificare se l'utente ha risposto alle email di marketing.",
+          "isCorrect": false,
+          "rationale": "Questa è una metrica di engagement, non una mappatura dei dubbi dell'utente."
+        }
+      ],
+      "hint": "Pensa alle incertezze che una persona prova prima di decidere."
+    },
+    {
+      "question": "Quali canali sono considerati 'Partner-owned'?",
+      "answerOptions": [
+        {
+          "text": "Sito web ufficiale dell'azienda.",
+          "isCorrect": false,
+          "rationale": "Il sito ufficiale è di proprietà diretta del brand."
+        },
+        {
+          "text": "Agenzie di marketing o partner di distribuzione multi-canale.",
+          "isCorrect": true,
+          "rationale": "Questi touchpoint sono gestiti congiuntamente o tramite terze parti con cui l'azienda ha accordi."
+        },
+        {
+          "text": "Piattaforme di social media non controllate dall'azienda.",
+          "isCorrect": false,
+          "rationale": "Queste ricadono solitamente nella categoria social/external o customer-owned."
+        },
+        {
+          "text": "Passaparola tra amici.",
+          "isCorrect": false,
+          "rationale": "Il passaparola è un touchpoint esterno e sociale, non mediato da partner commerciali."
+        }
+      ],
+      "hint": "Pensa a soggetti esterni che collaborano formalmente con l'azienda."
+    },
+    {
+      "question": "Nella fase di 'Analysis', perché è importante ridurre l'alto numero di touchpoint?",
+      "answerOptions": [
+        {
+          "text": "Per risparmiare sui costi di stampa della mappa.",
+          "isCorrect": false,
+          "rationale": "Il risparmio di costi fisici non è il motivo logico dell'analisi."
+        },
+        {
+          "text": "Per costruire una narrativa coerente che si muova realisticamente da uno step all'altro.",
+          "isCorrect": true,
+          "rationale": "Troppa complessità impedisce di trarre conclusioni strategiche chiare."
+        },
+        {
+          "text": "Perché la maggior parte dei touchpoint è inutile.",
+          "isCorrect": false,
+          "rationale": "Tutti i touchpoint possono essere rilevanti, ma nella mappatura bisogna concentrarsi su quelli critici."
+        },
+        {
+          "text": "Per favorire solo i touchpoint digitali rispetto a quelli fisici.",
+          "isCorrect": false,
+          "rationale": "L'analisi deve essere bilanciata e non pregiudiziale verso un tipo di canale."
+        }
+      ],
+      "hint": "Rifletti sulla necessità di creare una storia comprensibile."
+    },
+    {
+      "question": "Il layer 'Data' in una mappa del viaggio serve a:",
+      "answerOptions": [
+        {
+          "text": "Sostituire completamente l'analisi qualitativa.",
+          "isCorrect": false,
+          "rationale": "I dati quantitativi e qualitativi devono integrarsi, non escludersi."
+        },
+        {
+          "text": "Capire quali informazioni stiamo raccogliendo e come possono supportare il passaggio allo step successivo.",
+          "isCorrect": true,
+          "rationale": "L'uso dei dati serve a ottimizzare le transizioni tra le varie fasi del journey."
+        },
+        {
+          "text": "Vendere i contatti degli utenti a società terze.",
+          "isCorrect": false,
+          "rationale": "Lo scopo della mappatura è il miglioramento dell'esperienza, non la vendita di dati."
+        },
+        {
+          "text": "Ignorare le opinioni dei clienti a favore delle statistiche.",
+          "isCorrect": false,
+          "rationale": "Le opinioni dei clienti sono dati esse stesse, spesso fondamentali (qualitative)."
+        }
+      ],
+      "hint": "Pensa a come le informazioni aiutano a guidare l'utente."
+    },
+    {
+      "question": "Quale affermazione è vera riguardo alla fase di 'Purchase' (Acquisto)?",
+      "answerOptions": [
+        {
+          "text": "È solitamente la fase più lunga di tutto il journey.",
+          "isCorrect": false,
+          "rationale": "Le slide indicano che è tipicamente la fase più breve in termini di durata."
+        },
+        {
+          "text": "Include azioni come scegliere, ordinare e pagare.",
+          "isCorrect": true,
+          "rationale": "Queste sono le azioni transazionali chiave che definiscono lo stadio di acquisto."
+        },
+        {
+          "text": "Non è influenzata dall'ambiente circostante o dall'atmosfera.",
+          "isCorrect": false,
+          "rationale": "Al contrario, molta letteratura si focalizza proprio su come l'ambiente influenzi questa fase."
+        },
+        {
+          "text": "Avviene solo dopo che il ricordo dell'esperienza è svanito.",
+          "isCorrect": false,
+          "rationale": "Questa affermazione è logicamente errata poiché l'acquisto precede il consumo e il ricordo a lungo termine."
+        }
+      ],
+      "hint": "Considera la natura transazionale di questo momento."
+    },
+    {
+      "question": "Che cosa suggerisce di fare l'approccio 'Invest in consumer-driven marketing'?",
+      "answerOptions": [
+        {
+          "text": "Aumentare la pressione pubblicitaria televisiva (push).",
+          "isCorrect": false,
+          "rationale": "L'approccio suggerisce di andare oltre il marketing push tradizionale."
+        },
+        {
+          "text": "Interagire con i consumatori durante i processi di ricerca e apprendimento sul brand.",
+          "isCorrect": true,
+          "rationale": "I consumatori oggi cercano attivamente informazioni e il brand deve essere presente in quei contesti."
+        },
+        {
+          "text": "Cancellare tutti i siti web aziendali.",
+          "isCorrect": false,
+          "rationale": "Il sito web rimane un touchpoint fondamentale, spesso controllato dal brand."
+        },
+        {
+          "text": "Obbligare i clienti a scrivere recensioni positive.",
+          "isCorrect": false,
+          "rationale": "Il consumer-driven marketing si basa sull'ascolto e la partecipazione, non sulla coercizione."
+        }
+      ],
+      "hint": "Rifletti su chi ha l'iniziativa nella ricerca di informazioni."
+    },
+    {
+      "question": "Nel diagramma della pole dance (Tiina's Customer Journey), quale emozione prova Tiina durante la 'ricerca'?",
+      "answerOptions": [
+        {
+          "text": "Sola e annoiata",
+          "isCorrect": false,
+          "rationale": "L'esempio mostra stati d'animo molto più dinamici e legati alla curiosità."
+        },
+        {
+          "text": "Focalizzata, eccitata e ansiosa.",
+          "isCorrect": true,
+          "rationale": "È un tipico mix di emozioni per chi sta esplorando un nuovo hobby o attività impegnativa."
+        },
+        {
+          "text": "Completamente rilassata.",
+          "isCorrect": false,
+          "rationale": "La ricerca di una nuova attività fisica solitamente comporta un certo grado di eccitazione o ansia."
+        },
+        {
+          "text": "Arrabbiata con il brand.",
+          "isCorrect": false,
+          "rationale": "L'esempio non mostra rabbia, ma piuttosto curiosità e incertezza sulle proprie capacità."
+        }
+      ],
+      "hint": "Osserva il grafico delle emozioni nel secondo esempio visivo."
+    },
+    {
+      "question": "Cosa include la fase di 'Post-acquisto'?",
+      "answerOptions": [
+        {
+          "text": "La ricerca di alternative prima di comprare.",
+          "isCorrect": false,
+          "rationale": "Questo avviene nella fase di pre-acquisto o valutazione attiva."
+        },
+        {
+          "text": "L'uso del prodotto, il consumo e le richieste di assistenza.",
+          "isCorrect": true,
+          "rationale": "Tutto ciò che segue la transazione e riguarda l'esperienza diretta con il bene/servizio."
+        },
+        {
+          "text": "Solo il pagamento della fattura.",
+          "isCorrect": false,
+          "rationale": "Il pagamento chiude la fase di acquisto, il post-acquisto va molto oltre."
+        },
+        {
+          "text": "La definizione dei segmenti di mercato.",
+          "isCorrect": false,
+          "rationale": "Questa è un'attività strategica interna, non una fase dell'esperienza utente."
+        }
+      ],
+      "hint": "Pensa a cosa fa l'utente dopo aver portato a casa il prodotto."
+    },
+    {
+      "question": "Perché è utile mappare le 'Aspettative' (Expectations) dell'utente?",
+      "answerOptions": [
+        {
+          "text": "Per assicurarsi che il prodotto costi il più possibile.",
+          "isCorrect": false,
+          "rationale": "Le aspettative non sono necessariamente legate alla massimizzazione del prezzo."
+        },
+        {
+          "text": "Per confrontare ciò che l'utente si aspetta con la percezione reale dell'esperienza.",
+          "isCorrect": true,
+          "rationale": "Il gap tra aspettativa e realtà determina il livello di soddisfazione."
+        },
+        {
+          "text": "Per ignorarle e sorprendere l'utente con qualcosa di totalmente diverso.",
+          "isCorrect": false,
+          "rationale": "Non conoscere le aspettative di base è rischioso per la customer experience."
+        },
+        {
+          "text": "Perché le aspettative non cambiano mai durante il journey.",
+          "isCorrect": false,
+          "rationale": "Le aspettative evolvono a ogni touchpoint e interazione."
+        }
+      ],
+      "hint": "Considera il legame tra ciò che si desidera e la soddisfazione finale."
+    },
+    {
+      "question": "Quale di questi è un 'External influence' citato nei layer della mappa?",
+      "answerOptions": [
+        {
+          "text": "Il server dell'azienda.",
+          "isCorrect": false,
+          "rationale": "Il server è un elemento tecnologico sotto il controllo dell'azienda."
+        },
+        {
+          "text": "Fattori fuori dal controllo aziendale che influenzano l'esperienza dell'utente.",
+          "isCorrect": true,
+          "rationale": "Eventi esterni o influenze di terzi possono alterare il percorso del cliente in modi non prevedibili."
+        },
+        {
+          "text": "Il manuale d'uso del prodotto.",
+          "isCorrect": false,
+          "rationale": "Il manuale è un touchpoint gestito e fornito direttamente dal brand."
+        },
+        {
+          "text": "Il listino prezzi ufficiale.",
+          "isCorrect": false,
+          "rationale": "I prezzi sono una decisione strategica interna del brand (marketing mix)."
+        }
+      ],
+      "hint": "Pensa a qualcosa che l'azienda non può decidere o cambiare direttamente."
+    },
+    {
+      "question": "Secondo le slide, qual è un obiettivo fondamentale dell'analisi del Customer Journey?",
+      "answerOptions": [
+        {
+          "text": "Ridurre il numero totale di clienti per concentrarsi solo sui ricchi.",
+          "isCorrect": false,
+          "rationale": "L'obiettivo è migliorare l'esperienza, non escludere segmenti arbitrariamente."
+        },
+        {
+          "text": "Descrivere il viaggio e comprendere le opzioni e le scelte del cliente nei touchpoint.",
+          "isCorrect": true,
+          "rationale": "L'analisi serve a mappare e capire come l'utente si muove tra le diverse opzioni offerte."
+        },
+        {
+          "text": "Sostituire i venditori umani con robot in tutti i punti di contatto.",
+          "isCorrect": false,
+          "rationale": "L'automazione può essere una soluzione tecnologica, ma non è lo scopo ultimo dell'analisi del journey."
+        },
+        {
+          "text": "Eliminare completamente la fase di ricerca online.",
+          "isCorrect": false,
+          "rationale": "La ricerca online è una realtà consolidata; l'obiettivo è gestirla, non eliminarla."
+        }
+      ],
+      "hint": "Cerca la finalità conoscitiva dell'intero processo."
+    }
+  ]
+}

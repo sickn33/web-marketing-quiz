@@ -1,0 +1,785 @@
+{
+  "title": "Marketing Quiz",
+  "questions": [
+    {
+      "question": "Quale delle seguenti azioni descrive meglio il concetto di \"Trasformazione Digitale\" rispetto alla semplice digitalizzazione?",
+      "answerOptions": [
+        {
+          "text": "Sostituire l'archiviazione cartacea con un database digitale per risparmiare spazio fisico.",
+          "isCorrect": false,
+          "rationale": "Questa azione riguarda la conversione del formato dei documenti, definibile come digitalizzazione di base, senza necessariamente cambiare la strategia."
+        },
+        {
+          "text": "Riprogettare il modello di business aziendale per generare valore attraverso lo streaming invece della vendita fisica.",
+          "isCorrect": true,
+          "rationale": "La trasformazione digitale implica un cambiamento strategico e culturale profondo che ridefinisce il modo in cui l'azienda opera e crea valore."
+        },
+        {
+          "text": "Implementare un sistema di fatturazione elettronica per velocizzare i pagamenti.",
+          "isCorrect": false,
+          "rationale": "Questo è un esempio di digitalizzazione dei processi, che ottimizza un'attività esistente senza cambiare la natura del business."
+        },
+        {
+          "text": "Creare una versione PDF del catalogo prodotti cartaceo dell'azienda.",
+          "isCorrect": false,
+          "rationale": "La conversione di un supporto da fisico a digitale è il livello più elementare di digitalizzazione e non costituisce una trasformazione strategica."
+        }
+      ],
+      "hint": "Pensa a quale opzione implica un cambiamento radicale nel modo in cui l'azienda genera profitto e si relaziona con il mercato."
+    },
+    {
+      "question": "Nel contesto del settore musicale, che tipo di evoluzione rappresenta il passaggio alla vendita di brani su iTunes?",
+      "answerOptions": [
+        {
+          "text": "Digitalizzazione",
+          "isCorrect": false,
+          "rationale": "La semplice digitalizzazione si limita alla conversione del supporto, come trasformare un brano fisico in un file informatico."
+        },
+        {
+          "text": "Digitalizzazione dei processi",
+          "isCorrect": true,
+          "rationale": "Vendere musica online tramite un e-commerce ottimizza il processo di distribuzione e vendita utilizzando tecnologie digitali."
+        },
+        {
+          "text": "Trasformazione Digitale",
+          "isCorrect": false,
+          "rationale": "La trasformazione digitale completa è meglio rappresentata dal passaggio al modello a sottoscrizione (streaming), non dalla singola vendita online."
+        },
+        {
+          "text": "Digitalizzazione strutturale",
+          "isCorrect": false,
+          "rationale": "Questo termine non è tra le categorie principali definite nei materiali per descrivere i livelli di evoluzione aziendale."
+        }
+      ],
+      "hint": "Considera se vendere un prodotto digitale online cambia il modello di business o se ottimizza semplicemente la distribuzione."
+    },
+    {
+      "question": "Perché la USP (Unique Selling Proposition) strutturale è considerata superiore alla USP comunicativa?",
+      "answerOptions": [
+        {
+          "text": "Perché è più facile da spiegare in una campagna pubblicitaria veloce.",
+          "isCorrect": false,
+          "rationale": "La facilità di comunicazione riguarda solitamente la USP comunicativa, che però rischia di essere vuota o facilmente imitabile."
+        },
+        {
+          "text": "Perché si basa su un'asimmetria reale e percepita che i concorrenti non possono copiare facilmente.",
+          "isCorrect": true,
+          "rationale": "La USP strutturale genera un vantaggio competitivo concreto basato sulla struttura stessa dell'offerta o dell'azienda."
+        },
+        {
+          "text": "Perché permette di utilizzare slogan più accattivanti e moderni.",
+          "isCorrect": false,
+          "rationale": "Gli slogan appartengono alla sfera della dichiarazione d'intenti, non necessariamente alla sostanza strutturale del valore offerto."
+        },
+        {
+          "text": "Perché è nata prima storicamente, durante gli anni '60.",
+          "isCorrect": false,
+          "rationale": "L'origine storica nel 1961 non determina la superiorità qualitativa rispetto alle esigenze del mercato digitale attuale."
+        }
+      ],
+      "hint": "Rifletti sulla differenza tra ciò che un'azienda dice di essere e ciò che effettivamente la rende diversa a livello di fondamenta."
+    },
+    {
+      "question": "Secondo i dati Feedvisor del 2022, quale fattore rende la USP di Amazon particolarmente forte per l'87% degli acquirenti?",
+      "answerOptions": [
+        {
+          "text": "La capacità di offrire prezzi sempre più bassi rispetto a qualsiasi altro sito.",
+          "isCorrect": false,
+          "rationale": "Sebbene il prezzo sia importante, la statistica citata si riferisce alla preferenza di acquisto basata sulla fiducia e sull'ecosistema complessivo."
+        },
+        {
+          "text": "La probabilità maggiore che gli utenti scelgano Amazon rispetto ad altri siti di e-commerce.",
+          "isCorrect": true,
+          "rationale": "L'87% dei consumatori concorda nell'essere più propenso ad acquistare da Amazon rispetto ad altri marketplace, indicando una USP strutturale consolidata."
+        },
+        {
+          "text": "La qualità superiore dei prodotti a marchio Amazon rispetto ai brand tradizionali.",
+          "isCorrect": false,
+          "rationale": "Il materiale non suggerisce che la USP di Amazon risieda nella qualità intrinseca della produzione, ma piuttosto nell'esperienza di acquisto."
+        },
+        {
+          "text": "L'assenza totale di pubblicità all'interno della piattaforma.",
+          "isCorrect": false,
+          "rationale": "Amazon utilizza ampiamente sponsorizzazioni, quindi questo non può costituire il suo elemento distintivo di successo."
+        }
+      ],
+      "hint": "Cerca l'opzione che riflette direttamente la statistica sulla preferenza di acquisto citata nel grafico."
+    },
+    {
+      "question": "Cosa accade durante la fase di 'Indexing' nel funzionamento di un motore di ricerca?",
+      "answerOptions": [
+        {
+          "text": "I bot scansionano il codice HTML di ogni URL trovato sul web.",
+          "isCorrect": false,
+          "rationale": "La scansione del codice è la fase di Crawling, che precede l'organizzazione delle informazioni."
+        },
+        {
+          "text": "Il motore di ricerca archivia e organizza i contenuti trovati per renderli pronti alla ricerca.",
+          "isCorrect": true,
+          "rationale": "L'indicizzazione consiste nel catalogare le pagine nel database del motore di ricerca, rendendole idonee a competere per le query."
+        },
+        {
+          "text": "Il motore decide quale pagina mostrare per prima in base alla pertinenza della query.",
+          "isCorrect": false,
+          "rationale": "La decisione sulla posizione finale nella lista dei risultati è la fase di Ranking, non quella di archiviazione."
+        },
+        {
+          "text": "Vengono eliminati tutti i siti che non rispondono correttamente alla domanda dell'utente.",
+          "isCorrect": false,
+          "rationale": "L'indicizzazione non elimina i siti, ma li cataloga per valutare successivamente la loro pertinenza."
+        }
+      ],
+      "hint": "Pensa alla fase in cui i dati raccolti vengono ordinati in un immenso catalogo virtuale."
+    },
+    {
+      "question": "Qual è lo scopo principale del Ranking nella SEO?",
+      "answerOptions": [
+        {
+          "text": "Trovare nuovi indirizzi URL attraverso i link esistenti.",
+          "isCorrect": false,
+          "rationale": "Questo è il compito del processo di crawling, che serve a scoprire nuove pagine."
+        },
+        {
+          "text": "Posizionare ai vertici della SERP le pagine che rispondono meglio alle query degli utenti.",
+          "isCorrect": true,
+          "rationale": "Il ranking è il processo di ordinamento dei risultati per fornire all'utente la risposta più rilevante nelle prime posizioni."
+        },
+        {
+          "text": "Convertire il contenuto del sito in un formato leggibile dai bot di Google.",
+          "isCorrect": false,
+          "rationale": "La leggibilità per i bot riguarda la struttura tecnica del sito e la fase di scansione iniziale."
+        },
+        {
+          "text": "Analizzare il budget pubblicitario speso per apparire nei risultati organici.",
+          "isCorrect": false,
+          "rationale": "La SEO riguarda i risultati organici (non a pagamento), quindi il budget pubblicitario non determina il ranking organico."
+        }
+      ],
+      "hint": "Considera l'obiettivo finale di Google quando deve decidere quale risultato mostrare per primo."
+    },
+    {
+      "question": "Perché comprendere la 'Search Intent' è vitale per una strategia SEO efficace?",
+      "answerOptions": [
+        {
+          "text": "Perché permette di aumentare il numero di bot che scansionano il sito ogni giorno.",
+          "isCorrect": false,
+          "rationale": "Il numero di scansioni dipende da fattori tecnici e di autorità, non direttamente dall'intento di ricerca degli utenti."
+        },
+        {
+          "text": "Perché aiuta a creare contenuti che soddisfino il motivo reale per cui l'utente ha cercato una determinata parola.",
+          "isCorrect": true,
+          "rationale": "La search intent identifica il bisogno specifico dell'utente, permettendo di allineare il contenuto alla sua esigenza."
+        },
+        {
+          "text": "Perché riduce i costi del digital advertising sui motori di ricerca.",
+          "isCorrect": false,
+          "rationale": "Sebbene utile, la search intent è un concetto fondamentale della SEO (organica) prima ancora che della gestione dei costi pubblicitari."
+        },
+        {
+          "text": "Perché garantisce l'indicizzazione immediata di qualsiasi nuova pagina pubblicata.",
+          "isCorrect": false,
+          "rationale": "L'indicizzazione è un processo tecnico di catalogazione che avviene indipendentemente dalla qualità dell'intento di ricerca."
+        }
+      ],
+      "hint": "Rifletti su cosa cerca di ottenere l'utente quando digita qualcosa su Google: un'informazione, un acquisto o un sito specifico?"
+    },
+    {
+      "question": "Quale vantaggio distingue principalmente il Digital Advertising dalla pubblicità tradizionale?",
+      "answerOptions": [
+        {
+          "text": "La possibilità di raggiungere un pubblico di massa senza distinzioni.",
+          "isCorrect": false,
+          "rationale": "Il raggiungimento del pubblico di massa è tipico dell'advertising tradizionale; il digitale punta invece sulla precisione."
+        },
+        {
+          "text": "La flessibilità nel modificare le campagne in tempo reale e la precisione nel targeting.",
+          "isCorrect": true,
+          "rationale": "Il digital advertising eccelle per rapidità, modificabilità e capacità di scalare il budget basandosi sui dati."
+        },
+        {
+          "text": "L'assoluta gratuità delle piattaforme social per le aziende.",
+          "isCorrect": false,
+          "rationale": "Il digital advertising si riferisce specificamente ad attività promozionali mediante sponsorizzazioni a pagamento."
+        },
+        {
+          "text": "La garanzia che ogni consumatore vedrà il messaggio almeno una volta.",
+          "isCorrect": false,
+          "rationale": "Nessuna forma di pubblicità garantisce la visione certa, ma il digitale permette di misurare chi ha effettivamente visto il messaggio."
+        }
+      ],
+      "hint": "Pensa a cosa può fare un marketer online che un inserzionista televisivo o su carta stampata non può fare una volta lanciata la campagna."
+    },
+    {
+      "question": "In che modo i dati di qualità influenzano l'efficacia degli algoritmi di Intelligenza Artificiale?",
+      "answerOptions": [
+        {
+          "text": "Aumentano automaticamente la velocità del processore del computer.",
+          "isCorrect": false,
+          "rationale": "La velocità del processore fa parte della potenza computazionale, che è una risorsa hardware indipendente dalla qualità dei dati."
+        },
+        {
+          "text": "Sono necessari per addestrare algoritmi capaci di fornire risultati accurati ed efficaci.",
+          "isCorrect": true,
+          "rationale": "Esiste un rapporto interdipendente in cui dati di alta qualità sono il carburante fondamentale per l'apprendimento dell'algoritmo."
+        },
+        {
+          "text": "Sostituiscono completamente la necessità di avere algoritmi complessi.",
+          "isCorrect": false,
+          "rationale": "I dati e gli algoritmi lavorano insieme; anche con ottimi dati serve un algoritmo avanzato per estrarre valore."
+        },
+        {
+          "text": "Riducono la necessità di potenza computazionale per eseguire i calcoli.",
+          "isCorrect": false,
+          "rationale": "Spesso dati più grandi e complessi richiedono maggiore potenza computazionale, non minore."
+        }
+      ],
+      "hint": "Pensa al concetto di 'addestramento' (training) di un modello di intelligenza artificiale."
+    },
+    {
+      "question": "Quale di queste affermazioni descrive correttamente la relazione gerarchica tra AI e Deep Learning?",
+      "answerOptions": [
+        {
+          "text": "Il Deep Learning è una categoria generale che include l'Intelligenza Artificiale.",
+          "isCorrect": false,
+          "rationale": "È l'opposto: l'Intelligenza Artificiale è l'ombrello più ampio che racchiude tutte le altre sottocategorie."
+        },
+        {
+          "text": "Il Deep Learning è una tecnica specifica all'interno del Machine Learning, che a sua volta è un campo dell'AI.",
+          "isCorrect": true,
+          "rationale": "Il Deep Learning utilizza reti neurali profonde ed è un sottocampo specializzato dell'apprendimento automatico."
+        },
+        {
+          "text": "AI e Deep Learning sono sinonimi e possono essere usati indifferentemente.",
+          "isCorrect": false,
+          "rationale": "Sebbene correlati, l'AI comprende molte tecniche (come quelle basate su regole) che non sono Deep Learning."
+        },
+        {
+          "text": "Il Machine Learning non ha alcuna relazione con il Deep Learning.",
+          "isCorrect": false,
+          "rationale": "Il Deep Learning è l'evoluzione più complessa e specifica proprio del Machine Learning."
+        }
+      ],
+      "hint": "Immagina una serie di scatole cinesi o cerchi concentrici, partendo dal concetto più universale a quello più tecnico."
+    },
+    {
+      "question": "Cosa caratterizza principalmente l'IA Generativa rispetto ai modelli di Machine Learning 'discriminativi'?",
+      "answerOptions": [
+        {
+          "text": "La capacità di classificare i dati esistenti in categorie predefinite.",
+          "isCorrect": false,
+          "rationale": "La classificazione e l'etichettatura sono compiti tipici dei modelli discriminativi, non di quelli generativi."
+        },
+        {
+          "text": "La focalizzazione sulla creazione di nuovi dati che siano coerenti con quelli di addestramento.",
+          "isCorrect": true,
+          "rationale": "L'IA generativa cerca di produrre nuovi output (testo, immagini, ecc.) simili a quelli utilizzati per il suo addestramento."
+        },
+        {
+          "text": "L'utilizzo esclusivo di regole logiche scritte manualmente dall'uomo.",
+          "isCorrect": false,
+          "rationale": "L'IA generativa si basa sull'apprendimento dai dati (Machine Learning), non solo su regole manuali statiche."
+        },
+        {
+          "text": "La capacità di funzionare senza alcun bisogno di set di dati preesistenti.",
+          "isCorrect": false,
+          "rationale": "Qualsiasi modello generativo richiede un set di dati esistente da cui imparare la struttura e la coerenza."
+        }
+      ],
+      "hint": "Pensa alla differenza tra decidere se una foto contiene un gatto (discriminare) e creare l'immagine di un gatto mai esistito (generare)."
+    },
+    {
+      "question": "In che modo Netflix sfrutta gli algoritmi di Machine Learning citati nelle lezioni?",
+      "answerOptions": [
+        {
+          "text": "Per trasmettere i film con una risoluzione video superiore a quella tradizionale.",
+          "isCorrect": false,
+          "rationale": "La risoluzione è un fattore tecnico di banda e compressione, non la funzione principale del ML descritta."
+        },
+        {
+          "text": "Per analizzare il tempo di visione e creare raccomandazioni personalizzate per l'utente.",
+          "isCorrect": true,
+          "rationale": "Netflix utilizza il ML per prevedere i gusti degli utenti basandosi sui comportamenti passati e personalizzare l'interfaccia."
+        },
+        {
+          "text": "Per eliminare automaticamente i film che non ricevono abbastanza visualizzazioni.",
+          "isCorrect": false,
+          "rationale": "Il ML serve a consigliare contenuti, non necessariamente a decidere la rimozione automatica dal catalogo senza intervento umano."
+        },
+        {
+          "text": "Per generare nuovi sceneggiatori artificiali che scrivano le trame delle serie TV.",
+          "isCorrect": false,
+          "rationale": "Sebbene esistano IA generative, l'esempio specifico si focalizza sulla personalizzazione della 'home' e dell'esperienza utente."
+        }
+      ],
+      "hint": "Rifletti su cosa accade alla tua pagina iniziale di Netflix quando guardi molti contenuti di un certo genere."
+    },
+    {
+      "question": "La USP di Rosser Reeves (1961) è stata formulata in un contesto caratterizzato da:",
+      "answerOptions": [
+        {
+          "text": "Eccesso di informazioni e mercati saturi di messaggi digitali.",
+          "isCorrect": false,
+          "rationale": "Questo è il contesto attuale, non quello degli anni '60, dove la sfida è catturare l'attenzione in mezzo al rumore."
+        },
+        {
+          "text": "Scarsità informativa, dove pochi messaggi chiari potevano dominare il mercato.",
+          "isCorrect": true,
+          "rationale": "Nel 1961 c'erano meno canali media e meno concorrenza informativa, rendendo la USP originale molto potente."
+        },
+        {
+          "text": "Un consumatore iper-informato che confronta costantemente le alternative online.",
+          "isCorrect": false,
+          "rationale": "Il confronto costante online è una dinamica moderna figlia della digitalizzazione, assente negli anni '60."
+        },
+        {
+          "text": "L'assenza totale di concorrenza tra le aziende produttrici.",
+          "isCorrect": false,
+          "rationale": "La concorrenza esisteva, ma i mezzi per comunicare la differenziazione erano limitati rispetto ad oggi."
+        }
+      ],
+      "hint": "Confronta la quantità di pubblicità a cui è esposto un consumatore oggi rispetto a chi viveva prima dell'era di Internet."
+    },
+    {
+      "question": "Quale elemento è fondamentale per far sì che una USP funzioni nell'era digitale?",
+      "answerOptions": [
+        {
+          "text": "Essere supportata da una prova sociale (social proof) e differenziarsi realmente.",
+          "isCorrect": true,
+          "rationale": "In un mercato saturo, la chiarezza deve essere accompagnata da evidenze concrete e distinzione reale dai competitor."
+        },
+        {
+          "text": "Utilizzare il maggior numero possibile di parole chiave SEO all'interno dello slogan.",
+          "isCorrect": false,
+          "rationale": "Sebbene l'ottimizzazione SEO sia citata, una USP basata solo su parole chiave non comunica un valore unico al cliente."
+        },
+        {
+          "text": "Essere il più lunga e dettagliata possibile per spiegare ogni funzione del prodotto.",
+          "isCorrect": false,
+          "rationale": "La USP richiede chiarezza e sintesi, non eccessiva lunghezza che rischierebbe di disperdere l'attenzione."
+        },
+        {
+          "text": "Ignorare totalmente i concorrenti e concentrarsi solo sui propri pregi.",
+          "isCorrect": false,
+          "rationale": "La USP esiste sempre in relazione alla concorrenza e alle alternative specifiche disponibili per l'utente."
+        }
+      ],
+      "hint": "Pensa a cosa cercano i consumatori oggi per fidarsi di una promessa aziendale in un mare di messaggi pubblicitari."
+    },
+    {
+      "question": "L'automazione della gestione clienti tramite un CRM è un esempio di:",
+      "answerOptions": [
+        {
+          "text": "Digitalizzazione di base",
+          "isCorrect": false,
+          "rationale": "Convertire dati cartacei in digitali è il primo passo, ma l'automazione del processo va oltre."
+        },
+        {
+          "text": "Digitalizzazione dei processi",
+          "isCorrect": true,
+          "rationale": "Usare strumenti digitali per ottimizzare e automatizzare una funzione aziendale esistente (la gestione clienti) rientra in questa categoria."
+        },
+        {
+          "text": "Trasformazione Culturale",
+          "isCorrect": false,
+          "rationale": "L'adozione di un software è un passo tecnico; la trasformazione culturale coinvolge una ridefinizione completa del valore."
+        },
+        {
+          "text": "Digital Advertising",
+          "isCorrect": false,
+          "rationale": "Il CRM è uno strumento di gestione interna dei dati cliente, non un'attività di sponsorizzazione a pagamento."
+        }
+      ],
+      "hint": "Si tratta di rendere più efficiente un'attività che l'azienda già svolgeva, usando la tecnologia."
+    },
+    {
+      "question": "In una strategia di Digital Advertising, cosa si intende per 'Scalabilità'?",
+      "answerOptions": [
+        {
+          "text": "La capacità di scalare le vette dei risultati organici di Google.",
+          "isCorrect": false,
+          "rationale": "Questa è una metafora legata alla SEO, mentre la scalabilità nell'advertising riguarda la gestione delle risorse economiche."
+        },
+        {
+          "text": "La possibilità di aumentare o diminuire il budget pubblicitario in base ai risultati ottenuti.",
+          "isCorrect": true,
+          "rationale": "La flessibilità del budget permette alle aziende di adattare l'investimento istantaneamente, cosa difficile con i media tradizionali."
+        },
+        {
+          "text": "Il numero di pixel di cui è composta un'immagine pubblicitaria sui social.",
+          "isCorrect": false,
+          "rationale": "Questo termine tecnico riguarda la risoluzione grafica, non la strategia di marketing."
+        },
+        {
+          "text": "La velocità con cui i bot indicizzano un nuovo annuncio a pagamento.",
+          "isCorrect": false,
+          "rationale": "Gli annunci a pagamento non seguono lo stesso processo di indicizzazione organica della SEO."
+        }
+      ],
+      "hint": "Pensa alla gestione del portafoglio e di quanto investi se vedi che una pubblicità sta funzionando molto bene."
+    },
+    {
+      "question": "Secondo le lezioni, la USP non esiste 'nel vuoto'. Quale di queste è una variabile critica per definirla?",
+      "answerOptions": [
+        {
+          "text": "Il numero di dipendenti dell'azienda.",
+          "isCorrect": false,
+          "rationale": "La dimensione del personale è un dato interno che non definisce necessariamente l'unicità percepita dal mercato."
+        },
+        {
+          "text": "Il contesto d'acquisto attivo in quel momento per il cliente.",
+          "isCorrect": true,
+          "rationale": "La USP deve rispondere al 'perché sceglierti adesso', rendendo il contesto una variabile fondamentale."
+        },
+        {
+          "text": "Il colore principale del logo aziendale.",
+          "isCorrect": false,
+          "rationale": "L'estetica del brand è importante per il riconoscimento, ma non costituisce la promessa di beneficio unico della USP."
+        },
+        {
+          "text": "La data di fondazione della società.",
+          "isCorrect": false,
+          "rationale": "L'anzianità può essere un punto di forza, ma la USP si concentra sul valore attuale rispetto ai competitor."
+        }
+      ],
+      "hint": "La USP è una promessa specifica che deve essere rilevante per qualcuno in un momento preciso."
+    },
+    {
+      "question": "Qual è il rapporto tra algoritmi avanzati e potenza computazionale?",
+      "answerOptions": [
+        {
+          "text": "Algoritmi avanzati richiedono una potenza computazionale significativa per essere eseguiti.",
+          "isCorrect": true,
+          "rationale": "Modelli complessi necessitano di hardware potente per processare i calcoli necessari all'apprendimento e all'esecuzione."
+        },
+        {
+          "text": "Maggiore è la potenza computazionale, meno importante diventa la qualità dell'algoritmo.",
+          "isCorrect": false,
+          "rationale": "Anche con molta potenza, un algoritmo inefficiente o povero produrrà risultati di scarsa qualità."
+        },
+        {
+          "text": "Gli algoritmi moderni sono progettati per azzerare il consumo di risorse hardware.",
+          "isCorrect": false,
+          "rationale": "Al contrario, l'evoluzione dell'IA sta portando a una richiesta di risorse computazionali sempre più elevata."
+        },
+        {
+          "text": "Non esiste alcun legame tra la complessità del software e l'hardware sottostante.",
+          "isCorrect": false,
+          "rationale": "Software (algoritmo) e hardware (potenza) sono interdipendenti nel determinare le capacità di un sistema IA."
+        }
+      ],
+      "hint": "Pensa a cosa serve per far girare un programma molto complesso che deve analizzare miliardi di dati."
+    },
+    {
+      "question": "Quale termine descrive i software di Google che 'scansionano' il web alla ricerca di nuovi contenuti?",
+      "answerOptions": [
+        {
+          "text": "Indexers",
+          "isCorrect": false,
+          "rationale": "L'indicizzatore interviene dopo la scansione per organizzare i dati nel database."
+        },
+        {
+          "text": "Spiders o Bot",
+          "isCorrect": true,
+          "rationale": "Questi sono i termini tecnici usati per descrivere i programmi automatici che navigano tra i link per trovare pagine."
+        },
+        {
+          "text": "Rankers",
+          "isCorrect": false,
+          "rationale": "Il ranking è l'algoritmo di valutazione finale, non il software di esplorazione iniziale."
+        },
+        {
+          "text": "ADVs",
+          "isCorrect": false,
+          "rationale": "Questo acronimo si riferisce alle pubblicità (advertisements) e non agli strumenti di scansione SEO."
+        }
+      ],
+      "hint": "Usa un'analogia legata al mondo degli insetti che tessono reti tra i siti web."
+    },
+    {
+      "question": "Nell'esempio della digitalizzazione musicale, trasformare un CD in un file MP3 è classificato come:",
+      "answerOptions": [
+        {
+          "text": "Digitalizzazione",
+          "isCorrect": true,
+          "rationale": "Si tratta del passaggio puramente tecnico di un'informazione da un formato analogico/fisico a uno digitale."
+        },
+        {
+          "text": "Digitalizzazione dei processi",
+          "isCorrect": false,
+          "rationale": "Il processo (ascoltare musica) rimane simile; è solo il supporto a cambiare in questa fase."
+        },
+        {
+          "text": "Trasformazione Digitale",
+          "isCorrect": false,
+          "rationale": "Non c'è un cambiamento di business strategy o di cultura aziendale nel solo atto di creare un file MP3."
+        },
+        {
+          "text": "Digital Advertising",
+          "isCorrect": false,
+          "rationale": "Questa azione riguarda la gestione del dato, non la sua promozione a pagamento."
+        }
+      ],
+      "hint": "È il livello più basso dell'evoluzione digitale, focalizzato sulla conversione del documento."
+    },
+    {
+      "question": "Perché si dice che oggi il digital advertising sia utile per 'costruire relazioni'?",
+      "answerOptions": [
+        {
+          "text": "Perché impedisce ai consumatori di guardare i prodotti della concorrenza.",
+          "isCorrect": false,
+          "rationale": "Nessuna pubblicità può impedire fisicamente il confronto, specialmente in mercati digitali aperti."
+        },
+        {
+          "text": "Perché permette un'interazione continua e un'integrazione nelle strategie di marketing per seguire i cambiamenti nei comportamenti dei consumatori.",
+          "isCorrect": true,
+          "rationale": "A differenza della TV, il digitale consente un dialogo e un adattamento costante alle esigenze del cliente."
+        },
+        {
+          "text": "Perché costa talmente tanto che solo le aziende amiche tra loro possono permetterselo.",
+          "isCorrect": false,
+          "rationale": "Il digital advertising è scalabile e spesso più accessibile dei media tradizionali, favorendo la competitività."
+        },
+        {
+          "text": "Perché sostituisce completamente il servizio clienti umano.",
+          "isCorrect": false,
+          "rationale": "L'advertising è una funzione promozionale; può supportare ma non sostituisce la gestione complessiva del cliente."
+        }
+      ],
+      "hint": "Pensa a come la pubblicità online possa adattarsi a ciò che fai e mostrati messaggi rilevanti nel tempo."
+    },
+    {
+      "question": "La definizione di 'Digitalizzazione dei processi' include:",
+      "answerOptions": [
+        {
+          "text": "Usare un e-commerce invece di un negozio fisico.",
+          "isCorrect": true,
+          "rationale": "Spostare la vendita sul digitale ottimizza il processo di distribuzione e gestione dell'attività commerciale."
+        },
+        {
+          "text": "Convertire fatture cartacee in PDF.",
+          "isCorrect": false,
+          "rationale": "Questa è la digitalizzazione dell'informazione, non necessariamente del processo di business sottostante."
+        },
+        {
+          "text": "Vendere l'azienda a una multinazionale tecnologica.",
+          "isCorrect": false,
+          "rationale": "Questa è un'operazione finanziaria che non riguarda l'automazione dei processi tramite il digitale."
+        },
+        {
+          "text": "Eliminare tutti i computer dall'ufficio.",
+          "isCorrect": false,
+          "rationale": "Questa sarebbe una regressione tecnologica, l'esatto opposto della digitalizzazione."
+        }
+      ],
+      "hint": "Cerca l'opzione che parla di ottimizzare il modo in cui l'azienda lavora utilizzando il digitale."
+    },
+    {
+      "question": "Cosa determina se una pagina viene visualizzata nei risultati di ricerca per una specifica 'query'?",
+      "answerOptions": [
+        {
+          "text": "Il fatto che il proprietario del sito abbia pagato Google per ogni click ricevuto.",
+          "isCorrect": false,
+          "rationale": "Questo avviene nel digital advertising (SEM/SEA), non nei risultati organici descritti nel processo SEO."
+        },
+        {
+          "text": "La capacità della pagina di rispondere con successo alla domanda dell'utente.",
+          "isCorrect": true,
+          "rationale": "Il motore di ricerca valuta la pertinenza del contenuto rispetto all'intenzione di ricerca del navigatore."
+        },
+        {
+          "text": "Il numero totale di immagini presenti nella pagina.",
+          "isCorrect": false,
+          "rationale": "Le immagini sono solo una parte del contenuto; la pertinenza complessiva è il fattore determinante."
+        },
+        {
+          "text": "L'ordine alfabetico del nome del dominio.",
+          "isCorrect": false,
+          "rationale": "Google non utilizza l'ordine alfabetico per classificare i contenuti, ma algoritmi di pertinenza e autorità."
+        }
+      ],
+      "hint": "Pensa al valore che l'utente ottiene leggendo quella pagina specifica dopo la sua ricerca."
+    },
+    {
+      "question": "Secondo le slide sulla USP, cosa risponde alla domanda: 'perché dovrei sceglierti adesso'?",
+      "answerOptions": [
+        {
+          "text": "La Unique Selling Proposition (USP)",
+          "isCorrect": true,
+          "rationale": "La USP deve evidenziare un beneficio unico che risolva un problema meglio della concorrenza in quel momento."
+        },
+        {
+          "text": "Il budget del Digital Advertising",
+          "isCorrect": false,
+          "rationale": "Il budget permette di mostrare il messaggio, ma non fornisce di per sé la motivazione della scelta."
+        },
+        {
+          "text": "La velocità di Crawling del sito",
+          "isCorrect": false,
+          "rationale": "La scansione tecnica è invisibile all'utente e non influisce sulla sua decisione d'acquisto conscia."
+        },
+        {
+          "text": "Il logo dell'Università LUMSA",
+          "isCorrect": false,
+          "rationale": "Sebbene presente nei materiali, il logo rappresenta l'ente erogatore, non la teoria della scelta del consumatore."
+        }
+      ],
+      "hint": "Si tratta dell'elemento distintivo che rende un prodotto unico e superiore alle alternative."
+    },
+    {
+      "question": "Qual è la differenza tra Machine Learning e Intelligenza Artificiale?",
+      "answerOptions": [
+        {
+          "text": "L'AI è il concetto generale di macchine intelligenti, il Machine Learning è un suo sottocampo per imparare dai dati.",
+          "isCorrect": true,
+          "rationale": "L'AI è l'obiettivo finale ampio, mentre il ML è una delle metodologie principali per raggiungerlo tramite i dati."
+        },
+        {
+          "text": "L'AI è più moderna e complessa del Machine Learning.",
+          "isCorrect": false,
+          "rationale": "In realtà, l'AI come concetto è molto antico; il Machine Learning è la sua evoluzione applicativa più rilevante degli ultimi decenni."
+        },
+        {
+          "text": "Il Machine Learning non richiede l'uso di computer.",
+          "isCorrect": false,
+          "rationale": "L'apprendimento automatico è intrinsecamente legato alla potenza di calcolo informatica."
+        },
+        {
+          "text": "Non esiste alcuna differenza, sono due nomi diversi per la stessa identica cosa.",
+          "isCorrect": false,
+          "rationale": "L'AI include anche sistemi basati su logica simbolica che non necessariamente 'imparano' dai dati come il ML."
+        }
+      ],
+      "hint": "Pensa a quale dei due termini rappresenta l'intero settore e quale una tecnica specifica."
+    },
+    {
+      "question": "Cosa si intende per 'Digitalizzazione' in senso stretto nei materiali forniti?",
+      "answerOptions": [
+        {
+          "text": "Convertire documenti e informazioni in formato digitale.",
+          "isCorrect": true,
+          "rationale": "La definizione base si concentra sulla trasformazione del formato (es. da cartaceo a elettronico)."
+        },
+        {
+          "text": "Assumere esperti di social media marketing.",
+          "isCorrect": false,
+          "rationale": "Questo riguarda la gestione del personale o delle competenze, non la digitalizzazione dell'informazione."
+        },
+        {
+          "text": "Cambiare il modello di business per vendere solo online.",
+          "isCorrect": false,
+          "rationale": "Questo livello di cambiamento appartiene alla trasformazione digitale, non alla digitalizzazione elementare."
+        },
+        {
+          "text": "Acquistare nuovi computer per tutti i dipendenti.",
+          "isCorrect": false,
+          "rationale": "L'acquisto di hardware è un prerequisito tecnologico, ma non definisce l'atto di digitalizzare le informazioni."
+        }
+      ],
+      "hint": "Pensa all'azione di passare da una fattura di carta a una fattura elettronica."
+    },
+    {
+      "question": "Qual è il ruolo dei 'bot' nel processo SEO?",
+      "answerOptions": [
+        {
+          "text": "Scansionano il web esaminando codice e contenuti degli URL.",
+          "isCorrect": true,
+          "rationale": "Durante la fase di Crawling, i bot (o spider) esplorano la rete per identificare e leggere le pagine."
+        },
+        {
+          "text": "Scrivono automaticamente nuovi articoli per il blog aziendale.",
+          "isCorrect": false,
+          "rationale": "Sebbene esistano IA che scrivono testi, i bot SEO citati hanno il compito di leggere e catalogare, non di creare."
+        },
+        {
+          "text": "Decidono quanto deve pagare un'azienda per ogni parola chiave.",
+          "isCorrect": false,
+          "rationale": "Il costo delle keyword è gestito dalle piattaforme di ADV (come Google Ads) e non dai bot di scansione organica."
+        },
+        {
+          "text": "Proteggono il sito web dagli attacchi degli hacker.",
+          "isCorrect": false,
+          "rationale": "La sicurezza informatica è un campo diverso; i bot SEO si occupano della reperibilità dei contenuti."
+        }
+      ],
+      "hint": "Pensa a dei piccoli esploratori digitali che viaggiano di link in link."
+    },
+    {
+      "question": "Perché un mercato 'saturo' rende la USP più difficile da definire oggi rispetto al 1961?",
+      "answerOptions": [
+        {
+          "text": "Perché i consumatori oggi hanno meno soldi da spendere.",
+          "isCorrect": false,
+          "rationale": "Il problema non è economico, ma legato all'eccesso di offerta e alla scarsità di attenzione."
+        },
+        {
+          "text": "Perché c'è un eccesso di messaggi pubblicitari e poca attenzione da parte degli utenti.",
+          "isCorrect": true,
+          "rationale": "Nel digitale, i consumatori sono iper-informati e bombardati da messaggi, rendendo difficile far emergere un'unica promessa."
+        },
+        {
+          "text": "Perché la tecnologia per creare pubblicità è diventata troppo costosa.",
+          "isCorrect": false,
+          "rationale": "Al contrario, la tecnologia digitale ha democratizzato la creazione di contenuti pubblicitari."
+        },
+        {
+          "text": "Perché Google impedisce alle aziende di mostrare la propria USP.",
+          "isCorrect": false,
+          "rationale": "Google premia la rilevanza; è la competizione tra aziende a rendere difficile distinguersi, non una censura del motore di ricerca."
+        }
+      ],
+      "hint": "Pensa alla quantità di notifiche e pubblicità che ricevi ogni giorno sul tuo smartphone."
+    },
+    {
+      "question": "Quale di queste combinazioni alimenta il ciclo dell'Intelligenza Artificiale?",
+      "answerOptions": [
+        {
+          "text": "Dati, Algoritmi e Potenza Computazionale.",
+          "isCorrect": true,
+          "rationale": "Questi tre elementi sono ciclici e interdipendenti: i dati istruiscono, l'algoritmo elabora, la potenza esegue."
+        },
+        {
+          "text": "Hardware, Software e Connessione Internet.",
+          "isCorrect": false,
+          "rationale": "Sebbene importanti per il web, non rappresentano la triade specifica che definisce l'apprendimento dell'IA nei materiali."
+        },
+        {
+          "text": "Social Media, SEO e Email Marketing.",
+          "isCorrect": false,
+          "rationale": "Questi sono canali di marketing digitale, non i componenti fondamentali del funzionamento di un'IA."
+        },
+        {
+          "text": "Testo, Immagini e Video generati dall'utente.",
+          "isCorrect": false,
+          "rationale": "Questi sono i tipi di output o contenuti, non gli elementi strutturali che permettono all'IA di evolversi."
+        }
+      ],
+      "hint": "Cerca i tre pilastri che permettono a una macchina di imparare e migliorare costantemente."
+    },
+    {
+      "question": "In termini di Digital Advertising, cosa garantisce la 'Precisione'?",
+      "answerOptions": [
+        {
+          "text": "La possibilità di mostrare l'annuncio a chiunque possieda una TV.",
+          "isCorrect": false,
+          "rationale": "Questa è una caratteristica della pubblicità tradizionale 'broadcasting', non del digital targeting."
+        },
+        {
+          "text": "L'utilizzo di diversi criteri per mirare a segmenti specifici di pubblico.",
+          "isCorrect": true,
+          "rationale": "Il digitale permette di selezionare il target in base a interessi, comportamenti e dati demografici precisi."
+        },
+        {
+          "text": "La certezza matematica che ogni utente che vede l'annuncio comprerà il prodotto.",
+          "isCorrect": false,
+          "rationale": "La precisione riguarda il raggiungimento del pubblico giusto, ma la conversione finale dipende da molti altri fattori."
+        },
+        {
+          "text": "L'eliminazione totale di qualsiasi errore umano nella creazione dei grafici.",
+          "isCorrect": false,
+          "rationale": "La precisione del digital ADV si riferisce al targeting del pubblico, non alla perfezione estetica della grafica."
+        }
+      ],
+      "hint": "Pensa a come gli annunci che vedi online sembrino spesso 'leggere nel pensiero' i tuoi interessi."
+    }
+  ]
+}

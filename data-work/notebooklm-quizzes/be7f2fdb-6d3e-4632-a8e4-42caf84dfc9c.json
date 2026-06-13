@@ -1,0 +1,785 @@
+{
+  "title": "Analytics Quiz",
+  "questions": [
+    {
+      "question": "Qual è lo scopo principale della digital analytics nel contesto del marketing online?",
+      "answerOptions": [
+        {
+          "text": "Analizzare i dati di traffico e comportamento per ottimizzare l'esperienza utente e le conversioni.",
+          "isCorrect": true,
+          "rationale": "La digital analytics mira a trasformare i dati in informazioni strategiche per migliorare le prestazioni del sito e il raggiungimento degli obiettivi."
+        },
+        {
+          "text": "Creare esclusivamente contenuti grafici per i social media aziendali.",
+          "isCorrect": false,
+          "rationale": "Sebbene la creazione di contenuti sia importante, l'analytics si occupa specificamente della misurazione e dell'analisi del comportamento e del traffico."
+        },
+        {
+          "text": "Gestire esclusivamente la sicurezza informatica del server ospitante.",
+          "isCorrect": false,
+          "rationale": "La gestione della sicurezza è un compito tecnico sistemistico, mentre la digital analytics si focalizza sul marketing e sull'interazione dell'utente."
+        },
+        {
+          "text": "Aumentare il numero di dipendenti di un'azienda attraverso piattaforme digitali.",
+          "isCorrect": false,
+          "rationale": "Questa attività rientra nelle risorse umane, mentre la digital analytics riguarda il comportamento degli utenti finali sul sito."
+        }
+      ],
+      "hint": "Considera come l'analisi dei dati possa influenzare le decisioni strategiche per vendite e visibilità."
+    },
+    {
+      "question": "Nel funnel di marketing digitale, quale fase ha l'obiettivo di generare consapevolezza (awareness)?",
+      "answerOptions": [
+        {
+          "text": "Acquisizione",
+          "isCorrect": true,
+          "rationale": "L'acquisizione è il primo punto di contatto dove l'azienda cerca di catturare l'interesse dell'utente e farsi conoscere."
+        },
+        {
+          "text": "Comportamento",
+          "isCorrect": false,
+          "rationale": "Il comportamento avviene dopo l'acquisizione, quando l'utente interagisce attivamente con i contenuti del sito."
+        },
+        {
+          "text": "Conversione",
+          "isCorrect": false,
+          "rationale": "La conversione rappresenta l'azione finale desiderata, non la fase iniziale di consapevolezza."
+        },
+        {
+          "text": "Rimbalzo",
+          "isCorrect": false,
+          "rationale": "Il rimbalzo indica l'abbandono immediato del sito, che è l'opposto di un processo di canalizzazione riuscito."
+        }
+      ],
+      "hint": "Pensa alla fase iniziale in cui un utente scopre per la prima volta l'esistenza di un marchio."
+    },
+    {
+      "question": "Cosa accade tecnicamente durante la fase di 'Comportamento' del funnel?",
+      "answerOptions": [
+        {
+          "text": "Gli utenti interagiscono attivamente con le pagine e i contenuti dell'azienda.",
+          "isCorrect": true,
+          "rationale": "Questa fase misura come gli utenti navigano e cosa fanno una volta atterrati sulla piattaforma."
+        },
+        {
+          "text": "L'utente decide di abbandonare definitivamente internet.",
+          "isCorrect": false,
+          "rationale": "L'analytics misura le azioni sul sito, non le decisioni di vita degli utenti fuori dal contesto digitale."
+        },
+        {
+          "text": "L'azienda paga per un annuncio pubblicitario su un motore di ricerca.",
+          "isCorrect": false,
+          "rationale": "Il pagamento di annunci riguarda la fase di acquisizione, non l'interazione sul sito già avvenuta."
+        },
+        {
+          "text": "L'utente diventa automaticamente un dipendente dell'azienda.",
+          "isCorrect": false,
+          "rationale": "Il comportamento riguarda l'interazione del cliente/visitatore, non un rapporto contrattuale di lavoro."
+        }
+      ],
+      "hint": "Rifletti su cosa fa un visitatore tra il momento in cui arriva e quello in cui acquista."
+    },
+    {
+      "question": "Quale tra questi è un esempio di 'Conversione' citato nel materiale?",
+      "answerOptions": [
+        {
+          "text": "Quando un utente genera transazioni o diventa cliente.",
+          "isCorrect": true,
+          "rationale": "La conversione è l'atto finale in cui l'utente compie l'azione per cui il sito è stato progettato."
+        },
+        {
+          "text": "Quando un utente visualizza per sbaglio la homepage.",
+          "isCorrect": false,
+          "rationale": "La visualizzazione casuale non costituisce un'azione di valore strategico o una transazione."
+        },
+        {
+          "text": "L'atto di chiudere il browser subito dopo l'apertura.",
+          "isCorrect": false,
+          "rationale": "Questo comportamento è associato al rimbalzo, non al completamento di un obiettivo."
+        },
+        {
+          "text": "La semplice lettura dell'informativa sulla privacy senza altre azioni.",
+          "isCorrect": false,
+          "rationale": "Sebbene sia un'azione, raramente viene definita come l'obiettivo di conversione principale di un business."
+        }
+      ],
+      "hint": "Pensa al momento in cui l'interazione dell'utente si trasforma in valore economico per l'attività."
+    },
+    {
+      "question": "Perché la misurazione della canalizzazione (funnel) è considerata un vantaggio del mondo digitale rispetto a quello offline?",
+      "answerOptions": [
+        {
+          "text": "Perché nel digitale è possibile monitorare i comportamenti specifici che portano all'acquisto.",
+          "isCorrect": true,
+          "rationale": "Il tracciamento digitale permette di vedere ogni step dell'utente, cosa molto difficile da quantificare in un negozio fisico."
+        },
+        {
+          "text": "Perché il mondo offline non prevede mai acquisti da parte dei clienti.",
+          "isCorrect": false,
+          "rationale": "Il mondo offline si basa sugli acquisti, ma la difficoltà risiede nella precisione del monitoraggio del percorso decisionale."
+        },
+        {
+          "text": "Perché nel digitale non esistono costi pubblicitari.",
+          "isCorrect": false,
+          "rationale": "Il digitale ha costi pubblicitari spesso significativi, ma offre strumenti migliori per misurarne il ritorno."
+        },
+        {
+          "text": "Perché gli utenti offline non hanno comportamenti misurabili in alcun modo.",
+          "isCorrect": false,
+          "rationale": "Alcuni comportamenti sono misurabili offline, ma mancano della granularità e della scalabilità del tracciamento digitale."
+        }
+      ],
+      "hint": "Considera la differenza tra osservare una persona in un negozio e tracciare ogni suo clic su un sito."
+    },
+    {
+      "question": "Nella metrica 'Numero Utenti', cosa si intende per visite totali?",
+      "answerOptions": [
+        {
+          "text": "La somma di tutte le visite effettuate, anche se ripetute dallo stesso utente.",
+          "isCorrect": true,
+          "rationale": "Questa metrica conteggia ogni accesso al sito indipendentemente dal fatto che l'utente sia già stato presente in precedenza."
+        },
+        {
+          "text": "Il numero di persone che hanno rimosso l'app dal telefono.",
+          "isCorrect": false,
+          "rationale": "L'analytics del traffico si concentra sulle visite e sugli accessi, non sulla disinstallazione di software."
+        },
+        {
+          "text": "Solo le persone che hanno visitato il sito per la prima volta in assoluto.",
+          "isCorrect": false,
+          "rationale": "Questa descrizione corrisponde alla metrica 'Nuovi Utenti', non al totale degli utenti."
+        },
+        {
+          "text": "Il numero di dipendenti dell'azienda che gestiscono il sito.",
+          "isCorrect": false,
+          "rationale": "L'analytics esclude solitamente il traffico interno per non falsare i dati relativi ai clienti reali."
+        }
+      ],
+      "hint": "Pensa a un contatore che scatta ogni volta che qualcuno entra, anche se è un cliente abituale."
+    },
+    {
+      "question": "Come si definiscono i 'Nuovi Utenti' su Google Analytics?",
+      "answerOptions": [
+        {
+          "text": "Visitatori che atterrano sul sito per la prima volta.",
+          "isCorrect": true,
+          "rationale": "Identifica i soggetti che non sono mai stati tracciati in precedenza sulla piattaforma."
+        },
+        {
+          "text": "Utenti che hanno appena cambiato il proprio indirizzo email.",
+          "isCorrect": false,
+          "rationale": "L'identificazione avviene tramite cookie o ID dispositivo, non tramite modifiche anagrafiche esterne."
+        },
+        {
+          "text": "Persone che hanno acquistato un nuovo computer per navigare.",
+          "isCorrect": false,
+          "rationale": "Anche se usano un nuovo hardware, l'utente è considerato 'nuovo' per il sito solo in base ai dati di tracciamento della sessione."
+        },
+        {
+          "text": "Utenti che visitano il sito almeno dieci volte al giorno.",
+          "isCorrect": false,
+          "rationale": "Questi sarebbero considerati utenti di ritorno o frequenti, l'opposto dei nuovi visitatori."
+        }
+      ],
+      "hint": "Si tratta di persone che non hanno precedenti record di navigazione su quel determinato sito."
+    },
+    {
+      "question": "Per un sito che non sia 'OnePage', quale rapporto tra 'Visualizzazioni di pagina' e 'Nuovi Utenti' è auspicabile?",
+      "answerOptions": [
+        {
+          "text": "Le visualizzazioni dovrebbero essere almeno il doppio dei nuovi utenti.",
+          "isCorrect": true,
+          "rationale": "Un rapporto di $2:1$ suggerisce che l'utente ha visto almeno una pagina oltre alla homepage, indicando interesse."
+        },
+        {
+          "text": "Le visualizzazioni devono essere esattamente uguali al numero di nuovi utenti.",
+          "isCorrect": false,
+          "rationale": "Se i valori sono uguali, significa che ogni utente ha visto una sola pagina e poi ha abbandonato il sito."
+        },
+        {
+          "text": "I nuovi utenti devono essere dieci volte superiori alle visualizzazioni.",
+          "isCorrect": false,
+          "rationale": "Matematicamente impossibile, poiché ogni utente deve visualizzare almeno una pagina per essere conteggiato."
+        },
+        {
+          "text": "Non esiste alcun rapporto consigliato tra queste due metriche.",
+          "isCorrect": false,
+          "rationale": "Il materiale suggerisce esplicitamente un benchmark per valutare l'efficacia della navigazione."
+        }
+      ],
+      "hint": "Rifletti su quante pagine dovrebbe vedere un utente interessato dopo essere arrivato in homepage."
+    },
+    {
+      "question": "Cosa indica una 'Frequenza di rimbalzo' elevata?",
+      "answerOptions": [
+        {
+          "text": "Che una grande percentuale di utenti ha visualizzato una sola pagina e ha abbandonato il sito.",
+          "isCorrect": true,
+          "rationale": "Il rimbalzo misura le sessioni di una sola pagina senza ulteriori interazioni."
+        },
+        {
+          "text": "Che il sito è molto veloce nel caricamento delle immagini.",
+          "isCorrect": false,
+          "rationale": "Sebbene la velocità possa influenzare il rimbalzo, la metrica in sé misura l'abbandono, non le prestazioni tecniche del server."
+        },
+        {
+          "text": "Che gli utenti tornano sul sito più volte nella stessa giornata.",
+          "isCorrect": false,
+          "rationale": "Il ritorno frequente è indicato dalla metrica 'Utenti di ritorno', non dalla frequenza di rimbalzo."
+        },
+        {
+          "text": "Che ogni utente ha visitato almeno cinque pagine diverse.",
+          "isCorrect": false,
+          "rationale": "Questo indicherebbe un basso rimbalzo e un alto coinvolgimento."
+        }
+      ],
+      "hint": "Immagina qualcuno che entra in un negozio, dà un'occhiata veloce e se ne va subito."
+    },
+    {
+      "question": "Come viene calcolata la 'Frequenza di rimbalzo'?",
+      "answerOptions": [
+        {
+          "text": "Rapporto tra le visite di una sola pagina diviso per il totale delle visite.",
+          "isCorrect": true,
+          "rationale": "Viene espressa in percentuale per mostrare l'incidenza delle sessioni brevi sul totale."
+        },
+        {
+          "text": "Somma totale dei nuovi utenti moltiplicata per il tempo medio.",
+          "isCorrect": false,
+          "rationale": "Questa formula non ha senso nel contesto della misurazione del rimbalzo."
+        },
+        {
+          "text": "Differenza tra gli utenti di ritorno e i nuovi utenti.",
+          "isCorrect": false,
+          "rationale": "Questa operazione servirebbe a capire la composizione dell'audience, non il comportamento di abbandono."
+        },
+        {
+          "text": "Divisione tra il numero di obiettivi completati e le visualizzazioni di pagina.",
+          "isCorrect": false,
+          "rationale": "Questo calcolo si riferisce al tasso di conversione, non alla frequenza di rimbalzo."
+        }
+      ],
+      "hint": "Considera la proporzione tra chi vede una sola pagina e il volume complessivo di traffico."
+    },
+    {
+      "question": "Chi è l'utente definito 'fedelissimo' nel materiale?",
+      "answerOptions": [
+        {
+          "text": "L'Utente di ritorno",
+          "isCorrect": true,
+          "rationale": "È l'utente che visita il sito più volte in un arco temporale, dimostrando fidelizzazione."
+        },
+        {
+          "text": "L'Utente organico",
+          "isCorrect": false,
+          "rationale": "L'utente organico definisce la fonte del traffico, non necessariamente la sua frequenza di ritorno."
+        },
+        {
+          "text": "Il Nuovissimo Utente",
+          "isCorrect": false,
+          "rationale": "Un nuovo utente è per definizione qualcuno che non è ancora stato fidelizzato."
+        },
+        {
+          "text": "L'Utente che effettua solo transazioni offline.",
+          "isCorrect": false,
+          "rationale": "L'analytics traccia il comportamento digitale; gli utenti solo offline non appaiono in queste metriche."
+        }
+      ],
+      "hint": "Cerca il termine usato per descrivere chi torna a trovarci spesso."
+    },
+    {
+      "question": "Cosa si intende per 'Acquisizione Organica'?",
+      "answerOptions": [
+        {
+          "text": "Traffico arrivato tramite ricerca gratuita su motori come Google.",
+          "isCorrect": true,
+          "rationale": "Include i risultati naturali non a pagamento che appaiono in risposta a una query."
+        },
+        {
+          "text": "Utenti che arrivano cliccando su annunci pubblicitari a pagamento (CPC).",
+          "isCorrect": false,
+          "rationale": "Il traffico a pagamento è classificato come CPC o Paid Search, l'opposto dell'organico."
+        },
+        {
+          "text": "Visitatori che arrivano tramite l'invio di newsletter aziendali.",
+          "isCorrect": false,
+          "rationale": "Questo traffico è classificato come 'email' nei mezzi di acquisizione di Google Analytics."
+        },
+        {
+          "text": "Persone che entrano fisicamente in un punto vendita dopo aver visto un cartellone.",
+          "isCorrect": false,
+          "rationale": "L'acquisizione organica si riferisce specificamente ai risultati di ricerca digitali."
+        }
+      ],
+      "hint": "Pensa ai risultati di ricerca che non riportano l'etichetta 'Annuncio'."
+    },
+    {
+      "question": "Quale tra i seguenti NON è elencato come 'mezzo' di acquisizione in Google Analytics?",
+      "answerOptions": [
+        {
+          "text": "Telefono fisso",
+          "isCorrect": true,
+          "rationale": "Il telefono è un mezzo di comunicazione offline e non viene tracciato come sorgente di acquisizione digitale diretta."
+        },
+        {
+          "text": "CPC",
+          "isCorrect": false,
+          "rationale": "Il Cost Per Click è un mezzo standard per identificare il traffico proveniente da pubblicità a pagamento."
+        },
+        {
+          "text": "Referral",
+          "isCorrect": false,
+          "rationale": "Il referral indica il traffico che arriva tramite link presenti su altri siti web."
+        },
+        {
+          "text": "Organico",
+          "isCorrect": false,
+          "rationale": "L'organico è uno dei mezzi principali e rappresenta la ricerca non a pagamento."
+        }
+      ],
+      "hint": "Identifica l'opzione che non appartiene al mondo del tracciamento web diretto."
+    },
+    {
+      "question": "In quale scenario è auspicabile un 'Tempo medio sulla pagina' basso?",
+      "answerOptions": [
+        {
+          "text": "Nella pagina di checkout di un e-commerce.",
+          "isCorrect": true,
+          "rationale": "Un tempo basso nel checkout suggerisce un processo rapido, fluido e privo di intoppi per l'utente."
+        },
+        {
+          "text": "In un articolo di blog di approfondimento tecnico.",
+          "isCorrect": false,
+          "rationale": "Per i contenuti testuali, un tempo basso indicherebbe che l'utente non ha letto il contenuto."
+        },
+        {
+          "text": "Nella pagina 'Chi Siamo' di un'azienda.",
+          "isCorrect": false,
+          "rationale": "Se l'utente esce subito, probabilmente non ha trovato le informazioni che cercava sull'identità aziendale."
+        },
+        {
+          "text": "In una pagina contenente un video tutorial di dieci minuti.",
+          "isCorrect": false,
+          "rationale": "Un tempo basso indicherebbe che il video non è stato guardato."
+        }
+      ],
+      "hint": "Pensa a una fase del processo d'acquisto dove la velocità è sinonimo di efficienza."
+    },
+    {
+      "question": "Perché per una pagina con contenuti descrittivi il tempo medio deve essere alto?",
+      "answerOptions": [
+        {
+          "text": "Perché indica che l'utente sta effettivamente leggendo e fruendo del contenuto.",
+          "isCorrect": true,
+          "rationale": "La permanenza è un segnale di interesse e coinvolgimento per i contenuti informativi."
+        },
+        {
+          "text": "Perché significa che la pagina è molto lenta a caricarsi.",
+          "isCorrect": false,
+          "rationale": "Il tempo medio sulla pagina misura la permanenza dell'utente dopo il caricamento, non la velocità tecnica del sito."
+        },
+        {
+          "text": "Perché Google penalizza i siti dove gli utenti leggono velocemente.",
+          "isCorrect": false,
+          "rationale": "Google valuta la pertinenza, ma non esiste una penalizzazione basata sulla velocità di lettura individuale."
+        },
+        {
+          "text": "Per aumentare artificialmente il consumo di energia del server.",
+          "isCorrect": false,
+          "rationale": "La permanenza dell'utente non ha come obiettivo il consumo energetico, ma il coinvolgimento marketing."
+        }
+      ],
+      "hint": "Rifletti sul comportamento di qualcuno che trova un articolo interessante."
+    },
+    {
+      "question": "Cosa si intende per 'Obiettivo' (Goal) in digital analytics?",
+      "answerOptions": [
+        {
+          "text": "Un'azione specifica che si desidera l'utente compia sul sito.",
+          "isCorrect": true,
+          "rationale": "Gli obiettivi definiscono il successo delle campagne e del sito attraverso azioni misurabili."
+        },
+        {
+          "text": "Il numero massimo di pixel di un'immagine in homepage.",
+          "isCorrect": false,
+          "rationale": "I pixel riguardano la risoluzione grafica, non gli obiettivi di business o di interazione."
+        },
+        {
+          "text": "Il tempo totale di vita di un sito web prima di essere chiuso.",
+          "isCorrect": false,
+          "rationale": "L'analytics non misura la longevità storica del dominio come un 'obiettivo' comportamentale."
+        },
+        {
+          "text": "L'obbligo legale di pubblicare i bilanci aziendali online.",
+          "isCorrect": false,
+          "rationale": "Questa è una conformità normativa, non un obiettivo di marketing tracciabile come azione utente."
+        }
+      ],
+      "hint": "Pensa a un compito che vorresti assegnare ai tuoi visitatori (es. iscriversi o comprare)."
+    },
+    {
+      "question": "Quale delle seguenti azioni può essere configurata come un obiettivo completato?",
+      "answerOptions": [
+        {
+          "text": "La compilazione di un modulo di contatto.",
+          "isCorrect": true,
+          "rationale": "L'invio di lead è una delle conversioni più comuni e preziose per molte attività."
+        },
+        {
+          "text": "L'accensione casuale del monitor da parte dell'utente.",
+          "isCorrect": false,
+          "rationale": "L'analytics non può tracciare azioni hardware esterne che non interagiscono con il browser."
+        },
+        {
+          "text": "Il movimento del mouse senza alcun clic effettuato.",
+          "isCorrect": false,
+          "rationale": "Sebbene tracciabile in analisi avanzate, non costituisce solitamente un 'obiettivo completato' (conversione)."
+        },
+        {
+          "text": "La ricezione di una telefonata su una linea non collegata al sito.",
+          "isCorrect": false,
+          "rationale": "Se la linea non è tracciata tramite clic sul sito, l'analytics digitale non può registrarla."
+        }
+      ],
+      "hint": "Considera un'azione che lasci una traccia digitale di interesse esplicito."
+    },
+    {
+      "question": "Secondo il materiale, cosa genera una 'conversione'?",
+      "answerOptions": [
+        {
+          "text": "Ogni volta che un obiettivo prefissato viene completato.",
+          "isCorrect": true,
+          "rationale": "La conversione è il termine tecnico che indica il successo nel far compiere un'azione all'utente."
+        },
+        {
+          "text": "Ogni volta che l'utente cambia browser durante la navigazione.",
+          "isCorrect": false,
+          "rationale": "Il cambio di browser viene visto come l'inizio di una nuova sessione da un nuovo utente, non come una conversione."
+        },
+        {
+          "text": "Ogni volta che un utente visualizza un errore 404.",
+          "isCorrect": false,
+          "rationale": "Un errore indica un problema tecnico, l'opposto di un risultato desiderato (conversione)."
+        },
+        {
+          "text": "Solo quando l'utente invia una mail di reclamo.",
+          "isCorrect": false,
+          "rationale": "Sebbene sia un'azione, le conversioni solitamente riguardano azioni positive come vendite o contatti commerciali."
+        }
+      ],
+      "hint": "Rifletti sulla relazione tra il raggiungimento di un traguardo e il termine 'conversione'."
+    },
+    {
+      "question": "In che modo la digital analytics aiuta a migliorare l'esperienza utente?",
+      "answerOptions": [
+        {
+          "text": "Fornendo dati su quali contenuti funzionano meglio e come gli utenti si muovono.",
+          "isCorrect": true,
+          "rationale": "L'analisi dei pattern di comportamento permette di rimuovere ostacoli e ottimizzare i percorsi di navigazione."
+        },
+        {
+          "text": "Regalando sconti automatici a chiunque apra il sito.",
+          "isCorrect": false,
+          "rationale": "La digital analytics analizza i dati, non gestisce direttamente le politiche di prezzo o promozionali."
+        },
+        {
+          "text": "Aumentando la luminosità dello schermo dell'utente in automatico.",
+          "isCorrect": false,
+          "rationale": "Questa è una funzione del sistema operativo o dell'hardware, non della digital analytics."
+        },
+        {
+          "text": "Cancellando la cronologia del browser dell'utente ogni ora.",
+          "isCorrect": false,
+          "rationale": "L'analytics serve a raccogliere dati, non a interferire con la gestione della privacy locale dell'utente."
+        }
+      ],
+      "hint": "Considera l'utilità di sapere cosa piace ai visitatori per offrire loro un servizio migliore."
+    },
+    {
+      "question": "Cosa si può identificare analizzando le ricerche organiche in Google Analytics?",
+      "answerOptions": [
+        {
+          "text": "Le parole chiave più utilizzate dagli utenti per trovare il sito.",
+          "isCorrect": true,
+          "rationale": "Conoscere le keyword aiuta a ottimizzare la strategia SEO e i contenuti del sito."
+        },
+        {
+          "text": "Il nome e il cognome di ogni utente che effettua una ricerca.",
+          "isCorrect": false,
+          "rationale": "L'analytics protegge l'anonimato e non fornisce dati identificativi personali diretti tramite keyword."
+        },
+        {
+          "text": "La marca del router utilizzato dall'utente a casa sua.",
+          "isCorrect": false,
+          "rationale": "Queste informazioni tecniche di rete non sono l'obiettivo primario della digital analytics di marketing."
+        },
+        {
+          "text": "Tutti i siti web che l'utente ha visitato prima di Google.",
+          "isCorrect": false,
+          "rationale": "L'analytics traccia solo la sorgente immediata (referrer), non l'intera cronologia precedente."
+        }
+      ],
+      "hint": "Pensa ai termini che le persone digitano nella barra di ricerca."
+    },
+    {
+      "question": "Nel contesto del funnel, a cosa serve la fase di 'Acquisizione'?",
+      "answerOptions": [
+        {
+          "text": "A catturare l'interesse dell'utente e portarlo sulla piattaforma.",
+          "isCorrect": true,
+          "rationale": "È la fase di 'aggancio' fondamentale per alimentare le fasi successive del funnel."
+        },
+        {
+          "text": "A convincere l'utente a cancellare le proprie iscrizioni ad altri siti.",
+          "isCorrect": false,
+          "rationale": "L'acquisizione si focalizza sul portare traffico al proprio sito, non su azioni negative verso la concorrenza."
+        },
+        {
+          "text": "A rimborsare gli utenti per il tempo trascorso a navigare.",
+          "isCorrect": false,
+          "rationale": "Non è una funzione del marketing digitale pagare gli utenti per la semplice navigazione."
+        },
+        {
+          "text": "A chiudere definitivamente il rapporto con un vecchio cliente.",
+          "isCorrect": false,
+          "rationale": "L'acquisizione riguarda i nuovi contatti, mentre la gestione dei vecchi rientra nella retention."
+        }
+      ],
+      "hint": "Rifletti sul significato del termine 'acquisire' riferito a nuovi visitatori."
+    },
+    {
+      "question": "Perché monitorare la canalizzazione (funnel) permette di decidere 'con oculatezza'?",
+      "answerOptions": [
+        {
+          "text": "Perché permette di capire dove si perdono i clienti e come investire meglio il budget.",
+          "isCorrect": true,
+          "rationale": "I dati oggettivi guidano le decisioni allocative, riducendo gli sprechi su canali inefficaci."
+        },
+        {
+          "text": "Perché obbliga gli utenti a fare acquisti anche se non vogliono.",
+          "isCorrect": false,
+          "rationale": "L'analytics osserva e ottimizza, ma non può costringere la volontà del consumatore."
+        },
+        {
+          "text": "Perché garantisce che ogni visitatore diventi un cliente al $100\\%$.",
+          "isCorrect": false,
+          "rationale": "Nessuna strategia garantisce una conversione totale; l'analytics aiuta solo ad aumentare le probabilità."
+        },
+        {
+          "text": "Perché permette di spiare le email private dei potenziali clienti.",
+          "isCorrect": false,
+          "rationale": "La digital analytics opera nel rispetto delle normative sulla privacy e non accede a comunicazioni private."
+        }
+      ],
+      "hint": "Considera il valore di sapere esattamente in quale passaggio l'utente decide di andarsene."
+    },
+    {
+      "question": "Quale di questi è un obiettivo di business citato esplicitamente?",
+      "answerOptions": [
+        {
+          "text": "Aumentare la conversione delle visite in vendite.",
+          "isCorrect": true,
+          "rationale": "L'ottimizzazione del tasso di conversione è uno dei pilastri fondamentali della digital analytics."
+        },
+        {
+          "text": "Diminuire la visibilità sui motori di ricerca per risparmiare traffico.",
+          "isCorrect": false,
+          "rationale": "L'obiettivo è solitamente l'opposto: massimizzare la visibilità per attirare più utenti."
+        },
+        {
+          "text": "Evitare che gli utenti leggano troppi contenuti per non affaticarli.",
+          "isCorrect": false,
+          "rationale": "Al contrario, si cerca di produrre contenuti che funzionino bene e vengano letti."
+        },
+        {
+          "text": "Sostituire completamente i venditori umani con dei bot che non rispondono.",
+          "isCorrect": false,
+          "rationale": "L'automazione può aiutare, ma l'obiettivo descritto è il miglioramento dei risultati, non il peggioramento del servizio."
+        }
+      ],
+      "hint": "Pensa al risultato finale che trasforma un visitatore in un profitto per l'azienda."
+    },
+    {
+      "question": "Se un sito è 'OnePage', perché la metrica delle visualizzazioni di pagina assume un significato diverso?",
+      "answerOptions": [
+        {
+          "text": "Perché l'utente non ha altre pagine su cui navigare oltre alla principale.",
+          "isCorrect": true,
+          "rationale": "In questo caso, il rapporto $2:1$ tra pagine e utenti non è applicabile per misurare il coinvolgimento."
+        },
+        {
+          "text": "Perché le OnePage caricano nuove pagine ogni volta che si scorre con il mouse.",
+          "isCorrect": false,
+          "rationale": "Le OnePage, per definizione, rimangono sulla stessa URL; lo scorrimento non genera solitamente nuove visualizzazioni di pagina standard."
+        },
+        {
+          "text": "Perché le OnePage non possono essere tracciate da Google Analytics.",
+          "isCorrect": false,
+          "rationale": "Ogni sito può essere tracciato, ma l'interpretazione dei dati deve adattarsi alla struttura del sito."
+        },
+        {
+          "text": "Perché gli utenti non possono visualizzare una OnePage più di una volta.",
+          "isCorrect": false,
+          "rationale": "Gli utenti possono tornare infinite volte su una OnePage."
+        }
+      ],
+      "hint": "Rifletti sulla struttura fisica di un sito composto da un unico file HTML."
+    },
+    {
+      "question": "Che cosa si intende per 'rimbalzo' in una sessione utente?",
+      "answerOptions": [
+        {
+          "text": "Una sessione composta da una sola pagina senza azioni successive.",
+          "isCorrect": true,
+          "rationale": "L'utente atterra, vede una pagina e se ne va senza interagire ulteriormente o navigare altrove."
+        },
+        {
+          "text": "L'utente che clicca su dieci link diversi in meno di un minuto.",
+          "isCorrect": false,
+          "rationale": "Questo è l'opposto di un rimbalzo; è una sessione ad alto coinvolgimento."
+        },
+        {
+          "text": "Quando il server rimanda indietro una richiesta per sovraccarico.",
+          "isCorrect": false,
+          "rationale": "Questo è un errore tecnico (es. errore 503), non un 'rimbalzo' comportamentale."
+        },
+        {
+          "text": "Un utente che acquista lo stesso prodotto due volte di seguito.",
+          "isCorrect": false,
+          "rationale": "Questa sarebbe una doppia conversione o transazione ripetuta."
+        }
+      ],
+      "hint": "Pensa all'azione di 'rimbalzare' via da una superficie subito dopo il contatto."
+    },
+    {
+      "question": "Quale mezzo identifica il traffico proveniente da link su altri siti (non motori di ricerca)?",
+      "answerOptions": [
+        {
+          "text": "Referral",
+          "isCorrect": true,
+          "rationale": "Il referral è la 'citazione' di un sito da parte di un altro attraverso un link ipertestuale."
+        },
+        {
+          "text": "Organico",
+          "isCorrect": false,
+          "rationale": "L'organico si riferisce specificamente ai motori di ricerca, non a link generici su altri siti."
+        },
+        {
+          "text": "Nessuno (Direct)",
+          "isCorrect": false,
+          "rationale": "Il mezzo 'nessuno' indica solitamente il traffico diretto (digitazione URL o segnalibri)."
+        },
+        {
+          "text": "Email",
+          "isCorrect": false,
+          "rationale": "Identifica esclusivamente il traffico proveniente da campagne di email marketing."
+        }
+      ],
+      "hint": "Considera il termine inglese che significa 'segnalazione' o 'riferimento'."
+    },
+    {
+      "question": "In Google Analytics, come viene classificato il traffico che non ha una sorgente identificata?",
+      "answerOptions": [
+        {
+          "text": "Nessuno",
+          "isCorrect": true,
+          "rationale": "Indica spesso traffico diretto dove l'origine non è passata attraverso il browser (es. link in app o digitazione diretta)."
+        },
+        {
+          "text": "Sconosciuto",
+          "isCorrect": false,
+          "rationale": "Sebbene il concetto sia simile, il materiale specifica il termine tecnico 'nessuno' tra le opzioni di Google Analytics."
+        },
+        {
+          "text": "Anonimo",
+          "isCorrect": false,
+          "rationale": "Quasi tutto il traffico analytics è anonimo per privacy, ma 'nessuno' identifica specificamente la mancanza di mezzo."
+        },
+        {
+          "text": "Errato",
+          "isCorrect": false,
+          "rationale": "La mancanza di sorgente non è un errore del sistema, ma una classificazione specifica."
+        }
+      ],
+      "hint": "Cerca nella lista dei mezzi quello che indica l'assenza di una fonte esterna rilevata."
+    },
+    {
+      "question": "Qual è il vantaggio di conoscere 'quali contenuti funzionano meglio'?",
+      "answerOptions": [
+        {
+          "text": "Permette di replicare strategie di successo e abbandonare quelle inefficaci.",
+          "isCorrect": true,
+          "rationale": "L'ottimizzazione dei contenuti si basa sull'evidenza di ciò che attrae e trattiene gli utenti."
+        },
+        {
+          "text": "Permette di raddoppiare automaticamente il prezzo di ogni prodotto nel contenuto.",
+          "isCorrect": false,
+          "rationale": "L'analytics non suggerisce aumenti di prezzo, ma aiuta a capire il coinvolgimento."
+        },
+        {
+          "text": "Aiuta a capire se l'autore del testo ha bisogno di una vacanza.",
+          "isCorrect": false,
+          "rationale": "L'analisi riguarda le prestazioni del contenuto, non lo stato psicologico del creatore."
+        },
+        {
+          "text": "Garantisce che il contenuto non venga mai più letto da nessuno.",
+          "isCorrect": false,
+          "rationale": "Lo scopo dell'analytics è esattamente l'opposto: aumentare la fruizione dei contenuti validi."
+        }
+      ],
+      "hint": "Pensa alla possibilità di investire risorse solo su ciò che piace al pubblico."
+    },
+    {
+      "question": "Il numero di 'Utenti' include anche chi visita il sito più volte?",
+      "answerOptions": [
+        {
+          "text": "Sì, conteggia le visite totali indipendentemente dalla ripetizione.",
+          "isCorrect": true,
+          "rationale": "Come specificato nel materiale, gli utenti rappresentano il volume totale di accessi."
+        },
+        {
+          "text": "No, ogni persona fisica viene contata una sola volta per sempre.",
+          "isCorrect": false,
+          "rationale": "Questa sarebbe una metrica di utenti unici assoluti filtrata per un tempo infinito, non lo standard 'Utenti' descritto."
+        },
+        {
+          "text": "Sì, ma solo se cambiano nome ogni volta che entrano.",
+          "isCorrect": false,
+          "rationale": "L'identificazione non avviene tramite il nome dichiarato, ma tramite dati tecnici di sessione."
+        },
+        {
+          "text": "No, il sistema cancella i dati dei visitatori abituali.",
+          "isCorrect": false,
+          "rationale": "I visitatori abituali sono preziosi e vengono tracciati con cura come 'Utenti di ritorno'."
+        }
+      ],
+      "hint": "Rileggi la definizione di 'Utenti' fornita per quanto riguarda le visite ripetute."
+    },
+    {
+      "question": "Quale contatto viene fornito dal Prof. Granato per dubbi o suggerimenti?",
+      "answerOptions": [
+        {
+          "text": "Mail e Telegram",
+          "isCorrect": true,
+          "rationale": "Il docente mette a disposizione entrambi i canali per mantenere i contatti con gli studenti."
+        },
+        {
+          "text": "Solo segnali di fumo",
+          "isCorrect": false,
+          "rationale": "Il materiale specifica chiaramente strumenti di comunicazione digitale moderni."
+        },
+        {
+          "text": "Esclusivamente posta cartacea",
+          "isCorrect": false,
+          "rationale": "In un corso di Web Marketing, l'uso di mezzi digitali è coerente con la materia."
+        },
+        {
+          "text": "Profilo TikTok",
+          "isCorrect": false,
+          "rationale": "Sebbene sia un social, non è tra i contatti ufficiali indicati nelle slide per l'assistenza."
+        }
+      ],
+      "hint": "Cerca l'ultima slide della presentazione per i riferimenti di contatto."
+    }
+  ]
+}

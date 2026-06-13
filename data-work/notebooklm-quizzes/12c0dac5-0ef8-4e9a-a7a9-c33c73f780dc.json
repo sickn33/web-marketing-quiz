@@ -1,0 +1,785 @@
+{
+  "title": "Quiz Business",
+  "questions": [
+    {
+      "question": "Secondo la definizione di Magretta (2002), a cosa possono essere paragonati i modelli di business?",
+      "answerOptions": [
+        {
+          "text": "A delle storie che spiegano il funzionamento delle imprese.",
+          "isCorrect": true,
+          "rationale": "L'autore sottolinea che, nella loro essenza, i modelli di business sono narrazioni che descrivono la logica operativa di un'organizzazione."
+        },
+        {
+          "text": "A dei complessi algoritmi matematici per il profitto.",
+          "isCorrect": false,
+          "rationale": "Sebbene il profitto sia importante, la definizione citata enfatizza l'aspetto narrativo e descrittivo piuttosto che quello puramente matematico."
+        },
+        {
+          "text": "A dei semplici organigrammi aziendali.",
+          "isCorrect": false,
+          "rationale": "Un organigramma descrive la gerarchia, non il modo in cui l'impresa crea e cattura valore nel mercato."
+        },
+        {
+          "text": "A delle strategie di marketing a breve termine.",
+          "isCorrect": false,
+          "rationale": "Il modello di business è una struttura fondamentale più ampia rispetto a una singola campagna o strategia temporanea."
+        }
+      ],
+      "hint": "Cerca un termine legato alla narrazione e alla spiegazione del funzionamento aziendale."
+    },
+    {
+      "question": "Quale tra i seguenti autori definisce il business model come la 'logica con cui un'organizzazione crea, distribuisce e cattura valore'?",
+      "answerOptions": [
+        {
+          "text": "Osterwalder e Pigneur",
+          "isCorrect": true,
+          "rationale": "Questa è la definizione fondamentale che sta alla base del Business Model Canvas sviluppato dagli stessi autori."
+        },
+        {
+          "text": "Afuah e Tucci",
+          "isCorrect": false,
+          "rationale": "Questi autori si concentrano maggiormente sulla struttura delle attività e sulla redditività per il cliente."
+        },
+        {
+          "text": "Magretta",
+          "isCorrect": false,
+          "rationale": "L'enfasi di questo autore è sulla componente narrativa o 'storia' dell'impresa."
+        },
+        {
+          "text": "Zott e Amit",
+          "isCorrect": false,
+          "rationale": "Sebbene abbiano contribuito alla teoria, la specifica triade 'crea, distribuisce e cattura valore' è attribuita a Osterwalder."
+        }
+      ],
+      "hint": "Si tratta degli ideatori del framework più famoso utilizzato per visualizzare i modelli di business."
+    },
+    {
+      "question": "Nel Business Model Canvas, cosa descrive il blocco dei 'Canali' (Channels)?",
+      "answerOptions": [
+        {
+          "text": "I modi in cui i servizi o prodotti vengono consegnati al cliente.",
+          "isCorrect": true,
+          "rationale": "I canali rappresentano i punti di contatto attraverso cui l'azienda comunica e raggiunge i suoi segmenti di clienti."
+        },
+        {
+          "text": "Le partnership strategiche con i fornitori.",
+          "isCorrect": false,
+          "rationale": "Le collaborazioni esterne appartengono al blocco dei Key Partners."
+        },
+        {
+          "text": "Le fonti principali di reddito dell'azienda.",
+          "isCorrect": false,
+          "rationale": "Il denaro generato dall'azienda è descritto nel blocco dei Revenue Streams."
+        },
+        {
+          "text": "Le attività interne necessarie per produrre valore.",
+          "isCorrect": false,
+          "rationale": "I processi operativi interni ricadono sotto il blocco delle Key Activities."
+        }
+      ],
+      "hint": "Pensa al collegamento fisico o digitale tra l'azienda e il destinatario del valore."
+    },
+    {
+      "question": "Cosa si intende per 'Customer Value Proposition'?",
+      "answerOptions": [
+        {
+          "text": "Ciò che l'azienda offre per risolvere i problemi o soddisfare i bisogni dei clienti meglio della concorrenza.",
+          "isCorrect": true,
+          "rationale": "La proposta di valore risponde alla domanda sul perché un cliente dovrebbe scegliere un'azienda rispetto a un'altra."
+        },
+        {
+          "text": "Il calcolo del valore monetario di ogni singolo cliente nel tempo.",
+          "isCorrect": false,
+          "rationale": "Questa descrizione si riferisce più al concetto di Customer Lifetime Value."
+        },
+        {
+          "text": "La lista di tutti i dipendenti che si occupano del servizio clienti.",
+          "isCorrect": false,
+          "rationale": "Il personale è una risorsa chiave, non l'offerta di valore in sé."
+        },
+        {
+          "text": "Il prezzo minimo a cui un prodotto può essere venduto.",
+          "isCorrect": false,
+          "rationale": "Il prezzo è solo un attributo, non l'intera proposta di valore."
+        }
+      ],
+      "hint": "Si focalizza sui vantaggi specifici e distintivi offerti al mercato."
+    },
+    {
+      "question": "Quale blocco del Business Model Canvas riguarda le alleanze strategiche e i fornitori?",
+      "answerOptions": [
+        {
+          "text": "Key Partners",
+          "isCorrect": true,
+          "rationale": "Questo blocco identifica la rete di fornitori e partner che permettono al modello di business di funzionare."
+        },
+        {
+          "text": "Customer Segments",
+          "isCorrect": false,
+          "rationale": "Questo blocco definisce a chi è rivolto il valore, non chi aiuta a crearlo."
+        },
+        {
+          "text": "Key Resources",
+          "isCorrect": false,
+          "rationale": "Si riferisce ai beni materiali e immateriali posseduti dall'azienda, non alle collaborazioni esterne."
+        },
+        {
+          "text": "Cost Structure",
+          "isCorrect": false,
+          "rationale": "Descrive i costi finanziari, non i soggetti coinvolti nella creazione del valore."
+        }
+      ],
+      "hint": "Cerca il termine che indica collaboratori esterni essenziali."
+    },
+    {
+      "question": "Nel passaggio dalla 'Catena del Valore' al 'Modello di Business', qual è il cambiamento principale evidenziato?",
+      "answerOptions": [
+        {
+          "text": "Si passa da una struttura lineare fornitore-azienda-cliente a un sistema a rete con molteplici partner.",
+          "isCorrect": true,
+          "rationale": "Il nuovo approccio enfatizza l'interconnessione dinamica tra tutti gli stakeholder coinvolti."
+        },
+        {
+          "text": "Si elimina completamente la figura del fornitore.",
+          "isCorrect": false,
+          "rationale": "I fornitori non spariscono, ma evolvono spesso in partner integrati nel modello."
+        },
+        {
+          "text": "L'azienda non deve più preoccuparsi del cliente finale.",
+          "isCorrect": false,
+          "rationale": "Al contrario, il cliente diventa centrale nella co-creazione di valore del modello di business."
+        },
+        {
+          "text": "Si riducono i costi di produzione attraverso la disintermediazione totale.",
+          "isCorrect": false,
+          "rationale": "Questa è una possibile conseguenza di alcuni modelli, ma non definisce il cambiamento strutturale generale."
+        }
+      ],
+      "hint": "Pensa alla differenza tra un percorso a senso unico e una ragnatela di relazioni."
+    },
+    {
+      "question": "Cosa descrive specificamente il 'Revenue Model' rispetto al Business Model generale?",
+      "answerOptions": [
+        {
+          "text": "Esclusivamente il modo in cui l'impresa genera fatturato.",
+          "isCorrect": true,
+          "rationale": "Il modello di revenue è un aspetto specifico che si focalizza solo sui flussi di entrate monetarie."
+        },
+        {
+          "text": "L'intera struttura dei costi e delle risorse umane.",
+          "isCorrect": false,
+          "rationale": "Il modello di revenue non copre i costi, che appartengono invece al cost model."
+        },
+        {
+          "text": "La strategia di comunicazione sui social media.",
+          "isCorrect": false,
+          "rationale": "Questa è una componente dei canali o delle relazioni, non del meccanismo di generazione ricavi."
+        },
+        {
+          "text": "La visione a lungo termine del fondatore dell'azienda.",
+          "isCorrect": false,
+          "rationale": "La visione è un concetto strategico astratto, mentre il revenue model è un meccanismo operativo concreto."
+        }
+      ],
+      "hint": "Si concentra solo sulla parte delle entrate finanziarie."
+    },
+    {
+      "question": "Il modello di revenue 'Advertising based' prevede che:",
+      "answerOptions": [
+        {
+          "text": "Il sito web agisca da editore, vendendo spazi pubblicitari agli inserzionisti.",
+          "isCorrect": true,
+          "rationale": "Il guadagno deriva dalla messa a disposizione di traffico qualificato a chi vuole mostrare annunci."
+        },
+        {
+          "text": "Il cliente paghi una quota fissa per non vedere pubblicità.",
+          "isCorrect": false,
+          "rationale": "Questo sarebbe un modello di abbonamento (subscription) 'ad-free', non basato sulla pubblicità."
+        },
+        {
+          "text": "L'azienda venda i propri prodotti direttamente tramite annunci.",
+          "isCorrect": false,
+          "rationale": "Questa è vendita diretta; nel modello advertising basato su contenuti, il ricavo viene dagli inserzionisti terzi."
+        },
+        {
+          "text": "I fornitori paghino una commissione per ogni vendita effettuata.",
+          "isCorrect": false,
+          "rationale": "Questo descrive un modello di affiliazione o commissione."
+        }
+      ],
+      "hint": "Pensa al ruolo di siti come Yahoo o i giornali online."
+    },
+    {
+      "question": "Qual è la differenza principale tra il modello 'Subscription based' e quello 'Fee-for-service based'?",
+      "answerOptions": [
+        {
+          "text": "L'abbonamento è periodico (es. mensile), mentre il fee-for-service è legato all'effettiva fruizione del singolo servizio.",
+          "isCorrect": true,
+          "rationale": "La sottoscrizione garantisce l'accesso per un tempo dato, mentre il fee-for-service è un pagamento puntuale per l'uso."
+        },
+        {
+          "text": "Il primo è gratuito, il secondo è a pagamento.",
+          "isCorrect": false,
+          "rationale": "Entrambi sono modelli di revenue a pagamento per l'utente."
+        },
+        {
+          "text": "L'abbonamento si applica solo ai prodotti fisici.",
+          "isCorrect": false,
+          "rationale": "Molti servizi digitali (come Netflix o Spotify) usano l'abbonamento."
+        },
+        {
+          "text": "Il fee-for-service è basato sulla pubblicità.",
+          "isCorrect": false,
+          "rationale": "Il pagamento avviene direttamente dall'utente al fornitore del servizio."
+        }
+      ],
+      "hint": "Rifletti sulla frequenza e sulla modalità del pagamento rispetto all'uso."
+    },
+    {
+      "question": "Nel modello di 'Affiliation', il sito affiliato riceve:",
+      "answerOptions": [
+        {
+          "text": "Una provvigione in percentuale sul valore delle vendite generate dai suoi link.",
+          "isCorrect": true,
+          "rationale": "L'affiliante remunera l'affiliato solo se il visitatore compie un acquisto effettivo."
+        },
+        {
+          "text": "Una quota fissa mensile per ospitare il banner.",
+          "isCorrect": false,
+          "rationale": "Questo sarebbe un modello di affitto di spazio pubblicitario classico (Advertising based)."
+        },
+        {
+          "text": "Prodotti gratuiti in cambio di recensioni positive.",
+          "isCorrect": false,
+          "rationale": "Sebbene accada nel marketing, il modello di revenue di affiliazione si basa su transazioni finanziarie."
+        },
+        {
+          "text": "Il rimborso delle spese di manutenzione del sito.",
+          "isCorrect": false,
+          "rationale": "Il guadagno dell'affiliato è un profitto basato sulle performance, non un rimborso spese."
+        }
+      ],
+      "hint": "Il pagamento è legato al successo dell'ordine effettuato dal cliente."
+    },
+    {
+      "question": "Il modello 'Markup based' è tipico di quale situazione?",
+      "answerOptions": [
+        {
+          "text": "Quando i prodotti vengono acquistati e poi rivenduti online applicando un ricarico.",
+          "isCorrect": true,
+          "rationale": "È la classica logica del commercio in cui il profitto deriva dalla differenza tra prezzo di vendita e costo d'acquisto."
+        },
+        {
+          "text": "Quando l'azienda produce direttamente i beni che vende.",
+          "isCorrect": false,
+          "rationale": "Questo si riferisce al modello 'Manufacturer' o produzione diretta."
+        },
+        {
+          "text": "Quando il servizio è offerto gratuitamente per attirare utenti.",
+          "isCorrect": false,
+          "rationale": "Il markup richiede necessariamente una vendita a un prezzo superiore al costo."
+        },
+        {
+          "text": "Quando si guadagna solo tramite i clic sugli annunci.",
+          "isCorrect": false,
+          "rationale": "Questo è il modello CPC (Cost Per Click) dell'advertising."
+        }
+      ],
+      "hint": "Pensa alla logica di un rivenditore (come Yoox, citato nel testo)."
+    },
+    {
+      "question": "Cosa si intende per 'Disintermediazione' nel modello Manufacturer?",
+      "answerOptions": [
+        {
+          "text": "I produttori vendono direttamente online ai clienti finali senza intermediari.",
+          "isCorrect": true,
+          "rationale": "Il web permette ai produttori di saltare distributori e negozianti fisici."
+        },
+        {
+          "text": "L'eliminazione di tutti i processi pubblicitari.",
+          "isCorrect": false,
+          "rationale": "La pubblicità serve ancora, cambia solo il destinatario del flusso di vendita."
+        },
+        {
+          "text": "L'uso di droni per la consegna rapida dei prodotti.",
+          "isCorrect": false,
+          "rationale": "Questa è un'innovazione logistica, non un cambiamento nel modello di intermediazione commerciale."
+        },
+        {
+          "text": "La vendita di prodotti solo tramite grandi marketplace come Amazon.",
+          "isCorrect": false,
+          "rationale": "Usare Amazon significa aggiungere un intermediario digitale, l'opposto della disintermediazione pura."
+        }
+      ],
+      "hint": "Pensa alla rimozione dei 'passaggi intermedi' tra chi crea e chi compra."
+    },
+    {
+      "question": "Quale tra queste piattaforme è citata come esempio di modello 'Commission based'?",
+      "answerOptions": [
+        {
+          "text": "eBay",
+          "isCorrect": true,
+          "rationale": "La piattaforma non compra i prodotti, ma trattiene una tariffa dai venditori che la utilizzano."
+        },
+        {
+          "text": "Netflix",
+          "isCorrect": false,
+          "rationale": "Netflix opera principalmente su un modello di abbonamento (subscription)."
+        },
+        {
+          "text": "Yahoo",
+          "isCorrect": false,
+          "rationale": "Yahoo è storicamente associato al modello basato sulla pubblicità (advertising)."
+        },
+        {
+          "text": "Yoox",
+          "isCorrect": false,
+          "rationale": "Yoox è citato come esempio di markup based, poiché agisce come rivenditore."
+        }
+      ],
+      "hint": "Cerca un sito che mette in contatto venditori e compratori trattenendo una percentuale."
+    },
+    {
+      "question": "Qual è lo slogan usato da Spotify per la sua Customer Value Proposition?",
+      "answerOptions": [
+        {
+          "text": "Soundtrack your life",
+          "isCorrect": true,
+          "rationale": "Questo slogan sintetizza l'offerta di musica adatta a ogni momento e umore della giornata."
+        },
+        {
+          "text": "Light. Years ahead.",
+          "isCorrect": false,
+          "rationale": "Questo è lo slogan associato al MacBook di Apple nel materiale fornito."
+        },
+        {
+          "text": "Join the biggest professional community",
+          "isCorrect": false,
+          "rationale": "Questo è il valore proposto da LinkedIn."
+        },
+        {
+          "text": "Book unique homes and experiences",
+          "isCorrect": false,
+          "rationale": "Questa è la proposta di valore di Airbnb."
+        }
+      ],
+      "hint": "Si riferisce alla possibilità di avere una 'colonna sonora' per la propria vita."
+    },
+    {
+      "question": "Quale blocco del Business Model Canvas risponde alla domanda: 'Per chi stiamo creando valore?'",
+      "answerOptions": [
+        {
+          "text": "Customer Segments",
+          "isCorrect": true,
+          "rationale": "Questo blocco identifica i diversi gruppi di persone o organizzazioni che l'azienda mira a raggiungere."
+        },
+        {
+          "text": "Value Propositions",
+          "isCorrect": false,
+          "rationale": "Questo blocco risponde a 'Cosa' stiamo offrendo, non a 'Chi'."
+        },
+        {
+          "text": "Customer Relationships",
+          "isCorrect": false,
+          "rationale": "Descrive il 'Come' interagiamo con loro, presupponendo che siano già stati identificati."
+        },
+        {
+          "text": "Channels",
+          "isCorrect": false,
+          "rationale": "Si riferisce al mezzo di consegna, non all'identità del destinatario."
+        }
+      ],
+      "hint": "Si tratta del destinatario finale dell'offerta aziendale."
+    },
+    {
+      "question": "Cosa indicano i termini CPM e CPC nell'advertising online?",
+      "answerOptions": [
+        {
+          "text": "Costo per mille visualizzazioni e Costo per ogni singolo clic.",
+          "isCorrect": true,
+          "rationale": "Il CPM (Mille impression) misura la visibilità, mentre il CPC misura l'interazione attiva (clic)."
+        },
+        {
+          "text": "Costo per mille clienti e Costo per conversione.",
+          "isCorrect": false,
+          "rationale": "Mille sta per impression (visualizzazioni), non per numero di clienti acquisiti."
+        },
+        {
+          "text": "Contenuto per media e Contenuto per canale.",
+          "isCorrect": false,
+          "rationale": "Sono termini finanziari legati al costo della pubblicità, non alla tipologia di contenuto."
+        },
+        {
+          "text": "Commissione per marketing e Commissione per clic.",
+          "isCorrect": false,
+          "rationale": "CPM sta specificamente per 'Cost Per Mille' (impression)."
+        }
+      ],
+      "hint": "Il primo riguarda la visualizzazione dell'annuncio, il secondo l'azione di premerlo."
+    },
+    {
+      "question": "Vinted è presentato nel materiale come un esempio di:",
+      "answerOptions": [
+        {
+          "text": "Customer Value Proposition basata sul decluttering del guardaroba.",
+          "isCorrect": true,
+          "rationale": "La sua offerta principale è aiutare le persone a liberare spazio vendendo vestiti che non usano più."
+        },
+        {
+          "text": "Modello di revenue basato solo sulla produzione diretta.",
+          "isCorrect": false,
+          "rationale": "Vinted è una piattaforma di second-hand, non produce i vestiti che vende."
+        },
+        {
+          "text": "Esempio di partnership con Apple.",
+          "isCorrect": false,
+          "rationale": "Non viene menzionata alcuna partnership specifica con Apple nel testo."
+        },
+        {
+          "text": "Modello di business esclusivamente offline.",
+          "isCorrect": false,
+          "rationale": "Vinted è una piattaforma digitale online."
+        }
+      ],
+      "hint": "Pensa allo slogan 'Ready to declutter your wardrobe?'."
+    },
+    {
+      "question": "Nel Business Model Canvas, il blocco 'Cost Structure' descrive:",
+      "answerOptions": [
+        {
+          "text": "Tutti i costi sostenuti per far funzionare il modello di business.",
+          "isCorrect": true,
+          "rationale": "Include i costi delle risorse chiave, delle attività e dei partner necessari."
+        },
+        {
+          "text": "Solo il prezzo di vendita dei prodotti al pubblico.",
+          "isCorrect": false,
+          "rationale": "Il prezzo di vendita fa parte del Revenue Streams, non dei costi."
+        },
+        {
+          "text": "Lo stipendio medio dei soli dipendenti part-time.",
+          "isCorrect": false,
+          "rationale": "È una visione troppo limitata; include ogni elemento di costo rilevante."
+        },
+        {
+          "text": "Le tasse governative pagate dall'azienda.",
+          "isCorrect": false,
+          "rationale": "Sebbene siano costi, il BMC si concentra sui costi operativi legati alla creazione di valore."
+        }
+      ],
+      "hint": "Si riferisce alle uscite finanziarie necessarie per sostenere l'operatività."
+    },
+    {
+      "question": "La definizione di Afuah e Tucci (2003) aggiunge un elemento specifico al business model. Quale?",
+      "answerOptions": [
+        {
+          "text": "La tempistica (quando) delle attività per ottenere profitto.",
+          "isCorrect": true,
+          "rationale": "Gli autori definiscono il modello come l'insieme di attività, come e 'quando' eseguirle per offrire benefici e trarre profitto."
+        },
+        {
+          "text": "L'uso obbligatorio dei social media.",
+          "isCorrect": false,
+          "rationale": "La definizione è generale e non legata a tecnologie specifiche."
+        },
+        {
+          "text": "La necessità di avere almeno dieci partner chiave.",
+          "isCorrect": false,
+          "rationale": "Non viene specificato alcun numero minimo di partner nella loro definizione."
+        },
+        {
+          "text": "L'eliminazione totale del concetto di valore per il cliente.",
+          "isCorrect": false,
+          "rationale": "Al contrario, specificano che l'obiettivo è offrire i benefici che i clienti desiderano."
+        }
+      ],
+      "hint": "Cerca un riferimento temporale nell'esecuzione delle attività aziendali."
+    },
+    {
+      "question": "Airbnb focalizza la sua proposta di valore su:",
+      "answerOptions": [
+        {
+          "text": "Prenotazione di case ed esperienze uniche in tutto il mondo.",
+          "isCorrect": true,
+          "rationale": "Il valore non è solo l'alloggio, ma l'unicità e l'esperienza globale offerta."
+        },
+        {
+          "text": "Offerta di hotel di lusso a prezzi stracciati.",
+          "isCorrect": false,
+          "rationale": "Airbnb si differenzia dagli hotel puntando su case private ed esperienze locali."
+        },
+        {
+          "text": "Vendita di biglietti aerei low-cost.",
+          "isCorrect": false,
+          "rationale": "Questa è l'attività di agenzie di viaggio o siti come Skyscanner, non il focus di Airbnb."
+        },
+        {
+          "text": "Servizi di trasloco internazionale.",
+          "isCorrect": false,
+          "rationale": "Sebbene si occupi di case, lo scopo è l'ospitalità temporanea, non il trasloco."
+        }
+      ],
+      "hint": "Rifletti sulle parole 'unique homes' e 'experiences'."
+    },
+    {
+      "question": "Cosa rappresenta il blocco 'Key Resources' nel Business Model Canvas?",
+      "answerOptions": [
+        {
+          "text": "I beni materiali, intellettuali, umani o finanziari indispensabili.",
+          "isCorrect": true,
+          "rationale": "Sono gli asset necessari per creare la proposta di valore e far funzionare l'azienda."
+        },
+        {
+          "text": "Solo i server informatici utilizzati dall'azienda.",
+          "isCorrect": false,
+          "rationale": "Questa è solo una risorsa fisica/tecnologica; il blocco è molto più ampio (include persone, brevetti, ecc.)."
+        },
+        {
+          "text": "Le fonti di finanziamento esterne come i prestiti bancari.",
+          "isCorrect": false,
+          "rationale": "Sebbene correlate, le risorse chiave sono ciò che l'azienda 'possiede' o 'usa' operativamente."
+        },
+        {
+          "text": "I nomi di tutti i clienti più importanti.",
+          "isCorrect": false,
+          "rationale": "I clienti appartengono ai segmenti; le risorse sono ciò che serve per servirli."
+        }
+      ],
+      "hint": "Pensa a tutto ciò che è necessario possedere o controllare per operare."
+    },
+    {
+      "question": "Il blocco 'Customer Relationships' descrive:",
+      "answerOptions": [
+        {
+          "text": "Il tipo di relazione che l'azienda stabilisce con i suoi segmenti di clienti.",
+          "isCorrect": true,
+          "rationale": "Può variare dall'assistenza personale al self-service o alla co-creazione."
+        },
+        {
+          "text": "I legami di parentela tra i soci dell'azienda.",
+          "isCorrect": false,
+          "rationale": "Il blocco riguarda il mercato esterno, non la composizione societaria interna."
+        },
+        {
+          "text": "Il numero esatto di chiamate ricevute dal call center.",
+          "isCorrect": false,
+          "rationale": "Queste sono metriche operative, non la definizione della tipologia di relazione strategica."
+        },
+        {
+          "text": "La lista degli indirizzi email degli iscritti alla newsletter.",
+          "isCorrect": false,
+          "rationale": "Questo è un database (risorsa o canale), non la natura della relazione stessa."
+        }
+      ],
+      "hint": "Rifletti sul 'come' l'azienda interagisce e mantiene il contatto con chi compra."
+    },
+    {
+      "question": "Quale blocco del BMC si occupa delle attività principali come la produzione o il problem solving?",
+      "answerOptions": [
+        {
+          "text": "Key Activities",
+          "isCorrect": true,
+          "rationale": "Questo blocco descrive le azioni più importanti che l'azienda deve compiere per avere successo."
+        },
+        {
+          "text": "Value Propositions",
+          "isCorrect": false,
+          "rationale": "Questo blocco descrive il risultato finale per il cliente, non i compiti per ottenerlo."
+        },
+        {
+          "text": "Key Partners",
+          "isCorrect": false,
+          "rationale": "Si riferisce a chi aiuta esternamente, non a cosa l'azienda fa internamente."
+        },
+        {
+          "text": "Revenue Streams",
+          "isCorrect": false,
+          "rationale": "Riguarda l'aspetto finanziario delle entrate, non l'operatività pratica."
+        }
+      ],
+      "hint": "Pensa alle azioni operative fondamentali da svolgere."
+    },
+    {
+      "question": "Cosa significa che un Business Model è progettato per 'catturare un'opportunità di mercato'?",
+      "answerOptions": [
+        {
+          "text": "Che crea valore per tutti gli stakeholder coinvolti sfruttando un bisogno percepito.",
+          "isCorrect": true,
+          "rationale": "L'obiettivo è trasformare un'opportunità esterna in un valore sostenibile per l'azienda, i partner e i clienti."
+        },
+        {
+          "text": "Che mira a eliminare tutti i concorrenti con pratiche illegali.",
+          "isCorrect": false,
+          "rationale": "Il business model riguarda la creazione di valore etica e strategica, non azioni illegali."
+        },
+        {
+          "text": "Che cerca di vendere prodotti inutili a chi non ne ha bisogno.",
+          "isCorrect": false,
+          "rationale": "Un modello solido deve rispondere a un bisogno reale per essere sostenibile nel tempo."
+        },
+        {
+          "text": "Che si concentra esclusivamente sul ridurre le tasse.",
+          "isCorrect": false,
+          "rationale": "L'ottimizzazione fiscale è marginale rispetto alla logica di creazione di valore centrale."
+        }
+      ],
+      "hint": "Il termine chiave è 'creazione di valore' per chiunque sia interessato all'attività."
+    },
+    {
+      "question": "Il framework di Allan Afuah, mostrato nelle slide, pone al centro del modello:",
+      "answerOptions": [
+        {
+          "text": "Le Capabilities (Capacità).",
+          "isCorrect": true,
+          "rationale": "Nel diagramma circolare di Afuah, le capacità dell'impresa supportano i quattro quadranti esterni."
+        },
+        {
+          "text": "Il puro profitto monetario.",
+          "isCorrect": false,
+          "rationale": "Il profitto è il risultato del revenue model, ma non è l'unico elemento centrale."
+        },
+        {
+          "text": "Il logo dell'azienda.",
+          "isCorrect": false,
+          "rationale": "Il logo fa parte dell'immagine/reputazione, ma non è il perno strutturale del framework."
+        },
+        {
+          "text": "I fornitori di materie prime.",
+          "isCorrect": false,
+          "rationale": "Questi sono attori esterni, mentre le capacità sono interne all'organizzazione."
+        }
+      ],
+      "hint": "Guarda l'elemento che sta nel cerchio interno del diagramma a quattro quadranti."
+    },
+    {
+      "question": "Quale domanda aiuta a definire la 'Customer Value Proposition' secondo il materiale?",
+      "answerOptions": [
+        {
+          "text": "Cosa c'è di così avvincente o gratificante nell'offerta della ditta da attrarre i clienti?",
+          "isCorrect": true,
+          "rationale": "La CVP deve spiegare l'attrattività dell'offerta rispetto a quella dei concorrenti."
+        },
+        {
+          "text": "Qual è l'indirizzo della sede legale della ditta?",
+          "isCorrect": false,
+          "rationale": "Le informazioni logistiche non fanno parte della proposta di valore strategica."
+        },
+        {
+          "text": "Quanti dipendenti sono stati assunti nell'ultimo anno?",
+          "isCorrect": false,
+          "rationale": "La dimensione del personale è un dato strutturale, non una proposta di valore per il cliente."
+        },
+        {
+          "text": "Qual è il codice fiscale dell'azienda?",
+          "isCorrect": false,
+          "rationale": "Si tratta di un dato amministrativo privo di valore strategico per il cliente."
+        }
+      ],
+      "hint": "Pensa alla motivazione che spinge un cliente a scegliere un brand specifico."
+    },
+    {
+      "question": "Nel modello di revenue di iTunes (citato nelle slide), l'utente paga:",
+      "answerOptions": [
+        {
+          "text": "Per l'effettiva fruizione del singolo servizio (Fee-for-service).",
+          "isCorrect": true,
+          "rationale": "Tradizionalmente su iTunes si acquista il singolo brano o film, a differenza di Apple Music che è a abbonamento."
+        },
+        {
+          "text": "Un canone mensile fisso per ascoltare tutto ciò che vuole.",
+          "isCorrect": false,
+          "rationale": "Questo descrive il modello di abbonamento (Subscription), tipico invece di Spotify o Apple Music."
+        },
+        {
+          "text": "Nulla, perché il servizio è interamente supportato da annunci audio.",
+          "isCorrect": false,
+          "rationale": "Questo è il modello advertising-based tipico delle versioni free."
+        },
+        {
+          "text": "Solo una quota di iscrizione una tantum per tutta la vita.",
+          "isCorrect": false,
+          "rationale": "Il modello citato prevede pagamenti legati al consumo specifico di contenuti."
+        }
+      ],
+      "hint": "Si paga 'al pezzo' o per il servizio usato in quel momento."
+    },
+    {
+      "question": "Il 'Il Sole 24 ORE' viene usato come esempio di quale modello di revenue?",
+      "answerOptions": [
+        {
+          "text": "Subscription based (Abbonamento).",
+          "isCorrect": true,
+          "rationale": "Il giornale propone diverse forme di abbonamento (Digital, Business Class, ecc.) per l'accesso ai contenuti."
+        },
+        {
+          "text": "Markup based (Ricarico).",
+          "isCorrect": false,
+          "rationale": "L'editoria si basa su abbonamenti o pubblicità, non sulla rivendita di prodotti fisici altrui con ricarico."
+        },
+        {
+          "text": "Commission based (Commissione).",
+          "isCorrect": false,
+          "rationale": "Il giornale vende propri contenuti o spazi, non agisce come marketplace trattenendo commissioni tra terzi."
+        },
+        {
+          "text": "Affiliation (Affiliazione).",
+          "isCorrect": false,
+          "rationale": "Sebbene possa avere link affiliati, l'esempio specifico nelle slide mostra i prezzi degli abbonamenti."
+        }
+      ],
+      "hint": "Guarda l'immagine dei pacchetti annuali, mensili e trimestrali."
+    },
+    {
+      "question": "Secondo le slide, il modello di business di LinkedIn si basa su:",
+      "answerOptions": [
+        {
+          "text": "Essere la più grande comunità professionale del mondo.",
+          "isCorrect": true,
+          "rationale": "La sua proposta di valore si fonda sul networking e sulle opportunità professionali per la sua community."
+        },
+        {
+          "text": "Vendere computer a basso costo per i lavoratori.",
+          "isCorrect": false,
+          "rationale": "LinkedIn è un servizio software e social, non un produttore di hardware."
+        },
+        {
+          "text": "Offrire solo servizi di intrattenimento video.",
+          "isCorrect": false,
+          "rationale": "Il focus è professionale, non di puro intrattenimento come YouTube o Netflix."
+        },
+        {
+          "text": "Agire come un negozio di abbigliamento per ufficio.",
+          "isCorrect": false,
+          "rationale": "L'attività riguarda le connessioni umane e i dati, non il retail fisico."
+        }
+      ],
+      "hint": "Pensa alla natura della piattaforma e alla sua utilità per la carriera."
+    },
+    {
+      "question": "Quale di queste affermazioni sul Business Model Canvas è corretta?",
+      "answerOptions": [
+        {
+          "text": "È uno strumento visuale composto da 9 blocchi predefiniti.",
+          "isCorrect": true,
+          "rationale": "Il canvas è strutturato per mappare in modo sintetico e visivo tutti gli aspetti chiave dell'azienda."
+        },
+        {
+          "text": "Può essere utilizzato solo da aziende che hanno più di 100 dipendenti.",
+          "isCorrect": false,
+          "rationale": "È uno strumento universale adatto a startup, piccole imprese e grandi multinazionali."
+        },
+        {
+          "text": "Sostituisce completamente il bilancio d'esercizio annuale.",
+          "isCorrect": false,
+          "rationale": "Il BMC è uno strumento strategico e progettuale, non un documento contabile fiscale."
+        },
+        {
+          "text": "Deve essere scritto esclusivamente in lingua inglese per essere valido.",
+          "isCorrect": false,
+          "rationale": "Sebbene i termini originali siano inglesi, può essere compilato in qualsiasi lingua."
+        }
+      ],
+      "hint": "Considera la sua struttura grafica e il numero di sezioni che lo compongono."
+    }
+  ]
+}

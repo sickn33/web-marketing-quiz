@@ -1,0 +1,785 @@
+{
+  "title": "Quiz Marketing",
+  "questions": [
+    {
+      "question": "Qual è l'obiettivo principale delle ricerche di mercato online menzionato all'inizio del materiale?",
+      "answerOptions": [
+        {
+          "text": "Ridurre l'asimmetria informativa",
+          "isCorrect": true,
+          "rationale": "La ricerca di mercato serve a colmare il divario di conoscenza tra l'azienda e il mercato di riferimento."
+        },
+        {
+          "text": "Aumentare il prezzo di vendita dei prodotti",
+          "isCorrect": false,
+          "rationale": "Sebbene la ricerca possa influenzare il pricing, il suo scopo intrinseco è l'acquisizione di informazioni."
+        },
+        {
+          "text": "Eliminare completamente la concorrenza",
+          "isCorrect": false,
+          "rationale": "La ricerca aiuta a comprendere i competitor, ma non ha il potere diretto di eliminarli dal mercato."
+        },
+        {
+          "text": "Ridurre i costi di produzione",
+          "isCorrect": false,
+          "rationale": "La riduzione dei costi di produzione riguarda solitamente l'area operativa e non è il fine primario della ricerca di mercato."
+        }
+      ],
+      "hint": "Si riferisce al superamento di una condizione di squilibrio nella conoscenza dei dati."
+    },
+    {
+      "question": "Cosa distingue una ricerca \"Web-centric\" da una \"Web-enabled\"?",
+      "answerOptions": [
+        {
+          "text": "La ricerca Web-centric si focalizza su comportamenti che avvengono specificamente sulla Rete.",
+          "isCorrect": true,
+          "rationale": "Questo approccio considera il Web non solo come strumento, ma come oggetto stesso dell'indagine."
+        },
+        {
+          "text": "La ricerca Web-centric usa il Web solo come supporto logistico.",
+          "isCorrect": false,
+          "rationale": "Questo descrive l'approccio Web-enabled, dove Internet è un mero canale di distribuzione."
+        },
+        {
+          "text": "La ricerca Web-enabled analizza esclusivamente i social media.",
+          "isCorrect": false,
+          "rationale": "Web-enabled indica l'uso della tecnologia per facilitare ricerche tradizionali, indipendentemente dal sito specifico."
+        },
+        {
+          "text": "Non esiste alcuna distinzione pratica tra i due termini.",
+          "isCorrect": false,
+          "rationale": "Il materiale specifica chiaramente che la distinzione risiede nell'oggetto della ricerca (supporto vs comportamento online)."
+        }
+      ],
+      "hint": "Pensa a quale dei due approcci mette al centro il comportamento dell'utente su Internet."
+    },
+    {
+      "question": "Quali sono le tre fonti principali di dati utilizzate dagli e-marketer?",
+      "answerOptions": [
+        {
+          "text": "Dati interni, dati secondari e dati primari",
+          "isCorrect": true,
+          "rationale": "Queste categorie rappresentano il mix standard di informazioni provenienti dall'interno dell'azienda, da fonti esterne pre-esistenti o raccolte ad hoc."
+        },
+        {
+          "text": "Social media, forum e blog",
+          "isCorrect": false,
+          "rationale": "Questi sono canali o strumenti, non le categorie strutturali delle fonti di dati di marketing."
+        },
+        {
+          "text": "Email, sondaggi web e interviste",
+          "isCorrect": false,
+          "rationale": "Questi sono metodi di raccolta per dati primari, non le tre fonti macro-categorie."
+        },
+        {
+          "text": "Fatturato, numero di click e tempo di permanenza",
+          "isCorrect": false,
+          "rationale": "Questi sono indicatori o metriche specifiche, non fonti di dati generali."
+        }
+      ],
+      "hint": "Riguarda l'origine delle informazioni: interna, esterna già esistente, o creata da zero."
+    },
+    {
+      "question": "Qual è uno dei principali vantaggi dei dati primari?",
+      "answerOptions": [
+        {
+          "text": "Sono proprietari e quindi non disponibili per la concorrenza",
+          "isCorrect": true,
+          "rationale": "Essendo raccolti specificamente dall'azienda, i dati primari offrono un vantaggio competitivo esclusivo."
+        },
+        {
+          "text": "Sono meno costosi da raccogliere rispetto ai dati secondari",
+          "isCorrect": false,
+          "rationale": "Al contrario, i dati primari richiedono maggiori investimenti di tempo e risorse per essere generati."
+        },
+        {
+          "text": "Sono sempre immediatamente disponibili nei database pubblici",
+          "isCorrect": false,
+          "rationale": "Questa è una caratteristica tipica di alcuni dati secondari, non dei primari che vanno creati."
+        },
+        {
+          "text": "Riducono la necessità di interpretazione statistica",
+          "isCorrect": false,
+          "rationale": "Tutti i dati grezzi, primari o secondari, richiedono analisi per diventare informazioni utili."
+        }
+      ],
+      "hint": "Pensa a chi possiede effettivamente le informazioni generate da una ricerca ad hoc."
+    },
+    {
+      "question": "Perché le aziende si stanno spostando verso metodi di ricerca online rispetto a quelli tradizionali telefonici?",
+      "answerOptions": [
+        {
+          "text": "A causa del calo della cooperazione dei consumatori (alti tassi di rifiuto)",
+          "isCorrect": true,
+          "rationale": "I sondaggi telefonici registrano tassi di rifiuto tra il 40% e il 60%, rendendoli meno efficaci dell'online."
+        },
+        {
+          "text": "Perché le telefonate sono diventate illegali per il marketing",
+          "isCorrect": false,
+          "rationale": "Le telefonate sono regolate ma non illegali; il problema principale è la mancanza di partecipazione volontaria."
+        },
+        {
+          "text": "Perché online è impossibile ricevere risposte false",
+          "isCorrect": false,
+          "rationale": "L'onestà dei rispondenti è una sfida per ogni metodologia, inclusa quella online."
+        },
+        {
+          "text": "Perché i dati online non richiedono mai analisi statistiche",
+          "isCorrect": false,
+          "rationale": "La mole di dati online richiede anzi strumenti di analisi ancora più avanzati."
+        }
+      ],
+      "hint": "Considera la reazione delle persone quando ricevono una chiamata da un call center."
+    },
+    {
+      "question": "Quale di questi approcci NON è elencato tra le principali metodologie di ricerca basate su Internet?",
+      "answerOptions": [
+        {
+          "text": "Interviste stradali con tablet",
+          "isCorrect": true,
+          "rationale": "Il materiale si focalizza su metodi nativi del Web come eyetracking, focus group online e sondaggi web."
+        },
+        {
+          "text": "Eyetracking / Mousetracking",
+          "isCorrect": false,
+          "rationale": "Questa è una tecnica citata per analizzare come gli utenti interagiscono visivamente o col mouse sulle pagine web."
+        },
+        {
+          "text": "Usability testing",
+          "isCorrect": false,
+          "rationale": "Viene menzionato come metodo per verificare quanto un'interfaccia sia facile da usare."
+        },
+        {
+          "text": "Online communities",
+          "isCorrect": false,
+          "rationale": "Le comunità online sono indicate come un modo per raccogliere dati qualitativi dai consumatori."
+        }
+      ],
+      "hint": "Cerca l'opzione che prevede un contatto fisico/tradizionale anche se usa uno strumento digitale."
+    },
+    {
+      "question": "Come può un'organizzazione preparare un sondaggio via email?",
+      "answerOptions": [
+        {
+          "text": "Estraendo campioni dal proprio database o acquistando liste",
+          "isCorrect": true,
+          "rationale": "L'uso di database interni o liste acquistate legalmente sono metodi standard per raggiungere i target via email."
+        },
+        {
+          "text": "Inviando email casuali a qualsiasi indirizzo trovato sui social",
+          "isCorrect": false,
+          "rationale": "Questo approccio (spam) non è una metodologia di ricerca strutturata e viola spesso le normative sulla privacy."
+        },
+        {
+          "text": "Chiedendo ai dipendenti di usare i propri contatti personali",
+          "isCorrect": false,
+          "rationale": "Questo creerebbe un bias significativo e non rappresenterebbe una metodologia di campionamento professionale."
+        },
+        {
+          "text": "Solo attraverso messaggi privati su WhatsApp",
+          "isCorrect": false,
+          "rationale": "Sebbene esistano nuovi canali, il materiale specifica l'uso di database di indirizzi email e siti web."
+        }
+      ],
+      "hint": "Considera le fonti legittime da cui un'azienda ottiene i recapiti dei destinatari."
+    },
+    {
+      "question": "Quale modello di prezzo viene associato a piattaforme come SurveyMonkey nel materiale?",
+      "answerOptions": [
+        {
+          "text": "Freemium",
+          "isCorrect": true,
+          "rationale": "Il modello freemium offre funzionalità base gratuite e opzioni avanzate a pagamento (Standard, Advantage, Premier)."
+        },
+        {
+          "text": "Pay-per-response",
+          "isCorrect": false,
+          "rationale": "Sebbene esistano pacchetti, il modello principale mostrato si basa su abbonamenti mensili/annuali con vari livelli di servizio."
+        },
+        {
+          "text": "Completamente gratuito per le aziende",
+          "isCorrect": false,
+          "rationale": "Le slide mostrano chiaramente piani tariffari che variano da 36 a 99 euro al mese."
+        },
+        {
+          "text": "Open source senza costi",
+          "isCorrect": false,
+          "rationale": "SurveyMonkey è una piattaforma commerciale proprietaria con diverse fasce di prezzo."
+        }
+      ],
+      "hint": "È un termine che unisce 'gratis' e 'a pagamento'."
+    },
+    {
+      "question": "In che modo i sondaggi web aiutano a ridurre gli errori rispetto a quelli cartacei?",
+      "answerOptions": [
+        {
+          "text": "Eliminano gli errori di inserimento dati durante la conversione",
+          "isCorrect": true,
+          "rationale": "Poiché il rispondente inserisce i dati direttamente nel sistema, non serve una trascrizione manuale che potrebbe generare errori."
+        },
+        {
+          "text": "Impediscono agli utenti di mentire nelle risposte",
+          "isCorrect": false,
+          "rationale": "Nessuna tecnologia può garantire l'onestà assoluta del rispondente."
+        },
+        {
+          "text": "Rendono tutte le domande obbligatorie per legge",
+          "isCorrect": false,
+          "rationale": "L'obbligatorietà è una scelta del ricercatore nel design del software, non un obbligo legale."
+        },
+        {
+          "text": "Garantiscono che il campione sia sempre perfettamente rappresentativo",
+          "isCorrect": false,
+          "rationale": "Al contrario, la rappresentatività è uno dei principali problemi tecnici dei sondaggi web."
+        }
+      ],
+      "hint": "Pensa alla fase in cui le risposte su carta devono essere digitate in un computer."
+    },
+    {
+      "question": "Qual è un significativo svantaggio dei sondaggi web relativo alla validità della misurazione?",
+      "answerOptions": [
+        {
+          "text": "Le diverse dimensioni e risoluzioni degli schermi possono alterare la visualizzazione delle scale",
+          "isCorrect": true,
+          "rationale": "La variabilità hardware può far sì che i colori o le scale di misura appaiano diversamente a ogni utente, influenzando la percezione."
+        },
+        {
+          "text": "Il costo per invio è troppo elevato",
+          "isCorrect": false,
+          "rationale": "Il materiale dichiara esplicitamente che i sondaggi web sono economici e veloci."
+        },
+        {
+          "text": "I tempi di risposta sono troppo lunghi (mesi)",
+          "isCorrect": false,
+          "rationale": "Solitamente la maggior parte delle risposte arriva nei primi tre giorni."
+        },
+        {
+          "text": "Gli utenti non possono rispondere da dispositivi mobili",
+          "isCorrect": false,
+          "rationale": "Oggi la maggior parte dei sondaggi è accessibile da mobile, sebbene il materiale si concentri sui problemi di visualizzazione."
+        }
+      ],
+      "hint": "Considera le differenze tecniche tra il computer di un utente e quello di un altro."
+    },
+    {
+      "question": "Secondo uno studio comparativo, come si comportano gli utenti online rispetto alle scale di valutazione a cinque punti?",
+      "answerOptions": [
+        {
+          "text": "Hanno meno probabilità di usare i due punti estremi della scala",
+          "isCorrect": true,
+          "rationale": "Gli utenti online tendono a evitare i valori massimi o minimi rispetto a chi risponde via telefono."
+        },
+        {
+          "text": "Scelgono sempre l'opzione centrale per fare più in fretta",
+          "isCorrect": false,
+          "rationale": "Sebbene esista il rischio di risposte centrali, lo studio citato evidenzia specificamente la minor frequenza nell'uso degli estremi."
+        },
+        {
+          "text": "Preferiscono non rispondere affatto alle scale numeriche",
+          "isCorrect": false,
+          "rationale": "Le scale sono ampiamente utilizzate; il problema risiede nella distribuzione statistica delle scelte."
+        },
+        {
+          "text": "Utilizzano solo i valori estremi per esprimere opinioni forti",
+          "isCorrect": false,
+          "rationale": "Lo studio afferma l'esatto opposto: una minore tendenza all'uso degli estremi rispetto ai sondaggi telefonici."
+        }
+      ],
+      "hint": "Riguarda la tendenza a non sbilanciarsi troppo verso il 'completamente d'accordo' o 'completamente in disaccordo'."
+    },
+    {
+      "question": "Quale di questi NON è uno dei tre obiettivi principali di un ricercatore nella creazione di un questionario?",
+      "answerOptions": [
+        {
+          "text": "Massimizzare il profitto derivante dalla vendita dei dati",
+          "isCorrect": true,
+          "rationale": "Gli obiettivi tecnici sono raccogliere info, coinvolgere i rispondenti e ridurre gli errori; la vendita non è un obiettivo di design."
+        },
+        {
+          "text": "Raccogliere le informazioni desiderate tramite domande specifiche",
+          "isCorrect": false,
+          "rationale": "Questo è il primo obiettivo fondamentale per risolvere il problema di marketing."
+        },
+        {
+          "text": "Coinvolgere i rispondenti per ottenere collaborazione",
+          "isCorrect": false,
+          "rationale": "Senza la partecipazione attiva e sincera dell'utente, i dati raccolti perdono valore."
+        },
+        {
+          "text": "Ridurre gli errori di risposta tramite un design accurato",
+          "isCorrect": false,
+          "rationale": "Un questionario ben progettato limita le incomprensioni e i dati non validi."
+        }
+      ],
+      "hint": "Pensa agli obiettivi legati alla qualità della ricerca piuttosto che al business dei dati."
+    },
+    {
+      "question": "Cosa si intende per \"parsimonia\" nel contesto della stesura di un questionario?",
+      "answerOptions": [
+        {
+          "text": "Includere solo i temi di primario interesse per l'indagine",
+          "isCorrect": true,
+          "rationale": "Evitare domande superflue riduce l'affaticamento del rispondente e migliora la qualità dei dati."
+        },
+        {
+          "text": "Utilizzare il minor numero possibile di parole per ogni domanda",
+          "isCorrect": false,
+          "rationale": "La chiarezza è più importante della brevità assoluta; parsimonia si riferisce alla selezione dei temi."
+        },
+        {
+          "text": "Offrire il minor numero di opzioni di risposta",
+          "isCorrect": false,
+          "rationale": "Le opzioni devono essere complete ed esaustive; limitarle artificialmente danneggia la ricerca."
+        },
+        {
+          "text": "Ridurre al minimo i costi di distribuzione software",
+          "isCorrect": false,
+          "rationale": "La parsimonia riguarda il contenuto informativo e la struttura logica, non il budget tecnologico."
+        }
+      ],
+      "hint": "È il principio di non eccedere nel numero di argomenti trattati."
+    },
+    {
+      "question": "Qual è la sequenza corretta consigliata per la progettazione del questionario?",
+      "answerOptions": [
+        {
+          "text": "Elencare le variabili, poi formulare le domande",
+          "isCorrect": true,
+          "rationale": "È fondamentale sapere cosa si vuole misurare (variabili) prima di decidere come chiederlo."
+        },
+        {
+          "text": "Scrivere le domande, poi identificare le variabili",
+          "isCorrect": false,
+          "rationale": "Questo approccio rischia di generare domande inutili o di tralasciare dati essenziali."
+        },
+        {
+          "text": "Scegliere il software, poi decidere i temi",
+          "isCorrect": false,
+          "rationale": "Lo strumento tecnologico deve seguire la strategia di ricerca, non dettarla."
+        },
+        {
+          "text": "Raccogliere i dati, poi definire gli obiettivi",
+          "isCorrect": false,
+          "rationale": "Senza obiettivi prefissati, la raccolta dati è casuale e priva di valore scientifico."
+        }
+      ],
+      "hint": "Bisogna prima decidere 'cosa' misurare e poi 'come'."
+    },
+    {
+      "question": "Qual è un vantaggio delle domande aperte?",
+      "answerOptions": [
+        {
+          "text": "Offrono una maggiore profondità di informazione e libertà al rispondente",
+          "isCorrect": true,
+          "rationale": "Le domande aperte permettono di cogliere sfumature e motivazioni che le risposte predefinite potrebbero ignorare."
+        },
+        {
+          "text": "Sono molto facili da codificare e analizzare statisticamente",
+          "isCorrect": false,
+          "rationale": "Questo è un vantaggio delle domande chiuse; le aperte richiedono un lungo lavoro di categorizzazione manuale."
+        },
+        {
+          "text": "Riducono il rischio di commettere errori di interpretazione",
+          "isCorrect": false,
+          "rationale": "Al contrario, interpretare il testo libero è molto più complesso che leggere un valore numerico."
+        },
+        {
+          "text": "Sono più veloci da completare per l'utente",
+          "isCorrect": false,
+          "rationale": "Scrivere una risposta richiede generalmente più tempo e sforzo che barrare una casella."
+        }
+      ],
+      "hint": "Pensa a cosa ottieni quando lasci che l'utente si esprima con le proprie parole."
+    },
+    {
+      "question": "Dove dovrebbero essere posizionate le domande che causano \"stress di memoria\"?",
+      "answerOptions": [
+        {
+          "text": "A metà del questionario",
+          "isCorrect": true,
+          "rationale": "Inizialmente l'utente non è ancora pronto per uno sforzo eccessivo, e alla fine è troppo stanco."
+        },
+        {
+          "text": "All'inizio, per prenderle subito quando l'utente è fresco",
+          "isCorrect": false,
+          "rationale": "Metterle all'inizio rischia di scoraggiare il rispondente prima che abbia preso fiducia nel sondaggio."
+        },
+        {
+          "text": "Alla fine, insieme ai dati demografici",
+          "isCorrect": false,
+          "rationale": "Alla fine subentra la stanchezza, compromettendo la qualità di risposte che richiedono sforzo mnemonico."
+        },
+        {
+          "text": "In una sezione separata inviata il giorno dopo",
+          "isCorrect": false,
+          "rationale": "Il materiale suggerisce una struttura specifica all'interno di un unico strumento di indagine."
+        }
+      ],
+      "hint": "Considera la curva di attenzione e disponibilità dell'utente durante il percorso."
+    },
+    {
+      "question": "Perché le domande su temi delicati vanno poste alla fine del questionario?",
+      "answerOptions": [
+        {
+          "text": "Per sfruttare la maggiore fiducia acquisita e non rischiare un rifiuto precoce",
+          "isCorrect": true,
+          "rationale": "Se l'utente rifiuta di rispondere a una domanda delicata alla fine, i dati precedenti sono comunque salvi."
+        },
+        {
+          "text": "Perché sono le domande meno importanti per la ricerca",
+          "isCorrect": false,
+          "rationale": "L'importanza non determina l'ordine; la delicatezza è una questione di psicologia del rispondente."
+        },
+        {
+          "text": "Perché richiedono meno tempo per rispondere",
+          "isCorrect": false,
+          "rationale": "Spesso le domande delicate richiedono riflessione, ma la loro posizione serve a proteggere l'integrità del resto del sondaggio."
+        },
+        {
+          "text": "Per legge, i dati sensibili devono stare nell'ultima pagina",
+          "isCorrect": false,
+          "rationale": "Non è un obbligo legale di impaginazione, ma una best practice metodologica per massimizzare il tasso di completamento."
+        }
+      ],
+      "hint": "Pensa a cosa succederebbe se l'utente si sentisse a disagio già alla prima domanda."
+    },
+    {
+      "question": "A cosa servono le \"domande filtro\"?",
+      "answerOptions": [
+        {
+          "text": "A indirizzare gruppi specifici di rispondenti verso domande a loro dedicate",
+          "isCorrect": true,
+          "rationale": "Permettono di saltare sezioni non pertinenti (es. non chiedere del room service a chi non ne ha usufruito)."
+        },
+        {
+          "text": "A eliminare automaticamente le risposte dei minorenni",
+          "isCorrect": false,
+          "rationale": "Sebbene possano servire a questo, la loro funzione principale è la gestione del flusso logico delle domande."
+        },
+        {
+          "text": "A controllare se il rispondente sta leggendo con attenzione",
+          "isCorrect": false,
+          "rationale": "Questa è la funzione delle domande di controllo o 'trap questions', non delle domande filtro."
+        },
+        {
+          "text": "A pulire i dati dai virus informatici",
+          "isCorrect": false,
+          "rationale": "Le domande filtro sono uno strumento logico del questionario, non un software di sicurezza."
+        }
+      ],
+      "hint": "Immagina un bivio che ti fa saltare le pagine inutili del sondaggio."
+    },
+    {
+      "question": "Quale problema presenta la domanda: \"Quante volte vai in palestra a settimana? a. 1 b. 2-3 c. 3-5 d. >5\"?",
+      "answerOptions": [
+        {
+          "text": "Mancanza di mutua esclusività nelle opzioni di risposta",
+          "isCorrect": true,
+          "rationale": "Se una persona va 3 volte, non saprebbe se scegliere l'opzione B o la C, creando confusione e dati sporchi."
+        },
+        {
+          "text": "La scala è troppo corta per essere significativa",
+          "isCorrect": false,
+          "rationale": "Il problema non è la lunghezza, ma la sovrapposizione dei valori numerici tra le scelte."
+        },
+        {
+          "text": "Non è previsto lo zero tra le risposte",
+          "isCorrect": false,
+          "rationale": "Sebbene manchi lo zero, il problema metodologico evidenziato dal materiale riguarda la sovrapposizione tra 3 e 3."
+        },
+        {
+          "text": "È una domanda troppo delicata per stare all'inizio",
+          "isCorrect": false,
+          "rationale": "Non è considerata una domanda sensibile, ma è un esempio di errore tecnico nella costruzione delle risposte."
+        }
+      ],
+      "hint": "Guarda bene i numeri nelle opzioni B e C."
+    },
+    {
+      "question": "Perché è importante definire accuratamente termini come \"colazione\" o \"cosmetici\" nel questionario?",
+      "answerOptions": [
+        {
+          "text": "Per garantire che la domanda rappresenti lo stesso stimolo per tutti i rispondenti",
+          "isCorrect": true,
+          "rationale": "Senza definizioni, ogni persona interpreta il termine a modo suo, rendendo i dati non confrontabili."
+        },
+        {
+          "text": "Per educare il consumatore sulle definizioni legali dei prodotti",
+          "isCorrect": false,
+          "rationale": "Lo scopo della ricerca è raccogliere dati, non fare formazione al cliente."
+        },
+        {
+          "text": "Per rendere il questionario più lungo e professionale",
+          "isCorrect": false,
+          "rationale": "La parsimonia suggerisce di non allungare inutilmente; le definizioni servono solo alla chiarezza."
+        },
+        {
+          "text": "Per evitare problemi di copyright con i marchi citati",
+          "isCorrect": false,
+          "rationale": "Le definizioni servono a ridurre l'ambiguità semantica, non hanno finalità legali di proprietà intellettuale."
+        }
+      ],
+      "hint": "Considera che ognuno potrebbe intendere cose diverse per lo stesso termine generico."
+    },
+    {
+      "question": "Cos'è una scala Likert secondo gli esempi forniti?",
+      "answerOptions": [
+        {
+          "text": "Una scala che misura il livello di accordo o disaccordo con una serie di affermazioni",
+          "isCorrect": true,
+          "rationale": "Viene usata per valutare atteggiamenti, spesso su una scala da 1 (completamente in disaccordo) a 5 (completamente d'accordo)."
+        },
+        {
+          "text": "Un tipo di domanda aperta dove l'utente scrive un saggio",
+          "isCorrect": false,
+          "rationale": "Le scale Likert sono domande chiuse con opzioni di risposta predefinite e graduate."
+        },
+        {
+          "text": "Un software specifico per il tracciamento del mouse",
+          "isCorrect": false,
+          "rationale": "È una tecnica psicometrica di misurazione, non un software."
+        },
+        {
+          "text": "Una lista di controllo per la privacy",
+          "isCorrect": false,
+          "rationale": "La scala Likert riguarda la misurazione delle opinioni, non la gestione dei dati personali."
+        }
+      ],
+      "hint": "Si usa spesso per dire quanto si è d'accordo con una frase."
+    },
+    {
+      "question": "Qual è il rischio nell'utilizzare un numero dispari di opzioni in una scala di valutazione?",
+      "answerOptions": [
+        {
+          "text": "Le risposte tendono ad ammassarsi eccessivamente sui valori medi",
+          "isCorrect": true,
+          "rationale": "L'opzione centrale permette ai rispondenti indecisi di non prendere una posizione netta."
+        },
+        {
+          "text": "Costringe il rispondente a \"schierarsi\" forzatamente",
+          "isCorrect": false,
+          "rationale": "Questo è l'effetto delle scale con numero pari, che eliminano il valore neutro centrale."
+        },
+        {
+          "text": "Rende impossibile il calcolo della media aritmetica",
+          "isCorrect": false,
+          "rationale": "La media si può calcolare indipendentemente dal fatto che il numero di opzioni sia pari o dispari."
+        },
+        {
+          "text": "Aumenta drasticamente il tempo di caricamento della pagina web",
+          "isCorrect": false,
+          "rationale": "Il numero di opzioni di testo non influisce significativamente sulle prestazioni tecniche del sito."
+        }
+      ],
+      "hint": "Pensa a cosa sceglie chi non sa decidersi tra due opposti."
+    },
+    {
+      "question": "Cosa indica il rischio di \"percezione scolastica\" in una scala da 1 a 10?",
+      "answerOptions": [
+        {
+          "text": "Le risposte tendono ad addensarsi dopo il valore 6",
+          "isCorrect": true,
+          "rationale": "In Italia, l'abitudine ai voti scolastici porta a considerare il 6 come sufficienza, distorcendo la distribuzione statistica."
+        },
+        {
+          "text": "Gli utenti rispondono solo se sono studenti",
+          "isCorrect": false,
+          "rationale": "Il termine si riferisce a un bias psicologico universale nel contesto culturale italiano, non al target."
+        },
+        {
+          "text": "La scala viene percepita come troppo infantile",
+          "isCorrect": false,
+          "rationale": "Non riguarda l'età, ma il modo in cui i numeri vengono associati a un giudizio di 'promozione' o 'bocciatura'."
+        },
+        {
+          "text": "Il questionario viene scambiato per un esame universitario",
+          "isCorrect": false,
+          "rationale": "Si tratta di un'associazione mentale inconscia tra i numeri della scala e i voti scolastici ricevuti in passato."
+        }
+      ],
+      "hint": "Ricorda come vengono interpretati i voti dal 6 in su in Italia."
+    },
+    {
+      "question": "Quale informazione deve contenere obbligatoriamente la prima sezione del questionario?",
+      "answerOptions": [
+        {
+          "text": "La garanzia della privacy e dell'anonimato",
+          "isCorrect": true,
+          "rationale": "È essenziale per ottenere il consenso informato e rassicurare il rispondente sull'uso dei dati."
+        },
+        {
+          "text": "Il fatturato dell'azienda che commissiona la ricerca",
+          "isCorrect": false,
+          "rationale": "Questa informazione non è pertinente e potrebbe influenzare negativamente le risposte."
+        },
+        {
+          "text": "Il link per scaricare l'app dell'azienda",
+          "isCorrect": false,
+          "rationale": "Inserire pubblicità all'inizio del questionario danneggia la credibilità della ricerca."
+        },
+        {
+          "text": "I risultati delle ricerche degli anni precedenti",
+          "isCorrect": false,
+          "rationale": "Mostrare i risultati passati potrebbe condizionare le risposte attuali dei partecipanti."
+        }
+      ],
+      "hint": "Si tratta di rassicurare l'utente su come verranno trattati i suoi dati."
+    },
+    {
+      "question": "In un esempio di questionario, perché viene chiesto di fornire \"le risposte più sincere possibili\"?",
+      "answerOptions": [
+        {
+          "text": "Perché il questionario mira a verificare l'efficacia delle attività, non a valutare la persona",
+          "isCorrect": true,
+          "rationale": "Sottolineare che non si tratta di un test individuale riduce l'ansia da prestazione e il bias di desiderabilità sociale."
+        },
+        {
+          "text": "Perché le risposte false attivano un allarme nel sistema",
+          "isCorrect": false,
+          "rationale": "Non esiste un sistema automatico nel software per rilevare la menzogna pura; si basa sulla collaborazione."
+        },
+        {
+          "text": "Perché i risultati verranno pubblicati col nome e cognome del manager",
+          "isCorrect": false,
+          "rationale": "Al contrario, si garantisce l'anonimato e l'elaborazione dei dati solo in forma aggregata."
+        },
+        {
+          "text": "Per legge, i questionari Erasmus+ richiedono una dichiarazione di sincerità",
+          "isCorrect": false,
+          "rationale": "È una scelta metodologica per migliorare la qualità del dato, non un mero obbligo burocratico."
+        }
+      ],
+      "hint": "Serve a tranquillizzare il rispondente sul fatto che non è 'sotto esame'."
+    },
+    {
+      "question": "Perché è fondamentale testare il questionario prima di inviarlo?",
+      "answerOptions": [
+        {
+          "text": "Per assicurarsi che le domande siano chiare e non ambigue",
+          "isCorrect": true,
+          "rationale": "Il pre-test permette di identificare errori logici o semantici prima che compromettano l'intera raccolta dati."
+        },
+        {
+          "text": "Per verificare se il server regge il carico di 100 utenti",
+          "isCorrect": false,
+          "rationale": "Questo è un test di carico tecnico, mentre il test del questionario riguarda la validità del contenuto."
+        },
+        {
+          "text": "Per correggere eventuali errori di ortografia nei nomi dei competitor",
+          "isCorrect": false,
+          "rationale": "Sebbene utile, il motivo principale è la validità della misurazione e la comprensibilità delle domande."
+        },
+        {
+          "text": "Perché lo richiede il fornitore del software (es. SurveyMonkey)",
+          "isCorrect": false,
+          "rationale": "Il test è una best practice del ricercatore, non un vincolo tecnico imposto dalla piattaforma."
+        }
+      ],
+      "hint": "Serve a capire se la gente capirà davvero cosa gli stai chiedendo."
+    },
+    {
+      "question": "Quale di queste opzioni descrive correttamente una domanda \"dicotomica\"?",
+      "answerOptions": [
+        {
+          "text": "Una domanda che offre solo due alternative di risposta (es. Sì/No)",
+          "isCorrect": true,
+          "rationale": "Il termine deriva dal greco e indica una divisione in due parti nette."
+        },
+        {
+          "text": "Una domanda con più di dieci possibili risposte",
+          "isCorrect": false,
+          "rationale": "Questa sarebbe una domanda a scelta multipla complessa, l'opposto di una dicotomica."
+        },
+        {
+          "text": "Una domanda dove bisogna scrivere una data specifica",
+          "isCorrect": false,
+          "rationale": "Le domande sulla data sono un tipo specifico di domanda a risposta chiusa numerica/calendario."
+        },
+        {
+          "text": "Una domanda che appare solo se si è risposto 'Sì' a quella precedente",
+          "isCorrect": false,
+          "rationale": "Questo descrive la logica di salto o domanda filtro, non la struttura della risposta stessa."
+        }
+      ],
+      "hint": "Pensa a quante opzioni hai quando puoi scegliere solo tra due opposti."
+    },
+    {
+      "question": "Qual è il consiglio del materiale riguardo all'uso della categoria \"Altro (specificare)\"?",
+      "answerOptions": [
+        {
+          "text": "Va aggiunta per non \"forzare\" il rispondente a scegliere tra opzioni non rappresentative",
+          "isCorrect": true,
+          "rationale": "Permette di catturare variabilità non prevista dal ricercatore ed evita che l'utente scelga a caso."
+        },
+        {
+          "text": "Va evitata perché rende l'analisi dei dati troppo complicata",
+          "isCorrect": false,
+          "rationale": "Sebbene sia più difficile da analizzare, il materiale la suggerisce per evitare di 'spingere' il rispondente verso risposte errate."
+        },
+        {
+          "text": "È obbligatoria per legge in tutti i sondaggi pubblici",
+          "isCorrect": false,
+          "rationale": "È una raccomandazione metodologica di buona ricerca, non un obbligo normativo."
+        },
+        {
+          "text": "Serve solo a raccogliere gli indirizzi email degli utenti",
+          "isCorrect": false,
+          "rationale": "Serve a garantire la completezza delle opzioni di risposta per una specifica domanda."
+        }
+      ],
+      "hint": "Serve a dare una via d'uscita se nessuna delle risposte fornite è corretta per l'utente."
+    },
+    {
+      "question": "Qual è il limite principale delle scale di valutazione corte (da 3 a 4 punti)?",
+      "answerOptions": [
+        {
+          "text": "Sono poco precise e non permettono molta discriminazione",
+          "isCorrect": true,
+          "rationale": "Poche opzioni non riescono a catturare le sottili differenze di opinione tra i soggetti."
+        },
+        {
+          "text": "Sono troppo difficili da codificare informaticamente",
+          "isCorrect": false,
+          "rationale": "Al contrario, il materiale afferma che sono facili da codificare proprio per la loro semplicità."
+        },
+        {
+          "text": "Richiedono troppo tempo per essere lette dal rispondente",
+          "isCorrect": false,
+          "rationale": "Le scale corte sono molto veloci da leggere; il loro problema è la scarsa risoluzione del dato."
+        },
+        {
+          "text": "Confondono l'utente che preferisce scale lunghe",
+          "isCorrect": false,
+          "rationale": "Il limite è statistico/informativo per il ricercatore, non necessariamente di usabilità per l'utente."
+        }
+      ],
+      "hint": "Considera se 3 punti bastano a distinguere chi è 'abbastanza d'accordo' da chi lo è 'molto'."
+    },
+    {
+      "question": "In un grafico mostrato nelle slide, quale trade-off tradizionale viene evidenziato?",
+      "answerOptions": [
+        {
+          "text": "Il trade-off tra Ricchezza dell'informazione (Richness) e Portata (Reach)",
+          "isCorrect": true,
+          "rationale": "Tradizionalmente, per raggiungere molte persone si doveva sacrificare la profondità del dato, e viceversa."
+        },
+        {
+          "text": "Il trade-off tra Prezzo del software e Numero di domande",
+          "isCorrect": false,
+          "rationale": "Il grafico si riferisce a concetti strategici di marketing communication e non a costi di licenza."
+        },
+        {
+          "text": "Il trade-off tra Velocità di risposta e Onestà dei dati",
+          "isCorrect": false,
+          "rationale": "Sebbene esistano queste dinamiche, il grafico specifico illustra la relazione tra 'Richness' e 'Reach'."
+        },
+        {
+          "text": "Il trade-off tra Colori del sito e Attenzione dell'utente",
+          "isCorrect": false,
+          "rationale": "Questa è una tematica di web design/eyetracking, ma il grafico citato riguarda la portata della ricerca."
+        }
+      ],
+      "hint": "Guarda gli assi del diagramma con la linea diagonale discendente."
+    }
+  ]
+}

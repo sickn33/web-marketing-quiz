@@ -1,0 +1,785 @@
+{
+  "title": "Marketing Quiz",
+  "questions": [
+    {
+      "question": "Qual è la distinzione fondamentale tra dati analogici e dati digitali in termini di codifica?",
+      "answerOptions": [
+        {
+          "text": "I dati digitali cambiano in modo discreto tra stati diversi, mentre quelli analogici cambiano continuamente.",
+          "isCorrect": true,
+          "rationale": "Il digitale si basa su stati separati come on/off o $0/1$, a differenza della continuità fisica dei sistemi analogici."
+        },
+        {
+          "text": "I dati analogici sono codificati in stringhe binarie, mentre i digitali usano onde meccaniche.",
+          "isCorrect": false,
+          "rationale": "Questa descrizione inverte i concetti, poiché il sistema binario è la base del digitale, non dell'analogico."
+        },
+        {
+          "text": "I dati digitali richiedono supporti meccanici come il vinile per essere archiviati.",
+          "isCorrect": false,
+          "rationale": "Il vinile è un esempio di supporto analogico che immagazzina dati meccanici continui."
+        },
+        {
+          "text": "I dati analogici sono composti esclusivamente da bit e byte.",
+          "isCorrect": false,
+          "rationale": "Bit e byte sono le unità di misura specifiche dell'informazione digitale discreta."
+        }
+      ],
+      "hint": "Pensa alla differenza tra un interruttore acceso/spento e una manopola che ruota senza interruzioni."
+    },
+    {
+      "question": "Nella struttura dell'informazione digitale, quanti bit sono necessari per formare un singolo byte?",
+      "answerOptions": [
+        {
+          "text": "$4$ bit",
+          "isCorrect": false,
+          "rationale": "Un gruppo di quattro bit è noto come nibble, ma non costituisce un byte completo."
+        },
+        {
+          "text": "$8$ bit",
+          "isCorrect": true,
+          "rationale": "Un byte è convenzionalmente definito come una sequenza di otto bit."
+        },
+        {
+          "text": "$16$ bit",
+          "isCorrect": false,
+          "rationale": "Sedici bit formano solitamente una 'word' in molte architetture, ma superano la misura di un singolo byte."
+        },
+        {
+          "text": "$32$ bit",
+          "isCorrect": false,
+          "rationale": "Trentadue bit corrispondono a quattro byte, non a uno."
+        }
+      ],
+      "hint": "Considera la potenza di $2$ che sta alla base dell'architettura informatica standard."
+    },
+    {
+      "question": "Secondo la Legge di Grosh, quale relazione esiste tra la velocità della capacità di calcolo e i costi?",
+      "answerOptions": [
+        {
+          "text": "Se la velocità aumenta, i costi aumentano in modo esponenziale.",
+          "isCorrect": false,
+          "rationale": "La legge di Grosh suggerisce un'economia di scala, non un aumento dei costi proporzionale alla velocità."
+        },
+        {
+          "text": "Se la velocità aumenta, i costi diminuiscono.",
+          "isCorrect": true,
+          "rationale": "Questa legge evidenzia come l'incremento delle prestazioni tecnologiche porti a una maggiore produttività e riduzione dei costi unitari."
+        },
+        {
+          "text": "La velocità di calcolo non ha alcun impatto sui costi di produzione.",
+          "isCorrect": false,
+          "rationale": "La produttività digitale è strettamente legata all'efficienza dei costi derivante dalle prestazioni hardware."
+        },
+        {
+          "text": "I costi rimangono invariati indipendentemente dai progressi nella velocità di calcolo.",
+          "isCorrect": false,
+          "rationale": "Il progresso tecnologico nel settore digitale mira storicamente a ottimizzare il rapporto prestazioni-prezzo."
+        }
+      ],
+      "hint": "Rifletti sul concetto di elevata produttività delle tecnologie digitali."
+    },
+    {
+      "question": "Nel contesto del Marketing 4.0, cosa si intende per 'Convergenza'?",
+      "answerOptions": [
+        {
+          "text": "Il passaggio esclusivo di tutte le attività aziendali sul web.",
+          "isCorrect": false,
+          "rationale": "La convergenza riguarda l'unione di mondi diversi, non l'abbandono di uno a favore dell'altro."
+        },
+        {
+          "text": "La fusione tra il mondo offline e quello online per imprese e clienti.",
+          "isCorrect": true,
+          "rationale": "Il Marketing 4.0 enfatizza l'integrazione fluida delle esperienze fisiche e digitali."
+        },
+        {
+          "text": "La standardizzazione dei messaggi pubblicitari per tutti i canali social.",
+          "isCorrect": false,
+          "rationale": "Sebbene la coerenza sia importante, la convergenza descritta si riferisce all'integrazione tra offline e online."
+        },
+        {
+          "text": "La riduzione del numero di canali di comunicazione per semplificare il messaggio.",
+          "isCorrect": false,
+          "rationale": "Il marketing moderno tende a moltiplicare i punti di contatto piuttosto che ridurli."
+        }
+      ],
+      "hint": "Immagina come un negozio fisico possa interagire con un'app mobile durante l'acquisto."
+    },
+    {
+      "question": "Quale equilibrio deve cercare un brand nel Marketing 4.0 riguardo all'uso di IoT e AI?",
+      "answerOptions": [
+        {
+          "text": "Sostituire completamente l'interazione umana con sistemi automatici per ridurre gli errori.",
+          "isCorrect": false,
+          "rationale": "L'automazione totale priva il brand del tocco umano necessario per l'engagement."
+        },
+        {
+          "text": "Bilanciare la connettività machine-to-machine (M2M) con quella human-to-human (H2H).",
+          "isCorrect": true,
+          "rationale": "La tecnologia deve supportare e rafforzare le relazioni umane per migliorare il coinvolgimento del cliente."
+        },
+        {
+          "text": "Privilegiare l'interazione umana ignorando le innovazioni tecnologiche.",
+          "isCorrect": false,
+          "rationale": "Ignorare IoT e AI renderebbe il brand meno competitivo nell'ecosistema digitale attuale."
+        },
+        {
+          "text": "Utilizzare l'AI solo per la raccolta dati e l'IoT solo per la logistica.",
+          "isCorrect": false,
+          "rationale": "Queste tecnologie devono andare di pari passo con la connettività umana in ogni fase dell'engagement."
+        }
+      ],
+      "hint": "Considera l'importanza di non perdere il lato empatico mentre si diventa tecnologicamente avanzati."
+    },
+    {
+      "question": "Perché l'autenticità è diventata un pilastro fondamentale del Marketing 4.0?",
+      "answerOptions": [
+        {
+          "text": "Perché i brand devono apparire veri rispetto alla propria identità nei messaggi.",
+          "isCorrect": true,
+          "rationale": "L'autenticità costruisce fiducia in un mercato dove i consumatori sono sempre più attenti alla coerenza del brand."
+        },
+        {
+          "text": "Perché permette di vendere prodotti a prezzi più elevati senza giustificazione.",
+          "isCorrect": false,
+          "rationale": "L'autenticità è un valore comunicativo e identitario, non una strategia di pricing arbitraria."
+        },
+        {
+          "text": "Perché i consumatori preferiscono i brand che non cambiano mai logo.",
+          "isCorrect": false,
+          "rationale": "L'autenticità riguarda i valori e i messaggi, non puramente l'estetica grafica statica."
+        },
+        {
+          "text": "Perché nasconde i difetti dei prodotti attraverso lo storytelling.",
+          "isCorrect": false,
+          "rationale": "L'autenticità implica trasparenza, non l'occultamento di problematiche."
+        }
+      ],
+      "hint": "Pensa alla necessità di essere trasparenti e fedeli ai propri valori aziendali."
+    },
+    {
+      "question": "In che modo l'orientamento all'e-business influenza la catena del valore di un'impresa?",
+      "answerOptions": [
+        {
+          "text": "Porta a una digitalizzazione graduale dei processi intra e inter-aziendali.",
+          "isCorrect": true,
+          "rationale": "L'e-business trasforma la gestione del valore rendendo i flussi informativi e operativi più integrati digitalmente."
+        },
+        {
+          "text": "Elimina la necessità di avere partner esterni nella produzione.",
+          "isCorrect": false,
+          "rationale": "L'e-business spesso facilita la collaborazione con i partner invece di eliminarla."
+        },
+        {
+          "text": "Limita il valore aggiunto alle sole attività di vendita finale.",
+          "isCorrect": false,
+          "rationale": "La digitalizzazione coinvolge l'intera catena, dalla logistica in entrata al post-vendita."
+        },
+        {
+          "text": "Rende la catena del valore rigida e non adattabile al mercato.",
+          "isCorrect": false,
+          "rationale": "Le tecnologie digitali mirano ad aumentare la flessibilità e la reattività aziendale."
+        }
+      ],
+      "hint": "Rifletti sul processo di trasformazione digitale che coinvolge sia l'interno che l'esterno dell'azienda."
+    },
+    {
+      "question": "Quale delle seguenti è una caratteristica dell'approccio del marketing digitale al mercato?",
+      "answerOptions": [
+        {
+          "text": "Reticolare, con molteplici nessi tra impresa e clienti e tra i clienti stessi.",
+          "isCorrect": true,
+          "rationale": "Il web facilita connessioni multi-direzionali che superano il vecchio modello lineare."
+        },
+        {
+          "text": "Top-down, dove l'azienda decide unilateralmente ogni aspetto.",
+          "isCorrect": false,
+          "rationale": "L'approccio digitale è decentralizzato e basato sul dialogo, non sul controllo unilaterale."
+        },
+        {
+          "text": "Deterministico, basato su legami rigidi e prevedibili.",
+          "isCorrect": false,
+          "rationale": "Il marketing digitale è dinamico e spesso collaborativo, allontanandosi dalla rigidità deterministica."
+        },
+        {
+          "text": "Unidirezionale, focalizzato solo sull'invio di messaggi pubblicitari.",
+          "isCorrect": false,
+          "rationale": "I flussi di comunicazione nel digitale sono bidirezionali o multi-direzionali."
+        }
+      ],
+      "hint": "Pensa a internet come a una ragnatela di interazioni costanti."
+    },
+    {
+      "question": "Cosa significa che l'impresa nel marketing digitale è orientata al 'dialogo paritario'?",
+      "answerOptions": [
+        {
+          "text": "Che i clienti hanno lo stesso budget pubblicitario dell'azienda.",
+          "isCorrect": false,
+          "rationale": "Il dialogo paritario si riferisce alla natura della comunicazione, non alle risorse finanziarie."
+        },
+        {
+          "text": "Che l'impresa ascolta attivamente e interagisce in modo non gerarchico con il cliente.",
+          "isCorrect": true,
+          "rationale": "La decentralizzazione digitale mette azienda e consumatore sullo stesso piano comunicativo."
+        },
+        {
+          "text": "Che l'azienda smette di vendere prodotti per diventare un forum di discussione.",
+          "isCorrect": false,
+          "rationale": "L'obiettivo rimane commerciale, ma la modalità di relazione cambia radicalmente."
+        },
+        {
+          "text": "Che ogni decisione aziendale deve essere votata dai clienti online.",
+          "isCorrect": false,
+          "rationale": "Il dialogo paritario riguarda l'ascolto e la co-creazione, non necessariamente la governance aziendale."
+        }
+      ],
+      "hint": "Rifletti sulla fine del modello in cui l'azienda parla e il cliente ascolta soltanto."
+    },
+    {
+      "question": "Qual è lo scopo principale delle ricerche di mercato online secondo il materiale fornito?",
+      "answerOptions": [
+        {
+          "text": "Aumentare i costi operativi del dipartimento marketing.",
+          "isCorrect": false,
+          "rationale": "Le ricerche mirano all'efficienza e alla conoscenza, non all'aumento dei costi fini a se stessi."
+        },
+        {
+          "text": "Ridurre l'asimmetria informativa tra l'azienda e il mercato.",
+          "isCorrect": true,
+          "rationale": "Le ricerche online aiutano l'azienda a colmare il divario di conoscenza sui propri clienti e competitor."
+        },
+        {
+          "text": "Sostituire completamente i venditori fisici sul territorio.",
+          "isCorrect": false,
+          "rationale": "Le ricerche sono uno strumento di supporto decisionale, non un sostituto della forza vendita."
+        },
+        {
+          "text": "Raccogliere dati casuali senza un obiettivo strategico preciso.",
+          "isCorrect": false,
+          "rationale": "La ricerca deve essere finalizzata a risolvere problemi specifici o identificare opportunità."
+        }
+      ],
+      "hint": "Pensa al bisogno dell'azienda di sapere ciò che il cliente desidera davvero."
+    },
+    {
+      "question": "Quale problema metodologico è associato alle ricerche di mercato online?",
+      "answerOptions": [
+        {
+          "text": "L'impossibilità di raggiungere un numero elevato di persone.",
+          "isCorrect": false,
+          "rationale": "Al contrario, uno dei vantaggi delle ricerche online è proprio l'elevato potenziale diffusivo."
+        },
+        {
+          "text": "L'incertezza sulla reale identità dei soggetti investigati e la loro appartenenza al target.",
+          "isCorrect": true,
+          "rationale": "La verifica dell'identità e della coerenza del campione nel tempo è una sfida complessa nel web."
+        },
+        {
+          "text": "L'eccessiva lentezza nella raccolta dei risultati rispetto ai metodi tradizionali.",
+          "isCorrect": false,
+          "rationale": "Il digitale permette solitamente una raccolta dati molto più rapida del cartaceo o del telefono."
+        },
+        {
+          "text": "Il costo proibitivo dei software per creare sondaggi online.",
+          "isCorrect": false,
+          "rationale": "Esistono molteplici strumenti accessibili ed economici per condurre ricerche online."
+        }
+      ],
+      "hint": "Considera quanto sia facile per qualcuno fingere di essere qualcun altro su internet."
+    },
+    {
+      "question": "Definisci il concetto di 'Digital Native' basandoti sulle slide.",
+      "answerOptions": [
+        {
+          "text": "Una persona che usa internet solo per scopi lavorativi.",
+          "isCorrect": false,
+          "rationale": "I nativi digitali sono caratterizzati da un uso pervasivo della rete in ogni aspetto della vita."
+        },
+        {
+          "text": "Un consumatore iper-connesso, attivo (prosumer) e omni-canale.",
+          "isCorrect": true,
+          "rationale": "Questi individui sono immersi nelle risorse online e partecipano attivamente alla creazione di contenuti."
+        },
+        {
+          "text": "Un individuo che rifiuta le tecnologie analogiche per motivi ideologici.",
+          "isCorrect": false,
+          "rationale": "Essere nativi digitali riguarda l'attitudine e la familiarità con la tecnologia, non necessariamente un rifiuto dell'analogico."
+        },
+        {
+          "text": "Qualcuno che possiede molti dispositivi ma non sa come usarli.",
+          "isCorrect": false,
+          "rationale": "La definizione implica una competenza naturale e un'integrazione profonda della tecnologia nella routine."
+        }
+      ],
+      "hint": "Cerca le tre caratteristiche chiave che iniziano con 'iper-', 'attivo' e 'omni-'."
+    },
+    {
+      "question": "Cosa si intende per consumatore 'prosumer'?",
+      "answerOptions": [
+        {
+          "text": "Un consumatore che acquista solo prodotti professionali.",
+          "isCorrect": false,
+          "rationale": "Il termine non si riferisce alla categoria merceologica ma al ruolo del consumatore."
+        },
+        {
+          "text": "Un utente che ricerca, richiede e produce contenuti rilevanti per il brand.",
+          "isCorrect": true,
+          "rationale": "Il termine nasce dalla fusione di 'producer' e 'consumer', indicando un ruolo attivo nello storytelling aziendale."
+        },
+        {
+          "text": "Un cliente che promuove i prodotti esclusivamente attraverso il passaparola fisico.",
+          "isCorrect": false,
+          "rationale": "Sebbene possa farlo, il ruolo del prosumer è fortemente legato alla dimensione digitale e alla creazione di contenuti."
+        },
+        {
+          "text": "Un acquirente che sceglie prodotti basandosi solo sul prezzo più basso.",
+          "isCorrect": false,
+          "rationale": "Questa è la descrizione di un consumatore attento al prezzo, non necessariamente di un prosumer."
+        }
+      ],
+      "hint": "Rifletti sulla combinazione delle parole 'produttore' e 'consumatore'."
+    },
+    {
+      "question": "Qual è la differenza principale tra il marketing funnel tradizionale e il nuovo modello di Customer Journey?",
+      "answerOptions": [
+        {
+          "text": "Il funnel tradizionale è circolare, mentre il nuovo modello è lineare.",
+          "isCorrect": false,
+          "rationale": "È l'opposto: il funnel tradizionale segue una progressione metodica e lineare di riduzione delle opzioni."
+        },
+        {
+          "text": "Il modello tradizionale segue una progressione lineare riducendo il numero di brand potenziali.",
+          "isCorrect": true,
+          "rationale": "Il nuovo modello è invece ciclico e permette ai brand di entrare in considerazione anche in fasi avanzate."
+        },
+        {
+          "text": "Non esiste alcuna differenza pratica tra i due modelli.",
+          "isCorrect": false,
+          "rationale": "L'evoluzione digitale ha reso il percorso dell'utente molto più complesso e non lineare rispetto al passato."
+        },
+        {
+          "text": "Il nuovo modello ignora completamente la fase di acquisto finale.",
+          "isCorrect": false,
+          "rationale": "L'acquisto rimane un momento critico, ma è inserito in un contesto più ampio di esperienza continua."
+        }
+      ],
+      "hint": "Pensa a come una volta si eliminavano i brand uno dopo l'altro fino alla scelta finale."
+    },
+    {
+      "question": "Nella Customer Journey, cosa comprende la fase di 'Pre-acquisto'?",
+      "answerOptions": [
+        {
+          "text": "Solo il momento del pagamento elettronico.",
+          "isCorrect": false,
+          "rationale": "Il pagamento fa parte della fase di acquisto, non del pre-acquisto."
+        },
+        {
+          "text": "Tutte le interazioni dal riconoscimento di un bisogno alla considerazione di soddisfarlo.",
+          "isCorrect": true,
+          "rationale": "Questa fase copre la ricerca di informazioni, la valutazione e l'impulso iniziale."
+        },
+        {
+          "text": "L'utilizzo del prodotto dopo che è stato consegnato a casa.",
+          "isCorrect": false,
+          "rationale": "L'utilizzo post-consegna rientra nella fase di post-acquisto o esperienza d'uso."
+        },
+        {
+          "text": "Il confronto dei prezzi esclusivamente all'interno del punto vendita fisico.",
+          "isCorrect": false,
+          "rationale": "Il pre-acquisto avviene attraverso molteplici canali, sia online che offline."
+        }
+      ],
+      "hint": "Immagina tutto ciò che fai prima di decidere di mettere un oggetto nel carrello."
+    },
+    {
+      "question": "Perché la fase di 'Acquisto' è considerata particolare nel marketing nonostante la sua brevità?",
+      "answerOptions": [
+        {
+          "text": "Perché è l'unica fase in cui l'atmosfera dell'ambiente non conta.",
+          "isCorrect": false,
+          "rationale": "L'atmosfera e i fattori ambientali sono cruciali proprio nel momento della decisione finale."
+        },
+        {
+          "text": "Perché include azioni critiche come la scelta, l'ordine e il pagamento.",
+          "isCorrect": true,
+          "rationale": "Nonostante la durata ridotta, è il momento in cui si concretizza la transazione economica."
+        },
+        {
+          "text": "Perché i consumatori non provano emozioni durante questa fase.",
+          "isCorrect": false,
+          "rationale": "L'acquisto può generare risposte cognitive, affettive e comportamentali intense."
+        },
+        {
+          "text": "Perché non può essere influenzata da attività di marketing dell'ultimo minuto.",
+          "isCorrect": false,
+          "rationale": "Molte attività di marketing mirano proprio a influenzare il cliente nel punto vendita o sul sito."
+        }
+      ],
+      "hint": "Considera l'importanza dell'atto finale che trasforma un potenziale cliente in un acquirente."
+    },
+    {
+      "question": "Cosa sono le 'Buyer Personas' secondo le slide della Prof.ssa Michelini?",
+      "answerOptions": [
+        {
+          "text": "Elenchi di nomi reali estratti dal database dei clienti.",
+          "isCorrect": false,
+          "rationale": "Le personas sono archetipi finzionali, non persone reali specifiche."
+        },
+        {
+          "text": "Caratterizzazioni finzionali dei migliori clienti basate su dati reali.",
+          "isCorrect": true,
+          "rationale": "Rappresentano segmenti di mercato con nomi e tratti che rispecchiano le tipologie di acquirenti."
+        },
+        {
+          "text": "Attori famosi assunti per fare da testimonial al brand.",
+          "isCorrect": false,
+          "rationale": "Le personas sono strumenti di analisi interna per il marketing, non figure pubblicitarie esterne."
+        },
+        {
+          "text": "Algoritmi di intelligenza artificiale che gestiscono i magazzini.",
+          "isCorrect": false,
+          "rationale": "Le personas riguardano la comprensione del cliente, non la gestione logistica."
+        }
+      ],
+      "hint": "Pensa a un 'identikit' ideale creato per capire meglio chi compra il prodotto."
+    },
+    {
+      "question": "Qual è il principale vantaggio dell'utilizzo delle Personas per un'azienda?",
+      "answerOptions": [
+        {
+          "text": "Permettono di ridurre il numero di dipendenti nel settore vendite.",
+          "isCorrect": false,
+          "rationale": "Il loro scopo è migliorare la strategia, non necessariamente tagliare il personale."
+        },
+        {
+          "text": "Aiutano a progettare soluzioni che risolvono i problemi del cliente anziché quelli del business.",
+          "isCorrect": true,
+          "rationale": "L'approccio 'customer centric' garantisce che il valore offerto risponda a bisogni reali."
+        },
+        {
+          "text": "Servono a convincere i clienti a comprare cose di cui non hanno bisogno.",
+          "isCorrect": false,
+          "rationale": "Le personas mirano alla comprensione empatica dei bisogni, non alla manipolazione fine a se stessa."
+        },
+        {
+          "text": "Rendono superflua qualsiasi altra forma di ricerca di mercato.",
+          "isCorrect": false,
+          "rationale": "Le personas sono complementari ad altre ricerche quantitative e qualitative."
+        }
+      ],
+      "hint": "Rifletti sulla differenza tra focus sui profitti e focus sui bisogni dell'utente."
+    },
+    {
+      "question": "Quali elementi vengono solitamente considerati per costruire una Persona?",
+      "answerOptions": [
+        {
+          "text": "Solo dati demografici come età e reddito.",
+          "isCorrect": false,
+          "rationale": "I dati demografici sono solo una parte; servono anche quelli psicografici e comportamentali."
+        },
+        {
+          "text": "Dati demografici, psicografici, obiettivi, sfide e obiezioni all'acquisto.",
+          "isCorrect": true,
+          "rationale": "Una visione olistica include cosa pensano, cosa provano e perché potrebbero non comprare."
+        },
+        {
+          "text": "Esclusivamente la cronologia degli acquisti degli ultimi dieci anni.",
+          "isCorrect": false,
+          "rationale": "Sebbene utile, la cronologia degli acquisti non spiega le motivazioni profonde o i sentimenti."
+        },
+        {
+          "text": "Solo le preferenze estetiche riguardo al packaging del prodotto.",
+          "isCorrect": false,
+          "rationale": "Le personas analizzano il comportamento di acquisto e i problemi da risolvere in modo molto più ampio."
+        }
+      ],
+      "hint": "Pensa a tutte le informazioni che servirebbero per descrivere a fondo un amico."
+    },
+    {
+      "question": "Nel 'Consumer Decision Journey', cosa si intende per 'Loyalty Loop'?",
+      "answerOptions": [
+        {
+          "text": "Un errore del sistema che impedisce al cliente di completare l'acquisto.",
+          "isCorrect": false,
+          "rationale": "Il termine non ha una connotazione tecnica negativa legata a malfunzionamenti software."
+        },
+        {
+          "text": "Il percorso accorciato in cui un cliente soddisfatto riacquista senza ripetere l'intera fase di valutazione.",
+          "isCorrect": true,
+          "rationale": "La fedeltà permette di saltare i passaggi intermedi di ricerca, tornando direttamente all'acquisto."
+        },
+        {
+          "text": "La tendenza dei clienti a cambiare brand ogni volta che vedono un'offerta.",
+          "isCorrect": false,
+          "rationale": "Questo descrive l'infedeltà o la sensibilità al prezzo, non il loyalty loop."
+        },
+        {
+          "text": "Un programma di punti che obbliga il cliente a restare con l'azienda.",
+          "isCorrect": false,
+          "rationale": "Sebbene collegato, il 'loop' è un modello comportamentale basato sull'esperienza positiva, non solo una tessera punti."
+        }
+      ],
+      "hint": "Immagina un cliente che torna a comprare a colpo sicuro perché si fida già del brand."
+    },
+    {
+      "question": "Come possono i brand 'interrompere' il processo decisionale del consumatore oggi?",
+      "answerOptions": [
+        {
+          "text": "Bloccando l'accesso dei competitor ai social network.",
+          "isCorrect": false,
+          "rationale": "L'interruzione si riferisce alla strategia comunicativa, non a pratiche di sabotaggio tecnico."
+        },
+        {
+          "text": "Entrando nel set di considerazione durante la fase di valutazione attiva e forzando l'uscita dei rivali.",
+          "isCorrect": true,
+          "rationale": "Le molteplici touch-point digitali offrono opportunità costanti per influenzare la scelta dell'utente."
+        },
+        {
+          "text": "Smettendo di fare pubblicità per creare mistero attorno al marchio.",
+          "isCorrect": false,
+          "rationale": "Il silenzio raramente aiuta a entrare nel set di considerazione in un mercato affollato."
+        },
+        {
+          "text": "Inviando email di spam ogni ora per sfinire il consumatore.",
+          "isCorrect": false,
+          "rationale": "Lo spam danneggia l'immagine del brand e non favorisce una considerazione positiva."
+        }
+      ],
+      "hint": "Pensa a come un nuovo brand possa apparire con un annuncio proprio mentre stai confrontando altri prodotti."
+    },
+    {
+      "question": "Secondo Osterwalder e Pigneur (2010), cos'è un Business Model?",
+      "answerOptions": [
+        {
+          "text": "Un piano dettagliato per evadere le tasse legalmente.",
+          "isCorrect": false,
+          "rationale": "Il business model riguarda la strategia di valore, non la gestione fiscale."
+        },
+        {
+          "text": "La logica secondo cui un'organizzazione crea, distribuisce e cattura valore.",
+          "isCorrect": true,
+          "rationale": "Questa definizione si focalizza sul come l'azienda genera benefici per i clienti e ricavi per sé."
+        },
+        {
+          "text": "Un documento puramente estetico da mostrare agli investitori.",
+          "isCorrect": false,
+          "rationale": "È uno strumento strategico operativo, non solo una presentazione formale."
+        },
+        {
+          "text": "La lista di tutti i dipendenti dell'azienda con i relativi stipendi.",
+          "isCorrect": false,
+          "rationale": "L'organigramma e il piano paghe sono aspetti diversi della gestione aziendale."
+        }
+      ],
+      "hint": "Rifletti sulle parole chiave 'creazione', 'consegna' e 'cattura' del valore."
+    },
+    {
+      "question": "Quale tra i seguenti NON è un criterio per un'efficace segmentazione del mercato?",
+      "answerOptions": [
+        {
+          "text": "Misurabilità",
+          "isCorrect": false,
+          "rationale": "La misurabilità è essenziale per quantificare il potenziale del segmento."
+        },
+        {
+          "text": "Casualità",
+          "isCorrect": true,
+          "rationale": "La segmentazione deve essere strategica e basata su criteri precisi, non casuali."
+        },
+        {
+          "text": "Accessibilità",
+          "isCorrect": false,
+          "rationale": "Un segmento deve essere raggiungibile attraverso canali di comunicazione e distribuzione."
+        },
+        {
+          "text": "Azionabilità",
+          "isCorrect": false,
+          "rationale": "L'azienda deve essere in grado di creare programmi efficaci per attirare e servire il segmento."
+        }
+      ],
+      "hint": "Pensa a cosa renderebbe inutile dividere i clienti in gruppi se non ci fosse una logica dietro."
+    },
+    {
+      "question": "In un Business Model Canvas, cosa descrive la sezione 'Value Proposition'?",
+      "answerOptions": [
+        {
+          "text": "Il valore delle azioni dell'azienda in borsa.",
+          "isCorrect": false,
+          "rationale": "Riguarda il valore offerto al cliente, non il valore finanziario per gli azionisti."
+        },
+        {
+          "text": "Il pacchetto di prodotti o servizi che crea valore per uno specifico segmento.",
+          "isCorrect": true,
+          "rationale": "È il motivo per cui i clienti scelgono un'azienda rispetto a un'altra."
+        },
+        {
+          "text": "L'elenco dei fornitori più economici sul mercato.",
+          "isCorrect": false,
+          "rationale": "I fornitori rientrano solitamente nei 'Key Partners', non nella proposta di valore."
+        },
+        {
+          "text": "La somma totale dei debiti contratti dall'impresa.",
+          "isCorrect": false,
+          "rationale": "I debiti fanno parte della struttura finanziaria, non della proposta di valore centrale."
+        }
+      ],
+      "hint": "Considera la promessa che l'azienda fa ai suoi clienti riguardo ai benefici del prodotto."
+    },
+    {
+      "question": "Cosa distingue le 'Piattaforme digitali' dai 'Device digitali'?",
+      "answerOptions": [
+        {
+          "text": "Le piattaforme sono hardware fisici, mentre i device sono software.",
+          "isCorrect": false,
+          "rationale": "È il contrario: i device sono l'hardware e le piattaforme sono gli ambienti software o di rete."
+        },
+        {
+          "text": "Le piattaforme includono internet e i social network, i device includono smartphone e tablet.",
+          "isCorrect": true,
+          "rationale": "Le piattaforme sono gli ecosistemi in cui avviene lo scambio, i device sono gli strumenti di accesso."
+        },
+        {
+          "text": "Non c'è distinzione; entrambi i termini indicano la stessa cosa.",
+          "isCorrect": false,
+          "rationale": "Il marketing distingue tra il mezzo di accesso (device) e l'ambiente di interazione (piattaforma)."
+        },
+        {
+          "text": "Le piattaforme sono usate solo dalle aziende, i device solo dai consumatori.",
+          "isCorrect": false,
+          "rationale": "Sia aziende che consumatori utilizzano entrambi per interagire."
+        }
+      ],
+      "hint": "Pensa alla differenza tra l'oggetto che tieni in mano e il sito che stai visitando."
+    },
+    {
+      "question": "Quale caratteristica delle tecnologie digitali permette di gestire informazioni estremamente ricche e stratificate?",
+      "answerOptions": [
+        {
+          "text": "Bassa densità di dati.",
+          "isCorrect": false,
+          "rationale": "Le tecnologie digitali si distinguono proprio per l'alta densità e complessità informativa."
+        },
+        {
+          "text": "Elevata complessità informativa veicolabile.",
+          "isCorrect": true,
+          "rationale": "Il digitale può trasportare contemporaneamente testi, immagini, audio e dati complessi con facilità."
+        },
+        {
+          "text": "Impossibilità di aggiornamento in tempo reale.",
+          "isCorrect": false,
+          "rationale": "La dinamicità e l'aggiornamento costante sono punti di forza del digitale."
+        },
+        {
+          "text": "Limitazione geografica dei server.",
+          "isCorrect": false,
+          "rationale": "Le tecnologie digitali hanno un elevato potenziale diffusivo che supera i confini fisici."
+        }
+      ],
+      "hint": "Considera la capacità di internet di trasmettere video in alta definizione e documenti contemporaneamente."
+    },
+    {
+      "question": "Nel trade-off tradizionale della comunicazione, come si relazionano 'Richness' (ricchezza) e 'Reach' (portata)?",
+      "answerOptions": [
+        {
+          "text": "All'aumentare della portata, aumenta sempre anche la ricchezza del messaggio.",
+          "isCorrect": false,
+          "rationale": "Tradizionalmente esisteva un compromesso: messaggi per molti erano necessariamente semplici."
+        },
+        {
+          "text": "Esiste un trade-off per cui messaggi molto ricchi raggiungono solitamente meno persone.",
+          "isCorrect": true,
+          "rationale": "Storicamente, la comunicazione di massa era povera di dettagli, mentre quella personalizzata era limitata a pochi."
+        },
+        {
+          "text": "La ricchezza del messaggio dipende solo dal budget e non dal numero di persone raggiunte.",
+          "isCorrect": false,
+          "rationale": "Il modello evidenzia un limite strutturale dei mezzi di comunicazione classici."
+        },
+        {
+          "text": "Il digitale ha confermato che non è possibile raggiungere molte persone con messaggi ricchi.",
+          "isCorrect": false,
+          "rationale": "Le tecnologie digitali stanno proprio sfidando e superando questo trade-off tradizionale."
+        }
+      ],
+      "hint": "Pensa alla differenza tra un cartellone pubblicitario stradale e una consulenza privata."
+    },
+    {
+      "question": "Come viene definita la 'Customer Experience' nei materiali del corso?",
+      "answerOptions": [
+        {
+          "text": "La somma dei soli acquisti effettuati in un anno.",
+          "isCorrect": false,
+          "rationale": "L'esperienza è un concetto molto più ampio del semplice atto transazionale."
+        },
+        {
+          "text": "L'intero processo di interazioni dirette e indirette che generano risposte cognitive e affettive.",
+          "isCorrect": true,
+          "rationale": "Coinvolge ogni punto di contatto tra cliente e azienda lungo vari canali."
+        },
+        {
+          "text": "Il tempo totale trascorso da un utente sul sito web aziendale.",
+          "isCorrect": false,
+          "rationale": "Il tempo di permanenza è solo una metrica tecnica, non l'intera esperienza psicologica."
+        },
+        {
+          "text": "La valutazione data dall'utente su un sito di recensioni esterne.",
+          "isCorrect": false,
+          "rationale": "La recensione è un esito o un punto di contatto, ma l'esperienza comprende tutto il percorso."
+        }
+      ],
+      "hint": "Considera non solo ciò che il cliente fa, ma anche ciò che pensa e prova durante il contatto con il brand."
+    },
+    {
+      "question": "Cosa indica il criterio di 'Sostanzialità' nella segmentazione del Business Model?",
+      "answerOptions": [
+        {
+          "text": "Che il segmento deve essere composto solo da persone famose.",
+          "isCorrect": false,
+          "rationale": "La sostanza non riguarda lo status sociale dei membri del gruppo."
+        },
+        {
+          "text": "Che il segmento deve essere abbastanza grande o redditizio da meritare di essere servito.",
+          "isCorrect": true,
+          "rationale": "Non ha senso creare una strategia per un gruppo troppo piccolo per generare profitto."
+        },
+        {
+          "text": "Che il segmento deve avere opinioni politiche simili.",
+          "isCorrect": false,
+          "rationale": "Le opinioni politiche possono essere un criterio psicografico, ma non definiscono la sostanza economica."
+        },
+        {
+          "text": "Che i prodotti offerti devono essere pesanti fisicamente.",
+          "isCorrect": false,
+          "rationale": "Il termine non si riferisce al peso o alla materia dei beni venduti."
+        }
+      ],
+      "hint": "Chiediti se vale la pena per un'azienda investire risorse per un numero minimo di persone."
+    },
+    {
+      "question": "Perché si dice che i 'Marketer' sono figure che devono essere preparate a gestire l'insoddisfazione?",
+      "answerOptions": [
+        {
+          "text": "Perché il loro compito è rendere le persone tristi affinché comprino di più.",
+          "isCorrect": false,
+          "rationale": "Sebbene la slide citi provocatoriamente Beigbeder, il marketing mira a soddisfare bisogni per creare valore."
+        },
+        {
+          "text": "Perché le persone felici, secondo alcune teorie critiche citate, non consumano.",
+          "isCorrect": true,
+          "rationale": "La provocazione suggerisce che il desiderio di miglioramento (o mancanza) spinge al consumo."
+        },
+        {
+          "text": "Perché devono riparare tutti i prodotti che si rompono.",
+          "isCorrect": false,
+          "rationale": "Questa è la funzione dell'assistenza tecnica o della manutenzione."
+        },
+        {
+          "text": "Perché nessuno vuole davvero lavorare nel campo del marketing.",
+          "isCorrect": false,
+          "rationale": "Il marketing è un campo professionale molto ambito e fondamentale per le imprese."
+        }
+      ],
+      "hint": "Rifletti sulla citazione di Frédéric Beigbeder presente nelle prime slide del corso."
+    }
+  ]
+}

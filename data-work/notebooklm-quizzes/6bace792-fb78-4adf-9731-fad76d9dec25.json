@@ -1,0 +1,1305 @@
+{
+  "title": "Marketing Quiz",
+  "questions": [
+    {
+      "question": "Qual è la differenza fondamentale tra dati analogici e dati digitali?",
+      "answerOptions": [
+        {
+          "text": "I dati analogici sono discreti, mentre i dati digitali cambiano continuamente.",
+          "isCorrect": false,
+          "rationale": "Questo inverte le definizioni corrette; il digitale si basa su stati discreti, non l'analogico."
+        },
+        {
+          "text": "I dati analogici cambiano continuamente, mentre i dati digitali cambiano discretamente tra stati come on/off.",
+          "isCorrect": true,
+          "rationale": "Il digitale utilizza il sistema binario (0 e 1) per rappresentare stati finiti, a differenza della continuità fisica dell'analogico."
+        },
+        {
+          "text": "I dati analogici sono codificati in stringhe di 0 e 1, mentre i digitali usano segnali meccanici.",
+          "isCorrect": false,
+          "rationale": "Il codice binario è la caratteristica distintiva dei dati digitali, non di quelli analogici."
+        },
+        {
+          "text": "Non esiste una differenza sostanziale nella codifica, ma solo nel supporto fisico utilizzato.",
+          "isCorrect": false,
+          "rationale": "La differenza risiede proprio nel metodo di codifica: continuo per l'analogico e discreto per il digitale."
+        }
+      ],
+      "hint": "Pensa alla differenza tra un'onda continua e un interruttore che può essere solo acceso o spento."
+    },
+    {
+      "question": "Quanti bit compongono un byte?",
+      "answerOptions": [
+        {
+          "text": "2",
+          "isCorrect": false,
+          "rationale": "Due è il numero di simboli nel sistema binario, non il numero di bit in un byte."
+        },
+        {
+          "text": "4",
+          "isCorrect": false,
+          "rationale": "Sebbene sia una potenza di due, quattro bit non costituiscono l'unità standard del byte."
+        },
+        {
+          "text": "8",
+          "isCorrect": true,
+          "rationale": "Per definizione, una sequenza di 8 bit forma un singolo byte."
+        },
+        {
+          "text": "16",
+          "isCorrect": false,
+          "rationale": "Sedici bit corrispondono solitamente a due byte, non a uno."
+        }
+      ],
+      "hint": "Si tratta di una potenza di 2 che è anche il numero standard di bit per un carattere base."
+    },
+    {
+      "question": "Perché un disco in vinile è considerato una tecnologia analogica?",
+      "answerOptions": [
+        {
+          "text": "Perché immagazzina dati trasformandoli in una serie di 'buchi' (pits).",
+          "isCorrect": false,
+          "rationale": "Questa descrizione si riferisce al funzionamento dei CD, che sono supporti digitali."
+        },
+        {
+          "text": "Perché utilizza il codice binario per la riproduzione del suono.",
+          "isCorrect": false,
+          "rationale": "Il vinile non usa bit o byte, ma solchi fisici che seguono l'onda sonora."
+        },
+        {
+          "text": "Perché immagazzina dati meccanici e continui che corrispondono ai suoni registrati.",
+          "isCorrect": true,
+          "rationale": "L'analogico mantiene una corrispondenza fisica diretta e continua con il segnale originale."
+        },
+        {
+          "text": "Perché richiede un dispositivo elettronico per essere letto.",
+          "isCorrect": false,
+          "rationale": "Sia le tecnologie analogiche che quelle digitali possono richiedere dispositivi elettronici, non è questo il fattore discriminante."
+        }
+      ],
+      "hint": "Considera come il solco sul disco segua l'andamento reale dell'onda sonora."
+    },
+    {
+      "question": "Qual è la funzione principale del protocollo IP all'interno di Internet?",
+      "answerOptions": [
+        {
+          "text": "Consentire il trasporto fisico dei dati tra i nodi.",
+          "isCorrect": false,
+          "rationale": "Il trasporto e la gestione della connessione sono compiti del protocollo TCP."
+        },
+        {
+          "text": "Permettere di incanalare e dirigere i dati verso la destinazione corretta.",
+          "isCorrect": true,
+          "rationale": "L'Internet Protocol (IP) si occupa dell'indirizzamento e dell'instradamento dei pacchetti di dati."
+        },
+        {
+          "text": "Codificare i documenti nel linguaggio HTML per la visualizzazione web.",
+          "isCorrect": false,
+          "rationale": "L'HTML è un linguaggio di markup per il contenuto, non un protocollo di rete per l'instradamento."
+        },
+        {
+          "text": "Garantire che i dati arrivino integri senza errori di trasmissione.",
+          "isCorrect": false,
+          "rationale": "Il controllo dell'integrità e della sequenza dei dati è una funzione tipica del TCP."
+        }
+      ],
+      "hint": "Pensa all'indirizzo IP come all'etichetta su un pacco postale che indica dove deve andare."
+    },
+    {
+      "question": "Secondo le definizioni fornite, quale dei seguenti è un esempio di 'piattaforma digitale'?",
+      "answerOptions": [
+        {
+          "text": "Uno Smartphone",
+          "isCorrect": false,
+          "rationale": "Lo smartphone è classificato come un device (dispositivo fisico), non come una piattaforma."
+        },
+        {
+          "text": "Un Social Network",
+          "isCorrect": true,
+          "rationale": "I social network, insieme al web e alla TV digitale, sono considerati ambienti o piattaforme operative."
+        },
+        {
+          "text": "Un Laptop",
+          "isCorrect": false,
+          "rationale": "Il laptop è un hardware, ovvero un device digitale."
+        },
+        {
+          "text": "Un Tablet",
+          "isCorrect": false,
+          "rationale": "Similmente allo smartphone, il tablet è un dispositivo fisico (device)."
+        }
+      ],
+      "hint": "Distingui tra l'oggetto fisico che tieni in mano e l'ambiente virtuale in cui navighi."
+    },
+    {
+      "question": "Nelle keyword 'long-tail', quale percentuale approssimativa di ricerche mensili è pari o inferiore a 100?",
+      "answerOptions": [
+        {
+          "text": "$~20\\%$",
+          "isCorrect": false,
+          "rationale": "Le keyword a coda lunga rappresentano la stragrande maggioranza delle query totali, non una minoranza."
+        },
+        {
+          "text": "$~40\\%$",
+          "isCorrect": false,
+          "rationale": "Sebbene significativa, questa percentuale sottostima la diffusione delle query a basso volume."
+        },
+        {
+          "text": "$~60\\%$",
+          "isCorrect": true,
+          "rationale": "Circa il 60% delle keyword a coda lunga presenta un volume di ricerca molto basso (inferiore a 100)."
+        },
+        {
+          "text": "$~90\\%$",
+          "isCorrect": false,
+          "rationale": "Il 90% è una stima eccessiva per la specifica fascia di volume indicata nel materiale."
+        }
+      ],
+      "hint": "Cerca la percentuale indicata per descrivere la distribuzione del volume basso."
+    },
+    {
+      "question": "Quale fascia di Keyword Difficulty (KD) caratterizza circa il $60\\%$ delle keyword long-tail?",
+      "answerOptions": [
+        {
+          "text": "KD 0–20",
+          "isCorrect": false,
+          "rationale": "Questa fascia indica una difficoltà molto bassa, meno comune rispetto alla fascia media citata."
+        },
+        {
+          "text": "KD 21–60",
+          "isCorrect": true,
+          "rationale": "La maggior parte delle keyword long-tail si colloca in questa fascia di difficoltà medio-bassa."
+        },
+        {
+          "text": "KD 61–80",
+          "isCorrect": false,
+          "rationale": "Questa fascia rappresenta keyword competitive, solitamente non associate alla coda lunga."
+        },
+        {
+          "text": "KD 81–100",
+          "isCorrect": false,
+          "rationale": "Le keyword long-tail sono per definizione più facili da posizionare rispetto alle 'head terms'."
+        }
+      ],
+      "hint": "Si tratta di una fascia di difficoltà definita come 'medio-bassa'."
+    },
+    {
+      "question": "Con l'avvento degli AIO (AI Overviews), cosa deve chiedersi oggi un marketer riguardo a una query?",
+      "answerOptions": [
+        {
+          "text": "Qual è il volume di ricerca esatto in tempo reale?",
+          "isCorrect": false,
+          "rationale": "Il volume di ricerca è un parametro tradizionale, non la nuova domanda introdotta dagli AIO."
+        },
+        {
+          "text": "Quanto costa il posizionamento organico rispetto a quello a pagamento?",
+          "isCorrect": false,
+          "rationale": "Questa è una valutazione di budget classica, non legata specificamente alla presenza dell'intelligenza artificiale."
+        },
+        {
+          "text": "Questa query è esposta agli AIO e qual è il valore del click in loro presenza?",
+          "isCorrect": true,
+          "rationale": "Gli AIO possono soddisfare il bisogno dell'utente direttamente in SERP, ridefinendo l'utilità del click al sito."
+        },
+        {
+          "text": "Quanti competitor stanno usando l'intelligenza artificiale per scrivere i testi?",
+          "isCorrect": false,
+          "rationale": "Sebbene rilevante, la domanda chiave riguarda l'esposizione dell'utente finale ai risultati generati dall'AI."
+        }
+      ],
+      "hint": "Pensa all'impatto che una risposta generata dall'AI può avere sulla volontà dell'utente di cliccare su un sito."
+    },
+    {
+      "question": "Cosa si intende con l'espressione: 'La parola chiave è un proxy della domanda'?",
+      "answerOptions": [
+        {
+          "text": "Che la keyword è lo strumento tecnico per ingannare gli algoritmi.",
+          "isCorrect": false,
+          "rationale": "Questa visione ignora l'aspetto strategico del marketing basato sul valore dell'intento dell'utente."
+        },
+        {
+          "text": "Che la keyword è un indizio osservabile di un bisogno o di un problema dell'utente.",
+          "isCorrect": true,
+          "rationale": "Il marketer non punta alla parola in sé, ma a comprendere il bisogno sottostante che essa rappresenta."
+        },
+        {
+          "text": "Che la keyword deve essere tradotta in diversi linguaggi di programmazione.",
+          "isCorrect": false,
+          "rationale": "Il termine 'proxy' in questo contesto non ha un significato informatico di rete, ma statistico-strategico."
+        },
+        {
+          "text": "Che la keyword è l'unico obiettivo finale di una campagna di comunicazione.",
+          "isCorrect": false,
+          "rationale": "Il materiale specifica esplicitamente che la parola chiave *non* è il vero obiettivo finale del marketer."
+        }
+      ],
+      "hint": "Considera la keyword non come un traguardo, ma come un segnale che punta a ciò che l'utente sta veramente cercando."
+    },
+    {
+      "question": "Perché le aziende hanno bisogno di condurre ricerche di mercato online?",
+      "answerOptions": [
+        {
+          "text": "Per aumentare l'asimmetria informativa tra azienda e consumatore.",
+          "isCorrect": false,
+          "rationale": "Le ricerche servono a ridurre l'asimmetria, ovvero la mancanza di conoscenza, non ad aumentarla."
+        },
+        {
+          "text": "Per ridurre l'asimmetria informativa e comprendere meglio il target.",
+          "isCorrect": true,
+          "rationale": "Colmare il gap di conoscenza sul mercato permette di prendere decisioni più efficaci e mirate."
+        },
+        {
+          "text": "Per garantire che i prezzi rimangano sempre più alti della concorrenza.",
+          "isCorrect": false,
+          "rationale": "La ricerca di mercato riguarda la comprensione dei bisogni, non è un metodo diretto di fissazione del prezzo."
+        },
+        {
+          "text": "Per eliminare completamente il bisogno di fare pubblicità.",
+          "isCorrect": false,
+          "rationale": "La ricerca supporta la pubblicità rendendola più efficace, ma non la sostituisce."
+        }
+      ],
+      "hint": "Pensa al bisogno di colmare le lacune di conoscenza riguardo ai propri clienti."
+    },
+    {
+      "question": "Quale dei seguenti rappresenta un problema tipico delle ricerche online?",
+      "answerOptions": [
+        {
+          "text": "L'impossibilità di raccogliere dati in modo rapido.",
+          "isCorrect": false,
+          "rationale": "Al contrario, la rapidità è uno dei principali vantaggi delle ricerche online."
+        },
+        {
+          "text": "La difficoltà nel sapere se le persone investigate appartengono realmente al target.",
+          "isCorrect": true,
+          "rationale": "L'anonimato e la mancanza di controllo visivo rendono difficile la verifica dell'identità reale del rispondente."
+        },
+        {
+          "text": "L'eccessivo costo rispetto alle interviste telefoniche tradizionali.",
+          "isCorrect": false,
+          "rationale": "Le ricerche online sono generalmente molto più economiche di quelle telefoniche o fisiche."
+        },
+        {
+          "text": "L'incapacità di utilizzare grafici o tabelle per l'analisi.",
+          "isCorrect": false,
+          "rationale": "Gli strumenti digitali facilitano enormemente la creazione di visualizzazioni dei dati."
+        }
+      ],
+      "hint": "Considera quanto sia facile fornire informazioni non veritiere sulla propria identità dietro uno schermo."
+    },
+    {
+      "question": "Cosa definisce i 'Dati Primari' in una ricerca di mercato?",
+      "answerOptions": [
+        {
+          "text": "Informazioni già esistenti raccolte da altre organizzazioni per scopi diversi.",
+          "isCorrect": false,
+          "rationale": "Questa è la definizione di dati secondari, non primari."
+        },
+        {
+          "text": "Dati raccolti per la prima volta specificamente per risolvere un particolare problema.",
+          "isCorrect": true,
+          "rationale": "I dati primari sono generati 'ex novo' dal ricercatore per la sua specifica indagine."
+        },
+        {
+          "text": "Dati che sono accessibili a tutti i concorrenti gratuitamente.",
+          "isCorrect": false,
+          "rationale": "I dati primari sono proprietari e quindi non disponibili alla concorrenza."
+        },
+        {
+          "text": "Statistiche governative pubblicate su base annuale.",
+          "isCorrect": false,
+          "rationale": "I dati pubblici o governativi sono solitamente classificati come dati secondari."
+        }
+      ],
+      "hint": "Pensa al termine 'primario' come a qualcosa che viene creato all'origine per uno scopo specifico."
+    },
+    {
+      "question": "Qual è un vantaggio significativo dell'utilizzo di internet per la raccolta di dati primari?",
+      "answerOptions": [
+        {
+          "text": "La garanzia di ottenere sempre campioni rappresentativi della popolazione totale.",
+          "isCorrect": false,
+          "rationale": "La rappresentatività è spesso un limite, non un vantaggio garantito della ricerca online."
+        },
+        {
+          "text": "Il declino dei tassi di rifiuto rispetto alle interviste telefoniche (40-60%).",
+          "isCorrect": true,
+          "rationale": "La crescente riluttanza a rispondere al telefono rende l'approccio online più efficace per ottenere cooperazione."
+        },
+        {
+          "text": "L'assenza di necessità di analizzare i dati dopo la raccolta.",
+          "isCorrect": false,
+          "rationale": "Qualsiasi tipo di dato raccolto richiede un'analisi approfondita per essere utile."
+        },
+        {
+          "text": "Il fatto che i colori e le scale appaiano identici su ogni browser.",
+          "isCorrect": false,
+          "rationale": "La variabilità dei browser e dei monitor è uno dei problemi tecnici citati, non un vantaggio."
+        }
+      ],
+      "hint": "Confronta la comodità di un questionario web rispetto alla seccatura di una telefonata di vendita."
+    },
+    {
+      "question": "Tra i metodi di ricerca basati su internet, cos'è l'Eyetracking?",
+      "answerOptions": [
+        {
+          "text": "Un sistema per monitorare quanti click riceve una pagina web.",
+          "isCorrect": false,
+          "rationale": "Il monitoraggio dei click è solitamente chiamato clickstream o mousetracking."
+        },
+        {
+          "text": "Una tecnica per osservare dove si posa lo sguardo dell'utente su una pagina.",
+          "isCorrect": true,
+          "rationale": "L'eyetracking analizza i movimenti oculari per capire quali elementi attirano l'attenzione visiva."
+        },
+        {
+          "text": "Un software per inviare email automatiche basate sugli interessi dell'utente.",
+          "isCorrect": false,
+          "rationale": "Questa è una funzione di marketing automation o email marketing."
+        },
+        {
+          "text": "Un metodo per verificare la velocità di caricamento di un sito web.",
+          "isCorrect": false,
+          "rationale": "I test di performance del sito non riguardano l'osservazione del comportamento visivo dell'utente."
+        }
+      ],
+      "hint": "Il nome della tecnica deriva direttamente dall'organo di senso coinvolto."
+    },
+    {
+      "question": "Quale modello di prezzo è spesso utilizzato da piattaforme come SurveyMonkey?",
+      "answerOptions": [
+        {
+          "text": "Pay-per-view",
+          "isCorrect": false,
+          "rationale": "Il modello pay-per-view si applica ai contenuti video o eventi, non ai software di sondaggio."
+        },
+        {
+          "text": "Freemium",
+          "isCorrect": true,
+          "rationale": "Il modello freemium offre funzionalità base gratuite e piani avanzati a pagamento."
+        },
+        {
+          "text": "Completamente gratuito senza opzioni a pagamento.",
+          "isCorrect": false,
+          "rationale": "SurveyMonkey ha diverse fasce di prezzo (Standard, Advantage, Premier) oltre alla versione free."
+        },
+        {
+          "text": "Licenza unica 'una tantum' senza abbonamento.",
+          "isCorrect": false,
+          "rationale": "La piattaforma utilizza abbonamenti mensili o annuali, tipici del software-as-a-service."
+        }
+      ],
+      "hint": "È una parola composta che indica la combinazione di 'gratis' e 'premium'."
+    },
+    {
+      "question": "Qual è un vantaggio tecnico delle web survey rispetto ai questionari cartacei?",
+      "answerOptions": [
+        {
+          "text": "Eliminano gli errori di data entry durante la conversione delle risposte.",
+          "isCorrect": true,
+          "rationale": "Poiché i rispondenti inseriscono i dati direttamente nel sistema, non serve trascriverli manualmente."
+        },
+        {
+          "text": "Permettono di raggiungere solo persone che non hanno un computer.",
+          "isCorrect": false,
+          "rationale": "Per definizione, le web survey raggiungono solo chi ha accesso alla rete e a un dispositivo."
+        },
+        {
+          "text": "Sono più lente da completare a causa dei tempi di spedizione postale.",
+          "isCorrect": false,
+          "rationale": "Il web elimina i tempi postali, rendendo la consegna dei questionari istantanea."
+        },
+        {
+          "text": "Non richiedono alcun tipo di progettazione o test preliminare.",
+          "isCorrect": false,
+          "rationale": "Il materiale sottolinea che preparare un questionario online è un'operazione complessa che richiede test."
+        }
+      ],
+      "hint": "Pensa al processo di dover ricopiare a computer le risposte scritte a mano su un foglio."
+    },
+    {
+      "question": "Uno dei principali svantaggi delle web survey riguarda la rappresentatività del campione. Cosa significa?",
+      "answerOptions": [
+        {
+          "text": "Che i risultati possono essere facilmente generalizzati a tutta la popolazione.",
+          "isCorrect": false,
+          "rationale": "Questo sarebbe un vantaggio; lo svantaggio è proprio l'incapacità di generalizzare."
+        },
+        {
+          "text": "Che non è possibile estrarre un campione casuale e generalizzare i risultati.",
+          "isCorrect": true,
+          "rationale": "L'auto-selezione dei partecipanti e il digital divide impediscono una rappresentazione perfetta della popolazione generale."
+        },
+        {
+          "text": "Che troppe persone diverse rispondono contemporaneamente al sondaggio.",
+          "isCorrect": false,
+          "rationale": "Avere molti rispondenti è solitamente positivo; il problema è *chi* sono queste persone."
+        },
+        {
+          "text": "Che i dati raccolti sono troppo precisi per essere analizzati dai ricercatori.",
+          "isCorrect": false,
+          "rationale": "La precisione dei dati non è mai considerata uno svantaggio nella ricerca scientifica."
+        }
+      ],
+      "hint": "Rifletti sul fatto che non tutti hanno lo stesso accesso a internet o la stessa propensione a cliccare su un sondaggio."
+    },
+    {
+      "question": "Cosa dovrebbe contenere la prima sezione di un questionario professionale?",
+      "answerOptions": [
+        {
+          "text": "Le domande socio-demografiche per profilare subito l'utente.",
+          "isCorrect": false,
+          "rationale": "Le domande demografiche sono delicate e vanno poste alla fine del questionario."
+        },
+        {
+          "text": "La richiesta di collaborazione e l'assicurazione sulla privacy.",
+          "isCorrect": true,
+          "rationale": "È fondamentale ottenere il consenso e spiegare gli obiettivi per motivare il rispondente."
+        },
+        {
+          "text": "Le domande più difficili per sfruttare la freschezza mentale iniziale.",
+          "isCorrect": false,
+          "rationale": "All'inizio il rispondente non è ancora pronto a un impegno mentale elevato; le domande difficili vanno al centro."
+        },
+        {
+          "text": "L'elenco completo delle risposte corrette attese dall'azienda.",
+          "isCorrect": false,
+          "rationale": "Un questionario non deve suggerire le risposte, altrimenti i dati risulterebbero distorti."
+        }
+      ],
+      "hint": "È la parte che serve a 'rompere il ghiaccio' e a tranquillizzare l'utente sull'uso dei suoi dati."
+    },
+    {
+      "question": "Quale criterio suggerisce il materiale riguardo ai temi da coprire in un questionario?",
+      "answerOptions": [
+        {
+          "text": "Inserire il maggior numero possibile di domande per non sprecare l'occasione.",
+          "isCorrect": false,
+          "rationale": "Inserire troppe domande annoia il rispondente e degrada la qualità delle risposte."
+        },
+        {
+          "text": "La parsimonia: escludere i temi che non sono di primario interesse.",
+          "isCorrect": true,
+          "rationale": "Essere sintetici e focalizzati (parsimoniosi) aiuta a mantenere alto il coinvolgimento del rispondente."
+        },
+        {
+          "text": "Chiedere solo informazioni che l'azienda già conosce per confermarle.",
+          "isCorrect": false,
+          "rationale": "La ricerca deve scoprire nuove informazioni, non limitarsi a confermare l'ovvio."
+        },
+        {
+          "text": "Iniziare subito con la formulazione delle domande senza elencare le variabili.",
+          "isCorrect": false,
+          "rationale": "Il materiale suggerisce di elencare prima le variabili e solo dopo formulare le domande."
+        }
+      ],
+      "hint": "Meno è meglio, purché sia rilevante."
+    },
+    {
+      "question": "Perché le domande che causano stress mnemonico dovrebbero essere poste a metà del questionario?",
+      "answerOptions": [
+        {
+          "text": "Perché all'inizio il rispondente non è ancora disponibile e alla fine è troppo stanco.",
+          "isCorrect": true,
+          "rationale": "Il centro del questionario rappresenta il picco di coinvolgimento prima che subentri la stanchezza finale."
+        },
+        {
+          "text": "Per nasconderle tra domande più semplici ed evitare che l'utente ci pensi troppo.",
+          "isCorrect": false,
+          "rationale": "Lo scopo non è ingannare l'utente, ma posizionare lo sforzo nel momento di massima resa."
+        },
+        {
+          "text": "Perché sono le meno importanti e possono essere saltate se l'utente ha fretta.",
+          "isCorrect": false,
+          "rationale": "Se fossero poco importanti, dovrebbero essere rimosse seguendo il principio della parsimonia."
+        },
+        {
+          "text": "Per garantire che il rispondente abbia già fornito i suoi dati di reddito.",
+          "isCorrect": false,
+          "rationale": "I dati sul reddito sono socio-demografici e vanno sempre in fondo."
+        }
+      ],
+      "hint": "Considera la curva dell'attenzione e della disponibilità del rispondente durante il test."
+    },
+    {
+      "question": "A cosa servono le 'domande filtro' in un sondaggio?",
+      "answerOptions": [
+        {
+          "text": "A bloccare l'accesso al questionario agli utenti che usano browser obsoleti.",
+          "isCorrect": false,
+          "rationale": "Questa è una restrizione tecnica, non una funzione metodologica della domanda filtro."
+        },
+        {
+          "text": "A indirizzare gruppi specifici di rispondenti verso sezioni di domande a loro dedicate.",
+          "isCorrect": true,
+          "rationale": "Permettono di saltare domande irrilevanti (es. non chiedere del servizio in camera a chi non lo ha usato)."
+        },
+        {
+          "text": "A confondere il rispondente per verificare se sta prestando attenzione.",
+          "isCorrect": false,
+          "rationale": "Le domande devono essere chiare e univoche; la confusione è un errore di progettazione."
+        },
+        {
+          "text": "A garantire che il questionario sia tradotto automaticamente in un'altra lingua.",
+          "isCorrect": false,
+          "rationale": "La traduzione è una funzione della piattaforma, non una caratteristica della struttura delle domande."
+        }
+      ],
+      "hint": "Pensa a un bivio in un sentiero: a seconda della tua risposta, prendi una direzione o l'altra."
+    },
+    {
+      "question": "Cosa si intende per 'mutua esclusione' nelle risposte di un questionario?",
+      "answerOptions": [
+        {
+          "text": "Che ogni risposta deve essere simile all'altra per non confondere l'utente.",
+          "isCorrect": false,
+          "rationale": "Le risposte devono essere distinte, non simili, per permettere una scelta chiara."
+        },
+        {
+          "text": "Che le opzioni fornite non devono sovrapporsi, permettendo una sola scelta logica.",
+          "isCorrect": true,
+          "rationale": "Se le opzioni si sovrappongono (es. '2-3 volte' e '3-5 volte'), il rispondente non sa quale scegliere se la sua risposta è '3'."
+        },
+        {
+          "text": "Che il rispondente può scegliere più di una risposta contemporaneamente.",
+          "isCorrect": false,
+          "rationale": "Questa è la definizione di scelta multipla a risposta multipla, l'opposto dell'esclusività."
+        },
+        {
+          "text": "Che le domande devono essere poste in modo da escludere i minorenni dalla ricerca.",
+          "isCorrect": false,
+          "rationale": "L'esclusione di target non è legata alla proprietà logica delle opzioni di risposta."
+        }
+      ],
+      "hint": "Pensa a un errore in cui una persona che va in palestra esattamente 3 volte a settimana non sa quale casella barrare tra '2-3' e '3-5'."
+    },
+    {
+      "question": "Qual è il rischio principale nell'utilizzare scale Likert con un numero dispari di opzioni?",
+      "answerOptions": [
+        {
+          "text": "Forzano il rispondente a prendere una posizione netta anche se non ce l'ha.",
+          "isCorrect": false,
+          "rationale": "Questo è il rischio delle scale pari, non di quelle dispari."
+        },
+        {
+          "text": "Aumentano il rischio che le risposte si addensino eccessivamente sui valori medi.",
+          "isCorrect": true,
+          "rationale": "La presenza di un valore centrale 'neutro' offre una via di fuga facile agli indecisi."
+        },
+        {
+          "text": "Rendono i dati impossibili da codificare elettronicamente.",
+          "isCorrect": false,
+          "rationale": "I sistemi digitali gestiscono facilmente sia scale pari che dispari."
+        },
+        {
+          "text": "Richiedono molto più tempo per essere lette dal rispondente.",
+          "isCorrect": false,
+          "rationale": "La differenza di tempo tra 4 e 5 opzioni è trascurabile per la maggior parte degli utenti."
+        }
+      ],
+      "hint": "Pensa a cosa sceglie spesso chi non ha un'opinione forte o non vuole sbilanciarsi."
+    },
+    {
+      "question": "Dove dovrebbero essere collocate le domande socio-demografiche (età, sesso, reddito) e perché?",
+      "answerOptions": [
+        {
+          "text": "All'inizio, perché sono le più facili da rispondere.",
+          "isCorrect": false,
+          "rationale": "Sebbene facili, sono percepite come delicate e possono causare l'abbandono immediato se poste all'inizio."
+        },
+        {
+          "text": "Sempre alla fine, perché sono informazioni delicate e l'utente ha ormai acquisito fiducia.",
+          "isCorrect": true,
+          "rationale": "Dopo aver risposto al corpo centrale, il rispondente è più propenso a completare gli ultimi dettagli anagrafici."
+        },
+        {
+          "text": "Nel mezzo, per intervallare domande più difficili.",
+          "isCorrect": false,
+          "rationale": "La posizione centrale è riservata allo sforzo mnemonico principale, non a dati anagrafici."
+        },
+        {
+          "text": "In una finestra pop-up separata dal questionario principale.",
+          "isCorrect": false,
+          "rationale": "Le informazioni di profilo devono essere integrate per poter essere associate correttamente alle altre risposte."
+        }
+      ],
+      "hint": "Considera queste domande come il tocco finale una volta stabilito un rapporto con l'intervistatore virtuale."
+    },
+    {
+      "question": "Che cos'è una 'Customer Journey Map'?",
+      "answerOptions": [
+        {
+          "text": "Un elenco tecnico di tutti i server che un utente attraversa visitando un sito.",
+          "isCorrect": false,
+          "rationale": "Questa sarebbe una mappa di rete tecnica, non legata al marketing o all'esperienza utente."
+        },
+        {
+          "text": "Un diagramma che racconta la storia dell'esperienza di un cliente con un brand nel tempo.",
+          "isCorrect": true,
+          "rationale": "Rappresenta visivamente i touchpoint, le reazioni e gli stati emotivi del cliente durante l'interazione."
+        },
+        {
+          "text": "Un sistema GPS utilizzato per tracciare gli spostamenti fisici dei consumatori nei negozi.",
+          "isCorrect": false,
+          "rationale": "Sebbene il nome includa 'journey', si riferisce al percorso decisionale e d'uso, non necessariamente fisico."
+        },
+        {
+          "text": "Una lista di tutti i prodotti venduti da un'azienda in un anno.",
+          "isCorrect": false,
+          "rationale": "La mappa riguarda l'esperienza dell'utente, non l'inventario dei prodotti."
+        }
+      ],
+      "hint": "Immagina di tracciare su una linea temporale ogni interazione tra una persona e un'azienda."
+    },
+    {
+      "question": "Qual è lo scopo della fase di 'Analysis' nella creazione di una Journey Map?",
+      "answerOptions": [
+        {
+          "text": "Definire il budget pubblicitario per l'intero anno.",
+          "isCorrect": false,
+          "rationale": "L'analisi della mappa riguarda la struttura dell'esperienza, non la pianificazione finanziaria."
+        },
+        {
+          "text": "Consolidare un alto numero di touchpoint in un percorso focalizzato e coerente.",
+          "isCorrect": true,
+          "rationale": "L'obiettivo è selezionare i momenti più rappresentativi per costruire una narrativa realistica."
+        },
+        {
+          "text": "Eliminare tutti i feedback negativi lasciati dagli utenti online.",
+          "isCorrect": false,
+          "rationale": "I feedback negativi sono essenziali nella mappa per identificare punti di attrito da migliorare."
+        },
+        {
+          "text": "Scegliere il colore del logo aziendale basandosi sulle emozioni.",
+          "isCorrect": false,
+          "rationale": "Il branding visuale è un'attività diversa dalla mappatura dei processi di interazione del cliente."
+        }
+      ],
+      "hint": "Pensa al processo di semplificare una realtà complessa in una storia comprensibile."
+    },
+    {
+      "question": "Cosa sono le 'Personas' nel contesto del marketing digitale?",
+      "answerOptions": [
+        {
+          "text": "I dipendenti dell'azienda che si occupano del servizio clienti.",
+          "isCorrect": false,
+          "rationale": "Le personas rappresentano i clienti target, non il personale interno."
+        },
+        {
+          "text": "Rappresentazioni dettagliate di segmenti di mercato che aiutano a capire pensieri e sentimenti dei clienti.",
+          "isCorrect": true,
+          "rationale": "Permettono di personalizzare le campagne parlando direttamente ai bisogni specifici di quel profilo."
+        },
+        {
+          "text": "I robot utilizzati nei magazzini per gestire le spedizioni.",
+          "isCorrect": false,
+          "rationale": "Le personas sono archetipi psicologici e demografici umani, non entità fisiche robotiche."
+        },
+        {
+          "text": "Attori famosi ingaggiati per fare da testimonial a un prodotto.",
+          "isCorrect": false,
+          "rationale": "I testimonial sono persone reali; le personas sono modelli fittizi basati su dati reali per guidare la strategia."
+        }
+      ],
+      "hint": "Considerale come personaggi di una storia che rappresentano i tuoi clienti ideali."
+    },
+    {
+      "question": "Quali elementi compongono le 'Psychographics' nella costruzione di una Persona?",
+      "answerOptions": [
+        {
+          "text": "Età, genere e livello di reddito.",
+          "isCorrect": false,
+          "rationale": "Questi sono dati demografici, non psicografici."
+        },
+        {
+          "text": "Atteggiamenti, credenze e personalità.",
+          "isCorrect": true,
+          "rationale": "La psicografia scava nel 'perché' del comportamento, analizzando i valori e il carattere."
+        },
+        {
+          "text": "Indirizzo di residenza e numero di telefono.",
+          "isCorrect": false,
+          "rationale": "Questi sono dati di contatto o geografici."
+        },
+        {
+          "text": "Velocità di connessione a internet e tipo di browser usato.",
+          "isCorrect": false,
+          "rationale": "Questi sono dati tecnici o comportamentali legati al device."
+        }
+      ],
+      "hint": "Cerca fattori legati alla mente e al modo di vedere il mondo del cliente."
+    },
+    {
+      "question": "Perché è utile includere le 'Obiezioni' nel profilo di una Persona?",
+      "answerOptions": [
+        {
+          "text": "Per convincere l'utente che non ha bisogno del prodotto.",
+          "isCorrect": false,
+          "rationale": "L'obiettivo è l'opposto: capire gli ostacoli per poterli superare nella comunicazione."
+        },
+        {
+          "text": "Per capire i motivi per cui un cliente potrebbe decidere di non acquistare.",
+          "isCorrect": true,
+          "rationale": "Identificare i dubbi permette all'azienda di preparare argomentazioni che rassicurino il target."
+        },
+        {
+          "text": "Per licenziare i venditori che non sanno rispondere alle critiche.",
+          "isCorrect": false,
+          "rationale": "La persona è uno strumento di marketing strategico, non di gestione punitiva del personale."
+        },
+        {
+          "text": "Per aumentare il prezzo del prodotto in base alle lamentele.",
+          "isCorrect": false,
+          "rationale": "Le obiezioni servono a migliorare l'offerta o la comunicazione, non necessariamente a variare il prezzo."
+        }
+      ],
+      "hint": "Pensa a cosa frena una persona prima di cliccare su 'Acquista'."
+    },
+    {
+      "question": "Quale caratteristica dell'economia digitale riguarda la capacità dell'utente di avere più potere?",
+      "answerOptions": [
+        {
+          "text": "Virtualizzazione",
+          "isCorrect": false,
+          "rationale": "La virtualizzazione riguarda la trasformazione di oggetti fisici in digitali."
+        },
+        {
+          "text": "Consumer empowerment",
+          "isCorrect": true,
+          "rationale": "Il digitale dà al consumatore più informazioni e strumenti di scelta, aumentandone il potere contrattuale."
+        },
+        {
+          "text": "Identità",
+          "isCorrect": false,
+          "rationale": "L'identità riguarda la gestione del proprio profilo digitale, non direttamente il potere di mercato."
+        },
+        {
+          "text": "Prossimità",
+          "isCorrect": false,
+          "rationale": "La prossimità indica la vicinanza digitale (spesso indipendentemente da quella fisica)."
+        }
+      ],
+      "hint": "Il termine inglese significa letteralmente 'potenziamento del consumatore'."
+    },
+    {
+      "question": "Nel contesto del Web, cosa permettono di fare i protocolli TCP?",
+      "answerOptions": [
+        {
+          "text": "Creare documenti ipertestuali tramite link.",
+          "isCorrect": false,
+          "rationale": "Questa è la funzione del sistema Web/HTML, non dei protocolli di trasporto."
+        },
+        {
+          "text": "Garantire il trasporto dei dati attraverso la rete.",
+          "isCorrect": true,
+          "rationale": "Il Transmission Control Protocol (TCP) gestisce l'invio e la ricezione corretta dei dati."
+        },
+        {
+          "text": "Visualizzare immagini ad alta risoluzione.",
+          "isCorrect": false,
+          "rationale": "La visualizzazione dipende dai browser e dai formati dei file, non dal protocollo di trasporto."
+        },
+        {
+          "text": "Assegnare un nome univoco a ogni sito web.",
+          "isCorrect": false,
+          "rationale": "L'assegnazione dei nomi è gestita dal sistema DNS, non direttamente dal TCP."
+        }
+      ],
+      "hint": "Pensa alla parte del sistema che si assicura che i 'pacchetti' di informazioni arrivino a destinazione."
+    },
+    {
+      "question": "Un'azienda decide di monitorare i forum online per capire cosa dicono i clienti. Che tipo di approccio è?",
+      "answerOptions": [
+        {
+          "text": "Online focus group",
+          "isCorrect": false,
+          "rationale": "Un focus group richiede una moderazione attiva e un gruppo di discussione strutturato."
+        },
+        {
+          "text": "Online observation",
+          "isCorrect": true,
+          "rationale": "L'osservazione consiste nel monitorare comportamenti e discussioni spontanee senza intervenire direttamente."
+        },
+        {
+          "text": "Usability testing",
+          "isCorrect": false,
+          "rationale": "L'usability testing riguarda l'interazione tecnica con un'interfaccia, non l'ascolto di opinioni sui forum."
+        },
+        {
+          "text": "Online experiment",
+          "isCorrect": false,
+          "rationale": "Gli esperimenti richiedono la manipolazione di variabili per testare una reazione controllata."
+        }
+      ],
+      "hint": "Pensa all'azione di guardare senza essere visti e senza disturbare l'azione spontanea."
+    },
+    {
+      "question": "Nella progettazione di un questionario, cosa si intende per 'Istruzioni per la compilazione'?",
+      "answerOptions": [
+        {
+          "text": "Codici segreti che solo il ricercatore può conoscere.",
+          "isCorrect": false,
+          "rationale": "Le istruzioni devono essere lette e comprese dal rispondente per compilare correttamente."
+        },
+        {
+          "text": "Indicazioni inserite direttamente nel testo, specialmente quando non c'è un intervistatore fisico.",
+          "isCorrect": true,
+          "rationale": "Servono a guidare l'utente nell'uso corretto di scale, bottoni o salti tra le domande."
+        },
+        {
+          "text": "Un manuale d'uso di 50 pagine da scaricare prima di iniziare.",
+          "isCorrect": false,
+          "rationale": "Le istruzioni devono essere brevi e integrate nel flusso del questionario per non scoraggiare l'utente."
+        },
+        {
+          "text": "L'elenco dei requisiti hardware necessari per aprire il link.",
+          "isCorrect": false,
+          "rationale": "Sebbene utili, le istruzioni metodologiche riguardano il *come rispondere*, non i requisiti tecnici."
+        }
+      ],
+      "hint": "Pensa a quei piccoli testi che dicono 'Scegli solo una risposta' o 'Scrivi in stampatello'."
+    },
+    {
+      "question": "Qual è il vantaggio principale delle domande chiuse rispetto a quelle aperte?",
+      "answerOptions": [
+        {
+          "text": "Offrono una maggiore libertà di espressione al rispondente.",
+          "isCorrect": false,
+          "rationale": "La libertà è il vantaggio delle domande aperte; le chiuse la limitano a opzioni predefinite."
+        },
+        {
+          "text": "Sono più facili da codificare, tabulare e analizzare statisticamente.",
+          "isCorrect": true,
+          "rationale": "Le risposte standardizzate permettono confronti immediati e calcoli matematici rapidi."
+        },
+        {
+          "text": "Permettono di scoprire nuovi temi che il ricercatore non aveva previsto.",
+          "isCorrect": false,
+          "rationale": "Questo è un punto di forza delle domande aperte (esplorative)."
+        },
+        {
+          "text": "Evitano che l'utente debba leggere le opzioni di risposta.",
+          "isCorrect": false,
+          "rationale": "Nelle domande chiuse l'utente *deve* leggere e scegliere tra le opzioni fornite."
+        }
+      ],
+      "hint": "Rifletti sulla velocità con cui un computer può contare delle crocette rispetto a interpretare un testo scritto."
+    },
+    {
+      "question": "Cosa deve fare un ricercatore prima di distribuire ufficialmente un questionario?",
+      "answerOptions": [
+        {
+          "text": "Inviarlo direttamente a tutti i potenziali clienti senza modifiche.",
+          "isCorrect": false,
+          "rationale": "Procedere senza test espone al rischio di errori che invalidano l'intera raccolta dati."
+        },
+        {
+          "text": "Testare tutte le domande per verificare che siano chiare e non ambigue.",
+          "isCorrect": true,
+          "rationale": "Il pre-test permette di correggere errori di comprensione che potrebbero distorcere i risultati."
+        },
+        {
+          "text": "Cancellare tutte le domande che potrebbero avere risposte negative per l'azienda.",
+          "isCorrect": false,
+          "rationale": "I feedback negativi sono essenziali per il miglioramento; eliminarli distorce la realtà."
+        },
+        {
+          "text": "Nascondere il nome dell'azienda per non farsi riconoscere.",
+          "isCorrect": false,
+          "rationale": "Sebbene a volte si usi il 'cieco', la trasparenza sugli obiettivi è spesso richiesta per il consenso informato."
+        }
+      ],
+      "hint": "È una fase di 'prova' cruciale per ogni strumento di misurazione."
+    },
+    {
+      "question": "Cosa significa che i dati digitali cambiano 'discretamente'?",
+      "answerOptions": [
+        {
+          "text": "Che cambiano in modo molto lento e quasi impercettibile.",
+          "isCorrect": false,
+          "rationale": "Nel digitale il cambiamento può essere istantaneo; 'discreto' non significa 'lento'."
+        },
+        {
+          "text": "Che saltano tra stati definiti senza posizioni intermedie (es. 0 oppure 1).",
+          "isCorrect": true,
+          "rationale": "A differenza dell'analogico che è un flusso continuo, il digitale si basa su valori numerici finiti."
+        },
+        {
+          "text": "Che i dati non vengono mostrati pubblicamente per motivi di privacy.",
+          "isCorrect": false,
+          "rationale": "Si tratta di un termine matematico/fisico legato alla natura dei segnali, non alla riservatezza."
+        },
+        {
+          "text": "Che i dati si cancellano automaticamente dopo essere stati letti.",
+          "isCorrect": false,
+          "rationale": "La discretezza riguarda la struttura dell'informazione, non la sua persistenza nel tempo."
+        }
+      ],
+      "hint": "Pensa alla differenza tra una rampa liscia (analogica) e una scala a gradini (digitale)."
+    },
+    {
+      "question": "Quale tra questi è un esempio di 'device digitale'?",
+      "answerOptions": [
+        {
+          "text": "Il Web",
+          "isCorrect": false,
+          "rationale": "Il Web è una piattaforma, non un oggetto hardware."
+        },
+        {
+          "text": "Un Laptop",
+          "isCorrect": true,
+          "rationale": "Il laptop è un dispositivo fisico utilizzato per accedere ai servizi digitali."
+        },
+        {
+          "text": "Internet",
+          "isCorrect": false,
+          "rationale": "Internet è l'infrastruttura di rete globale, classificata come piattaforma."
+        },
+        {
+          "text": "Un database di email",
+          "isCorrect": false,
+          "rationale": "Un database è un insieme di dati organizzati, non un dispositivo fisico."
+        }
+      ],
+      "hint": "Dovrebbe essere qualcosa che puoi toccare fisicamente."
+    },
+    {
+      "question": "Cosa indica il termine 'Virtualizzazione' nell'economia digitale?",
+      "answerOptions": [
+        {
+          "text": "La creazione di mondi fantastici per i videogiochi.",
+          "isCorrect": false,
+          "rationale": "Sebbene collegato, in economia digitale si riferisce più ampiamente alla smaterializzazione degli scambi."
+        },
+        {
+          "text": "La trasformazione di beni o processi fisici in entità digitali.",
+          "isCorrect": true,
+          "rationale": "Esempi includono l'e-book al posto del libro cartaceo o l'online banking al posto dello sportello."
+        },
+        {
+          "text": "L'uso obbligatorio di occhiali 3D per navigare in internet.",
+          "isCorrect": false,
+          "rationale": "La virtualizzazione economica non richiede necessariamente hardware di realtà virtuale."
+        },
+        {
+          "text": "La cancellazione di tutti i negozi fisici a favore dei magazzini.",
+          "isCorrect": false,
+          "rationale": "È un processo di trasformazione, non necessariamente di eliminazione totale del fisico."
+        }
+      ],
+      "hint": "Pensa a come una lettera cartacea è diventata un'email."
+    },
+    {
+      "question": "Quale problema della 'validità di misurazione' è specifico delle ricerche online?",
+      "answerOptions": [
+        {
+          "text": "La difficoltà di scrivere domande in una lingua comprensibile.",
+          "isCorrect": false,
+          "rationale": "Questo è un problema comune a tutte le ricerche, non solo quelle online."
+        },
+        {
+          "text": "La variazione della visualizzazione di scale e colori su schermi di diverse dimensioni.",
+          "isCorrect": true,
+          "rationale": "La resa visiva incostante può influenzare il modo in cui l'utente percepisce e risponde alle domande."
+        },
+        {
+          "text": "L'incapacità dei server di memorizzare più di dieci risposte.",
+          "isCorrect": false,
+          "rationale": "I server moderni possono gestire milioni di risposte senza problemi tecnici di archiviazione."
+        },
+        {
+          "text": "Il fatto che gli utenti online mentano sempre sulla loro età.",
+          "isCorrect": false,
+          "rationale": "Sebbene possibile, non è un problema di 'validità di misurazione' dello strumento, ma di veridicità del rispondente."
+        }
+      ],
+      "hint": "Pensa a come un colore 'rosso' possa apparire diverso su un vecchio monitor rispetto a uno smartphone moderno."
+    },
+    {
+      "question": "Nelle domande chiuse, cosa si intende per risposte 'Dicotomiche'?",
+      "answerOptions": [
+        {
+          "text": "Domande che permettono di scrivere un intero paragrafo.",
+          "isCorrect": false,
+          "rationale": "Queste sono domande aperte, non dicotomiche."
+        },
+        {
+          "text": "Domande che offrono esattamente due alternative di risposta (es. Sì/No).",
+          "isCorrect": true,
+          "rationale": "Il prefisso 'di-' indica la presenza di due sole opzioni contrapposte."
+        },
+        {
+          "text": "Domande che hanno più di dieci opzioni tra cui scegliere.",
+          "isCorrect": false,
+          "rationale": "Queste sarebbero domande a scelta multipla estesa."
+        },
+        {
+          "text": "Domande che devono essere lette due volte per essere capite.",
+          "isCorrect": false,
+          "rationale": "L'ambiguità è un difetto, mentre 'dicotomico' descrive la struttura binaria delle risposte."
+        }
+      ],
+      "hint": "Il termine ha la stessa radice di 'dividere in due'."
+    },
+    {
+      "question": "Qual è il ruolo del ricercatore nella fase di 'Scoping' di una Customer Journey Map?",
+      "answerOptions": [
+        {
+          "text": "Scrivere il codice di programmazione del sito web.",
+          "isCorrect": false,
+          "rationale": "Questa è un'attività di sviluppo software, non di mappatura del marketing."
+        },
+        {
+          "text": "Definire gli obiettivi, il perimetro e il target della mappa.",
+          "isCorrect": true,
+          "rationale": "Senza una fase di scoping chiara, la mappa rischia di essere troppo generica o irrilevante."
+        },
+        {
+          "text": "Stampare fisicamente la mappa in un formato gigante.",
+          "isCorrect": false,
+          "rationale": "Sebbene la visualizzazione sia importante, lo scoping riguarda la pianificazione strategica iniziale."
+        },
+        {
+          "text": "Intervistare solo i concorrenti per copiarne le strategie.",
+          "isCorrect": false,
+          "rationale": "La mappa deve focalizzarsi sull'esperienza dei *propri* clienti, non solo sui competitor."
+        }
+      ],
+      "hint": "È la fase in cui si decide 'cosa stiamo mappando e per chi'."
+    },
+    {
+      "question": "Perché le domande su temi 'delicati' vanno poste alla fine del questionario?",
+      "answerOptions": [
+        {
+          "text": "Perché così il ricercatore può dimenticarsi di leggerle.",
+          "isCorrect": false,
+          "rationale": "Le domande delicate sono spesso cruciali per la profilazione e vanno raccolte con attenzione."
+        },
+        {
+          "text": "Per evitare che un rifiuto di risposta blocchi l'acquisizione delle informazioni precedenti.",
+          "isCorrect": true,
+          "rationale": "Se l'utente si sente a disagio e chiude il sondaggio alla fine, i dati delle sezioni precedenti sono comunque salvati."
+        },
+        {
+          "text": "Perché a quel punto il rispondente è troppo stanco per mentire.",
+          "isCorrect": false,
+          "rationale": "La stanchezza peggiora la qualità del dato, non è una strategia per ottenere la verità."
+        },
+        {
+          "text": "Perché la legge sulla privacy impedisce di fare domande difficili all'inizio.",
+          "isCorrect": false,
+          "rationale": "La legge non impone l'ordine delle domande, ma la gestione sicura e il consenso sui dati raccolti."
+        }
+      ],
+      "hint": "Pensa a cosa succederebbe se chiedessi il reddito di una persona come prima domanda assoluta."
+    },
+    {
+      "question": "Quale caratteristica delle keyword 'long-tail' le rende preziose per le query informazionali?",
+      "answerOptions": [
+        {
+          "text": "Il costo per click (CPC) estremamente elevato.",
+          "isCorrect": false,
+          "rationale": "Le long-tail hanno solitamente un CPC basso, il che le rende convenienti."
+        },
+        {
+          "text": "Il fatto di essere domande articolate che riflettono un bisogno specifico.",
+          "isCorrect": true,
+          "rationale": "La loro specificità permette di intercettare utenti in fasi precise del processo decisionale o di apprendimento."
+        },
+        {
+          "text": "L'altissimo volume di ricerca che garantisce milioni di visite.",
+          "isCorrect": false,
+          "rationale": "Le long-tail hanno singolarmente un volume basso, ma sono molte in termini di varietà."
+        },
+        {
+          "text": "La difficoltà estrema nel posizionarsi organicamente.",
+          "isCorrect": false,
+          "rationale": "Hanno solitamente una difficoltà medio-bassa, facilitando il posizionamento per siti meno autorevoli."
+        }
+      ],
+      "hint": "Pensa a una ricerca come 'come riparare un rubinetto che perde in cucina' rispetto a 'rubinetto'."
+    },
+    {
+      "question": "Secondo il materiale, qual è l'unità minima di informazione digitale?",
+      "answerOptions": [
+        {
+          "text": "Byte",
+          "isCorrect": false,
+          "rationale": "Un byte è un insieme di 8 bit, non l'unità minima assoluta."
+        },
+        {
+          "text": "Bit",
+          "isCorrect": true,
+          "rationale": "Il bit (binary digit) rappresenta la più piccola quantità di informazione possibile (0 o 1)."
+        },
+        {
+          "text": "Pixel",
+          "isCorrect": false,
+          "rationale": "Il pixel è l'unità minima di un'immagine digitale, non dell'informazione in generale."
+        },
+        {
+          "text": "Pits",
+          "isCorrect": false,
+          "rationale": "I pits sono i buchi fisici sul CD, usati per rappresentare i bit, ma non sono l'unità logica minima."
+        }
+      ],
+      "hint": "È l'abbreviazione di 'binary digit'."
+    },
+    {
+      "question": "Che cosa garantisce la 'Privacy assurance' in un questionario?",
+      "answerOptions": [
+        {
+          "text": "Che i dati saranno venduti al miglior offerente.",
+          "isCorrect": false,
+          "rationale": "L'assicurazione sulla privacy garantisce l'esatto contrario, ovvero la protezione dei dati."
+        },
+        {
+          "text": "L'anonimato totale e l'uso delle informazioni solo in forma aggregata.",
+          "isCorrect": true,
+          "rationale": "Rassicura il rispondente che la sua identità individuale non sarà collegata alle risposte specifiche."
+        },
+        {
+          "text": "Che nessuno potrà mai leggere le risposte fornite.",
+          "isCorrect": false,
+          "rationale": "I ricercatori devono leggere le risposte per analizzarle, ma lo fanno rispettando l'anonimato."
+        },
+        {
+          "text": "Che il questionario si autodistruggerà dopo 24 ore.",
+          "isCorrect": false,
+          "rationale": "La privacy riguarda la gestione del dato, non la durata della disponibilità del link del sondaggio."
+        }
+      ],
+      "hint": "Cerca termini come 'anonimato' e 'forma aggregata'."
+    },
+    {
+      "question": "Nella scelta tra scale Likert a 5 o 10 punti, quale rischio comporta la scala a 10?",
+      "answerOptions": [
+        {
+          "text": "La percezione scolastica che porta le risposte ad addensarsi dopo il 6.",
+          "isCorrect": true,
+          "rationale": "In Italia, l'associazione con i voti scolastici spinge gli utenti a considerare il 6 come sufficienza minima."
+        },
+        {
+          "text": "L'impossibilità di calcolare la media matematica.",
+          "isCorrect": false,
+          "rationale": "Qualsiasi scala numerica permette il calcolo della media."
+        },
+        {
+          "text": "Il fatto che gli utenti scelgano solo i numeri dispari.",
+          "isCorrect": false,
+          "rationale": "Non esiste evidenza scientifica nel materiale che indichi una preferenza sistematica per i dispari su scala 10."
+        },
+        {
+          "text": "La mancanza di spazio fisico sullo schermo dello smartphone.",
+          "isCorrect": false,
+          "rationale": "Sebbene lo spazio sia limitato, il problema principale citato è di natura psicologica/culturale."
+        }
+      ],
+      "hint": "Pensa a come venivano valutati i tuoi compiti in classe."
+    },
+    {
+      "question": "Perché un marketer dovrebbe aggiungere l'opzione 'Altro (specificare)' in una domanda a scelta multipla?",
+      "answerOptions": [
+        {
+          "text": "Per rendere il questionario più lungo e apparentemente più serio.",
+          "isCorrect": false,
+          "rationale": "La lunghezza non necessaria viola il principio della parsimonia."
+        },
+        {
+          "text": "Per non 'spingere' il rispondente a scegliere un'opzione che non lo rappresenta.",
+          "isCorrect": true,
+          "rationale": "Garantisce che l'utente non sia forzato in categorie predefinite, migliorando la validità del dato."
+        },
+        {
+          "text": "Perché è richiesto obbligatoriamente dalla legge sul commercio digitale.",
+          "isCorrect": false,
+          "rationale": "Si tratta di una buona pratica metodologica, non di un obbligo di legge."
+        },
+        {
+          "text": "Per evitare di dover analizzare i risultati statistici.",
+          "isCorrect": false,
+          "rationale": "L'opzione 'altro' complica l'analisi poiché richiede una codifica manuale dei testi liberi."
+        }
+      ],
+      "hint": "Pensa a come ti sentiresti se nessuna delle risposte fornite fosse corretta per te."
+    },
+    {
+      "question": "Cosa si intende per 'Network interattivo' nelle relazioni del mercato digitale?",
+      "answerOptions": [
+        {
+          "text": "Un sistema in cui solo l'azienda può inviare messaggi ai clienti.",
+          "isCorrect": false,
+          "rationale": "Questo descriverebbe un modello di comunicazione unidirezionale tradizionale."
+        },
+        {
+          "text": "Un ambiente di connessione multidirezionale tra tutte le parti coinvolte.",
+          "isCorrect": true,
+          "rationale": "Nel digitale, consumatori e aziende interagiscono costantemente tra loro in modo bidirezionale."
+        },
+        {
+          "text": "La velocità di caricamento delle pagine di un social network.",
+          "isCorrect": false,
+          "rationale": "L'interattività riguarda la natura della relazione, non la performance tecnica dei server."
+        },
+        {
+          "text": "Un ufficio in cui i computer sono collegati tra loro da cavi fisici.",
+          "isCorrect": false,
+          "rationale": "Questo termine si riferisce alla dinamica di mercato globale, non a una rete LAN aziendale."
+        }
+      ],
+      "hint": "Pensa a come su un social network tutti possono parlare con tutti."
+    },
+    {
+      "question": "Qual è il principale limite della ricerca online rispetto a quella telefonica in termini di scale di valutazione?",
+      "answerOptions": [
+        {
+          "text": "Gli utenti online tendono a scegliere solo i valori estremi della scala.",
+          "isCorrect": false,
+          "rationale": "Al contrario, gli utenti online sono meno propensi a usare gli estremi rispetto a quelli telefonici."
+        },
+        {
+          "text": "Gli utenti online hanno meno probabilità di usare i due punti estremi su una scala a 5 punti.",
+          "isCorrect": true,
+          "rationale": "Uno studio comparativo ha rilevato questa differenza di comportamento tra intervista vocale e web."
+        },
+        {
+          "text": "Non è possibile usare scale a 5 punti online.",
+          "isCorrect": false,
+          "rationale": "Le scale a 5 punti sono tra le più comuni e utilizzate nei sondaggi web."
+        },
+        {
+          "text": "Gli utenti telefonici non capiscono il significato del numero 5.",
+          "isCorrect": false,
+          "rationale": "Il limite riguarda il comportamento statistico di risposta, non la comprensione numerica di base."
+        }
+      ],
+      "hint": "Rifletti su come l'assenza di un intervistatore umano influenzi la tendenza a dare risposte 'forti' o 'moderate'."
+    },
+    {
+      "question": "Cosa significa 'smistare le domande' in base al genere nel questionario?",
+      "answerOptions": [
+        {
+          "text": "Che uomini e donne devono ricevere sempre questionari completamente diversi.",
+          "isCorrect": false,
+          "rationale": "Spesso gran parte del questionario è comune, cambiano solo sezioni specifiche."
+        },
+        {
+          "text": "Utilizzare una domanda filtro per indirizzare domande specifiche solo a chi sono pertinenti.",
+          "isCorrect": true,
+          "rationale": "Esempio: chiedere dettagli sull'uso di cosmetici femminili solo alle donne dopo averne accertato il genere."
+        },
+        {
+          "text": "Cancellare le risposte fornite dagli uomini per errore.",
+          "isCorrect": false,
+          "rationale": "Lo smistamento serve a raccogliere dati corretti, non a cancellare informazioni valide."
+        },
+        {
+          "text": "Garantire che il questionario sia scritto con un linguaggio neutro.",
+          "isCorrect": false,
+          "rationale": "La neutralità del linguaggio è importante, ma lo 'smistamento' si riferisce alla struttura logica dei salti tra domande."
+        }
+      ],
+      "hint": "Si ricollega all'uso strategico delle domande filtro."
+    }
+  ]
+}

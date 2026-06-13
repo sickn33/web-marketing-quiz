@@ -1,0 +1,785 @@
+{
+  "title": "Marketing Quiz",
+  "questions": [
+    {
+      "question": "Quale delle seguenti azioni descrive meglio la 'Digitalizzazione' secondo il materiale fornito?",
+      "answerOptions": [
+        {
+          "text": "Convertire documenti cartacei in formati elettronici.",
+          "isCorrect": true,
+          "rationale": "La digitalizzazione pura riguarda la conversione di informazioni analogiche in un formato leggibile dalle macchine."
+        },
+        {
+          "text": "Implementare un nuovo modello di business basato sullo streaming.",
+          "isCorrect": false,
+          "rationale": "Questa azione rientra nella trasformazione digitale, poiché ridefinisce il modo in cui l'azienda genera valore."
+        },
+        {
+          "text": "Automatizzare la gestione dei clienti tramite un CRM.",
+          "isCorrect": false,
+          "rationale": "L'uso di strumenti digitali per ottimizzare processi esistenti è definito digitalizzazione dei processi."
+        },
+        {
+          "text": "Formare i dipendenti a una nuova cultura aziendale tecnologica.",
+          "isCorrect": false,
+          "rationale": "Il cambiamento culturale e strategico è un pilastro della trasformazione digitale, non della semplice digitalizzazione dei dati."
+        }
+      ],
+      "hint": "Pensa alla conversione di base da un supporto fisico a uno binario."
+    },
+    {
+      "question": "Qual è il focus principale della 'Trasformazione Digitale' rispetto alla semplice digitalizzazione?",
+      "answerOptions": [
+        {
+          "text": "Il cambiamento strategico e culturale dell'azienda.",
+          "isCorrect": true,
+          "rationale": "La trasformazione digitale implica una ridefinizione sistemica dei modelli di business e dell'esperienza del cliente."
+        },
+        {
+          "text": "La sostituzione di CD fisici con file MP3.",
+          "isCorrect": false,
+          "rationale": "Questo è un esempio di digitalizzazione dei contenuti informativi."
+        },
+        {
+          "text": "L'acquisto di nuovi computer per l'ufficio.",
+          "isCorrect": false,
+          "rationale": "L'adozione di hardware senza una visione strategica non costituisce una trasformazione del modello di business."
+        },
+        {
+          "text": "La creazione di un database per le fatture elettroniche.",
+          "isCorrect": false,
+          "rationale": "Sebbene sia un passo necessario, si limita alla digitalizzazione dei documenti senza cambiare il valore generato."
+        }
+      ],
+      "hint": "Considera l'impatto a livello di visione e cultura aziendale."
+    },
+    {
+      "question": "In un'analisi SWOT, i fattori che appartengono alla dimensione interna sono:",
+      "answerOptions": [
+        {
+          "text": "Punti di forza e debolezze.",
+          "isCorrect": true,
+          "rationale": "Questi elementi sono sotto il controllo diretto dell'organizzazione e ne definiscono la capacità operativa interna."
+        },
+        {
+          "text": "Opportunità e minacce.",
+          "isCorrect": false,
+          "rationale": "Questi sono fattori esterni legati all'ambiente di riferimento in cui l'azienda opera."
+        },
+        {
+          "text": "Punti di forza e opportunità.",
+          "isCorrect": false,
+          "rationale": "Le opportunità derivano dall'esterno, mentre i punti di forza risiedono all'interno dell'azienda."
+        },
+        {
+          "text": "Minacce e debolezze.",
+          "isCorrect": false,
+          "rationale": "Le minacce sono ostacoli esterni, a differenza delle debolezze che sono mancanze interne."
+        }
+      ],
+      "hint": "Rifletti su quali aspetti l'azienda può agire direttamente modificando se stessa."
+    },
+    {
+      "question": "Cosa rappresenta la 'Search Intent' informazionale?",
+      "answerOptions": [
+        {
+          "text": "Ricerche mirate a trovare risposte a domande specifiche o informazioni generali.",
+          "isCorrect": true,
+          "rationale": "L'utente in questa fase cerca di colmare una lacuna conoscitiva senza necessariamente voler acquistare."
+        },
+        {
+          "text": "Ricerche effettuate per trovare un sito web specifico come Netflix.",
+          "isCorrect": false,
+          "rationale": "Questo tipo di ricerca è classificato come navigazionale."
+        },
+        {
+          "text": "Ricerche orientate al completamento immediato di un acquisto.",
+          "isCorrect": false,
+          "rationale": "L'acquisto immediato è l'obiettivo della search intent transazionale."
+        },
+        {
+          "text": "Ricerche per confrontare i prezzi di due prodotti diversi.",
+          "isCorrect": false,
+          "rationale": "Il confronto tra prodotti è tipico della search intent commerciale."
+        }
+      ],
+      "hint": "Pensa all'intenzione di chi digita 'come fare per...' o 'definizione di...'."
+    },
+    {
+      "question": "Un utente che cerca 'Login PayPal' sta manifestando un intento di ricerca:",
+      "answerOptions": [
+        {
+          "text": "Navigazionale.",
+          "isCorrect": true,
+          "rationale": "L'utente ha già in mente una destinazione specifica e usa il motore di ricerca come scorciatoia per raggiungerla."
+        },
+        {
+          "text": "Commerciale.",
+          "isCorrect": false,
+          "rationale": "L'intento commerciale prevede l'esplorazione di opzioni di acquisto, non l'accesso a un servizio già noto."
+        },
+        {
+          "text": "Informazionale.",
+          "isCorrect": false,
+          "rationale": "L'utente non sta cercando informazioni sul servizio, ma vuole accedere direttamente alla sua funzionalità."
+        },
+        {
+          "text": "Transazionale.",
+          "isCorrect": false,
+          "rationale": "Sebbene il login preceda una transazione, l'intento specifico della query è raggiungere una pagina determinata."
+        }
+      ],
+      "hint": "L'utente sa esattamente dove vuole andare."
+    },
+    {
+      "question": "Qual è la strategia SEO consigliata per soddisfare un intento di ricerca commerciale?",
+      "answerOptions": [
+        {
+          "text": "Creare articoli comparativi, recensioni e tabelle di confronto.",
+          "isCorrect": true,
+          "rationale": "Chi ha un intento commerciale sta valutando diverse opzioni e necessita di dettagli per decidere."
+        },
+        {
+          "text": "Ottimizzare esclusivamente la landing page con un forte Call to Action.",
+          "isCorrect": false,
+          "rationale": "Questa è la strategia principale per l'intento transazionale, dove l'utente è già pronto all'azione."
+        },
+        {
+          "text": "Creare post del blog educativi e FAQ per aumentare la consapevolezza del brand.",
+          "isCorrect": false,
+          "rationale": "Questa strategia è più adatta ad attirare traffico informazionale top-of-funnel."
+        },
+        {
+          "text": "Assicurarsi solo che il sito sia facilmente accessibile tramite query di brand.",
+          "isCorrect": false,
+          "rationale": "Questo approccio riguarda principalmente l'ottimizzazione per intenti navigazionali."
+        }
+      ],
+      "hint": "Considera l'utente che sta decidendo 'quale' prodotto scegliere tra diversi brand."
+    },
+    {
+      "question": "Secondo i dati Semrush del 2024, quale piattaforma mostra una percentuale più alta di ricerche informazionali?",
+      "answerOptions": [
+        {
+          "text": "ChatGPT.",
+          "isCorrect": true,
+          "rationale": "ChatGPT presenta oltre il $52\\%$ di intenti informazionali 'noti' rispetto al $36,4\\%$ di Google."
+        },
+        {
+          "text": "Google.",
+          "isCorrect": false,
+          "rationale": "Google è dominato da intenti navigazionali ($49,6\\%$), mentre l'informazionale è meno prevalente rispetto all'AI."
+        },
+        {
+          "text": "Entrambe mostrano la stessa percentuale.",
+          "isCorrect": false,
+          "rationale": "I grafici mostrano una chiara discrepanza tra il comportamento degli utenti sui motori di ricerca e sulle chat AI."
+        },
+        {
+          "text": "Nessuna delle due gestisce intenti transazionali.",
+          "isCorrect": false,
+          "rationale": "Entrambe le piattaforme mostrano una quota di intenti transazionali, sebbene minoritaria."
+        }
+      ],
+      "hint": "Pensa a quale strumento viene usato più spesso per ottenere spiegazioni lunghe e articolate."
+    },
+    {
+      "question": "Nella Keyword Research, il concetto di 'Rilevanza' indica che:",
+      "answerOptions": [
+        {
+          "text": "Il contenuto deve soddisfare le esigenze dei ricercatori ed essere la migliore risorsa per la query.",
+          "isCorrect": true,
+          "rationale": "La pertinenza tra parola chiave e contenuto è il criterio fondamentale per il posizionamento nei motori di ricerca."
+        },
+        {
+          "text": "Il sito web deve avere un alto numero di backlink da fonti autorevoli.",
+          "isCorrect": false,
+          "rationale": "Questo descrive l'autorità del sito, non la rilevanza specifica del singolo contenuto rispetto alla query."
+        },
+        {
+          "text": "Le parole chiave devono avere il volume di ricerca più alto possibile.",
+          "isCorrect": false,
+          "rationale": "Il volume di ricerca non garantisce che il contenuto sia utile o pertinente per l'utente specifico."
+        },
+        {
+          "text": "Il sito deve essere ottimizzato solo per query di tipo navigazionale.",
+          "isCorrect": false,
+          "rationale": "La rilevanza si applica a tutti i tipi di intenti di ricerca, non solo a quelli navigazionali."
+        }
+      ],
+      "hint": "Cosa accade se un utente cerca 'X' e trova un contenuto che parla di 'Y'?"
+    },
+    {
+      "question": "Il Tasso di Click (CTR) viene calcolato come il rapporto tra:",
+      "answerOptions": [
+        {
+          "text": "Click e Impressioni.",
+          "isCorrect": true,
+          "rationale": "Il CTR misura l'efficacia di un annuncio nel generare interesse rispetto a quante volte è stato visualizzato."
+        },
+        {
+          "text": "Spesa pubblicitaria e Vendite.",
+          "isCorrect": false,
+          "rationale": "Questo rapporto definisce l'ACOS (Advertising Cost of Sales)."
+        },
+        {
+          "text": "Conversioni e Click.",
+          "isCorrect": false,
+          "rationale": "Il rapporto tra conversioni e click definisce il tasso di conversione (Conversion Rate)."
+        },
+        {
+          "text": "Profitto netto e Budget speso.",
+          "isCorrect": false,
+          "rationale": "Questo calcolo è relativo al ROI (Return on Investment)."
+        }
+      ],
+      "hint": "Considera quante volte un annuncio viene visto e quante volte viene effettivamente cliccato."
+    },
+    {
+      "question": "Che cosa indica il parametro ROAS nelle metriche degli annunci digitali?",
+      "answerOptions": [
+        {
+          "text": "L'importo ricavato dalla campagna in relazione al budget speso.",
+          "isCorrect": true,
+          "rationale": "Il ROAS aiuta a capire quanto fatturato è stato generato per ogni euro investito in pubblicità."
+        },
+        {
+          "text": "La percentuale di impressioni che generano un clic.",
+          "isCorrect": false,
+          "rationale": "Questa metrica è il CTR, non il ROAS."
+        },
+        {
+          "text": "Il numero totale di spettatori unici a cui viene mostrato l'annuncio.",
+          "isCorrect": false,
+          "rationale": "Questo dato rappresenta la copertura (Reach)."
+        },
+        {
+          "text": "Il profitto netto ottenuto dopo aver sottratto tutti i costi.",
+          "isCorrect": false,
+          "rationale": "Il profitto netto rapportato all'investimento è misurato dal ROI."
+        }
+      ],
+      "hint": "È un indicatore di rendimento lordo basato sul fatturato pubblicitario."
+    },
+    {
+      "question": "La fase di 'Targeting' nel marketing strategico consiste nel:",
+      "answerOptions": [
+        {
+          "text": "Valutare i segmenti di mercato e decidere quali provare a raggiungere.",
+          "isCorrect": true,
+          "rationale": "Il targeting segue la segmentazione e serve a focalizzare le risorse sui gruppi di consumatori più promettenti."
+        },
+        {
+          "text": "Identificare e descrivere i gruppi omogenei di individui.",
+          "isCorrect": false,
+          "rationale": "Questa è la definizione della fase di segmentazione."
+        },
+        {
+          "text": "Sviluppare una strategia che influenzi la percezione del brand rispetto ai competitor.",
+          "isCorrect": false,
+          "rationale": "Questo processo descrive il posizionamento (Positioning)."
+        },
+        {
+          "text": "Analizzare esclusivamente i punti di forza e di debolezza interni.",
+          "isCorrect": false,
+          "rationale": "L'analisi interna fa parte della SWOT analysis, che precede la fase STP."
+        }
+      ],
+      "hint": "È l'azione di scegliere un bersaglio specifico dopo aver diviso il mercato."
+    },
+    {
+      "question": "Qual è l'obiettivo principale del Marketing 3.0?",
+      "answerOptions": [
+        {
+          "text": "Rendere il mondo un posto migliore attraverso i valori.",
+          "isCorrect": true,
+          "rationale": "Il Marketing 3.0 è guidato dai valori e vede il consumatore come un essere umano completo con mente, cuore e spirito."
+        },
+        {
+          "text": "Vendere prodotti standardizzati a un mercato di massa.",
+          "isCorrect": false,
+          "rationale": "Questo obiettivo appartiene al Marketing 1.0, centrato sul prodotto."
+        },
+        {
+          "text": "Soddisfare e trattenere i consumatori attraverso la differenziazione.",
+          "isCorrect": false,
+          "rationale": "Questo approccio è tipico del Marketing 2.0, orientato al cliente."
+        },
+        {
+          "text": "Integrare l'intelligenza artificiale per creare esperienze immersive.",
+          "isCorrect": false,
+          "rationale": "Le tecnologie immersive e l'AI avanzata sono focus delle versioni più recenti come il Marketing 5.0 o 6.0."
+        }
+      ],
+      "hint": "In questa fase il marketing diventa 'Value-driven'."
+    },
+    {
+      "question": "Il Marketing 4.0, secondo Philip Kotler, è caratterizzato principalmente da:",
+      "answerOptions": [
+        {
+          "text": "La convergenza tra il mondo offline e quello online.",
+          "isCorrect": true,
+          "rationale": "Il Marketing 4.0 segna il passaggio definitivo dal marketing tradizionale a quello digitale, integrandoli."
+        },
+        {
+          "text": "L'uso esclusivo di canali radiofonici e televisivi.",
+          "isCorrect": false,
+          "rationale": "Questa è una caratteristica del marketing tradizionale pre-digitale."
+        },
+        {
+          "text": "La creazione di prodotti senza considerare il feedback dei clienti.",
+          "isCorrect": false,
+          "rationale": "Il feedback e l'interazione sono fondamentali in tutte le fasi del marketing moderno dal 2.0 in poi."
+        },
+        {
+          "text": "Il focus totale sulla produzione industriale di massa.",
+          "isCorrect": false,
+          "rationale": "Il focus sulla produzione è la caratteristica distintiva del Marketing 1.0."
+        }
+      ],
+      "hint": "Pensa alla parola chiave 'Convergence'."
+    },
+    {
+      "question": "Perché i dati digitali sono chiamati dati binari?",
+      "answerOptions": [
+        {
+          "text": "Perché sono codificati da combinazioni di soli due simboli (0 e 1).",
+          "isCorrect": true,
+          "rationale": "Il sistema binario utilizza stringhe di cifre discrete per rappresentare qualsiasi tipo di informazione."
+        },
+        {
+          "text": "Perché possono essere letti sia da computer che da esseri umani.",
+          "isCorrect": false,
+          "rationale": "I dati digitali richiedono una decodifica hardware/software per essere comprensibili all'uomo."
+        },
+        {
+          "text": "Perché cambiano continuamente nel tempo come i suoni registrati.",
+          "isCorrect": false,
+          "rationale": "La variazione continua è una caratteristica dei dati analogici, non di quelli digitali."
+        },
+        {
+          "text": "Perché sono formati sempre da sequenze di 10 cifre diverse.",
+          "isCorrect": false,
+          "rationale": "Le 10 cifre caratterizzano il sistema decimale, non quello binario digitale."
+        }
+      ],
+      "hint": "Considera il numero di stati possibili in un circuito elettrico di base (acceso/spento)."
+    },
+    {
+      "question": "Qual è la relazione corretta tra bit e byte?",
+      "answerOptions": [
+        {
+          "text": "Una serie di 8 bit forma un byte.",
+          "isCorrect": true,
+          "rationale": "Il bit è l'unità minima, mentre il byte è l'unità di misura standard per la capacità di memoria."
+        },
+        {
+          "text": "Un byte è l'unità minima di informazione.",
+          "isCorrect": false,
+          "rationale": "L'unità minima è il bit; il byte è un raggruppamento di bit."
+        },
+        {
+          "text": "1000 bit formano un byte.",
+          "isCorrect": false,
+          "rationale": "Il sistema informatico non usa una base decimale pura per la conversione bit/byte; lo standard è 8."
+        },
+        {
+          "text": "Un bit è composto da 8 byte.",
+          "isCorrect": false,
+          "rationale": "Questa affermazione inverte la gerarchia corretta delle unità di informazione."
+        }
+      ],
+      "hint": "Pensa a un raggruppamento standard di 'interruttori' binari."
+    },
+    {
+      "question": "La Legge di Moore afferma che:",
+      "answerOptions": [
+        {
+          "text": "Ogni 18 mesi è possibile raddoppiare il numero di transistor in un chip a parità di costo.",
+          "isCorrect": true,
+          "rationale": "Questa legge descrive la crescita esponenziale della potenza di calcolo nel tempo."
+        },
+        {
+          "text": "L'utilità di una rete è pari al quadrato del numero dei suoi utenti.",
+          "isCorrect": false,
+          "rationale": "Questa è la definizione della Legge di Metcalfe."
+        },
+        {
+          "text": "Se la velocità di elaborazione aumenta di 4 volte, il costo si riduce della metà.",
+          "isCorrect": false,
+          "rationale": "Questa relazione è nota come Legge di Grosh."
+        },
+        {
+          "text": "Il numero di utenti internet raddoppia ogni anno in modo costante.",
+          "isCorrect": false,
+          "rationale": "La legge di Moore riguarda l'hardware dei microprocessori, non la diffusione degli utenti."
+        }
+      ],
+      "hint": "Si riferisce alla densità dei componenti elettronici sui circuiti integrati."
+    },
+    {
+      "question": "Secondo la Legge di Metcalfe, l'utilità di una tecnologia di rete ($Ui$) per un utente è circa:",
+      "answerOptions": [
+        {
+          "text": "Pari al quadrato del numero totale dei suoi utenti ($n^2$).",
+          "isCorrect": true,
+          "rationale": "Il valore di una rete cresce esponenzialmente all'aumentare dei nodi connessi e delle possibili interazioni."
+        },
+        {
+          "text": "Inversamente proporzionale al numero di nodi della rete.",
+          "isCorrect": false,
+          "rationale": "L'utilità aumenta con il numero di utenti, non diminuisce."
+        },
+        {
+          "text": "Pari al doppio del numero di transistor presenti nei server.",
+          "isCorrect": false,
+          "rationale": "La legge di Metcalfe riguarda le connessioni tra utenti, non la potenza hardware dei singoli server."
+        },
+        {
+          "text": "Costante indipendentemente dal numero di persone che la usano.",
+          "isCorrect": false,
+          "rationale": "Il concetto di esternalità di rete implica che il valore cambi drasticamente con la diffusione."
+        }
+      ],
+      "hint": "Considera l'effetto che ha su di te l'iscrizione a un social network se nessun altro lo usa."
+    },
+    {
+      "question": "Cosa sono le 'Personas' nel contesto del marketing digitale?",
+      "answerOptions": [
+        {
+          "text": "Archetipi che rappresentano diversi tipi di utenti reali di un brand.",
+          "isCorrect": true,
+          "rationale": "Le personas aiutano le aziende a umanizzare i dati dei segmenti di mercato per personalizzare le campagne."
+        },
+        {
+          "text": "Elenchi di nomi e cognomi reali estratti dal database clienti.",
+          "isCorrect": false,
+          "rationale": "Le personas sono modelli fittizi basati su dati, non individui specifici identificabili."
+        },
+        {
+          "text": "I dipendenti dell'azienda che gestiscono i canali social.",
+          "isCorrect": false,
+          "rationale": "Le personas si riferiscono al pubblico target, non allo staff aziendale."
+        },
+        {
+          "text": "Robot utilizzati per l'assistenza clienti automatizzata.",
+          "isCorrect": false,
+          "rationale": "I chatbot sono strumenti tecnologici, mentre le personas sono strumenti di progettazione strategica."
+        }
+      ],
+      "hint": "Sono rappresentazioni ideali costruite per capire meglio i bisogni del cliente."
+    },
+    {
+      "question": "Quale delle seguenti informazioni appartiene alla dimensione 'Psicografica' di una persona?",
+      "answerOptions": [
+        {
+          "text": "Attitudini, credenze e personalità.",
+          "isCorrect": true,
+          "rationale": "La psicografia analizza gli aspetti psicologici che guidano il comportamento d'acquisto."
+        },
+        {
+          "text": "Età, genere e livello di istruzione.",
+          "isCorrect": false,
+          "rationale": "Questi sono dati demografici, che descrivono caratteristiche oggettive della popolazione."
+        },
+        {
+          "text": "Frequenza di acquisto del prodotto.",
+          "isCorrect": false,
+          "rationale": "Questo dato riguarda il comportamento d'acquisto (Behavioral), non la psicologia profonda."
+        },
+        {
+          "text": "Luogo fisico dove è stato acquistato il prodotto.",
+          "isCorrect": false,
+          "rationale": "L'informazione sul canale d'acquisto è un dato logistico-comportamentale."
+        }
+      ],
+      "hint": "Cerca fattori legati ai valori e allo stile di vita dell'individuo."
+    },
+    {
+      "question": "Il primo passo fondamentale per definire una 'Customer Journey' è:",
+      "answerOptions": [
+        {
+          "text": "Determinare il segmento di pubblico o la persona su cui concentrarsi.",
+          "isCorrect": true,
+          "rationale": "Non è possibile mappare un'esperienza senza prima aver definito chi è il protagonista di quel viaggio."
+        },
+        {
+          "text": "Scegliere il budget da investire in Google Ads.",
+          "isCorrect": false,
+          "rationale": "L'allocazione del budget pubblicitario è una fase tattica che segue la mappatura del viaggio."
+        },
+        {
+          "text": "Identificare i competitor che vendono prodotti simili.",
+          "isCorrect": false,
+          "rationale": "L'analisi dei competitor è utile, ma la customer journey si focalizza primariamente sull'esperienza dell'utente con il proprio brand."
+        },
+        {
+          "text": "Stampare le fatture elettroniche dell'ultimo anno.",
+          "isCorrect": false,
+          "rationale": "I dati amministrativi passati non aiutano direttamente a progettare l'esperienza futura dell'utente."
+        }
+      ],
+      "hint": "Prima di tracciare il percorso, devi sapere chi lo sta percorrendo."
+    },
+    {
+      "question": "L'approccio del marketing digitale verso il mercato è definito 'Reticolare' perché:",
+      "answerOptions": [
+        {
+          "text": "Esistono molteplici nessi tra impresa e singoli clienti e tra i clienti stessi.",
+          "isCorrect": true,
+          "rationale": "La rete permette comunicazioni bidirezionali e multi-direzionali, superando il modello top-down tradizionale."
+        },
+        {
+          "text": "Le aziende catturano i clienti in trappole simili a reti.",
+          "isCorrect": false,
+          "rationale": "Il termine non ha una connotazione negativa, ma descrive la struttura delle interconnessioni."
+        },
+        {
+          "text": "I prodotti vengono venduti solo tramite reti da pesca digitali.",
+          "isCorrect": false,
+          "rationale": "Questa è un'interpretazione letterale errata del termine metaforico."
+        },
+        {
+          "text": "Ogni azienda può avere solo un massimo di 10 clienti connessi.",
+          "isCorrect": false,
+          "rationale": "L'approccio reticolare punta invece alla massima estensione delle connessioni possibili."
+        }
+      ],
+      "hint": "Pensa alla struttura di Internet e ai social media come sistemi di nodi connessi."
+    },
+    {
+      "question": "Secondo la Legge di Grosh, se la velocità di elaborazione di un computer aumenta di 4 volte:",
+      "answerOptions": [
+        {
+          "text": "Il costo del computer si riduce della metà.",
+          "isCorrect": true,
+          "rationale": "Questa legge economica evidenzia le economie di scala e l'efficienza nel settore hardware storico."
+        },
+        {
+          "text": "Il costo del computer raddoppia immediatamente.",
+          "isCorrect": false,
+          "rationale": "Al contrario, la legge di Grosh suggerisce che l'efficienza riduce il costo relativo alla potenza."
+        },
+        {
+          "text": "La capacità della memoria RAM diminuisce del $25\\%$.",
+          "isCorrect": false,
+          "rationale": "La legge si focalizza sul rapporto potenza/costo, non sulla quantità di componenti fisici specifici."
+        },
+        {
+          "text": "Il numero di utenti sulla rete aumenta di 16 volte.",
+          "isCorrect": false,
+          "rationale": "L'aumento degli utenti è legato alla legge di Metcalfe, non a quella di Grosh."
+        }
+      ],
+      "hint": "C'è una relazione inversa tra l'aumento massiccio della velocità e il prezzo finale."
+    },
+    {
+      "question": "Nella 'Mappa di Posizionamento' del settore Automotive, quali sono solitamente le due dimensioni utilizzate?",
+      "answerOptions": [
+        {
+          "text": "Prezzo e Brand Image (es. Trendy vs Classic).",
+          "isCorrect": true,
+          "rationale": "Queste coordinate permettono di visualizzare dove si collocano i marchi nella mente del consumatore."
+        },
+        {
+          "text": "Velocità massima e Numero di posti.",
+          "isCorrect": false,
+          "rationale": "Questi sono attributi tecnici del prodotto, meno rilevanti per il posizionamento percettivo strategico."
+        },
+        {
+          "text": "Colore della carrozzeria e Paese di produzione.",
+          "isCorrect": false,
+          "rationale": "Il posizionamento strategico si basa su variabili di valore più ampie rispetto a singoli dettagli estetici."
+        },
+        {
+          "text": "Consumo di carburante e Altezza del veicolo.",
+          "isCorrect": false,
+          "rationale": "Sebbene importanti, non sono le dimensioni standard per una mappa di posizionamento brand-level."
+        }
+      ],
+      "hint": "Pensa ai criteri con cui distingui una Ferrari da una Kia su un grafico."
+    },
+    {
+      "question": "Qual è una differenza chiave tra i dischi in vinile e i CD?",
+      "answerOptions": [
+        {
+          "text": "I vinili sono analogici (dati continui), mentre i CD sono digitali (dati discreti).",
+          "isCorrect": true,
+          "rationale": "Il vinile riproduce il suono meccanicamente, mentre il CD lo trasforma in una serie di 'buchi' e 'terre' binari."
+        },
+        {
+          "text": "I CD sono composti da solchi meccanici visibili al microscopio.",
+          "isCorrect": false,
+          "rationale": "Sono i vinili a possedere solchi meccanici; i CD utilizzano la tecnologia laser su superfici riflettenti."
+        },
+        {
+          "text": "Il vinile è più economico da produrre e trasportare.",
+          "isCorrect": false,
+          "rationale": "In realtà, il supporto digitale (CD o file) ha abbattuto i costi di produzione e logistica rispetto al vinile."
+        },
+        {
+          "text": "Solo i CD permettono la registrazione di musica jazz.",
+          "isCorrect": false,
+          "rationale": "Il genere musicale non ha alcun legame con la natura analogica o digitale del supporto."
+        }
+      ],
+      "hint": "Rifletti su come l'informazione viene effettivamente memorizzata sul supporto."
+    },
+    {
+      "question": "Cosa si intende per 'Digitalizzazione dei processi'?",
+      "answerOptions": [
+        {
+          "text": "Automatizzare e ottimizzare i processi aziendali tramite il digitale (es. e-commerce).",
+          "isCorrect": true,
+          "rationale": "Si passa dall'eseguire compiti manualmente all'usare software e piattaforme per migliorarne l'efficienza."
+        },
+        {
+          "text": "Stampare documenti digitali per archiviarli in faldoni.",
+          "isCorrect": false,
+          "rationale": "Questo è un processo inverso che annulla i benefici della digitalizzazione."
+        },
+        {
+          "text": "Creare un logo aziendale utilizzando Photoshop.",
+          "isCorrect": false,
+          "rationale": "La creazione di un asset grafico è digitalizzazione di contenuti, non necessariamente di un intero processo operativo."
+        },
+        {
+          "text": "Utilizzare unicamente il passaparola per trovare nuovi clienti.",
+          "isCorrect": false,
+          "rationale": "Il passaparola tradizionale è un metodo analogico e non sistematicamente digitalizzato."
+        }
+      ],
+      "hint": "Pensa alla differenza tra un negozio fisico e uno shop online."
+    },
+    {
+      "question": "Il passaggio dal vendere musica su iTunes allo streaming su Spotify è un esempio di:",
+      "answerOptions": [
+        {
+          "text": "Trasformazione Digitale.",
+          "isCorrect": true,
+          "rationale": "Rappresenta un cambiamento radicale del modello di business: dal possesso del bene all'accesso al servizio."
+        },
+        {
+          "text": "Semplice digitalizzazione dei documenti.",
+          "isCorrect": false,
+          "rationale": "iTunes aveva già digitalizzato il supporto; Spotify trasforma il modello economico sottostante."
+        },
+        {
+          "text": "Strategia di Targeting demografico.",
+          "isCorrect": false,
+          "rationale": "Sebbene lo streaming attiri certi target, il cambiamento descritto riguarda la natura stessa dell'offerta."
+        },
+        {
+          "text": "Ottimizzazione SEO navigazionale.",
+          "isCorrect": false,
+          "rationale": "Il passaggio di modello di business è un concetto strategico molto più ampio della SEO."
+        }
+      ],
+      "hint": "Considera come è cambiato il modo in cui l'azienda genera valore per l'utente."
+    },
+    {
+      "question": "In una ricerca SEO, cosa si intende per 'Autorità'?",
+      "answerOptions": [
+        {
+          "text": "Il peso che i motori di ricerca danno alle fonti considerate affidabili ed esperte.",
+          "isCorrect": true,
+          "rationale": "L'autorità si guadagna creando contenuti utili che ottengono segnali sociali e backlink di qualità."
+        },
+        {
+          "text": "L'obbligo legale per un'azienda di avere un sito web.",
+          "isCorrect": false,
+          "rationale": "L'autorità in ambito SEO non è un concetto giuridico, ma reputazionale nei confronti degli algoritmi."
+        },
+        {
+          "text": "La capacità di un sito di caricarsi in meno di un secondo.",
+          "isCorrect": false,
+          "rationale": "La velocità di caricamento è un fattore tecnico, distinto dall'autorità dei contenuti."
+        },
+        {
+          "text": "Il numero di dipendenti che lavorano nel dipartimento marketing.",
+          "isCorrect": false,
+          "rationale": "L'organizzazione interna non è un segnale diretto di autorità per i motori di ricerca."
+        }
+      ],
+      "hint": "È legata alla fiducia e al riconoscimento esterno verso il sito."
+    },
+    {
+      "question": "Un annuncio video che viene guardato per intero genera un alto:",
+      "answerOptions": [
+        {
+          "text": "Tasso di completamento video.",
+          "isCorrect": true,
+          "rationale": "Questa metrica indica l'efficacia del contenuto nel mantenere l'attenzione dello spettatore fino alla fine."
+        },
+        {
+          "text": "ACOS.",
+          "isCorrect": false,
+          "rationale": "L'ACOS misura il costo pubblicitario rispetto alle vendite, non la durata della visualizzazione."
+        },
+        {
+          "text": "CTR.",
+          "isCorrect": false,
+          "rationale": "Il CTR misura i clic, non quanto tempo un utente trascorre guardando il video senza cliccare."
+        },
+        {
+          "text": "Volume di bit al secondo.",
+          "isCorrect": false,
+          "rationale": "Questo è un parametro tecnico di qualità video (bitrate), non una metrica di performance pubblicitaria."
+        }
+      ],
+      "hint": "Cerca il termine che descrive l'azione di finire la visione."
+    },
+    {
+      "question": "La frase 'Investigate the opportunities and threats' si riferisce a quale analisi?",
+      "answerOptions": [
+        {
+          "text": "Analisi SWOT (Ambiente esterno).",
+          "isCorrect": true,
+          "rationale": "Opportunità e minacce sono elementi del contesto esterno che l'azienda deve monitorare per adattarsi."
+        },
+        {
+          "text": "Segmentazione psicografica.",
+          "isCorrect": false,
+          "rationale": "La segmentazione riguarda la divisione del pubblico, non l'analisi dell'ambiente competitivo."
+        },
+        {
+          "text": "Legge di Metcalfe.",
+          "isCorrect": false,
+          "rationale": "La legge di Metcalfe è una formula matematica sull'utilità delle reti, non un quadro analitico aziendale."
+        },
+        {
+          "text": "Calcolo del ROAS.",
+          "isCorrect": false,
+          "rationale": "Il ROAS è una metrica di rendimento economico post-campagna, non un'analisi strategica dei rischi."
+        }
+      ],
+      "hint": "Fa parte di un acronimo di quattro lettere molto noto nel marketing."
+    },
+    {
+      "question": "Quale evoluzione del marketing mette al centro il 'Whole Human with Mind, Heart, and Spirit'?",
+      "answerOptions": [
+        {
+          "text": "Marketing 3.0.",
+          "isCorrect": true,
+          "rationale": "Questo modello supera la visione del consumatore come semplice acquirente per considerarlo nella sua interezza umana."
+        },
+        {
+          "text": "Marketing 1.0.",
+          "isCorrect": false,
+          "rationale": "Il 1.0 vedeva le persone come 'acquirenti di massa con bisogni fisici'."
+        },
+        {
+          "text": "Marketing 2.0.",
+          "isCorrect": false,
+          "rationale": "Il 2.0 si fermava a considerare il consumatore come 'intelligente con mente e cuore', senza la dimensione spirituale/valoriale."
+        },
+        {
+          "text": "Marketing Analogico.",
+          "isCorrect": false,
+          "rationale": "Il marketing analogico non è una classificazione di Kotler sull'evoluzione dell'approccio all'umano."
+        }
+      ],
+      "hint": "Pensa alla fase definita come 'Value-driven Marketing'."
+    }
+  ]
+}

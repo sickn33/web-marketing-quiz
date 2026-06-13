@@ -1,0 +1,785 @@
+{
+  "title": "SEO Quiz",
+  "questions": [
+    {
+      "question": "Qual è la definizione corretta di 'search intent' secondo il materiale fornito?",
+      "answerOptions": [
+        {
+          "text": "Il volume totale di ricerche mensili per una specifica parola chiave.",
+          "isCorrect": false,
+          "rationale": "Il volume di ricerca indica quante persone cercano un termine, non il motivo psicologico dietro la ricerca stessa."
+        },
+        {
+          "text": "Il motivo principale per cui un utente esegue una ricerca online.",
+          "isCorrect": true,
+          "rationale": "L'intento di ricerca riguarda la finalità e l'obiettivo che l'utente vuole raggiungere digitando una query."
+        },
+        {
+          "text": "La velocità con cui un motore di ricerca visualizza i risultati.",
+          "isCorrect": false,
+          "rationale": "Questa è una metrica di performance tecnica del server o dell'algoritmo, non legata all'intenzione dell'utente."
+        },
+        {
+          "text": "Il numero di clic che un sito riceve dai risultati organici.",
+          "isCorrect": false,
+          "rationale": "Questo parametro descrive il traffico (CTR), che è una conseguenza del soddisfacimento dell'intento, non l'intento stesso."
+        }
+      ],
+      "hint": "Considera l'aspetto psicologico e la finalità dell'azione dell'utente."
+    },
+    {
+      "question": "Perché comprendere la search intent è fondamentale per la SEO?",
+      "answerOptions": [
+        {
+          "text": "Perché permette di creare contenuti che soddisfano le esigenze degli utenti e migliorano il posizionamento.",
+          "isCorrect": true,
+          "rationale": "Google premia i contenuti che rispondono esattamente a ciò che l'utente sta cercando, migliorando la pertinenza."
+        },
+        {
+          "text": "Perché garantisce l'indicizzazione immediata di qualsiasi pagina web.",
+          "isCorrect": false,
+          "rationale": "L'indicizzazione è un processo tecnico di scansione dei bot che prescinde dal contenuto semantico della ricerca."
+        },
+        {
+          "text": "Perché riduce i costi di hosting del sito web.",
+          "isCorrect": false,
+          "rationale": "I costi di hosting dipendono dall'infrastruttura tecnica e dal traffico, non dalla strategia sui contenuti SEO."
+        },
+        {
+          "text": "Perché elimina la necessità di utilizzare parole chiave nel testo.",
+          "isCorrect": false,
+          "rationale": "Le parole chiave rimangono essenziali per aiutare i motori di ricerca a comprendere il tema del contenuto."
+        }
+      ],
+      "hint": "Rifletti sul legame tra soddisfazione dell'utente e visibilità sui motori di ricerca."
+    },
+    {
+      "question": "Quale tra i seguenti è un beneficio diretto di una migliore ottimizzazione dell'intenzione di ricerca?",
+      "answerOptions": [
+        {
+          "text": "Diminuzione dell'autorità del dominio.",
+          "isCorrect": false,
+          "rationale": "Un'ottimizzazione efficace tende ad aumentare, non diminuire, l'autorevolezza percepita dal motore di ricerca."
+        },
+        {
+          "text": "Aumento della frequenza di rimbalzo (bounce rate).",
+          "isCorrect": false,
+          "rationale": "Se l'intento è soddisfatto, l'utente resta sulla pagina, portando a una riduzione della frequenza di rimbalzo."
+        },
+        {
+          "text": "Traffico più pertinente e qualificato verso il sito web.",
+          "isCorrect": true,
+          "rationale": "Allineare il contenuto all'intento attira utenti che sono realmente interessati a ciò che la pagina offre."
+        },
+        {
+          "text": "Saturazione del database del server.",
+          "isCorrect": false,
+          "rationale": "L'ottimizzazione dei contenuti non ha un impatto diretto sulla capacità di archiviazione dei dati del server."
+        }
+      ],
+      "hint": "Pensa alla qualità degli utenti che arrivano sul tuo sito."
+    },
+    {
+      "question": "Un utente che cerca 'come annodare una cravatta' quale tipo di search intent manifesta?",
+      "answerOptions": [
+        {
+          "text": "Transazionale",
+          "isCorrect": false,
+          "rationale": "L'utente non vuole acquistare una cravatta in questo momento, ma sta cercando un'istruzione."
+        },
+        {
+          "text": "Informazionale",
+          "isCorrect": true,
+          "rationale": "Le query che iniziano con 'come' o puntano a una guida pratica sono tipicamente orientate all'acquisizione di informazioni."
+        },
+        {
+          "text": "Navigazionale",
+          "isCorrect": false,
+          "rationale": "L'utente non sta cercando un sito specifico di cravatte, ma una risposta a una domanda operativa."
+        },
+        {
+          "text": "Commerciale",
+          "isCorrect": false,
+          "rationale": "Non c'è un intento di confrontare diversi modelli o brand di cravatte per un acquisto futuro."
+        }
+      ],
+      "hint": "L'utente sta cercando una risposta a una domanda specifica o una guida."
+    },
+    {
+      "question": "Qual è l'obiettivo tipico di una ricerca con intent 'Navigazionale'?",
+      "answerOptions": [
+        {
+          "text": "Trovare un sito, una pagina o un luogo fisico specifico.",
+          "isCorrect": true,
+          "rationale": "L'utente sa già dove vuole andare e usa il motore di ricerca come una scorciatoia per raggiungere la destinazione."
+        },
+        {
+          "text": "Scaricare un software gratuito.",
+          "isCorrect": false,
+          "rationale": "Il download di software è solitamente associato a un intento transazionale."
+        },
+        {
+          "text": "Confrontare le caratteristiche di due prodotti concorrenti.",
+          "isCorrect": false,
+          "rationale": "Il confronto tra prodotti è l'attività principale dell'intento commerciale."
+        },
+        {
+          "text": "Scoprire la data di una festività nazionale.",
+          "isCorrect": false,
+          "rationale": "La ricerca di fatti o dati generali rientra nell'intento informazionale."
+        }
+      ],
+      "hint": "L'utente ha già in mente una destinazione precisa sul web."
+    },
+    {
+      "question": "L'intento 'Commerciale' si colloca in quale fase del percorso dell'utente?",
+      "answerOptions": [
+        {
+          "text": "Nella fase di acquisto immediato e impulsivo.",
+          "isCorrect": false,
+          "rationale": "L'acquisto immediato è il focus dell'intento transazionale, non di quello commerciale."
+        },
+        {
+          "text": "Nella fase di ricerca su brand o servizi prima di una decisione.",
+          "isCorrect": true,
+          "rationale": "L'utente sta valutando le opzioni disponibili, confrontando vantaggi e caratteristiche per prepararsi all'acquisto."
+        },
+        {
+          "text": "Nella fase iniziale di scoperta casuale di un nuovo argomento.",
+          "isCorrect": false,
+          "rationale": "La scoperta iniziale è legata all'intento informazionale, dove non c'è ancora un orientamento al prodotto."
+        },
+        {
+          "text": "Nella fase di recupero di una password su un sito già noto.",
+          "isCorrect": false,
+          "rationale": "Il recupero di una password è una ricerca navigazionale legata a un servizio specifico."
+        }
+      ],
+      "hint": "Pensa alla fase in cui si confrontano i prodotti prima di comprare."
+    },
+    {
+      "question": "Quale query rappresenta meglio un intento 'Transazionale'?",
+      "answerOptions": [
+        {
+          "text": "definizione di marketing digitale",
+          "isCorrect": false,
+          "rationale": "Questa è una richiesta di informazioni teoriche (Informazionale)."
+        },
+        {
+          "text": "migliori sedie da ufficio 2024",
+          "isCorrect": false,
+          "rationale": "Questa query indica una ricerca per confronto e valutazione (Commerciale)."
+        },
+        {
+          "text": "comprare scarpe da corsa",
+          "isCorrect": true,
+          "rationale": "L'uso del verbo 'comprare' indica chiaramente la volontà di completare un'azione di acquisto."
+        },
+        {
+          "text": "LUMSA sito ufficiale",
+          "isCorrect": false,
+          "rationale": "Questa è una ricerca per trovare un sito specifico (Navigazionale)."
+        }
+      ],
+      "hint": "Cerca una parola chiave che indichi un'azione o un acquisto imminente."
+    },
+    {
+      "question": "Secondo la mappatura di Semrush, quale strategia SEO è consigliata per l'intento 'Informazionale'?",
+      "answerOptions": [
+        {
+          "text": "Creare landing page con forti Call to Action (CTA).",
+          "isCorrect": false,
+          "rationale": "Le CTA aggressive sono più adatte all'intento transazionale, non a chi cerca solo informazioni."
+        },
+        {
+          "text": "Ottimizzare post del blog, contenuti educativi e FAQ.",
+          "isCorrect": true,
+          "rationale": "Questi formati rispondono alle domande degli utenti e aumentano la brand awareness attirando traffico top-of-funnel."
+        },
+        {
+          "text": "Risolvere solo problemi tecnici di velocità del sito.",
+          "isCorrect": false,
+          "rationale": "Sebbene importante, la SEO tecnica non sostituisce la creazione di contenuti rilevanti per l'utente."
+        },
+        {
+          "text": "Utilizzare il 100% del budget in annunci a pagamento.",
+          "isCorrect": false,
+          "rationale": "L'intento informazionale viene solitamente gestito con traffico organico per costruire fiducia nel tempo."
+        }
+      ],
+      "hint": "Considera i contenuti che aiutano a educare l'utente."
+    },
+    {
+      "question": "Per le query di brand (Navigazionali), cosa suggerisce il materiale riguardo al budget PPC?",
+      "answerOptions": [
+        {
+          "text": "Di raddoppiare sempre il budget per superare la concorrenza.",
+          "isCorrect": false,
+          "rationale": "Non è sempre necessario spendere di più se il posizionamento organico è già dominante."
+        },
+        {
+          "text": "Di evitarlo completamente in ogni circostanza.",
+          "isCorrect": false,
+          "rationale": "In alcuni casi è necessario per difendere il brand da competitor che fanno bidding sul tuo nome."
+        },
+        {
+          "text": "Di usarlo se necessario, ma si potrebbe evitare se si è già ben posizionati organicamente.",
+          "isCorrect": true,
+          "rationale": "Il PPC per intenti navigazionali serve spesso come protezione, ma è opzionale se la SEO organica è eccellente."
+        },
+        {
+          "text": "Di usarlo solo per attirare nuovi utenti che non conoscono il brand.",
+          "isCorrect": false,
+          "rationale": "Per definizione, l'intento navigazionale attira utenti che conoscono già il brand."
+        }
+      ],
+      "hint": "Valuta l'efficienza della spesa pubblicitaria quando il sito è già facile da trovare."
+    },
+    {
+      "question": "Quale elemento è cruciale per convincere un cliente con intento 'Commerciale'?",
+      "answerOptions": [
+        {
+          "text": "Una definizione da dizionario del prodotto.",
+          "isCorrect": false,
+          "rationale": "Le definizioni generiche non aiutano l'utente a decidere tra due opzioni d'acquisto."
+        },
+        {
+          "text": "Comparazioni di prodotti ed elenchi di funzionalità dettagliate.",
+          "isCorrect": true,
+          "rationale": "Gli utenti in questa fase hanno bisogno di prove e confronti per capire quale soluzione sia la migliore per loro."
+        },
+        {
+          "text": "Un video sulla storia dell'azienda fondata nel 1900.",
+          "isCorrect": false,
+          "rationale": "La storia aziendale può aiutare il brand, ma non è l'elemento decisivo per chi confronta specifiche tecniche."
+        },
+        {
+          "text": "Nascondere il prezzo fino alla fine del processo.",
+          "isCorrect": false,
+          "rationale": "La trasparenza è fondamentale nella fase commerciale per permettere una valutazione corretta."
+        }
+      ],
+      "hint": "Cosa serve a un utente per decidere tra due modelli di smartphone?"
+    },
+    {
+      "question": "Qual è la raccomandazione per ottimizzare le landing page con intento 'Transazionale'?",
+      "answerOptions": [
+        {
+          "text": "Scrivere articoli lunghi e ricchi di aneddoti personali.",
+          "isCorrect": false,
+          "rationale": "In fase transazionale, l'eccesso di testo può distrarre l'utente dall'obiettivo finale dell'acquisto."
+        },
+        {
+          "text": "Assicurarsi che rispondano alle domande e superino le obiezioni all'acquisto.",
+          "isCorrect": true,
+          "rationale": "Eliminare i dubbi dell'ultimo minuto è fondamentale per massimizzare il tasso di conversione."
+        },
+        {
+          "text": "Eliminare completamente le immagini per velocizzare il caricamento.",
+          "isCorrect": false,
+          "rationale": "Le immagini del prodotto sono essenziali per convincere l'utente a completare la transazione."
+        },
+        {
+          "text": "Rimuovere tutti i pulsanti per non confondere l'utente.",
+          "isCorrect": false,
+          "rationale": "Senza pulsanti (CTA) l'utente non può completare l'azione desiderata."
+        }
+      ],
+      "hint": "Considera gli ostacoli psicologici che impediscono a qualcuno di cliccare su 'Compra'."
+    },
+    {
+      "question": "Confrontando Google e ChatGPT, quale piattaforma mostra una percentuale maggiore di intent 'Informazionale'?",
+      "answerOptions": [
+        {
+          "text": "Google ($36.4\\%$)",
+          "isCorrect": false,
+          "rationale": "Google ha una quota significativa di intenti informazionali, ma inferiore rispetto a ChatGPT."
+        },
+        {
+          "text": "ChatGPT ($52.2\\%$)",
+          "isCorrect": true,
+          "rationale": "ChatGPT è usato prevalentemente per ottenere risposte, spiegazioni e informazioni complesse."
+        },
+        {
+          "text": "Entrambi hanno la stessa percentuale del $50\\%$.",
+          "isCorrect": false,
+          "rationale": "I dati mostrano una netta differenza nella distribuzione degli intenti tra le due piattaforme."
+        },
+        {
+          "text": "Google, poiché gestisce più traffico totale.",
+          "isCorrect": false,
+          "rationale": "Sebbene il volume totale sia maggiore su Google, la *proporzione* di query informazionali è più alta su ChatGPT."
+        }
+      ],
+      "hint": "ChatGPT è noto per la sua capacità di generare spiegazioni e risposte dirette."
+    },
+    {
+      "question": "Perché la percentuale di intent 'Navigazionale' è molto più alta su Google ($49.6\\%$) rispetto a ChatGPT ($34.2\\%$)?",
+      "answerOptions": [
+        {
+          "text": "Perché ChatGPT non conosce i nomi dei siti web.",
+          "isCorrect": false,
+          "rationale": "ChatGPT conosce i siti, ma gli utenti non lo usano primariamente per navigare verso di essi."
+        },
+        {
+          "text": "Perché Google è lo strumento principale usato dagli utenti come 'porta d'accesso' per raggiungere siti specifici.",
+          "isCorrect": true,
+          "rationale": "Gli utenti spesso digitano brand o URL su Google per trovare rapidamente il link diretto."
+        },
+        {
+          "text": "Perché Google paga gli utenti per fare ricerche navigazionali.",
+          "isCorrect": false,
+          "rationale": "Non esiste alcun incentivo economico diretto per l'utente nel fare ricerche navigazionali."
+        },
+        {
+          "text": "Perché ChatGPT è vietato in molti uffici.",
+          "isCorrect": false,
+          "rationale": "Le restrizioni d'uso non spiegano la differenza intrinseca nella natura delle query effettuate."
+        }
+      ],
+      "hint": "Pensa a come usi Google quando non ricordi l'indirizzo esatto di un sito."
+    },
+    {
+      "question": "Quale strategia SEO è suggerita per la query 'Come investire in criptovalute'?",
+      "answerOptions": [
+        {
+          "text": "Creare una guida dettagliata con esempi pratici e consigli per principianti.",
+          "isCorrect": true,
+          "rationale": "Questa query è informazionale e richiede un contenuto educativo approfondito."
+        },
+        {
+          "text": "Ottimizzare solo la pagina di login di un exchange.",
+          "isCorrect": false,
+          "rationale": "L'utente non vuole accedere a un account, vuole imparare a investire."
+        },
+        {
+          "text": "Mettere un countdown per l'acquisto di Bitcoin.",
+          "isCorrect": false,
+          "rationale": "Questo approccio transazionale è prematuro per un utente che sta ancora cercando informazioni di base."
+        },
+        {
+          "text": "Creare una tabella che confronta solo i prezzi di due app.",
+          "isCorrect": false,
+          "rationale": "Sebbene utile, l'utente cerca prima di capire 'come' fare, non solo 'quale' strumento usare."
+        }
+      ],
+      "hint": "Si tratta di una richiesta di conoscenza, non di un acquisto immediato."
+    },
+    {
+      "question": "Se un utente cerca 'Accedi a Netflix', che tipo di contenuto dovrebbe trovare?",
+      "answerOptions": [
+        {
+          "text": "Un post sul blog con la storia del cinema.",
+          "isCorrect": false,
+          "rationale": "L'utente vuole un'azione specifica, non leggere articoli storici."
+        },
+        {
+          "text": "Una pagina di login ben ottimizzata e visibile nei risultati.",
+          "isCorrect": true,
+          "rationale": "È una query navigazionale dove l'utente vuole raggiungere un'area specifica del sito."
+        },
+        {
+          "text": "Un confronto tra Netflix e Amazon Prime Video.",
+          "isCorrect": false,
+          "rationale": "L'utente ha già scelto Netflix e vuole solo entrare nel proprio account."
+        },
+        {
+          "text": "Un modulo per iscriversi a un nuovo abbonamento.",
+          "isCorrect": false,
+          "rationale": "La query 'Accedi' implica che l'utente sia già un cliente esistente."
+        }
+      ],
+      "hint": "L'utente ha l'obiettivo di entrare in un'area riservata già nota."
+    },
+    {
+      "question": "Per la query 'Migliori scarpe da corsa per maratona', quale intent è identificato?",
+      "answerOptions": [
+        {
+          "text": "Informazionale",
+          "isCorrect": false,
+          "rationale": "Sebbene ci sia informazione, il termine 'migliori' punta a una scelta d'acquisto."
+        },
+        {
+          "text": "Commerciale",
+          "isCorrect": true,
+          "rationale": "L'utente sta filtrando le opzioni sul mercato per trovare la soluzione ottimale prima di comprare."
+        },
+        {
+          "text": "Transazionale",
+          "isCorrect": false,
+          "rationale": "L'utente non ha ancora deciso il modello specifico da acquistare."
+        },
+        {
+          "text": "Navigazionale",
+          "isCorrect": false,
+          "rationale": "Non viene indicato un brand o un negozio specifico da raggiungere."
+        }
+      ],
+      "hint": "L'utente sta valutando diverse opzioni per trovare la 'migliore'."
+    },
+    {
+      "question": "Cosa indica la query 'Prezzo abbonamento Canva Pro'?",
+      "answerOptions": [
+        {
+          "text": "Un intento puramente informazionale sulla storia di Canva.",
+          "isCorrect": false,
+          "rationale": "La parola 'prezzo' sposta l'attenzione verso l'azione di acquisto."
+        },
+        {
+          "text": "Un intento transazionale orientato alla conversione.",
+          "isCorrect": true,
+          "rationale": "L'utente è molto vicino alla decisione finale e sta verificando l'ultimo dettaglio economico."
+        },
+        {
+          "text": "Un intento navigazionale per trovare il profilo Twitter di Canva.",
+          "isCorrect": false,
+          "rationale": "L'obiettivo non è un social network ma un dato commerciale specifico per l'abbonamento."
+        },
+        {
+          "text": "Un errore di digitazione senza significato SEO.",
+          "isCorrect": false,
+          "rationale": "Questa è una query ad alto valore commerciale e molto comune nel marketing."
+        }
+      ],
+      "hint": "L'utente è pronto ad abbonarsi, ma vuole conoscere il costo."
+    },
+    {
+      "question": "Quale errore bisogna evitare nella creazione di contenuti SEO secondo le slide?",
+      "answerOptions": [
+        {
+          "text": "Analizzare i competitor.",
+          "isCorrect": false,
+          "rationale": "L'analisi dei competitor è un'attività consigliata per capire il tipo di contenuto redatto."
+        },
+        {
+          "text": "Concentrarsi solo sui volumi di ricerca delle parole chiave.",
+          "isCorrect": true,
+          "rationale": "Bisogna analizzare anche l'intento, non solo quante persone cercano una parola chiave."
+        },
+        {
+          "text": "Utilizzare FAQ per rispondere ai dubbi.",
+          "isCorrect": false,
+          "rationale": "Le FAQ sono strumenti eccellenti per intercettare intenti informazionali o transazionali."
+        },
+        {
+          "text": "Ridurre la frequenza di rimbalzo.",
+          "isCorrect": false,
+          "rationale": "Questo è un obiettivo positivo della SEO, non un errore."
+        }
+      ],
+      "hint": "Non guardare solo i numeri (volumi), ma guarda il significato della query."
+    },
+    {
+      "question": "Nella strategia per l'intento 'Commerciale', perché si usano tabelle di confronto?",
+      "answerOptions": [
+        {
+          "text": "Per rendere la pagina più lunga e confondere l'utente.",
+          "isCorrect": false,
+          "rationale": "Le tabelle servono a semplificare, non a confondere."
+        },
+        {
+          "text": "Per aiutare l'utente a visualizzare rapidamente differenze e vantaggi tra opzioni.",
+          "isCorrect": true,
+          "rationale": "La visualizzazione sintetica facilita la presa di decisione dell'utente in fase di comparazione."
+        },
+        {
+          "text": "Per nascondere i difetti del prodotto principale.",
+          "isCorrect": false,
+          "rationale": "L'obiettivo della SEO etica è fornire informazioni veritiere per soddisfare l'utente."
+        },
+        {
+          "text": "Perché i motori di ricerca non sanno leggere il testo normale.",
+          "isCorrect": false,
+          "rationale": "I motori di ricerca leggono benissimo il testo, ma le tabelle migliorano l'esperienza utente (UX)."
+        }
+      ],
+      "hint": "Cosa rende più facile scegliere tra due modelli di computer?"
+    },
+    {
+      "question": "Che cosa si intende per 'traffico qualificato'?",
+      "answerOptions": [
+        {
+          "text": "Traffico proveniente esclusivamente da social media.",
+          "isCorrect": false,
+          "rationale": "La qualifica del traffico dipende dall'interesse, non dalla fonte."
+        },
+        {
+          "text": "Visitatori che hanno un'alta probabilità di essere interessati all'offerta del sito.",
+          "isCorrect": true,
+          "rationale": "Soddisfare l'intento attira persone che cercano esattamente ciò che proponi."
+        },
+        {
+          "text": "Visitatori che arrivano sul sito per errore.",
+          "isCorrect": false,
+          "rationale": "Questo è traffico non qualificato che aumenta la frequenza di rimbalzo."
+        },
+        {
+          "text": "Il numero totale di bot che scansionano il sito.",
+          "isCorrect": false,
+          "rationale": "Il traffico dei bot non genera conversioni e non è considerato traffico 'qualificato' in senso marketing."
+        }
+      ],
+      "hint": "Rifletti sulla pertinenza dell'utente rispetto al tuo business."
+    },
+    {
+      "question": "La query 'Differenza tra dieta keto e paleo' richiede quale tipo di strategia SEO?",
+      "answerOptions": [
+        {
+          "text": "Un annuncio PPC che vende integratori.",
+          "isCorrect": false,
+          "rationale": "Sebbene possibile, non risponde alla domanda informativa dell'utente."
+        },
+        {
+          "text": "Un articolo SEO-friendly con infografiche, vantaggi e svantaggi.",
+          "isCorrect": true,
+          "rationale": "L'utente sta cercando di capire le differenze concettuali tra due regimi alimentari (Informazionale)."
+        },
+        {
+          "text": "Una pagina di login a un forum di diete.",
+          "isCorrect": false,
+          "rationale": "Questa risposta sarebbe utile solo per un intento navigazionale specifico."
+        },
+        {
+          "text": "Un pulsante 'Acquista ora' senza spiegazioni.",
+          "isCorrect": false,
+          "rationale": "L'utente non è ancora pronto a comprare nulla se non conosce la differenza tra le opzioni."
+        }
+      ],
+      "hint": "L'utente sta cercando un confronto educativo."
+    },
+    {
+      "question": "Qual è il rischio di ignorare la search intent in una strategia SEO?",
+      "answerOptions": [
+        {
+          "text": "Avere troppi visitatori che acquistano i prodotti.",
+          "isCorrect": false,
+          "rationale": "Questo sarebbe un risultato positivo, non un rischio."
+        },
+        {
+          "text": "Attrarre traffico non pertinente che abbandona subito il sito.",
+          "isCorrect": true,
+          "rationale": "Senza allineamento all'intento, l'utente non trova ciò che cerca e se ne va (bounce)."
+        },
+        {
+          "text": "Migliorare troppo velocemente il posizionamento su Google.",
+          "isCorrect": false,
+          "rationale": "Google non ti posizionerà bene se il tuo contenuto non risponde all'intento della query."
+        },
+        {
+          "text": "Semplificare eccessivamente il design del sito.",
+          "isCorrect": false,
+          "rationale": "Il design e l'intento di ricerca sono concetti distinti, sebbene correlati nell'esperienza utente."
+        }
+      ],
+      "hint": "Cosa succede se clicchi su un risultato e non trovi quello che ti aspettavi?"
+    },
+    {
+      "question": "Quale di queste query è un esempio di intento 'Commerciale' secondo le slide?",
+      "answerOptions": [
+        {
+          "text": "Siti di spedizioni internazionali",
+          "isCorrect": true,
+          "rationale": "L'utente sta cercando una lista di fornitori di servizi per valutare quale utilizzare."
+        },
+        {
+          "text": "Semrush blog",
+          "isCorrect": false,
+          "rationale": "Questa è una ricerca navigazionale mirata a una sezione specifica di un sito."
+        },
+        {
+          "text": "Chi canta al Super Bowl",
+          "isCorrect": false,
+          "rationale": "Questa è una query puramente informazionale su un fatto di attualità."
+        },
+        {
+          "text": "Among Us download",
+          "isCorrect": false,
+          "rationale": "Questa è una query transazionale finalizzata all'azione di scaricare il gioco."
+        }
+      ],
+      "hint": "Cerca una query che implichi la ricerca di opzioni di brand o servizi."
+    },
+    {
+      "question": "In una ricerca 'Informazionale', a cosa servono gli 'snippet in primo piano'?",
+      "answerOptions": [
+        {
+          "text": "A nascondere i risultati della concorrenza.",
+          "isCorrect": false,
+          "rationale": "Gli snippet non nascondono gli altri, ma danno maggiore visibilità a un solo risultato."
+        },
+        {
+          "text": "Ad attirare traffico top-of-funnel rispondendo subito alla domanda dell'utente.",
+          "isCorrect": true,
+          "rationale": "Gli snippet forniscono una risposta rapida, posizionando il brand come autorità sull'argomento."
+        },
+        {
+          "text": "A forzare l'utente a comprare un prodotto.",
+          "isCorrect": false,
+          "rationale": "Gli snippet sono informativi, non sono strumenti di vendita diretta."
+        },
+        {
+          "text": "A ridurre la velocità di caricamento della pagina.",
+          "isCorrect": false,
+          "rationale": "Gli snippet sono gestiti da Google nei risultati di ricerca e non influiscono sulla velocità del tuo sito."
+        }
+      ],
+      "hint": "Sono quei box di testo che appaiono in cima ai risultati di Google."
+    },
+    {
+      "question": "L'utente che cerca 'Borsoni sportivi economici' ha un intento:",
+      "answerOptions": [
+        {
+          "text": "Informazionale",
+          "isCorrect": false,
+          "rationale": "Non sta cercando la storia dei borsoni, ma un'opzione d'acquisto."
+        },
+        {
+          "text": "Commerciale",
+          "isCorrect": true,
+          "rationale": "Il termine 'economici' suggerisce che sta valutando e confrontando opzioni in base al prezzo prima di decidere."
+        },
+        {
+          "text": "Navigazionale",
+          "isCorrect": false,
+          "rationale": "Non sta specificando un negozio o un brand particolare."
+        },
+        {
+          "text": "Transazionale",
+          "isCorrect": false,
+          "rationale": "Sebbene sia vicino all'acquisto, la query indica ancora una fase di esplorazione di alternative."
+        }
+      ],
+      "hint": "L'aggiunta di un aggettivo come 'economici' indica una valutazione di mercato."
+    },
+    {
+      "question": "Cosa si consiglia di fare per le query transazionali in termini di PPC?",
+      "answerOptions": [
+        {
+          "text": "Usare solo traffico organico per risparmiare.",
+          "isCorrect": false,
+          "rationale": "Il traffico organico è lento; per le transazioni immediate il PPC è spesso più efficace."
+        },
+        {
+          "text": "Usare una porzione maggiore del budget PPC per queste ricerche.",
+          "isCorrect": true,
+          "rationale": "Le query transazionali hanno la massima probabilità di conversione, giustificando un investimento pubblicitario maggiore."
+        },
+        {
+          "text": "Spegnere tutti gli annunci durante i fine settimana.",
+          "isCorrect": false,
+          "rationale": "Le transazioni possono avvenire in qualsiasi momento e gli annunci dovrebbero seguire il comportamento dell'utente."
+        },
+        {
+          "text": "Investire solo se il prodotto è il più caro sul mercato.",
+          "isCorrect": false,
+          "rationale": "Il PPC è efficace per prodotti di ogni fascia di prezzo, purché l'intento sia transazionale."
+        }
+      ],
+      "hint": "Pensa a dove è più redditizio spendere i soldi in pubblicità."
+    },
+    {
+      "question": "In ChatGPT, quale intent ha la percentuale più bassa secondo i dati di ottobre/novembre 2024?",
+      "answerOptions": [
+        {
+          "text": "Informazionale",
+          "isCorrect": false,
+          "rationale": "L'intent informazionale è il più alto in ChatGPT ($52.2\\%$)."
+        },
+        {
+          "text": "Transazionale ($6.1\\%$)",
+          "isCorrect": true,
+          "rationale": "Le persone usano raramente ChatGPT per completare acquisti o azioni transazionali dirette rispetto ad altre attività."
+        },
+        {
+          "text": "Navigazionale",
+          "isCorrect": false,
+          "rationale": "Il navigazionale su ChatGPT è al $34.2\\%$, molto più alto del transazionale."
+        },
+        {
+          "text": "Commerciale",
+          "isCorrect": false,
+          "rationale": "L'intent commerciale è al $7.5\\%$, superiore a quello transazionale."
+        }
+      ],
+      "hint": "È difficile effettuare un acquisto o un'azione 'fisica' direttamente tramite una chat AI."
+    },
+    {
+      "question": "Quale azione è fondamentale per la SEO tecnica su ricerche navigazionali?",
+      "answerOptions": [
+        {
+          "text": "Scrivere post sul blog ogni giorno.",
+          "isCorrect": false,
+          "rationale": "Questa è una strategia di contenuto, non tecnica."
+        },
+        {
+          "text": "Assicurarsi che il sito sia facile da trovare ottimizzando per le query di brand.",
+          "isCorrect": true,
+          "rationale": "L'obiettivo tecnico è rimuovere ostacoli che impediscono al brand di apparire al primo posto per il proprio nome."
+        },
+        {
+          "text": "Creare video tutorial su come usare il mouse.",
+          "isCorrect": false,
+          "rationale": "Questo contenuto sarebbe informazionale e probabilmente non pertinente al brand."
+        },
+        {
+          "text": "Eliminare tutti i link esterni dal sito.",
+          "isCorrect": false,
+          "rationale": "I link esterni non danneggiano la capacità di un utente di trovare il sito tramite query di brand."
+        }
+      ],
+      "hint": "L'utente sta cercando 'te'. Rendi il percorso il più semplice possibile."
+    },
+    {
+      "question": "Cosa significa 'copertura del pubblico più ampia' in relazione all'ottimizzazione dell'intento?",
+      "answerOptions": [
+        {
+          "text": "Raggiungere utenti in diverse fasi del funnel di vendita.",
+          "isCorrect": true,
+          "rationale": "Ottimizzando per vari intenti (info, comm, trans), si intercettano utenti in ogni momento del loro percorso."
+        },
+        {
+          "text": "Stampare volantini cartacei per chi non usa internet.",
+          "isCorrect": false,
+          "rationale": "La search intent è un concetto esclusivamente digitale e legato ai motori di ricerca."
+        },
+        {
+          "text": "Avere un sito tradotto in 50 lingue diverse.",
+          "isCorrect": false,
+          "rationale": "La localizzazione è importante, ma l'ampiezza del pubblico qui si riferisce alle diverse intenzioni di ricerca."
+        },
+        {
+          "text": "Far sì che il sito carichi istantaneamente su vecchi modem.",
+          "isCorrect": false,
+          "rationale": "Questa è ottimizzazione delle prestazioni hardware/software, non del pubblico."
+        }
+      ],
+      "hint": "Pensa a come intercettare utenti che stanno solo curiosando e utenti pronti a comprare."
+    },
+    {
+      "question": "L'analisi dei competitor aiuta a capire:",
+      "answerOptions": [
+        {
+          "text": "Quali sono le password dei loro amministratori.",
+          "isCorrect": false,
+          "rationale": "Questo è illegale e non ha nulla a che fare con la SEO."
+        },
+        {
+          "text": "Le tipologie di contenuto redatto per soddisfare lo stesso intento.",
+          "isCorrect": true,
+          "rationale": "Osservare cosa offrono i competitor permette di creare contenuti migliori o più completi."
+        },
+        {
+          "text": "Quanto pagano di affitto per i loro uffici.",
+          "isCorrect": false,
+          "rationale": "Queste sono informazioni aziendali private non rilevanti per la strategia search intent."
+        },
+        {
+          "text": "Il numero esatto di dipendenti che hanno.",
+          "isCorrect": false,
+          "rationale": "Sebbene utile per l'analisi di business, non influisce direttamente sulla redazione dei contenuti SEO."
+        }
+      ],
+      "hint": "Cosa puoi imparare guardando come gli altri rispondono alle stesse domande degli utenti?"
+    }
+  ]
+}

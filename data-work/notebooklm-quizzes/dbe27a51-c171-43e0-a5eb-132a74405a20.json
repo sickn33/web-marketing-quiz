@@ -1,0 +1,785 @@
+{
+  "title": "Marketing Quiz",
+  "questions": [
+    {
+      "question": "Cosa comporta l'orientamento all'e-business per un approccio manageriale?",
+      "answerOptions": [
+        {
+          "text": "Una riconfigurazione dei processi di creazione di valore in chiave digitale.",
+          "isCorrect": true,
+          "rationale": "L'orientamento all'e-business agisce sulla struttura stessa dei processi aziendali per integrarli con le tecnologie digitali."
+        },
+        {
+          "text": "La semplice creazione di una pagina social aziendale.",
+          "isCorrect": false,
+          "rationale": "L'e-business richiede una trasformazione profonda dei processi interni ed esterni, non solo l'uso di un singolo strumento di comunicazione."
+        },
+        {
+          "text": "L'eliminazione dei processi fisici a favore di quelli esclusivamente virtuali.",
+          "isCorrect": false,
+          "rationale": "L'e-business può riguardare anche la digitalizzazione di processi fisici esistenti, non necessariamente la loro totale eliminazione."
+        },
+        {
+          "text": "L'adozione di tecnologie digitali esclusivamente per il marketing operativo.",
+          "isCorrect": false,
+          "rationale": "L'e-business coinvolge l'intera catena del valore, inclusi approvvigionamenti e logistica, non solo il marketing."
+        }
+      ],
+      "hint": "Pensa a come la tecnologia cambia la struttura fondamentale di come l'azienda crea valore."
+    },
+    {
+      "question": "Quale tecnologia è definita nel materiale come la 'killer application' delle tecnologie digitali?",
+      "answerOptions": [
+        {
+          "text": "Internet",
+          "isCorrect": true,
+          "rationale": "Internet è lo strumento abilitante che permette lo svolgimento intensivo dei processi della catena del valore in chiave digitale."
+        },
+        {
+          "text": "L'intelligenza artificiale",
+          "isCorrect": false,
+          "rationale": "Sebbene citata tra gli ambiti del marketing, non è indicata come la killer application fondamentale per l'orientamento all'e-business."
+        },
+        {
+          "text": "La Blockchain",
+          "isCorrect": false,
+          "rationale": "La blockchain è una tecnologia emergente specifica, ma non rappresenta la base universale dell'e-business citata nel testo."
+        },
+        {
+          "text": "I Big Data",
+          "isCorrect": false,
+          "rationale": "I Big Data sono una conseguenza dell'attività digitale, ma la killer application che abilita la rete è Internet."
+        }
+      ],
+      "hint": "È l'infrastruttura globale che ha reso possibile la comunicazione istantanea ovunque."
+    },
+    {
+      "question": "Per un efficace orientamento all'e-business, quale sistema informativo integrato è considerato necessario?",
+      "answerOptions": [
+        {
+          "text": "ERP (Enterprise Resource Planning)",
+          "isCorrect": true,
+          "rationale": "Un sistema ERP permette l'integrazione e la gestione fluida dei dati e dei processi tra le diverse aree aziendali."
+        },
+        {
+          "text": "Solo un software di Email Marketing",
+          "isCorrect": false,
+          "rationale": "Un software di email marketing è uno strumento tattico settoriale, insufficiente per l'integrazione di tutti i processi aziendali."
+        },
+        {
+          "text": "Un firewall di rete avanzato",
+          "isCorrect": false,
+          "rationale": "La sicurezza informatica è importante, ma il sistema informativo integrato richiesto riguarda la gestione delle risorse aziendali."
+        },
+        {
+          "text": "Un database di contatti offline",
+          "isCorrect": false,
+          "rationale": "L'e-business richiede sistemi digitali integrati e non semplici archivi isolati o analogici."
+        }
+      ],
+      "hint": "Cerca l'acronimo che indica la pianificazione delle risorse d'impresa."
+    },
+    {
+      "question": "Cosa deve ridefinire l'impresa orientata all'e-business riguardo al suo 'sistema di offerta'?",
+      "answerOptions": [
+        {
+          "text": "Il paniere di attributi del prodotto in termini più immateriali.",
+          "isCorrect": true,
+          "rationale": "Il digitale permette di arricchire l'offerta con servizi e informazioni che rendono il valore del prodotto meno dipendente dalla fisicità."
+        },
+        {
+          "text": "La quantità di scorte fisiche in magazzino.",
+          "isCorrect": false,
+          "rationale": "Sebbene la logistica cambi, la ridefinizione del 'sistema di offerta' riguarda il valore percepito dal cliente."
+        },
+        {
+          "text": "L'eliminazione dei prezzi dai cataloghi online.",
+          "isCorrect": false,
+          "rationale": "L'e-business spesso aumenta la trasparenza dei prezzi anziché eliminarla."
+        },
+        {
+          "text": "L'offerta di soli prodotti gratuiti.",
+          "isCorrect": false,
+          "rationale": "La gratuità può essere una strategia, ma non è la ridefinizione strutturale del sistema di offerta richiesta."
+        }
+      ],
+      "hint": "Pensa a come i servizi digitali aggiungono valore non fisico a un oggetto."
+    },
+    {
+      "question": "Secondo la definizione fornita, cos'è il 'business model digitale'?",
+      "answerOptions": [
+        {
+          "text": "Il sistema con cui l'impresa mantiene e sviluppa valore economico nel lungo termine tramite tecnologie digitali.",
+          "isCorrect": true,
+          "rationale": "Il modello di business digitale definisce la logica di sostenibilità economica basata sull'uso significativo di hardware, software e Internet."
+        },
+        {
+          "text": "Un piano di comunicazione basato esclusivamente sui social media.",
+          "isCorrect": false,
+          "rationale": "Il modello di business è più ampio della sola comunicazione, riguardando la generazione di valore economico complessivo."
+        },
+        {
+          "text": "Un documento che elenca solo i costi dei server aziendali.",
+          "isCorrect": false,
+          "rationale": "Questa è solo una voce di costo infrastrutturale, non la logica di creazione del valore."
+        },
+        {
+          "text": "La vendita occasionale di prodotti su eBay.",
+          "isCorrect": false,
+          "rationale": "Il modello di business richiede un approccio sistematico e di lungo termine, non azioni sporadiche."
+        }
+      ],
+      "hint": "Si focalizza sulla capacità dell'azienda di generare profitto nel tempo grazie al digitale."
+    },
+    {
+      "question": "Qual è l'obiettivo principale del Digital Marketing?",
+      "answerOptions": [
+        {
+          "text": "Il conseguimento degli obiettivi di marketing tramite tecnologie digitali.",
+          "isCorrect": true,
+          "rationale": "Il Digital Marketing non è fine a se stesso, ma uno strumento per raggiungere i traguardi generali di mercato dell'impresa."
+        },
+        {
+          "text": "L'aumento dei follower su Instagram a ogni costo.",
+          "isCorrect": false,
+          "rationale": "I follower sono una metrica specifica che può non corrispondere agli obiettivi strategici di marketing di un'impresa."
+        },
+        {
+          "text": "La sostituzione totale di ogni forma di marketing tradizionale.",
+          "isCorrect": false,
+          "rationale": "Il digital marketing spesso integra e potenzia il marketing tradizionale anziché eliminarlo completamente."
+        },
+        {
+          "text": "L'apprendimento di linguaggi di programmazione da parte dei manager.",
+          "isCorrect": false,
+          "rationale": "Il marketing digitale riguarda la strategia e l'uso delle tecnologie, non necessariamente lo sviluppo software diretto."
+        }
+      ],
+      "hint": "Considera il rapporto tra lo strumento tecnologico e la finalità aziendale."
+    },
+    {
+      "question": "Nella Customer Journey, in cosa consiste l'attività di 'Listening'?",
+      "answerOptions": [
+        {
+          "text": "Un'attività continuativa di ascolto online per rilevare cosa dicono le persone del brand.",
+          "isCorrect": true,
+          "rationale": "L'ascolto è il primo passo per comprendere il sentiment e le esigenze del pubblico di riferimento."
+        },
+        {
+          "text": "L'ascolto dei messaggi vocali inviati dai clienti al call center.",
+          "isCorrect": false,
+          "rationale": "Il 'Listening' nel digital marketing si riferisce principalmente al monitoraggio delle conversazioni online (social, forum, blog)."
+        },
+        {
+          "text": "L'intervista telefonica ai dipendenti dell'azienda.",
+          "isCorrect": false,
+          "rationale": "Il Listening è orientato all'esterno, verso i consumatori attuali e potenziali, non all'interno."
+        },
+        {
+          "text": "La registrazione dei suoni ambientali nei punti vendita fisici.",
+          "isCorrect": false,
+          "rationale": "Si tratta di una pratica di marketing sensoriale che non corrisponde al Listening digitale descritto."
+        }
+      ],
+      "hint": "Riguarda il monitoraggio della reputazione e delle conversazioni nel web."
+    },
+    {
+      "question": "Qual è la differenza tra Brand Awareness e Brand Visibility?",
+      "answerOptions": [
+        {
+          "text": "La visibilità è un antecedente necessario della notorietà (awareness).",
+          "isCorrect": true,
+          "rationale": "Un brand deve essere visibile prima che il consumatore possa conoscerlo e ricordarlo attivamente."
+        },
+        {
+          "text": "Sono sinonimi perfetti e intercambiabili.",
+          "isCorrect": false,
+          "rationale": "Esiste una distinzione gerarchica tra il semplice apparire (visibilità) e l'essere conosciuti e ricordati (awareness)."
+        },
+        {
+          "text": "La visibilità riguarda solo i negozi fisici, l'awareness solo il web.",
+          "isCorrect": false,
+          "rationale": "Entrambi i concetti si applicano sia al contesto online che a quello offline."
+        },
+        {
+          "text": "L'awareness si misura in clic, la visibilità in vendite.",
+          "isCorrect": false,
+          "rationale": "Queste metriche sono errate; la visibilità è legata alle impression, l'awareness al ricordo di marca."
+        }
+      ],
+      "hint": "Pensa a quale condizione deve verificarsi per prima affinché un cliente 'sappia' che esisti."
+    },
+    {
+      "question": "Cosa indica il termine 'Brand Engagement' nel percorso del cliente?",
+      "answerOptions": [
+        {
+          "text": "L'attivazione cognitiva, emozionale e comportamentale verso il brand.",
+          "isCorrect": true,
+          "rationale": "L'engagement va oltre la conoscenza, implicando interazione, partecipazione e condivisione da parte dell'utente."
+        },
+        {
+          "text": "L'obbligo contrattuale di acquistare un prodotto ogni mese.",
+          "isCorrect": false,
+          "rationale": "L'engagement è una risposta spontanea e psicologica, non un vincolo legale o contrattuale."
+        },
+        {
+          "text": "Il momento esatto in cui il cliente effettua il pagamento.",
+          "isCorrect": false,
+          "rationale": "Il pagamento è la fase di 'Purchase'; l'engagement può prescindere dall'acquisto."
+        },
+        {
+          "text": "La visualizzazione passiva di un banner pubblicitario.",
+          "isCorrect": false,
+          "rationale": "La visualizzazione passiva riguarda la visibilità; l'engagement richiede una reazione o interazione attiva."
+        }
+      ],
+      "hint": "Riguarda il coinvolgimento profondo dell'utente che interagisce con la marca."
+    },
+    {
+      "question": "Quale delle seguenti è una caratteristica distintiva del 'Livello Tattico' di utilizzo del digital marketing?",
+      "answerOptions": [
+        {
+          "text": "L'uso di 'siti vetrina' con scarsi livelli di interattività.",
+          "isCorrect": true,
+          "rationale": "A livello tattico, il web è usato solo come brochure digitale senza collegamento agli obiettivi strategici di business."
+        },
+        {
+          "text": "L'integrazione totale tra canali online e offline.",
+          "isCorrect": false,
+          "rationale": "Questa integrazione è tipica del livello strategico (omnicanalità), non del livello tattico di base."
+        },
+        {
+          "text": "La vendita esclusiva tramite e-commerce proprietario.",
+          "isCorrect": false,
+          "rationale": "La vendita online complessa richiede solitamente un livello almeno strategico, non solo tattico."
+        },
+        {
+          "text": "La definizione di KPI digitali legati al core business.",
+          "isCorrect": false,
+          "rationale": "Il livello tattico manca proprio di un collegamento rilevante agli obiettivi strategici generali."
+        }
+      ],
+      "hint": "È il livello più elementare, dove il sito serve solo a dare informazioni statiche."
+    },
+    {
+      "question": "Cosa si intende per 'Livello Core Business' nel digital marketing?",
+      "answerOptions": [
+        {
+          "text": "L'impresa esiste e opera principalmente grazie al campo digitale.",
+          "isCorrect": true,
+          "rationale": "In questo livello la strategia generale dell'impresa coincide quasi totalmente con la strategia digitale."
+        },
+        {
+          "text": "L'uso del digitale solo per la gestione della logistica interna.",
+          "isCorrect": false,
+          "rationale": "Questo sarebbe un utilizzo parziale dei processi; il livello core vede il digitale come essenza stessa dell'azienda."
+        },
+        {
+          "text": "L'acquisto di keyword su Google una volta all'anno.",
+          "isCorrect": false,
+          "rationale": "Questa è un'attività puramente tattica e sporadica, l'opposto di un approccio 'core'."
+        },
+        {
+          "text": "La presenza di un solo computer in tutta l'azienda.",
+          "isCorrect": false,
+          "rationale": "Il livello core business richiede un'infrastruttura e una cultura digitale pervasiva."
+        }
+      ],
+      "hint": "Pensa a un'azienda come Amazon o Expedia, la cui natura è intrinsecamente digitale."
+    },
+    {
+      "question": "Quale player online è caratterizzato dall'assenza totale di punti vendita fisici?",
+      "answerOptions": [
+        {
+          "text": "Pure Play",
+          "isCorrect": true,
+          "rationale": "I player Pure Play operano esclusivamente online, non avendo una presenza fisica tradizionale per i consumatori."
+        },
+        {
+          "text": "Click and Mortar",
+          "isCorrect": false,
+          "rationale": "Questi player integrano i canali digitali con negozi fisici (bricks) esistenti."
+        },
+        {
+          "text": "Bricks and Mortar",
+          "isCorrect": false,
+          "rationale": "Queste sono imprese tradizionali basate su strutture fisiche (mattoni e malta)."
+        },
+        {
+          "text": "Direct-to-Consumer (DTC)",
+          "isCorrect": false,
+          "rationale": "Il DTC è una strategia di vendita diretta che può essere adottata sia da Pure Play che da aziende fisiche."
+        }
+      ],
+      "hint": "Il termine suggerisce un 'gioco' che si svolge interamente in un solo ambito."
+    },
+    {
+      "question": "L'azienda IKEA viene citata nel materiale come esempio di quale assetto strutturale?",
+      "answerOptions": [
+        {
+          "text": "Click and Mortar",
+          "isCorrect": true,
+          "rationale": "IKEA integra i suoi grandi magazzini fisici con una piattaforma di acquisto online avanzata."
+        },
+        {
+          "text": "Pure Play",
+          "isCorrect": false,
+          "rationale": "IKEA possiede una vastissima rete di negozi fisici, il che impedisce di definirla 'Pure Play'."
+        },
+        {
+          "text": "Bricks and Mortar (Livello Tattico)",
+          "isCorrect": false,
+          "rationale": "Sebbene abbia radici fisiche, IKEA ha un livello di integrazione digitale strategico, non solo tattico."
+        },
+        {
+          "text": "Sito Vetrina",
+          "isCorrect": false,
+          "rationale": "IKEA offre e-commerce e servizi interattivi, superando ampiamente il concetto di sito vetrina."
+        }
+      ],
+      "hint": "Considera l'unione tra i suoi famosi negozi blu e gialli e il suo sito web."
+    },
+    {
+      "question": "Quale di queste domande è fondamentale per scegliere il corretto livello di digital marketing?",
+      "answerOptions": [
+        {
+          "text": "I nostri concorrenti quanto e come utilizzano il digital marketing?",
+          "isCorrect": true,
+          "rationale": "L'analisi della concorrenza è un fattore determinante per definire il proprio posizionamento e le risorse da investire."
+        },
+        {
+          "text": "Qual è il colore preferito del CEO dell'azienda?",
+          "isCorrect": false,
+          "rationale": "Le preferenze estetiche personali non sono criteri strategici per l'orientamento digitale."
+        },
+        {
+          "text": "Quanti dipendenti hanno meno di 20 anni?",
+          "isCorrect": false,
+          "rationale": "Sebbene l'età possa influire sulle competenze, la scelta del livello dipende da fattori di mercato e scenario macro."
+        },
+        {
+          "text": "Possiamo eliminare del tutto l'uso della carta in un giorno?",
+          "isCorrect": false,
+          "rationale": "La digitalizzazione dell'ufficio è diversa dalla strategia di digital marketing verso il mercato."
+        }
+      ],
+      "hint": "Cerca un fattore legato al contesto competitivo esterno."
+    },
+    {
+      "question": "Nella mappa degli ambiti del digital marketing, cosa rappresenta l'acronimo 'UX'?",
+      "answerOptions": [
+        {
+          "text": "User Experience",
+          "isCorrect": true,
+          "rationale": "La UX riguarda l'esperienza complessiva dell'utente durante l'interazione con il sito web o l'app aziendale."
+        },
+        {
+          "text": "Universal Exchange",
+          "isCorrect": false,
+          "rationale": "Non è un termine standard utilizzato nell'ambito del digital marketing presentato."
+        },
+        {
+          "text": "User Xylophone",
+          "isCorrect": false,
+          "rationale": "Si tratta di un termine inventato non pertinente al contesto tecnologico."
+        },
+        {
+          "text": "Under Extension",
+          "isCorrect": false,
+          "rationale": "Questo termine non ha alcun legame con la progettazione di interfacce digitali."
+        }
+      ],
+      "hint": "Si riferisce a come una persona si sente e interagisce con un prodotto digitale."
+    },
+    {
+      "question": "Quale fase della Customer Journey si occupa della 'considerazione del brand ai fini dell'acquisto'?",
+      "answerOptions": [
+        {
+          "text": "Brand Consideration",
+          "isCorrect": true,
+          "rationale": "In questa fase il brand entra nel 'set evocato' di opzioni che il consumatore valuta seriamente per comprare."
+        },
+        {
+          "text": "Brand Awareness",
+          "isCorrect": false,
+          "rationale": "L'awareness è la semplice conoscenza; un brand può essere noto ma non essere preso in considerazione per l'acquisto."
+        },
+        {
+          "text": "Listening",
+          "isCorrect": false,
+          "rationale": "Il listening è un'attività dell'azienda, non una fase decisionale del consumatore riguardo all'acquisto."
+        },
+        {
+          "text": "Advocacy",
+          "isCorrect": false,
+          "rationale": "L'advocacy avviene dopo l'acquisto, quando il cliente diventa un promotore del brand."
+        }
+      ],
+      "hint": "È il momento in cui l'utente restringe il campo delle marche preferite."
+    },
+    {
+      "question": "Perché un'impresa dovrebbe adottare un approccio 'Direct-to-Consumer' (DTC)?",
+      "answerOptions": [
+        {
+          "text": "Per vendere direttamente al cliente finale senza intermediari distributivi.",
+          "isCorrect": true,
+          "rationale": "Il DTC permette di raccogliere dati diretti sui clienti e di controllare meglio l'immagine del brand e i margini."
+        },
+        {
+          "text": "Per aumentare esclusivamente il numero di rivenditori fisici.",
+          "isCorrect": false,
+          "rationale": "Il DTC mira a superare o integrare i rivenditori, non ad aumentarne il numero come obiettivo primario."
+        },
+        {
+          "text": "Per evitare di utilizzare Internet nella vendita.",
+          "isCorrect": false,
+          "rationale": "Al contrario, il DTC moderno si basa quasi interamente su piattaforme digitali proprietarie."
+        },
+        {
+          "text": "Per nascondere i propri prodotti ai consumatori finali.",
+          "isCorrect": false,
+          "rationale": "L'obiettivo del DTC è proprio stabilire una connessione più forte e visibile con il consumatore."
+        }
+      ],
+      "hint": "Pensa al significato letterale di 'diretto al consumatore'."
+    },
+    {
+      "question": "Qual è il significato di 'Brand Image' secondo il materiale?",
+      "answerOptions": [
+        {
+          "text": "Il significato della marca per il consumatore basato sulla sua esperienza.",
+          "isCorrect": true,
+          "rationale": "L'immagine di marca è la percezione soggettiva e qualitativa che il consumatore ha costruito nel tempo."
+        },
+        {
+          "text": "Il logo aziendale salvato in formato JPEG.",
+          "isCorrect": false,
+          "rationale": "Questa è un'immagine grafica tecnica, non il concetto di 'Brand Image' inteso come costrutto di marketing."
+        },
+        {
+          "text": "Il numero di volte che il brand appare in televisione.",
+          "isCorrect": false,
+          "rationale": "Questo dato riguarda la pressione pubblicitaria o la visibilità, non l'immagine percepita."
+        },
+        {
+          "text": "La fotografia della sede centrale dell'azienda.",
+          "isCorrect": false,
+          "rationale": "L'immagine di marca riguarda i valori e le associazioni mentali, non una singola foto architettonica."
+        }
+      ],
+      "hint": "Ha a che fare con la percezione mentale e psicologica del cliente."
+    },
+    {
+      "question": "Quale player online viene citato come esempio di 'Pure Play' nel settore viaggi?",
+      "answerOptions": [
+        {
+          "text": "Expedia",
+          "isCorrect": true,
+          "rationale": "Expedia opera interamente tramite piattaforma web senza agenzie di viaggio fisiche su strada."
+        },
+        {
+          "text": "IKEA",
+          "isCorrect": false,
+          "rationale": "IKEA opera nel settore arredamento ed è un modello Click and Mortar."
+        },
+        {
+          "text": "Bvlgari",
+          "isCorrect": false,
+          "rationale": "Bvlgari è un brand di lusso con boutique fisiche prestigiose, non un Pure Play."
+        },
+        {
+          "text": "Monini",
+          "isCorrect": false,
+          "rationale": "Monini è un'azienda alimentare tradizionale che usa il digitale a livello tattico/informativo."
+        }
+      ],
+      "hint": "Cerca una nota piattaforma per prenotare voli e hotel online."
+    },
+    {
+      "question": "L'azienda Monini è utilizzata come esempio per quale categoria?",
+      "answerOptions": [
+        {
+          "text": "Bricks and Mortar (Livello Tattico)",
+          "isCorrect": true,
+          "rationale": "Presenta un sito principalmente informativo per valorizzare un prodotto fisico venduto tramite canali tradizionali."
+        },
+        {
+          "text": "Pure Play Digitale",
+          "isCorrect": false,
+          "rationale": "L'olio d'oliva è un prodotto fisico venduto prevalentemente nei supermercati offline."
+        },
+        {
+          "text": "Azienda operante solo tramite Blockchain",
+          "isCorrect": false,
+          "rationale": "Non vi è alcun riferimento all'uso della blockchain come base del business model di Monini."
+        },
+        {
+          "text": "Social Commerce avanzato",
+          "isCorrect": false,
+          "rationale": "L'esempio mostra un sito vetrina tradizionale, non una strategia focalizzata sul social commerce."
+        }
+      ],
+      "hint": "Considera un'azienda alimentare storica che usa il web per far conoscere i propri prodotti fisici."
+    },
+    {
+      "question": "Cosa deve cambiare culturalmente un'impresa per orientarsi all'e-business?",
+      "answerOptions": [
+        {
+          "text": "Deve adottare una logica reticolare.",
+          "isCorrect": true,
+          "rationale": "L'e-business richiede di pensare all'azienda come parte di una rete interconnessa di partner, fornitori e clienti."
+        },
+        {
+          "text": "Deve imporre il silenzio assoluto tra i dipendenti.",
+          "isCorrect": false,
+          "rationale": "Al contrario, il digitale favorisce la collaborazione e la condivisione delle informazioni."
+        },
+        {
+          "text": "Deve tornare a una gerarchia piramidale rigida e chiusa.",
+          "isCorrect": false,
+          "rationale": "La logica reticolare è spesso più piatta e aperta rispetto alla gerarchia tradizionale."
+        },
+        {
+          "text": "Deve smettere di comunicare con l'esterno.",
+          "isCorrect": false,
+          "rationale": "L'orientamento all'e-business potenzia enormemente le relazioni con le entità esterne."
+        }
+      ],
+      "hint": "Pensa alla struttura di un 'network' o di una 'ragnatela' di relazioni."
+    },
+    {
+      "question": "Quale di questi ambiti NON fa parte della 'Mappa dei principali ambiti del Digital Marketing'?",
+      "answerOptions": [
+        {
+          "text": "Telemarketing tradizionale a freddo",
+          "isCorrect": true,
+          "rationale": "Il telemarketing tradizionale non è considerato un ambito specifico del 'Digital Marketing' basato su Internet e nuove tecnologie."
+        },
+        {
+          "text": "Mobile Marketing",
+          "isCorrect": false,
+          "rationale": "È esplicitamente incluso nella mappa come uno dei pilastri della comunicazione digitale moderna."
+        },
+        {
+          "text": "Digital Advertising",
+          "isCorrect": false,
+          "rationale": "La pubblicità digitale (display, social ads, ecc.) è un ambito fondamentale indicato nella mappa."
+        },
+        {
+          "text": "Search",
+          "isCorrect": false,
+          "rationale": "Le attività sui motori di ricerca (SEO/SEA) sono parte integrante degli ambiti del digital marketing."
+        }
+      ],
+      "hint": "Cerca l'attività che si basa sul telefono analogico e non sulla rete internet."
+    },
+    {
+      "question": "Nel contesto del digital marketing, cos'è la 'Conversion'?",
+      "answerOptions": [
+        {
+          "text": "L'effettivo compimento di un'azione desiderata, come l'acquisto.",
+          "isCorrect": true,
+          "rationale": "La conversione trasforma un visitatore o un utente interessato in un cliente effettivo o in un lead."
+        },
+        {
+          "text": "Il cambio di valuta da Euro a Dollari sul sito.",
+          "isCorrect": false,
+          "rationale": "Sebbene sia una conversione monetaria, nel marketing indica il raggiungimento di un obiettivo di business."
+        },
+        {
+          "text": "L'aggiornamento del sistema operativo del computer.",
+          "isCorrect": false,
+          "rationale": "Questa è una procedura tecnica di manutenzione software, non un obiettivo di marketing."
+        },
+        {
+          "text": "La traduzione del sito in un'altra lingua.",
+          "isCorrect": false,
+          "rationale": "Questa è localizzazione; la conversione riguarda il comportamento finalizzato dell'utente."
+        }
+      ],
+      "hint": "Pensa al momento in cui l'utente 'si converte' da semplice curioso a compratore."
+    },
+    {
+      "question": "La fase di 'Loyalty' (Retention) mira a:",
+      "answerOptions": [
+        {
+          "text": "Mantenere e coltivare la relazione con il cliente nel tempo.",
+          "isCorrect": true,
+          "rationale": "Costa meno mantenere un cliente esistente che acquisirne uno nuovo; la loyalty punta sulla fedeltà post-vendita."
+        },
+        {
+          "text": "Trovare nuovi clienti che non hanno mai sentito parlare del brand.",
+          "isCorrect": false,
+          "rationale": "Questa è la fase di Awareness/Acquisition, non di Loyalty (che riguarda chi è già cliente)."
+        },
+        {
+          "text": "Spingere il cliente a restituire il prodotto acquistato.",
+          "isCorrect": false,
+          "rationale": "Questo sarebbe un fallimento del processo; la loyalty vuole che il cliente sia soddisfatto e torni a comprare."
+        },
+        {
+          "text": "Eliminare il servizio di assistenza post-vendita.",
+          "isCorrect": false,
+          "rationale": "L'assistenza è fondamentale per costruire la fedeltà (loyalty) del cliente."
+        }
+      ],
+      "hint": "Riguarda la capacità dell'azienda di non farsi scappare i clienti già acquisiti."
+    },
+    {
+      "question": "L'e-trade e l'e-commerce riguardano la ridefinizione di quale sistema?",
+      "answerOptions": [
+        {
+          "text": "Sistema distributivo",
+          "isCorrect": true,
+          "rationale": "L'e-commerce è la modalità digitale attraverso cui i prodotti vengono venduti e distribuiti al mercato."
+        },
+        {
+          "text": "Sistema di produzione manifatturiera",
+          "isCorrect": false,
+          "rationale": "Riguarda la fabbricazione, mentre e-trade riguarda lo scambio commerciale e la distribuzione."
+        },
+        {
+          "text": "Sistema di selezione del personale",
+          "isCorrect": false,
+          "rationale": "L'e-recruiting riguarda le risorse umane, non la distribuzione commerciale dei prodotti."
+        },
+        {
+          "text": "Sistema di smaltimento rifiuti",
+          "isCorrect": false,
+          "rationale": "Non è un'area toccata direttamente dalla ridefinizione distributiva in chiave e-commerce."
+        }
+      ],
+      "hint": "Pensa a come il prodotto 'viaggia' dall'azienda al cliente."
+    },
+    {
+      "question": "Che cosa si intende per 'Advocacy' nell'ultimo stadio della Customer Journey?",
+      "answerOptions": [
+        {
+          "text": "Il cliente consiglia spontaneamente il brand ad altri (passaparola).",
+          "isCorrect": true,
+          "rationale": "L'advocacy trasforma il cliente fedele in un ambasciatore entusiasta della marca."
+        },
+        {
+          "text": "L'assunzione di un avvocato per risolvere dispute legali.",
+          "isCorrect": false,
+          "rationale": "Sebbene il termine richiami la legge, nel marketing indica la difesa e promozione del brand da parte dei fan."
+        },
+        {
+          "text": "Il pagamento di una multa per pubblicità ingannevole.",
+          "isCorrect": false,
+          "rationale": "Non ha attinenza con il percorso positivo di fidelizzazione del cliente descritto."
+        },
+        {
+          "text": "La cancellazione dell'iscrizione alla newsletter.",
+          "isCorrect": false,
+          "rationale": "Questo è un segnale di disinteresse (churn), l'esatto opposto dell'advocacy."
+        }
+      ],
+      "hint": "Pensa a quando un amico ti parla benissimo di un prodotto che ha appena comprato."
+    },
+    {
+      "question": "Quale di questi fattori influenza la scelta della soluzione strutturale online di un player?",
+      "answerOptions": [
+        {
+          "text": "La storia, la mission e la cultura organizzativa.",
+          "isCorrect": true,
+          "rationale": "Il modo in cui un'azienda decide di stare online dipende profondamente dalla sua identità e dai suoi valori consolidati."
+        },
+        {
+          "text": "La distanza in chilometri tra il CEO e il server.",
+          "isCorrect": false,
+          "rationale": "La posizione fisica dei server è un dettaglio tecnico irrilevante per la scelta della strategia strutturale."
+        },
+        {
+          "text": "Il numero di sedie presenti negli uffici.",
+          "isCorrect": false,
+          "rationale": "Si tratta di un dato logistico interno che non ha alcun impatto sulla strategia digitale di mercato."
+        },
+        {
+          "text": "Il meteo locale del giorno in cui viene lanciato il sito.",
+          "isCorrect": false,
+          "rationale": "Le condizioni meteorologiche non sono un driver strategico per definire l'assetto strutturale digitale."
+        }
+      ],
+      "hint": "Cerca elementi legati all'identità profonda dell'azienda."
+    },
+    {
+      "question": "Nel digital marketing, l'approccio 'Omnicanale' è tipico di quale livello?",
+      "answerOptions": [
+        {
+          "text": "Livello Strategico",
+          "isCorrect": true,
+          "rationale": "L'omnicanalità richiede una strategia definita per integrare i punti di contatto fisici e digitali in modo coerente."
+        },
+        {
+          "text": "Livello Tattico",
+          "isCorrect": false,
+          "rationale": "Il livello tattico vede i canali come separati e spesso usa il web solo come vetrina senza integrazione."
+        },
+        {
+          "text": "Livello Offline Puro",
+          "isCorrect": false,
+          "rationale": "Per definizione, l'omnicanalità include il canale digitale, quindi non può essere 'offline puro'."
+        },
+        {
+          "text": "Livello Amatoriale",
+          "isCorrect": false,
+          "rationale": "L'omnicanalità è una configurazione complessa e professionale, non amatoriale."
+        }
+      ],
+      "hint": "È il livello intermedio della piramide, dove si iniziano a unire i mondi online e offline."
+    },
+    {
+      "question": "Il sito 'YourMurano' viene presentato come esempio per quale obiettivo?",
+      "answerOptions": [
+        {
+          "text": "L'internazionalizzazione delle Piccole e Medie Imprese (PMI).",
+          "isCorrect": true,
+          "rationale": "L'e-commerce permette anche a realtà locali di nicchia di raggiungere mercati globali in modo efficiente."
+        },
+        {
+          "text": "La chiusura dei forni artistici a Murano.",
+          "isCorrect": false,
+          "rationale": "Al contrario, il digitale aiuta a sostenere queste attività permettendo loro di vendere ovunque."
+        },
+        {
+          "text": "L'uso esclusivo della realtà aumentata per i vasi.",
+          "isCorrect": false,
+          "rationale": "Sebbene possibile, l'esempio principale riguarda la capacità di vendere all'estero (e-trade)."
+        },
+        {
+          "text": "La vendita di prodotti industriali di massa.",
+          "isCorrect": false,
+          "rationale": "I prodotti di Murano sono artigianali e di lusso, non prodotti industriali standardizzati."
+        }
+      ],
+      "hint": "Pensa alla capacità di un artigiano veneziano di vendere i suoi vasi in tutto il mondo grazie al web."
+    },
+    {
+      "question": "Perché la 'prospettiva relazionale con il cliente' deve essere interattiva nell'e-business?",
+      "answerOptions": [
+        {
+          "text": "Per permettere uno scambio bidirezionale di valore e informazioni.",
+          "isCorrect": true,
+          "rationale": "Il digitale abbatte la barriera della comunicazione unidirezionale, permettendo al cliente di partecipare e rispondere."
+        },
+        {
+          "text": "Per obbligare il cliente a rispondere a sondaggi ogni ora.",
+          "isCorrect": false,
+          "rationale": "L'interattività non deve essere coercitiva, ma finalizzata a migliorare l'esperienza e la relazione."
+        },
+        {
+          "text": "Perché le email sono più costose dei francobolli.",
+          "isCorrect": false,
+          "rationale": "Questo non è vero (il digitale riduce i costi di invio) e non spiega il valore dell'interattività."
+        },
+        {
+          "text": "Per evitare che il cliente veda il prodotto fisico.",
+          "isCorrect": false,
+          "rationale": "L'interattività spesso serve proprio a mostrare meglio il prodotto tramite video, chat o recensioni."
+        }
+      ],
+      "hint": "Pensa al passaggio dal 'monologo' aziendale al 'dialogo' con il mercato."
+    }
+  ]
+}

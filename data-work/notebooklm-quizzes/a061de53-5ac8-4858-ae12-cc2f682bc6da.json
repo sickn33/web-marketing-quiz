@@ -1,0 +1,775 @@
+{
+  "title": "Marketing Quiz",
+  "questions": [
+    {
+      "question": "Qual è la definizione corretta di 'Buyer Persona' secondo il materiale fornito?",
+      "answerOptions": [
+        {
+          "text": "Una caratterizzazione romanzata del cliente ideale basata su dati reali e modalità d'uso del prodotto.",
+          "isCorrect": true,
+          "rationale": "Le personas sono descrizioni fittizie ma basate su informazioni concrete riguardanti i migliori clienti e il loro comportamento d'acquisto."
+        },
+        {
+          "text": "Un database quantitativo di tutti i clienti che hanno effettuato almeno un acquisto nell'ultimo anno.",
+          "isCorrect": false,
+          "rationale": "Questa definizione si riferisce a un archivio transazionale, mentre la persona è un profilo qualitativo e fittizio."
+        },
+        {
+          "text": "Una strategia di marketing di massa che ignora le differenze individuali per massimizzare la portata.",
+          "isCorrect": false,
+          "rationale": "Le personas nascono proprio per superare il marketing di massa, focalizzandosi sui singoli segmenti e necessità."
+        },
+        {
+          "text": "Un testimonial reale utilizzato nelle campagne pubblicitarie per aumentare la fiducia nel brand.",
+          "isCorrect": false,
+          "rationale": "Le personas sono archetipi fittizi usati internamente dall'azienda, non necessariamente testimonial reali rivolti al pubblico."
+        }
+      ],
+      "hint": "Considera se il profilo creato è una persona reale o una rappresentazione ideale basata sui dati."
+    },
+    {
+      "question": "Nel 'Consumer Decision Journey', cosa accade durante la fase di 'Active Evaluation'?",
+      "answerOptions": [
+        {
+          "text": "Il consumatore raccoglie informazioni e confronta diversi brand aggiungendone o eliminandone alcuni.",
+          "isCorrect": true,
+          "rationale": "In questa fase, il processo è dinamico e il consumatore valuta attivamente le opzioni disponibili prima dell'acquisto."
+        },
+        {
+          "text": "Il consumatore acquista immediatamente il primo prodotto che vede per risparmiare tempo.",
+          "isCorrect": false,
+          "rationale": "L'acquisto immediato salterebbe la fase di valutazione attiva che è invece caratterizzata dalla ricerca di informazioni."
+        },
+        {
+          "text": "Il brand elimina automaticamente tutti i concorrenti senza che il consumatore intervenga.",
+          "isCorrect": false,
+          "rationale": "È il consumatore a selezionare o scartare i brand durante la valutazione, non un processo automatico del brand."
+        },
+        {
+          "text": "Il consumatore smette di considerare il prodotto e abbandona definitivamente il percorso.",
+          "isCorrect": false,
+          "rationale": "Sebbene possibile, l'active evaluation è finalizzata alla scelta, non necessariamente all'abbandono del percorso."
+        }
+      ],
+      "hint": "Pensa al momento in cui un acquirente fa shopping comparativo o legge recensioni."
+    },
+    {
+      "question": "Cos'è il 'Disconfirmation Paradigm' nell'ambito della soddisfazione del cliente?",
+      "answerOptions": [
+        {
+          "text": "La soddisfazione derivante dal confronto tra le prestazioni reali del prodotto e le aspettative del cliente.",
+          "isCorrect": true,
+          "rationale": "Questo paradigma spiega che la soddisfazione nasce quando la performance del prodotto conferma o supera quanto il cliente si aspettava."
+        },
+        {
+          "text": "L'atto di ignorare le lamentele dei clienti per mantenere un'immagine pubblica positiva.",
+          "isCorrect": false,
+          "rationale": "Il paradigma riguarda la psicologia della percezione del valore, non la gestione delle relazioni pubbliche."
+        },
+        {
+          "text": "Un metodo per convincere i clienti che i difetti del prodotto sono in realtà dei vantaggi.",
+          "isCorrect": false,
+          "rationale": "Questa sarebbe una tattica di manipolazione, mentre il paradigma analizza oggettivamente il divario tra aspettativa e realtà."
+        },
+        {
+          "text": "La fase in cui il cliente dimentica completamente il brand subito dopo l'acquisto.",
+          "isCorrect": false,
+          "rationale": "Il paradigma si focalizza sulla valutazione post-acquisto, non sulla perdita di memoria del consumatore."
+        }
+      ],
+      "hint": "Si focalizza sulla discrepanza tra ciò che si pensava di ottenere e ciò che si è effettivamente ottenuto."
+    },
+    {
+      "question": "Perché l'approccio 'Customer Centric' preferisce le personas rispetto ai mercati target di massa?",
+      "answerOptions": [
+        {
+          "text": "Perché aiutano a progettare soluzioni che risolvono i problemi dei clienti invece di quelli dell'azienda.",
+          "isCorrect": true,
+          "rationale": "La centralità del cliente implica guardare il prodotto dal punto di vista dell'utente e delle sue necessità specifiche."
+        },
+        {
+          "text": "Perché creare una persona è più economico rispetto a condurre ricerche di mercato su larga scala.",
+          "isCorrect": false,
+          "rationale": "La creazione di personas accurate richiede spesso ricerche approfondite e non è necessariamente una scelta di risparmio economico."
+        },
+        {
+          "text": "Perché le personas permettono di vendere lo stesso identico messaggio a chiunque.",
+          "isCorrect": false,
+          "rationale": "Al contrario, le personas servono proprio per personalizzare e differenziare i messaggi di marketing."
+        },
+        {
+          "text": "Perché i mercati di massa non esistono più nell'era digitale.",
+          "isCorrect": false,
+          "rationale": "I mercati di massa esistono ancora, ma l'approccio customer centric sceglie deliberatamente una granularità maggiore."
+        }
+      ],
+      "hint": "Rifletti sulla differenza tra focus sul prodotto (business) e focus sull'utente (customer)."
+    },
+    {
+      "question": "Secondo il materiale, in che modo i marketer possono influenzare il processo decisionale del consumatore?",
+      "answerOptions": [
+        {
+          "text": "Possono 'interrompere' il processo entrando nel set di considerazione e forzando l'uscita dei rivali.",
+          "isCorrect": true,
+          "rationale": "Attraverso touchpoint strategici, un brand può inserirsi nella mente del consumatore anche se inizialmente non era considerato."
+        },
+        {
+          "text": "Possono solo osservare passivamente le scelte del consumatore senza intervenire.",
+          "isCorrect": false,
+          "rationale": "Il marketing moderno è proattivo e cerca di creare impatto in vari punti del percorso d'acquisto."
+        },
+        {
+          "text": "Possono garantire che una volta scelti, rimarranno per sempre l'unica opzione possibile.",
+          "isCorrect": false,
+          "rationale": "Il materiale specifica che lo status di brand 'sotto considerazione' non può mai essere dato per scontato."
+        },
+        {
+          "text": "Possono manipolare i desideri dei clienti in modo che non valutino mai i prezzi.",
+          "isCorrect": false,
+          "rationale": "La valutazione dei prezzi fa parte dell'active evaluation ed è un comportamento naturale che il marketing non può eliminare."
+        }
+      ],
+      "hint": "Cerca il concetto legato alla capacità di inserire un brand in una fase avanzata della valutazione."
+    },
+    {
+      "question": "Quale tra questi elementi fa parte delle caratteristiche 'Psicografiche' nella costruzione di una persona?",
+      "answerOptions": [
+        {
+          "text": "Attitudini, credenze e personalità.",
+          "isCorrect": true,
+          "rationale": "Le psicografiche riguardano gli aspetti psicologici e interiori che guidano il comportamento, distinti dai dati demografici."
+        },
+        {
+          "text": "Età, genere e livello di reddito.",
+          "isCorrect": false,
+          "rationale": "Questi sono dati demografici classici, non psicografici."
+        },
+        {
+          "text": "Indirizzo di residenza e cronologia degli spostamenti.",
+          "isCorrect": false,
+          "rationale": "Questi sono dati geografici o logistici."
+        },
+        {
+          "text": "Specifiche tecniche dell'hardware utilizzato dall'utente.",
+          "isCorrect": false,
+          "rationale": "Questi sono dati tecnologici o comportamentali legati al mezzo, non alla psicologia dell'individuo."
+        }
+      ],
+      "hint": "Pensa a ciò che riguarda la mente e i valori della persona, piuttosto che i suoi dati anagrafici."
+    },
+    {
+      "question": "Che cosa rappresenta il 'Loyalty Loop' nel diagramma del Consumer Decision Journey?",
+      "answerOptions": [
+        {
+          "text": "Un percorso abbreviato dove il cliente riacquista saltando le fasi di considerazione e valutazione attiva.",
+          "isCorrect": true,
+          "rationale": "Il loop della fedeltà permette a un cliente soddisfatto di tornare direttamente all'acquisto senza riconsiderare i competitor."
+        },
+        {
+          "text": "Un errore nel sistema che impedisce al cliente di completare l'acquisto.",
+          "isCorrect": false,
+          "rationale": "Il loyalty loop è un obiettivo desiderabile del marketing, non un problema tecnico."
+        },
+        {
+          "text": "La fase in cui il cliente è costretto per contratto a comprare solo da un fornitore.",
+          "isCorrect": false,
+          "rationale": "La fedeltà nel marketing si basa solitamente sulla soddisfazione e l'esperienza, non sulla coercizione contrattuale."
+        },
+        {
+          "text": "Il momento in cui il cliente smette di usare il prodotto e chiede un rimborso.",
+          "isCorrect": false,
+          "rationale": "Questa sarebbe una fase di insoddisfazione, l'opposto del loop di fedeltà."
+        }
+      ],
+      "hint": "Immagina un cliente che si fida talmente tanto di una marca da non guardare più altrove."
+    },
+    {
+      "question": "In merito alla costruzione delle personas, cosa s'intende per 'Objections'?",
+      "answerOptions": [
+        {
+          "text": "I motivi per cui un potenziale cliente potrebbe decidere di non acquistare il prodotto.",
+          "isCorrect": true,
+          "rationale": "Comprendere le barriere all'acquisto è fondamentale per superarle attraverso la comunicazione e il design del servizio."
+        },
+        {
+          "text": "Le procedure legali necessarie per registrare un nuovo marchio.",
+          "isCorrect": false,
+          "rationale": "Le obiezioni nelle personas riguardano la psicologia del cliente, non gli aspetti burocratici aziendali."
+        },
+        {
+          "text": "I reclami scritti inviati al servizio clienti dopo la rottura di un oggetto.",
+          "isCorrect": false,
+          "rationale": "Sebbene siano obiezioni, nel contesto delle personas ci si riferisce ai dubbi pre-acquisto o ai freni psicologici."
+        },
+        {
+          "text": "La concorrenza sleale attuata da altre aziende del settore.",
+          "isCorrect": false,
+          "rationale": "Le obiezioni appartengono alla sfera del cliente tipo, non alle azioni esterne dei competitor."
+        }
+      ],
+      "hint": "Rifletti sui dubbi o sulle paure che impediscono a qualcuno di concludere un ordine."
+    },
+    {
+      "question": "Cosa indica il termine 'Customer Engagement' secondo la definizione di Brodie et al. (2011)?",
+      "answerOptions": [
+        {
+          "text": "Uno stato psicologico che deriva da esperienze interattive e co-creative con un brand.",
+          "isCorrect": true,
+          "rationale": "L'engagement va oltre la transazione economica, abbracciando il coinvolgimento emotivo e collaborativo del cliente."
+        },
+        {
+          "text": "Il numero totale di click ricevuti da un annuncio pubblicitario.",
+          "isCorrect": false,
+          "rationale": "Questa è una metrica di prestazione (CTR), non la definizione psicologica di engagement proposta da Brodie."
+        },
+        {
+          "text": "La firma di un contratto a lungo termine tra azienda e fornitore.",
+          "isCorrect": false,
+          "rationale": "L'engagement descritto riguarda la relazione con il consumatore finale, non i contratti B2B."
+        },
+        {
+          "text": "L'obbligo del cliente di condividere i post dell'azienda sui propri social.",
+          "isCorrect": false,
+          "rationale": "L'engagement è uno stato psicologico spontaneo, non un obbligo imposto dall'azienda."
+        }
+      ],
+      "hint": "Cerca un concetto legato alla psicologia e alla collaborazione interattiva tra utente e marca."
+    },
+    {
+      "question": "Nella slide dedicata all'engagement positivo e negativo, come vengono definiti i clienti oggi?",
+      "answerOptions": [
+        {
+          "text": "Co-produttori attivi di valore o distruttori di valore per le imprese.",
+          "isCorrect": true,
+          "rationale": "Grazie ai social media, i clienti possono amplificare il valore di un brand o danneggiarlo significativamente con le loro azioni."
+        },
+        {
+          "text": "Soggetti passivi che ricevono informazioni senza possibilità di replica.",
+          "isCorrect": false,
+          "rationale": "Questa visione appartiene al marketing tradizionale pre-digitale, non alla rivoluzione dei social media descritta."
+        },
+        {
+          "text": "Dipendenti esterni che lavorano gratuitamente per il dipartimento marketing.",
+          "isCorrect": false,
+          "rationale": "Sebbene creino valore, i clienti rimangono consumatori e non vengono considerati dipendenti in senso stretto."
+        },
+        {
+          "text": "Esclusivamente consumatori di risorse che non influenzano gli altri acquirenti.",
+          "isCorrect": false,
+          "rationale": "L'engagement sottolinea proprio l'influenza reciproca tra i clienti e la comunità."
+        }
+      ],
+      "hint": "Pensa al potere che un utente ha di scrivere una recensione eccellente o una critica feroce."
+    },
+    {
+      "question": "Nell'esempio della persona 'Steve, 47', quali sono i suoi canali di comunicazione preferiti?",
+      "answerOptions": [
+        {
+          "text": "Email, incontri di persona, LinkedIn e Twitter.",
+          "isCorrect": true,
+          "rationale": "Steve è un profilo professionale che predilige strumenti diretti e social network orientati al business o all'informazione."
+        },
+        {
+          "text": "TikTok, Instagram e messaggi vocali su WhatsApp.",
+          "isCorrect": false,
+          "rationale": "Questi canali non sono menzionati nel profilo di Steve, che è un CEO di una grande azienda finanziaria."
+        },
+        {
+          "text": "Esclusivamente lettere cartacee e fax.",
+          "isCorrect": false,
+          "rationale": "Nonostante l'età, Steve è descritto come un innovatore che usa piattaforme digitali moderne come LinkedIn."
+        },
+        {
+          "text": "Televisione e radio generalista.",
+          "isCorrect": false,
+          "rationale": "Steve legge pubblicazioni economiche e frequenta conferenze, mostrando un consumo di media molto specifico."
+        }
+      ],
+      "hint": "Cerca i social network e i metodi professionali citati nella sua scheda profilo."
+    },
+    {
+      "question": "Cosa si intende per 'Trigger' nel grafico del Consumer Decision Journey?",
+      "answerOptions": [
+        {
+          "text": "L'evento o lo stimolo che avvia il processo decisionale del consumatore.",
+          "isCorrect": true,
+          "rationale": "Senza un trigger (bisogno o desiderio improvviso), il consumatore non inizierebbe nemmeno a considerare un acquisto."
+        },
+        {
+          "text": "L'ultima fase del pagamento dove viene inserito il codice della carta.",
+          "isCorrect": false,
+          "rationale": "Quello è il 'Moment of purchase', mentre il trigger è l'inizio del percorso."
+        },
+        {
+          "text": "Un errore nel software che blocca il carrello online.",
+          "isCorrect": false,
+          "rationale": "Nel marketing, il trigger ha una connotazione strategica legata alla motivazione dell'utente."
+        },
+        {
+          "text": "La disdetta di un abbonamento da parte del cliente.",
+          "isCorrect": false,
+          "rationale": "La disdetta è un'azione finale, mentre il trigger è solitamente un'azione iniziale."
+        }
+      ],
+      "hint": "Pensa alla 'scintilla' o alla motivazione che fa nascere il desiderio di comprare qualcosa."
+    },
+    {
+      "question": "Per la persona 'Steve', qual è un elemento fondamentale che NON vuole?",
+      "answerOptions": [
+        {
+          "text": "Pagare commissioni elevate.",
+          "isCorrect": true,
+          "rationale": "Dalla scheda di Steve emerge che, nonostante l'alto reddito, dà importanza al valore per il denaro e detesta le fee eccessive."
+        },
+        {
+          "text": "Ricevere assistenza tecnica qualificata.",
+          "isCorrect": false,
+          "rationale": "Al contrario, Steve ritiene molto importante la dimensione e l'expertise del team di servizio."
+        },
+        {
+          "text": "Utilizzare strumenti tecnologici innovativi.",
+          "isCorrect": false,
+          "rationale": "Steve è descritto esplicitamente come un innovatore che non ha paura di rischiare."
+        },
+        {
+          "text": "Leggere recensioni di altri professionisti.",
+          "isCorrect": false,
+          "rationale": "Nella sezione 'What he wants to know' sono incluse le testimonianze, che sono forme di recensione."
+        }
+      ],
+      "hint": "Controlla la sezione con il simbolo del divieto (rosso) nella sua scheda profilo."
+    },
+    {
+      "question": "Quale vantaggio offre alle aziende capire cosa i clienti 'sperano' o 'si aspettano'?",
+      "answerOptions": [
+        {
+          "text": "Permette di personalizzare le campagne di marketing per parlare direttamente ai diversi segmenti.",
+          "isCorrect": true,
+          "rationale": "Conoscere i desideri profondi consente di creare messaggi più efficaci e risonanti per ogni specifica persona."
+        },
+        {
+          "text": "Consente di aumentare i prezzi senza che il cliente se ne accorga.",
+          "isCorrect": false,
+          "rationale": "Le personas servono per migliorare la comunicazione e il valore, non per ingannare sul prezzo."
+        },
+        {
+          "text": "Garantisce il monopolio assoluto del mercato.",
+          "isCorrect": false,
+          "rationale": "Nessuna strategia di personas può garantire da sola l'eliminazione totale della concorrenza."
+        },
+        {
+          "text": "Serve a eliminare la necessità di avere un ufficio vendite.",
+          "isCorrect": false,
+          "rationale": "Le personas aiutano l'ufficio vendite a lavorare meglio, non lo sostituiscono."
+        }
+      ],
+      "hint": "Rifletti su come le informazioni psicologiche influenzano la creazione dei messaggi pubblicitari."
+    },
+    {
+      "question": "Nel contesto del 'Building Personas', cosa si intende per 'Communication Preferences'?",
+      "answerOptions": [
+        {
+          "text": "Determinare se il cliente preferisce comunicare via testo, email o telefono.",
+          "isCorrect": true,
+          "rationale": "Scegliere il canale preferito dall'utente aumenta drasticamente le possibilità di successo della comunicazione aziendale."
+        },
+        {
+          "text": "La lingua straniera che il cliente parla correttamente.",
+          "isCorrect": false,
+          "rationale": "La lingua è un dato basilare, mentre le preferenze riguardano le modalità e i canali di interazione."
+        },
+        {
+          "text": "Il numero di cellulare privato del cliente.",
+          "isCorrect": false,
+          "rationale": "Le preferenze riguardano il 'come' e il 'dove', non solo il possesso di un dato di contatto."
+        },
+        {
+          "text": "La velocità della connessione internet dell'utente.",
+          "isCorrect": false,
+          "rationale": "Questo è un limite tecnico, non una preferenza di stile comunicativo."
+        }
+      ],
+      "hint": "Pensa alla scelta tra ricevere una telefonata commerciale o un'email informativa."
+    },
+    {
+      "question": "Vero o Falso: Le Buyer Personas sono basate esclusivamente sull'immaginazione del team di marketing senza dati reali.",
+      "answerOptions": [
+        {
+          "text": "Falso",
+          "isCorrect": true,
+          "rationale": "Le personas sono 'fictionalized' (romanzate) ma devono essere basate su informazioni reali e dati riguardanti i clienti."
+        },
+        {
+          "text": "Vero",
+          "isCorrect": false,
+          "rationale": "Se fossero basate solo sull'immaginazione, sarebbero stereotipi inefficaci e non strumenti di marketing strategico."
+        }
+      ],
+      "hint": "Ricorda che il materiale menziona che la caratterizzazione si basa su 'informazioni su di loro'."
+    },
+    {
+      "question": "In quale fase del Consumer Decision Journey l'esposizione continua (ongoing exposure) diventa cruciale?",
+      "answerOptions": [
+        {
+          "text": "Postpurchase experience",
+          "isCorrect": true,
+          "rationale": "Dopo l'acquisto, l'utente continua a interagire con il brand, influenzando le sue aspettative per il viaggio successivo."
+        },
+        {
+          "text": "Trigger",
+          "isCorrect": false,
+          "rationale": "Il trigger è un evento puntuale, mentre l'ongoing exposure è un processo prolungato nel tempo."
+        },
+        {
+          "text": "Moment of purchase",
+          "isCorrect": false,
+          "rationale": "L'acquisto è l'atto finale della transazione, non la fase di esposizione continua post-vendita."
+        },
+        {
+          "text": "Initial consideration set",
+          "isCorrect": false,
+          "rationale": "In questa fase l'esposizione è basata sulle percezioni pregresse, ma non è la fase di esperienza post-acquisto."
+        }
+      ],
+      "hint": "Guarda la parte inferiore del diagramma circolare del Journey."
+    },
+    {
+      "question": "Quale di queste domande aiuta a definire il 'Primary Purpose' per cui un cliente ha comprato il prodotto?",
+      "answerOptions": [
+        {
+          "text": "Perché hanno comprato il tuo prodotto?",
+          "isCorrect": true,
+          "rationale": "Identificare il motivo principale (il 'perché') permette di capire quale problema il cliente sta cercando di risolvere."
+        },
+        {
+          "text": "Quanto hanno pagato per il prodotto?",
+          "isCorrect": false,
+          "rationale": "Il prezzo pagato non spiega lo scopo o la motivazione profonda dell'acquisto."
+        },
+        {
+          "text": "In che giorno della settimana hanno acquistato?",
+          "isCorrect": false,
+          "rationale": "La tempistica dell'acquisto è un dato logistico, non legato allo scopo primario d'uso."
+        },
+        {
+          "text": "Che tipo di imballaggio preferiscono?",
+          "isCorrect": false,
+          "rationale": "L'imballaggio è un dettaglio estetico o funzionale secondario rispetto allo scopo d'uso del prodotto stesso."
+        }
+      ],
+      "hint": "Cerca la motivazione d'acquisto che risponde al bisogno fondamentale dell'utente."
+    },
+    {
+      "question": "Nella sezione 'How your product is used', cosa è più importante analizzare per la persona?",
+      "answerOptions": [
+        {
+          "text": "Quali funzioni sono più importanti per loro.",
+          "isCorrect": true,
+          "rationale": "Sapere quali feature vengono effettivamente usate permette di ottimizzare il prodotto e la comunicazione su quelle specifiche aree."
+        },
+        {
+          "text": "Il numero di volte che aprono la scatola ogni giorno.",
+          "isCorrect": false,
+          "rationale": "Questo dato è troppo granulare e spesso irrilevante rispetto alla comprensione delle funzioni chiave."
+        },
+        {
+          "text": "Se il prodotto viene prestato ad amici o parenti.",
+          "isCorrect": false,
+          "rationale": "Sebbene interessante, non è il focus principale del 'come' viene usato il prodotto dalla persona stessa."
+        },
+        {
+          "text": "Il colore dei pulsanti che premono più spesso.",
+          "isCorrect": false,
+          "rationale": "Questo è un dettaglio di UI/UX, mentre il marketing si concentra sulla funzione e sul beneficio percepito."
+        }
+      ],
+      "hint": "Considera l'utilità pratica e il valore che l'utente trae dalle caratteristiche del prodotto."
+    },
+    {
+      "question": "Perché è importante sapere 'Dove' (Where) il cliente compra il prodotto?",
+      "answerOptions": [
+        {
+          "text": "Per capire se preferiscono negozi fisici, online o canali scontati e adattare la distribuzione.",
+          "isCorrect": true,
+          "rationale": "Il luogo d'acquisto definisce l'esperienza del cliente e le strategie di vendita più efficaci per quel segmento."
+        },
+        {
+          "text": "Per controllare se il cliente sta violando le regole di zona.",
+          "isCorrect": false,
+          "rationale": "Questa è una funzione di controllo legale, non un obiettivo della creazione di buyer personas."
+        },
+        {
+          "text": "Per inviare agenti di vendita direttamente a casa loro senza preavviso.",
+          "isCorrect": false,
+          "rationale": "Le personas servono per migliorare l'esperienza, non per attuare tattiche di vendita intrusive o moleste."
+        },
+        {
+          "text": "Per sapere quale valuta utilizzano per pagare.",
+          "isCorrect": false,
+          "rationale": "La valuta è un dato tecnico del mercato geografico, non una scelta di canale distributivo."
+        }
+      ],
+      "hint": "Rifletti sulle diverse abitudini di chi ama fare shopping in centro rispetto a chi ordina da uno smartphone."
+    },
+    {
+      "question": "Cosa si intende per 'Customer Delight'?",
+      "answerOptions": [
+        {
+          "text": "Andare oltre la semplice soddisfazione superando le aspettative del cliente.",
+          "isCorrect": true,
+          "rationale": "Il delight (delizia) si ottiene quando la performance del brand eccede ciò che il consumatore riteneva possibile."
+        },
+        {
+          "text": "Offrire un omaggio di basso valore a ogni acquisto.",
+          "isCorrect": false,
+          "rationale": "I gadget non garantiscono il 'delight' se il servizio base non è eccellente o se non c'è una connessione emotiva."
+        },
+        {
+          "text": "Il momento in cui il cliente riceve la fattura via email.",
+          "isCorrect": false,
+          "rationale": "Ricevere una fattura raramente genera 'delizia' o entusiasmo nel cliente."
+        },
+        {
+          "text": "Ridurre il personale del servizio clienti per risparmiare.",
+          "isCorrect": false,
+          "rationale": "Questa azione solitamente diminuisce la soddisfazione e impedisce di raggiungere il customer delight."
+        }
+      ],
+      "hint": "Pensa a un'esperienza talmente positiva da lasciare l'utente piacevolmente sorpreso."
+    },
+    {
+      "question": "Nel profilo di 'Steve', come ha scoperto l'azienda per la prima volta?",
+      "answerOptions": [
+        {
+          "text": "È stato indirizzato da qualcuno di cui si fida.",
+          "isCorrect": true,
+          "rationale": "Per i profili alto-livello come Steve, il passaparola e le raccomandazioni fidate sono canali di acquisizione critici."
+        },
+        {
+          "text": "Tramite un volantino trovato in una cassetta delle lettere.",
+          "isCorrect": false,
+          "rationale": "I volantini non sono canali coerenti con un CEO di un'azienda da 85 milioni di euro."
+        },
+        {
+          "text": "Cliccando per errore su un pop-up pubblicitario.",
+          "isCorrect": false,
+          "rationale": "Steve viene descritto come uno che cerca informazioni per ricerca, non per caso o errore."
+        },
+        {
+          "text": "Attraverso un annuncio radiofonico locale.",
+          "isCorrect": false,
+          "rationale": "Il profilo di Steve suggerisce canali più professionali e digitali o legati al network personale."
+        }
+      ],
+      "hint": "Cerca il punto relativo a 'How he finds us' nella scheda di Steve."
+    },
+    {
+      "question": "Quale delle seguenti è una domanda chiave per capire le 'Solutions' fornite dal prodotto?",
+      "answerOptions": [
+        {
+          "text": "In che modo il prodotto migliora la loro vita o quali sfide risolve?",
+          "isCorrect": true,
+          "rationale": "Le persone non comprano prodotti, comprano soluzioni ai loro problemi o miglioramenti per la loro condizione."
+        },
+        {
+          "text": "Di quali materiali chimici è composto il prodotto?",
+          "isCorrect": false,
+          "rationale": "Questa è una domanda sulla produzione, non sui benefici o sulle soluzioni per l'utente."
+        },
+        {
+          "text": "Quanto tempo ha impiegato il corriere per la consegna?",
+          "isCorrect": false,
+          "rationale": "Questa è una valutazione del servizio logistico, non della soluzione offerta dal prodotto stesso."
+        },
+        {
+          "text": "Qual è il nome del CEO dell'azienda che vende il prodotto?",
+          "isCorrect": false,
+          "rationale": "Conoscere il CEO raramente rappresenta la soluzione a una sfida quotidiana del cliente."
+        }
+      ],
+      "hint": "Focalizzati sul valore aggiunto e sul cambiamento positivo che il prodotto porta all'utente."
+    },
+    {
+      "question": "In che modo la rivoluzione dei social media ha cambiato l'engagement secondo le slide?",
+      "answerOptions": [
+        {
+          "text": "Ha rafforzato l'importanza del comportamento di engagement dei clienti.",
+          "isCorrect": true,
+          "rationale": "I social media hanno dato voce e potere di diffusione ai consumatori, rendendo il loro coinvolgimento un fattore critico di successo."
+        },
+        {
+          "text": "Ha reso i clienti meno interessati a parlare con i brand.",
+          "isCorrect": false,
+          "rationale": "Al contrario, i social media hanno aumentato le occasioni di dialogo interattivo tra brand e utenti."
+        },
+        {
+          "text": "Ha eliminato la necessità per i brand di avere una reputazione online.",
+          "isCorrect": false,
+          "rationale": "La reputazione online è diventata ancora più vitale proprio a causa della facilità di condivisione sui social."
+        },
+        {
+          "text": "Ha portato alla chiusura di tutti i siti web aziendali.",
+          "isCorrect": false,
+          "rationale": "I siti web rimangono fondamentali, spesso fungendo da destinazione finale dopo l'interazione sui social."
+        }
+      ],
+      "hint": "Pensa a come la facilità di condivisione online influisce sulla relazione azienda-cliente."
+    },
+    {
+      "question": "Cosa significa che un brand 'non può dare per scontato' il proprio status nel set di considerazione?",
+      "answerOptions": [
+        {
+          "text": "Che i concorrenti possono entrare nel set in qualsiasi momento e spodestare i brand esistenti.",
+          "isCorrect": true,
+          "rationale": "Il Consumer Decision Journey moderno è fluido e i consumatori sono costantemente esposti a nuove alternative."
+        },
+        {
+          "text": "Che i clienti dimenticano il nome del brand ogni 24 ore.",
+          "isCorrect": false,
+          "rationale": "Non si tratta di memoria a breve termine, ma di valutazione competitiva durante il percorso d'acquisto."
+        },
+        {
+          "text": "Che il brand deve cambiare nome ogni anno per rimanere rilevante.",
+          "isCorrect": false,
+          "rationale": "La fedeltà si basa sulla coerenza, non sul cambio continuo di identità di marca."
+        },
+        {
+          "text": "Che i prezzi devono essere abbassati ogni giorno per mantenere l'attenzione.",
+          "isCorrect": false,
+          "rationale": "Il prezzo è solo uno dei fattori; il valore complessivo e la presenza nei touchpoint sono altrettanto critici."
+        }
+      ],
+      "hint": "Rifletti sulla natura competitiva del mercato e sulla possibilità di essere sostituiti da una nuova opzione."
+    },
+    {
+      "question": "Quale di questi è un esempio di 'Demographics' nel contesto della creazione di una persona?",
+      "answerOptions": [
+        {
+          "text": "Livello di istruzione.",
+          "isCorrect": true,
+          "rationale": "L'istruzione è un dato socio-demografico standard utilizzato per categorizzare i segmenti di popolazione."
+        },
+        {
+          "text": "Paura di volare.",
+          "isCorrect": false,
+          "rationale": "Questa è una caratteristica psicologica o una fobia, appartenente alle psicografiche."
+        },
+        {
+          "text": "Speranza di vincere alla lotteria.",
+          "isCorrect": false,
+          "rationale": "Questo è un desiderio o una credenza personale, non un dato demografico oggettivo."
+        },
+        {
+          "text": "Preferenza per il cibo vegetariano.",
+          "isCorrect": false,
+          "rationale": "Questo fa parte dello stile di vita o delle attitudini personali (psicografiche)."
+        }
+      ],
+      "hint": "Cerca un dato statistico sulla popolazione spesso richiesto nei censimenti."
+    },
+    {
+      "question": "Cosa vuole sapere Steve prima di scegliere un partner lavorativo?",
+      "answerOptions": [
+        {
+          "text": "Ultimi progetti, expertise, testimonianze e premi.",
+          "isCorrect": true,
+          "rationale": "Questi elementi servono a Steve per validare la competenza e l'affidabilità del potenziale partner."
+        },
+        {
+          "text": "Il colore dell'arredamento degli uffici del partner.",
+          "isCorrect": false,
+          "rationale": "Sebbene l'immagine conti, non è tra i dati prioritari elencati nel profilo di Steve per la scelta strategica."
+        },
+        {
+          "text": "L'albero genealogico del fondatore dell'azienda.",
+          "isCorrect": false,
+          "rationale": "Steve è un innovatore pragmatico interessato ai risultati e all'expertise, non alla genealogia."
+        },
+        {
+          "text": "Quali canali televisivi guarda lo staff del partner.",
+          "isCorrect": false,
+          "rationale": "Questo dato è irrilevante per la decisione d'acquisto professionale di un CEO finanziario."
+        }
+      ],
+      "hint": "Controlla il riquadro 'What he wants to know' nel profilo di Steve."
+    },
+    {
+      "question": "Perché le personas vengono descritte come aventi nomi corrispondenti al tipo di acquirente?",
+      "answerOptions": [
+        {
+          "text": "Per rendere le descrizioni più umane e memorabili per il team che deve usarle.",
+          "isCorrect": true,
+          "rationale": "Dare un nome e un volto a un segmento aiuta i dipendenti a immedesimarsi meglio nel cliente e nelle sue necessità."
+        },
+        {
+          "text": "Perché è obbligatorio per legge dare un nome proprio a ogni segmento di mercato.",
+          "isCorrect": false,
+          "rationale": "Non esiste alcun obbligo legale; è puramente una best practice metodologica del marketing."
+        },
+        {
+          "text": "Per confondere le spie industriali che cercano di rubare i dati dei clienti.",
+          "isCorrect": false,
+          "rationale": "L'obiettivo è la chiarezza interna, non l'offuscamento verso l'esterno."
+        },
+        {
+          "text": "Perché ogni persona rappresenta un singolo individuo reale realmente esistente.",
+          "isCorrect": false,
+          "rationale": "Le personas rappresentano dei gruppi o segmenti (mirror various market segments), non singole persone reali."
+        }
+      ],
+      "hint": "Pensa all'utilità di parlare di 'Steve' invece di parlare del 'Segmento A24 CEO finanziari'."
+    },
+    {
+      "question": "Quale ruolo ha la 'Postpurchase Experience' nel determinare il viaggio decisionale successivo?",
+      "answerOptions": [
+        {
+          "text": "Il consumatore crea aspettative basate sull'esperienza per informare il prossimo percorso decisionale.",
+          "isCorrect": true,
+          "rationale": "L'esperienza d'uso del prodotto è il feedback principale che condizionerà se il cliente tornerà o meno dal brand."
+        },
+        {
+          "text": "Non ha alcun ruolo, poiché il viaggio termina nel momento dell'acquisto.",
+          "isCorrect": false,
+          "rationale": "Il modello è circolare; l'acquisto è solo una fase e il post-vendita è essenziale per la fedeltà."
+        },
+        {
+          "text": "Serve solo a raccogliere dati per inviare più pubblicità indesiderata.",
+          "isCorrect": false,
+          "rationale": "Lo scopo strategico è costruire una relazione e gestire le aspettative, non solo fare spam."
+        },
+        {
+          "text": "Consiste esclusivamente nel processo di restituzione del prodotto difettoso.",
+          "isCorrect": false,
+          "rationale": "Include tutte le interazioni post-acquisto, dall'uso quotidiano al supporto, non solo i resi."
+        }
+      ],
+      "hint": "Considera come ciò che provi dopo aver comprato un telefono influenzi la tua scelta del prossimo modello."
+    },
+    {
+      "question": "Secondo le slide, le personas aiutano le aziende a progettare soluzioni per risolvere i problemi di chi?",
+      "answerOptions": [
+        {
+          "text": "Dei clienti.",
+          "isCorrect": true,
+          "rationale": "Il focus del design thinking e del marketing moderno è risolvere i 'pain points' degli utenti finali."
+        },
+        {
+          "text": "Degli azionisti.",
+          "isCorrect": false,
+          "rationale": "Risolvere i problemi degli azionisti è un obiettivo finanziario, ma le personas servono per l'efficacia operativa sul mercato."
+        },
+        {
+          "text": "Del governo.",
+          "isCorrect": false,
+          "rationale": "Il marketing aziendale non ha come obiettivo primario la risoluzione dei problemi governativi tramite le personas."
+        },
+        {
+          "text": "Del dipartimento Risorse Umane.",
+          "isCorrect": false,
+          "rationale": "Sebbene possano essere utili indirettamente, le buyer personas sono strumenti rivolti al mercato (clienti)."
+        }
+      ],
+      "hint": "Rifletti sulla frase 'design solutions that solve customer problems vs solutions that solve the businesses problems'."
+    }
+  ]
+}

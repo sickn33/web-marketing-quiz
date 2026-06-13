@@ -1,0 +1,785 @@
+{
+  "title": "Marketing Quiz",
+  "questions": [
+    {
+      "question": "Qual è il focus principale di un approccio strategico di content marketing?",
+      "answerOptions": [
+        {
+          "text": "La creazione e distribuzione di contenuti di valore, pertinenti e coerenti.",
+          "isCorrect": true,
+          "rationale": "Il content marketing si distingue per l'enfasi sulla qualità e la pertinenza del contenuto per un pubblico specifico."
+        },
+        {
+          "text": "L'invio massivo di email promozionali a database non profilati.",
+          "isCorrect": false,
+          "rationale": "Questa pratica è considerata spam o marketing invasivo, l'opposto della strategia basata sul valore del content marketing."
+        },
+        {
+          "text": "La produzione esclusiva di contenuti virali senza obiettivi di business.",
+          "isCorrect": false,
+          "rationale": "Sebbene la viralità sia positiva, il content marketing deve sempre essere guidato da obiettivi di business profittevoli."
+        },
+        {
+          "text": "L'acquisto di spazi pubblicitari sui media tradizionali per messaggi diretti.",
+          "isCorrect": false,
+          "rationale": "Questa è la definizione di pubblicità tradizionale, che si concentra su messaggi promozionali a breve termine."
+        }
+      ],
+      "hint": "Pensa agli attributi necessari affinché un contenuto sia considerato utile per l'utente."
+    },
+    {
+      "question": "Secondo il materiale, qual è l'obiettivo ultimo del content marketing?",
+      "answerOptions": [
+        {
+          "text": "Guidare azioni profittevoli dei clienti.",
+          "isCorrect": true,
+          "rationale": "Il fine ultimo di ogni strategia di marketing aziendale è generare un ritorno economico o un'azione di valore."
+        },
+        {
+          "text": "Aumentare il numero di follower sui social senza conversioni.",
+          "isCorrect": false,
+          "rationale": "Le metriche di vanità come i follower sono secondarie rispetto alla generazione di profitti o azioni concrete."
+        },
+        {
+          "text": "Sostituire completamente la forza vendita dell'azienda.",
+          "isCorrect": false,
+          "rationale": "Il content marketing supporta il processo di vendita ma non è concepito per eliminare la necessità di venditori."
+        },
+        {
+          "text": "Disturbare il pubblico con messaggi invadenti.",
+          "isCorrect": false,
+          "rationale": "L'approccio del content marketing mira a costruire relazioni, non a risultare fastidioso come la pubblicità tradizionale."
+        }
+      ],
+      "hint": "Rifletti sul motivo per cui un'azienda investe risorse in una strategia di comunicazione."
+    },
+    {
+      "question": "In termini di orizzonte temporale, come si differenzia il content marketing dalla pubblicità tradizionale?",
+      "answerOptions": [
+        {
+          "text": "Ha un approccio a lungo termine per costruire relazioni.",
+          "isCorrect": true,
+          "rationale": "Il content marketing richiede tempo per stabilire fiducia e autorità, puntando sulla fidelizzazione duratura."
+        },
+        {
+          "text": "Si focalizza su risultati immediati e vendite istantanee.",
+          "isCorrect": false,
+          "rationale": "Questo è tipico della pubblicità tradizionale, che cerca di stimolare un acquisto impulsivo a breve termine."
+        },
+        {
+          "text": "Non prevede alcuna pianificazione temporale.",
+          "isCorrect": false,
+          "rationale": "Al contrario, il content marketing richiede una rigorosa pianificazione attraverso il piano editoriale."
+        },
+        {
+          "text": "Cerca solo di catturare l'attenzione per pochi secondi.",
+          "isCorrect": false,
+          "rationale": "Mentre catturare l'attenzione è l'inizio (AIDA), l'obiettivo è mantenere l'interesse nel tempo."
+        }
+      ],
+      "hint": "Considera se la fiducia del brand si costruisce in un attimo o nel corso del tempo."
+    },
+    {
+      "question": "Quale beneficio del content marketing riguarda specificamente il posizionamento sui motori di ricerca?",
+      "answerOptions": [
+        {
+          "text": "Migliorare la SEO e generare traffico sul sito web.",
+          "isCorrect": true,
+          "rationale": "Contenuti di valore e aggiornati sono fondamentali per i motori di ricerca per indicizzare e posizionare meglio un sito."
+        },
+        {
+          "text": "Aumentare il costo per clic delle campagne a pagamento.",
+          "isCorrect": false,
+          "rationale": "Il content marketing mira generalmente a ridurre la dipendenza dai costi pubblicitari aumentando il traffico organico."
+        },
+        {
+          "text": "Eliminare la necessità di avere un sito web aziendale.",
+          "isCorrect": false,
+          "rationale": "Il sito web è spesso l'hub centrale dove il content marketing convoglia il pubblico."
+        },
+        {
+          "text": "Garantire il primo posto su Google senza produrre nuovi contenuti.",
+          "isCorrect": false,
+          "rationale": "La SEO richiede costanza nella produzione di contenuti; non è un risultato statico o garantito a priori."
+        }
+      ],
+      "hint": "Pensa all'acronimo che indica l'ottimizzazione per i motori di ricerca."
+    },
+    {
+      "question": "Nel processo di definizione degli obiettivi, cosa devono essere i traguardi del content marketing?",
+      "answerOptions": [
+        {
+          "text": "Chiari, misurabili e legati agli obiettivi di business complessivi.",
+          "isCorrect": true,
+          "rationale": "Senza metriche misurabili e allineamento aziendale, è impossibile valutare l'efficacia della strategia."
+        },
+        {
+          "text": "Vaghi e generici per permettere flessibilità totale.",
+          "isCorrect": false,
+          "rationale": "Obiettivi vaghi rendono difficile l'analisi dei risultati e la giustificazione degli investimenti."
+        },
+        {
+          "text": "Indipendenti dalla strategia generale dell'azienda.",
+          "isCorrect": false,
+          "rationale": "Il marketing deve sempre supportare la visione e gli obiettivi economici globali dell'organizzazione."
+        },
+        {
+          "text": "Esclusivamente basati sul numero di 'like' ricevuti.",
+          "isCorrect": false,
+          "rationale": "I 'like' sono solo una parte dell'engagement e non riflettono necessariamente il successo commerciale."
+        }
+      ],
+      "hint": "Pensa ai criteri SMART per la definizione di obiettivi efficaci."
+    },
+    {
+      "question": "Cosa si intende per 'Personas' nella fase di identificazione del target?",
+      "answerOptions": [
+        {
+          "text": "Rappresentazioni ideali dei clienti basate su dati e interessi.",
+          "isCorrect": true,
+          "rationale": "Le personas aiutano i marketer a visualizzare e comprendere i bisogni specifici del pubblico reale."
+        },
+        {
+          "text": "L'elenco completo di tutti i dipendenti dell'azienda.",
+          "isCorrect": false,
+          "rationale": "Le personas riguardano il target esterno (clienti), non l'organigramma interno dell'azienda."
+        },
+        {
+          "text": "Celebrità famose utilizzate come testimonial.",
+          "isCorrect": false,
+          "rationale": "Quelli sono influencer o testimonial; le personas sono profili psicografici del cliente tipo."
+        },
+        {
+          "text": "Software automatizzati per la pubblicazione di post.",
+          "isCorrect": false,
+          "rationale": "I software sono strumenti tecnici, mentre le personas sono concetti strategici di marketing."
+        }
+      ],
+      "hint": "Si tratta di creare un profilo semi-fittizio per capire meglio a chi stiamo parlando."
+    },
+    {
+      "question": "Qual è la funzione principale di un piano editoriale (o calendario editoriale)?",
+      "answerOptions": [
+        {
+          "text": "Programmare, coordinare e gestire la creazione e pubblicazione dei contenuti.",
+          "isCorrect": true,
+          "rationale": "Il piano editoriale è lo strumento operativo che garantisce costanza e coerenza nella strategia."
+        },
+        {
+          "text": "Registrare esclusivamente i costi pubblicitari sostenuti.",
+          "isCorrect": false,
+          "rationale": "Il monitoraggio dei costi appartiene al budget, mentre il piano editoriale gestisce i contenuti e il tempo."
+        },
+        {
+          "text": "Cancellare i commenti negativi degli utenti sui social.",
+          "isCorrect": false,
+          "rationale": "La gestione della community è un'attività diversa dalla pianificazione editoriale."
+        },
+        {
+          "text": "Spiare le strategie dei competitor in tempo reale.",
+          "isCorrect": false,
+          "rationale": "Questa è analisi della concorrenza, non pianificazione della propria produzione di contenuti."
+        }
+      ],
+      "hint": "Pensa all'organizzazione temporale necessaria per non dimenticare di pubblicare."
+    },
+    {
+      "question": "Perché è importante adattare i contenuti a ciascun canale di distribuzione?",
+      "answerOptions": [
+        {
+          "text": "Per massimizzare l'impatto e l'engagement specifici di ogni piattaforma.",
+          "isCorrect": true,
+          "rationale": "Ogni canale (blog, social, email) ha linguaggi e comportamenti d'uso degli utenti differenti."
+        },
+        {
+          "text": "Perché pubblicare lo stesso identico file ovunque è tecnicamente impossibile.",
+          "isCorrect": false,
+          "rationale": "È tecnicamente possibile, ma strategicamente inefficace a causa dei diversi formati richiesti."
+        },
+        {
+          "text": "Per confondere il pubblico ed evitare che ci seguano ovunque.",
+          "isCorrect": false,
+          "rationale": "L'obiettivo è la coerenza e il valore, non la confusione dell'utente."
+        },
+        {
+          "text": "Per ridurre drasticamente il tempo di lavoro del team marketing.",
+          "isCorrect": false,
+          "rationale": "L'adattamento richiede in realtà più lavoro, ma porta risultati significativamente migliori."
+        }
+      ],
+      "hint": "Pensa alla differenza tra leggere un articolo su un blog e vedere un post su Instagram."
+    },
+    {
+      "question": "Quale fase del modello AIDA si concentra sulla trasformazione dell'interesse in una preferenza per il prodotto?",
+      "answerOptions": [
+        {
+          "text": "Desiderio (Desire).",
+          "isCorrect": true,
+          "rationale": "In questa fase, l'utente passa dall'essere informato al desiderare specificamente la soluzione offerta."
+        },
+        {
+          "text": "Attenzione (Awareness).",
+          "isCorrect": false,
+          "rationale": "Questa è la prima fase, dove l'utente scopre semplicemente l'esistenza del brand o del problema."
+        },
+        {
+          "text": "Azione (Action).",
+          "isCorrect": false,
+          "rationale": "L'azione è l'atto finale, come l'acquisto o l'iscrizione, che segue il desiderio."
+        },
+        {
+          "text": "Analisi (Analysis).",
+          "isCorrect": false,
+          "rationale": "Il modello AIDA non include una fase chiamata 'Analisi' tra i suoi quattro stadi psicologici classici."
+        }
+      ],
+      "hint": "È la 'D' nell'acronimo AIDA."
+    },
+    {
+      "question": "Cosa comprendono i 'Media Guadagnati' (Earned Media) nel modello PESO?",
+      "answerOptions": [
+        {
+          "text": "Articoli di stampa, recensioni e menzioni ottenute spontaneamente.",
+          "isCorrect": true,
+          "rationale": "Sono contenuti generati da terzi (giornalisti o influencer) grazie alla qualità del brand, non pagati direttamente."
+        },
+        {
+          "text": "Campagne pubblicitarie a pagamento sui social media.",
+          "isCorrect": false,
+          "rationale": "Questi rientrano nei 'Paid Media' (Media Pagati) del modello PESO."
+        },
+        {
+          "text": "Il blog aziendale e i profili social ufficiali.",
+          "isCorrect": false,
+          "rationale": "Questi sono 'Owned Media' (Media di Proprietà), poiché l'azienda ne ha il controllo totale."
+        },
+        {
+          "text": "I post condivisi dagli utenti che criticano il brand.",
+          "isCorrect": false,
+          "rationale": "Sebbene tecnicamente guadagnati, il modello si focalizza solitamente su relazioni e visibilità positive per il business."
+        }
+      ],
+      "hint": "Si tratta della visibilità che ricevi dagli altri senza pagarla direttamente."
+    },
+    {
+      "question": "Qual è la caratteristica distintiva dei contenuti 'Hero' nel framework 3H?",
+      "answerOptions": [
+        {
+          "text": "Sono ad alto impatto, ispirazionali e progettati per catturare l'attenzione globale.",
+          "isCorrect": true,
+          "rationale": "I contenuti Hero sono i grandi eventi comunicativi annuali o semestrali che mirano alla massima portata."
+        },
+        {
+          "text": "Sono contenuti pratici pubblicati quotidianamente per rispondere a domande comuni.",
+          "isCorrect": false,
+          "rationale": "Questa descrizione corrisponde ai contenuti 'Help' o 'Hygiene'."
+        },
+        {
+          "text": "Sono serie regolari di blog o podcast per mantenere la fedeltà.",
+          "isCorrect": false,
+          "rationale": "Questi sono i contenuti 'Hub', focalizzati sulla continuità e sull'engagement regolare."
+        },
+        {
+          "text": "Sono pubblicità dirette che invitano esclusivamente all'acquisto immediato.",
+          "isCorrect": false,
+          "rationale": "Il framework Hero-Hub-Help si basa su una gerarchia di valore del contenuto, non sulla vendita diretta aggressiva."
+        }
+      ],
+      "hint": "Immagina il contenuto come il 'protagonista' di una grande campagna di lancio."
+    },
+    {
+      "question": "Perché il contenuto 'Help' è spesso chiamato anche contenuto 'Igiene'?",
+      "answerOptions": [
+        {
+          "text": "Perché fornisce soluzioni pratiche e costanti alle domande di base del pubblico.",
+          "isCorrect": true,
+          "rationale": "Come l'igiene quotidiana, sono contenuti necessari e fondamentali per mantenere sana la relazione e la visibilità nella ricerca."
+        },
+        {
+          "text": "Perché riguarda esclusivamente prodotti per la pulizia della casa.",
+          "isCorrect": false,
+          "rationale": "Il termine è metaforico e si applica a qualsiasi settore merceologico."
+        },
+        {
+          "text": "Perché viene rimosso dal sito dopo pochi giorni dalla pubblicazione.",
+          "isCorrect": false,
+          "rationale": "Al contrario, questi contenuti hanno spesso un valore 'evergreen' e restano utili a lungo per la SEO."
+        },
+        {
+          "text": "Perché è un contenuto che non richiede alcuna ricerca di parole chiave.",
+          "isCorrect": false,
+          "rationale": "Il contenuto Help è progettato proprio per intercettare la ricerca (search) degli utenti su Google o YouTube."
+        }
+      ],
+      "hint": "Pensa a qualcosa di essenziale che risponde ai dubbi 'come fare per...'."
+    },
+    {
+      "question": "Nel modello PESO, a quale categoria appartengono la newsletter e il sito web aziendale?",
+      "answerOptions": [
+        {
+          "text": "Owned Media (Media di Proprietà).",
+          "isCorrect": true,
+          "rationale": "L'azienda possiede e controlla direttamente questi canali senza dipendere totalmente da algoritmi di terzi."
+        },
+        {
+          "text": "Shared Media (Media Condivisi).",
+          "isCorrect": false,
+          "rationale": "I media condivisi riguardano principalmente le interazioni sui social network esterni."
+        },
+        {
+          "text": "Paid Media (Media Pagati).",
+          "isCorrect": false,
+          "rationale": "Si paga per la distribuzione sui media degli altri; il sito web è una proprietà già esistente dell'azienda."
+        },
+        {
+          "text": "Earned Media (Media Guadagnati).",
+          "isCorrect": false,
+          "rationale": "I media guadagnati dipendono dalle azioni di altri (stampa, influencer), non dalla proprietà diretta."
+        }
+      ],
+      "hint": "Cerca la parola che indica il possesso diretto dei canali."
+    },
+    {
+      "question": "Quale stadio del modello AIDA corrisponde all'effettiva conversione del cliente (es. un acquisto)?",
+      "answerOptions": [
+        {
+          "text": "Azione (Action).",
+          "isCorrect": true,
+          "rationale": "È il momento finale in cui l'utente compie il passo decisivo desiderato dall'azienda."
+        },
+        {
+          "text": "Interesse (Interest).",
+          "isCorrect": false,
+          "rationale": "In questa fase l'utente sta ancora raccogliendo informazioni, non è pronto a concludere."
+        },
+        {
+          "text": "Attenzione (Awareness).",
+          "isCorrect": false,
+          "rationale": "Rappresenta l'inizio del funnel, dove l'utente non conosce ancora bene l'offerta."
+        },
+        {
+          "text": "Ambizione (Ambition).",
+          "isCorrect": false,
+          "rationale": "Questa parola non fa parte delle quattro fasi classiche del modello AIDA."
+        }
+      ],
+      "hint": "È l'ultima lettera dell'acronimo."
+    },
+    {
+      "question": "In cosa consiste la fase 'Hub' nel framework Hero-Hub-Help?",
+      "answerOptions": [
+        {
+          "text": "Produzione regolare di contenuti per mantenere l'engagement e la fedeltà.",
+          "isCorrect": true,
+          "rationale": "Questi contenuti creano un appuntamento fisso con l'utente, consolidando la relazione nel tempo."
+        },
+        {
+          "text": "Creazione di un singolo video virale che non viene più seguito da altri contenuti.",
+          "isCorrect": false,
+          "rationale": "La mancanza di continuità è il contrario del concetto di 'Hub'."
+        },
+        {
+          "text": "Risposta a reclami tecnici degli utenti sul sito web.",
+          "isCorrect": false,
+          "rationale": "Questo è customer service, mentre l'Hub è una strategia di contenuto editoriale."
+        },
+        {
+          "text": "Acquisto di banner pubblicitari su siti di terze parti.",
+          "isCorrect": false,
+          "rationale": "Questa attività rientra nel Paid Media e non nel framework di creazione di contenuti 3H."
+        }
+      ],
+      "hint": "Pensa a un contenuto che viene creato 'regolarmente' come una serie TV o un podcast."
+    },
+    {
+      "question": "Qual è un KPI tipico per monitorare i risultati del content marketing menzionato nel testo?",
+      "answerOptions": [
+        {
+          "text": "Tasso di conversione.",
+          "isCorrect": true,
+          "rationale": "Misura l'efficacia del contenuto nel guidare gli utenti verso l'azione profittevole desiderata."
+        },
+        {
+          "text": "Numero di ore di sonno dei dipendenti.",
+          "isCorrect": false,
+          "rationale": "Questa metrica non ha alcuna attinenza con le prestazioni di una strategia di marketing digitale."
+        },
+        {
+          "text": "Prezzo delle azioni della borsa in tempo reale.",
+          "isCorrect": false,
+          "rationale": "Sebbene influenzabile a lungo termine, non è una metrica diretta per valutare singoli contenuti."
+        },
+        {
+          "text": "Quantità di carta utilizzata negli uffici marketing.",
+          "isCorrect": false,
+          "rationale": "Il monitoraggio dei risultati si focalizza sulle performance digitali e sull'engagement, non sui consumi d'ufficio."
+        }
+      ],
+      "hint": "Cerca un termine che indica la percentuale di utenti che compie un'azione."
+    },
+    {
+      "question": "Come viene percepita la pubblicità tradizionale dal pubblico secondo il materiale didattico?",
+      "answerOptions": [
+        {
+          "text": "Può essere percepita come invadente o fastidiosa.",
+          "isCorrect": true,
+          "rationale": "A causa del suo approccio diretto e spesso interruttivo, gli utenti tendono a evitarla."
+        },
+        {
+          "text": "Sempre come una fonte di ispirazione profonda.",
+          "isCorrect": false,
+          "rationale": "Mentre alcune pubblicità ispirano, la percezione generale è spesso di fastidio per l'interruzione."
+        },
+        {
+          "text": "Come l'unico modo per costruire fiducia a lungo termine.",
+          "isCorrect": false,
+          "rationale": "È il content marketing a focalizzarsi sulla costruzione della fiducia attraverso il valore."
+        },
+        {
+          "text": "Come un contenuto informativo e non promozionale.",
+          "isCorrect": false,
+          "rationale": "Per definizione, la pubblicità tradizionale è focalizzata su messaggi promozionali diretti."
+        }
+      ],
+      "hint": "Pensa a come reagisci quando uno spot interrompe il tuo video preferito."
+    },
+    {
+      "question": "Quale di queste affermazioni sul content marketing è corretta?",
+      "answerOptions": [
+        {
+          "text": "Si rivolge a clienti attuali, potenziali o altri stakeholder.",
+          "isCorrect": true,
+          "rationale": "Il raggio d'azione del content marketing è ampio e mira a influenzare diversi portatori d'interesse."
+        },
+        {
+          "text": "Si rivolge esclusivamente a chi ha già acquistato un prodotto.",
+          "isCorrect": false,
+          "rationale": "Il content marketing serve anche per attirare nuovi potenziali clienti (fase di Awareness)."
+        },
+        {
+          "text": "Evita categoricamente l'uso di piattaforme digitali.",
+          "isCorrect": false,
+          "rationale": "Il materiale specifica che utilizza sia piattaforme digitali che cartacee."
+        },
+        {
+          "text": "Non ha alcun legame con l'identità del brand.",
+          "isCorrect": false,
+          "rationale": "I contenuti devono essere 'legati al brand' per essere efficaci strategicamente."
+        }
+      ],
+      "hint": "Rifletti su chi sono i destinatari dei messaggi aziendali."
+    },
+    {
+      "question": "Il modello PESO aiuta a pianificare la distribuzione integrando vari canali. Cosa rappresenta la 'S'?",
+      "answerOptions": [
+        {
+          "text": "Shared Media (Media Condivisi, come i social network).",
+          "isCorrect": true,
+          "rationale": "Riguarda la distribuzione che avviene attraverso la condivisione e l'interazione sulle piattaforme social."
+        },
+        {
+          "text": "Secret Media (Canali di comunicazione segreti).",
+          "isCorrect": false,
+          "rationale": "Il marketing cerca la visibilità, non il segreto; questo termine non esiste nel modello PESO."
+        },
+        {
+          "text": "Sales Media (Canali dedicati solo alla vendita fisica).",
+          "isCorrect": false,
+          "rationale": "Sebbene le vendite siano un fine, la 'S' si riferisce specificamente all'aspetto 'social/shared'."
+        },
+        {
+          "text": "Static Media (Contenuti che non cambiano mai).",
+          "isCorrect": false,
+          "rationale": "Il digitale è dinamico per natura e la 'S' identifica l'interazione tra utenti."
+        }
+      ],
+      "hint": "Pensa all'azione che compi quando trovi un post interessante su Facebook o LinkedIn."
+    },
+    {
+      "question": "Quale elemento è fondamentale per guidare la creazione dei contenuti nella fase di targeting?",
+      "answerOptions": [
+        {
+          "text": "La conoscenza approfondita di problemi, interessi e demografia del pubblico.",
+          "isCorrect": true,
+          "rationale": "Solo conoscendo i bisogni dell'utente si possono creare contenuti davvero 'di valore' per lui."
+        },
+        {
+          "text": "Il gusto estetico personale del CEO dell'azienda.",
+          "isCorrect": false,
+          "rationale": "La strategia deve basarsi sui dati del pubblico, non sulle preferenze soggettive interne."
+        },
+        {
+          "text": "L'uso esclusivo della lingua latina per dare prestigio.",
+          "isCorrect": false,
+          "rationale": "Il linguaggio deve essere adatto al target; l'uso del latino sarebbe generalmente un ostacolo alla comprensione."
+        },
+        {
+          "text": "La pubblicazione casuale di immagini stock senza testo.",
+          "isCorrect": false,
+          "rationale": "La casualità è l'opposto dell'approccio strategico richiesto dal content marketing."
+        }
+      ],
+      "hint": "Considera quali informazioni rendono un messaggio 'pertinente' per chi lo riceve."
+    },
+    {
+      "question": "Cosa si intende per 'Autorità del brand' nel contesto dei benefici del content marketing?",
+      "answerOptions": [
+        {
+          "text": "Essere riconosciuti come esperti e fonti affidabili nel proprio settore.",
+          "isCorrect": true,
+          "rationale": "Fornendo contenuti utili, il brand dimostra competenza e guadagna la fiducia degli utenti."
+        },
+        {
+          "text": "Avere il potere legale di chiudere i siti web dei concorrenti.",
+          "isCorrect": false,
+          "rationale": "L'autorità nel marketing è una questione di reputazione e percezione, non di potere giuridico."
+        },
+        {
+          "text": "Obbligare i clienti a comprare solo i propri prodotti tramite contratti.",
+          "isCorrect": false,
+          "rationale": "L'autorità del brand si basa sulla libera scelta del cliente che si fida della qualità dell'informazione ricevuta."
+        },
+        {
+          "text": "Possedere il logo più grande e colorato del mercato.",
+          "isCorrect": false,
+          "rationale": "L'autorità deriva dal valore del contenuto offerto, non solo dall'impatto visivo del logo."
+        }
+      ],
+      "hint": "Rifletti su cosa pensi di un'azienda che pubblica guide molto approfondite e utili."
+    },
+    {
+      "question": "Nel framework 3H, dove si collocano tipicamente le serie di webinar?",
+      "answerOptions": [
+        {
+          "text": "Contenuto Hub.",
+          "isCorrect": true,
+          "rationale": "I webinar programmati regolarmente sono ideali per mantenere l'engagement e nutrire la relazione."
+        },
+        {
+          "text": "Contenuto Hero.",
+          "isCorrect": false,
+          "rationale": "Un webinar potrebbe essere Hero solo se fosse un evento unico e massivo di risonanza mondiale."
+        },
+        {
+          "text": "Contenuto Help.",
+          "isCorrect": false,
+          "rationale": "I contenuti Help sono solitamente brevi risposte a ricerche specifiche; i webinar sono più orientati all'engagement."
+        },
+        {
+          "text": "Pubblicità Tradizionale.",
+          "isCorrect": false,
+          "rationale": "Il framework 3H classifica i contenuti di valore, non gli annunci pubblicitari interruttivi."
+        }
+      ],
+      "hint": "Pensa a un contenuto creato 'regolarmente' per un pubblico già interessato."
+    },
+    {
+      "question": "Il content marketing è definito come un 'approccio strategico'. Cosa implica questo termine?",
+      "answerOptions": [
+        {
+          "text": "Che richiede pianificazione a lungo termine e integrazione con gli obiettivi aziendali.",
+          "isCorrect": true,
+          "rationale": "La strategia si oppone alla tattica estemporanea, richiedendo visione d'insieme e coerenza."
+        },
+        {
+          "text": "Che è un'attività che si può fare solo una volta all'anno senza pensarci.",
+          "isCorrect": false,
+          "rationale": "Il content marketing richiede costanza e distribuzione continua per essere efficace."
+        },
+        {
+          "text": "Che l'unico obiettivo è vincere premi per la creatività.",
+          "isCorrect": false,
+          "rationale": "Sebbene la creatività aiuti, lo scopo strategico è guidare azioni profittevoli dei clienti."
+        },
+        {
+          "text": "Che non c'è bisogno di monitorare alcun risultato numerico.",
+          "isCorrect": false,
+          "rationale": "Un approccio strategico si basa proprio sull'analisi dei dati per ottimizzare le performance."
+        }
+      ],
+      "hint": "Considera la differenza tra fare qualcosa a caso e seguire un piano ben studiato."
+    },
+    {
+      "question": "Quale di queste azioni rientra nella fase di 'Consistenza' (coerenza) dei contenuti?",
+      "answerOptions": [
+        {
+          "text": "Mantenere uno stile e un tono di voce uniformi su tutti i canali.",
+          "isCorrect": true,
+          "rationale": "La coerenza aiuta l'utente a riconoscere il brand e a costruire una relazione di fiducia stabile."
+        },
+        {
+          "text": "Cambiare l'identità del brand ogni volta che si pubblica un nuovo post.",
+          "isCorrect": false,
+          "rationale": "La mancanza di coerenza confonde il pubblico e indebolisce l'autorità del marchio."
+        },
+        {
+          "text": "Smettere di pubblicare per vedere se il pubblico sente la nostra mancanza.",
+          "isCorrect": false,
+          "rationale": "L'assenza è l'opposto della consistenza e della regolarità richieste dalla strategia."
+        },
+        {
+          "text": "Copiare parola per parola i contenuti dei competitor più famosi.",
+          "isCorrect": false,
+          "rationale": "La coerenza deve essere interna al proprio brand, non un'imitazione esterna che priva di originalità."
+        }
+      ],
+      "hint": "Pensa a quanto sia importante che un brand sia sempre riconoscibile ovunque scriva."
+    },
+    {
+      "question": "Nella fase di 'Monitoraggio dei risultati', cosa indicano le condivisioni sui social media?",
+      "answerOptions": [
+        {
+          "text": "Il livello di engagement e il gradimento del contenuto da parte del pubblico.",
+          "isCorrect": true,
+          "rationale": "La condivisione è una forma forte di validazione del valore del contenuto da parte dell'utente."
+        },
+        {
+          "text": "Il numero esatto di vendite effettuate in quel preciso istante.",
+          "isCorrect": false,
+          "rationale": "La condivisione indica interesse e portata, ma non garantisce una vendita immediata."
+        },
+        {
+          "text": "Che il contenuto è stato segnalato come spam dal sistema.",
+          "isCorrect": false,
+          "rationale": "Le condivisioni (shares) sono metriche positive, mentre le segnalazioni sono l'opposto."
+        },
+        {
+          "text": "L'ammontare del budget pagato a Facebook per quel post.",
+          "isCorrect": false,
+          "rationale": "Le condivisioni possono essere organiche; il budget pagato è un costo, non una metrica di condivisione."
+        }
+      ],
+      "hint": "Rifletti su cosa significa quando un utente decide di mostrare un tuo contenuto ai suoi amici."
+    },
+    {
+      "question": "Perché la generazione di 'Lead' è un obiettivo chiave del content marketing?",
+      "answerOptions": [
+        {
+          "text": "Per acquisire contatti di potenziali clienti interessati da coltivare nel tempo.",
+          "isCorrect": true,
+          "rationale": "Un lead è un'opportunità di vendita che nasce grazie all'interesse suscitato dal contenuto di valore."
+        },
+        {
+          "text": "Per raccogliere email a cui inviare pubblicità aggressiva ogni ora.",
+          "isCorrect": false,
+          "rationale": "Il marketing di valore punta alla relazione, non allo stalking che allontana il cliente."
+        },
+        {
+          "text": "Per vendere l'elenco dei contatti ad altre aziende concorrenti.",
+          "isCorrect": false,
+          "rationale": "Questa pratica è spesso illegale e distrugge la fiducia nel brand che è alla base del content marketing."
+        },
+        {
+          "text": "Per dimostrare che il sito web riceve molti clic accidentali.",
+          "isCorrect": false,
+          "rationale": "Un lead è un contatto qualificato e intenzionale, non un errore di navigazione dell'utente."
+        }
+      ],
+      "hint": "Considera l'importanza di avere un database di persone realmente interessate a ciò che offri."
+    },
+    {
+      "question": "In quale stadio dell'AIDA l'utente è consapevole del suo problema ma non ha ancora scelto una soluzione?",
+      "answerOptions": [
+        {
+          "text": "Interesse (Interest).",
+          "isCorrect": true,
+          "rationale": "L'utente sta attivamente cercando informazioni e soluzioni, mostrando curiosità per l'offerta del brand."
+        },
+        {
+          "text": "Azione (Action).",
+          "isCorrect": false,
+          "rationale": "In questa fase la scelta è già stata fatta e l'utente sta eseguendo l'acquisto."
+        },
+        {
+          "text": "Attenzione (Awareness).",
+          "isCorrect": false,
+          "rationale": "Qui l'utente sta appena realizzando di avere un problema o scoprendo il brand per la prima volta."
+        },
+        {
+          "text": "Desiderio (Desire).",
+          "isCorrect": false,
+          "rationale": "Qui l'utente ha già ristretto il campo e vuole specificamente la tua soluzione."
+        }
+      ],
+      "hint": "È la fase in cui si approfondiscono le informazioni dopo aver notato qualcosa."
+    },
+    {
+      "question": "Che tipo di media sono le 'Employee stories' (storie dei dipendenti) nel modello PESO?",
+      "answerOptions": [
+        {
+          "text": "Owned Media (Media di Proprietà).",
+          "isCorrect": true,
+          "rationale": "L'azienda utilizza i propri canali per raccontare se stessa attraverso le persone che vi lavorano."
+        },
+        {
+          "text": "Paid Media (Media Pagati).",
+          "isCorrect": false,
+          "rationale": "Se pubblicate sui canali aziendali, non si sta pagando un editore esterno per lo spazio."
+        },
+        {
+          "text": "Earned Media (Media Guadagnati).",
+          "isCorrect": false,
+          "rationale": "Sono contenuti creati e controllati internamente, non menzioni spontanee sulla stampa esterna."
+        },
+        {
+          "text": "Shared Media (Media Condivisi).",
+          "isCorrect": false,
+          "rationale": "Sebbene possano essere condivise, l'origine del contenuto è proprietaria dell'azienda."
+        }
+      ],
+      "hint": "Sono contenuti creati dall'azienda stessa per parlare della propria cultura."
+    },
+    {
+      "question": "Qual è lo scopo principale del contenuto 'Help' per quanto riguarda l'acquisizione di pubblico?",
+      "answerOptions": [
+        {
+          "text": "Attirare nuovi pubblici attraverso la ricerca organica (SEO).",
+          "isCorrect": true,
+          "rationale": "Rispondendo a domande specifiche, il brand intercetta utenti che cercano soluzioni su Google."
+        },
+        {
+          "text": "Spaventare i clienti per convincerli a comprare subito per paura.",
+          "isCorrect": false,
+          "rationale": "Il content marketing mira alla fiducia e al supporto, non all'uso della paura come leva."
+        },
+        {
+          "text": "Limitare la visibilità del sito solo a chi conosce già il brand.",
+          "isCorrect": false,
+          "rationale": "Lo scopo è espandere il pubblico intercettando nuove ricerche ed esigenze."
+        },
+        {
+          "text": "Evitare di fornire risposte utili per costringere l'utente a chiamare il supporto tecnico.",
+          "isCorrect": false,
+          "rationale": "Fornire soluzioni gratuite costruisce fiducia; nascondere le informazioni la distrugge."
+        }
+      ],
+      "hint": "Pensa a cosa succede quando cerchi su Google 'come si fa a...' e trovi un articolo utile."
+    },
+    {
+      "question": "Come si può contattare Gabriele Granato per suggerimenti sulla lezione?",
+      "answerOptions": [
+        {
+          "text": "Tramite email (g.granato1@lumsa.it) o Telegram (@gabrielegranato).",
+          "isCorrect": true,
+          "rationale": "Questi sono i recapiti ufficiali forniti nelle slide conclusive del docente."
+        },
+        {
+          "text": "Inviando una lettera raccomandata alla segreteria studenti.",
+          "isCorrect": false,
+          "rationale": "Sebbene possibile burocraticamente, il docente ha indicato canali digitali diretti e veloci."
+        },
+        {
+          "text": "Pubblicando un annuncio pubblicitario sul giornale locale.",
+          "isCorrect": false,
+          "rationale": "Questo metodo sarebbe inefficiente e non è tra quelli suggeriti nel materiale."
+        },
+        {
+          "text": "Contattando esclusivamente il rettore dell'università.",
+          "isCorrect": false,
+          "rationale": "Il docente ha esplicitamente invitato a contattare lui direttamente per dubbi o informazioni."
+        }
+      ],
+      "hint": "Controlla le informazioni fornite nell'ultima parte del materiale."
+    }
+  ]
+}

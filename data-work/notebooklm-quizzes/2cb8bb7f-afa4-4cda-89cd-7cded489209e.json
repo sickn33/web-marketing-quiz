@@ -1,0 +1,785 @@
+{
+  "title": "Segmentazione Quiz",
+  "questions": [
+    {
+      "question": "Qual è la definizione corretta di segmentazione di marketing secondo il materiale fornito?",
+      "answerOptions": [
+        {
+          "text": "La suddivisione della domanda in sottoinsiemi distinti di consumatori, omogenei al loro interno ma disomogenei tra loro.",
+          "isCorrect": true,
+          "rationale": "Questa definizione riflette accuratamente il concetto di creare gruppi interni uniformi che si differenziano significativamente dagli altri gruppi."
+        },
+        {
+          "text": "La creazione di un unico prodotto standardizzato per l'intero mercato potenziale.",
+          "isCorrect": false,
+          "rationale": "Questo descrive il marketing di massa, che è l'opposto della segmentazione focalizzata su sottoinsiemi specifici."
+        },
+        {
+          "text": "L'analisi dei costi di produzione per determinare il prezzo di vendita ottimale.",
+          "isCorrect": false,
+          "rationale": "Sebbene importante, l'analisi dei costi riguarda la determinazione del prezzo e non la suddivisione della domanda dei clienti."
+        },
+        {
+          "text": "La suddivisione dei fornitori in base alla loro posizione geografica.",
+          "isCorrect": false,
+          "rationale": "La segmentazione di marketing si concentra sui consumatori-clienti, non sui fornitori dell'azienda."
+        }
+      ],
+      "hint": "Considera come vengono raggruppati i consumatori in base alle loro caratteristiche comuni."
+    },
+    {
+      "question": "Cosa si intende per segmenti 'omogenei al loro interno'?",
+      "answerOptions": [
+        {
+          "text": "I consumatori all'interno del segmento rispondono in modo simile alle variabili del marketing mix.",
+          "isCorrect": true,
+          "rationale": "L'omogeneità interna garantisce che le strategie di marketing abbiano un effetto coerente su tutti i membri del gruppo."
+        },
+        {
+          "text": "Tutti i segmenti del mercato hanno le stesse dimensioni e potenziale di profitto.",
+          "isCorrect": false,
+          "rationale": "L'omogeneità riguarda la somiglianza dei consumatori dentro un singolo segmento, non il confronto tra le dimensioni dei segmenti."
+        },
+        {
+          "text": "Il segmento contiene consumatori con stili di vita e redditi completamente diversi.",
+          "isCorrect": false,
+          "rationale": "La diversità interna renderebbe impossibile un approccio di marketing mirato ed efficace."
+        },
+        {
+          "text": "I prodotti offerti al segmento sono tutti identici tra loro nel prezzo.",
+          "isCorrect": false,
+          "rationale": "L'omogeneità si riferisce alle caratteristiche dei consumatori, non solo al prezzo del prodotto."
+        }
+      ],
+      "hint": "Pensa alla coerenza dei bisogni e dei comportamenti tra i membri di uno stesso gruppo."
+    },
+    {
+      "question": "Qual è il primo passo del processo di segmentazione dopo l'identificazione dei bisogni del mercato?",
+      "answerOptions": [
+        {
+          "text": "Suddividere i potenziali acquirenti in segmenti.",
+          "isCorrect": true,
+          "rationale": "Questa è la Fase 1, necessaria per capire chi sono i clienti prima di categorizzare i prodotti o scegliere i mercati obiettivo."
+        },
+        {
+          "text": "Selezionare i mercati obiettivo (Targeting).",
+          "isCorrect": false,
+          "rationale": "La selezione avviene solo dopo aver identificato e analizzato i possibili segmenti."
+        },
+        {
+          "text": "Implementare il programma di marketing.",
+          "isCorrect": false,
+          "rationale": "Questa è l'ultima fase del processo, che segue la pianificazione e la selezione strategica."
+        },
+        {
+          "text": "Sviluppare una matrice prodotto-mercato.",
+          "isCorrect": false,
+          "rationale": "La matrice viene sviluppata nella Fase 3, dopo aver definito segmenti e categorie di prodotto."
+        }
+      ],
+      "hint": "Prima di agire sui prodotti, occorre analizzare la domanda dei clienti."
+    },
+    {
+      "question": "In quale categoria di variabili rientrano 'personalità' e 'stile di vita'?",
+      "answerOptions": [
+        {
+          "text": "Psicografiche.",
+          "isCorrect": true,
+          "rationale": "Queste variabili scavano nei tratti psicologici e nel modo in cui le persone vivono e spendono il loro tempo."
+        },
+        {
+          "text": "Socio-Demografiche.",
+          "isCorrect": false,
+          "rationale": "Queste si riferiscono a dati oggettivi come età e reddito, non a tratti della personalità."
+        },
+        {
+          "text": "Comportamentali.",
+          "isCorrect": false,
+          "rationale": "Le variabili comportamentali riguardano la relazione con il prodotto, come la fedeltà o la frequenza d'uso."
+        },
+        {
+          "text": "Geografiche.",
+          "isCorrect": false,
+          "rationale": "Le variabili geografiche riguardano la localizzazione fisica, non i profili psicologici."
+        }
+      ],
+      "hint": "Cerca il termine che unisce la psicologia alla descrizione del consumatore."
+    },
+    {
+      "question": "La variabile 'Benefici ricercati' fa parte di quale gruppo di segmentazione?",
+      "answerOptions": [
+        {
+          "text": "Comportamentali.",
+          "isCorrect": true,
+          "rationale": "I benefici ricercati descrivono il motivo specifico per cui un cliente sceglie un prodotto, riflettendo il suo comportamento d'acquisto."
+        },
+        {
+          "text": "Socio-Demografiche.",
+          "isCorrect": false,
+          "rationale": "I benefici non dipendono necessariamente solo dall'età o dal sesso, ma dall'uso che si intende fare del bene."
+        },
+        {
+          "text": "Geografiche.",
+          "isCorrect": false,
+          "rationale": "Il beneficio desiderato è un fattore psicologico/comportamentale, non legato esclusivamente al territorio."
+        },
+        {
+          "text": "Fisiche.",
+          "isCorrect": false,
+          "rationale": "Il materiale non elenca le variabili 'fisiche' come una categoria principale di segmentazione."
+        }
+      ],
+      "hint": "Si riferisce a come il consumatore interagisce con il prodotto e cosa si aspetta da esso."
+    },
+    {
+      "question": "Nel contesto della segmentazione socio-demografica, cosa rappresenta il 'Ciclo di vita della famiglia'?",
+      "answerOptions": [
+        {
+          "text": "La suddivisione in base alla composizione e all'età dei membri del nucleo familiare (es. giovani single, coppie con figli).",
+          "isCorrect": true,
+          "rationale": "Questa variabile aiuta a prevedere i bisogni di consumo che cambiano drasticamente nelle diverse fasi della vita familiare."
+        },
+        {
+          "text": "La durata media di vita dei componenti di una famiglia in una certa area.",
+          "isCorrect": false,
+          "rationale": "Questa è una statistica demografica generale, non una variabile di segmentazione per il marketing mix."
+        },
+        {
+          "text": "Il numero di prodotti che una famiglia acquista durante un anno solare.",
+          "isCorrect": false,
+          "rationale": "Questo riguarderebbe la frequenza d'uso o l'intensità d'acquisto, variabili comportamentali."
+        },
+        {
+          "text": "La frequenza con cui i membri della famiglia cambiano residenza.",
+          "isCorrect": false,
+          "rationale": "Sebbene legato alla mobilità, non definisce il 'ciclo di vita' inteso come evoluzione del nucleo."
+        }
+      ],
+      "hint": "Pensa a come variano le necessità tra un single e una famiglia con neonati."
+    },
+    {
+      "question": "Quale tra queste è una variabile geografica di segmentazione?",
+      "answerOptions": [
+        {
+          "text": "Densità (urbana, suburbana, rurale).",
+          "isCorrect": true,
+          "rationale": "La densità descrive la natura del territorio in cui risiedono i consumatori, influenzando la distribuzione."
+        },
+        {
+          "text": "Grado di fedeltà alla marca.",
+          "isCorrect": false,
+          "rationale": "La fedeltà è un tratto comportamentale legato all'esperienza del cliente con il brand."
+        },
+        {
+          "text": "Classe di reddito.",
+          "isCorrect": false,
+          "rationale": "Il reddito è una variabile socio-demografica che indica il potere d'acquisto, non la posizione fisica."
+        },
+        {
+          "text": "Personalità autoritaria.",
+          "isCorrect": false,
+          "rationale": "I tratti della personalità rientrano nella segmentazione psicografica."
+        }
+      ],
+      "hint": "Considera le caratteristiche fisiche e demografiche del territorio."
+    },
+    {
+      "question": "Cosa prevede la Fase 2 del processo di segmentazione?",
+      "answerOptions": [
+        {
+          "text": "Suddividere i prodotti in categorie.",
+          "isCorrect": true,
+          "rationale": "Dopo aver capito i segmenti di clienti, l'azienda deve organizzare la propria offerta in categorie coerenti."
+        },
+        {
+          "text": "Analizzare i concorrenti diretti.",
+          "isCorrect": false,
+          "rationale": "L'analisi dei concorrenti è trasversale, ma la Fase 2 specifica si focalizza sulla catalogazione interna dei prodotti."
+        },
+        {
+          "text": "Definire il budget pubblicitario.",
+          "isCorrect": false,
+          "rationale": "Il budget fa parte dell'implementazione del programma di marketing (Fase 5)."
+        },
+        {
+          "text": "Scegliere il testimonial per la marca.",
+          "isCorrect": false,
+          "rationale": "Questa è una decisione tattica del marketing mix, successiva alla segmentazione strategica."
+        }
+      ],
+      "hint": "Si passa dall'analisi dei clienti all'organizzazione dell'offerta dell'azienda."
+    },
+    {
+      "question": "A cosa serve lo sviluppo di una matrice prodotto-mercato (Fase 3)?",
+      "answerOptions": [
+        {
+          "text": "A stimare le dimensioni dei mercati e associare i segmenti alle categorie di prodotto.",
+          "isCorrect": true,
+          "rationale": "La matrice permette di visualizzare dove l'azienda ha maggiori opportunità incrociando chi compra con cosa compra."
+        },
+        {
+          "text": "A calcolare il costo medio di spedizione per ogni zona geografica.",
+          "isCorrect": false,
+          "rationale": "La logistica è un aspetto operativo, mentre la matrice è uno strumento di pianificazione strategica."
+        },
+        {
+          "text": "A determinare il logo aziendale più efficace per ogni segmento.",
+          "isCorrect": false,
+          "rationale": "La matrice non riguarda il design grafico, ma la corrispondenza strategica tra domanda e offerta."
+        },
+        {
+          "text": "A confrontare il prezzo dei prodotti con quelli della concorrenza.",
+          "isCorrect": false,
+          "rationale": "Il confronto dei prezzi è un'analisi competitiva, non l'obiettivo primario della matrice prodotto-mercato."
+        }
+      ],
+      "hint": "Mette in relazione i gruppi di consumatori con le tipologie di prodotti offerti."
+    },
+    {
+      "question": "Nella matrice prodotto-mercato delle calzature sportivi, chi rappresenta il mercato primario per le 'scarpe da corsa'?",
+      "answerOptions": [
+        {
+          "text": "I Corridori.",
+          "isCorrect": true,
+          "rationale": "Secondo l'esempio della Nike, i corridori hanno bisogni specifici che rendono le scarpe da corsa il loro prodotto di riferimento principale."
+        },
+        {
+          "text": "I Bambini.",
+          "isCorrect": false,
+          "rationale": "Per i bambini sono previste categorie specifiche ('scarpe per bambini') anziché calzature tecniche da corsa come mercato primario."
+        },
+        {
+          "text": "Gli amanti del walking.",
+          "isCorrect": false,
+          "rationale": "Sebbene possano usarle, il loro mercato primario è rappresentato dalle scarpe da walking."
+        },
+        {
+          "text": "I giocatori di basket.",
+          "isCorrect": false,
+          "rationale": "I giocatori di basket richiedono caratteristiche tecniche diverse, tipiche delle scarpe da basket."
+        }
+      ],
+      "hint": "Cerca l'associazione più diretta tra la funzione del prodotto e l'attività del segmento."
+    },
+    {
+      "question": "Quale strategia di copertura prevede che l'azienda offra un unico prodotto a tutti i segmenti di mercato?",
+      "answerOptions": [
+        {
+          "text": "Specializzazione di prodotto.",
+          "isCorrect": true,
+          "rationale": "In questa strategia, l'azienda si concentra su un prodotto specifico e cerca di venderlo a diversi tipi di clienti."
+        },
+        {
+          "text": "Specializzazione di mercato.",
+          "isCorrect": false,
+          "rationale": "In questo caso l'azienda offrirebbe molti prodotti diversi a un unico segmento di mercato."
+        },
+        {
+          "text": "Copertura totale del mercato.",
+          "isCorrect": false,
+          "rationale": "La copertura totale implica offrire molti prodotti a molti segmenti diversi."
+        },
+        {
+          "text": "Concentrazione su un solo segmento.",
+          "isCorrect": false,
+          "rationale": "Questa strategia limita sia il numero di prodotti (uno) che il numero di segmenti (uno)."
+        }
+      ],
+      "hint": "Guarda allo schema in cui una riga orizzontale di prodotti attraversa tutti i mercati."
+    },
+    {
+      "question": "Cosa caratterizza la strategia di 'Specializzazione di mercato'?",
+      "answerOptions": [
+        {
+          "text": "L'azienda soddisfa molti bisogni di un particolare gruppo di clienti offrendo prodotti diversi.",
+          "isCorrect": true,
+          "rationale": "L'azienda diventa un punto di riferimento per quel segmento specifico, fornendo soluzioni variegate."
+        },
+        {
+          "text": "L'azienda produce un solo tipo di bene per un unico tipo di cliente.",
+          "isCorrect": false,
+          "rationale": "Questa sarebbe la strategia di concentrazione su un solo segmento (nicchia)."
+        },
+        {
+          "text": "L'azienda sceglie segmenti non correlati tra loro per diversificare il rischio.",
+          "isCorrect": false,
+          "rationale": "Questo descrive la specializzazione selettiva, non focalizzata su un unico mercato."
+        },
+        {
+          "text": "L'azienda ignora le differenze dei segmenti e lancia una campagna globale.",
+          "isCorrect": false,
+          "rationale": "L'ignoranza delle differenze è tipica del marketing indifferenziato, non di una specializzazione."
+        }
+      ],
+      "hint": "Pensa a un'azienda che decide di servire esclusivamente un gruppo (es. i tennisti) con ogni tipo di attrezzatura possibile."
+    },
+    {
+      "question": "Quale variabile comportamentale si riferisce alla regolarità o sporadicità degli acquisti?",
+      "answerOptions": [
+        {
+          "text": "Frequenza di acquisto.",
+          "isCorrect": true,
+          "rationale": "Questa variabile aiuta a distinguere tra clienti abituali e clienti occasionali."
+        },
+        {
+          "text": "Status del cliente.",
+          "isCorrect": false,
+          "rationale": "Lo status indica se il cliente è potenziale, nuovo o ex-cliente, non necessariamente la cadenza temporale."
+        },
+        {
+          "text": "Intensità d'uso.",
+          "isCorrect": false,
+          "rationale": "L'intensità riguarda la quantità consumata (es. scarso, medio, elevato), non quanto spesso si acquista."
+        },
+        {
+          "text": "Conoscenza del prodotto.",
+          "isCorrect": false,
+          "rationale": "Questa variabile misura quanto il cliente è informato, non il suo ritmo di acquisto."
+        }
+      ],
+      "hint": "Si focalizza sulla dimensione temporale delle transazioni."
+    },
+    {
+      "question": "Nella segmentazione del mercato turistico, 'Affari' e 'Privato' sono breakdown di quale variabile?",
+      "answerOptions": [
+        {
+          "text": "Motivo del viaggio.",
+          "isCorrect": true,
+          "rationale": "Il motivo del viaggio è fondamentale per differenziare le esigenze di servizio (es. Wi-Fi per affari vs piscina per privato)."
+        },
+        {
+          "text": "Provenienza.",
+          "isCorrect": false,
+          "rationale": "La provenienza distingue tra mercato nazionale ed estero."
+        },
+        {
+          "text": "Grado di programmazione.",
+          "isCorrect": false,
+          "rationale": "Questa variabile riguarda come viene organizzato il viaggio (es. tutto compreso vs libero)."
+        },
+        {
+          "text": "Interesse prevalente.",
+          "isCorrect": false,
+          "rationale": "L'interesse riguarda la destinazione o l'attività (es. mare, monti, arte)."
+        }
+      ],
+      "hint": "Indica lo scopo per cui il turista decide di spostarsi."
+    },
+    {
+      "question": "Qual è il rischio principale della strategia di 'Concentrazione su un solo segmento'?",
+      "answerOptions": [
+        {
+          "text": "L'elevata dipendenza da un unico piccolo gruppo di consumatori e la vulnerabilità a cambiamenti improvvisi in quel segmento.",
+          "isCorrect": true,
+          "rationale": "Puntare tutto su un'unica nicchia è rischioso se quel segmento scompare o viene attaccato da concorrenti forti."
+        },
+        {
+          "text": "L'eccessiva dispersione delle risorse su troppi prodotti diversi.",
+          "isCorrect": false,
+          "rationale": "Questo rischio appartiene alla copertura totale o alla specializzazione selettiva, non alla concentrazione."
+        },
+        {
+          "text": "La difficoltà nel creare un messaggio di marketing coerente.",
+          "isCorrect": false,
+          "rationale": "In realtà, la concentrazione rende il messaggio molto semplice e coerente, poiché si rivolge a un unico target."
+        },
+        {
+          "text": "L'impossibilità di raggiungere economie di scala nella produzione.",
+          "isCorrect": false,
+          "rationale": "Sebbene il volume sia ridotto, l'azienda può comunque specializzarsi produttivamente; il rischio maggiore resta la dipendenza dal mercato."
+        }
+      ],
+      "hint": "Considera cosa accadrebbe se i gusti dell'unico gruppo servito cambiassero radicalmente."
+    },
+    {
+      "question": "Nello schema della Nike, perché le scarpe 'Cross Training' sono associate a quasi tutti i segmenti sportivi?",
+      "answerOptions": [
+        {
+          "text": "Perché sono progettate per essere versatili e coprire bisogni comuni a diverse discipline performance.",
+          "isCorrect": true,
+          "rationale": "Il cross-training serve come mercato secondario per molti perché offre supporto generico per vari allenamenti."
+        },
+        {
+          "text": "Perché costano molto meno rispetto alle scarpe specifiche come quelle da golf.",
+          "isCorrect": false,
+          "rationale": "La matrice non specifica i prezzi, ma la rilevanza del prodotto per il bisogno del segmento."
+        },
+        {
+          "text": "Perché la Nike ha deciso di eliminare tutti gli altri modelli specialistici.",
+          "isCorrect": false,
+          "rationale": "Dalla matrice si vede chiaramente che i modelli specialistici (corsa, tennis, basket) continuano ad esistere."
+        },
+        {
+          "text": "Perché sono destinate esclusivamente al segmento 'Street fashion'.",
+          "isCorrect": false,
+          "rationale": "Al contrario, la matrice le colloca principalmente nell'area degli sportivi esigenti."
+        }
+      ],
+      "hint": "Rifletti sulla natura trasversale di un allenamento multidisciplinare."
+    },
+    {
+      "question": "Un'azienda che vende solo scarpe da golf a giocatori di golf sta applicando quale strategia?",
+      "answerOptions": [
+        {
+          "text": "Concentrazione su un solo segmento.",
+          "isCorrect": true,
+          "rationale": "Si focalizza su un unico prodotto (scarpe da golf) per un unico target specifico (golfisti)."
+        },
+        {
+          "text": "Specializzazione di prodotto.",
+          "isCorrect": false,
+          "rationale": "Sarebbe tale se vendesse scarpe da golf a tutti (anche per uso cittadino o altri sport), il che è improbabile."
+        },
+        {
+          "text": "Specializzazione di mercato.",
+          "isCorrect": false,
+          "rationale": "Lo sarebbe se vendesse mazze, palline, abbigliamento e scarpe solo ai golfisti."
+        },
+        {
+          "text": "Copertura totale.",
+          "isCorrect": false,
+          "rationale": "Questa implicherebbe servire ogni tipo di sportivo con ogni tipo di calzatura."
+        }
+      ],
+      "hint": "L'azienda opera in una nicchia molto specifica con un'offerta limitata."
+    },
+    {
+      "question": "Quale di queste affermazioni sulla Fase 4 ('Selezionare i mercati obiettivo') è corretta?",
+      "answerOptions": [
+        {
+          "text": "L'azienda decide in quali segmenti investire in base alla loro attrattività e alla propria competitività.",
+          "isCorrect": true,
+          "rationale": "Il targeting non significa servire tutti, ma scegliere dove l'azienda può generare più valore e profitto."
+        },
+        {
+          "text": "Consiste esclusivamente nel creare la pubblicità televisiva per il prodotto.",
+          "isCorrect": false,
+          "rationale": "La pubblicità è un'azione tattica della Fase 5, non la scelta strategica del target."
+        },
+        {
+          "text": "È la fase in cui si decide il design del packaging.",
+          "isCorrect": false,
+          "rationale": "Il packaging riguarda la configurazione di valore del prodotto, non la selezione del mercato."
+        },
+        {
+          "text": "Prevede la suddivisione iniziale della popolazione in gruppi per età.",
+          "isCorrect": false,
+          "rationale": "La suddivisione avviene nella Fase 1; la Fase 4 è la scelta tra i gruppi già definiti."
+        }
+      ],
+      "hint": "È il momento della decisione strategica su dove 'puntare' le risorse aziendali."
+    },
+    {
+      "question": "Nella variabile comportamentale 'Atteggiamento', quali sono i breakdown tipici?",
+      "answerOptions": [
+        {
+          "text": "Entusiastico, positivo, indifferente, negativo, ostile.",
+          "isCorrect": true,
+          "rationale": "Questi descrivono la predisposizione emotiva e cognitiva del consumatore verso la marca."
+        },
+        {
+          "text": "Tradizionalista, innovatore, pioniere.",
+          "isCorrect": false,
+          "rationale": "Questi termini sono tipici della segmentazione psicografica basata sullo stile di vita."
+        },
+        {
+          "text": "Urbano, suburbano, rurale.",
+          "isCorrect": false,
+          "rationale": "Questi descrivono la densità abitativa nella segmentazione geografica."
+        },
+        {
+          "text": "Media inferiore, media superiore, laurea.",
+          "isCorrect": false,
+          "rationale": "Questi indicano il livello di istruzione nella segmentazione socio-demografica."
+        }
+      ],
+      "hint": "Cerca termini che descrivano i sentimenti dei clienti verso un'azienda."
+    },
+    {
+      "question": "Perché è importante che i segmenti siano 'disomogenei tra loro'?",
+      "answerOptions": [
+        {
+          "text": "Per giustificare l'uso di diversi marketing mix per ciascun gruppo.",
+          "isCorrect": true,
+          "rationale": "Se due segmenti reagissero allo stesso modo a un prezzo o a una pubblicità, non ci sarebbe motivo di trattarli separatamente."
+        },
+        {
+          "text": "Per assicurarsi che i clienti non parlino mai tra loro dei prodotti.",
+          "isCorrect": false,
+          "rationale": "La comunicazione tra consumatori è inevitabile e non dipende dalla segmentazione."
+        },
+        {
+          "text": "Per poter applicare lo stesso identico prezzo a tutto il mercato.",
+          "isCorrect": false,
+          "rationale": "La disomogeneità serve proprio per poter variare il prezzo in base alla diversa sensibilità dei gruppi."
+        },
+        {
+          "text": "Per ridurre il numero totale di consumatori nel mercato.",
+          "isCorrect": false,
+          "rationale": "L'obiettivo del marketing è espandere o ottimizzare la quota di mercato, non ridurla."
+        }
+      ],
+      "hint": "Se i gruppi fossero troppo simili, sarebbe inutile creare strategie diverse."
+    },
+    {
+      "question": "Quale di queste è una variabile socio-demografica relativa alla struttura della popolazione?",
+      "answerOptions": [
+        {
+          "text": "Sesso (maschile, femminile).",
+          "isCorrect": true,
+          "rationale": "Il genere è un dato demografico di base ampiamente utilizzato per segmentare molti mercati consumer."
+        },
+        {
+          "text": "Clima (settentrionale, continentale, marittimo).",
+          "isCorrect": false,
+          "rationale": "Il clima è una variabile geografica, influenzata dalla posizione territoriale."
+        },
+        {
+          "text": "Personalità (coercitiva, autoritaria, ambiziosa).",
+          "isCorrect": false,
+          "rationale": "Questi sono tratti psicologici individuali, non dati demografici."
+        },
+        {
+          "text": "Occasioni di acquisto (regolari, sporadiche).",
+          "isCorrect": false,
+          "rationale": "Si tratta di una variabile comportamentale legata al momento del consumo."
+        }
+      ],
+      "hint": "Pensa alle informazioni che troveresti tipicamente in un censimento della popolazione."
+    },
+    {
+      "question": "Cosa si intende per 'Specializzazione selettiva' nelle strategie di copertura?",
+      "answerOptions": [
+        {
+          "text": "L'azienda sceglie alcuni segmenti, ciascuno dei quali è attraente e coerente con i propri obiettivi.",
+          "isCorrect": true,
+          "rationale": "In questa strategia non c'è necessariamente sinergia tra i prodotti, ma ogni accoppiata prodotto-mercato è profittevole di per sé."
+        },
+        {
+          "text": "L'azienda seleziona solo il segmento più povero per offrire prezzi bassissimi.",
+          "isCorrect": false,
+          "rationale": "Questa è una forma di concentrazione su un segmento specifico, non necessariamente selettiva in senso ampio."
+        },
+        {
+          "text": "L'azienda seleziona solo un prodotto da vendere in un solo mercato.",
+          "isCorrect": false,
+          "rationale": "Questo descrive la concentrazione semplice o marketing di nicchia."
+        },
+        {
+          "text": "L'azienda vende tutti i suoi prodotti in tutti i mercati possibili.",
+          "isCorrect": false,
+          "rationale": "Questo descrive la copertura totale del mercato."
+        }
+      ],
+      "hint": "Guarda lo schema grafico con quadratini rossi sparsi in modo non lineare."
+    },
+    {
+      "question": "Qual è l'ultima fase del processo di segmentazione presentato?",
+      "answerOptions": [
+        {
+          "text": "Implementare azioni di marketing per raggiungere il mercato obiettivo.",
+          "isCorrect": true,
+          "rationale": "La Fase 5 trasforma la pianificazione teorica in azioni concrete nel mercato reale."
+        },
+        {
+          "text": "Misurare il grado di soddisfazione del cliente.",
+          "isCorrect": false,
+          "rationale": "Sebbene fondamentale dopo la vendita, lo schema presentato si ferma all'implementazione del programma."
+        },
+        {
+          "text": "Suddividere i prodotti in categorie.",
+          "isCorrect": false,
+          "rationale": "Questa è la Fase 2, una delle prime fasi di organizzazione interna."
+        },
+        {
+          "text": "Calcolare il ROI dell'intera azienda.",
+          "isCorrect": false,
+          "rationale": "Il calcolo del ROI è un'attività di controllo finanziario che avviene dopo l'esecuzione."
+        }
+      ],
+      "hint": "Riguarda il passaggio dalla teoria alla pratica del marketing."
+    },
+    {
+      "question": "Nella segmentazione psicografica, il termine 'Pioniere' si riferisce a:",
+      "answerOptions": [
+        {
+          "text": "Un breakdown tipico dello stile di vita.",
+          "isCorrect": true,
+          "rationale": "I pionieri sono coloro che adottano per primi nuovi stili di vita o tendenze di consumo."
+        },
+        {
+          "text": "Una specifica zona geografica appena scoperta.",
+          "isCorrect": false,
+          "rationale": "Il termine non è usato in senso geografico, ma per descrivere il profilo psicologico dell'individuo."
+        },
+        {
+          "text": "Un cliente che ha acquistato il prodotto solo una volta.",
+          "isCorrect": false,
+          "rationale": "Questo riguarderebbe lo status del cliente o la frequenza di acquisto, non lo stile di vita."
+        },
+        {
+          "text": "Un tipo di istruzione post-laurea.",
+          "isCorrect": false,
+          "rationale": "L'istruzione è una variabile socio-demografica definita da titoli accademici."
+        }
+      ],
+      "hint": "Considera l'attitudine delle persone verso l'innovazione e il cambiamento."
+    },
+    {
+      "question": "La variabile 'Conoscenza del prodotto' divide i consumatori in:",
+      "answerOptions": [
+        {
+          "text": "Non a conoscenza, a conoscenza, informato, interessato, intenzionato all'acquisto.",
+          "isCorrect": true,
+          "rationale": "Questi livelli aiutano a capire quanto sforzo educativo o persuasivo è necessario per ogni gruppo."
+        },
+        {
+          "text": "Bambino, adolescente, adulto, anziano.",
+          "isCorrect": false,
+          "rationale": "Questi sono breakdown della variabile età (socio-demografica)."
+        },
+        {
+          "text": "Basso reddito, medio reddito, alto reddito.",
+          "isCorrect": false,
+          "rationale": "Questi sono breakdown della variabile reddito (socio-demografica)."
+        },
+        {
+          "text": "Fedeltà nulla, debole, forte, assoluta.",
+          "isCorrect": false,
+          "rationale": "Questi descrivono la fedeltà alla marca, un'altra variabile comportamentale distinta."
+        }
+      ],
+      "hint": "Riguarda il percorso cognitivo del cliente verso l'acquisto di un bene."
+    },
+    {
+      "question": "Secondo le slide, qual è l'input necessario prima di iniziare le 5 fasi della segmentazione?",
+      "answerOptions": [
+        {
+          "text": "Identificazione dei bisogni del mercato.",
+          "isCorrect": true,
+          "rationale": "Non si può segmentare correttamente senza prima aver compreso quali bisogni i consumatori stanno cercando di soddisfare."
+        },
+        {
+          "text": "Assunzione di nuovi manager di vendita.",
+          "isCorrect": false,
+          "rationale": "Il personale è una risorsa operativa, ma il processo strategico parte dall'analisi dei bisogni esterni."
+        },
+        {
+          "text": "Acquisto di nuovi macchinari industriali.",
+          "isCorrect": false,
+          "rationale": "La produzione segue la strategia di marketing, non il contrario, in un approccio orientato al mercato."
+        },
+        {
+          "text": "Apertura di un sito web di e-commerce.",
+          "isCorrect": false,
+          "rationale": "Il canale di vendita viene deciso dopo aver capito a chi ci si rivolge e con quale prodotto."
+        }
+      ],
+      "hint": "Cerca il blocco verde a sinistra nel diagramma del processo."
+    },
+    {
+      "question": "La variabile 'Intensità d'uso' viene tipicamente misurata come:",
+      "answerOptions": [
+        {
+          "text": "Scarso, medio, elevato.",
+          "isCorrect": true,
+          "rationale": "Questa suddivisione permette di identificare i 'heavy users' che spesso generano la maggior parte del fatturato."
+        },
+        {
+          "text": "Settentrionale, continentale, marittimo.",
+          "isCorrect": false,
+          "rationale": "Questi sono riferimenti climatici per la segmentazione geografica."
+        },
+        {
+          "text": "Entusiastico, positivo, negativo.",
+          "isCorrect": false,
+          "rationale": "Questi descrivono l'atteggiamento verso il brand."
+        },
+        {
+          "text": "Tradizionalista, innovatore.",
+          "isCorrect": false,
+          "rationale": "Questi descrivono lo stile di vita nella segmentazione psicografica."
+        }
+      ],
+      "hint": "Si riferisce alla quantità di prodotto consumata in un dato periodo."
+    },
+    {
+      "question": "Che cosa si intende per 'configurazione di valore' nel contesto della segmentazione?",
+      "answerOptions": [
+        {
+          "text": "L'insieme delle caratteristiche e benefici (tramite il marketing mix) offerti a un segmento specifico.",
+          "isCorrect": true,
+          "rationale": "Ogni segmento riceve un valore 'su misura' che risponde esattamente ai suoi desideri unici."
+        },
+        {
+          "text": "Il prezzo massimo che un cliente è disposto a pagare per un bene.",
+          "isCorrect": false,
+          "rationale": "Questo è il valore percepito o 'prezzo di riserva', solo una parte della configurazione totale."
+        },
+        {
+          "text": "La somma dei costi fissi e variabili necessari per produrre un articolo.",
+          "isCorrect": false,
+          "rationale": "Questo riguarda la struttura dei costi aziendali, non il valore offerto al mercato."
+        },
+        {
+          "text": "La quotazione azionaria dell'azienda al termine dell'anno fiscale.",
+          "isCorrect": false,
+          "rationale": "La configurazione di valore è un concetto di marketing relativo al cliente, non un indicatore finanziario borsistico."
+        }
+      ],
+      "hint": "Pensa al pacchetto completo che l'azienda 'confeziona' per attrarre il target."
+    },
+    {
+      "question": "Nel turismo, segmentare per 'Interesse prevalente' (Mare, Monti, Arte) è utile per:",
+      "answerOptions": [
+        {
+          "text": "Personalizzare l'offerta dei pacchetti turistici e la comunicazione pubblicitaria.",
+          "isCorrect": true,
+          "rationale": "Sapere cosa cerca il turista permette di proporre la destinazione corretta con le immagini più efficaci."
+        },
+        {
+          "text": "Decidere se il turista deve pagare in contanti o con carta di credito.",
+          "isCorrect": false,
+          "rationale": "I metodi di pagamento sono aspetti procedurali generali, non legati all'interesse per la meta."
+        },
+        {
+          "text": "Determinare la nazionalità del passaporto del viaggiatore.",
+          "isCorrect": false,
+          "rationale": "La nazionalità è legata alla provenienza, non necessariamente all'interesse (un francese può amare sia il mare che la montagna)."
+        },
+        {
+          "text": "Calcolare la distanza chilometrica tra la casa del cliente e l'hotel.",
+          "isCorrect": false,
+          "rationale": "La distanza è un dato geografico oggettivo, non un interesse psicologico o comportamentale."
+        }
+      ],
+      "hint": "Aiuta a rispondere alla domanda: 'Cosa vuole fare il cliente durante la vacanza?'"
+    },
+    {
+      "question": "Cosa indica la strategia di 'Copertura totale del mercato'?",
+      "answerOptions": [
+        {
+          "text": "L'azienda tenta di servire tutti i gruppi di clienti con tutti i prodotti che potrebbero servire loro.",
+          "isCorrect": true,
+          "rationale": "È la strategia tipica delle grandi multinazionali (es. Coca-Cola o grandi case automobilistiche) che hanno un'offerta per chiunque."
+        },
+        {
+          "text": "L'azienda vende un solo prodotto in tutto il mondo ignorando le differenze locali.",
+          "isCorrect": false,
+          "rationale": "Questo sarebbe marketing globale standardizzato, ma la copertura totale di solito implica molti prodotti per molti segmenti."
+        },
+        {
+          "text": "L'azienda acquista tutti i propri concorrenti per eliminare la scelta nel mercato.",
+          "isCorrect": false,
+          "rationale": "Questo descrive una tendenza al monopolio, non una strategia di segmentazione e copertura."
+        },
+        {
+          "text": "L'azienda utilizza solo un canale di distribuzione (es. solo online) per raggiungere tutti.",
+          "isCorrect": false,
+          "rationale": "La copertura totale riguarda l'ampiezza di prodotti e segmenti serviti, non la scelta del singolo canale."
+        }
+      ],
+      "hint": "Pensa a uno scenario in cui ogni singola cella della matrice prodotto-mercato è occupata dall'azienda."
+    }
+  ]
+}

@@ -1,0 +1,1305 @@
+{
+  "title": "Marketing Quiz",
+  "questions": [
+    {
+      "question": "Qual è il focus principale del Marketing 1.0 secondo l'evoluzione proposta da Philip Kotler?",
+      "answerOptions": [
+        {
+          "text": "L'orientamento al prodotto (Product-driven).",
+          "isCorrect": true,
+          "rationale": "In questa fase iniziale, l'enfasi era posta quasi esclusivamente sulla produzione e sulle caratteristiche funzionali del bene fisico."
+        },
+        {
+          "text": "L'orientamento al cliente (Customer-oriented).",
+          "isCorrect": false,
+          "rationale": "L'orientamento al cliente è la caratteristica distintiva del Marketing 2.0, che segue la fase guidata dal prodotto."
+        },
+        {
+          "text": "L'approccio umanocentrico (Human-centric).",
+          "isCorrect": false,
+          "rationale": "Questo concetto appartiene al Marketing 3.0, che vede il consumatore come un essere umano completo di valori."
+        },
+        {
+          "text": "Il passaggio al digitale.",
+          "isCorrect": false,
+          "rationale": "La transizione al digitale e la nuova Customer Experience sono i pilastri del Marketing 4.0."
+        }
+      ],
+      "hint": "Pensa alla prima fase storica del marketing, legata alla rivoluzione industriale e alla produzione di massa."
+    },
+    {
+      "question": "Secondo la Legge di Moore, ogni quanti mesi è possibile raddoppiare il numero di transistor in un chip a parità di costo?",
+      "answerOptions": [
+        {
+          "text": "12 mesi",
+          "isCorrect": false,
+          "rationale": "Sebbene sia un periodo breve, la legge specifica un intervallo leggermente superiore per il raddoppio fisico dei componenti."
+        },
+        {
+          "text": "18 mesi",
+          "isCorrect": true,
+          "rationale": "Gordon Moore, fondatore di Intel, ipotizzò correttamente che la densità dei transistor sarebbe raddoppiata circa ogni anno e mezzo."
+        },
+        {
+          "text": "24 mesi",
+          "isCorrect": false,
+          "rationale": "Due anni è un periodo spesso confuso con la legge originale, ma la formulazione standard cita 18 mesi."
+        },
+        {
+          "text": "36 mesi",
+          "isCorrect": false,
+          "rationale": "Tre anni sarebbe un ritmo troppo lento rispetto alla crescita esponenziale osservata storicamente nel settore dei semiconduttori."
+        }
+      ],
+      "hint": "Si tratta di un periodo intermedio tra un anno e due anni."
+    },
+    {
+      "question": "Quale formula esprime la Legge di Metcalfe riguardo all'utilità ($U_i$) di una tecnologia di rete?",
+      "answerOptions": [
+        {
+          "text": "$U_i = n$",
+          "isCorrect": false,
+          "rationale": "Questa formula indicherebbe una crescita lineare, che non riflette il potenziale esplosivo delle reti digitali."
+        },
+        {
+          "text": "$U_i = n(n-1) \\approx n^2$",
+          "isCorrect": true,
+          "rationale": "L'utilità di una rete cresce in modo proporzionale al quadrato del numero di nodi o utenti collegati."
+        },
+        {
+          "text": "$U_i = \\log(n)$",
+          "isCorrect": false,
+          "rationale": "Una funzione logaritmica indicherebbe rendimenti decrescenti, l'opposto dell'effetto di rete descritto da Metcalfe."
+        },
+        {
+          "text": "$U_i = 2n$",
+          "isCorrect": false,
+          "rationale": "Rappresenta una crescita costante ma non tiene conto delle interconnessioni multiple tra tutti i partecipanti."
+        }
+      ],
+      "hint": "L'utilità è legata al numero di possibili connessioni tra tutti gli utenti del sistema."
+    },
+    {
+      "question": "Nel passaggio dalle 4P alle 4C, a quale variabile del marketing mix corrisponde la 'Currency'?",
+      "answerOptions": [
+        {
+          "text": "Product (Prodotto)",
+          "isCorrect": false,
+          "rationale": "Il prodotto evolve verso il concetto di co-creazione, non di valuta o prezzo dinamico."
+        },
+        {
+          "text": "Price (Prezzo)",
+          "isCorrect": true,
+          "rationale": "La 'Currency' riflette i prezzi fluttuanti e dinamici basati sulla domanda del mercato tipici dell'era digitale."
+        },
+        {
+          "text": "Place (Distribuzione)",
+          "isCorrect": false,
+          "rationale": "La distribuzione nel modello delle 4C è solitamente legata all'attivazione o all'accesso comunitario."
+        },
+        {
+          "text": "Promotion (Promozione)",
+          "isCorrect": false,
+          "rationale": "La promozione evolve verso la conversazione e il dialogo interattivo."
+        }
+      ],
+      "hint": "Pensa a come il valore monetario dello scambio diventa variabile e adattabile in tempo reale."
+    },
+    {
+      "question": "Cosa si intende per 'Prosumer' nel contesto dei digital natives?",
+      "answerOptions": [
+        {
+          "text": "Un consumatore che acquista solo prodotti professionali.",
+          "isCorrect": false,
+          "rationale": "Sebbene il termine somigli a 'professional', il significato nel marketing moderno è legato alla partecipazione attiva."
+        },
+        {
+          "text": "Un consumatore attivo che ricerca e produce contenuti rilevanti per il brand.",
+          "isCorrect": true,
+          "rationale": "Il prosumer (producer + consumer) collabora attivamente alla narrazione aziendale e alla creazione di valore."
+        },
+        {
+          "text": "Un software che automatizza il processo di acquisto.",
+          "isCorrect": false,
+          "rationale": "Questa definizione si riferisce a bot o algoritmi di acquisto, non a un comportamento umano."
+        },
+        {
+          "text": "Un utente che consuma contenuti in modo passivo sui social media.",
+          "isCorrect": false,
+          "rationale": "Questa è la definizione di un consumatore tradizionale, l'esatto opposto di un prosumer."
+        }
+      ],
+      "hint": "È una parola composta che unisce i ruoli di chi produce e di chi consuma."
+    },
+    {
+      "question": "Quale delle seguenti è una variabile di segmentazione 'Psicografica'?",
+      "answerOptions": [
+        {
+          "text": "Reddito annuo",
+          "isCorrect": false,
+          "rationale": "Il reddito è una variabile socio-demografica, poiché si basa su dati oggettivi e quantitativi della popolazione."
+        },
+        {
+          "text": "Densità urbana",
+          "isCorrect": false,
+          "rationale": "La densità è una variabile geografica legata alla collocazione fisica del cliente."
+        },
+        {
+          "text": "Stile di vita",
+          "isCorrect": true,
+          "rationale": "Lo stile di vita e la personalità scavano nelle motivazioni psicologiche e nei modelli comportamentali interni."
+        },
+        {
+          "text": "Fedeltà alla marca",
+          "isCorrect": false,
+          "rationale": "La fedeltà è considerata una variabile comportamentale, legata all'interazione effettiva con il prodotto."
+        }
+      ],
+      "hint": "Cerca la variabile che riguarda il modo in cui una persona pensa, sente e vive quotidianamente."
+    },
+    {
+      "question": "Nel Business Model Canvas, cosa descrive il blocco delle 'Value Propositions'?",
+      "answerOptions": [
+        {
+          "text": "L'elenco dei fornitori chiave.",
+          "isCorrect": false,
+          "rationale": "Questo aspetto è coperto dal blocco 'Key Partners', situato sul lato sinistro del canvas."
+        },
+        {
+          "text": "Il pacchetto di prodotti e servizi che crea valore per uno specifico segmento di clienti.",
+          "isCorrect": true,
+          "rationale": "La proposta di valore definisce come l'azienda risolve un problema o soddisfa un bisogno del cliente."
+        },
+        {
+          "text": "I canali di comunicazione utilizzati.",
+          "isCorrect": false,
+          "rationale": "La comunicazione e la distribuzione appartengono al blocco 'Channels'."
+        },
+        {
+          "text": "Le modalità di generazione del profitto.",
+          "isCorrect": false,
+          "rationale": "Il profitto deriva dalla relazione tra 'Revenue Streams' e 'Cost Structure', non dalla sola proposta di valore."
+        }
+      ],
+      "hint": "Si focalizza sul 'cosa' l'azienda offre per distinguersi e aiutare il consumatore."
+    },
+    {
+      "question": "Cosa distingue il 'Brand Activism' dalla Corporate Social Responsibility (CSR)?",
+      "answerOptions": [
+        {
+          "text": "Il Brand Activism è orientato solo al profitto interno.",
+          "isCorrect": false,
+          "rationale": "L'attivismo si sposta verso l'impatto esterno e la giustizia sociale, spesso rischiando parte dei profitti."
+        },
+        {
+          "text": "Il Brand Activism si focalizza sulla 'giustizia' e sull'impatto esterno globale.",
+          "isCorrect": true,
+          "rationale": "Mentre la CSR riguarda l'essere un 'buon cittadino' (house in order), l'attivismo cerca di risolvere problemi mondiali."
+        },
+        {
+          "text": "La CSR non ha alcun impatto sui lavoratori.",
+          "isCorrect": false,
+          "rationale": "La CSR include spesso i diritti dei lavoratori come parte del miglioramento interno dei processi aziendali."
+        },
+        {
+          "text": "Non c'è differenza, sono sinonimi.",
+          "isCorrect": false,
+          "rationale": "Sono concetti distinti basati sulla profondità dell'impegno e sulla natura (mission vs justice) dell'azione."
+        }
+      ],
+      "hint": "Pensa alla differenza tra fare bene i propri compiti a casa e scendere in piazza per cambiare il mondo."
+    },
+    {
+      "question": "In un sistema digitale, come vengono codificati i dati?",
+      "answerOptions": [
+        {
+          "text": "Attraverso segnali meccanici continui.",
+          "isCorrect": false,
+          "rationale": "Questa è la caratteristica dei sistemi analogici, come i dischi in vinile."
+        },
+        {
+          "text": "Mediante combinazioni di soli due simboli (0 e 1).",
+          "isCorrect": true,
+          "rationale": "La codifica binaria trasforma l'informazione in stati discreti 'acceso/spento', rappresentati da bit."
+        },
+        {
+          "text": "Utilizzando esclusivamente onde radio.",
+          "isCorrect": false,
+          "rationale": "Le onde radio sono un mezzo di trasmissione, non un metodo di codifica fondamentale dell'informazione."
+        },
+        {
+          "text": "Attraverso una serie di colori primari.",
+          "isCorrect": false,
+          "rationale": "I colori possono essere digitalizzati, ma la base del sistema rimane la logica binaria."
+        }
+      ],
+      "hint": "Il termine deriva dal fatto che i computer comprendono solo due stati fondamentali."
+    },
+    {
+      "question": "Qual è la caratteristica del modello di 'Collaborative Customer Care'?",
+      "answerOptions": [
+        {
+          "text": "Trattare il cliente come un 're'.",
+          "isCorrect": false,
+          "rationale": "Trattare il cliente come un re è tipico del modello tradizionale gerarchico, non di quello collaborativo paritario."
+        },
+        {
+          "text": "Considerare il cliente come un partner alla pari.",
+          "isCorrect": true,
+          "rationale": "Il modello collaborativo si basa su un dialogo autentico e sulla co-responsabilità tra azienda e cliente."
+        },
+        {
+          "text": "Utilizzare solo sistemi di risposta automatica.",
+          "isCorrect": false,
+          "rationale": "L'automazione fine a se stessa non garantisce la collaborazione o l'ascolto autentico richiesto dal modello."
+        },
+        {
+          "text": "Focalizzarsi esclusivamente sulla risoluzione rapida del problema.",
+          "isCorrect": false,
+          "rationale": "Oltre alla risoluzione, il modello collaborativo punta a costruire un dialogo e a mantenere impegni condivisi."
+        }
+      ],
+      "hint": "In questo modello, la gerarchia scompare a favore di una relazione orizzontale."
+    },
+    {
+      "question": "Qual è la fase finale del Customer Journey tradizionale?",
+      "answerOptions": [
+        {
+          "text": "Consideration",
+          "isCorrect": false,
+          "rationale": "La fase di valutazione (considerazione) avviene prima dell'acquisto."
+        },
+        {
+          "text": "Purchase",
+          "isCorrect": false,
+          "rationale": "L'acquisto è un momento cruciale, ma il viaggio moderno prosegue oltre la transazione."
+        },
+        {
+          "text": "Loyalty",
+          "isCorrect": true,
+          "rationale": "La fedeltà rappresenta l'obiettivo ultimo di lungo termine del percorso del cliente."
+        },
+        {
+          "text": "Awareness",
+          "isCorrect": false,
+          "rationale": "La consapevolezza (awareness) è il punto di partenza, non di arrivo, del funnel."
+        }
+      ],
+      "hint": "Riguarda il mantenimento di una relazione duratura dopo che l'acquisto è avvenuto."
+    },
+    {
+      "question": "Secondo la definizione di Osterwalder e Pigneur (2010), cos'è un Business Model?",
+      "answerOptions": [
+        {
+          "text": "Una strategia per battere la concorrenza.",
+          "isCorrect": false,
+          "rationale": "Sebbene utile per la competizione, la definizione si focalizza più sui meccanismi interni di valore."
+        },
+        {
+          "text": "La descrizione della logica con cui un'organizzazione crea, distribuisce e cattura valore.",
+          "isCorrect": true,
+          "rationale": "Questa definizione sottolinea il processo olistico del valore, dalla sua genesi alla sua monetizzazione."
+        },
+        {
+          "text": "Un documento contabile per gli investitori.",
+          "isCorrect": false,
+          "rationale": "Quello sarebbe un business plan o un bilancio, non il modello concettuale del business."
+        },
+        {
+          "text": "Un organigramma aziendale.",
+          "isCorrect": false,
+          "rationale": "L'organigramma mostra la struttura gerarchica, non la logica di business."
+        }
+      ],
+      "hint": "Cerca i tre verbi chiave legati al 'valore'."
+    },
+    {
+      "question": "Cosa caratterizza il Marketing 5.0?",
+      "answerOptions": [
+        {
+          "text": "L'uso della tecnologia per l'umanità.",
+          "isCorrect": true,
+          "rationale": "Il Marketing 5.0 integra la centralità umana con le tecnologie avanzate (Next Tech) per migliorare l'esperienza."
+        },
+        {
+          "text": "Il ritorno alla produzione di massa.",
+          "isCorrect": false,
+          "rationale": "Questo sarebbe un passo indietro verso il Marketing 1.0."
+        },
+        {
+          "text": "L'abbandono totale del digitale.",
+          "isCorrect": false,
+          "rationale": "Il digitale è fondamentale nel Marketing 5.0, che anzi lo evolve con AI e dati."
+        },
+        {
+          "text": "La focalizzazione esclusiva sul prezzo basso.",
+          "isCorrect": false,
+          "rationale": "Il valore nel 5.0 va ben oltre il prezzo, includendo personalizzazione e tecnologia."
+        }
+      ],
+      "hint": "È un'evoluzione che unisce l'approccio umanocentrico (3.0) con la potenza del digitale (4.0)."
+    },
+    {
+      "question": "Il 'sito vetrina' è tipico di quale livello di orientamento al digitale di un'impresa?",
+      "answerOptions": [
+        {
+          "text": "Livello Strategico",
+          "isCorrect": false,
+          "rationale": "Al livello strategico, l'impresa integra già online e offline con obiettivi definiti."
+        },
+        {
+          "text": "Livello Core Business",
+          "isCorrect": false,
+          "rationale": "A questo livello l'impresa esiste quasi interamente nello spazio digitale."
+        },
+        {
+          "text": "Primo livello (assenza di obiettivi strategici digitali)",
+          "isCorrect": true,
+          "rationale": "In questa fase iniziale, il sito è solo una 'brochure digitale' con scarsa interattività."
+        },
+        {
+          "text": "Livello Omnicanale",
+          "isCorrect": false,
+          "rationale": "L'omnicanalità richiede un'integrazione profonda che il sito vetrina non possiede."
+        }
+      ],
+      "hint": "È lo stadio più elementare di presenza sul web."
+    },
+    {
+      "question": "Qual è la differenza fondamentale tra bit e byte?",
+      "answerOptions": [
+        {
+          "text": "Non c'è differenza, sono sinonimi.",
+          "isCorrect": false,
+          "rationale": "Sono unità di misura diverse nel sistema di calcolo binario."
+        },
+        {
+          "text": "Un bit è composto da 8 byte.",
+          "isCorrect": false,
+          "rationale": "È vero l'esatto contrario: il bit è l'unità più piccola."
+        },
+        {
+          "text": "Un byte è una serie di 8 bit.",
+          "isCorrect": true,
+          "rationale": "Il byte raggruppa 8 cifre binarie per formare una stringa di dati più complessa."
+        },
+        {
+          "text": "Il bit è analogico, il byte è digitale.",
+          "isCorrect": false,
+          "rationale": "Entrambi sono componenti fondamentali ed esclusivi del sistema digitale."
+        }
+      ],
+      "hint": "Uno è l'unità minima di informazione, l'altro è un suo multiplo standard."
+    },
+    {
+      "question": "Cosa indica l''Effetto di rete indiretto'?",
+      "answerOptions": [
+        {
+          "text": "Il valore di un bene aumenta all'aumentare degli utenti dello stesso bene.",
+          "isCorrect": false,
+          "rationale": "Questa è la definizione di effetto di rete 'diretto', come nel caso del telefono."
+        },
+        {
+          "text": "Il valore di un bene aumenta all'aumentare della varietà di beni complementari disponibili.",
+          "isCorrect": true,
+          "rationale": "Un esempio è il lettore DVD, che diventa più utile se aumentano i film disponibili in quel formato."
+        },
+        {
+          "text": "Il valore diminuisce se troppe persone usano la rete.",
+          "isCorrect": false,
+          "rationale": "Questo descriverebbe un effetto di congestione, non un effetto di rete positivo."
+        },
+        {
+          "text": "Un effetto che si manifesta solo nelle trasmissioni radio analogiche.",
+          "isCorrect": false,
+          "rationale": "L'effetto di rete è un concetto chiave dell'economia digitale e delle piattaforme."
+        }
+      ],
+      "hint": "Pensa alla relazione tra un hardware e i suoi contenuti o software."
+    },
+    {
+      "question": "Perché i dati digitali sono chiamati 'discreti'?",
+      "answerOptions": [
+        {
+          "text": "Perché cambiano in modo continuo nel tempo.",
+          "isCorrect": false,
+          "rationale": "Il cambiamento continuo è la caratteristica dei dati analogici."
+        },
+        {
+          "text": "Perché cambiano saltando tra stati definiti (es. on/off).",
+          "isCorrect": true,
+          "rationale": "A differenza dell'analogico, il digitale non ammette sfumature infinite tra uno stato e l'altro."
+        },
+        {
+          "text": "Perché non possono essere visti dall'utente.",
+          "isCorrect": false,
+          "rationale": "La 'discrezione' non si riferisce alla visibilità ma alla natura matematica dei dati."
+        },
+        {
+          "text": "Perché occupano pochissimo spazio fisico.",
+          "isCorrect": false,
+          "rationale": "Sebbene spesso compatti, 'discreto' si riferisce alla separazione netta tra i valori."
+        }
+      ],
+      "hint": "Pensa alla differenza tra un interruttore della luce e un regolatore di intensità (dimmer)."
+    },
+    {
+      "question": "Quale elemento del Business Model Canvas riguarda il modo in cui l'azienda comunica e raggiunge i propri clienti?",
+      "answerOptions": [
+        {
+          "text": "Customer Relationships",
+          "isCorrect": false,
+          "rationale": "Questo blocco riguarda il tipo di legame emotivo o operativo, non il mezzo di trasporto del valore."
+        },
+        {
+          "text": "Channels (Canali)",
+          "isCorrect": true,
+          "rationale": "I canali sono i punti di contatto (touchpoints) attraverso cui l'azienda consegna la proposta di valore."
+        },
+        {
+          "text": "Key Activities",
+          "isCorrect": false,
+          "rationale": "Le attività chiave sono i processi interni necessari per far funzionare il modello."
+        },
+        {
+          "text": "Revenue Streams",
+          "isCorrect": false,
+          "rationale": "Si riferisce ai flussi finanziari in entrata, non alla comunicazione."
+        }
+      ],
+      "hint": "È il ponte fisico o virtuale tra l'azienda e il suo segmento di mercato."
+    },
+    {
+      "question": "Nel contesto del Brand Activism, cosa rappresenta il quadrante 'Purpose'?",
+      "answerOptions": [
+        {
+          "text": "Un'azione di advocacy con basso impatto interno.",
+          "isCorrect": false,
+          "rationale": "L'advocacy è tipica del Cause Marketing, non del Purpose nel senso stretto della matrice."
+        },
+        {
+          "text": "Una 'mission' con alto impatto interno ma basso impatto esterno immediato nel mondo.",
+          "isCorrect": true,
+          "rationale": "Il 'Purpose' si concentra sul mettere ordine in casa propria (etica, supply chain) prima di agire fuori."
+        },
+        {
+          "text": "La semplice beneficenza occasionale.",
+          "isCorrect": false,
+          "rationale": "La beneficenza non strutturata non rientra in una strategia di 'Purpose' aziendale."
+        },
+        {
+          "text": "Un movimento di giustizia sociale globale.",
+          "isCorrect": false,
+          "rationale": "Questo sarebbe il Brand Activism vero e proprio, situato in un quadrante diverso."
+        }
+      ],
+      "hint": "Si focalizza sul 'get our house in order' tramite una missione chiara."
+    },
+    {
+      "question": "Qual è un esempio di variabile di segmentazione 'Comportamentale'?",
+      "answerOptions": [
+        {
+          "text": "La nazione di residenza.",
+          "isCorrect": false,
+          "rationale": "La residenza è una variabile geografica."
+        },
+        {
+          "text": "La frequenza d'uso del prodotto.",
+          "isCorrect": true,
+          "rationale": "Si basa sull'osservazione di come il cliente interagisce effettivamente con l'offerta."
+        },
+        {
+          "text": "Il titolo di studio.",
+          "isCorrect": false,
+          "rationale": "L'istruzione è una variabile socio-demografica classica."
+        },
+        {
+          "text": "Il carattere ambizioso del consumatore.",
+          "isCorrect": false,
+          "rationale": "I tratti della personalità rientrano nella segmentazione psicografica."
+        }
+      ],
+      "hint": "Cerca qualcosa che descriva 'cosa fa' il cliente con il prodotto o la marca."
+    },
+    {
+      "question": "Secondo Grosh's Law, se la velocità di elaborazione aumenta di 4 volte, cosa succede al costo del computer?",
+      "answerOptions": [
+        {
+          "text": "Raddoppia.",
+          "isCorrect": false,
+          "rationale": "Sarebbe una crescita lineare dei costi, non coerente con l'efficienza descritta dalla legge."
+        },
+        {
+          "text": "Si riduce della metà.",
+          "isCorrect": true,
+          "rationale": "La legge suggerisce che la potenza di calcolo cresce più velocemente del costo necessario per ottenerla."
+        },
+        {
+          "text": "Resta invariato.",
+          "isCorrect": false,
+          "rationale": "La tecnologia tende a diventare più economica per unità di prestazione, non a restare stabile."
+        },
+        {
+          "text": "Aumenta esponenzialmente.",
+          "isCorrect": false,
+          "rationale": "Questo renderebbe l'informatica inaccessibile con il passare del tempo."
+        }
+      ],
+      "hint": "C'è un rapporto inverso tra l'aumento massiccio della velocità e la variazione del prezzo."
+    },
+    {
+      "question": "Cosa rappresenta il 'Collaborative Customer Care' nel passaggio dai vecchi ai nuovi modelli?",
+      "answerOptions": [
+        {
+          "text": "Un modello gerarchico e unilaterale.",
+          "isCorrect": false,
+          "rationale": "Questo è il modello tradizionale che il collaborative care intende superare."
+        },
+        {
+          "text": "Uno spostamento verso un modello partecipativo che valorizza la collaborazione.",
+          "isCorrect": true,
+          "rationale": "L'enfasi è posta sulla reciprocità e sul coinvolgimento del cliente nel processo di assistenza."
+        },
+        {
+          "text": "Un sistema dove il cliente fa tutto da solo.",
+          "isCorrect": false,
+          "rationale": "Quello sarebbe il self-service, diverso dalla collaborazione azienda-cliente."
+        },
+        {
+          "text": "Un modo per ignorare i reclami dei clienti.",
+          "isCorrect": false,
+          "rationale": "Al contrario, richiede un ascolto molto più attento e risposte personalizzate."
+        }
+      ],
+      "hint": "Pensa a un cambio di direzione: da 'top-down' a 'paritario'."
+    },
+    {
+      "question": "Quale tendenza definisce il Marketing 6.0?",
+      "answerOptions": [
+        {
+          "text": "L'orientamento esclusivo alla vendita porta a porta.",
+          "isCorrect": false,
+          "rationale": "Sarebbe un'attività obsoleta rispetto all'evoluzione digitale descritta."
+        },
+        {
+          "text": "L'inevitabilità del marketing immersivo (Immersive Marketing).",
+          "isCorrect": true,
+          "rationale": "Il 6.0 sfrutta micro-trend come realtà virtuale, wearable devices e contenuti video brevi per un'esperienza totale."
+        },
+        {
+          "text": "La fine della segmentazione del mercato.",
+          "isCorrect": false,
+          "rationale": "La segmentazione resta cruciale, ma diventa iper-personalizzata."
+        },
+        {
+          "text": "La riduzione dell'uso dell'intelligenza artificiale.",
+          "isCorrect": false,
+          "rationale": "L'AI basata sul linguaggio è uno dei motori principali identificati per il futuro immersivo."
+        }
+      ],
+      "hint": "Cerca un termine che indichi il coinvolgimento totale dei sensi e dell'ambiente dell'utente."
+    },
+    {
+      "question": "Il posizionamento del brand oggi è considerato:",
+      "answerOptions": [
+        {
+          "text": "Solo una dichiarazione aziendale ufficiale.",
+          "isCorrect": false,
+          "rationale": "Oggi la sola voce dell'azienda non è più sufficiente a determinare il posizionamento reale."
+        },
+        {
+          "text": "Una percezione condivisa costruita su coerenza e adattabilità.",
+          "isCorrect": true,
+          "rationale": "Il brand vive nelle menti dei consumatori e si nutre della coerenza tra valori dichiarati e azioni comunicative."
+        },
+        {
+          "text": "Un logo ben disegnato.",
+          "isCorrect": false,
+          "rationale": "Il logo è un elemento visivo, ma il posizionamento riguarda il significato strategico."
+        },
+        {
+          "text": "Qualcosa che non può cambiare nel tempo.",
+          "isCorrect": false,
+          "rationale": "L'adattabilità comunicativa è essenziale per sopravvivere ai cambiamenti del mercato."
+        }
+      ],
+      "hint": "Non è più un monologo dell'azienda, ma un dialogo con la comunità."
+    },
+    {
+      "question": "Che cosa si intende per 'Omni-channel' nel comportamento del nuovo consumatore?",
+      "answerOptions": [
+        {
+          "text": "L'uso di un unico canale informativo per evitare confusione.",
+          "isCorrect": false,
+          "rationale": "Questo sarebbe un comportamento mono-canale, ormai superato dalla complessità digitale."
+        },
+        {
+          "text": "L'utilizzo di molteplici punti di contatto in modo integrato durante il Customer Journey.",
+          "isCorrect": true,
+          "rationale": "Il consumatore passa fluidamente dal sito, all'app, al negozio fisico basandosi sul bisogno del momento."
+        },
+        {
+          "text": "La tendenza a guardare solo la televisione digitale.",
+          "isCorrect": false,
+          "rationale": "L'omnicanalità riguarda la combinazione di tutti i mezzi, non la preferenza per uno solo."
+        },
+        {
+          "text": "L'acquisto di prodotti esclusivamente tramite social network.",
+          "isCorrect": false,
+          "rationale": "Il social commerce è solo una parte del più ampio ecosistema omnicanale."
+        }
+      ],
+      "hint": "Riflette la capacità dell'utente di essere presente su più piattaforme contemporaneamente o in sequenza."
+    },
+    {
+      "question": "Secondo le fasi della segmentazione, qual è il passaggio successivo alla suddivisione dei potenziali acquirenti in segmenti?",
+      "answerOptions": [
+        {
+          "text": "Identificazione dei bisogni del mercato.",
+          "isCorrect": false,
+          "rationale": "Questo è il prerequisito fondamentale che avviene prima di iniziare a segmentare."
+        },
+        {
+          "text": "Suddividere i prodotti in categorie.",
+          "isCorrect": true,
+          "rationale": "Dopo aver analizzato la domanda (clienti), occorre organizzare l'offerta (prodotti) in gruppi coerenti."
+        },
+        {
+          "text": "Selezionare i mercati obiettivo.",
+          "isCorrect": false,
+          "rationale": "La selezione del target (fase 4) avviene dopo aver incrociato prodotti e segmenti in una matrice."
+        },
+        {
+          "text": "Implementare il programma di marketing.",
+          "isCorrect": false,
+          "rationale": "Questa è l'azione finale, che segue tutto il processo analitico di segmentazione."
+        }
+      ],
+      "hint": "Una volta capito a chi rivolgersi, bisogna guardare a cosa si offre."
+    },
+    {
+      "question": "Quale blocco del Business Model Canvas elenca i beni fisici, intellettuali o finanziari indispensabili?",
+      "answerOptions": [
+        {
+          "text": "Key Partners",
+          "isCorrect": false,
+          "rationale": "I partner sono soggetti esterni, non beni o asset interni dell'impresa."
+        },
+        {
+          "text": "Key Resources (Risorse Chiave)",
+          "isCorrect": true,
+          "rationale": "Questo blocco descrive gli asset strategici necessari per creare e offrire il valore."
+        },
+        {
+          "text": "Cost Structure",
+          "isCorrect": false,
+          "rationale": "Descrive l'esborso monetario, non la natura degli asset posseduti."
+        },
+        {
+          "text": "Key Activities",
+          "isCorrect": false,
+          "rationale": "Si riferisce alle azioni da compiere, non agli strumenti con cui compierle."
+        }
+      ],
+      "hint": "Pensa a ciò che l'azienda deve 'possedere' per poter operare."
+    },
+    {
+      "question": "Nella matrice 'Business as a Force for Good', a cosa punta il quadrante 'Cause Marketing'?",
+      "answerOptions": [
+        {
+          "text": "Alla giustizia sociale profonda.",
+          "isCorrect": false,
+          "rationale": "La giustizia sociale è l'obiettivo dell'attivismo, non del semplice cause marketing."
+        },
+        {
+          "text": "All'advocacy (patrocinio) con alto impatto esterno ma basso impatto interno.",
+          "isCorrect": true,
+          "rationale": "Il cause marketing sostiene una causa esterna per differenziarsi, senza necessariamente cambiare radicalmente la cultura aziendale interna."
+        },
+        {
+          "text": "Al miglioramento dei diritti dei lavoratori.",
+          "isCorrect": false,
+          "rationale": "Questo è solitamente un obiettivo interno legato alla CSR o al Purpose."
+        },
+        {
+          "text": "Alla creazione di una valuta digitale propria.",
+          "isCorrect": false,
+          "rationale": "Non c'è un legame diretto tra il marketing delle cause e le revenue stream tecnologiche."
+        }
+      ],
+      "hint": "Si concentra sul fare una differenza nel mondo attraverso il supporto a cause terze."
+    },
+    {
+      "question": "Qual è una caratteristica delle piattaforme nei mercati 'Two-sided'?",
+      "answerOptions": [
+        {
+          "text": "Il valore per una parte è indipendente dal numero di membri dell'altra parte.",
+          "isCorrect": false,
+          "rationale": "Nelle piattaforme a due mercati, il valore è strettamente interdipendente."
+        },
+        {
+          "text": "Il valore dell'accesso per ciascuna parte è tanto più alto quanto più membri sono presenti dall'altra parte.",
+          "isCorrect": true,
+          "rationale": "È il principio cardine di piattaforme come Airbnb o Uber: più driver ci sono, più valore ha l'app per i passeggeri."
+        },
+        {
+          "text": "L'accesso è sempre gratuito per tutti.",
+          "isCorrect": false,
+          "rationale": "Un problema critico per queste piattaforme è proprio decidere quanto far pagare a ciascun lato per massimizzare il profitto."
+        },
+        {
+          "text": "Esiste solo un tipo di utente.",
+          "isCorrect": false,
+          "rationale": "Per definizione, i mercati a due lati richiedono almeno due gruppi distinti (es. produttori e consumatori)."
+        }
+      ],
+      "hint": "Immagina un centro commerciale: ha bisogno sia di negozi che di visitatori per funzionare."
+    },
+    {
+      "question": "Secondo le slide sulla segmentazione, cos'è la segmentazione di marketing?",
+      "answerOptions": [
+        {
+          "text": "La vendita di prodotti a chiunque ne faccia richiesta.",
+          "isCorrect": false,
+          "rationale": "Questa è la vendita indifferenziata, l'opposto della segmentazione."
+        },
+        {
+          "text": "La suddivisione della domanda in sottoinsiemi distinti di consumatori omogenei al loro interno.",
+          "isCorrect": true,
+          "rationale": "L'obiettivo è creare gruppi che reagiscano in modo simile alle leve del marketing mix."
+        },
+        {
+          "text": "Un modo per ridurre il numero di prodotti offerti.",
+          "isCorrect": false,
+          "rationale": "La segmentazione può portare a offrire più varianti di prodotto per soddisfare diversi gruppi."
+        },
+        {
+          "text": "L'eliminazione dei concorrenti dal mercato.",
+          "isCorrect": false,
+          "rationale": "È un'attività di analisi della domanda, non una manovra di acquisizione o eliminazione di competitor."
+        }
+      ],
+      "hint": "Riguarda il dividere il mercato in 'fette' simili tra loro."
+    },
+    {
+      "question": "Perché i CD sono definiti digitali nelle slide fornite?",
+      "answerOptions": [
+        {
+          "text": "Perché sono fatti di plastica trasparente.",
+          "isCorrect": false,
+          "rationale": "Il materiale non determina la natura analogica o digitale dei dati memorizzati."
+        },
+        {
+          "text": "Perché immagazzinano suoni trasformandoli in una serie di 'buchi' (pits) e 'terre' (lands).",
+          "isCorrect": true,
+          "rationale": "Questa struttura fisica rappresenta i dati binari (0 e 1) in modo discreto."
+        },
+        {
+          "text": "Perché possono essere letti solo da computer.",
+          "isCorrect": false,
+          "rationale": "Anche i lettori CD audio non informatici leggono dati digitali."
+        },
+        {
+          "text": "Perché sono più piccoli dei dischi in vinile.",
+          "isCorrect": false,
+          "rationale": "La dimensione è una scelta di design, non una caratteristica tecnologica della codifica."
+        }
+      ],
+      "hint": "Pensa alla traduzione fisica del codice binario sulla superficie del disco."
+    },
+    {
+      "question": "Quale tra questi è considerato un 'Device' digitale invece di una 'Piattaforma'?",
+      "answerOptions": [
+        {
+          "text": "Internet",
+          "isCorrect": false,
+          "rationale": "Internet è l'infrastruttura/piattaforma globale che connette i dispositivi."
+        },
+        {
+          "text": "Social Network",
+          "isCorrect": false,
+          "rationale": "I social sono piattaforme digitali basate sul web."
+        },
+        {
+          "text": "Smartphone",
+          "isCorrect": true,
+          "rationale": "Lo smartphone è l'hardware fisico, ovvero il dispositivo (device) utilizzato per accedere alle piattaforme."
+        },
+        {
+          "text": "Web",
+          "isCorrect": false,
+          "rationale": "Il World Wide Web è una piattaforma che gira sopra l'infrastruttura di Internet."
+        }
+      ],
+      "hint": "Cerca l'oggetto fisico che puoi tenere in mano."
+    },
+    {
+      "question": "Nella Customer Experience, quali tipi di risposte dei clienti vengono generate dalle interazioni?",
+      "answerOptions": [
+        {
+          "text": "Solo risposte economiche (prezzo).",
+          "isCorrect": false,
+          "rationale": "L'esperienza del cliente è un concetto molto più profondo e multi-dimensionale del solo costo."
+        },
+        {
+          "text": "Risposte cognitive, affettive e comportamentali.",
+          "isCorrect": true,
+          "rationale": "Le interazioni influenzano ciò che il cliente pensa, ciò che prova e come agisce di conseguenza."
+        },
+        {
+          "text": "Solo risposte meccaniche pre-programmate.",
+          "isCorrect": false,
+          "rationale": "Questo si riferirebbe a macchine, non a consumatori umani."
+        },
+        {
+          "text": "Risposte esclusivamente negative in caso di problemi.",
+          "isCorrect": false,
+          "rationale": "Un'esperienza positiva genera risposte positive che portano alla fedeltà."
+        }
+      ],
+      "hint": "Pensa alla mente, al cuore e alle azioni dell'utente."
+    },
+    {
+      "question": "Cosa rappresenta la 'Co-creation' nel modello delle 4C?",
+      "answerOptions": [
+        {
+          "text": "La creazione di prodotti da parte della sola azienda.",
+          "isCorrect": false,
+          "rationale": "Questo è il modello push tradizionale."
+        },
+        {
+          "text": "La partecipazione del cliente nel processo di sviluppo di nuovi prodotti.",
+          "isCorrect": true,
+          "rationale": "L'azienda coinvolge attivamente l'utente per generare idee o testare soluzioni (prosumerism)."
+        },
+        {
+          "text": "L'acquisto collettivo di gruppi di consumatori.",
+          "isCorrect": false,
+          "rationale": "Questo è il group buying, un fenomeno diverso dalla co-creazione del valore."
+        },
+        {
+          "text": "La collaborazione tra due aziende concorrenti.",
+          "isCorrect": false,
+          "rationale": "Quella sarebbe una partnership strategica o co-opetition."
+        }
+      ],
+      "hint": "Si basa sull'idea che il cliente non sia solo un destinatario ma un collaboratore."
+    },
+    {
+      "question": "Secondo le slide, qual è un obiettivo fondamentale del Business Model?",
+      "answerOptions": [
+        {
+          "text": "Limitare la comunicazione esterna.",
+          "isCorrect": false,
+          "rationale": "La comunicazione è vitale per trasmettere la proposta di valore."
+        },
+        {
+          "text": "Catturare un'opportunità di mercato creando valore per tutti gli stakeholder.",
+          "isCorrect": true,
+          "rationale": "Il modello deve essere sostenibile e vantaggioso per clienti, partner e azienda stessa."
+        },
+        {
+          "text": "Ignorare le minacce esterne.",
+          "isCorrect": false,
+          "rationale": "Un buon modello deve essere resiliente e adattabile alle condizioni esterne."
+        },
+        {
+          "text": "Massimizzare i costi di produzione.",
+          "isCorrect": false,
+          "rationale": "L'obiettivo è solitamente l'efficienza, non l'aumento dei costi."
+        }
+      ],
+      "hint": "Cerca la creazione di un beneficio condiviso tra i vari attori coinvolti."
+    },
+    {
+      "question": "Nel Marketing 5.0, cosa si intende per 'Augmented Marketing'?",
+      "answerOptions": [
+        {
+          "text": "L'aumento dei prezzi durante i periodi di crisi.",
+          "isCorrect": false,
+          "rationale": "Questa sarebbe una politica di pricing, non una forma di marketing tecnologico."
+        },
+        {
+          "text": "L'uso di tecnologie per potenziare le capacità umane dei marketer e l'esperienza cliente.",
+          "isCorrect": true,
+          "rationale": "Si riferisce all'integrazione di AI e strumenti digitali per assistere e migliorare l'interazione umana."
+        },
+        {
+          "text": "La riduzione del personale di marketing.",
+          "isCorrect": false,
+          "rationale": "L'obiettivo è il potenziamento (augmenting), non necessariamente la sostituzione totale dell'uomo."
+        },
+        {
+          "text": "L'espansione geografica forzata in nuovi mercati.",
+          "isCorrect": false,
+          "rationale": "Questa è una strategia di sviluppo del mercato, non legata specificamente alla definizione di marketing aumentato."
+        }
+      ],
+      "hint": "Significa 'potenziato' grazie all'ausilio della tecnologia digitale."
+    },
+    {
+      "question": "Che tipo di legame si cerca di costruire nel marketing tradizionale 'determinista'?",
+      "answerOptions": [
+        {
+          "text": "Impresa - Segmento target",
+          "isCorrect": true,
+          "rationale": "Il marketing tradizionale ragiona per blocchi definiti a-priori (segmenti) a cui l'impresa invia proposte."
+        },
+        {
+          "text": "Utente - Utente (Peer-to-peer)",
+          "isCorrect": false,
+          "rationale": "Il legame peer-to-peer è tipico del marketing moderno e delle reti social."
+        },
+        {
+          "text": "Brand - Intelligenza Artificiale",
+          "isCorrect": false,
+          "rationale": "Questo è un concetto avanzato del Marketing 5.0/6.0."
+        },
+        {
+          "text": "Nessun legame, solo transazioni casuali.",
+          "isCorrect": false,
+          "rationale": "Anche il marketing tradizionale punta alla fedeltà, sebbene con modalità più rigide."
+        }
+      ],
+      "hint": "Pensa alla direzione classica della comunicazione 'uno-a-molti'."
+    },
+    {
+      "question": "Quale di questi NON è un componente del Business Model Canvas?",
+      "answerOptions": [
+        {
+          "text": "Cost Structure",
+          "isCorrect": false,
+          "rationale": "È uno dei due blocchi alla base del canvas."
+        },
+        {
+          "text": "Revenue Streams",
+          "isCorrect": false,
+          "rationale": "È fondamentale per capire come l'azienda incassa denaro."
+        },
+        {
+          "text": "Competitor Analysis",
+          "isCorrect": true,
+          "rationale": "Sebbene cruciale per la strategia, l'analisi dei competitor non è un blocco interno del canvas di Osterwalder."
+        },
+        {
+          "text": "Key Resources",
+          "isCorrect": false,
+          "rationale": "Fa parte dei blocchi che descrivono l'infrastruttura dell'impresa."
+        }
+      ],
+      "hint": "Cerca qualcosa che di solito si fa 'prima' o 'fuori' dal disegno del proprio modello interno."
+    },
+    {
+      "question": "Cosa indica il termine 'Hyper-connected' riferito ai consumatori attuali?",
+      "answerOptions": [
+        {
+          "text": "Che usano internet solo per lavoro.",
+          "isCorrect": false,
+          "rationale": "L'iper-connessione riguarda ogni aspetto della vita quotidiana."
+        },
+        {
+          "text": "Che sono collegati a una vasta rete di risorse e contatti in ogni momento e ovunque.",
+          "isCorrect": true,
+          "rationale": "Grazie ai dispositivi mobili, il consumatore è costantemente 'online' e influenzabile in tempo reale."
+        },
+        {
+          "text": "Che soffrono di problemi di connessione lenta.",
+          "isCorrect": false,
+          "rationale": "Il termine si riferisce alla frequenza e alla pervasività della connessione, non alla sua qualità tecnica."
+        },
+        {
+          "text": "Che acquistano solo prodotti tecnologici.",
+          "isCorrect": false,
+          "rationale": "L'iper-connessione è uno stato dell'essere che influenza l'acquisto di qualunque categoria merceologica."
+        }
+      ],
+      "hint": "Significa essere sempre 'accesi' e parte di un network globale."
+    },
+    {
+      "question": "Quale variabile di segmentazione considera la 'classe sociale' o la 'professione'?",
+      "answerOptions": [
+        {
+          "text": "Geografica",
+          "isCorrect": false,
+          "rationale": "Queste caratteristiche non dipendono dalla posizione fisica sulla mappa."
+        },
+        {
+          "text": "Socio-Demografica",
+          "isCorrect": true,
+          "rationale": "Include i dati statistici che descrivono la composizione sociale ed economica della popolazione."
+        },
+        {
+          "text": "Comportamentale",
+          "isCorrect": false,
+          "rationale": "La professione è uno stato dell'individuo, non un'azione compiuta verso il brand."
+        },
+        {
+          "text": "Tecnologica",
+          "isCorrect": false,
+          "rationale": "Non è una delle quattro categorie principali menzionate nelle slide integrative."
+        }
+      ],
+      "hint": "È la categoria che raggruppa le caratteristiche anagrafiche e sociali classiche."
+    },
+    {
+      "question": "Nella visione moderna, il rapporto impresa-cliente è passato da 'unilaterale' a:",
+      "answerOptions": [
+        {
+          "text": "Inesistente.",
+          "isCorrect": false,
+          "rationale": "Il rapporto è diventato più centrale che mai, non è scomparso."
+        },
+        {
+          "text": "Reciproco e partecipativo.",
+          "isCorrect": true,
+          "rationale": "L'interazione è ora a due vie, con il cliente che influenza attivamente l'impresa."
+        },
+        {
+          "text": "Soltanto finanziario.",
+          "isCorrect": false,
+          "rationale": "Oltre al denaro, entrano in gioco valori, emozioni e collaborazione."
+        },
+        {
+          "text": "Casuale e non pianificabile.",
+          "isCorrect": false,
+          "rationale": "L'impresa cerca di gestire questa reciprocità in modo strategico."
+        }
+      ],
+      "hint": "Significa che entrambe le parti agiscono e reagiscono l'una all'altra."
+    },
+    {
+      "question": "A cosa serve la 'Matrice Prodotto-Mercato' nella fase di segmentazione?",
+      "answerOptions": [
+        {
+          "text": "A stampare i loghi sui prodotti.",
+          "isCorrect": false,
+          "rationale": "È uno strumento analitico, non un processo di produzione grafica."
+        },
+        {
+          "text": "A stimare le dimensioni dei mercati incrociando segmenti e categorie di prodotto.",
+          "isCorrect": true,
+          "rationale": "Permette di visualizzare dove l'impresa ha le maggiori opportunità di vendita."
+        },
+        {
+          "text": "A misurare la velocità di internet.",
+          "isCorrect": false,
+          "rationale": "Non ha legami con le prestazioni tecniche della rete."
+        },
+        {
+          "text": "A calcolare lo stipendio dei venditori.",
+          "isCorrect": false,
+          "rationale": "Il suo scopo è la pianificazione strategica del mercato, non la gestione delle risorse umane."
+        }
+      ],
+      "hint": "È un modo per mettere in relazione chi compra con cosa viene venduto."
+    },
+    {
+      "question": "Qual è il rischio principale di un brand che non adotta l''adattabilità comunicativa'?",
+      "answerOptions": [
+        {
+          "text": "Diventare troppo famoso.",
+          "isCorrect": false,
+          "rationale": "L'eccessiva fama non è un rischio legato alla mancanza di adattamento."
+        },
+        {
+          "text": "Perdere rilevanza e non riuscire a penetrare nelle comunità digitali.",
+          "isCorrect": true,
+          "rationale": "Senza adattarsi ai linguaggi e ai codici dei consumatori (acting as friends), il messaggio viene ignorato."
+        },
+        {
+          "text": "Aumentare troppo i margini di profitto.",
+          "isCorrect": false,
+          "rationale": "L'incapacità di comunicare solitamente riduce i profitti, non li aumenta."
+        },
+        {
+          "text": "Ricevere troppi feedback positivi.",
+          "isCorrect": false,
+          "rationale": "Il feedback positivo deriva proprio dalla capacità di ascoltare e adattarsi."
+        }
+      ],
+      "hint": "Riguarda la capacità del messaggio di 'entrare' in modo naturale nei nuovi contesti social."
+    },
+    {
+      "question": "In un mercato 'Two-sided', chi sono i due gruppi principali?",
+      "answerOptions": [
+        {
+          "text": "Stato e Cittadini.",
+          "isCorrect": false,
+          "rationale": "Sebbene interagiscano, non è la struttura tipica descritta per i modelli di business digitali."
+        },
+        {
+          "text": "Consumatori e Produttori.",
+          "isCorrect": true,
+          "rationale": "Entrambi hanno bisogno della piattaforma per interagire e scambiare valore."
+        },
+        {
+          "text": "Software e Hardware.",
+          "isCorrect": false,
+          "rationale": "Questi sono componenti tecnologici, non gruppi di utenti del mercato."
+        },
+        {
+          "text": "Senior e Junior manager.",
+          "isCorrect": false,
+          "rationale": "Questa è una distinzione organizzativa interna all'azienda."
+        }
+      ],
+      "hint": "Pensa a chi vende e a chi compra all'interno di un'app di marketplace."
+    },
+    {
+      "question": "Cosa caratterizza l''Agile Marketing' nel modello 5.0?",
+      "answerOptions": [
+        {
+          "text": "Piani di marketing decennali e immutabili.",
+          "isCorrect": false,
+          "rationale": "Questo sarebbe l'opposto del concetto di agilità, che richiede velocità e adattamento."
+        },
+        {
+          "text": "Capacità di reazione rapida basata su dati e cicli brevi di sperimentazione.",
+          "isCorrect": true,
+          "rationale": "Il marketing agile permette di correggere la rotta velocemente in base ai feedback del mercato."
+        },
+        {
+          "text": "L'uso esclusivo di atleti nelle pubblicità.",
+          "isCorrect": false,
+          "rationale": "L'agilità si riferisce al processo decisionale e operativo, non al testimonial."
+        },
+        {
+          "text": "La totale assenza di tecnologia.",
+          "isCorrect": false,
+          "rationale": "L'agilità moderna è abilitata proprio dagli strumenti digitali che forniscono dati in tempo reale."
+        }
+      ],
+      "hint": "Pensa alla velocità di risposta ai cambiamenti improvvisi del mercato."
+    },
+    {
+      "question": "Qual è il primo stadio del Customer Journey secondo lo schema fornito?",
+      "answerOptions": [
+        {
+          "text": "Consideration",
+          "isCorrect": false,
+          "rationale": "Avviene dopo che il cliente ha già conosciuto il brand."
+        },
+        {
+          "text": "Awareness (Consapevolezza)",
+          "isCorrect": true,
+          "rationale": "È il momento in cui il consumatore scopre l'esistenza di un brand o di una soluzione."
+        },
+        {
+          "text": "Purchase",
+          "isCorrect": false,
+          "rationale": "È la fase transazionale che avviene molto più avanti nel percorso."
+        },
+        {
+          "text": "Familiarity",
+          "isCorrect": false,
+          "rationale": "Viene subito dopo la consapevolezza iniziale."
+        }
+      ],
+      "hint": "È l'ingresso nel funnel di vendita."
+    },
+    {
+      "question": "Perché la segmentazione 'Psicografica' è considerata più profonda di quella 'Socio-Demografica'?",
+      "answerOptions": [
+        {
+          "text": "Perché costa meno realizzarla.",
+          "isCorrect": false,
+          "rationale": "Al contrario, richiede spesso ricerche di mercato più costose e complesse."
+        },
+        {
+          "text": "Perché analizza i valori, le opinioni e gli interessi invece di meri dati anagrafici.",
+          "isCorrect": true,
+          "rationale": "Permette di capire il 'perché' dietro i comportamenti di acquisto, non solo il 'chi' compra."
+        },
+        {
+          "text": "Perché usa solo dati GPS.",
+          "isCorrect": false,
+          "rationale": "I dati GPS sono legati alla segmentazione geografica."
+        },
+        {
+          "text": "Perché è utile solo per i prodotti di lusso.",
+          "isCorrect": false,
+          "rationale": "È utile per ogni categoria, poiché ogni consumatore ha motivazioni psicologiche diverse."
+        }
+      ],
+      "hint": "Va oltre l'età o il reddito per guardare dentro la mente del consumatore."
+    },
+    {
+      "question": "Cosa indica l'espressione 'Acting as friends' riferita ai brand moderni?",
+      "answerOptions": [
+        {
+          "text": "Che i brand devono prestare soldi ai clienti.",
+          "isCorrect": false,
+          "rationale": "Non si riferisce a un supporto finanziario personale."
+        },
+        {
+          "text": "Che devono mostrare cura e preoccupazione genuina per i bisogni dei clienti.",
+          "isCorrect": true,
+          "rationale": "Si tratta di costruire un rapporto di fiducia basato sull'empatia e sulla vicinanza valoriale."
+        },
+        {
+          "text": "Che devono assumere i propri amici in azienda.",
+          "isCorrect": false,
+          "rationale": "È una metafora del tono di voce e dell'atteggiamento verso il mercato."
+        },
+        {
+          "text": "Che non devono più vendere prodotti.",
+          "isCorrect": false,
+          "rationale": "La vendita rimane lo scopo, ma cambia radicalmente la modalità di interazione."
+        }
+      ],
+      "hint": "Riguarda il tono di voce e l'autenticità della relazione."
+    },
+    {
+      "question": "Quale tra questi è un esempio di 'Effetto di rete diretto'?",
+      "answerOptions": [
+        {
+          "text": "Il numero di app disponibili per uno smartphone.",
+          "isCorrect": false,
+          "rationale": "Questo è un effetto indiretto (più app -> più valore al telefono)."
+        },
+        {
+          "text": "Una rete telefonica (più persone hanno il telefono, più persone posso chiamare).",
+          "isCorrect": true,
+          "rationale": "Il valore aumenta direttamente con la partecipazione di altri utenti della stessa rete."
+        },
+        {
+          "text": "Il prezzo scontato di un prodotto al supermercato.",
+          "isCorrect": false,
+          "rationale": "Questa è una promozione di prezzo, non legata alla dimensione della rete di utenti."
+        },
+        {
+          "text": "La qualità dei materiali di una giacca.",
+          "isCorrect": false,
+          "rationale": "Il valore è intrinseco al bene e non dipende dal numero di altri proprietari di giacche."
+        }
+      ],
+      "hint": "Si manifesta quando l'utilità cresce semplicemente perché ci sono più persone con cui interagire nello stesso modo."
+    },
+    {
+      "question": "Nel Business Model Canvas, cosa descrive il blocco 'Revenue Streams'?",
+      "answerOptions": [
+        {
+          "text": "I canali di distribuzione fisica.",
+          "isCorrect": false,
+          "rationale": "Questi appartengono al blocco 'Channels'."
+        },
+        {
+          "text": "Il denaro che l'azienda genera da ogni segmento di clientela.",
+          "isCorrect": true,
+          "rationale": "Rappresenta le arterie finanziarie del modello di business."
+        },
+        {
+          "text": "Le spese fisse mensili dell'ufficio.",
+          "isCorrect": false,
+          "rationale": "Le spese appartengono alla 'Cost Structure'."
+        },
+        {
+          "text": "Il numero di dipendenti assunti.",
+          "isCorrect": false,
+          "rationale": "Le risorse umane rientrano nelle 'Key Resources'."
+        }
+      ],
+      "hint": "Risponde alla domanda: 'Per quale valore i nostri clienti sono veramente disposti a pagare?'"
+    }
+  ]
+}

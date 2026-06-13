@@ -1,0 +1,1305 @@
+{
+  "title": "Marketing Quiz",
+  "questions": [
+    {
+      "question": "Qual è la definizione corretta di 'Digitalizzazione' secondo il materiale fornito?",
+      "answerOptions": [
+        {
+          "text": "Convertire documenti e informazioni in formato digitale.",
+          "isCorrect": true,
+          "rationale": "La digitalizzazione si focalizza sul passaggio dal supporto fisico (come la carta) a quello elettronico."
+        },
+        {
+          "text": "Automatizzare i processi aziendali tramite un CRM.",
+          "isCorrect": false,
+          "rationale": "Questa descrizione si riferisce specificamente alla digitalizzazione dei processi, non alla digitalizzazione di base."
+        },
+        {
+          "text": "Cambiare il modello di business aziendale per generare valore.",
+          "isCorrect": false,
+          "rationale": "Questo rappresenta un cambiamento strategico più profondo definito come trasformazione digitale."
+        },
+        {
+          "text": "Sostituire completamente i dipendenti con intelligenze artificiali.",
+          "isCorrect": false,
+          "rationale": "Il materiale non definisce la digitalizzazione come la sostituzione della forza lavoro umana."
+        }
+      ],
+      "hint": "Considera l'esempio del passaggio dalle fatture cartacee a quelle elettroniche."
+    },
+    {
+      "question": "Nella SEO, che cosa si intende per 'Crawling'?",
+      "answerOptions": [
+        {
+          "text": "Il posizionamento di una pagina ai vertici della SERP.",
+          "isCorrect": false,
+          "rationale": "Il posizionamento finale è l'obiettivo del ranking, non la scansione iniziale."
+        },
+        {
+          "text": "La scansione del web da parte dei bot per esaminare codici e contenuti degli URL.",
+          "isCorrect": true,
+          "rationale": "Il crawling è la fase esplorativa in cui gli spider analizzano i link trovati online."
+        },
+        {
+          "text": "L'organizzazione dei contenuti all'interno dell'archivio del motore di ricerca.",
+          "isCorrect": false,
+          "rationale": "L'organizzazione e l'archiviazione sono compiti specifici della fase di indicizzazione."
+        },
+        {
+          "text": "L'acquisto di link sponsorizzati per aumentare la visibilità immediata.",
+          "isCorrect": false,
+          "rationale": "Il crawling riguarda la ricerca organica, non le sponsorizzazioni a pagamento."
+        }
+      ],
+      "hint": "Pensa al lavoro svolto dagli 'spider' o 'bot' quando visitano un sito per la prima volta."
+    },
+    {
+      "question": "Qual è l'unità minima di informazione digitale?",
+      "answerOptions": [
+        {
+          "text": "Byte",
+          "isCorrect": false,
+          "rationale": "Un byte è composto da un insieme di otto unità più piccole."
+        },
+        {
+          "text": "Bit",
+          "isCorrect": true,
+          "rationale": "Il bit rappresenta il valore binario elementare (0 o 1) su cui si basa il digitale."
+        },
+        {
+          "text": "Pixel",
+          "isCorrect": false,
+          "rationale": "Il pixel è l'unità minima di un'immagine, non dell'informazione digitale in senso generale."
+        },
+        {
+          "text": "Stringa",
+          "isCorrect": false,
+          "rationale": "Una stringa è una sequenza di dati, non l'unità minima assoluta."
+        }
+      ],
+      "hint": "È il singolo elemento che può assumere solo due stati."
+    },
+    {
+      "question": "Cosa differenzia la 'Trasformazione Digitale' dalla semplice digitalizzazione dei processi?",
+      "answerOptions": [
+        {
+          "text": "L'uso esclusivo di e-commerce rispetto ai negozi fisici.",
+          "isCorrect": false,
+          "rationale": "L'e-commerce è un esempio di digitalizzazione dei processi, non esaurisce la trasformazione digitale."
+        },
+        {
+          "text": "Un cambiamento strategico e culturale che ridefinisce il modo di operare dell'azienda.",
+          "isCorrect": true,
+          "rationale": "La trasformazione digitale implica una revisione completa dei modelli di business e della cultura aziendale."
+        },
+        {
+          "text": "L'eliminazione di tutti i documenti cartacei dall'ufficio.",
+          "isCorrect": false,
+          "rationale": "Questo è un obiettivo della dematerializzazione/digitalizzazione, non necessariamente un cambiamento strategico."
+        },
+        {
+          "text": "La creazione di un sito web vetrina per l'azienda.",
+          "isCorrect": false,
+          "rationale": "Un sito vetrina è un'azione tattica che non implica una trasformazione della logica di business."
+        }
+      ],
+      "hint": "Cerca il concetto che coinvolge non solo la tecnologia, ma anche la strategia e la cultura."
+    },
+    {
+      "question": "Nella SEO, quando una pagina entra ufficialmente in competizione per i risultati di una query?",
+      "answerOptions": [
+        {
+          "text": "Subito dopo essere stata pubblicata sul sito.",
+          "isCorrect": false,
+          "rationale": "La pubblicazione non garantisce che il motore di ricerca ne conosca l'esistenza o l'abbia archiviata."
+        },
+        {
+          "text": "Non appena viene inclusa nell'Indice (Indexing).",
+          "isCorrect": true,
+          "rationale": "Una pagina deve essere archiviata e organizzata dal motore di ricerca prima di poter apparire nella SERP."
+        },
+        {
+          "text": "Solo se riceve almeno un backlink da un sito autorevole.",
+          "isCorrect": false,
+          "rationale": "I backlink aiutano il posizionamento, ma non sono il requisito per entrare nell'indice."
+        },
+        {
+          "text": "Quando il proprietario del sito paga per il posizionamento.",
+          "isCorrect": false,
+          "rationale": "La SEO riguarda il posizionamento organico, non quello a pagamento (ADS)."
+        }
+      ],
+      "hint": "Considera la fase del processo SEO in cui il contenuto viene archiviato e organizzato."
+    },
+    {
+      "question": "Cosa si intende per 'Rilevanza' in una strategia di parole chiave?",
+      "answerOptions": [
+        {
+          "text": "La quantità di link che puntano a una specifica pagina web.",
+          "isCorrect": false,
+          "rationale": "Questo concetto descrive l'autorità, non la pertinenza del contenuto rispetto alla ricerca."
+        },
+        {
+          "text": "La corrispondenza tra le parole chiave target, il contenuto del sito e l'intento del ricercatore.",
+          "isCorrect": true,
+          "rationale": "La rilevanza assicura che il contenuto risponda effettivamente a ciò che l'utente sta cercando."
+        },
+        {
+          "text": "La velocità di caricamento di una pagina su dispositivi mobili.",
+          "isCorrect": false,
+          "rationale": "La velocità è un fattore tecnico di ranking, distinto dalla rilevanza del contenuto."
+        },
+        {
+          "text": "Il numero di volte che una parola chiave appare nel testo.",
+          "isCorrect": false,
+          "rationale": "La semplice ripetizione (keyword stuffing) non garantisce la soddisfazione dell'intento dell'utente."
+        }
+      ],
+      "hint": "Riguarda quanto bene il tuo contenuto risponde alla domanda dell'utente."
+    },
+    {
+      "question": "Qual è il ruolo principale dei 'backlink' in una strategia SEO?",
+      "answerOptions": [
+        {
+          "text": "Servono solo per tracciare il numero di visitatori unici.",
+          "isCorrect": false,
+          "rationale": "I backlink sono segnali di autorità, non semplici strumenti di monitoraggio del traffico."
+        },
+        {
+          "text": "Aiutano a migliorare il posizionamento organico se provengono da fonti autorevoli.",
+          "isCorrect": true,
+          "rationale": "I link da siti esterni affidabili fungono da 'voti' di fiducia per il motore di ricerca."
+        },
+        {
+          "text": "Sono necessari per avviare la scansione (crawling) del sito per la prima volta.",
+          "isCorrect": false,
+          "rationale": "Sebbene aiutino la scoperta, i bot possono trovare URL anche tramite sitemap o altri metodi."
+        },
+        {
+          "text": "Sostituiscono la necessità di creare contenuti di qualità.",
+          "isCorrect": false,
+          "rationale": "I backlink senza contenuti rilevanti non portano a un posizionamento duraturo."
+        }
+      ],
+      "hint": "Considerali come raccomandazioni provenienti da altri siti web."
+    },
+    {
+      "question": "Cosa caratterizza i dati 'analogici' rispetto a quelli 'digitali'?",
+      "answerOptions": [
+        {
+          "text": "Cambiano in modo discreto tra stati diversi come on/off.",
+          "isCorrect": false,
+          "rationale": "Questa è la caratteristica dei dati digitali, che procedono per salti numerici finiti."
+        },
+        {
+          "text": "Cambiano continuamente, come le informazioni meccaniche su un vinile.",
+          "isCorrect": true,
+          "rationale": "I sistemi analogici archiviano e trasmettono segnali che variano costantemente nel tempo."
+        },
+        {
+          "text": "Sono codificati esclusivamente tramite combinazioni di 0 e 1.",
+          "isCorrect": false,
+          "rationale": "Il codice binario è la base dei sistemi digitali, non di quelli analogici."
+        },
+        {
+          "text": "Richiedono sempre una connessione internet attiva per essere letti.",
+          "isCorrect": false,
+          "rationale": "L'analogico prescinde dalle tecnologie di rete moderne, come dimostrano i vecchi giradischi."
+        }
+      ],
+      "hint": "Pensa alla differenza tra un solco inciso su un disco e i bit su un CD."
+    },
+    {
+      "question": "Qual è una delle principali differenze tra pubblicità digitale e pubblicità tradizionale?",
+      "answerOptions": [
+        {
+          "text": "La pubblicità digitale è meno modificabile una volta avviata.",
+          "isCorrect": false,
+          "rationale": "Al contrario, il digitale permette modifiche in tempo reale alle campagne attive."
+        },
+        {
+          "text": "La precisione nel raggiungere segmenti di pubblico specifici tramite il targeting.",
+          "isCorrect": true,
+          "rationale": "Il digitale consente di mostrare annunci basandosi su orari, interessi e comportamenti precisi."
+        },
+        {
+          "text": "La pubblicità tradizionale garantisce sempre un ritorno sull'investimento più alto.",
+          "isCorrect": false,
+          "rationale": "L'efficacia dipende dalla strategia; il digitale è spesso più facile da misurare e scalare."
+        },
+        {
+          "text": "Il digital advertising non permette di costruire relazioni con i consumatori.",
+          "isCorrect": false,
+          "rationale": "Il materiale afferma esplicitamente che il digital advertising è diventato un mezzo per costruire relazioni."
+        }
+      ],
+      "hint": "Rifletti sulla possibilità di scegliere esattamente chi vedrà il tuo annuncio."
+    },
+    {
+      "question": "Secondo la piramide di Maslow 'modernizzata', cosa rappresenta il bisogno di 'Connettività'?",
+      "answerOptions": [
+        {
+          "text": "L'appartenenza a gruppi sociali tramite forum online.",
+          "isCorrect": false,
+          "rationale": "L'appartenenza sociale è un gradino superiore, legato alla sociabilità e all'interazione."
+        },
+        {
+          "text": "La base fisiologica garantita dalla connessione Internet (Wi-Fi, 4G).",
+          "isCorrect": true,
+          "rationale": "Senza una connessione di base, l'utente digitale non può accedere alle altre funzioni superiori."
+        },
+        {
+          "text": "La sicurezza dei propri dati personali contro attacchi hacker.",
+          "isCorrect": false,
+          "rationale": "La sicurezza dei dati rientra nel gradino successivo della piramide (Safety)."
+        },
+        {
+          "text": "La possibilità di esprimere se stessi tramite blog personali.",
+          "isCorrect": false,
+          "rationale": "L'espressione di sé si trova al vertice della piramide (Self-actualization)."
+        }
+      ],
+      "hint": "È il prerequisito tecnico fondamentale per esistere nel mondo digitale."
+    },
+    {
+      "question": "In un Business Model, quale domanda aiuta a definire il valore per il cliente?",
+      "answerOptions": [
+        {
+          "text": "Quanti dipendenti servono per gestire l'e-commerce?",
+          "isCorrect": false,
+          "rationale": "Questa è una domanda operativa interna, non focalizzata sulla creazione di valore per l'utente."
+        },
+        {
+          "text": "Quale valore poter creare o aggiungere per il cliente?",
+          "isCorrect": true,
+          "rationale": "Questa domanda identifica la proposta di valore che l'azienda offre al suo target."
+        },
+        {
+          "text": "Qual è il capitale sociale minimo richiesto per aprire l'azienda?",
+          "isCorrect": false,
+          "rationale": "Si tratta di un requisito legale e finanziario che non descrive la logica del valore."
+        },
+        {
+          "text": "In che modo i concorrenti stanno fallendo nel mercato?",
+          "isCorrect": false,
+          "rationale": "Sebbene utile, l'analisi dei concorrenti non definisce direttamente il valore offerto dall'azienda al proprio cliente."
+        }
+      ],
+      "hint": "Cerca la domanda che mette al centro il beneficio ottenuto dall'utente finale."
+    },
+    {
+      "question": "Cos'è una 'Buyer Persona'?",
+      "answerOptions": [
+        {
+          "text": "L'elenco completo di tutti i clienti reali che hanno acquistato nell'ultimo anno.",
+          "isCorrect": false,
+          "rationale": "Le personas non sono elenchi di persone reali, ma archetipi generalizzati."
+        },
+        {
+          "text": "Una rappresentazione semi-fittizia del cliente ideale basata su dati e ricerche.",
+          "isCorrect": true,
+          "rationale": "Aiuta a personificare un segmento di mercato per comprendere meglio bisogni e motivazioni."
+        },
+        {
+          "text": "Un dipendente dell'azienda incaricato di testare i nuovi prodotti.",
+          "isCorrect": false,
+          "rationale": "Il termine non si riferisce a ruoli lavorativi interni all'azienda."
+        },
+        {
+          "text": "Il profilo demografico medio calcolato esclusivamente tramite l'età.",
+          "isCorrect": false,
+          "rationale": "Le personas includono anche aspetti psicografici, non solo dati demografici semplici."
+        }
+      ],
+      "hint": "Pensa a un 'personaggio' che riassume le caratteristiche del tuo miglior cliente."
+    },
+    {
+      "question": "Quale elemento fa parte del 'Marketing Mix' tradizionale (4P)?",
+      "answerOptions": [
+        {
+          "text": "Co-creation",
+          "isCorrect": false,
+          "rationale": "La co-creation appartiene all'evoluzione verso le 4C, focalizzate sul consumatore."
+        },
+        {
+          "text": "Promotion",
+          "isCorrect": true,
+          "rationale": "La promozione (comunicazione e pubblicità) è uno dei pilastri fondamentali del modello classico."
+        },
+        {
+          "text": "Currency",
+          "isCorrect": false,
+          "rationale": "Il concetto di currency (prezzo fluttuante) è un'evoluzione digitale del concetto di Price."
+        },
+        {
+          "text": "Community",
+          "isCorrect": false,
+          "rationale": "La gestione della community è una pratica moderna non presente nello schema originario delle 4P."
+        }
+      ],
+      "hint": "Riguarda le attività di vendita, pubblicità e pubbliche relazioni."
+    },
+    {
+      "question": "Cosa si intende per 'Customer Journey Map'?",
+      "answerOptions": [
+        {
+          "text": "La mappa geografica che indica la posizione dei negozi fisici.",
+          "isCorrect": false,
+          "rationale": "La mappa del viaggio del cliente non è fisica, ma esperienziale."
+        },
+        {
+          "text": "Un diagramma che racconta la storia dell'esperienza del cliente con il brand nel tempo.",
+          "isCorrect": true,
+          "rationale": "Visualizza i punti di contatto e le emozioni dell'utente dalla scoperta del bisogno all'acquisto."
+        },
+        {
+          "text": "Il percorso logistico seguito da un pacco dalla fabbrica al cliente.",
+          "isCorrect": false,
+          "rationale": "Questo descrive la supply chain, non l'esperienza psicologica e decisionale del consumatore."
+        },
+        {
+          "text": "L'analisi dei percorsi di navigazione tecnica (clickstream) su un sito web.",
+          "isCorrect": false,
+          "rationale": "Sebbene correlata, la Journey Map è una visione olistica più ampia dei soli dati tecnici."
+        }
+      ],
+      "hint": "Rappresenta graficamente le tappe che un utente attraversa interagendo con un'azienda."
+    },
+    {
+      "question": "Qual è lo scopo principale del 'Content Marketing'?",
+      "answerOptions": [
+        {
+          "text": "Interrompere l'utente con annunci pubblicitari aggressivi.",
+          "isCorrect": false,
+          "rationale": "Il content marketing mira ad attrarre, non a interrompere in modo fastidioso."
+        },
+        {
+          "text": "Creare valore e fiducia con contenuti rilevanti per un pubblico definito.",
+          "isCorrect": true,
+          "rationale": "L'obiettivo è costruire una relazione di lungo termine fornendo informazioni utili."
+        },
+        {
+          "text": "Ridurre il numero di pagine di un sito web per renderlo più veloce.",
+          "isCorrect": false,
+          "rationale": "Il content marketing solitamente implica la creazione di contenuti, non la loro eliminazione."
+        },
+        {
+          "text": "Vendere prodotti direttamente senza fornire alcuna informazione aggiuntiva.",
+          "isCorrect": false,
+          "rationale": "La vendita diretta pura è più legata alla promozione tradizionale che al marketing dei contenuti."
+        }
+      ],
+      "hint": "Pensa a come attirare clienti senza usare slogan di vendita espliciti."
+    },
+    {
+      "question": "Cosa significa che il marketing digitale ha un approccio 'Reticolare'?",
+      "answerOptions": [
+        {
+          "text": "Che i messaggi vengono inviati solo tramite e-mail personali.",
+          "isCorrect": false,
+          "rationale": "L'approccio reticolare va oltre il canale e-mail, coinvolgendo l'intera struttura delle connessioni online."
+        },
+        {
+          "text": "Che esistono molteplici nessi interattivi e decentralizzati tra impresa e clienti.",
+          "isCorrect": true,
+          "rationale": "La comunicazione non è più unidirezionale (top-down), ma diffusa tra tutti i partecipanti della rete."
+        },
+        {
+          "text": "Che l'azienda cattura i clienti tramite 'reti' pubblicitarie invisibili.",
+          "isCorrect": false,
+          "rationale": "Il termine non si riferisce a tecniche di manipolazione, ma alla struttura della comunicazione."
+        },
+        {
+          "text": "Che l'offerta di prodotti è pre-confezionata e immutabile (push).",
+          "isCorrect": false,
+          "rationale": "Questo descrive l'approccio deterministico tradizionale, l'opposto di quello reticolare."
+        }
+      ],
+      "hint": "Pensa a una ragnatela dove ogni nodo può comunicare con gli altri in modo paritario."
+    },
+    {
+      "question": "Nella fase di 'Pre-purchase' del Customer Journey, cosa accade solitamente?",
+      "answerOptions": [
+        {
+          "text": "L'utente effettua il pagamento tramite carta di credito.",
+          "isCorrect": false,
+          "rationale": "Il pagamento avviene nella fase di 'Purchase', non prima dell'acquisto."
+        },
+        {
+          "text": "L'utente riconosce un bisogno e inizia a considerare le opzioni per soddisfarlo.",
+          "isCorrect": true,
+          "rationale": "Questa fase copre tutte le interazioni precedenti alla transazione effettiva."
+        },
+        {
+          "text": "L'utente contatta l'assistenza per un reso di un prodotto difettoso.",
+          "isCorrect": false,
+          "rationale": "Il supporto post-vendita fa parte dell'esperienza successiva all'acquisto."
+        },
+        {
+          "text": "L'azienda spedisce il prodotto al magazzino del corriere.",
+          "isCorrect": false,
+          "rationale": "La logistica di spedizione segue la fase di acquisto completata."
+        }
+      ],
+      "hint": "È tutto ciò che il cliente fa prima di decidere di comprare effettivamente."
+    },
+    {
+      "question": "Cosa si intende per 'Network Effect'?",
+      "answerOptions": [
+        {
+          "text": "Un guasto tecnico che si propaga su tutta la rete aziendale.",
+          "isCorrect": false,
+          "rationale": "Il termine non è legato a malfunzionamenti tecnici."
+        },
+        {
+          "text": "Il fenomeno per cui un prodotto aumenta di valore man mano che più persone lo usano.",
+          "isCorrect": true,
+          "rationale": "È tipico dei social network e delle piattaforme di comunicazione, dove l'utilità dipende dalla massa critica di utenti."
+        },
+        {
+          "text": "La capacità di una rete Wi-Fi di coprire una vasta area geografica.",
+          "isCorrect": false,
+          "rationale": "Questa è una caratteristica di copertura del segnale, non un effetto economico di rete."
+        },
+        {
+          "text": "L'invio massivo di messaggi promozionali a tutti i contatti di un database.",
+          "isCorrect": false,
+          "rationale": "Lo spam o il direct marketing non generano di per sé un effetto di rete positivo."
+        }
+      ],
+      "hint": "Pensa a perché WhatsApp o Facebook sono utili solo se i tuoi amici li usano."
+    },
+    {
+      "question": "Qual è la differenza tra 'Piattaforme digitali' e 'Device digitali'?",
+      "answerOptions": [
+        {
+          "text": "Nessuna, sono termini intercambiabili che indicano la tecnologia.",
+          "isCorrect": false,
+          "rationale": "Esiste una distinzione netta tra lo strumento fisico e l'ambiente virtuale."
+        },
+        {
+          "text": "Le piattaforme sono gli ambienti (Internet, Social), i device sono gli strumenti fisici (Smartphone, Laptop).",
+          "isCorrect": true,
+          "rationale": "Il device è l'hardware necessario per accedere alla piattaforma software o di rete."
+        },
+        {
+          "text": "I device sono le reti Wi-Fi, le piattaforme sono i computer fissi.",
+          "isCorrect": false,
+          "rationale": "Le reti sono infrastrutture, mentre i computer sono essi stessi device."
+        },
+        {
+          "text": "Le piattaforme funzionano solo offline, i device solo online.",
+          "isCorrect": false,
+          "rationale": "Entrambi sono solitamente legati all'ecosistema connesso."
+        }
+      ],
+      "hint": "Pensa alla differenza tra il tuo iPhone e l'app di Instagram."
+    },
+    {
+      "question": "Cosa definisce le 'Psychographics' nella costruzione di una buyer persona?",
+      "answerOptions": [
+        {
+          "text": "L'età, il genere e il livello di istruzione dell'utente.",
+          "isCorrect": false,
+          "rationale": "Questi sono dati demografici, non legati alla psicologia profonda."
+        },
+        {
+          "text": "Attitudini, credenze e personalità del consumatore.",
+          "isCorrect": true,
+          "rationale": "Le psicografiche aiutano a capire il 'perché' dietro i comportamenti d'acquisto."
+        },
+        {
+          "text": "La frequenza con cui l'utente effettua acquisti online.",
+          "isCorrect": false,
+          "rationale": "Questo è un dato comportamentale, distinto dai tratti psicologici."
+        },
+        {
+          "text": "La posizione geografica e il fuso orario del cliente.",
+          "isCorrect": false,
+          "rationale": "Questi sono dati geografici, parte delle informazioni di base."
+        }
+      ],
+      "hint": "Riguarda gli aspetti interiori e i valori della persona."
+    },
+    {
+      "question": "In un sistema digitale, come vengono rappresentati i dati binari?",
+      "answerOptions": [
+        {
+          "text": "Attraverso onde radio continue a frequenza variabile.",
+          "isCorrect": false,
+          "rationale": "Le onde radio variabili sono caratteristiche delle trasmissioni analogiche."
+        },
+        {
+          "text": "Tramite stringhe di simboli chiamati cifre binarie (0 e 1).",
+          "isCorrect": true,
+          "rationale": "Il codice binario è l'unico linguaggio compreso dai processori digitali."
+        },
+        {
+          "text": "Con una serie di colori primari che formano immagini complesse.",
+          "isCorrect": false,
+          "rationale": "I colori sono una visualizzazione dei dati, ma la rappresentazione sottostante rimane binaria."
+        },
+        {
+          "text": "Mediante incisioni meccaniche visibili al microscopio.",
+          "isCorrect": false,
+          "rationale": "Questo metodo è usato nei dischi in vinile (analogici) per memorizzare il suono."
+        }
+      ],
+      "hint": "È la combinazione di soli due stati possibili."
+    },
+    {
+      "question": "Qual è un esempio di 'Digitalizzazione dei processi' legato al mondo della musica?",
+      "answerOptions": [
+        {
+          "text": "Ascoltare una canzone alla radio FM.",
+          "isCorrect": false,
+          "rationale": "La radio FM tradizionale è un mezzo analogico."
+        },
+        {
+          "text": "Vendere musica online tramite negozi digitali come iTunes.",
+          "isCorrect": true,
+          "rationale": "Questo automatizza e ottimizza la distribuzione rispetto al negozio fisico, pur mantenendo la vendita dell'unità."
+        },
+        {
+          "text": "L'invenzione dello spartito musicale cartaceo.",
+          "isCorrect": false,
+          "rationale": "Lo spartito è una forma di archiviazione fisica antica, non digitale."
+        },
+        {
+          "text": "La creazione di un nuovo genere musicale esclusivamente tramite software.",
+          "isCorrect": false,
+          "rationale": "Sebbene usi tecnologia digitale, non descrive necessariamente la digitalizzazione di un processo aziendale esistente."
+        }
+      ],
+      "hint": "Pensa al passaggio dalla vendita dei dischi in negozio alla vendita di file MP3 su un portale."
+    },
+    {
+      "question": "Quale tra questi è un obiettivo fondamentale della fase di 'Ranking' della SEO?",
+      "answerOptions": [
+        {
+          "text": "Assicurarsi che la pagina venga trovata dai bot per la prima volta.",
+          "isCorrect": false,
+          "rationale": "Questa è la priorità del crawling, non del posizionamento finale."
+        },
+        {
+          "text": "Posizionare ai vertici della SERP le pagine che meglio rispondono alle query degli utenti.",
+          "isCorrect": true,
+          "rationale": "Il ranking decide l'ordine di visualizzazione basandosi sulla pertinenza e sull'autorità."
+        },
+        {
+          "text": "Eliminare tutti i duplicati di un sito web per risparmiare spazio nell'indice.",
+          "isCorrect": false,
+          "rationale": "La gestione dei duplicati avviene solitamente durante la fase di indicizzazione o ottimizzazione tecnica."
+        },
+        {
+          "text": "Garantire che il sito web sia tradotto in almeno tre lingue diverse.",
+          "isCorrect": false,
+          "rationale": "Il multilinguismo è una funzione del sito, non lo scopo primario dell'algoritmo di ranking."
+        }
+      ],
+      "hint": "Riguarda la competizione per apparire tra i primi risultati di ricerca."
+    },
+    {
+      "question": "Cosa si intende per 'Co-creation' nell'evoluzione delle 4C del marketing?",
+      "answerOptions": [
+        {
+          "text": "La collaborazione tra due aziende concorrenti per fissare i prezzi.",
+          "isCorrect": false,
+          "rationale": "Questo sarebbe un cartello, illegale e non legato alla partecipazione del cliente."
+        },
+        {
+          "text": "La partecipazione attiva del cliente nel processo di sviluppo di nuovi prodotti.",
+          "isCorrect": true,
+          "rationale": "Il cliente non è più solo un ricevente passivo, ma collabora alla creazione del valore."
+        },
+        {
+          "text": "La creazione di contenuti pubblicitari solo tramite intelligenza artificiale.",
+          "isCorrect": false,
+          "rationale": "La co-creazione riguarda l'interazione umana tra brand e consumatore."
+        },
+        {
+          "text": "L'obbligo per il cliente di assemblare da solo il prodotto acquistato.",
+          "isCorrect": false,
+          "rationale": "Il self-assembly è una modalità logistica, non necessariamente una strategia di co-creazione del valore."
+        }
+      ],
+      "hint": "Pensa a quando i consumatori suggeriscono miglioramenti o testano versioni beta di un prodotto."
+    },
+    {
+      "question": "Nella SEO, perché l'autorità della fonte è considerata fondamentale?",
+      "answerOptions": [
+        {
+          "text": "Perché i motori di ricerca danno più peso ai siti considerati esperti e affidabili.",
+          "isCorrect": true,
+          "rationale": "L'autorità aiuta il motore di ricerca a proteggere gli utenti da informazioni di bassa qualità."
+        },
+        {
+          "text": "Perché i siti autorevoli caricano sempre più velocemente.",
+          "isCorrect": false,
+          "rationale": "Non c'è un legame diretto obbligatorio tra autorevolezza e prestazioni hardware del server."
+        },
+        {
+          "text": "Perché l'autorità permette di copiare contenuti da altri siti senza sanzioni.",
+          "isCorrect": false,
+          "rationale": "Il plagio è punito indipendentemente dall'autorità del sito che lo commette."
+        },
+        {
+          "text": "Perché un sito autorevole non ha bisogno di utilizzare parole chiave.",
+          "isCorrect": false,
+          "rationale": "Anche i siti più importanti devono ottimizzare i propri contenuti per essere rilevanti."
+        }
+      ],
+      "hint": "È una misura di quanto un sito è degno di fiducia nel suo settore."
+    },
+    {
+      "question": "Qual è la funzione delle 'terre' (lands) e dei 'buchi' (pits) in un CD?",
+      "answerOptions": [
+        {
+          "text": "Servono a regolare la velocità di rotazione del disco.",
+          "isCorrect": false,
+          "rationale": "La velocità è gestita dal lettore, non dalle caratteristiche fisiche del dato sul disco."
+        },
+        {
+          "text": "Rappresentano la codifica digitale binaria dei suoni archiviati.",
+          "isCorrect": true,
+          "rationale": "I sensori ottici leggono le differenze tra buchi e terre per ricostruire la sequenza di 0 e 1."
+        },
+        {
+          "text": "Sono scanalature che permettono alla puntina meccanica di vibrare.",
+          "isCorrect": false,
+          "rationale": "Le vibrazioni meccaniche sono tipiche del vinile, non dei sistemi laser digitali."
+        },
+        {
+          "text": "Riducono il rumore di fondo del supporto durante la lettura.",
+          "isCorrect": false,
+          "rationale": "Sebbene il digitale sia più pulito, pits e lands sono il supporto del dato, non un filtro antirumore."
+        }
+      ],
+      "hint": "È il modo fisico in cui il linguaggio dei computer viene impresso sulla plastica del disco."
+    },
+    {
+      "question": "Cosa significa 'Omnicanalità' nella strategia di un'azienda?",
+      "answerOptions": [
+        {
+          "text": "Avere un solo canale di vendita molto potente per evitare confusione.",
+          "isCorrect": false,
+          "rationale": "Questa sarebbe una strategia monocanale, l'opposto dell'omnicanalità."
+        },
+        {
+          "text": "Garantire una presenza coerente e integrata su tutti i canali fisici e digitali disponibili.",
+          "isCorrect": true,
+          "rationale": "L'obiettivo è offrire al cliente un'esperienza fluida indipendentemente dal mezzo usato."
+        },
+        {
+          "text": "Essere presenti su tutti i social network, anche quelli non frequentati dal target.",
+          "isCorrect": false,
+          "rationale": "L'omnicanalità non significa essere ovunque a caso, ma integrare i canali rilevanti."
+        },
+        {
+          "text": "Vendere prodotti solo tramite distributori terzi (canali indiretti).",
+          "isCorrect": false,
+          "rationale": "Questo descrive una scelta di distribuzione, non un approccio di integrazione dei canali."
+        }
+      ],
+      "hint": "Riguarda l'integrazione tra l'esperienza online e quella nel negozio fisico."
+    },
+    {
+      "question": "Quale tra queste è una fase del Marketing Management focalizzata sul 'dove si trova il prodotto rispetto ai competitor'?",
+      "answerOptions": [
+        {
+          "text": "Analytical Phase",
+          "isCorrect": false,
+          "rationale": "La fase analitica serve a raccogliere dati, non ancora a definire la posizione strategica."
+        },
+        {
+          "text": "Strategic Phase (Positioning)",
+          "isCorrect": true,
+          "rationale": "Il posizionamento definisce l'identità del prodotto nella mente del consumatore rispetto alla concorrenza."
+        },
+        {
+          "text": "Operational Phase (4Ps)",
+          "isCorrect": false,
+          "rationale": "L'operatività traduce la strategia in azioni concrete come prezzo e distribuzione."
+        },
+        {
+          "text": "Financial Audit Phase",
+          "isCorrect": false,
+          "rationale": "L'audit finanziario controlla i conti, non si occupa di percezione del brand sul mercato."
+        }
+      ],
+      "hint": "Cerca la fase in cui si prendono decisioni su targeting e posizionamento."
+    },
+    {
+      "question": "Cosa si intende per 'Content Pillar'?",
+      "answerOptions": [
+        {
+          "text": "Un video virale di breve durata che scompare dopo 24 ore.",
+          "isCorrect": false,
+          "rationale": "I contenuti effimeri non hanno la profondità richiesta da un pillar."
+        },
+        {
+          "text": "Un contenuto lungo e approfondito da cui derivano contenuti più piccoli (micro-content).",
+          "isCorrect": true,
+          "rationale": "Funge da pilastro centrale per coprire esaustivamente un argomento e generare pezzi derivati."
+        },
+        {
+          "text": "La colonna laterale di un sito web dove si trovano i link agli articoli più letti.",
+          "isCorrect": false,
+          "rationale": "Questo è un elemento di interfaccia (sidebar), non una strategia di contenuti."
+        },
+        {
+          "text": "Un annuncio pubblicitario a pagamento che appare in cima a tutti i social.",
+          "isCorrect": false,
+          "rationale": "Il pillar è un contenuto organico di valore, non necessariamente un annuncio a pagamento."
+        }
+      ],
+      "hint": "Pensa a un 'contenitore' principale che può essere spezzettato in tanti post social o articoli brevi."
+    },
+    {
+      "question": "Perché le Buyer Personas aiutano a risolvere i problemi del cliente invece che dell'azienda?",
+      "answerOptions": [
+        {
+          "text": "Perché sono progettate per ignorare i costi di produzione aziendali.",
+          "isCorrect": false,
+          "rationale": "L'efficienza aziendale rimane importante, ma le personas cambiano la prospettiva del design."
+        },
+        {
+          "text": "Perché mettono al centro i bisogni reali e le sfide individuali dell'utente finale.",
+          "isCorrect": true,
+          "rationale": "L'approccio 'customer-centric' sposta il focus dalle necessità interne dell'impresa a quelle esterne del target."
+        },
+        {
+          "text": "Perché costringono i clienti a collaborare gratuitamente con il marketing.",
+          "isCorrect": false,
+          "rationale": "La creazione di personas è un'attività interna dell'azienda basata sull'osservazione, non un lavoro forzato del cliente."
+        },
+        {
+          "text": "Perché rendono i prodotti così complessi da richiedere assistenza costante.",
+          "isCorrect": false,
+          "rationale": "L'obiettivo è la semplificazione e la soddisfazione, non l'aumento della complessità."
+        }
+      ],
+      "hint": "Pensa alla differenza tra vendere ciò che hai e creare ciò di cui l'utente ha bisogno."
+    },
+    {
+      "question": "Nella gerarchia dei bisogni digitali, a cosa corrisponde il gradino della 'Sociabilità'?",
+      "answerOptions": [
+        {
+          "text": "L'accesso garantito al Wi-Fi pubblico in tutta la città.",
+          "isCorrect": false,
+          "rationale": "Il Wi-Fi pubblico è infrastruttura di base (Connectivity), non interazione sociale."
+        },
+        {
+          "text": "L'interazione, la condivisione e l'uso di social network.",
+          "isCorrect": true,
+          "rationale": "Rappresenta il bisogno di appartenenza e connessione umana mediato dal digitale."
+        },
+        {
+          "text": "La capacità di personalizzare lo sfondo del proprio computer.",
+          "isCorrect": false,
+          "rationale": "La personalizzazione estetica è legata all'espressione di sé (Self-actualization)."
+        },
+        {
+          "text": "La navigazione su siti di e-commerce per confrontare i prezzi.",
+          "isCorrect": false,
+          "rationale": "Il confronto prezzi è un'attività funzionale/informativa, non primariamente sociale."
+        }
+      ],
+      "hint": "Pensa a cosa provi quando usi Facebook, Instagram o partecipi a una community."
+    },
+    {
+      "question": "Qual è il rischio principale di mirare a parole chiave con alta competizione dominate da fonti autorevoli?",
+      "answerOptions": [
+        {
+          "text": "Che il sito venga rimosso definitivamente dall'indice di ricerca.",
+          "isCorrect": false,
+          "rationale": "Competere con siti grandi non è un'infrazione che porta alla rimozione (de-indexing)."
+        },
+        {
+          "text": "Che sia estremamente difficile posizionarsi a meno di non creare un contenuto davvero 'eccezionale'.",
+          "isCorrect": true,
+          "rationale": "Il motore di ricerca preferisce le fonti consolidate se il nuovo contenuto non apporta un valore superiore evidente."
+        },
+        {
+          "text": "Che il costo dell'hosting del proprio sito web aumenti improvvisamente.",
+          "isCorrect": false,
+          "rationale": "La SEO organica non influenza direttamente i costi infrastrutturali dell'hosting."
+        },
+        {
+          "text": "Che i concorrenti possano rubare i dati personali degli utenti del sito.",
+          "isCorrect": false,
+          "rationale": "La sicurezza dei dati è un problema di cybersecurity, non una conseguenza diretta della competizione per le keyword."
+        }
+      ],
+      "hint": "Pensa a quanto spazio c'è nella prima pagina di Google per un nuovo arrivato."
+    },
+    {
+      "question": "In cosa consiste la fase di 'Valutazione attiva' nel percorso del cliente?",
+      "answerOptions": [
+        {
+          "text": "Il momento in cui il cliente riceve il prodotto a casa e lo valuta.",
+          "isCorrect": false,
+          "rationale": "Questa è l'esperienza post-vendita, successiva all'acquisto."
+        },
+        {
+          "text": "Il processo in cui l'utente confronta i brand potenziali per soddisfare il suo bisogno.",
+          "isCorrect": true,
+          "rationale": "Dopo la consapevolezza del bisogno, il cliente ricerca attivamente informazioni per scegliere."
+        },
+        {
+          "text": "Il test di laboratorio effettuato dall'azienda prima del lancio del prodotto.",
+          "isCorrect": false,
+          "rationale": "Si tratta di una fase interna di R&S, non del percorso decisionale del cliente."
+        },
+        {
+          "text": "La recensione lasciata su un sito web tre mesi dopo l'acquisto.",
+          "isCorrect": false,
+          "rationale": "Le recensioni alimentano la valutazione di futuri clienti, ma per chi le scrive sono post-vendita."
+        }
+      ],
+      "hint": "È la fase in cui si leggono recensioni, si guardano video comparativi e si scelgono i brand preferiti."
+    },
+    {
+      "question": "Cosa significa 'Currency' nel contesto del Digital Marketing Mix (4C)?",
+      "answerOptions": [
+        {
+          "text": "L'uso esclusivo di criptovalute per tutti i pagamenti online.",
+          "isCorrect": false,
+          "rationale": "Sebbene le criptovalute siano un esempio, 'Currency' si riferisce alla logica del prezzo in generale."
+        },
+        {
+          "text": "L'adozione di prezzi dinamici che fluttuano in base alla domanda del mercato.",
+          "isCorrect": true,
+          "rationale": "Nel digitale il prezzo non è più statico ma può variare rapidamente (es. biglietti aerei o Amazon)."
+        },
+        {
+          "text": "La necessità di tradurre il sito web in tutte le valute mondiali.",
+          "isCorrect": false,
+          "rationale": "La visualizzazione della valuta è un aspetto tecnico di localizzazione, non la strategia di 'Currency'."
+        },
+        {
+          "text": "Il tasso di cambio applicato alle transazioni internazionali.",
+          "isCorrect": false,
+          "rationale": "Il tasso di cambio è un fattore macroeconomico esterno, non una leva del marketing mix."
+        }
+      ],
+      "hint": "Pensa a come variano i prezzi dei voli o degli hotel a seconda di quando prenoti."
+    },
+    {
+      "question": "Qual è una caratteristica della comunicazione nel marketing digitale 'collaborativo'?",
+      "answerOptions": [
+        {
+          "text": "I flussi di comunicazione sono esclusivamente unidirezionali dall'alto.",
+          "isCorrect": false,
+          "rationale": "Questo descrive il modello top-down tradizionale, non quello collaborativo."
+        },
+        {
+          "text": "Si basa sui flussi bidirezionali e sul dialogo paritario tra impresa e cliente.",
+          "isCorrect": true,
+          "rationale": "Il cliente ha voce in capitolo e l'azienda risponde attivamente alle sue sollecitazioni."
+        },
+        {
+          "text": "L'azienda decide i contenuti senza ascoltare i feedback degli utenti.",
+          "isCorrect": false,
+          "rationale": "L'assenza di ascolto è l'opposto di un approccio collaborativo e moderno."
+        },
+        {
+          "text": "Tutti i messaggi sono automatizzati e non prevedono intervento umano.",
+          "isCorrect": false,
+          "rationale": "L'automazione può esistere, ma il dialogo collaborativo richiede spesso un'interazione reale o personalizzata."
+        }
+      ],
+      "hint": "Immagina una conversazione sui social media dove il brand risponde ai commenti."
+    },
+    {
+      "question": "Perché si dice che i sistemi digitali cambiano 'discretamente'?",
+      "answerOptions": [
+        {
+          "text": "Perché cercano di non disturbare l'utente con troppe notifiche.",
+          "isCorrect": false,
+          "rationale": "Il termine 'discreto' qui è usato in senso matematico/fisico, non comportamentale."
+        },
+        {
+          "text": "Perché passano tra stati ben definiti e finiti (come 0 e 1).",
+          "isCorrect": true,
+          "rationale": "A differenza dell'analogico che è continuo, il digitale è fatto di gradini o valori separati."
+        },
+        {
+          "text": "Perché i dati digitali si cancellano automaticamente dopo l'uso.",
+          "isCorrect": false,
+          "rationale": "La persistenza dei dati non è ciò che definisce la natura discreta del segnale."
+        },
+        {
+          "text": "Perché operano in modo nascosto all'interno dei microchip.",
+          "isCorrect": false,
+          "rationale": "La visibilità del componente non definisce la modalità di codifica del segnale."
+        }
+      ],
+      "hint": "Pensa a una lampadina che può essere solo accesa o spenta, senza posizioni intermedie."
+    },
+    {
+      "question": "Cosa rappresenta il 'Benefit' nel processo di soddisfazione del cliente?",
+      "answerOptions": [
+        {
+          "text": "Il costo totale pagato per acquisire il prodotto.",
+          "isCorrect": false,
+          "rationale": "Il costo è un sacrificio, mentre il benefit è il vantaggio ottenuto."
+        },
+        {
+          "text": "Il fattore reale o percepito che soddisfa ciò di cui il cliente ha bisogno.",
+          "isCorrect": true,
+          "rationale": "Può essere legato a prestazioni tecniche o ad aspetti d'immagine e reputazione."
+        },
+        {
+          "text": "Lo stato di deprivazione fisica provato dal consumatore.",
+          "isCorrect": false,
+          "rationale": "Questa è la definizione di 'Need', ovvero il punto di partenza del processo."
+        },
+        {
+          "text": "La forma specifica che il bisogno prende in base alla cultura.",
+          "isCorrect": false,
+          "rationale": "Questa è la definizione di 'Want', ovvero il desiderio modellato dalla personalità."
+        }
+      ],
+      "hint": "È il motivo ultimo per cui qualcuno sceglie un prodotto specifico invece di un altro."
+    },
+    {
+      "question": "Qual è il vantaggio della 'Flessibilità' nel digital advertising?",
+      "answerOptions": [
+        {
+          "text": "La possibilità di stampare annunci su supporti elastici.",
+          "isCorrect": false,
+          "rationale": "Il termine flessibilità si riferisce alla gestione della campagna, non ai materiali fisici."
+        },
+        {
+          "text": "La rapidità nel modificare o sospendere una campagna in base alle performance.",
+          "isCorrect": true,
+          "rationale": "Permette di ottimizzare il budget e il messaggio quasi istantaneamente."
+        },
+        {
+          "text": "L'obbligo di mantenere lo stesso annuncio per almeno sei mesi.",
+          "isCorrect": false,
+          "rationale": "Questo sarebbe l'opposto della flessibilità e una limitazione tipica di alcuni media tradizionali."
+        },
+        {
+          "text": "La capacità degli annunci di adattarsi automaticamente a qualsiasi lingua mondiale.",
+          "isCorrect": false,
+          "rationale": "Sebbene esistano strumenti di traduzione, la flessibilità riguarda principalmente il controllo strategico della campagna."
+        }
+      ],
+      "hint": "Pensa a cosa puoi fare se ti accorgi che un annuncio online non sta funzionando bene."
+    },
+    {
+      "question": "In un Business Model, cosa descrive la 'logica di cattura del valore'?",
+      "answerOptions": [
+        {
+          "text": "Come l'azienda riesce a generare profitto e sostenibilità per sé.",
+          "isCorrect": true,
+          "rationale": "Non basta creare valore per il cliente, l'azienda deve anche saperlo monetizzare."
+        },
+        {
+          "text": "In che modo l'azienda ruba i clienti ai propri concorrenti.",
+          "isCorrect": false,
+          "rationale": "La 'cattura' si riferisce alla monetizzazione del valore offerto, non a pratiche sleali."
+        },
+        {
+          "text": "Il processo di raccolta dei dati personali degli utenti tramite i cookie.",
+          "isCorrect": false,
+          "rationale": "Sebbene i dati abbiano valore, la cattura del valore nel business model è un concetto economico più ampio."
+        },
+        {
+          "text": "La velocità con cui i prodotti vengono consegnati al cliente.",
+          "isCorrect": false,
+          "rationale": "La consegna fa parte della distribuzione (Place), non direttamente della logica di cattura economica."
+        }
+      ],
+      "hint": "Riguarda il modo in cui l'azienda guadagna soldi fornendo i suoi servizi."
+    },
+    {
+      "question": "Cosa si intende per 'Consumer Empowerment'?",
+      "answerOptions": [
+        {
+          "text": "L'aumento dei prezzi dei prodotti tecnologici per i consumatori.",
+          "isCorrect": false,
+          "rationale": "L'empowerment riguarda il potere decisionale e informativo, non l'incremento dei costi."
+        },
+        {
+          "text": "Il maggior potere e influenza del consumatore grazie all'accesso alle informazioni e alla rete.",
+          "isCorrect": true,
+          "rationale": "L'utente può confrontare, recensire e influenzare la reputazione di un brand pubblicamente."
+        },
+        {
+          "text": "La capacità delle aziende di controllare i pensieri dei consumatori tramite i social.",
+          "isCorrect": false,
+          "rationale": "L'empowerment è un potere che fluisce verso il consumatore, non verso l'azienda per controllarlo."
+        },
+        {
+          "text": "L'obbligo per i consumatori di ricaricare i propri dispositivi solo con energia verde.",
+          "isCorrect": false,
+          "rationale": "Si tratta di una questione ecologica, non legata al potere di mercato del consumatore."
+        }
+      ],
+      "hint": "Pensa a come le recensioni su Amazon o TripAdvisor hanno cambiato il rapporto di forza tra clienti e negozi."
+    },
+    {
+      "question": "Qual è il primo passo per definire un 'Customer Journey'?",
+      "answerOptions": [
+        {
+          "text": "Acquistare uno spazio pubblicitario in televisione.",
+          "isCorrect": false,
+          "rationale": "La pubblicità è un'azione successiva alla comprensione del percorso del cliente."
+        },
+        {
+          "text": "Determinare il segmento di pubblico o la 'persona' su cui concentrarsi.",
+          "isCorrect": true,
+          "rationale": "Non si può mappare un viaggio se non si sa chi è il viaggiatore."
+        },
+        {
+          "text": "Stampare i volantini da distribuire per strada.",
+          "isCorrect": false,
+          "rationale": "Questa è una tattica promozionale che non aiuta a definire l'esperienza complessiva."
+        },
+        {
+          "text": "Scegliere il colore del logo aziendale.",
+          "isCorrect": false,
+          "rationale": "Il branding visuale è importante, ma non è il punto di partenza per l'analisi del percorso dell'utente."
+        }
+      ],
+      "hint": "Devi identificare chi è il tuo cliente ideale prima di analizzare cosa fa."
+    },
+    {
+      "question": "Cosa si intende per 'Virtualizzazione' dell'oggetto dello scambio?",
+      "answerOptions": [
+        {
+          "text": "La vendita di occhiali per la realtà aumentata.",
+          "isCorrect": false,
+          "rationale": "Gli occhiali sono un oggetto fisico, non l'essenza della virtualizzazione dello scambio."
+        },
+        {
+          "text": "Il passaggio da prodotti fisici a servizi o contenuti dematerializzati.",
+          "isCorrect": true,
+          "rationale": "Esempi tipici sono lo streaming musicale che sostituisce il CD fisico."
+        },
+        {
+          "text": "L'uso di dipendenti che lavorano esclusivamente da casa (smart working).",
+          "isCorrect": false,
+          "rationale": "Lo smart working riguarda l'organizzazione del lavoro, non l'oggetto dello scambio commerciale."
+        },
+        {
+          "text": "La creazione di siti web che simulano l'interno di un negozio reale.",
+          "isCorrect": false,
+          "rationale": "Questa è una scelta di design dell'interfaccia, non la natura del bene scambiato."
+        }
+      ],
+      "hint": "Pensa a quando compri un software scaricabile invece di un disco in scatola."
+    },
+    {
+      "question": "In una strategia SEO, cosa succede se il contenuto non soddisfa l'intento del ricercatore?",
+      "answerOptions": [
+        {
+          "text": "Il sito viene comunque posizionato in alto se ha molti backlink.",
+          "isCorrect": false,
+          "rationale": "L'intento (relevance) è prioritario; senza di esso, i link non garantiscono il successo a lungo termine."
+        },
+        {
+          "text": "Il contenuto non si posizionerà bene per quella specifica parola chiave.",
+          "isCorrect": true,
+          "rationale": "I motori di ricerca classificano i risultati in base a quanto sono utili per la query digitata."
+        },
+        {
+          "text": "L'utente viene costretto dal browser a leggere tutto il testo prima di uscire.",
+          "isCorrect": false,
+          "rationale": "Il browser non può forzare l'attenzione dell'utente; quest'ultimo semplicemente abbandonerà la pagina."
+        },
+        {
+          "text": "Il motore di ricerca invia una multa pecuniaria al proprietario del sito.",
+          "isCorrect": false,
+          "rationale": "Non ci sono sanzioni monetarie, solo una perdita di visibilità organica."
+        }
+      ],
+      "hint": "Rifletti su cosa fa Google quando capisce che un risultato non c'entra nulla con quello che hai cercato."
+    },
+    {
+      "question": "Qual è il limite principale del diagramma lineare del 'Customer Journey Map'?",
+      "answerOptions": [
+        {
+          "text": "È troppo difficile da leggere per i non esperti.",
+          "isCorrect": false,
+          "rationale": "Al contrario, è progettato per essere semplice e comunicativo."
+        },
+        {
+          "text": "Semplifica eccessivamente la complessità dei reali percorsi dei clienti.",
+          "isCorrect": true,
+          "rationale": "Nella realtà i percorsi possono essere caotici, circolari o saltare diverse fasi."
+        },
+        {
+          "text": "Non permette di inserire immagini o loghi dei competitor.",
+          "isCorrect": false,
+          "rationale": "Graficamente è possibile inserire qualsiasi elemento; il limite è concettuale."
+        },
+        {
+          "text": "Richiede l'uso di software costosi che poche aziende possono permettersi.",
+          "isCorrect": false,
+          "rationale": "Può essere mappato anche su carta o con strumenti digitali gratuiti di base."
+        }
+      ],
+      "hint": "Pensa se la vita reale di un cliente segue sempre una linea retta perfetta."
+    },
+    {
+      "question": "Nel marketing, qual è la definizione di 'Want'?",
+      "answerOptions": [
+        {
+          "text": "Lo stato di deprivazione a livello fisico o psicologico.",
+          "isCorrect": false,
+          "rationale": "Questa è la definizione di 'Need' (Bisogno)."
+        },
+        {
+          "text": "La forma specifica che un bisogno umano assume in base alla cultura e alla personalità.",
+          "isCorrect": true,
+          "rationale": "Trasforma il bisogno generico (es. fame) in un desiderio specifico (es. pizza)."
+        },
+        {
+          "text": "Il prezzo massimo che un consumatore è disposto a pagare.",
+          "isCorrect": false,
+          "rationale": "Questa è la disponibilità a pagare (willingness to pay), non il desiderio."
+        },
+        {
+          "text": "Il profitto che l'azienda ottiene dalla vendita di un prodotto.",
+          "isCorrect": false,
+          "rationale": "Il profitto riguarda l'azienda, mentre il 'Want' riguarda la psicologia del cliente."
+        }
+      ],
+      "hint": "Se il bisogno è la 'fame', questo elemento potrebbe essere un 'Big Mac'."
+    },
+    {
+      "question": "Quale di queste affermazioni sul 'Posizionamento del Brand' nel marketing moderno è corretta?",
+      "answerOptions": [
+        {
+          "text": "È una dichiarazione aziendale fissa che non può essere cambiata.",
+          "isCorrect": false,
+          "rationale": "Il posizionamento deve essere adattabile e coerente, non un dogma immutabile."
+        },
+        {
+          "text": "È una percezione condivisa, costruita su coerenza valoriale e adattabilità.",
+          "isCorrect": true,
+          "rationale": "Non dipende solo da cosa dice l'azienda, ma da come il pubblico recepisce e condivide quei valori."
+        },
+        {
+          "text": "Dipende esclusivamente dal logo e dal colore scelto per i prodotti.",
+          "isCorrect": false,
+          "rationale": "L'identità visiva è solo una parte superficiale del posizionamento strategico."
+        },
+        {
+          "text": "Viene deciso a tavolino senza considerare le opinioni dei clienti.",
+          "isCorrect": false,
+          "rationale": "Ignorare i clienti porterebbe a un posizionamento fallimentare e non allineato al mercato."
+        }
+      ],
+      "hint": "Pensa a come i brand oggi cercano di 'agire come amici' e mostrare preoccupazione genuina."
+    },
+    {
+      "question": "Cos'è un 'Digital Business Model'?",
+      "answerOptions": [
+        {
+          "text": "Un manuale d'uso per i software aziendali.",
+          "isCorrect": false,
+          "rationale": "Si tratta di una visione strategica, non di una guida tecnica."
+        },
+        {
+          "text": "L'uso delle tecnologie digitali per ottimizzare processi e relazioni con clienti e partner.",
+          "isCorrect": true,
+          "rationale": "Comprende tutte le attività aziendali che sfruttano il digitale per creare e distribuire valore."
+        },
+        {
+          "text": "Un sistema per nascondere i profitti al fisco tramite la rete.",
+          "isCorrect": false,
+          "rationale": "Questa sarebbe una pratica illegale, non un modello di business legittimo."
+        },
+        {
+          "text": "La decisione di vendere solo computer e tablet nel proprio negozio.",
+          "isCorrect": false,
+          "rationale": "Descrive l'oggetto della vendita, non la logica di funzionamento dell'intera azienda tramite il digitale."
+        }
+      ],
+      "hint": "Riguarda come l'azienda usa Internet e il software per gestire tutto, dai fornitori ai clienti."
+    },
+    {
+      "question": "Perché la fase di 'Purchase' (Acquisto) è molto studiata pur essendo breve?",
+      "answerOptions": [
+        {
+          "text": "Perché è l'unico momento in cui il cliente parla con l'azienda.",
+          "isCorrect": false,
+          "rationale": "Il cliente può interagire con l'azienda in molte altre fasi (social, assistenza, ricerca)."
+        },
+        {
+          "text": "Perché le attività di marketing e l'ambiente influenzano pesantemente la decisione finale.",
+          "isCorrect": true,
+          "rationale": "Fattori come il design del sito, la facilità di pagamento e le atmosfere digitali sono critici per convertire."
+        },
+        {
+          "text": "Perché dura sempre almeno 48 ore per legge.",
+          "isCorrect": false,
+          "rationale": "La transazione in sé può durare pochi secondi; non esiste una durata minima legale così lunga."
+        },
+        {
+          "text": "Perché è la fase in cui si decide il prezzo del prodotto.",
+          "isCorrect": false,
+          "rationale": "Il prezzo viene solitamente deciso e comunicato molto prima del momento finale del pagamento."
+        }
+      ],
+      "hint": "Pensa a quanto conta la facilità di click sul pulsante 'Acquista ora'."
+    },
+    {
+      "question": "Qual è il significato di 'Scalabilità' nel budget del digital advertising?",
+      "answerOptions": [
+        {
+          "text": "L'obbligo di aumentare il budget ogni mese del 10%.",
+          "isCorrect": false,
+          "rationale": "La scalabilità è un'opportunità di crescita basata sui risultati, non un obbligo fisso."
+        },
+        {
+          "text": "La possibilità di aumentare o diminuire gli investimenti in base ai risultati ottenuti.",
+          "isCorrect": true,
+          "rationale": "Se una campagna funziona, si può iniettare più budget per ottenere proporzionalmente più vendite."
+        },
+        {
+          "text": "La necessità di assumere più persone per gestire ogni euro speso in più.",
+          "isCorrect": false,
+          "rationale": "L'automazione digitale permette spesso di scalare il budget senza aumentare linearmente il personale."
+        },
+        {
+          "text": "La capacità di visualizzare i grafici delle spese su schermi giganti.",
+          "isCorrect": false,
+          "rationale": "Questa è solo una questione di visualizzazione dati (hardware), non scalabilità economica."
+        }
+      ],
+      "hint": "Pensa a cosa fai se investi 100€ e ne guadagni 1000€."
+    },
+    {
+      "question": "Nella trasformazione digitale della musica, cosa rappresenta Spotify rispetto a iTunes?",
+      "answerOptions": [
+        {
+          "text": "Un semplice miglioramento della qualità audio degli MP3.",
+          "isCorrect": false,
+          "rationale": "Il cambiamento principale non è la qualità del file, ma la logica di accesso al servizio."
+        },
+        {
+          "text": "Un cambio di modello di business basato sullo streaming invece che sulla vendita del file.",
+          "isCorrect": true,
+          "rationale": "Rappresenta la vera trasformazione digitale dove il valore è l'accesso illimitato, non il possesso."
+        },
+        {
+          "text": "Un dispositivo fisico più piccolo per ascoltare canzoni.",
+          "isCorrect": false,
+          "rationale": "Spotify è un servizio software/piattaforma, non un hardware."
+        },
+        {
+          "text": "Un modo per tornare ad ascoltare i dischi in vinile tramite app.",
+          "isCorrect": false,
+          "rationale": "Lo streaming è l'evoluzione opposta al ritorno del supporto fisico analogico."
+        }
+      ],
+      "hint": "Passaggio dal concetto di 'possedere una canzone' a quello di 'avere un abbonamento per tutta la musica'."
+    }
+  ]
+}

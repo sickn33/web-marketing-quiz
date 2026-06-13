@@ -1,0 +1,765 @@
+{
+  "title": "Advertising Quiz",
+  "questions": [
+    {
+      "question": "Qual è la definizione corretta di digital advertising secondo il materiale?",
+      "answerOptions": [
+        {
+          "text": "L'insieme delle attività promozionali gratuite sui social media.",
+          "isCorrect": false,
+          "rationale": "Il digital advertising si basa specificamente su sponsorizzazioni a pagamento, non solo su attività organiche o gratuite."
+        },
+        {
+          "text": "Attività promozionali effettuate su internet mediante sponsorizzazioni a pagamento.",
+          "isCorrect": true,
+          "rationale": "Questa definizione riflette accuratamente il concetto di pubblicità online come attività a pagamento su canali web."
+        },
+        {
+          "text": "La creazione di siti web aziendali per la vendita diretta.",
+          "isCorrect": false,
+          "rationale": "Sebbene la vendita diretta sia un obiettivo, il digital advertising riguarda la promozione pagata per portare traffico o conversioni, non la mera creazione del sito."
+        },
+        {
+          "text": "L'invio massivo di email non richieste a database esterni.",
+          "isCorrect": false,
+          "rationale": "Questa pratica è più vicina allo spam che alla pianificazione strategica di digital advertising descritta nel documento."
+        }
+      ],
+      "hint": "Considera se queste attività sono gratuite o richiedono un investimento economico diretto sulla piattaforma."
+    },
+    {
+      "question": "Quali sono le due principali differenze tra pubblicità digitale e tradizionale?",
+      "answerOptions": [
+        {
+          "text": "Costo e durata delle campagne.",
+          "isCorrect": false,
+          "rationale": "Sebbene importanti, non sono le caratteristiche distintive evidenziate come pilastri nel materiale del corso."
+        },
+        {
+          "text": "Creatività e impatto visivo.",
+          "isCorrect": false,
+          "rationale": "Entrambe le forme di pubblicità puntano sull'impatto visivo, quindi non rappresentano la differenza fondamentale di metodo."
+        },
+        {
+          "text": "Flessibilità e precisione.",
+          "isCorrect": true,
+          "rationale": "Il digitale permette modifiche rapide (flessibilità) e un targeting estremamente accurato (precisione) rispetto ai media tradizionali."
+        },
+        {
+          "text": "Localizzazione e lingua.",
+          "isCorrect": false,
+          "rationale": "Anche i media tradizionali possono essere localizzati (radio locali, giornali), dunque non è il tratto distintivo principale."
+        }
+      ],
+      "hint": "Pensa alla capacità di modificare un annuncio in corsa e di scegliere esattamente chi lo vedrà."
+    },
+    {
+      "question": "In termini di flessibilità, cosa si intende per 'scalabilità' del budget?",
+      "answerOptions": [
+        {
+          "text": "La possibilità di aumentare o diminuire l'investimento in base ai risultati.",
+          "isCorrect": true,
+          "rationale": "La scalabilità permette di adattare le risorse finanziarie dinamicamente durante lo svolgimento della campagna."
+        },
+        {
+          "text": "L'obbligo di raddoppiare il budget ogni mese per mantenere la visibilità.",
+          "isCorrect": false,
+          "rationale": "La scalabilità è una scelta strategica basata sulle performance, non un vincolo tecnico o un obbligo di crescita costante."
+        },
+        {
+          "text": "Il pagamento di una quota fissa annuale non modificabile.",
+          "isCorrect": false,
+          "rationale": "Questo sarebbe l'opposto della scalabilità, tipico invece di alcuni contratti pubblicitari tradizionali rigidi."
+        },
+        {
+          "text": "La distribuzione del budget in parti uguali tra tutti i canali social.",
+          "isCorrect": false,
+          "rationale": "La distribuzione equa è una tattica di allocazione, mentre la scalabilità riguarda la variazione del volume totale dell'investimento."
+        }
+      ],
+      "hint": "Rifletti sulla capacità di un sistema di adattarsi a cambiamenti di volume o intensità."
+    },
+    {
+      "question": "Cosa indica il termine 'bit' nel contesto dei dati digitali?",
+      "answerOptions": [
+        {
+          "text": "Un insieme di 8 cifre binarie.",
+          "isCorrect": false,
+          "rationale": "Questo descrive un byte, che è un raggruppamento di bit, non l'unità singola."
+        },
+        {
+          "text": "L'unità minima di informazione.",
+          "isCorrect": true,
+          "rationale": "Il bit rappresenta la base fondamentale della codifica digitale, potendo assumere solo due valori."
+        },
+        {
+          "text": "Un segnale elettrico analogico continuo.",
+          "isCorrect": false,
+          "rationale": "Il bit appartiene al mondo discreto del digitale, mentre i segnali continui appartengono all'analogico."
+        },
+        {
+          "text": "Un file di testo compresso.",
+          "isCorrect": false,
+          "rationale": "Un file è una struttura complessa composta da moltissimi bit, non è l'unità minima stessa."
+        }
+      ],
+      "hint": "Cerca il concetto di base più elementare possibile in informatica."
+    },
+    {
+      "question": "Quanti bit compongono un byte?",
+      "answerOptions": [
+        {
+          "text": "$2$",
+          "isCorrect": false,
+          "rationale": "Il numero $2$ si riferisce ai simboli disponibili nel sistema binario ($0$ e $1$), non alla composizione di un byte."
+        },
+        {
+          "text": "$10$",
+          "isCorrect": false,
+          "rationale": "Il sistema decimale usa base $10$, ma l'informatica si basa su potenze di $2$."
+        },
+        {
+          "text": "$8$",
+          "isCorrect": true,
+          "rationale": "Per definizione standard, una serie di $8$ bit forma un singolo byte."
+        },
+        {
+          "text": "$1024$",
+          "isCorrect": false,
+          "rationale": "$1024$ è il fattore di conversione per i multipli superiori (come da byte a kilobyte)."
+        }
+      ],
+      "hint": "Pensa a un raggruppamento standard di cifre binarie utilizzato per codificare un carattere."
+    },
+    {
+      "question": "Perché i dischi in vinile sono considerati analogici?",
+      "answerOptions": [
+        {
+          "text": "Perché immagazzinano dati in una serie di 'buchi' e 'terre'.",
+          "isCorrect": false,
+          "rationale": "Questa è la descrizione della tecnologia utilizzata dai CD, che sono digitali."
+        },
+        {
+          "text": "Perché utilizzano il codice binario per riprodurre il suono.",
+          "isCorrect": false,
+          "rationale": "Il codice binario è la caratteristica fondamentale dei sistemi digitali, non di quelli analogici."
+        },
+        {
+          "text": "Perché immagazzinano dati meccanici e continui corrispondenti ai suoni.",
+          "isCorrect": true,
+          "rationale": "L'analogico si basa sulla continuità del segnale che imita (è analogo a) l'onda sonora originale."
+        },
+        {
+          "text": "Perché possono essere letti solo da dispositivi elettronici moderni.",
+          "isCorrect": false,
+          "rationale": "La modernità del dispositivo non determina la natura analogica o digitale del supporto dati."
+        }
+      ],
+      "hint": "Considera se il segnale registrato è una serie di valori distinti o un'onda che varia senza interruzioni."
+    },
+    {
+      "question": "Secondo la Legge di Moore, cosa accade ogni 18 mesi circa?",
+      "answerOptions": [
+        {
+          "text": "Il costo di un computer si riduce della metà a parità di prestazioni.",
+          "isCorrect": false,
+          "rationale": "Questa è più vicina alla Legge di Grosh, sebbene Moore abbia implicazioni economiche simili."
+        },
+        {
+          "text": "È possibile raddoppiare il numero di transistor in un chip a parità di costo.",
+          "isCorrect": true,
+          "rationale": "Moore si è concentrato specificamente sulla densità dei transistor nei circuiti integrati."
+        },
+        {
+          "text": "L'utilità della rete aumenta proporzionalmente al numero di utenti.",
+          "isCorrect": false,
+          "rationale": "Questa descrizione si riferisce alla Legge di Metcalfe riguardante le reti, non l'hardware."
+        },
+        {
+          "text": "La velocità di connessione internet raddoppia per tutti gli utenti.",
+          "isCorrect": false,
+          "rationale": "La Legge di Moore riguarda la potenza di calcolo e i semiconduttori, non direttamente la larghezza di banda delle reti."
+        }
+      ],
+      "hint": "Questa legge prende il nome dal co-fondatore di Intel e riguarda i componenti fisici dei microprocessori."
+    },
+    {
+      "question": "Quale formula esprime la Legge di Metcalfe riguardo all'utilità ($Ui$) per l'utente di una rete?",
+      "answerOptions": [
+        {
+          "text": "$Ui = n + 1$",
+          "isCorrect": false,
+          "rationale": "Una crescita lineare non riflette l'esplosione di valore tipica delle reti all'aumentare dei nodi."
+        },
+        {
+          "text": "$Ui \\approx n^2$",
+          "isCorrect": true,
+          "rationale": "La legge stabilisce che il valore di una rete cresce in modo esponenziale rispetto al numero di utenti ($n$)."
+        },
+        {
+          "text": "$Ui = \\frac{n}{2}$",
+          "isCorrect": false,
+          "rationale": "Questa formula indicherebbe una perdita di valore per utente all'aumentare della rete, l'opposto della realtà."
+        },
+        {
+          "text": "$Ui = \\log(n)$",
+          "isCorrect": false,
+          "rationale": "Una crescita logaritmica sarebbe troppo lenta per descrivere l'effetto di rete menzionato."
+        }
+      ],
+      "hint": "Pensa a come il numero di possibili connessioni tra utenti cresca molto più velocemente del numero di utenti stessi."
+    },
+    {
+      "question": "Nel modello 'Internet Industry' a strati, cosa comprende il $1^\\circ$ livello (Infrastructure)?",
+      "answerOptions": [
+        {
+          "text": "Browser e sistemi operativi di accesso.",
+          "isCorrect": false,
+          "rationale": "Questi elementi appartengono al secondo livello, quello dell'accesso (Access), non all'infrastruttura di base."
+        },
+        {
+          "text": "Siti di e-commerce e social network.",
+          "isCorrect": false,
+          "rationale": "Questi sono contenuti o servizi finali situati ai livelli più alti ($4^\\circ$ o $5^\\circ$)."
+        },
+        {
+          "text": "Produttori di fibra ottica, server e hardware di rete.",
+          "isCorrect": true,
+          "rationale": "L'infrastruttura riguarda le componenti fisiche e i materiali necessari per costruire la rete stessa."
+        },
+        {
+          "text": "Agenzie di consulenza IT e hosting.",
+          "isCorrect": false,
+          "rationale": "Questi servizi fanno parte del terzo livello (Internet IT)."
+        }
+      ],
+      "hint": "Cerca gli elementi hardware 'pesanti' che costituiscono la spina dorsale fisica del web."
+    },
+    {
+      "question": "Qual è la funzione principale del protocollo IP all'interno di Internet?",
+      "answerOptions": [
+        {
+          "text": "Permette il trasporto dei dati tra due nodi.",
+          "isCorrect": false,
+          "rationale": "Il trasporto dei dati è la funzione specifica del protocollo TCP (Transmission Control Protocol)."
+        },
+        {
+          "text": "Consente di incanalare e dirigere i dati verso la destinazione.",
+          "isCorrect": true,
+          "rationale": "L'Internet Protocol (IP) si occupa dell'indirizzamento dei pacchetti attraverso i vari nodi della rete."
+        },
+        {
+          "text": "Codifica i documenti in formato ipertestuale.",
+          "isCorrect": false,
+          "rationale": "La codifica ipertestuale è affidata al linguaggio HTML, non ai protocolli di rete TCP/IP."
+        },
+        {
+          "text": "Protegge la rete da attacchi di virus e malware.",
+          "isCorrect": false,
+          "rationale": "IP è un protocollo di comunicazione; la sicurezza è gestita da altri sistemi come firewall o software specifici."
+        }
+      ],
+      "hint": "Pensa a un sistema di indirizzi postali che guida un pacco verso la sua meta."
+    },
+    {
+      "question": "Cosa differenzia una 'Piattaforma digitale' da un 'Device digitale'?",
+      "answerOptions": [
+        {
+          "text": "La piattaforma è l'ambiente (es. Web), il device è lo strumento hardware (es. Smartphone).",
+          "isCorrect": true,
+          "rationale": "Questa distinzione separa correttamente il contesto software/rete dall'oggetto fisico utilizzato per accedervi."
+        },
+        {
+          "text": "La piattaforma è portatile, il device è sempre fisso in ufficio.",
+          "isCorrect": false,
+          "rationale": "Esistono piattaforme accessibili ovunque e device sia fissi che mobili."
+        },
+        {
+          "text": "Non c'è differenza, sono sinonimi usati in contesti diversi.",
+          "isCorrect": false,
+          "rationale": "Il materiale del corso distingue chiaramente tra i due concetti per una corretta analisi di marketing."
+        },
+        {
+          "text": "Il device è una rete di computer, la piattaforma è un singolo processore.",
+          "isCorrect": false,
+          "rationale": "Questa definizione inverte e confonde i termini tecnici di base."
+        }
+      ],
+      "hint": "Considera quale dei due puoi toccare fisicamente e quale invece visiti virtualmente."
+    },
+    {
+      "question": "Qual è un esempio di 'Effetto di rete diretto'?",
+      "answerOptions": [
+        {
+          "text": "Un lettore DVD che vale di più se ci sono molti film disponibili.",
+          "isCorrect": false,
+          "rationale": "Questo è un effetto indiretto, poiché dipende dalla disponibilità di un bene complementare (i film)."
+        },
+        {
+          "text": "Il valore di Amazon che aumenta grazie alla varietà di libri venduti.",
+          "isCorrect": false,
+          "rationale": "Si tratta di un effetto legato all'ampiezza dell'offerta (Long Tail) o a dinamiche multi-lato, non a una rete diretta."
+        },
+        {
+          "text": "Un telefono che diventa più prezioso all'aumentare degli altri utenti che possiedono un telefono.",
+          "isCorrect": true,
+          "rationale": "L'effetto è diretto quando l'utilità cresce semplicemente perché ci sono più persone con cui interagire direttamente."
+        },
+        {
+          "text": "Un computer che diventa più veloce grazie a un nuovo chip.",
+          "isCorrect": false,
+          "rationale": "Questo è un miglioramento tecnologico hardware, non un effetto legato alla rete di utenti."
+        }
+      ],
+      "hint": "Pensa a un servizio che è totalmente inutile se sei l'unico a usarlo, ma utilissimo se lo usano tutti i tuoi amici."
+    },
+    {
+      "question": "Cosa si intende per 'Long Tail' (Coda Lunga) nel commercio elettronico?",
+      "answerOptions": [
+        {
+          "text": "La strategia di vendere solo i $10$ prodotti più popolari del mercato.",
+          "isCorrect": false,
+          "rationale": "Questa sarebbe la strategia opposta, focalizzata sui 'blockbuster' o successi di massa."
+        },
+        {
+          "text": "La capacità di generare profitti significativi vendendo piccole quantità di molti prodotti di nicchia.",
+          "isCorrect": true,
+          "rationale": "Internet abbatte i costi di magazzino, permettendo di offrire un catalogo vastissimo che soddisfa ogni nicchia."
+        },
+        {
+          "text": "Il tempo di attesa prolungato per la consegna di prodotti digitali.",
+          "isCorrect": false,
+          "rationale": "I prodotti digitali hanno consegna quasi istantanea; la 'coda' non si riferisce al tempo."
+        },
+        {
+          "text": "L'estensione geografica dei cavi sottomarini in fibra ottica.",
+          "isCorrect": false,
+          "rationale": "Il termine è un concetto economico di distribuzione delle vendite, non una misura fisica."
+        }
+      ],
+      "hint": "Rifletti sul grafico delle vendite di Amazon, dove la somma delle piccole nicchie è vastissima."
+    },
+    {
+      "question": "Nelle piattaforme 'a due mercati' (multi-sided), perché la partecipazione di una parte è fondamentale?",
+      "answerOptions": [
+        {
+          "text": "Perché le due parti devono pagare la stessa quota fissa per accedere.",
+          "isCorrect": false,
+          "rationale": "Spesso i prezzi sono asimmetrici (una parte paga meno o nulla) per attirare l'altra parte."
+        },
+        {
+          "text": "Perché il valore per una parte aumenta all'aumentare dei membri presenti dall'altra parte.",
+          "isCorrect": true,
+          "rationale": "È il principio dell'effetto di rete indiretto: più venditori attirano più compratori e viceversa."
+        },
+        {
+          "text": "Perché la legge impone che produttori e consumatori usino piattaforme diverse.",
+          "isCorrect": false,
+          "rationale": "Al contrario, il modello funziona solo se entrambe le parti convergono sulla stessa piattaforma."
+        },
+        {
+          "text": "Perché permette di eliminare completamente la necessità di pubblicità.",
+          "isCorrect": false,
+          "rationale": "Le piattaforme multi-lato spesso usano la pubblicità come una delle fonti di ricavo principali."
+        }
+      ],
+      "hint": "Pensa a come un'app di consegne a domicilio sia utile solo se ci sono sia molti ristoranti che molti clienti."
+    },
+    {
+      "question": "Quale di queste affermazioni sulla 'precisione' nel digital advertising è corretta?",
+      "answerOptions": [
+        {
+          "text": "È possibile limitare la pubblicazione dell'annuncio a determinate ore del giorno.",
+          "isCorrect": true,
+          "rationale": "Il digital advertising offre strumenti granulari per decidere il timing della comunicazione."
+        },
+        {
+          "text": "La precisione dipende esclusivamente dalla grandezza del budget investito.",
+          "isCorrect": false,
+          "rationale": "Il budget influisce sul volume, ma la precisione è data dalle capacità di targeting tecnico."
+        },
+        {
+          "text": "Gli annunci digitali vengono mostrati a tutti gli utenti indistintamente per sicurezza.",
+          "isCorrect": false,
+          "rationale": "Questo sarebbe un approccio 'massivo' tipico dei media tradizionali, non la precisione del digitale."
+        },
+        {
+          "text": "Non è possibile evitare di mostrare l'annuncio a chi lo ha già visto.",
+          "isCorrect": false,
+          "rationale": "Esiste la funzione di 'frequency capping' che serve proprio a limitare le visualizzazioni ripetute allo stesso utente."
+        }
+      ],
+      "hint": "Rifletti sulla capacità di controllo che ha l'inserzionista sui tempi e sui destinatari."
+    },
+    {
+      "question": "La Legge di Grosh suggerisce che se la capacità di elaborazione aumenta di $4$ volte:",
+      "answerOptions": [
+        {
+          "text": "Il costo del computer raddoppia per compensare i costi di ricerca.",
+          "isCorrect": false,
+          "rationale": "Questa affermazione contraddice il principio della legge che prevede una riduzione dei costi."
+        },
+        {
+          "text": "Il costo del computer si riduce della metà.",
+          "isCorrect": true,
+          "rationale": "Grosh teorizzò un'economia di scala dove l'aumento di potenza porta a una riduzione drastica dei costi unitari."
+        },
+        {
+          "text": "La velocità di internet diminuisce per congestione.",
+          "isCorrect": false,
+          "rationale": "La legge riguarda la potenza di calcolo dei singoli sistemi, non il traffico di rete globale."
+        },
+        {
+          "text": "Il numero di bit necessari per un byte scende a $4$.",
+          "isCorrect": false,
+          "rationale": "La struttura dei dati (bit/byte) è uno standard fisso e non dipende dalla velocità di elaborazione."
+        }
+      ],
+      "hint": "Cerca la relazione inversa tra potenza di calcolo e costo economico dell'hardware."
+    },
+    {
+      "question": "Cosa si intende per 'dati discreti' nel sistema digitale?",
+      "answerOptions": [
+        {
+          "text": "Dati che cambiano continuamente nel tempo senza interruzioni.",
+          "isCorrect": false,
+          "rationale": "Questa è la definizione di dati analogici, non digitali."
+        },
+        {
+          "text": "Dati che assumono solo valori finiti e separati (es. $0$ e $1$).",
+          "isCorrect": true,
+          "rationale": "La discretezza implica che non ci siano valori intermedi tra uno stato e l'altro del codice."
+        },
+        {
+          "text": "Dati protetti da leggi sulla privacy molto stringenti.",
+          "isCorrect": false,
+          "rationale": "In questo contesto, 'discreto' è un termine matematico/tecnico, non legato alla riservatezza delle informazioni."
+        },
+        {
+          "text": "Dati che possono essere letti solo dall'occhio umano.",
+          "isCorrect": false,
+          "rationale": "I dati digitali richiedono una macchina per essere decodificati e visualizzati in forma comprensibile."
+        }
+      ],
+      "hint": "Pensa a un interruttore che può essere solo acceso o spento, senza posizioni intermedie."
+    },
+    {
+      "question": "Il Web è definito come un sistema di navigazione ipertestuale. Cosa significa 'ipertestuale'?",
+      "answerOptions": [
+        {
+          "text": "Un testo scritto esclusivamente con lettere maiuscole.",
+          "isCorrect": false,
+          "rationale": "L'ipertestualità riguarda la struttura dei collegamenti, non la formattazione dei caratteri."
+        },
+        {
+          "text": "Un vasto network di documenti collegati tramite link.",
+          "isCorrect": true,
+          "rationale": "L'ipertesto permette una lettura non lineare, saltando da un documento all'altro tramite i collegamenti (link)."
+        },
+        {
+          "text": "Un sistema che traduce automaticamente i testi in $50$ lingue.",
+          "isCorrect": false,
+          "rationale": "Sebbene esistano traduttori online, non è questa la definizione di ipertesto."
+        },
+        {
+          "text": "Un documento che contiene solo immagini senza testo.",
+          "isCorrect": false,
+          "rationale": "L'ipertesto può contenere immagini, ma la sua caratteristica distintiva è il legame logico tra testi."
+        }
+      ],
+      "hint": "Ricorda cosa succede quando clicchi su una parola sottolineata in blu in una pagina web."
+    },
+    {
+      "question": "Quale di questi è classificato come un 'Internet service' nel $3^\\circ$ livello del modello Industry?",
+      "answerOptions": [
+        {
+          "text": "Adobe o Microsoft Word.",
+          "isCorrect": false,
+          "rationale": "Questi sono considerati 'Internet software', ovvero prodotti software, piuttosto che servizi."
+        },
+        {
+          "text": "Ricerche di mercato online e hosting.",
+          "isCorrect": true,
+          "rationale": "Si tratta di attività di consulenza o supporto tecnico fornite come servizio alle aziende."
+        },
+        {
+          "text": "Cavi sottomarini e router.",
+          "isCorrect": false,
+          "rationale": "Questi appartengono al primo livello delle infrastrutture fisiche."
+        },
+        {
+          "text": "Smartphone e Tablet.",
+          "isCorrect": false,
+          "rationale": "Questi sono dispositivi (device) situati nel secondo livello di accesso."
+        }
+      ],
+      "hint": "Cerca attività che offrono competenze o risorse virtuali piuttosto che prodotti software preconfezionati."
+    },
+    {
+      "question": "Secondo il materiale, il digital advertising è diventato un mezzo per:",
+      "answerOptions": [
+        {
+          "text": "Evitare del tutto il marketing tradizionale.",
+          "isCorrect": false,
+          "rationale": "Il digitale integra il marketing tradizionale, non necessariamente lo sostituisce in ogni settore."
+        },
+        {
+          "text": "Costruire relazioni con i consumatori.",
+          "isCorrect": true,
+          "rationale": "Il passaggio è dalla mera promozione unidirezionale alla creazione di un rapporto interattivo."
+        },
+        {
+          "text": "Spiare le attività private degli utenti illegalmente.",
+          "isCorrect": false,
+          "rationale": "Il digital advertising si basa su dati profilati legalmente per migliorare la rilevanza degli annunci."
+        },
+        {
+          "text": "Ridurre a zero i costi di produzione dei prodotti.",
+          "isCorrect": false,
+          "rationale": "Il digital advertising impatta sui costi di promozione e vendita, non direttamente su quelli di produzione fisica."
+        }
+      ],
+      "hint": "Pensa all'evoluzione dal 'parlare a qualcuno' al 'parlare con qualcuno'."
+    },
+    {
+      "question": "Qual è il ruolo del TCP (Transmission Control Protocol) in Internet?",
+      "answerOptions": [
+        {
+          "text": "Assegnare un nome di dominio univoco ai siti.",
+          "isCorrect": false,
+          "rationale": "Questa è la funzione del DNS, mentre il TCP lavora a un livello più profondo di comunicazione."
+        },
+        {
+          "text": "Gestire la visualizzazione delle immagini sul browser.",
+          "isCorrect": false,
+          "rationale": "La visualizzazione è gestita dal codice HTML/CSS e dai motori di rendering del browser."
+        },
+        {
+          "text": "Consentire il trasporto dei dati.",
+          "isCorrect": true,
+          "rationale": "Il TCP garantisce che i pacchetti di dati arrivino integri e nella sequenza corretta a destinazione."
+        },
+        {
+          "text": "Creare il design grafico delle email.",
+          "isCorrect": false,
+          "rationale": "Il design è una questione di contenuti e linguaggi come HTML, non di protocolli di trasporto."
+        }
+      ],
+      "hint": "TCP e IP lavorano insieme: uno guida, l'altro trasporta il carico."
+    },
+    {
+      "question": "Vero o Falso: Il digital advertising permette di evitare che un annuncio venga mostrato di nuovo a chi lo ha già visto.",
+      "answerOptions": [
+        {
+          "text": "Vero",
+          "isCorrect": true,
+          "rationale": "Questa funzione, nota come frequency capping, è un vantaggio chiave della precisione digitale."
+        },
+        {
+          "text": "Falso",
+          "isCorrect": false,
+          "rationale": "Al contrario, il tracciamento dei cookie e degli ID utente permette proprio questo tipo di controllo granulare."
+        }
+      ],
+      "hint": "Considera se i sistemi digitali sono in grado di riconoscere un utente che ha già interagito con un contenuto."
+    },
+    {
+      "question": "Quale componente hardware è specificamente menzionato nella Legge di Moore?",
+      "answerOptions": [
+        {
+          "text": "Hard Disk magnetico.",
+          "isCorrect": false,
+          "rationale": "Sebbene anche gli hard disk seguano logiche di miglioramento, Moore si riferiva ai transistor nei circuiti integrati."
+        },
+        {
+          "text": "Transistor.",
+          "isCorrect": true,
+          "rationale": "La legge prevede il raddoppio del numero di transistor integrabili in un singolo chip."
+        },
+        {
+          "text": "Monitor LED.",
+          "isCorrect": false,
+          "rationale": "I monitor seguono altre curve di evoluzione tecnologica legate alla risoluzione e ai materiali luminosi."
+        },
+        {
+          "text": "Tastiera wireless.",
+          "isCorrect": false,
+          "rationale": "Le periferiche di input non sono soggette alle leggi di crescita esponenziale della densità dei semiconduttori."
+        }
+      ],
+      "hint": "Cerca il componente microscopico fondamentale che funge da interruttore all'interno dei processori."
+    },
+    {
+      "question": "Cosa si intende per 'ICT'?",
+      "answerOptions": [
+        {
+          "text": "Internet Connection Tool.",
+          "isCorrect": false,
+          "rationale": "Questo è un termine inventato; ICT sta per Information & Communication Technologies."
+        },
+        {
+          "text": "Infrastruttura di Comunicazione Telefonica.",
+          "isCorrect": false,
+          "rationale": "La telefonia è solo una piccola parte delle tecnologie coperte dall'acronimo ICT."
+        },
+        {
+          "text": "Information & Communication Technologies.",
+          "isCorrect": true,
+          "rationale": "Definisce l'insieme dei metodi e delle tecnologie per accedere, archiviare e trasmettere informazioni."
+        },
+        {
+          "text": "Integrazione di Circuiti e Trasmettitori.",
+          "isCorrect": false,
+          "rationale": "È una definizione troppo tecnica e limitata alla componentistica elettronica."
+        }
+      ],
+      "hint": "È l'acronimo inglese che raggruppa informatica e telecomunicazioni."
+    },
+    {
+      "question": "In un sistema binario, quanti simboli diversi vengono utilizzati per codificare i dati?",
+      "answerOptions": [
+        {
+          "text": "Infinite combinazioni.",
+          "isCorrect": false,
+          "rationale": "Le combinazioni sono molte, ma i simboli di base sono limitatissimi."
+        },
+        {
+          "text": "$10$ ($da 0 a 9$)",
+          "isCorrect": false,
+          "rationale": "Questo è il sistema decimale, non quello binario usato dai computer."
+        },
+        {
+          "text": "$2$ ($0$ e $1$)",
+          "isCorrect": true,
+          "rationale": "Il termine 'binario' deriva proprio dall'uso di soli due stati o simboli."
+        },
+        {
+          "text": "$8$ ($un byte$)",
+          "isCorrect": false,
+          "rationale": "$8$ è il numero di cifre in una stringa standard, non il numero di simboli diversi disponibili."
+        }
+      ],
+      "hint": "Pensa alla radice della parola 'binario'."
+    },
+    {
+      "question": "Perché le nicchie di mercato sono economicamente importanti nell'economia digitale?",
+      "answerOptions": [
+        {
+          "text": "Perché i prodotti di nicchia costano sempre meno dei prodotti di massa.",
+          "isCorrect": false,
+          "rationale": "Spesso è il contrario, ma la rilevanza economica non deriva dal prezzo unitario basso."
+        },
+        {
+          "text": "Perché la somma di molti mercati di nicchia può superare il mercato dei grandi successi.",
+          "isCorrect": true,
+          "rationale": "È il cuore della teoria della Long Tail: la coda è così lunga che il suo volume totale è enorme."
+        },
+        {
+          "text": "Perché le nicchie non richiedono alcun tipo di marketing.",
+          "isCorrect": false,
+          "rationale": "Al contrario, le nicchie richiedono un marketing molto preciso e mirato per essere raggiunte."
+        },
+        {
+          "text": "Perché scompaiono rapidamente lasciando spazio ai monopoli.",
+          "isCorrect": false,
+          "rationale": "L'economia digitale tende a preservare e nutrire le nicchie grazie ai bassi costi di stoccaggio."
+        }
+      ],
+      "hint": "Immagina di sommare l'area di una coda lunghissima rispetto a un picco molto alto ma stretto."
+    },
+    {
+      "question": "Quale di questi è un esempio di 'Device digitale' secondo la classificazione fornita?",
+      "answerOptions": [
+        {
+          "text": "Facebook.",
+          "isCorrect": false,
+          "rationale": "Facebook è una piattaforma sociale (software/web), non un dispositivo hardware."
+        },
+        {
+          "text": "Smartphone.",
+          "isCorrect": true,
+          "rationale": "Lo smartphone è l'oggetto fisico (hardware) utilizzato per accedere ai servizi digitali."
+        },
+        {
+          "text": "L'Internet delle cose (IoT).",
+          "isCorrect": false,
+          "rationale": "L'IoT è un concetto di rete e interconnessione, non un singolo dispositivo specifico."
+        },
+        {
+          "text": "Il World Wide Web.",
+          "isCorrect": false,
+          "rationale": "Il Web è un sistema di navigazione e contenuti, ovvero una piattaforma digitale."
+        }
+      ],
+      "hint": "Cerca lo strumento che puoi tenere in tasca o sulla scrivania."
+    },
+    {
+      "question": "In termini di precisione pubblicitaria, cosa si intende per 'metodi di targeting'?",
+      "answerOptions": [
+        {
+          "text": "La capacità di colpire fisicamente i server della concorrenza.",
+          "isCorrect": false,
+          "rationale": "Il targeting non ha nulla a che fare con attacchi informatici o azioni fisiche."
+        },
+        {
+          "text": "Tecniche per raggiungere segmenti di pubblico specifici e individuati.",
+          "isCorrect": true,
+          "rationale": "Il targeting permette di selezionare i destinatari in base a interessi, dati demografici o comportamenti."
+        },
+        {
+          "text": "L'uso di frecce e archi nelle campagne pubblicitarie creative.",
+          "isCorrect": false,
+          "rationale": "Questa è un'interpretazione letterale errata del termine 'target' (bersaglio)."
+        },
+        {
+          "text": "La traduzione automatica degli annunci in tutte le lingue del mondo.",
+          "isCorrect": false,
+          "rationale": "La localizzazione linguistica può essere parte del targeting, ma non ne esaurisce il significato."
+        }
+      ],
+      "hint": "Pensa alla selezione del pubblico ideale per un determinato prodotto."
+    },
+    {
+      "question": "Vero o Falso: Un CD è digitale perché immagazzina suoni trasformandoli in segnali meccanici continui.",
+      "answerOptions": [
+        {
+          "text": "Vero",
+          "isCorrect": false,
+          "rationale": "Il CD è digitale perché usa segnali discreti ('buchi' e 'terre'), non segnali continui."
+        },
+        {
+          "text": "Falso",
+          "isCorrect": true,
+          "rationale": "L'affermazione descrive il funzionamento dei supporti analogici come il vinile."
+        }
+      ],
+      "hint": "Ricorda la distinzione tra segnale continuo (analogico) e segnale discreto (digitale)."
+    },
+    {
+      "question": "Quale di questi fattori contribuisce all'effetto di rete indiretto per un lettore DVD?",
+      "answerOptions": [
+        {
+          "text": "Il colore estetico del lettore.",
+          "isCorrect": false,
+          "rationale": "L'estetica è una preferenza individuale, non un effetto di rete legato agli altri utenti."
+        },
+        {
+          "text": "L'aumento della varietà di DVD disponibili sul mercato.",
+          "isCorrect": true,
+          "rationale": "Più persone usano il lettore, più i produttori di film sono incentivati a produrre DVD, aumentando il valore del lettore stesso."
+        },
+        {
+          "text": "La possibilità di collegare due lettori tra loro con un cavo.",
+          "isCorrect": false,
+          "rationale": "Questo sarebbe un collegamento fisico, non un effetto economico di mercato indiretto."
+        },
+        {
+          "text": "Il fatto che il lettore consumi meno energia elettrica.",
+          "isCorrect": false,
+          "rationale": "L'efficienza energetica è una caratteristica tecnica del prodotto, non un effetto di rete."
+        }
+      ],
+      "hint": "Pensa a come la disponibilità di contenuti esterni influenzi l'utilità del dispositivo."
+    }
+  ]
+}

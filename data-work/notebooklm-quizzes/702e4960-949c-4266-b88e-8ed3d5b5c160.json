@@ -1,0 +1,775 @@
+{
+  "title": "Marketing Quiz",
+  "questions": [
+    {
+      "question": "Qual è la differenza fondamentale tra invenzione e innovazione secondo il materiale fornito?",
+      "answerOptions": [
+        {
+          "text": "L'invenzione crea qualcosa di nuovo, mentre l'innovazione applica idee per generare valore.",
+          "isCorrect": true,
+          "rationale": "L'innovazione non riguarda solo il creare, ma il migliorare processi o prodotti per produrre un beneficio concreto."
+        },
+        {
+          "text": "L'innovazione riguarda solo i prodotti fisici, l'invenzione riguarda i processi digitali.",
+          "isCorrect": false,
+          "rationale": "Entrambi i concetti possono applicarsi sia al mondo fisico che a quello digitale."
+        },
+        {
+          "text": "L'invenzione genera sempre profitto, l'innovazione no.",
+          "isCorrect": false,
+          "rationale": "Non tutte le invenzioni hanno successo commerciale, mentre l'innovazione è orientata proprio alla generazione di valore."
+        },
+        {
+          "text": "Sono sinonimi utilizzati indifferentemente nel marketing digitale.",
+          "isCorrect": false,
+          "rationale": "Il materiale distingue chiaramente tra la creazione di qualcosa di inedito e l'applicazione di idee per il miglioramento."
+        }
+      ],
+      "hint": "Pensa a quale dei due termini implica il concetto di 'generazione di valore'."
+    },
+    {
+      "question": "In che anno Blockbuster ha rifiutato l'offerta di acquisto di Netflix per 5 milioni di dollari?",
+      "answerOptions": [
+        {
+          "text": "2000",
+          "isCorrect": true,
+          "rationale": "Questa data segna un punto di svolta critico nella timeline della competizione tra i due colossi."
+        },
+        {
+          "text": "1997",
+          "isCorrect": false,
+          "rationale": "Il 1997 è l'anno di fondazione di Netflix, non quello del rifiuto dell'acquisto."
+        },
+        {
+          "text": "2004",
+          "isCorrect": false,
+          "rationale": "Nel 2004 Blockbuster raggiunse il suo picco di valore di mercato, ma il rifiuto avvenne prima."
+        },
+        {
+          "text": "2010",
+          "isCorrect": false,
+          "rationale": "Nel 2010 Blockbuster ha avviato le procedure di fallimento (Chapter 11)."
+        }
+      ],
+      "hint": "È accaduto tre anni dopo la fondazione di Netflix."
+    },
+    {
+      "question": "Cosa si intende per 'Digitalizzazione' nel primo livello di evoluzione digitale?",
+      "answerOptions": [
+        {
+          "text": "La conversione di informazioni e documenti in formato digitale.",
+          "isCorrect": true,
+          "rationale": "Si tratta del passaggio tecnico dal formato analogico o cartaceo a quello binario."
+        },
+        {
+          "text": "L'automazione completa di ogni processo aziendale.",
+          "isCorrect": false,
+          "rationale": "L'automazione appartiene al livello successivo della digitalizzazione dei processi."
+        },
+        {
+          "text": "La creazione di un nuovo modello di business basato sui dati.",
+          "isCorrect": false,
+          "rationale": "Il cambiamento del modello di business è l'obiettivo finale della Trasformazione Digitale."
+        },
+        {
+          "text": "L'eliminazione totale del personale umano a favore dell'IA.",
+          "isCorrect": false,
+          "rationale": "La digitalizzazione riguarda la gestione dei dati e dei documenti, non la sostituzione del personale."
+        }
+      ],
+      "hint": "Pensa all'esempio del passaggio dalle fatture cartacee a quelle elettroniche."
+    },
+    {
+      "question": "Quale esempio descrive correttamente la 'Digitalizzazione dei processi'?",
+      "answerOptions": [
+        {
+          "text": "L'utilizzo di un CRM per gestire le relazioni con i clienti.",
+          "isCorrect": true,
+          "rationale": "L'integrazione di strumenti digitali per ottimizzare flussi di lavoro esistenti definisce la digitalizzazione dei processi."
+        },
+        {
+          "text": "Convertire un vecchio archivio cartaceo in PDF.",
+          "isCorrect": false,
+          "rationale": "Questa operazione è limitata alla digitalizzazione pura delle informazioni."
+        },
+        {
+          "text": "Lanciare un servizio di streaming come Spotify.",
+          "isCorrect": false,
+          "rationale": "Lo streaming rappresenta una trasformazione strategica del modello di business."
+        },
+        {
+          "text": "Stampare un catalogo prodotti inviato via posta.",
+          "isCorrect": false,
+          "rationale": "Questa è un'operazione tradizionale che non sfrutta l'automazione digitale dei processi."
+        }
+      ],
+      "hint": "Cerca un'azione che automatizza o ottimizza un'attività aziendale."
+    },
+    {
+      "question": "Come viene definita la 'Trasformazione Digitale'?",
+      "answerOptions": [
+        {
+          "text": "Un cambiamento strategico e culturale che ridefinisce come l'azienda genera valore.",
+          "isCorrect": true,
+          "rationale": "Non è solo un'adozione tecnologica, ma una revisione profonda dell'approccio al mercato."
+        },
+        {
+          "text": "L'acquisto di nuovi computer e software per l'ufficio.",
+          "isCorrect": false,
+          "rationale": "La semplice acquisizione di hardware non costituisce di per sé una trasformazione strategica."
+        },
+        {
+          "text": "Il passaggio esclusivo alla pubblicità sui social network.",
+          "isCorrect": false,
+          "rationale": "Il marketing sui social è solo una parte tattica, non l'intero cambiamento sistemico aziendale."
+        },
+        {
+          "text": "La scansione di tutti i contratti aziendali in formato digitale.",
+          "isCorrect": false,
+          "rationale": "Questa attività rientra nel primo livello di base, ovvero la digitalizzazione dei dati."
+        }
+      ],
+      "hint": "Riguarda il livello più profondo e strategico del cambiamento aziendale."
+    },
+    {
+      "question": "Nell'industria musicale, quale piattaforma rappresenta la 'Trasformazione Digitale'?",
+      "answerOptions": [
+        {
+          "text": "Spotify",
+          "isCorrect": true,
+          "rationale": "Ha cambiato radicalmente il modello di business passando dal possesso della musica all'accesso tramite streaming."
+        },
+        {
+          "text": "iTunes (vendita di singoli brani)",
+          "isCorrect": false,
+          "rationale": "iTunes rappresenta la digitalizzazione dei processi di vendita, mantenendo il modello dell'acquisto del brano."
+        },
+        {
+          "text": "Il formato MP3",
+          "isCorrect": false,
+          "rationale": "L'MP3 è lo strumento tecnologico per la digitalizzazione del supporto audio."
+        },
+        {
+          "text": "Il registratore a cassette",
+          "isCorrect": false,
+          "rationale": "Si tratta di una tecnologia analogica precedente all'era digitale."
+        }
+      ],
+      "hint": "Pensa al passaggio dal possesso del brano al servizio di abbonamento."
+    },
+    {
+      "question": "Secondo la definizione fornita, cos'è il marketing?",
+      "answerOptions": [
+        {
+          "text": "La scienza e l'arte di esplorare, creare e fornire valore per soddisfare i bisogni di un mercato.",
+          "isCorrect": true,
+          "rationale": "Questa definizione sottolinea l'importanza della creazione di valore orientata al profitto e alla soddisfazione del cliente."
+        },
+        {
+          "text": "L'insieme delle tecniche per convincere qualcuno a comprare cose inutili.",
+          "isCorrect": false,
+          "rationale": "Il marketing si basa sull'identificazione e soddisfazione di bisogni reali, non sulla manipolazione."
+        },
+        {
+          "text": "Solo la gestione delle campagne pubblicitarie sui media tradizionali.",
+          "isCorrect": false,
+          "rationale": "La pubblicità è solo una componente (Promotion) del marketing mix più ampio."
+        },
+        {
+          "text": "L'attività di vendita porta a porta dei prodotti aziendali.",
+          "isCorrect": false,
+          "rationale": "La vendita è una funzione operativa che segue la strategia di marketing."
+        }
+      ],
+      "hint": "Cerca le parole chiave 'scienza', 'arte' e 'valore'."
+    },
+    {
+      "question": "Quali sono le '4P' del Marketing Mix citate nel materiale?",
+      "answerOptions": [
+        {
+          "text": "Product, Price, Place, Promotion",
+          "isCorrect": true,
+          "rationale": "Questi rappresentano i pilastri classici su cui si fonda la strategia operativa di marketing."
+        },
+        {
+          "text": "People, Profit, Planet, Process",
+          "isCorrect": false,
+          "rationale": "Sebbene importanti, questi termini appartengono spesso a modelli di sostenibilità o estensioni successive."
+        },
+        {
+          "text": "Publicity, Production, Payment, Purchase",
+          "isCorrect": false,
+          "rationale": "Questi termini non corrispondono alla classificazione standard del marketing mix."
+        },
+        {
+          "text": "Platform, Program, Performance, Privacy",
+          "isCorrect": false,
+          "rationale": "Questi sono concetti legati al marketing digitale moderno ma non sono le 4P originarie."
+        }
+      ],
+      "hint": "Includono il prodotto, il prezzo, la distribuzione e la promozione."
+    },
+    {
+      "question": "Quale fase del Customer Journey è associata al passaparola e alla creazione di una community?",
+      "answerOptions": [
+        {
+          "text": "Advocacy",
+          "isCorrect": true,
+          "rationale": "In questa fase i clienti diventano promotori attivi del brand presso altri potenziali utenti."
+        },
+        {
+          "text": "Conoscenza",
+          "isCorrect": false,
+          "rationale": "La conoscenza è la fase iniziale in cui l'utente scopre l'esistenza del brand."
+        },
+        {
+          "text": "Acquisto",
+          "isCorrect": false,
+          "rationale": "L'acquisto è il momento transazionale in cui avviene lo scambio di valore."
+        },
+        {
+          "text": "Considerazione",
+          "isCorrect": false,
+          "rationale": "La considerazione è la fase di valutazione e confronto tra diverse alternative."
+        }
+      ],
+      "hint": "È l'ultima fase della mappa del percorso del cliente."
+    },
+    {
+      "question": "Cosa rappresenta il 'ZMOT' nel modello di comportamento del consumatore?",
+      "answerOptions": [
+        {
+          "text": "Zero Moment of Truth: la ricerca di informazioni online prima dell'acquisto.",
+          "isCorrect": true,
+          "rationale": "Rappresenta il momento in cui l'utente si informa autonomamente su internet dopo uno stimolo."
+        },
+        {
+          "text": "Zone of Marketing Online Tools: gli strumenti per fare pubblicità.",
+          "isCorrect": false,
+          "rationale": "ZMOT è un acronimo coniato da Google che si riferisce a un momento decisionale, non a una categoria di strumenti."
+        },
+        {
+          "text": "Zenith of Marketing Operational Tasks: il picco delle vendite stagionali.",
+          "isCorrect": false,
+          "rationale": "Il termine non ha alcuna relazione con i volumi di vendita o la stagionalità."
+        },
+        {
+          "text": "Zero Management of Trends: la mancanza di controllo sulle mode.",
+          "isCorrect": false,
+          "rationale": "ZMOT riguarda il comportamento proattivo del consumatore, non la gestione dei trend."
+        }
+      ],
+      "hint": "È il momento della verità che avviene prima di arrivare allo scaffale del negozio."
+    },
+    {
+      "question": "Cosa accade nel 'Second Moment of Truth'?",
+      "answerOptions": [
+        {
+          "text": "L'esperienza d'uso del prodotto a casa da parte del cliente.",
+          "isCorrect": true,
+          "rationale": "In questa fase il cliente verifica se le promesse fatte dal marketing sono mantenute durante l'utilizzo reale."
+        },
+        {
+          "text": "Il pagamento alla cassa del negozio fisico.",
+          "isCorrect": false,
+          "rationale": "Il pagamento e la scelta allo scaffale sono parte del First Moment of Truth."
+        },
+        {
+          "text": "La visualizzazione di un annuncio pubblicitario in TV.",
+          "isCorrect": false,
+          "rationale": "La pubblicità funge da 'Stimulus' iniziale nel modello ZMOT."
+        },
+        {
+          "text": "La lettura delle recensioni su un forum di settore.",
+          "isCorrect": false,
+          "rationale": "La lettura delle recensioni è l'attività tipica del Zero Moment of Truth."
+        }
+      ],
+      "hint": "Pensa a quando l'utente porta il prodotto a casa e inizia a usarlo."
+    },
+    {
+      "question": "Nella vignetta dei cavernicoli che trascinano un carro, perché rifiutano le ruote tonde?",
+      "answerOptions": [
+        {
+          "text": "Perché sono 'troppo occupati' con il lavoro attuale per innovare.",
+          "isCorrect": true,
+          "rationale": "La vignetta illustra la resistenza al cambiamento dovuta alla percezione di non avere tempo per migliorare i processi."
+        },
+        {
+          "text": "Perché le ruote tonde costano troppo.",
+          "isCorrect": false,
+          "rationale": "Il costo non viene menzionato; la scusa utilizzata è la mancanza di tempo ('too busy')."
+        },
+        {
+          "text": "Perché preferiscono le ruote quadrate per tradizione.",
+          "isCorrect": false,
+          "rationale": "Sebbene la tradizione possa influire, la vignetta evidenzia specificamente l'eccesso di impegni come barriera."
+        },
+        {
+          "text": "Perché non capiscono a cosa servano le ruote.",
+          "isCorrect": false,
+          "rationale": "Il problema non è l'incomprensione tecnologica, ma la priorità data all'operatività inefficiente."
+        }
+      ],
+      "hint": "Osserva il fumetto con la scritta 'No thanks! We are too busy'."
+    },
+    {
+      "question": "Quale tra questi è un obiettivo della trasformazione digitale menzionato nelle slide?",
+      "answerOptions": [
+        {
+          "text": "Migliorare efficienza, competitività e innovazione.",
+          "isCorrect": true,
+          "rationale": "Questi tre elementi sono i pilastri che giustificano l'investimento sistemico nel digitale."
+        },
+        {
+          "text": "Eliminare definitivamente la necessità di avere un ufficio fisico.",
+          "isCorrect": false,
+          "rationale": "Sebbene possibile, non è l'obiettivo intrinseco definito nel materiale per ogni organizzazione."
+        },
+        {
+          "text": "Ridurre il marketing mix da 4P a una sola P (Promotion).",
+          "isCorrect": false,
+          "rationale": "La trasformazione digitale non semplifica il marketing mix, anzi può renderlo più complesso."
+        },
+        {
+          "text": "Convertire tutti i dipendenti in programmatori informatici.",
+          "isCorrect": false,
+          "rationale": "La trasformazione digitale richiede competenze diverse, non necessariamente la programmazione per tutti."
+        }
+      ],
+      "hint": "Cerca i termini legati al miglioramento delle performance aziendali generali."
+    },
+    {
+      "question": "Nel Customer Journey, dove si collocano i 'Social Ads' e la 'Email'?",
+      "answerOptions": [
+        {
+          "text": "Nella fase di Conoscenza.",
+          "isCorrect": true,
+          "rationale": "Sono strumenti utilizzati per attirare l'attenzione di chi ancora non interagisce attivamente con il brand."
+        },
+        {
+          "text": "Nella fase di Acquisto.",
+          "isCorrect": false,
+          "rationale": "L'acquisto avviene solitamente sul sito e-commerce o nello store fisico, non direttamente dall'ad."
+        },
+        {
+          "text": "Nella fase di Fedeltà.",
+          "isCorrect": false,
+          "rationale": "Sebbene l'email possa servire per la fedeltà, nel diagramma sono posizionate all'inizio del percorso."
+        },
+        {
+          "text": "Nella fase di Advocacy.",
+          "isCorrect": false,
+          "rationale": "L'advocacy si basa su community e blog partecipativi, non sulla pubblicità interruttiva."
+        }
+      ],
+      "hint": "Riguardano il momento in cui l'utente viene 'stimolato' a conoscere il brand."
+    },
+    {
+      "question": "Vero o Falso: Nel marketing mix, la 'P' di 'People' è stata aggiunta per sottolineare l'importanza del fattore umano.",
+      "answerOptions": [
+        {
+          "text": "Vero",
+          "isCorrect": true,
+          "rationale": "Il materiale mostra 'People' integrato nel grafico del marketing mix, riflettendo l'evoluzione del modello."
+        },
+        {
+          "text": "Falso",
+          "isCorrect": false,
+          "rationale": "Sebbene le 4P originali non la includessero, il materiale la inserisce esplicitamente nello schema moderno."
+        }
+      ],
+      "hint": "Osserva bene lo schema del marketing mix nella lezione."
+    },
+    {
+      "question": "Quale di queste attività appartiene alla fase di 'Considerazione' nel Customer Journey?",
+      "answerOptions": [
+        {
+          "text": "Lettura di recensioni (Reviews) e blog informativi.",
+          "isCorrect": true,
+          "rationale": "L'utente in questa fase confronta le opzioni basandosi sulle opinioni e sui contenuti di approfondimento."
+        },
+        {
+          "text": "Iscrizione a una newsletter post-vendita.",
+          "isCorrect": false,
+          "rationale": "La newsletter post-vendita serve a mantenere la soddisfazione o la fedeltà, non a valutare l'acquisto."
+        },
+        {
+          "text": "Partecipazione a un forum della community (Advocacy).",
+          "isCorrect": false,
+          "rationale": "Questa attività avviene dopo che l'utente è diventato un cliente esperto e sostenitore."
+        },
+        {
+          "text": "Ricezione di un volantino cartaceo nella cassetta delle lettere.",
+          "isCorrect": false,
+          "rationale": "Il volantino è uno strumento tipico della fase iniziale di conoscenza."
+        }
+      ],
+      "hint": "È il momento in cui l'utente cerca prove della qualità del prodotto prima di decidere."
+    },
+    {
+      "question": "Quale concetto esprime l'idea che 'non siamo obbligati ad inventarci nulla'?",
+      "answerOptions": [
+        {
+          "text": "L'innovazione come applicazione di idee esistenti per migliorare i processi.",
+          "isCorrect": true,
+          "rationale": "Il marketing spesso sfrutta l'innovazione incrementale piuttosto che la creazione di qualcosa di mai visto."
+        },
+        {
+          "text": "La digitalizzazione come copia carbone della realtà.",
+          "isCorrect": false,
+          "rationale": "La digitalizzazione trasforma il formato ma non implica necessariamente un miglioramento di valore."
+        },
+        {
+          "text": "Il rifiuto del cambiamento tipico dei cavernicoli.",
+          "isCorrect": false,
+          "rationale": "Questo concetto è esattamente l'opposto di quello suggerito dalla frase."
+        },
+        {
+          "text": "L'acquisto di brevetti da altre aziende.",
+          "isCorrect": false,
+          "rationale": "Non si parla di proprietà intellettuale, ma di attitudine verso il miglioramento continuo."
+        }
+      ],
+      "hint": "Si riferisce alla possibilità di innovare senza dover necessariamente 'inventare'."
+    },
+    {
+      "question": "Qual è il rischio evidenziato dal fumetto 'Marketoonist' riguardo agli investimenti pubblicitari?",
+      "answerOptions": [
+        {
+          "text": "Spostare tutto il budget su un solo canale (es. mobile) ignorando il percorso multi-canale del cliente.",
+          "isCorrect": true,
+          "rationale": "Il cliente vede pubblicità ovunque, ma l'azienda rischia di attribuire l'acquisto solo all'ultimo tocco (il mobile)."
+        },
+        {
+          "text": "Smettere del tutto di investire in pubblicità digitale.",
+          "isCorrect": false,
+          "rationale": "Il rischio descritto è l'opposto: un'eccessiva focalizzazione errata su un solo strumento digitale."
+        },
+        {
+          "text": "Continuare a investire solo nei media tradizionali come la radio.",
+          "isCorrect": false,
+          "rationale": "La vignetta ironizza su chi vuole abbandonare tutto il resto a favore del mobile."
+        },
+        {
+          "text": "Non monitorare i dati di vendita del negozio fisico.",
+          "isCorrect": false,
+          "rationale": "Il focus è sulla miopia strategica nella distribuzione del budget pubblicitario."
+        }
+      ],
+      "hint": "Guarda come l'uomo vede la scarpa su diversi mezzi prima di toccare il cellulare."
+    },
+    {
+      "question": "In termini di timeline, cosa succede nel 2013 per Blockbuster?",
+      "answerOptions": [
+        {
+          "text": "Chiude i suoi ultimi negozi.",
+          "isCorrect": true,
+          "rationale": "Il 2013 segna la fine operativa definitiva del gigante del noleggio fisico."
+        },
+        {
+          "text": "Lancia il servizio di streaming.",
+          "isCorrect": false,
+          "rationale": "Blockbuster non è mai riuscita a lanciare un servizio di streaming competitivo in tempo."
+        },
+        {
+          "text": "Viene acquistata da Netflix.",
+          "isCorrect": false,
+          "rationale": "Blockbuster ha rifiutato di comprare Netflix, ma non è mai avvenuto il contrario."
+        },
+        {
+          "text": "Raggiunge il picco di abbonati.",
+          "isCorrect": false,
+          "rationale": "Il declino era già iniziato anni prima, culminando nel fallimento del 2010."
+        }
+      ],
+      "hint": "È l'evento finale che conclude la storia dell'azienda nel grafico."
+    },
+    {
+      "question": "Quale fase del Customer Journey è supportata da 'FAQ Knowledge Base' e 'Newsletter'?",
+      "answerOptions": [
+        {
+          "text": "Soddisfazione",
+          "isCorrect": true,
+          "rationale": "Questi strumenti servono a rassicurare il cliente e risolvere problemi dopo l'acquisto."
+        },
+        {
+          "text": "Acquisto",
+          "isCorrect": false,
+          "rationale": "L'acquisto è focalizzato sulla transazione, non sulla gestione delle informazioni post-vendita."
+        },
+        {
+          "text": "Conoscenza",
+          "isCorrect": false,
+          "rationale": "Le FAQ sono troppo dettagliate per chi ancora non conosce affatto il prodotto."
+        },
+        {
+          "text": "Considerazione",
+          "isCorrect": false,
+          "rationale": "Nella considerazione si usano più i blog e le recensioni che le basi di conoscenza tecnica."
+        }
+      ],
+      "hint": "Si tratta di assistere il cliente una volta che ha già il prodotto."
+    },
+    {
+      "question": "Il marketing identifica bisogni e desideri insoddisfatti. Qual è il passo successivo citato?",
+      "answerOptions": [
+        {
+          "text": "Definisce, misura e quantifica la dimensione del mercato e il potenziale di profitto.",
+          "isCorrect": true,
+          "rationale": "L'analisi quantitativa è fondamentale per capire se un bisogno può tradursi in un business sostenibile."
+        },
+        {
+          "text": "Avvia immediatamente la produzione di massa.",
+          "isCorrect": false,
+          "rationale": "Prima della produzione è necessaria la fase di analisi e progettazione strategica."
+        },
+        {
+          "text": "Elimina la concorrenza attraverso pratiche di monopolio.",
+          "isCorrect": false,
+          "rationale": "Il marketing opera nel mercato per competere, non per eliminare forzatamente i concorrenti."
+        },
+        {
+          "text": "Assume nuovi venditori per coprire il territorio.",
+          "isCorrect": false,
+          "rationale": "La gestione delle risorse umane di vendita è una conseguenza operativa dell'analisi di mercato."
+        }
+      ],
+      "hint": "Pensa all'aspetto analitico e numerico del lavoro del marketer."
+    },
+    {
+      "question": "Quale di questi è un esempio di 'Digitalizzazione' nel settore retail?",
+      "answerOptions": [
+        {
+          "text": "Passare dallo scontrino cartaceo allo scontrino inviato via email.",
+          "isCorrect": true,
+          "rationale": "Rappresenta la pura conversione di un documento fisico in formato digitale."
+        },
+        {
+          "text": "Creare un sistema di raccomandazione prodotti basato su IA.",
+          "isCorrect": false,
+          "rationale": "Questo livello di sofisticazione appartiene alla trasformazione digitale."
+        },
+        {
+          "text": "Gestire l'intero magazzino tramite un software integrato (ERP).",
+          "isCorrect": false,
+          "rationale": "Si tratta di digitalizzazione dei processi, poiché ottimizza un'attività operativa."
+        },
+        {
+          "text": "Aprire un punto vendita fisico in un'altra città.",
+          "isCorrect": false,
+          "rationale": "Questa è un'espansione tradizionale che non implica necessariamente innovazione digitale."
+        }
+      ],
+      "hint": "Cerca l'azione più semplice di conversione dati."
+    },
+    {
+      "question": "Cosa indica il termine 'Place' nel marketing mix?",
+      "answerOptions": [
+        {
+          "text": "I canali di distribuzione attraverso cui il prodotto raggiunge il cliente.",
+          "isCorrect": true,
+          "rationale": "Si riferisce a dove e come il prodotto viene reso disponibile all'acquisto."
+        },
+        {
+          "text": "La posizione fisica dell'ufficio del marketing manager.",
+          "isCorrect": false,
+          "rationale": "Il marketing mix si concentra sul prodotto e sul cliente, non sulla logistica interna degli uffici."
+        },
+        {
+          "text": "Lo spazio pubblicitario acquistato sui quotidiani.",
+          "isCorrect": false,
+          "rationale": "Questo rientra nella 'P' di Promotion (Promozione)."
+        },
+        {
+          "text": "La classifica dell'azienda nel mercato rispetto ai competitor.",
+          "isCorrect": false,
+          "rationale": "Questo concetto è legato al posizionamento, non direttamente alla 'P' di Place."
+        }
+      ],
+      "hint": "Pensa alla distribuzione commerciale."
+    },
+    {
+      "question": "In quale anno Netflix ha iniziato a produrre i suoi 'Originals' introducendo la funzione 'Profiles'?",
+      "answerOptions": [
+        {
+          "text": "2013",
+          "isCorrect": true,
+          "rationale": "Questo anno segna l'evoluzione di Netflix da distributore a produttore di contenuti."
+        },
+        {
+          "text": "2007",
+          "isCorrect": false,
+          "rationale": "Nel 2007 Netflix ha lanciato lo streaming, ma non ancora le produzioni originali."
+        },
+        {
+          "text": "2018",
+          "isCorrect": false,
+          "rationale": "Nel 2018 Netflix aveva già superato i 148 milioni di utenti a livello globale."
+        },
+        {
+          "text": "2010",
+          "isCorrect": false,
+          "rationale": "Il 2010 è l'anno dell'espansione internazionale fuori dagli USA."
+        }
+      ],
+      "hint": "È lo stesso anno in cui Blockbuster ha chiuso i suoi ultimi negozi."
+    },
+    {
+      "question": "Quale fase del Customer Journey è caratterizzata da 'Promozioni' e 'Social Network' per mantenere il cliente?",
+      "answerOptions": [
+        {
+          "text": "Fedeltà",
+          "isCorrect": true,
+          "rationale": "L'obiettivo è creare una relazione duratura che porti il cliente a riacquistare nel tempo."
+        },
+        {
+          "text": "Conoscenza",
+          "isCorrect": false,
+          "rationale": "Le promozioni di fedeltà sono riservate a chi è già cliente, non a chi deve ancora scoprire il brand."
+        },
+        {
+          "text": "Acquisto",
+          "isCorrect": false,
+          "rationale": "In fase di acquisto si usano promozioni transazionali, non necessariamente di fidelizzazione."
+        },
+        {
+          "text": "Soddisfazione",
+          "isCorrect": false,
+          "rationale": "La soddisfazione è un sentimento immediato post-acquisto, la fedeltà è il comportamento ripetuto."
+        }
+      ],
+      "hint": "Si punta a far tornare il cliente più volte."
+    },
+    {
+      "question": "Cosa accomuna Spotify e Apple Music nell'esempio della Trasformazione Digitale?",
+      "answerOptions": [
+        {
+          "text": "Il passaggio a un modello basato sul servizio (music streaming).",
+          "isCorrect": true,
+          "rationale": "Hanno trasformato il mercato discografico da vendita di beni fisici o digitali a fornitura di servizi ad accesso illimitato."
+        },
+        {
+          "text": "La vendita esclusiva di CD musicali online.",
+          "isCorrect": false,
+          "rationale": "Queste piattaforme non vendono CD, ma accesso a file digitali in cloud."
+        },
+        {
+          "text": "L'invenzione del formato MP3.",
+          "isCorrect": false,
+          "rationale": "L'MP3 preesisteva a queste piattaforme ed è un'invenzione tecnica, non un modello di business."
+        },
+        {
+          "text": "L'obbligo di acquistare ogni singola canzone per poterla ascoltare.",
+          "isCorrect": false,
+          "rationale": "Questo era il modello di iTunes, superato dallo streaming della trasformazione digitale."
+        }
+      ],
+      "hint": "Pensa alla differenza tra 'comprare' e 'abbonarsi'."
+    },
+    {
+      "question": "Secondo il modello ZMOT, cos'è lo 'Stimulus'?",
+      "answerOptions": [
+        {
+          "text": "L'input esterno (es. pubblicità o un bisogno improvviso) che innesca il processo decisionale.",
+          "isCorrect": true,
+          "rationale": "È la scintilla iniziale che porta l'utente a considerare l'acquisto di un prodotto."
+        },
+        {
+          "text": "Il momento in cui l'utente riceve il pacco ordinato online.",
+          "isCorrect": false,
+          "rationale": "Questo momento fa parte dell'esperienza d'uso o del First Moment of Truth esteso."
+        },
+        {
+          "text": "La ricerca attiva su Google tramite parole chiave.",
+          "isCorrect": false,
+          "rationale": "La ricerca attiva è già la fase successiva, ovvero lo Zero Moment of Truth (ZMOT)."
+        },
+        {
+          "text": "Il rimborso ottenuto per un prodotto difettoso.",
+          "isCorrect": false,
+          "rationale": "Questa è una dinamica di post-vendita legata alla soddisfazione."
+        }
+      ],
+      "hint": "È il punto di partenza rappresentato da un'antenna o un segnale nel grafico."
+    },
+    {
+      "question": "Quale affermazione descrive meglio il ruolo del marketing mix nel processo aziendale?",
+      "answerOptions": [
+        {
+          "text": "È l'insieme degli strumenti operativi per influenzare la domanda di un prodotto.",
+          "isCorrect": true,
+          "rationale": "Agendo sulle 4P, l'azienda cerca di rendere l'offerta appetibile per il segmento target scelto."
+        },
+        {
+          "text": "È un metodo per ridurre i costi di produzione senza cambiare il prezzo.",
+          "isCorrect": false,
+          "rationale": "Il marketing mix riguarda l'intera strategia di mercato, non solo l'efficienza dei costi interni."
+        },
+        {
+          "text": "È un software automatico che genera pubblicità sui social.",
+          "isCorrect": false,
+          "rationale": "Il marketing mix è un framework concettuale strategico, non un software."
+        },
+        {
+          "text": "È il processo di assunzione di nuovi manager creativi.",
+          "isCorrect": false,
+          "rationale": "Sebbene le persone siano incluse, il mix si riferisce alla strategia di prodotto sul mercato."
+        }
+      ],
+      "hint": "Pensa alla combinazione di variabili che l'azienda può controllare."
+    },
+    {
+      "question": "Nella timeline di Netflix, quando avviene l'espansione internazionale?",
+      "answerOptions": [
+        {
+          "text": "2010",
+          "isCorrect": true,
+          "rationale": "In questo anno Netflix ha iniziato a uscire dai confini degli Stati Uniti per diventare un player globale."
+        },
+        {
+          "text": "1997",
+          "isCorrect": false,
+          "rationale": "Nel 1997 l'azienda era appena nata come servizio di noleggio DVD via posta negli USA."
+        },
+        {
+          "text": "2004",
+          "isCorrect": false,
+          "rationale": "Nel 2004 Netflix era ancora focalizzata sul mercato domestico americano del noleggio fisico."
+        },
+        {
+          "text": "2018",
+          "isCorrect": false,
+          "rationale": "Nel 2018 l'espansione era già consolidata con oltre 148 milioni di utenti."
+        }
+      ],
+      "hint": "È un evento che precede di tre anni il lancio degli Originali."
+    },
+    {
+      "question": "Cosa caratterizza il 'First Moment of Truth'?",
+      "answerOptions": [
+        {
+          "text": "L'incontro fisico o virtuale dell'utente con il prodotto sul punto vendita.",
+          "isCorrect": true,
+          "rationale": "È l'istante in cui il consumatore decide effettivamente di acquistare l'articolo tra quelli disponibili."
+        },
+        {
+          "text": "La prima volta che l'utente sente parlare del brand da un amico.",
+          "isCorrect": false,
+          "rationale": "Questo è il passaparola (Advocacy) o uno stimolo esterno (Stimulus)."
+        },
+        {
+          "text": "La fase in cui il prodotto viene progettato in fabbrica.",
+          "isCorrect": false,
+          "rationale": "Il 'momento della verità' riguarda l'interazione con il cliente, non la produzione interna."
+        },
+        {
+          "text": "L'analisi dei dati di vendita da parte del manager a fine mese.",
+          "isCorrect": false,
+          "rationale": "Questa è un'attività di controllo aziendale interna."
+        }
+      ],
+      "hint": "Pensa al momento della scelta davanti allo scaffale (reale o digitale)."
+    }
+  ]
+}

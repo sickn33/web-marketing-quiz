@@ -1,0 +1,157 @@
+# Weak Question Enrichment Report
+
+Generated: 2026-06-13T09:18:23.352Z
+
+- Questions in bank: 539
+- Weak questions enhanced: 134
+- NotebookLM replacements: 0
+- In-place rewrites with generated hints/rationales: 134
+- Tier B NotebookLM replacement mode: disabled; retained only super-safe NotebookLM replacements from the previous pass
+- Questions with explanations after pass: 188
+
+## Enhanced By Section
+- Fondamenti di marketing: 6
+- Processo di marketing: 4
+- STP e segmentazione: 2
+- Marketing 4.0 e brand: 13
+- Ecosistema digitale: 19
+- Ricerche di mercato online: 12
+- Customer journey: 15
+- Business model ed e-commerce: 22
+- Granato, search e operational: 41
+
+## Changes
+- Q2 [rewrite-and-rationales] Quale affermazione descrive meglio il concetto di marketing management nel web marketing? -> Nel web marketing, quale definizione operativa descrive meglio il concetto di marketing management?
+- Q4 [rewrite-and-rationales] Qual è il ruolo del concetto di bisogno nel web marketing? -> In una strategia digitale, quale funzione svolge il concetto di bisogno?
+- Q6 [rewrite-and-rationales] Perché il concetto di desiderio è rilevante nel web marketing? -> Perché il concetto di desiderio conta nella progettazione di una strategia di web marketing?
+- Q10 [rewrite-and-rationales] Nel contesto del web marketing, quale affermazione descrive meglio il concetto di value proposition? -> Nel web marketing, quale situazione descrive meglio il concetto di value proposition?
+- Q12 [rewrite-and-rationales] Quale affermazione descrive meglio il ruolo del concetto di scambio di valore? -> In una strategia digitale, quale funzione svolge il concetto di scambio di valore?
+- Q18 [rewrite-and-rationales] Quale affermazione descrive meglio il concetto di fase operativa nel web marketing? -> Nel web marketing, quale definizione operativa descrive meglio il concetto di fase operativa?
+- Q20 [rewrite-and-rationales] Qual è il ruolo del concetto di marketing mix 4P nel web marketing? -> In una strategia digitale, quale funzione svolge il concetto di marketing mix 4P?
+- Q22 [rewrite-and-rationales] Perché il concetto di SWOT analysis è rilevante nel web marketing? -> Perché il concetto di SWOT analysis conta nella progettazione di una strategia di web marketing?
+- Q26 [rewrite-and-rationales] Nel contesto del web marketing, quale affermazione descrive meglio il concetto di targeting? -> Nel web marketing, quale situazione descrive meglio il concetto di targeting?
+- Q28 [rewrite-and-rationales] Quale affermazione descrive meglio il ruolo del concetto di posizionamento? -> In una strategia digitale, quale funzione svolge il concetto di posizionamento?
+- Q34 [rewrite-and-rationales] Quale affermazione descrive meglio il concetto di Marketing 2.0 nel web marketing? -> Nel web marketing, quale definizione operativa descrive meglio il concetto di Marketing 2.0?
+- Q36 [rewrite-and-rationales] Qual è il ruolo del concetto di Marketing 3.0 nel web marketing? -> In una strategia digitale, quale funzione svolge il concetto di Marketing 3.0?
+- Q38 [rewrite-and-rationales] Perché il concetto di Marketing 4.0 è rilevante nel web marketing? -> Perché il concetto di Marketing 4.0 conta nella progettazione di una strategia di web marketing?
+- Q42 [rewrite-and-rationales] Nel contesto del web marketing, quale affermazione descrive meglio il concetto di brand characters and codes? -> Nel web marketing, quale situazione descrive meglio il concetto di brand characters and codes?
+- Q44 [rewrite-and-rationales] Quale affermazione descrive meglio il ruolo del concetto di co-creation? -> In una strategia digitale, quale funzione svolge il concetto di co-creation?
+- Q50 [rewrite-and-rationales] Quale affermazione descrive meglio il concetto di conversation nel web marketing? -> Nel web marketing, quale definizione operativa descrive meglio il concetto di conversation?
+- Q52 [rewrite-and-rationales] Qual è il ruolo del concetto di brand identity nel web marketing? -> In una strategia digitale, quale funzione svolge il concetto di brand identity?
+- Q54 [rewrite-and-rationales] Perché il concetto di brand image è rilevante nel web marketing? -> Perché il concetto di brand image conta nella progettazione di una strategia di web marketing?
+- Q58 [rewrite-and-rationales] Nel contesto del web marketing, quale affermazione descrive meglio il concetto di brand equity? -> Nel web marketing, quale situazione descrive meglio il concetto di brand equity?
+- Q60 [rewrite-and-rationales] Quale affermazione descrive meglio il ruolo del concetto di brand trust? -> In una strategia digitale, quale funzione svolge il concetto di brand trust?
+- Q66 [rewrite-and-rationales] Quale affermazione descrive meglio il concetto di orientamento all'e-business nel web marketing? -> Nel web marketing, quale definizione operativa descrive meglio il concetto di orientamento all'e-business?
+- Q68 [rewrite-and-rationales] Qual è il ruolo del concetto di business model digitale nel web marketing? -> In una strategia digitale, quale funzione svolge il concetto di business model digitale?
+- Q70 [rewrite-and-rationales] Perché il concetto di digital marketing tattico è rilevante nel web marketing? -> Perché il concetto di digital marketing tattico conta nella progettazione di una strategia di web marketing?
+- Q74 [rewrite-and-rationales] Nel contesto del web marketing, quale affermazione descrive meglio il concetto di livello core business digitale? -> Nel web marketing, quale situazione descrive meglio il concetto di livello core business digitale?
+- Q76 [rewrite-and-rationales] Quale affermazione descrive meglio il ruolo del concetto di bricks and mortar? -> In una strategia digitale, quale funzione svolge il concetto di bricks and mortar?
+- Q82 [rewrite-and-rationales] Quale affermazione descrive meglio il concetto di omnicanalità nel web marketing? -> Nel web marketing, quale definizione operativa descrive meglio il concetto di omnicanalità?
+- Q84 [rewrite-and-rationales] Qual è il ruolo del concetto di dato digitale nel web marketing? -> In una strategia digitale, quale funzione svolge il concetto di dato digitale?
+- Q86 [rewrite-and-rationales] Perché il concetto di bit e byte è rilevante nel web marketing? -> Perché il concetto di bit e byte conta nella progettazione di una strategia di web marketing?
+- Q90 [rewrite-and-rationales] Nel contesto del web marketing, quale affermazione descrive meglio il concetto di piattaforme digitali? -> Nel web marketing, quale situazione descrive meglio il concetto di piattaforme digitali?
+- Q92 [rewrite-and-rationales] Quale affermazione descrive meglio il ruolo del concetto di device digitali? -> In una strategia digitale, quale funzione svolge il concetto di device digitali?
+- Q98 [rewrite-and-rationales] Quale affermazione descrive meglio il concetto di marketing digitale reticolare nel web marketing? -> Nel web marketing, quale definizione operativa descrive meglio il concetto di marketing digitale reticolare?
+- Q100 [rewrite-and-rationales] Qual è il ruolo del concetto di legge di Moore nel web marketing? -> In una strategia digitale, quale funzione svolge il concetto di legge di Moore?
+- Q102 [rewrite-and-rationales] Perché il concetto di legge di Metcalfe è rilevante nel web marketing? -> Perché il concetto di legge di Metcalfe conta nella progettazione di una strategia di web marketing?
+- Q106 [rewrite-and-rationales] Nel contesto del web marketing, quale affermazione descrive meglio il concetto di reach e richness? -> Nel web marketing, quale situazione descrive meglio il concetto di reach e richness?
+- Q108 [rewrite-and-rationales] Quale affermazione descrive meglio il ruolo del concetto di long tail? -> In una strategia digitale, quale funzione svolge il concetto di long tail?
+- Q114 [rewrite-and-rationales] Quale affermazione descrive meglio il concetto di dati secondari nel web marketing? -> Nel web marketing, quale definizione operativa descrive meglio il concetto di dati secondari?
+- Q116 [rewrite-and-rationales] Qual è il ruolo del concetto di dati primari nel web marketing? -> In una strategia digitale, quale funzione svolge il concetto di dati primari?
+- Q118 [rewrite-and-rationales] Perché il concetto di e-mail survey è rilevante nel web marketing? -> Perché il concetto di e-mail survey conta nella progettazione di una strategia di web marketing?
+- Q122 [rewrite-and-rationales] Nel contesto del web marketing, quale affermazione descrive meglio il concetto di domanda aperta? -> Nel web marketing, quale situazione descrive meglio il concetto di domanda aperta?
+- Q124 [rewrite-and-rationales] Quale affermazione descrive meglio il ruolo del concetto di domanda chiusa? -> In una strategia digitale, quale funzione svolge il concetto di domanda chiusa?
+- Q130 [rewrite-and-rationales] Quale affermazione descrive meglio il concetto di scala Likert nel web marketing? -> Nel web marketing, quale definizione operativa descrive meglio il concetto di scala Likert?
+- Q132 [rewrite-and-rationales] Qual è il ruolo del concetto di domande filtro nel web marketing? -> In una strategia digitale, quale funzione svolge il concetto di domande filtro?
+- Q134 [rewrite-and-rationales] Perché il concetto di sequenza del questionario è rilevante nel web marketing? -> Perché il concetto di sequenza del questionario conta nella progettazione di una strategia di web marketing?
+- Q138 [rewrite-and-rationales] Nel contesto del web marketing, quale affermazione descrive meglio il concetto di rappresentatività del campione online? -> Nel web marketing, quale situazione descrive meglio il concetto di rappresentatività del campione online?
+- Q140 [rewrite-and-rationales] Quale affermazione descrive meglio il ruolo del concetto di validità della misurazione online? -> In una strategia digitale, quale funzione svolge il concetto di validità della misurazione online?
+- Q146 [rewrite-and-rationales] Quale affermazione descrive meglio il concetto di customer journey nel web marketing? -> Nel web marketing, quale definizione operativa descrive meglio il concetto di customer journey?
+- Q148 [rewrite-and-rationales] Qual è il ruolo del concetto di touchpoint nel web marketing? -> In una strategia digitale, quale funzione svolge il concetto di touchpoint?
+- Q150 [rewrite-and-rationales] Perché il concetto di funnel tradizionale è rilevante nel web marketing? -> Perché il concetto di funnel tradizionale conta nella progettazione di una strategia di web marketing?
+- Q154 [rewrite-and-rationales] Nel contesto del web marketing, quale affermazione descrive meglio il concetto di valutazione attiva? -> Nel web marketing, quale situazione descrive meglio il concetto di valutazione attiva?
+- Q156 [rewrite-and-rationales] Quale affermazione descrive meglio il ruolo del concetto di loyalty loop? -> In una strategia digitale, quale funzione svolge il concetto di loyalty loop?
+- Q162 [rewrite-and-rationales] Quale affermazione descrive meglio il concetto di FMOT nel web marketing? -> Nel web marketing, quale definizione operativa descrive meglio il concetto di FMOT?
+- Q164 [rewrite-and-rationales] Qual è il ruolo del concetto di SMOT nel web marketing? -> In una strategia digitale, quale funzione svolge il concetto di SMOT?
+- Q166 [rewrite-and-rationales] Perché il concetto di touchpoint brand-owned è rilevante nel web marketing? -> Perché il concetto di touchpoint brand-owned conta nella progettazione di una strategia di web marketing?
+- Q170 [rewrite-and-rationales] Nel contesto del web marketing, quale affermazione descrive meglio il concetto di customer journey map? -> Nel web marketing, quale situazione descrive meglio il concetto di customer journey map?
+- Q172 [rewrite-and-rationales] Quale affermazione descrive meglio il ruolo del concetto di scoping della journey map? -> In una strategia digitale, quale funzione svolge il concetto di scoping della journey map?
+- Q178 [rewrite-and-rationales] Quale affermazione descrive meglio il concetto di customer delight nel web marketing? -> Nel web marketing, quale definizione operativa descrive meglio il concetto di customer delight?
+- Q180 [rewrite-and-rationales] Qual è il ruolo del concetto di customer engagement nel web marketing? -> In una strategia digitale, quale funzione svolge il concetto di customer engagement?
+- Q186 [rewrite-and-rationales] Nel contesto del web marketing, quale affermazione descrive meglio il concetto di customer segments nel Business Model Canvas? -> Nel web marketing, quale situazione descrive meglio il concetto di customer segments nel Business Model Canvas?
+- Q188 [rewrite-and-rationales] Quale affermazione descrive meglio il ruolo del concetto di channels nel Business Model Canvas? -> In una strategia digitale, quale funzione svolge il concetto di channels nel Business Model Canvas?
+- Q194 [rewrite-and-rationales] Quale affermazione descrive meglio il concetto di cost structure nel web marketing? -> Nel web marketing, quale definizione operativa descrive meglio il concetto di cost structure?
+- Q196 [rewrite-and-rationales] Qual è il ruolo del concetto di freemium nel web marketing? -> In una strategia digitale, quale funzione svolge il concetto di freemium?
+- Q198 [rewrite-and-rationales] Perché il concetto di advertising based revenue è rilevante nel web marketing? -> Perché il concetto di advertising based revenue conta nella progettazione di una strategia di web marketing?
+- Q202 [rewrite-and-rationales] Nel contesto del web marketing, quale affermazione descrive meglio il concetto di commission based model? -> Nel web marketing, quale situazione descrive meglio il concetto di commission based model?
+- Q204 [rewrite-and-rationales] Quale affermazione descrive meglio il ruolo del concetto di two-sided platform? -> In una strategia digitale, quale funzione svolge il concetto di two-sided platform?
+- Q210 [rewrite-and-rationales] Quale affermazione descrive meglio il concetto di pure sharing nel web marketing? -> Nel web marketing, quale definizione operativa descrive meglio il concetto di pure sharing?
+- Q212 [rewrite-and-rationales] Qual è il ruolo del concetto di dual-mode sharing nel web marketing? -> In una strategia digitale, quale funzione svolge il concetto di dual-mode sharing?
+- Q214 [rewrite-and-rationales] Perché il concetto di e-commerce è rilevante nel web marketing? -> Perché il concetto di e-commerce conta nella progettazione di una strategia di web marketing?
+- Q218 [rewrite-and-rationales] Nel contesto del web marketing, quale affermazione descrive meglio il concetto di B2C e-commerce? -> Nel web marketing, quale situazione descrive meglio il concetto di B2C e-commerce?
+- Q220 [rewrite-and-rationales] Quale affermazione descrive meglio il ruolo del concetto di C2C e-commerce? -> In una strategia digitale, quale funzione svolge il concetto di C2C e-commerce?
+- Q226 [rewrite-and-rationales] Quale affermazione descrive meglio il concetto di fiducia nell'e-commerce nel web marketing? -> Nel web marketing, quale definizione operativa descrive meglio il concetto di fiducia nell'e-commerce?
+- Q228 [rewrite-and-rationales] Qual è il ruolo del concetto di distanza fisica nell'e-commerce nel web marketing? -> In una strategia digitale, quale funzione svolge il concetto di distanza fisica nell'e-commerce?
+- Q230 [rewrite-and-rationales] Perché il concetto di registrazione obbligatoria è rilevante nel web marketing? -> Perché il concetto di registrazione obbligatoria conta nella progettazione di una strategia di web marketing?
+- Q234 [rewrite-and-rationales] Nel contesto del web marketing, quale affermazione descrive meglio il concetto di costo di acquisizione cliente? -> Nel web marketing, quale situazione descrive meglio il concetto di costo di acquisizione cliente?
+- Q236 [rewrite-and-rationales] Quale affermazione descrive meglio il ruolo del concetto di certificato digitale? -> In una strategia digitale, quale funzione svolge il concetto di certificato digitale?
+- Q242 [rewrite-and-rationales] Quale affermazione descrive meglio il concetto di digitalizzazione nel web marketing? -> Nel web marketing, quale definizione operativa descrive meglio il concetto di digitalizzazione?
+- Q244 [rewrite-and-rationales] Qual è il ruolo del concetto di digitalizzazione dei processi nel web marketing? -> In una strategia digitale, quale funzione svolge il concetto di digitalizzazione dei processi?
+- Q246 [rewrite-and-rationales] Perché il concetto di trasformazione digitale è rilevante nel web marketing? -> Perché il concetto di trasformazione digitale conta nella progettazione di una strategia di web marketing?
+- Q250 [rewrite-and-rationales] Nel contesto del web marketing, quale affermazione descrive meglio il concetto di USP comunicativa? -> Nel web marketing, quale situazione descrive meglio il concetto di USP comunicativa?
+- Q252 [rewrite-and-rationales] Quale affermazione descrive meglio il ruolo del concetto di USP strutturale? -> In una strategia digitale, quale funzione svolge il concetto di USP strutturale?
+- Q258 [rewrite-and-rationales] Quale affermazione descrive meglio il concetto di traffico qualificato nel web marketing? -> Nel web marketing, quale definizione operativa descrive meglio il concetto di traffico qualificato?
+- Q260 [rewrite-and-rationales] Qual è il ruolo del concetto di SEO nel web marketing? -> In una strategia digitale, quale funzione svolge il concetto di SEO?
+- Q262 [rewrite-and-rationales] Perché il concetto di SEM e SEA è rilevante nel web marketing? -> Perché il concetto di SEM e SEA conta nella progettazione di una strategia di web marketing?
+- Q266 [rewrite-and-rationales] Nel contesto del web marketing, quale affermazione descrive meglio il concetto di indexing? -> Nel web marketing, quale situazione descrive meglio il concetto di indexing?
+- Q268 [rewrite-and-rationales] Quale affermazione descrive meglio il ruolo del concetto di ranking? -> In una strategia digitale, quale funzione svolge il concetto di ranking?
+- Q274 [rewrite-and-rationales] Quale affermazione descrive meglio il concetto di SEO tecnica nel web marketing? -> Nel web marketing, quale definizione operativa descrive meglio il concetto di SEO tecnica?
+- Q276 [rewrite-and-rationales] Qual è il ruolo del concetto di search intent nel web marketing? -> In una strategia digitale, quale funzione svolge il concetto di search intent?
+- Q278 [rewrite-and-rationales] Perché il concetto di intento informazionale è rilevante nel web marketing? -> Perché il concetto di intento informazionale conta nella progettazione di una strategia di web marketing?
+- Q282 [rewrite-and-rationales] Nel contesto del web marketing, quale affermazione descrive meglio il concetto di intento commerciale? -> Nel web marketing, quale situazione descrive meglio il concetto di intento commerciale?
+- Q284 [rewrite-and-rationales] Quale affermazione descrive meglio il ruolo del concetto di intento transazionale? -> In una strategia digitale, quale funzione svolge il concetto di intento transazionale?
+- Q290 [rewrite-and-rationales] Quale affermazione descrive meglio il concetto di keyword research nel web marketing? -> Nel web marketing, quale definizione operativa descrive meglio il concetto di keyword research?
+- Q292 [rewrite-and-rationales] Qual è il ruolo del concetto di keyword long-tail nel web marketing? -> In una strategia digitale, quale funzione svolge il concetto di keyword long-tail?
+- Q294 [rewrite-and-rationales] Perché il concetto di volume di ricerca è rilevante nel web marketing? -> Perché il concetto di volume di ricerca conta nella progettazione di una strategia di web marketing?
+- Q298 [rewrite-and-rationales] Nel contesto del web marketing, quale affermazione descrive meglio il concetto di backlink autorevoli? -> Nel web marketing, quale situazione descrive meglio il concetto di backlink autorevoli?
+- Q300 [rewrite-and-rationales] Quale affermazione descrive meglio il ruolo del concetto di digital advertising? -> In una strategia digitale, quale funzione svolge il concetto di digital advertising?
+- Q306 [rewrite-and-rationales] Quale affermazione descrive meglio il concetto di video advertising in-stream nel web marketing? -> Nel web marketing, quale definizione operativa descrive meglio il concetto di video advertising in-stream?
+- Q308 [rewrite-and-rationales] Qual è il ruolo del concetto di OTT advertising nel web marketing? -> In una strategia digitale, quale funzione svolge il concetto di OTT advertising?
+- Q310 [rewrite-and-rationales] Perché il concetto di CPC è rilevante nel web marketing? -> Perché il concetto di CPC conta nella progettazione di una strategia di web marketing?
+- Q314 [rewrite-and-rationales] Nel contesto del web marketing, quale affermazione descrive meglio il concetto di ROAS? -> Nel web marketing, quale situazione descrive meglio il concetto di ROAS?
+- Q316 [rewrite-and-rationales] Quale affermazione descrive meglio il ruolo del concetto di ACOS? -> In una strategia digitale, quale funzione svolge il concetto di ACOS?
+- Q322 [rewrite-and-rationales] Quale affermazione descrive meglio il concetto di frequenza di rimbalzo nel web marketing? -> Nel web marketing, quale definizione operativa descrive meglio il concetto di frequenza di rimbalzo?
+- Q324 [rewrite-and-rationales] Qual è il ruolo del concetto di acquisizione organica nel web marketing? -> In una strategia digitale, quale funzione svolge il concetto di acquisizione organica?
+- Q326 [rewrite-and-rationales] Perché il concetto di obiettivo completato è rilevante nel web marketing? -> Perché il concetto di obiettivo completato conta nella progettazione di una strategia di web marketing?
+- Q330 [rewrite-and-rationales] Nel contesto del web marketing, quale affermazione descrive meglio il concetto di newsletter? -> Nel web marketing, quale situazione descrive meglio il concetto di newsletter?
+- Q332 [rewrite-and-rationales] Quale affermazione descrive meglio il ruolo del concetto di email transazionale? -> In una strategia digitale, quale funzione svolge il concetto di email transazionale?
+- Q338 [rewrite-and-rationales] Quale affermazione descrive meglio il concetto di personalizzazione email nel web marketing? -> Nel web marketing, quale definizione operativa descrive meglio il concetto di personalizzazione email?
+- Q340 [rewrite-and-rationales] Qual è il ruolo del concetto di automazione email nel web marketing? -> In una strategia digitale, quale funzione svolge il concetto di automazione email?
+- Q342 [rewrite-and-rationales] Perché il concetto di content marketing è rilevante nel web marketing? -> Perché il concetto di content marketing conta nella progettazione di una strategia di web marketing?
+- Q346 [rewrite-and-rationales] Nel contesto del web marketing, quale affermazione descrive meglio il concetto di piano editoriale? -> Nel web marketing, quale situazione descrive meglio il concetto di piano editoriale?
+- Q348 [rewrite-and-rationales] Quale affermazione descrive meglio il ruolo del concetto di modello AIDA? -> In una strategia digitale, quale funzione svolge il concetto di modello AIDA?
+- Q354 [rewrite-and-rationales] Quale affermazione descrive meglio il concetto di contenuto Hub nel web marketing? -> Nel web marketing, quale definizione operativa descrive meglio il concetto di contenuto Hub?
+- Q356 [rewrite-and-rationales] Qual è il ruolo del concetto di contenuto Help nel web marketing? -> In una strategia digitale, quale funzione svolge il concetto di contenuto Help?
+- Q361 [rewrite-and-rationales] Quale opzione descrive un esempio corretto del concetto di value proposition? -> Quale situazione applica correttamente il concetto di value proposition?
+- Q367 [rewrite-and-rationales] Quale opzione descrive un esempio corretto del concetto di SWOT analysis? -> Quale situazione applica correttamente il concetto di SWOT analysis?
+- Q373 [rewrite-and-rationales] Quale opzione descrive un esempio corretto del concetto di Marketing 2.0? -> Quale situazione applica correttamente il concetto di Marketing 2.0?
+- Q379 [rewrite-and-rationales] Quale opzione descrive un esempio corretto del concetto di currency? -> Quale situazione applica correttamente il concetto di currency?
+- Q385 [rewrite-and-rationales] Quale opzione descrive un esempio corretto del concetto di brand equity? -> Quale situazione applica correttamente il concetto di brand equity?
+- Q391 [rewrite-and-rationales] Quale opzione descrive un esempio corretto del concetto di digital marketing tattico? -> Quale situazione applica correttamente il concetto di digital marketing tattico?
+- Q397 [rewrite-and-rationales] Quale opzione descrive un esempio corretto del concetto di omnicanalità? -> Quale situazione applica correttamente il concetto di omnicanalità?
+- Q403 [rewrite-and-rationales] Quale opzione descrive un esempio corretto del concetto di Internet? -> Quale situazione applica correttamente il concetto di Internet?
+- Q409 [rewrite-and-rationales] Quale opzione descrive un esempio corretto del concetto di reach e richness? -> Quale situazione applica correttamente il concetto di reach e richness?
+- Q415 [rewrite-and-rationales] Quale opzione descrive un esempio corretto del concetto di e-mail survey? -> Quale situazione applica correttamente il concetto di e-mail survey?
+- Q421 [rewrite-and-rationales] Quale opzione descrive un esempio corretto del concetto di scala Likert? -> Quale situazione applica correttamente il concetto di scala Likert?
+- Q427 [rewrite-and-rationales] Quale opzione descrive un esempio corretto del concetto di nuovo consumatore iperconnesso? -> Quale situazione applica correttamente il concetto di nuovo consumatore iperconnesso?
+- Q439 [rewrite-and-rationales] Quale opzione descrive un esempio corretto del concetto di touchpoint brand-owned? -> Quale situazione applica correttamente il concetto di touchpoint brand-owned?
+- Q445 [rewrite-and-rationales] Quale opzione descrive un esempio corretto del concetto di customer delight? -> Quale situazione applica correttamente il concetto di customer delight?
+- Q451 [rewrite-and-rationales] Quale opzione descrive un esempio corretto del concetto di customer relationships nel Business Model Canvas? -> Quale situazione applica correttamente il concetto di customer relationships nel Business Model Canvas?
+- Q457 [rewrite-and-rationales] Quale opzione descrive un esempio corretto del concetto di commission based model? -> Quale situazione applica correttamente il concetto di commission based model?
+- Q463 [rewrite-and-rationales] Quale opzione descrive un esempio corretto del concetto di e-commerce? -> Quale situazione applica correttamente il concetto di e-commerce?
+- Q469 [rewrite-and-rationales] Quale opzione descrive un esempio corretto del concetto di fiducia nell'e-commerce? -> Quale situazione applica correttamente il concetto di fiducia nell'e-commerce?
+- Q475 [rewrite-and-rationales] Quale opzione descrive un esempio corretto del concetto di customer care online? -> Quale situazione applica correttamente il concetto di customer care online?
+- Q481 [rewrite-and-rationales] Quale opzione descrive un esempio corretto del concetto di USP comunicativa? -> Quale situazione applica correttamente il concetto di USP comunicativa?
+- Q487 [rewrite-and-rationales] Quale opzione descrive un esempio corretto del concetto di SEM e SEA? -> Quale situazione applica correttamente il concetto di SEM e SEA?
+- Q493 [rewrite-and-rationales] Quale opzione descrive un esempio corretto del concetto di SEO tecnica? -> Quale situazione applica correttamente il concetto di SEO tecnica?
+- Q499 [rewrite-and-rationales] Quale opzione descrive un esempio corretto del concetto di AI Overview? -> Quale situazione applica correttamente il concetto di AI Overview?

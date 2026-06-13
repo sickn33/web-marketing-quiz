@@ -1,0 +1,655 @@
+{
+  "title": "Marketing Quiz",
+  "questions": [
+    {
+      "question": "In che modo l'AI Overview (AIO) di Google si differenzia strutturalmente da un tradizionale Featured Snippet?",
+      "answerOptions": [
+        {
+          "text": "L'AIO estrae informazioni esclusivamente da una singola fonte autorevole per garantire precisione.",
+          "isCorrect": false,
+          "rationale": "Questa descrizione si applica maggiormente ai Featured Snippet tradizionali, mentre l'AIO adotta un approccio multi-fonte."
+        },
+        {
+          "text": "L'AIO sintetizza ed elabora informazioni provenienti da molteplici fonti simultaneamente.",
+          "isCorrect": true,
+          "rationale": "Il nucleo della tecnologia AIO risiede nella capacità di aggregare e rielaborare dati da diversi siti web per fornire una risposta unitaria."
+        },
+        {
+          "text": "L'AIO viene visualizzato esclusivamente sotto i risultati organici per non disturbare l'esperienza dell'utente.",
+          "isCorrect": false,
+          "rationale": "L'AIO compare solitamente sopra i risultati organici, modificando radicalmente la visibilità dei link tradizionali."
+        },
+        {
+          "text": "L'AIO richiede sempre un clic dell'utente per essere espanso e visualizzato completamente.",
+          "isCorrect": false,
+          "rationale": "Molte risposte AIO sono visibili immediatamente, portando al fenomeno delle ricerche a zero clic."
+        }
+      ],
+      "hint": "Considera la differenza tra 'estrazione' di un blocco di testo e 'sintesi' generativa."
+    },
+    {
+      "question": "Secondo i dati analizzati, quale caratteristica definisce meglio il volume di ricerca delle parole chiave 'Long-tail'?",
+      "answerOptions": [
+        {
+          "text": "Presentano volumi di ricerca elevati a causa della loro specificità semantica.",
+          "isCorrect": false,
+          "rationale": "Le query specifiche attirano meno utenti rispetto ai termini generici, risultando in volumi ridotti."
+        },
+        {
+          "text": "Circa il $60\\%$ di queste query registra $\\le 100$ ricerche mensili.",
+          "isCorrect": true,
+          "rationale": "Le keyword a coda lunga sono caratterizzate da una bassa frequenza di ricerca individuale, pur rappresentando una vasta porzione del traffico totale."
+        },
+        {
+          "text": "Hanno un volume costante nel tempo che non scende mai sotto le 500 ricerche al mese.",
+          "isCorrect": false,
+          "rationale": "Il volume delle long-tail è per definizione limitato, spesso molto al di sotto delle 500 unità."
+        },
+        {
+          "text": "Il volume delle long-tail è inversamente proporzionale alla loro difficoltà (KD).",
+          "isCorrect": false,
+          "rationale": "Non esiste una correlazione inversa fissa; molte query di nicchia possono comunque essere competitive in settori specifici."
+        }
+      ],
+      "hint": "Rifletti sulla definizione di 'coda lunga' in termini di rarità e specificità."
+    },
+    {
+      "question": "Nel nuovo paradigma della Keyword Research, cosa si intende per parola chiave come 'proxy della domanda'?",
+      "answerOptions": [
+        {
+          "text": "Uno strumento tecnico per ingannare gli algoritmi di intelligenza artificiale.",
+          "isCorrect": false,
+          "rationale": "Il concetto di proxy si riferisce alla comprensione dell'intento dell'utente, non alla manipolazione algoritmica."
+        },
+        {
+          "text": "Un indizio osservabile di un bisogno o di un problema profondo dell'utente.",
+          "isCorrect": true,
+          "rationale": "Con l'avvento degli AIO, il focus si sposta dalla singola stringa di testo al bisogno informativo che essa rappresenta."
+        },
+        {
+          "text": "Una metrica quantitativa utilizzata per calcolare il CPC esatto di una campagna.",
+          "isCorrect": false,
+          "rationale": "Sebbene utile per il CPC, il valore come 'proxy' è di natura qualitativa e strategica."
+        },
+        {
+          "text": "Un sistema di protezione dei dati per anonimizzare le ricerche degli utenti.",
+          "isCorrect": false,
+          "rationale": "Il termine non ha alcuna relazione con la sicurezza informatica o i server proxy in questo contesto di marketing."
+        }
+      ],
+      "hint": "Pensa alla parola chiave non come fine, ma come segnale di un'intenzione sottostante."
+    },
+    {
+      "question": "Quale domanda strategica diventa fondamentale porsi prima di investire su una specifica query nell'era dei motori di risposta?",
+      "answerOptions": [
+        {
+          "text": "Qual è il font utilizzato da Google per mostrare questa query?",
+          "isCorrect": false,
+          "rationale": "Gli aspetti grafici minori non influenzano il valore strategico della parola chiave."
+        },
+        {
+          "text": "Questa query è esposta agli AI Overview e qual è il valore residuo del click?",
+          "isCorrect": true,
+          "rationale": "Valutare l'esposizione all'AIO permette di capire se l'utente otterrà la risposta senza visitare il sito, riducendo il traffico organico."
+        },
+        {
+          "text": "Quanti bit sono necessari per codificare questa parola chiave?",
+          "isCorrect": false,
+          "rationale": "La dimensione tecnica in bit non ha rilevanza per la strategia di web marketing."
+        },
+        {
+          "text": "Il server del sito web è compatibile con i protocolli analogici?",
+          "isCorrect": false,
+          "rationale": "I server operano in ambito digitale; i protocolli analogici non sono pertinenti alla ricerca web."
+        }
+      ],
+      "hint": "Considera l'impatto della visibilità diretta delle risposte in SERP."
+    },
+    {
+      "question": "Il concetto di Zero Moment of Truth (ZMOT), introdotto da Google, si verifica in quale fase?",
+      "answerOptions": [
+        {
+          "text": "Nel momento in cui l'utente prova il prodotto fisicamente a casa propria.",
+          "isCorrect": false,
+          "rationale": "L'uso del prodotto a casa corrisponde tipicamente al secondo momento della verità (Second MOT)."
+        },
+        {
+          "text": "Quando il cliente cerca informazioni online e valuta un prodotto prima del contatto fisico.",
+          "isCorrect": true,
+          "rationale": "Lo ZMOT identifica la fase decisionale digitale che precede l'acquisto o l'ingresso nel punto vendita."
+        },
+        {
+          "text": "Subito dopo l'acquisto, durante la fase di feedback e recensione.",
+          "isCorrect": false,
+          "rationale": "Il feedback post-acquisto è parte dell'esperienza successiva, non del momento della verità decisionale pre-acquisto."
+        },
+        {
+          "text": "Esclusivamente durante la transazione monetaria alla cassa.",
+          "isCorrect": false,
+          "rationale": "La transazione è il First MOT (FMOT) secondo il modello tradizionale di Procter & Gamble."
+        }
+      ],
+      "hint": "Pensa all'attività che svolgi su uno smartphone prima di andare al ristorante."
+    },
+    {
+      "question": "Secondo la Legge di Metcalfe, l'utilità di una rete tecnologica come varia al crescere degli utenti ($n$)?",
+      "answerOptions": [
+        {
+          "text": "L'utilità cresce in modo lineare, sommando il valore di ogni nuovo utente.",
+          "isCorrect": false,
+          "rationale": "Una crescita lineare sottostima drasticamente il valore delle interconnessioni tra i nodi."
+        },
+        {
+          "text": "L'utilità aumenta proporzionalmente al quadrato del numero degli utenti ($n^2$).",
+          "isCorrect": true,
+          "rationale": "Il valore di una rete risiede nel numero di connessioni possibili, che cresce esponenzialmente rispetto al numero di partecipanti."
+        },
+        {
+          "text": "L'utilità rimane costante, mentre diminuiscono solo i costi marginali.",
+          "isCorrect": false,
+          "rationale": "L'utilità per il singolo utente aumenta effettivamente quando ci sono più persone con cui interagire."
+        },
+        {
+          "text": "L'utilità decresce dopo il superamento di una soglia critica di utenti per congestione.",
+          "isCorrect": false,
+          "rationale": "Sebbene esista la saturazione, la legge di Metcalfe descrive il potenziale di valore positivo della rete."
+        }
+      ],
+      "hint": "Ricorda come il valore di un singolo telefono cambi se sei l'unico ad averlo o se lo hanno tutti."
+    },
+    {
+      "question": "Quale di questi rappresenta un esempio calzante di modello di 'pure sharing'?",
+      "answerOptions": [
+        {
+          "text": "Un servizio di car sharing aziendale con tariffazione al minuto.",
+          "isCorrect": false,
+          "rationale": "Il pagamento per l'uso introduce una transazione commerciale, allontanandosi dal concetto 'puro' di condivisione."
+        },
+        {
+          "text": "Un'applicazione che permette agli utenti di scambiarsi vestiti gratuitamente.",
+          "isCorrect": true,
+          "rationale": "Il pure sharing si basa sull'assenza di profitto monetario diretto e sulla circolazione di beni tra pari."
+        },
+        {
+          "text": "Un sito di e-commerce che vende prodotti di seconda mano garantiti.",
+          "isCorrect": false,
+          "rationale": "La vendita comporta un trasferimento di proprietà definitivo dietro compenso, non una condivisione."
+        },
+        {
+          "text": "Una piattaforma di streaming che offre abbonamenti familiari a prezzo ridotto.",
+          "isCorrect": false,
+          "rationale": "Si tratta di un modello di abbonamento multi-utente, ma pur sempre una transazione B2C."
+        }
+      ],
+      "hint": "Focus sull'assenza di transazione monetaria e sull'orientamento tra privati."
+    },
+    {
+      "question": "Nella struttura 'layer' dell'Internet Industry, cosa comprende il primo livello (Internet Infrastructure)?",
+      "answerOptions": [
+        {
+          "text": "Software di navigazione e motori di ricerca avanzati.",
+          "isCorrect": false,
+          "rationale": "Questi elementi appartengono a livelli superiori legati all'intermediazione o ai servizi IT."
+        },
+        {
+          "text": "Produttori di apparecchiature hardware come fibra ottica, server e networking hardware.",
+          "isCorrect": true,
+          "rationale": "Il livello 1 riguarda la base fisica e infrastrutturale necessaria per l'esistenza della rete."
+        },
+        {
+          "text": "Operatori che offrono contenuti editoriali e intrattenimento video.",
+          "isCorrect": false,
+          "rationale": "Il contenuto si trova all'apice del modello (livello 5), non alla base fisica."
+        },
+        {
+          "text": "Sistemi di pagamento sicuri per il commercio elettronico.",
+          "isCorrect": false,
+          "rationale": "L'intermediazione finanziaria digitale è situata al livello 4."
+        }
+      ],
+      "hint": "Pensa alle componenti fisiche tangibili necessarie per far viaggiare i dati."
+    },
+    {
+      "question": "Un bit è l'unità minima di informazione. Quanti bit compongono un byte?",
+      "answerOptions": [
+        {
+          "text": "2 bit, corrispondenti agli stati 0 e 1.",
+          "isCorrect": false,
+          "rationale": "Sebbene il sistema sia binario, un byte richiede una stringa più lunga di bit per codificare un carattere."
+        },
+        {
+          "text": "8 bit.",
+          "isCorrect": true,
+          "rationale": "La convenzione informatica standard prevede che 8 bit formino la sequenza di un byte."
+        },
+        {
+          "text": "10 bit, per facilitare il calcolo decimale.",
+          "isCorrect": false,
+          "rationale": "L'informatica si basa su potenze di 2, rendendo il 10 un'unità non standard in questo contesto."
+        },
+        {
+          "text": "1024 bit.",
+          "isCorrect": false,
+          "rationale": "Il valore 1024 è associato alla conversione tra kilo, mega e giga, non tra bit e byte."
+        }
+      ],
+      "hint": "È una potenza di due, ma non la più piccola possibile."
+    },
+    {
+      "question": "Qual è la differenza fondamentale tra i dati digitali e quelli analogici?",
+      "answerOptions": [
+        {
+          "text": "I dati digitali cambiano continuamente, mentre gli analogici sono discreti.",
+          "isCorrect": false,
+          "rationale": "È l'esatto opposto: la continuità è la caratteristica dei sistemi analogici."
+        },
+        {
+          "text": "I dati digitali cambiano in modo discreto tra stati diversi (come 0/1), mentre gli analogici variano continuamente.",
+          "isCorrect": true,
+          "rationale": "La natura discreta permette al digitale di essere codificato con precisione senza subire le distorsioni tipiche dei segnali continui."
+        },
+        {
+          "text": "I dati digitali richiedono supporti fisici più grandi rispetto agli analogici.",
+          "isCorrect": false,
+          "rationale": "La digitalizzazione ha permesso una drastica riduzione dello spazio fisico di archiviazione."
+        },
+        {
+          "text": "I dati analogici sono codificati esclusivamente in codice binario.",
+          "isCorrect": false,
+          "rationale": "L'analogico utilizza variazioni fisiche continue (come i solchi di un vinile) e non codice binario."
+        }
+      ],
+      "hint": "Pensa alla differenza tra un orologio a lancette e uno a numeri scattanti."
+    },
+    {
+      "question": "In una ricerca di mercato online, cosa indica l'utilizzo di domande 'open-ended'?",
+      "answerOptions": [
+        {
+          "text": "Domande che prevedono solo due opzioni di risposta (Sì/No).",
+          "isCorrect": false,
+          "rationale": "Queste sono domande dicotomiche, non aperte."
+        },
+        {
+          "text": "Domande che permettono all'intervistato di rispondere liberamente a parole proprie.",
+          "isCorrect": true,
+          "rationale": "Le domande aperte favoriscono la raccolta di dati qualitativi profondi non limitati da opzioni predefinite."
+        },
+        {
+          "text": "Domande a cui si può rispondere solo selezionando un valore da 1 a 10.",
+          "isCorrect": false,
+          "rationale": "Queste sono domande su scala metrica o Likert."
+        },
+        {
+          "text": "Domande inviate esclusivamente a utenti che non hanno ancora completato un acquisto.",
+          "isCorrect": false,
+          "rationale": "Il termine si riferisce alla modalità di risposta, non al target della domanda."
+        }
+      ],
+      "hint": "Rifletti sulla libertà lasciata all'intervistato nel formulare il testo."
+    },
+    {
+      "question": "Perché in un questionario è consigliabile utilizzare la 'parsimonia' nella selezione dei temi?",
+      "answerOptions": [
+        {
+          "text": "Per ridurre i costi di stampa dei moduli cartacei.",
+          "isCorrect": false,
+          "rationale": "La parsimonia serve a migliorare la qualità del dato e il tasso di completamento, non solo a risparmiare carta."
+        },
+        {
+          "text": "Per evitare di stancare l'intervistato e garantire la qualità delle risposte fornite.",
+          "isCorrect": true,
+          "rationale": "Un questionario troppo lungo porta a risposte affrettate o all'abbandono da parte del rispondente."
+        },
+        {
+          "text": "Perché le piattaforme digitali non permettono di inserire più di tre domande.",
+          "isCorrect": false,
+          "rationale": "Le limitazioni tecniche non sono il motivo principale; è una scelta metodologica di ricerca."
+        },
+        {
+          "text": "Per rendere più veloce l'elaborazione dei dati da parte dell'intelligenza artificiale.",
+          "isCorrect": false,
+          "rationale": "L'AI può gestire grandi volumi di dati; il limite è la capacità di attenzione umana."
+        }
+      ],
+      "hint": "Considera il fattore umano e il rischio di risposte date 'a caso' per finire in fretta."
+    },
+    {
+      "question": "Qual è il rischio principale dell'utilizzo di un numero dispari di opzioni in una scala di valutazione?",
+      "answerOptions": [
+        {
+          "text": "Obbliga l'intervistato a prendere una posizione netta anche se indeciso.",
+          "isCorrect": false,
+          "rationale": "Questa è una caratteristica delle scale pari (forced choice)."
+        },
+        {
+          "text": "Aumenta la probabilità che le risposte si addensino eccessivamente sui valori medi.",
+          "isCorrect": true,
+          "rationale": "Il valore centrale neutro attira chi non vuole esporsi o chi è pigro, rendendo meno chiara la tendenza."
+        },
+        {
+          "text": "Rende impossibile il calcolo della media aritmetica dei risultati.",
+          "isCorrect": false,
+          "rationale": "La media è calcolabile indipendentemente dal fatto che il numero di opzioni sia pari o dispari."
+        },
+        {
+          "text": "Provoca un errore di sistema nei software di analisi statistica.",
+          "isCorrect": false,
+          "rationale": "I software gestiscono perfettamente ogni tipo di scala correttamente configurata."
+        }
+      ],
+      "hint": "Pensa alla comodità di scegliere 'la via di mezzo'."
+    },
+    {
+      "question": "In una strategia SEO, quale ruolo ricoprono i 'backlink' di alta qualità?",
+      "answerOptions": [
+        {
+          "text": "Sono collegamenti interni che aiutano l'utente a navigare tra le pagine del proprio sito.",
+          "isCorrect": false,
+          "rationale": "Questi sono link interni; i backlink provengono da domini esterni."
+        },
+        {
+          "text": "Migliorano l'autorità del sito e il posizionamento organico se provengono da fonti autorevoli.",
+          "isCorrect": true,
+          "rationale": "I motori di ricerca vedono i link esterni come 'voti di fiducia' che confermano la rilevanza del contenuto."
+        },
+        {
+          "text": "Servono esclusivamente a tracciare quante persone cliccano sugli annunci a pagamento.",
+          "isCorrect": false,
+          "rationale": "Il tracciamento dei clic pubblicitari è gestito da parametri URL e non definisce i backlink SEO."
+        },
+        {
+          "text": "Sono stringhe di codice binario inserite nelle immagini per renderle leggibili dall'AI.",
+          "isCorrect": false,
+          "rationale": "Questa descrizione si avvicina più ai tag ALT, mentre i backlink sono connessioni ipertestuali."
+        }
+      ],
+      "hint": "Considerali come 'referenze' o raccomandazioni da parte di altri siti."
+    },
+    {
+      "question": "Che cosa si intende per 'switching cost' in un contesto tecnologico?",
+      "answerOptions": [
+        {
+          "text": "Il costo dell'energia elettrica necessaria per passare da un server all'altro.",
+          "isCorrect": false,
+          "rationale": "I costi di commutazione non si riferiscono a consumi energetici fisici."
+        },
+        {
+          "text": "L'insieme dei costi monetari e cognitivi necessari per cambiare tecnologia o fornitore.",
+          "isCorrect": true,
+          "rationale": "Cambiare sistema implica non solo spese dirette, ma anche tempo e sforzo per imparare a usare il nuovo prodotto."
+        },
+        {
+          "text": "La tariffa fissa che un utente paga per disattivare un account social.",
+          "isCorrect": false,
+          "rationale": "Questa è solo una piccola parte monetaria del concetto più ampio di switching cost."
+        },
+        {
+          "text": "Il risparmio ottenuto acquistando una versione 'freemium' di un software.",
+          "isCorrect": false,
+          "rationale": "Il modello freemium riguarda il pricing, non i costi legati all'abbandono di una tecnologia."
+        }
+      ],
+      "hint": "Considera sia lo sforzo economico che quello di apprendimento necessario per un cambiamento."
+    },
+    {
+      "question": "Qual è l'obiettivo primario di un 'content pillar' in una content strategy?",
+      "answerOptions": [
+        {
+          "text": "Creare un singolo contenuto brevissimo per attirare l'attenzione sui social.",
+          "isCorrect": false,
+          "rationale": "Un pillar è per definizione esteso e approfondito, l'opposto di un contenuto 'mordi e fuggi'."
+        },
+        {
+          "text": "Sviluppare un contenuto approfondito da cui derivare numerosi frammenti più piccoli.",
+          "isCorrect": true,
+          "rationale": "La strategia a pilastri permette di massimizzare l'efficienza produttiva partendo da un nucleo informativo solido."
+        },
+        {
+          "text": "Inserire il maggior numero possibile di parole chiave senza curare la leggibilità.",
+          "isCorrect": false,
+          "rationale": "Questa pratica (keyword stuffing) è penalizzata dai motori di ricerca e non definisce un content pillar."
+        },
+        {
+          "text": "Garantire che il sito web sia visibile solo su dispositivi desktop.",
+          "isCorrect": false,
+          "rationale": "Il content marketing è agnostico rispetto al dispositivo, puntando alla fruibilità multi-screen."
+        }
+      ],
+      "hint": "Immagina un grande tronco da cui si diramano tanti piccoli rami."
+    },
+    {
+      "question": "Alla luce del modello McKinsey, quale fase del processo decisionale è cruciale per alimentare il 'loyalty loop'?",
+      "answerOptions": [
+        {
+          "text": "La fase di esposizione iniziale al marchio tramite pubblicità televisiva.",
+          "isCorrect": false,
+          "rationale": "L'esposizione crea consapevolezza ma non garantisce la fedeltà a lungo termine."
+        },
+        {
+          "text": "L'esperienza post-vendita derivante dall'utilizzo effettivo del prodotto.",
+          "isCorrect": true,
+          "rationale": "Soddisfare l'utente dopo l'acquisto è il presupposto fondamentale affinché questi salti la fase di valutazione attiva nella scelta successiva."
+        },
+        {
+          "text": "Il momento esatto in cui il cliente preme il pulsante 'acquista'.",
+          "isCorrect": false,
+          "rationale": "L'acquisto è l'apice della transazione, ma la fedeltà si costruisce con ciò che accade dopo."
+        },
+        {
+          "text": "La ricerca di comparatori di prezzo durante la valutazione attiva.",
+          "isCorrect": false,
+          "rationale": "Se l'utente cerca comparatori, significa che non è ancora entrato nel circolo virtuoso della fedeltà automatica."
+        }
+      ],
+      "hint": "Rifletti su ciò che accade una volta che il prodotto è nelle mani del consumatore."
+    },
+    {
+      "question": "Nelle strategie di Email Marketing, quale elemento ha statisticamente il maggior impatto sul tasso di apertura (Open Rate)?",
+      "answerOptions": [
+        {
+          "text": "La lunghezza complessiva del corpo del testo dell'email.",
+          "isCorrect": false,
+          "rationale": "Il testo interno viene letto solo dopo l'apertura, quindi non può influenzarne il tasso iniziale."
+        },
+        {
+          "text": "L'oggetto dell'email, che deve essere accattivante e chiaro.",
+          "isCorrect": true,
+          "rationale": "L'oggetto è il primo (e talvolta unico) elemento visibile nella casella di posta che determina la decisione di cliccare."
+        },
+        {
+          "text": "La presenza di almeno tre immagini ad alta risoluzione.",
+          "isCorrect": false,
+          "rationale": "Le immagini possono appesantire l'email o essere bloccate dai client, non aiutando l'apertura."
+        },
+        {
+          "text": "L'indirizzo IP del server da cui è stata inviata la newsletter.",
+          "isCorrect": false,
+          "rationale": "Sebbene importante per la deliverability, l'utente finale non vede l'IP e non decide in base ad esso."
+        }
+      ],
+      "hint": "Pensa al titolo di un giornale visto in edicola."
+    },
+    {
+      "question": "Il 'Freemium Model' prevede che l'azienda generi ricavi principalmente attraverso:",
+      "answerOptions": [
+        {
+          "text": "La vendita di spazi pubblicitari nella versione gratuita.",
+          "isCorrect": false,
+          "rationale": "Sebbene comune, il core del freemium è la conversione degli utenti a funzioni a pagamento, non solo l'advertising."
+        },
+        {
+          "text": "Utenti che pagano per sbloccare funzionalità aggiuntive o rimuovere limitazioni.",
+          "isCorrect": true,
+          "rationale": "Il modello punta ad acquisire una base utenti ampia con la gratuità e a monetizzare con una percentuale di utenti 'premium'."
+        },
+        {
+          "text": "Contributi statali per la diffusione di tecnologie digitali.",
+          "isCorrect": false,
+          "rationale": "Il freemium è una strategia di mercato privata, non un sussidio pubblico."
+        },
+        {
+          "text": "La vendita dei dati personali degli utenti registrati gratuitamente.",
+          "isCorrect": false,
+          "rationale": "Questa è una pratica di monetizzazione dei dati, non intrinseca alla definizione funzionale di freemium."
+        }
+      ],
+      "hint": "Considera app come Spotify o Dropbox e il motivo per cui si decide di abbonarsi."
+    },
+    {
+      "question": "Secondo le categorie del Web Marketing, un'attività di 'Lead Generation' ha come scopo principale:",
+      "answerOptions": [
+        {
+          "text": "La vendita immediata e impulsiva di un prodotto a basso costo.",
+          "isCorrect": false,
+          "rationale": "La vendita diretta è tipica dell'e-commerce, mentre la lead generation si focalizza sul contatto."
+        },
+        {
+          "text": "Generare una lista di potenziali clienti interessati per future azioni commerciali.",
+          "isCorrect": true,
+          "rationale": "L'obiettivo è acquisire dati (come l'email) di utenti qualificati da nutrire nel tempo (lead nurturing)."
+        },
+        {
+          "text": "Migliorare la velocità di caricamento delle pagine del sito web.",
+          "isCorrect": false,
+          "rationale": "Questa è un'ottimizzazione tecnica (performance), non una strategia di acquisizione contatti."
+        },
+        {
+          "text": "Ridurre il numero di follower sui social network per mantenere solo i più attivi.",
+          "isCorrect": false,
+          "rationale": "Le strategie di marketing mirano solitamente alla crescita della base interessata, non alla sua riduzione deliberata."
+        }
+      ],
+      "hint": "Pensa alla compilazione di un modulo per ricevere un preventivo o una consulenza."
+    },
+    {
+      "question": "In che modo le 'Economie di Scala' influenzano la diffusione delle tecnologie digitali?",
+      "answerOptions": [
+        {
+          "text": "Rendono i prodotti digitali più costosi man mano che aumenta la produzione.",
+          "isCorrect": false,
+          "rationale": "Al contrario, le economie di scala riducono i costi medi unitari all'aumentare dei volumi."
+        },
+        {
+          "text": "Facilitano la diffusione riducendo i costi per utente con l'aumento della base installata.",
+          "isCorrect": true,
+          "rationale": "Il costo marginale quasi nullo del software permette di servire milioni di utenti abbattendo i prezzi."
+        },
+        {
+          "text": "Bloccano l'innovazione favorendo esclusivamente le piccole start-up locali.",
+          "isCorrect": false,
+          "rationale": "Solitamente le economie di scala favoriscono i grandi player che possono investire massicciamente."
+        },
+        {
+          "text": "Richiedono che ogni utente acquisti un server dedicato per accedere al servizio.",
+          "isCorrect": false,
+          "rationale": "L'infrastruttura condivisa (cloud) è proprio ciò che permette di sfruttare le economie di scala digitali."
+        }
+      ],
+      "hint": "Pensa a come il costo di sviluppo di un'app si spalmi su milioni di download."
+    },
+    {
+      "question": "Che cosa si intende per 'Brand Equity'?",
+      "answerOptions": [
+        {
+          "text": "La quantità di post pubblicati da un brand sui social in un mese.",
+          "isCorrect": false,
+          "rationale": "Questo misura l'attività o la frequenza, non il valore intrinseco del marchio."
+        },
+        {
+          "text": "Il valore complessivo e la forza del brand accumulati nel tempo.",
+          "isCorrect": true,
+          "rationale": "L'equity rappresenta il valore aggiunto che il nome del brand conferisce al prodotto agli occhi del consumatore."
+        },
+        {
+          "text": "L'insieme dei colori e dei loghi definiti nel manuale di identità visiva.",
+          "isCorrect": false,
+          "rationale": "Questi elementi costituiscono la Brand Identity visiva, non l'equity finanziaria o d'immagine."
+        },
+        {
+          "text": "Il numero di dipendenti che lavorano nel dipartimento marketing.",
+          "isCorrect": false,
+          "rationale": "Le risorse umane sono un asset interno, mentre l'equity è un valore di mercato e percezione."
+        }
+      ],
+      "hint": "Rifletti sul valore di mercato superiore di un prodotto 'griffato' rispetto a uno generico."
+    },
+    {
+      "question": "Qual è la funzione principale di una campagna di 'Retargeting'?",
+      "answerOptions": [
+        {
+          "text": "Trovare nuovi utenti che non hanno mai sentito parlare del brand.",
+          "isCorrect": false,
+          "rationale": "Il retargeting si rivolge specificamente a chi ha già avuto un'interazione precedente."
+        },
+        {
+          "text": "Raggiungere nuovamente utenti che hanno già visitato il sito senza completare un'azione.",
+          "isCorrect": true,
+          "rationale": "Serve a ricordare all'utente un interesse manifestato, cercando di portarlo alla conversione finale."
+        },
+        {
+          "text": "Eliminare i cookie di terze parti dal browser del visitatore.",
+          "isCorrect": false,
+          "rationale": "Il retargeting si basa proprio sull'uso dei cookie (o simili) per funzionare, non sulla loro eliminazione."
+        },
+        {
+          "text": "Tradurre automaticamente il sito web nella lingua locale dell'utente.",
+          "isCorrect": false,
+          "rationale": "Questa è la localizzazione, una funzione tecnica del sito diversa dall'advertising comportamentale."
+        }
+      ],
+      "hint": "Ricorda quegli annunci di prodotti che hai appena guardato e che ti 'inseguono' su altri siti."
+    },
+    {
+      "question": "Nel contesto delle ricerche di mercato, cosa si intende per 'Analisi di Dati Secondari'?",
+      "answerOptions": [
+        {
+          "text": "Lo studio dei risultati di un nuovo questionario creato appositamente per la ricerca.",
+          "isCorrect": false,
+          "rationale": "Questo costituisce una ricerca primaria (dati di prima mano)."
+        },
+        {
+          "text": "Lo studio di dati già disponibili, raccolti in precedenza da altre fonti o enti.",
+          "isCorrect": true,
+          "rationale": "L'analisi secondaria sfrutta statistiche ufficiali, report di settore o ricerche passate per risparmiare tempo e risorse."
+        },
+        {
+          "text": "La raccolta di opinioni attraverso interviste doppie (a due persone alla volta).",
+          "isCorrect": false,
+          "rationale": "Si tratterebbe di una tecnica qualitativa primaria, non legata alla natura 'secondaria' del dato."
+        },
+        {
+          "text": "L'analisi dei dati che vengono scartati perché considerati poco rilevanti.",
+          "isCorrect": false,
+          "rationale": "Il termine non indica la qualità o l'ordine di importanza, ma l'origine della raccolta."
+        }
+      ],
+      "hint": "Pensa alla consultazione di un report ISTAT per conoscere il numero di abitanti di una città."
+    },
+    {
+      "question": "Quale tra queste è una caratteristica distintiva del 'Marketing 4.0' rispetto alle versioni precedenti?",
+      "answerOptions": [
+        {
+          "text": "Il focus esclusivo sulla produzione di massa a basso costo.",
+          "isCorrect": false,
+          "rationale": "Questa è la caratteristica del Marketing 1.0 (orientamento al prodotto)."
+        },
+        {
+          "text": "Il passaggio dal concetto di segmentazione a quello di community.",
+          "isCorrect": true,
+          "rationale": "Nel 4.0 la relazione diventa orizzontale e i consumatori si aggregano in comunità influenzandosi a vicenda."
+        },
+        {
+          "text": "L'abbandono totale di ogni forma di comunicazione digitale.",
+          "isCorrect": false,
+          "rationale": "Il Marketing 4.0 integra profondamente l'online con l'offline, non lo abbandona."
+        },
+        {
+          "text": "L'uso di testimonial famosi come unica strategia di promozione.",
+          "isCorrect": false,
+          "rationale": "Sebbene ancora usati, il 4.0 punta molto sulla Brand Advocacy dei consumatori comuni."
+        }
+      ],
+      "hint": "Rifletti su come i social media abbiano trasformato i target passivi in gruppi attivi."
+    }
+  ]
+}

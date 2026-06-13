@@ -1,0 +1,785 @@
+{
+  "title": "Quiz SEO",
+  "questions": [
+    {
+      "question": "Qual è l'obiettivo principale della SEO secondo il materiale fornito?",
+      "answerOptions": [
+        {
+          "text": "Ottenere più traffico dai motori di ricerca come Google.",
+          "isCorrect": true,
+          "rationale": "La SEO mira a migliorare la visibilità organica per attirare un volume maggiore di utenti verso un sito web."
+        },
+        {
+          "text": "Aumentare esclusivamente il traffico a pagamento (Ads).",
+          "isCorrect": false,
+          "rationale": "Il traffico a pagamento fa parte del SEM, mentre la SEO si concentra specificamente sui risultati organici non sponsorizzati."
+        },
+        {
+          "text": "Eliminare la concorrenza dalla pagina dei risultati.",
+          "isCorrect": false,
+          "rationale": "L'obiettivo è posizionarsi meglio dei competitor, ma non è possibile eliminare fisicamente gli altri siti dalla SERP."
+        },
+        {
+          "text": "Creare contenuti puramente estetici per il sito.",
+          "isCorrect": false,
+          "rationale": "Sebbene l'estetica sia importante, la SEO riguarda l'utilità e l'ottimizzazione per la reperibilità nei motori di ricerca."
+        }
+      ],
+      "hint": "Pensa alla differenza tra risultati organici e annunci sponsorizzati."
+    },
+    {
+      "question": "Cosa indica l'acronimo SERP nel contesto del marketing digitale?",
+      "answerOptions": [
+        {
+          "text": "Search Engine Results Pages.",
+          "isCorrect": true,
+          "rationale": "La SERP è la pagina che appare agli utenti dopo aver effettuato una query di ricerca."
+        },
+        {
+          "text": "Selective Engine Ranking Process.",
+          "isCorrect": false,
+          "rationale": "Sebbene includa il concetto di ranking, questo acronimo non è utilizzato nel settore."
+        },
+        {
+          "text": "Social Engagement Rate Platform.",
+          "isCorrect": false,
+          "rationale": "Questo termine si riferisce all'analisi dei social media, non ai motori di ricerca."
+        },
+        {
+          "text": "Search Entry Ranking Program.",
+          "isCorrect": false,
+          "rationale": "È un termine inventato che non descrive correttamente la pagina dei risultati di Google."
+        }
+      ],
+      "hint": "Si riferisce alla pagina visualizzata dopo aver digitato una keyword su Google."
+    },
+    {
+      "question": "In quale fase il motore di ricerca esamina il codice e il contenuto di ogni URL trovato?",
+      "answerOptions": [
+        {
+          "text": "Crawling (Scansione).",
+          "isCorrect": true,
+          "rationale": "La scansione è la fase esplorativa iniziale in cui i bot 'leggono' il contenuto delle pagine web."
+        },
+        {
+          "text": "Ranking (Posizionamento).",
+          "isCorrect": false,
+          "rationale": "Il ranking avviene dopo la scansione e l'indicizzazione, decidendo l'ordine dei risultati."
+        },
+        {
+          "text": "Indexing (Indicizzazione).",
+          "isCorrect": false,
+          "rationale": "L'indicizzazione è la fase di archiviazione dei dati raccolti, non l'esame iniziale del codice."
+        },
+        {
+          "text": "Keyword Mapping.",
+          "isCorrect": false,
+          "rationale": "Questa è un'attività strategica umana per pianificare i contenuti, non un processo interno del motore di ricerca."
+        }
+      ],
+      "hint": "Considera l'analogia di un ragno che percorre la rete (web) per scoprire nuove pagine."
+    },
+    {
+      "question": "Che cosa avviene durante la fase di 'Indexing'?",
+      "answerOptions": [
+        {
+          "text": "Il contenuto viene archiviato e organizzato per competere nelle ricerche.",
+          "isCorrect": true,
+          "rationale": "Una volta nell'indice, la pagina entra automaticamente in competizione per rispondere alle query degli utenti."
+        },
+        {
+          "text": "Vengono scelti i colori e il design del sito web.",
+          "isCorrect": false,
+          "rationale": "L'indicizzazione riguarda i dati testuali e strutturali per il database del motore, non l'estetica visiva."
+        },
+        {
+          "text": "Si acquistano backlink da siti esterni.",
+          "isCorrect": false,
+          "rationale": "L'acquisto o l'ottenimento di backlink riguarda la SEO off-page, non l'archiviazione interna di Google."
+        },
+        {
+          "text": "Il sito viene reso mobile-friendly.",
+          "isCorrect": false,
+          "rationale": "Rendere un sito mobile-friendly è un'azione di ottimizzazione tecnica, non la fase di archiviazione dei dati."
+        }
+      ],
+      "hint": "Pensa all'organizzazione di una biblioteca dopo che i libri sono stati consegnati."
+    },
+    {
+      "question": "Qual è la differenza fondamentale tra 'Indicizzazione' e 'Posizionamento'?",
+      "answerOptions": [
+        {
+          "text": "L'indicizzazione è l'inserimento nel database, il posizionamento è l'ordine in SERP.",
+          "isCorrect": true,
+          "rationale": "Essere presenti nell'indice è necessario per apparire, ma il ranking determina quanto in alto si appare."
+        },
+        {
+          "text": "Sono sinonimi e si riferiscono entrambi alla scansione.",
+          "isCorrect": false,
+          "rationale": "Il materiale specifica chiaramente che si tratta di due fasi distinte del lavoro dei motori di ricerca."
+        },
+        {
+          "text": "L'indicizzazione riguarda solo le immagini, il posizionamento i testi.",
+          "isCorrect": false,
+          "rationale": "Entrambi i processi riguardano tutti i tipi di contenuti multimediali e testuali di una pagina."
+        },
+        {
+          "text": "Il posizionamento precede sempre l'indicizzazione.",
+          "isCorrect": false,
+          "rationale": "Un contenuto non può essere posizionato se prima non è stato archiviato correttamente nell'indice."
+        }
+      ],
+      "hint": "Ricorda il simbolo del segno 'diverso' ($ \\ne $) usato nelle slide tra questi due termini."
+    },
+    {
+      "question": "Su cosa si concentra principalmente la SEO on-page?",
+      "answerOptions": [
+        {
+          "text": "Sull'ottimizzazione dei contenuti e degli elementi interni alle pagine web.",
+          "isCorrect": true,
+          "rationale": "Riguarda tutto ciò che è direttamente modificabile all'interno del proprio sito per migliorare la pertinenza."
+        },
+        {
+          "text": "Sulla creazione di link provenienti da altri siti web (backlink).",
+          "isCorrect": false,
+          "rationale": "Questa attività appartiene alla SEO off-page poiché avviene all'esterno del sito proprietario."
+        },
+        {
+          "text": "Sulla velocità del server e sulla configurazione del database.",
+          "isCorrect": false,
+          "rationale": "Questi aspetti sono solitamente classificati come SEO tecnica o backend."
+        },
+        {
+          "text": "Sui post pubblicati esclusivamente sui profili social.",
+          "isCorrect": false,
+          "rationale": "La SEO on-page si riferisce specificamente alle pagine del sito web, non all'attività sui social media."
+        }
+      ],
+      "hint": "Il nome stesso suggerisce che l'azione avviene 'sulla pagina'."
+    },
+    {
+      "question": "Quale analogia viene utilizzata nel materiale per descrivere la SEO tecnica?",
+      "answerOptions": [
+        {
+          "text": "Il lavoro dietro le quinte di un teatro.",
+          "isCorrect": true,
+          "rationale": "Così come in un teatro ci sono luci e meccanismi invisibili al pubblico, la SEO tecnica cura l'architettura invisibile agli utenti."
+        },
+        {
+          "text": "Le fondamenta di un grattacielo.",
+          "isCorrect": false,
+          "rationale": "Sebbene sia una buona analogia per la stabilità, il testo cita esplicitamente il teatro come esempio."
+        },
+        {
+          "text": "Il motore di un'automobile sportiva.",
+          "isCorrect": false,
+          "rationale": "Questa analogia non è presente nel materiale originale fornito dal Prof. Granato."
+        },
+        {
+          "text": "La vetrina di un negozio di abbigliamento.",
+          "isCorrect": false,
+          "rationale": "La vetrina è più simile alla SEO on-page o all'interfaccia utente, non al backend tecnico."
+        }
+      ],
+      "hint": "Pensa a un luogo dove si svolgono spettacoli ma dove molto accade fuori dalla vista degli spettatori."
+    },
+    {
+      "question": "Qual è lo scopo principale della SEO locale?",
+      "answerOptions": [
+        {
+          "text": "Amplificare la presenza del sito nelle ricerche legate a una specifica area geografica.",
+          "isCorrect": true,
+          "rationale": "È fondamentale per le attività fisiche che vogliono essere trovate da utenti nelle vicinanze."
+        },
+        {
+          "text": "Tradurre il sito in tutte le lingue locali del mondo.",
+          "isCorrect": false,
+          "rationale": "La traduzione riguarda la SEO internazionale o multilingua, non necessariamente la SEO locale."
+        },
+        {
+          "text": "Riparare i link rotti all'interno di un server locale.",
+          "isCorrect": false,
+          "rationale": "La SEO locale non riguarda la manutenzione dei server fisici ma la visibilità geografica nei risultati di ricerca."
+        },
+        {
+          "text": "Gestire esclusivamente i commenti degli utenti locali.",
+          "isCorrect": false,
+          "rationale": "La gestione dei commenti è parte della gestione della reputazione o dei social, non l'intero scopo della SEO locale."
+        }
+      ],
+      "hint": "È particolarmente importante per chi opera in un quartiere o in una città specifica."
+    },
+    {
+      "question": "Quale di questi è un elemento fondamentale della 'SEO di base' secondo la checklist di Semrush?",
+      "answerOptions": [
+        {
+          "text": "Creazione di un file Robots.txt e di una sitemap.",
+          "isCorrect": true,
+          "rationale": "Questi file aiutano i motori di ricerca a capire come scansionare e navigare correttamente il sito."
+        },
+        {
+          "text": "Produzione quotidiana di video virali su TikTok.",
+          "isCorrect": false,
+          "rationale": "TikTok è una piattaforma social esterna che non rientra nella configurazione SEO di base di un sito web."
+        },
+        {
+          "text": "Cancellazione di tutti i vecchi articoli del blog.",
+          "isCorrect": false,
+          "rationale": "La potatura dei contenuti è una strategia avanzata, non una configurazione di base del sito."
+        },
+        {
+          "text": "Sostituzione di tutti i link interni con link esterni.",
+          "isCorrect": false,
+          "rationale": "Questa azione danneggerebbe l'autorità interna del sito e non è una pratica consigliata."
+        }
+      ],
+      "hint": "Riguarda i primi file tecnici necessari per 'presentarsi' correttamente a Google."
+    },
+    {
+      "question": "Cosa si intende per 'Keyword Long-Tail' nella ricerca delle parole chiave?",
+      "answerOptions": [
+        {
+          "text": "Varianti di parole chiave più lunghe e specifiche, spesso con meno concorrenza.",
+          "isCorrect": true,
+          "rationale": "Sono query composte da più termini che intercettano un intento di ricerca molto preciso."
+        },
+        {
+          "text": "Parole chiave che vengono utilizzate solo una volta all'anno.",
+          "isCorrect": false,
+          "rationale": "Il termine non si riferisce alla frequenza temporale, ma alla specificità e alla lunghezza della frase."
+        },
+        {
+          "text": "Tag tecnici inseriti nel codice HTML in fondo alla pagina.",
+          "isCorrect": false,
+          "rationale": "Non si tratta di una posizione nel codice, ma di una tipologia di ricerca effettuata dall'utente."
+        },
+        {
+          "text": "Parole chiave che portano traffico solo da dispositivi mobile.",
+          "isCorrect": false,
+          "rationale": "Le keyword a coda lunga funzionano su ogni tipo di dispositivo, purché la query sia specifica."
+        }
+      ],
+      "hint": "Letteralmente significa 'coda lunga'."
+    },
+    {
+      "question": "Secondo la checklist, qual è un'azione corretta per la SEO on-page e i contenuti?",
+      "answerOptions": [
+        {
+          "text": "Migliorare la struttura dei link interni e correggere i tag Title duplicati.",
+          "isCorrect": true,
+          "rationale": "Questi interventi garantiscono che ogni pagina sia unica e facilmente raggiungibile dai bot e dagli utenti."
+        },
+        {
+          "text": "Nascondere il testo usando lo stesso colore dello sfondo.",
+          "isCorrect": false,
+          "rationale": "Questa è una tecnica scorretta (Black Hat SEO) che può portare a penalizzazioni da parte di Google."
+        },
+        {
+          "text": "Utilizzare solo immagini senza testo per velocizzare la lettura.",
+          "isCorrect": false,
+          "rationale": "I motori di ricerca hanno bisogno di testo per comprendere il contesto; le sole immagini non sono sufficienti."
+        },
+        {
+          "text": "Copiare i contenuti dai competitor per risparmiare tempo.",
+          "isCorrect": false,
+          "rationale": "Il contenuto duplicato è dannoso per la SEO e non aiuta a posizionarsi meglio in modo organico."
+        }
+      ],
+      "hint": "Cerca di ottimizzare ciò che l'utente legge e ciò che definisce la pagina nel browser."
+    },
+    {
+      "question": "Cosa sono i 'Featured Snippet' menzionati nella strategia SEO?",
+      "answerOptions": [
+        {
+          "text": "Riquadri descrittivi che appaiono in cima ai risultati di Google per rispondere subito a una domanda.",
+          "isCorrect": true,
+          "rationale": "Sono noti come 'posizione zero' e forniscono una risposta immediata alla query dell'utente senza dover cliccare."
+        },
+        {
+          "text": "Piccoli annunci pubblicitari posizionati a lato della SERP.",
+          "isCorrect": false,
+          "rationale": "I featured snippet sono risultati organici, non annunci a pagamento."
+        },
+        {
+          "text": "Plugin di Wordpress per velocizzare il caricamento del database.",
+          "isCorrect": false,
+          "rationale": "Si tratta di una funzionalità della pagina dei risultati di ricerca, non di uno strumento software per il sito."
+        },
+        {
+          "text": "Elenchi di tutte le parole chiave usate dai competitor.",
+          "isCorrect": false,
+          "rationale": "Questa è un'analisi competitiva, non un elemento visualizzato nella SERP per gli utenti."
+        }
+      ],
+      "hint": "Sono chiamati anche 'posizione zero'."
+    },
+    {
+      "question": "Perché è importante ottimizzare le immagini per la SEO?",
+      "answerOptions": [
+        {
+          "text": "Per portare più traffico al sito e assicurarsi che i motori capiscano il contenuto visivo tramite i tag ALT.",
+          "isCorrect": true,
+          "rationale": "I motori di ricerca non 'vedono' le immagini come gli umani; hanno bisogno del testo alternativo (ALT) per indicizzarle."
+        },
+        {
+          "text": "Per impedire che gli utenti possano scaricarle.",
+          "isCorrect": false,
+          "rationale": "L'ottimizzazione SEO riguarda la visibilità, non la protezione dei diritti d'autore o il blocco del download."
+        },
+        {
+          "text": "Per aumentare drasticamente il peso del file e la risoluzione.",
+          "isCorrect": false,
+          "rationale": "Al contrario, è necessario ridurre il peso dei file per migliorare la velocità di caricamento della pagina."
+        },
+        {
+          "text": "Per far sì che l'immagine sostituisca completamente il testo della pagina.",
+          "isCorrect": false,
+          "rationale": "L'immagine deve integrare il testo, non sostituirlo, per una corretta comprensione semantica."
+        }
+      ],
+      "hint": "Ricorda l'importanza del 'testo alternativo' per l'accessibilità e i motori di ricerca."
+    },
+    {
+      "question": "Qual è il ruolo dei link interni in una strategia SEO?",
+      "answerOptions": [
+        {
+          "text": "Passano autorità da una pagina all'altra e aiutano Google a scoprire nuovi contenuti sul sito.",
+          "isCorrect": true,
+          "rationale": "I link interni creano una gerarchia e facilitano il trasferimento del 'link juice' tra le sezioni del sito."
+        },
+        {
+          "text": "Servono solo ad aumentare il numero totale di parole della pagina.",
+          "isCorrect": false,
+          "rationale": "I link hanno una funzione strutturale e di navigazione, non sono meri riempitivi testuali."
+        },
+        {
+          "text": "Servono a mandare via l'utente verso siti esterni più autorevoli.",
+          "isCorrect": false,
+          "rationale": "I link che mandano via l'utente sono 'esterni'; quelli interni mantengono l'utente all'interno del proprio dominio."
+        },
+        {
+          "text": "Vengono usati per nascondere pagine che non vogliamo far trovare a Google.",
+          "isCorrect": false,
+          "rationale": "I link interni servono proprio a rendere le pagine trovabili; per nasconderle si usano altri metodi come il tag 'noindex'."
+        }
+      ],
+      "hint": "Pensa a come i bot navigano da una stanza all'altra di una casa."
+    },
+    {
+      "question": "Cosa si intende per 'cannibalizzazione' delle parole chiave?",
+      "answerOptions": [
+        {
+          "text": "Quando più pagine dello stesso sito competono per la stessa parola chiave, danneggiandosi a vicenda.",
+          "isCorrect": true,
+          "rationale": "Questo confonde il motore di ricerca, che non sa quale pagina sia la più rilevante per quella query."
+        },
+        {
+          "text": "Quando un competitor ruba tutti i nostri contenuti originali.",
+          "isCorrect": false,
+          "rationale": "Il furto di contenuti è plagio o violazione di copyright, non cannibalizzazione delle keyword."
+        },
+        {
+          "text": "L'atto di inserire troppe parole chiave in un solo paragrafo (keyword stuffing).",
+          "isCorrect": false,
+          "rationale": "Il riempimento eccessivo è una tecnica di spam, mentre la cannibalizzazione riguarda la struttura delle pagine del sito."
+        },
+        {
+          "text": "L'eliminazione automatica delle keyword che non portano conversioni.",
+          "isCorrect": false,
+          "rationale": "Questa è un'ottimizzazione del piano editoriale, non ha a che fare con il termine cannibalizzazione."
+        }
+      ],
+      "hint": "Pensa a due pagine che 'si mangiano' i risultati l'una con l'altra."
+    },
+    {
+      "question": "Quale strumento viene suggerito per tracciare le metriche SEO e verificare i progressi?",
+      "answerOptions": [
+        {
+          "text": "Google Analytics.",
+          "isCorrect": true,
+          "rationale": "È lo strumento standard per monitorare il comportamento degli utenti e l'efficacia delle sorgenti di traffico."
+        },
+        {
+          "text": "Photoshop.",
+          "isCorrect": false,
+          "rationale": "Photoshop è un software di fotoritocco e non ha funzioni di analisi dati web o SEO."
+        },
+        {
+          "text": "WhatsApp Business.",
+          "isCorrect": false,
+          "rationale": "WhatsApp è un canale di comunicazione diretta, non uno strumento di tracciamento metriche del sito."
+        },
+        {
+          "text": "Telegram.",
+          "isCorrect": false,
+          "rationale": "Sebbene utile per comunicare con il professore, non è uno strumento di analisi per il posizionamento web."
+        }
+      ],
+      "hint": "È lo strumento di analisi per eccellenza di casa Google."
+    },
+    {
+      "question": "Cosa sono le 'pagine orfane'?",
+      "answerOptions": [
+        {
+          "text": "Pagine che non ricevono link interni da nessun'altra pagina del sito.",
+          "isCorrect": true,
+          "rationale": "Queste pagine sono difficili da scoprire per i crawler e solitamente hanno scarso valore SEO."
+        },
+        {
+          "text": "Pagine che sono state cancellate ma appaiono ancora in Google.",
+          "isCorrect": false,
+          "rationale": "Queste sono pagine '404' o contenuti obsoleti ancora indicizzati, non necessariamente orfane."
+        },
+        {
+          "text": "Pagine che non hanno un autore identificato.",
+          "isCorrect": false,
+          "rationale": "L'assenza di un autore riguarda l'autorevolezza del contenuto, non la struttura dei link (orfane)."
+        },
+        {
+          "text": "Pagine tradotte solo parzialmente in una lingua straniera.",
+          "isCorrect": false,
+          "rationale": "Questi sono problemi di localizzazione, non legati alla mancanza di collegamenti interni."
+        }
+      ],
+      "hint": "Considera la mancanza di 'genitori' o collegamenti che portano a quella pagina."
+    },
+    {
+      "question": "Come l'Intelligenza Artificiale Generativa (GenAI) sta cambiando la SEO?",
+      "answerOptions": [
+        {
+          "text": "Introducendo una comprensione semantica avanzata e l'automazione di processi ripetitivi.",
+          "isCorrect": true,
+          "rationale": "L'AI permette ai motori di ricerca di capire meglio l'intento dell'utente e di personalizzare i contenuti."
+        },
+        {
+          "text": "Rendendo inutile l'uso di parole chiave o testi scritti da umani.",
+          "isCorrect": false,
+          "rationale": "L'AI è un supporto; l'intento e il valore del contenuto umano rimangono centrali per il ranking."
+        },
+        {
+          "text": "Sostituendo completamente i motori di ricerca con i social media.",
+          "isCorrect": false,
+          "rationale": "L'AI evolve i motori di ricerca, non li elimina a favore delle piattaforme social."
+        },
+        {
+          "text": "Eliminando la necessità di avere un sito web mobile-friendly.",
+          "isCorrect": false,
+          "rationale": "Al contrario, l'AI e i nuovi modelli Google continuano a dare priorità all'esperienza utente su mobile."
+        }
+      ],
+      "hint": "Pensa al miglioramento della comprensione del linguaggio naturale."
+    },
+    {
+      "question": "In che modo i 'backlink da siti autorevoli' influenzano la strategia SEO?",
+      "answerOptions": [
+        {
+          "text": "Aiutano a creare fiducia agli occhi del motore di ricerca (autorità).",
+          "isCorrect": true,
+          "rationale": "Un link da un sito affidabile agisce come un 'voto' di qualità per il tuo sito."
+        },
+        {
+          "text": "Riducono automaticamente il costo delle bollette del server.",
+          "isCorrect": false,
+          "rationale": "Non c'è alcuna relazione tra l'autorità SEO e i costi operativi dell'hosting fisico."
+        },
+        {
+          "text": "Servono a nascondere il sito web ai motori di ricerca concorrenti.",
+          "isCorrect": false,
+          "rationale": "I backlink aumentano la visibilità globale, non servono a nascondersi."
+        },
+        {
+          "text": "Sono obbligatori per legge per ogni nuovo sito web.",
+          "isCorrect": false,
+          "rationale": "I backlink sono una pratica di marketing, non un requisito legale."
+        }
+      ],
+      "hint": "Sono paragonabili a raccomandazioni o citazioni in ambito accademico."
+    },
+    {
+      "question": "Qual è l'importanza della velocità di caricamento per il posizionamento su Google?",
+      "answerOptions": [
+        {
+          "text": "È un fattore di ranking confermato sia per le ricerche desktop che mobile.",
+          "isCorrect": true,
+          "rationale": "Siti lenti offrono una cattiva esperienza utente e vengono penalizzati da Google."
+        },
+        {
+          "text": "È importante solo per i siti che vendono prodotti molto costosi.",
+          "isCorrect": false,
+          "rationale": "La velocità è un fattore universale che riguarda ogni tipo di sito web, indipendentemente dal modello di business."
+        },
+        {
+          "text": "Google non tiene conto della velocità se il contenuto è molto lungo.",
+          "isCorrect": false,
+          "rationale": "L'esperienza utente (UX), inclusa la velocità, è fondamentale anche per i contenuti di alta qualità."
+        },
+        {
+          "text": "Serve solo a far risparmiare tempo ai dipendenti dell'azienda.",
+          "isCorrect": false,
+          "rationale": "La velocità influisce direttamente sul posizionamento e sulla soddisfazione degli utenti esterni."
+        }
+      ],
+      "hint": "Consulta lo strumento PageSpeed Insights menzionato nelle slide."
+    },
+    {
+      "question": "Quale di questi strumenti serve per comunicare direttamente con Google in merito a eventuali errori di scansione?",
+      "answerOptions": [
+        {
+          "text": "Google Search Console (GSC).",
+          "isCorrect": true,
+          "rationale": "GSC permette di monitorare lo stato dell'indicizzazione e ricevere avvisi su problemi tecnici."
+        },
+        {
+          "text": "Google Sheets.",
+          "isCorrect": false,
+          "rationale": "Google Sheets è un foglio di calcolo utile per i dati, ma non è un'interfaccia di comunicazione tecnica con Google Search."
+        },
+        {
+          "text": "Adobe Illustrator.",
+          "isCorrect": false,
+          "rationale": "È un software di grafica vettoriale, non correlato alla gestione degli errori di scansione SEO."
+        },
+        {
+          "text": "Google Maps.",
+          "isCorrect": false,
+          "rationale": "Sebbene legato alla SEO locale, non è lo strumento principale per gestire gli errori di scansione dell'intero sito."
+        }
+      ],
+      "hint": "È menzionato nella checklist di base insieme a Bing Webmaster Tools."
+    },
+    {
+      "question": "Cosa si consiglia di fare con i 'contenuti esistenti' per migliorare la SEO velocemente?",
+      "answerOptions": [
+        {
+          "text": "Aggiornarli e ottimizzarli periodicamente.",
+          "isCorrect": true,
+          "rationale": "Rinfrescare vecchi articoli è spesso più veloce ed efficace che scriverne di nuovi da zero."
+        },
+        {
+          "text": "Cancellare la data di pubblicazione per farli sembrare nuovi.",
+          "isCorrect": false,
+          "rationale": "Questa è una pratica ingannevole che non sostituisce il reale aggiornamento del valore del contenuto."
+        },
+        {
+          "text": "Cambiare il colore del font ogni settimana.",
+          "isCorrect": false,
+          "rationale": "Le modifiche puramente estetiche e superficiali non hanno impatto diretto sul ranking SEO."
+        },
+        {
+          "text": "Tradurre tutto il testo in latino.",
+          "isCorrect": false,
+          "rationale": "A meno che il target non sia composto da latinisti, questa azione ridurrebbe drasticamente il traffico."
+        }
+      ],
+      "hint": "Pensa alla manutenzione di un giardino invece che al piantare nuovi semi."
+    },
+    {
+      "question": "Nella checklist SEO tecnica, perché si raccomanda l'uso di HTTPS?",
+      "answerOptions": [
+        {
+          "text": "Per garantire una connessione sicura e protetta tra il server e l'utente.",
+          "isCorrect": true,
+          "rationale": "La sicurezza è un segnale di ranking positivo per Google e protegge i dati degli utenti."
+        },
+        {
+          "text": "Perché le lettere HTTPS sono più belle da vedere nella barra degli indirizzi.",
+          "isCorrect": false,
+          "rationale": "L'uso di HTTPS è legato a criteri di sicurezza e crittografia, non a motivi estetici."
+        },
+        {
+          "text": "Per aumentare la velocità di connessione internet dell'utente finale.",
+          "isCorrect": false,
+          "rationale": "L'HTTPS protegge i dati ma non accelera la velocità della linea internet dell'utente."
+        },
+        {
+          "text": "Per impedire a Google di leggere il contenuto del sito.",
+          "isCorrect": false,
+          "rationale": "Al contrario, Google favorisce l'indicizzazione di siti sicuri tramite HTTPS."
+        }
+      ],
+      "hint": "Cerca la differenza tra un protocollo 'S'icuro e uno che non lo è."
+    },
+    {
+      "question": "Cosa significa che Google ora utilizza un indice 'Mobile-friendly'?",
+      "answerOptions": [
+        {
+          "text": "Google tiene conto principalmente della versione mobile del sito per l'indicizzazione.",
+          "isCorrect": true,
+          "rationale": "Con il mobile-first indexing, la versione per smartphone è il riferimento primario per il ranking."
+        },
+        {
+          "text": "I siti web possono essere visualizzati solo su smartphone.",
+          "isCorrect": false,
+          "rationale": "I siti restano visibili su desktop, ma la valutazione della qualità avviene sulla versione mobile."
+        },
+        {
+          "text": "Ogni sito deve avere un'app scaricabile dall'App Store.",
+          "isCorrect": false,
+          "rationale": "Essere mobile-friendly significa avere un sito responsive, non necessariamente un'applicazione nativa."
+        },
+        {
+          "text": "Le ricerche fatte da computer fisso non esistono più.",
+          "isCorrect": false,
+          "rationale": "Le ricerche desktop esistono ancora, ma Google preferisce valutare la prontezza mobile del sito."
+        }
+      ],
+      "hint": "Rifletti sulla tendenza degli utenti a navigare sempre più in mobilità."
+    },
+    {
+      "question": "Quale elemento della pagina aiuta i motori di ricerca a capire di cosa tratta un'immagine?",
+      "answerOptions": [
+        {
+          "text": "Il tag ALT (testo alternativo).",
+          "isCorrect": true,
+          "rationale": "Il tag ALT fornisce una descrizione testuale fondamentale per l'accessibilità e per l'indicizzazione delle immagini."
+        },
+        {
+          "text": "La luminosità dell'immagine.",
+          "isCorrect": false,
+          "rationale": "I parametri visivi puri non spiegano il contesto semantico al motore di ricerca."
+        },
+        {
+          "text": "Il nome del fotografo nei metadati EXIF.",
+          "isCorrect": false,
+          "rationale": "Sebbene utile, non è l'elemento chiave per la SEO on-page come invece lo è il tag ALT."
+        },
+        {
+          "text": "Il bordo colorato intorno alla foto.",
+          "isCorrect": false,
+          "rationale": "Lo stile grafico non influisce sulla comprensione del contenuto dell'immagine da parte dei bot."
+        }
+      ],
+      "hint": "È un attributo HTML che viene letto anche dagli screen reader per non vedenti."
+    },
+    {
+      "question": "Secondo le slide, qual è un vantaggio dell'uso dell'AI nella SEO per quanto riguarda i contenuti?",
+      "answerOptions": [
+        {
+          "text": "Personalizzazione dei contenuti in base all'utente.",
+          "isCorrect": true,
+          "rationale": "L'AI può aiutare a servire il contenuto giusto alla persona giusta basandosi sui suoi schemi di ricerca."
+        },
+        {
+          "text": "Scrittura di testi identici per migliaia di siti web diversi.",
+          "isCorrect": false,
+          "rationale": "Creare contenuti identici (spam) è punito dai motori di ricerca; l'AI dovrebbe puntare alla qualità."
+        },
+        {
+          "text": "Eliminazione totale dei link esterni.",
+          "isCorrect": false,
+          "rationale": "L'AI non rimuove l'importanza delle citazioni e dei collegamenti esterni in una rete web."
+        },
+        {
+          "text": "Sostituzione del sito web con un semplice file di testo.",
+          "isCorrect": false,
+          "rationale": "L'AI arricchisce l'esperienza multimediale, non semplifica il web a soli file di testo."
+        }
+      ],
+      "hint": "Pensa a come le piattaforme mostrano cose diverse a utenti diversi."
+    },
+    {
+      "question": "Cosa si dovrebbe fare se una pagina ha dei 'Tag Title duplicati'?",
+      "answerOptions": [
+        {
+          "text": "Correggerli rendendo ogni titolo unico e descrittivo per quella specifica pagina.",
+          "isCorrect": true,
+          "rationale": "Titoli unici aiutano Google e gli utenti a capire la specificità di ogni sezione del sito."
+        },
+        {
+          "text": "Cancellare il titolo per lasciare solo l'URL.",
+          "isCorrect": false,
+          "rationale": "Il tag Title è uno degli elementi on-page più importanti; lasciarlo vuoto è un grave errore SEO."
+        },
+        {
+          "text": "Ignorarli, perché Google corregge i titoli automaticamente.",
+          "isCorrect": false,
+          "rationale": "Sebbene Google possa riscriverli, avere titoli duplicati indica una scarsa ottimizzazione strutturale."
+        },
+        {
+          "text": "Aggiungere numeri casuali alla fine di ogni titolo.",
+          "isCorrect": false,
+          "rationale": "I titoli devono essere rilevanti e sensati per l'utente, non semplici stringhe di caratteri casuali."
+        }
+      ],
+      "hint": "Ogni pagina del tuo sito è unica, quindi anche il suo 'nome' dovrebbe esserlo."
+    },
+    {
+      "question": "Qual è una funzione dei 'dati strutturati' menzionati nella SEO tecnica?",
+      "answerOptions": [
+        {
+          "text": "Aiutare i motori di ricerca a capire meglio il contesto dei dati (es. recensioni, prezzi, eventi).",
+          "isCorrect": true,
+          "rationale": "Forniscono un formato standardizzato per classificare le informazioni sulla pagina."
+        },
+        {
+          "text": "Crittografare le password degli utenti del sito.",
+          "isCorrect": false,
+          "rationale": "La sicurezza delle password è gestita da protocolli di backend e database, non dai dati strutturati SEO."
+        },
+        {
+          "text": "Tradurre automaticamente il sito in linguaggio binario.",
+          "isCorrect": false,
+          "rationale": "Tutto il codice è binario a basso livello, ma i dati strutturati servono per la comprensione semantica."
+        },
+        {
+          "text": "Rendere il sito inaccessibile ai bot dei concorrenti.",
+          "isCorrect": false,
+          "rationale": "I dati strutturati servono a farsi capire meglio da Google, non a bloccare terzi."
+        }
+      ],
+      "hint": "Cerca il collegamento con il termine 'Schema.org' o il markup dei contenuti."
+    },
+    {
+      "question": "Che cosa suggerisce di fare la checklist in caso di 'link interni rotti'?",
+      "answerOptions": [
+        {
+          "text": "Trovarli e correggerli per non interrompere la navigazione dell'utente e dei bot.",
+          "isCorrect": true,
+          "rationale": "I link rotti creano frustrazione nell'utente e sprecano il 'crawl budget' dei motori di ricerca."
+        },
+        {
+          "text": "Sostituirli tutti con link alla home page.",
+          "isCorrect": false,
+          "rationale": "Mandare tutti i link rotti alla home page non è una buona pratica UX e non risolve il problema della pertinenza."
+        },
+        {
+          "text": "Lasciarli così per dimostrare che il sito è 'vissuto'.",
+          "isCorrect": false,
+          "rationale": "I link rotti sono percepiti come segno di scarsa manutenzione e professionalità."
+        },
+        {
+          "text": "Chiedere agli utenti di non cliccare su quei link.",
+          "isCorrect": false,
+          "rationale": "È responsabilità del proprietario del sito mantenere i collegamenti funzionanti, non dell'utente evitarli."
+        }
+      ],
+      "hint": "Pensa a un cartello stradale che indica una via che non esiste più."
+    },
+    {
+      "question": "Nella strategia di miglioramento SEO, cosa significa 'Puntare su parole chiave a bassa concorrenza'?",
+      "answerOptions": [
+        {
+          "text": "Scegliere keyword specifiche con cui è più facile posizionarsi nelle prime posizioni.",
+          "isCorrect": true,
+          "rationale": "È più efficace dominare nicchie specifiche piuttosto che fallire nel competere su termini troppo generici."
+        },
+        {
+          "text": "Usare parole chiave che nessuno ha mai cercato su internet.",
+          "isCorrect": false,
+          "rationale": "Le keyword devono comunque avere un volume di ricerca, altrimenti non porteranno traffico."
+        },
+        {
+          "text": "Cercare parole chiave che sono state vietate da Google.",
+          "isCorrect": false,
+          "rationale": "L'uso di termini vietati può portare al ban del sito, non a un miglioramento del posizionamento."
+        },
+        {
+          "text": "Scegliere parole chiave che hanno il costo per clic (CPC) più alto.",
+          "isCorrect": false,
+          "rationale": "Il CPC alto indica solitamente un'alta concorrenza, l'esatto opposto di ciò che suggerisce il punto 3 della strategia."
+        }
+      ],
+      "hint": "Si riferisce alle 'parole chiave a coda lunga' descritte in precedenza."
+    }
+  ]
+}

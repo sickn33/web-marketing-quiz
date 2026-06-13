@@ -313,6 +313,19 @@
       line-height: 1.45;
     }
 
+    .feedback p {
+      margin: 0;
+    }
+
+    .feedback p + p {
+      margin-top: 8px;
+    }
+
+    .feedback strong {
+      color: var(--ink);
+      font-weight: 780;
+    }
+
     .feedback.good { color: var(--good); }
     .feedback.bad { color: var(--bad); }
 
@@ -669,7 +682,7 @@
     <header class="topbar">
       <h1>Quiz Web Marketing</h1>
     </header>
-    <p class="subhead">50 domande casuali da un banco di 500 quesiti costruito sugli appunti Granato, Michelini e sulla traccia d’esame precedente.</p>
+    <p class="subhead">50 domande casuali da un banco di oltre 500 quesiti costruito sugli appunti Granato, Michelini, NotebookLM e sulla traccia d’esame precedente.</p>
     <div class="toolbar">
       <button id="restartBtn" type="button">Nuovo quiz</button>
       <button id="reviewModeBtn" type="button">Ripassa errori</button>
@@ -687,7 +700,7 @@
         <div class="progress" aria-hidden="true"><span id="progressBar"></span></div>
         <div class="question-body">
           <div class="answers" id="answers"></div>
-          <p class="feedback" id="feedback" aria-live="polite"></p>
+          <div class="feedback" id="feedback" aria-live="polite"></div>
         </div>
         <div class="card-actions">
           <button id="prevBtn" type="button">Indietro</button>
@@ -945,7 +958,7 @@
         els.questionText.textContent = "Non ci sono domande con i filtri attuali.";
         els.questionCount.textContent = "";
         els.answers.innerHTML = "";
-        els.feedback.textContent = "Cambia filtro o disattiva il ripasso errori.";
+        els.feedback.innerHTML = "Cambia filtro o disattiva il ripasso errori.";
         els.feedback.className = "feedback";
         els.progressBar.style.width = "0%";
         els.prevBtn.disabled = true;
@@ -977,19 +990,41 @@
         `;
       }).join("");
 
+      renderFeedback(q, selected, revealed);
+    }
+
+    function renderFeedback(q, selected, revealed) {
+      const parts = [];
+      let className = "feedback";
+
       if (!selected && !revealed) {
-        els.feedback.textContent = "Scegli una risposta.";
-        els.feedback.className = "feedback";
+        parts.push(q.hint
+          ? `<p><strong>Indizio:</strong> ${escapeHtml(q.hint)}</p>`
+          : "<p>Scegli una risposta.</p>");
       } else if (selected === q.answer) {
-        els.feedback.textContent = "Corretto.";
-        els.feedback.className = "feedback good";
+        className = "feedback good";
+        parts.push("<p>Corretto.</p>");
+        if (q.rationales?.[q.answer]) {
+          parts.push(`<p><strong>Perché:</strong> ${escapeHtml(q.rationales[q.answer])}</p>`);
+        }
       } else if (revealed && !selected) {
-        els.feedback.textContent = "Risposta corretta evidenziata.";
-        els.feedback.className = "feedback";
+        parts.push("<p>Risposta corretta evidenziata.</p>");
+        if (q.rationales?.[q.answer]) {
+          parts.push(`<p><strong>Perché:</strong> ${escapeHtml(q.rationales[q.answer])}</p>`);
+        }
       } else {
-        els.feedback.textContent = "Non corretta. La risposta giusta è evidenziata.";
-        els.feedback.className = "feedback bad";
+        className = "feedback bad";
+        parts.push("<p>Non corretta. La risposta giusta è evidenziata.</p>");
+        if (q.rationales?.[selected]) {
+          parts.push(`<p><strong>La tua scelta:</strong> ${escapeHtml(q.rationales[selected])}</p>`);
+        }
+        if (q.rationales?.[q.answer]) {
+          parts.push(`<p><strong>Risposta corretta:</strong> ${escapeHtml(q.rationales[q.answer])}</p>`);
+        }
       }
+
+      els.feedback.className = className;
+      els.feedback.innerHTML = parts.join("");
     }
 
     function choose(letter) {

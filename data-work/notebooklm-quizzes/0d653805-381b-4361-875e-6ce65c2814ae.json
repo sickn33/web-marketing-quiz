@@ -1,0 +1,786 @@
+{
+  "title": "Marketing Quiz",
+  "questions": [
+    {
+      "question": "Qual è la definizione corretta di 'Search Intent' secondo il materiale del Prof. Granato?",
+      "answerOptions": [
+        {
+          "text": "La velocità con cui un utente digita una query sulla tastiera.",
+          "isCorrect": false,
+          "rationale": "La velocità di digitazione è un parametro tecnico o comportamentale, ma non definisce la motivazione psicologica della ricerca."
+        },
+        {
+          "text": "Il motivo principale per cui un utente esegue una ricerca online.",
+          "isCorrect": true,
+          "rationale": "L'intenzione di ricerca riflette il bisogno specifico (informativo, transazionale, ecc.) che spinge l'utente a utilizzare un motore di ricerca."
+        },
+        {
+          "text": "Il numero di parole chiave contenute in una singola pagina web.",
+          "isCorrect": false,
+          "rationale": "Il conteggio delle parole chiave riguarda l'ottimizzazione on-page, non l'intento dell'utente che effettua la query."
+        },
+        {
+          "text": "L'algoritmo utilizzato da Google per indicizzare i contenuti video.",
+          "isCorrect": false,
+          "rationale": "Gli algoritmi sono strumenti tecnici del motore di ricerca, mentre la search intent riguarda il comportamento umano."
+        }
+      ],
+      "hint": "Considera la motivazione psicologica che sta dietro l'azione dell'utente."
+    },
+    {
+      "question": "Secondo la definizione di Content Marketing, qual è lo scopo ultimo della distribuzione di contenuti di valore?",
+      "text": "L'obiettivo finale è guidare azioni profittevoli dei clienti.",
+      "answerOptions": [
+        {
+          "text": "Sostituire completamente la forza vendita tradizionale.",
+          "isCorrect": false,
+          "rationale": "Il marketing dei contenuti supporta le vendite creando fiducia, ma raramente mira a eliminare del tutto il fattore umano nel business."
+        },
+        {
+          "text": "Aumentare esclusivamente il numero di 'like' sui social media.",
+          "isCorrect": false,
+          "rationale": "Le metriche di vanità come i like possono essere un segnale, ma l'obiettivo strategico deve tradursi in risultati di business tangibili."
+        },
+        {
+          "text": "Guidare azioni profittevoli dei clienti attraverso la fidelizzazione.",
+          "isCorrect": true,
+          "rationale": "Il content marketing è strategico perché mira a creare una relazione duratura che porti a un ritorno economico."
+        },
+        {
+          "text": "Riempire il sito web di testo per ingannare i motori di ricerca.",
+          "isCorrect": false,
+          "rationale": "L'uso di contenuti solo per scopi SEO senza valore per l'utente è una pratica sconsigliata e contraria ai principi del content marketing."
+        }
+      ],
+      "hint": "Pensa al risultato economico e strategico di lungo periodo."
+    },
+    {
+      "question": "Nel modello di Vernuccio (2013), cosa caratterizza un'azienda che opera a 'Livello Tattico'?",
+      "answerOptions": [
+        {
+          "text": "L'uso dei social media come unico canale di vendita diretta.",
+          "isCorrect": false,
+          "rationale": "L'uso di canali per la vendita diretta implica già una certa maturità strategica che va oltre il semplice tatticismo informativo."
+        },
+        {
+          "text": "L'integrazione totale tra strategia di business online e offline.",
+          "isCorrect": false,
+          "rationale": "L'integrazione omnicanale è tipica del livello strategico, non di quello puramente tattico."
+        },
+        {
+          "text": "L'impiego degli strumenti digitali principalmente per scopi comunicativi e informativi.",
+          "isCorrect": true,
+          "rationale": "A questo livello, il digitale è visto come un'aggiunta tecnica senza una connessione profonda con gli obiettivi di business complessivi."
+        },
+        {
+          "text": "La trasformazione del modello di business in una piattaforma Pure Play.",
+          "isCorrect": false,
+          "rationale": "Il Pure Play rappresenta il massimo livello di integrazione digitale (Core Business), non il livello base."
+        }
+      ],
+      "hint": "Rifletti sul concetto di 'sito vetrina'."
+    },
+    {
+      "question": "Quale delle seguenti affermazioni descrive correttamente il 'Livello Strategico' nell'utilizzo del digital marketing?",
+      "answerOptions": [
+        {
+          "text": "L'azienda non possiede un sito web ma solo pagine social.",
+          "isCorrect": false,
+          "rationale": "La mancanza di un presidio proprietario è raramente parte di una strategia strutturata a livello aziendale."
+        },
+        {
+          "text": "Esiste una definizione di obiettivi di business specifici per il digitale integrati con l'offline.",
+          "isCorrect": true,
+          "rationale": "Il passaggio al livello strategico avviene quando l'online smette di essere un silo isolato e diventa parte del piano di business."
+        },
+        {
+          "text": "Il digital marketing viene utilizzato solo per gestire i reclami dei clienti.",
+          "isCorrect": false,
+          "rationale": "La gestione dei reclami è una funzione operativa o di customer service, non una strategia di marketing completa."
+        },
+        {
+          "text": "L'azienda si limita a pubblicare una brochure digitale statica.",
+          "isCorrect": false,
+          "rationale": "La brochure digitale statica (sito vetrina) è la caratteristica distintiva del livello tattico."
+        }
+      ],
+      "hint": "Cerca la parola chiave legata all'approccio omnicanale."
+    },
+    {
+      "question": "In informatica, qual è la relazione numerica corretta tra bit e byte?",
+      "answerOptions": [
+        {
+          "text": "Un bit è composto da 8 byte.",
+          "isCorrect": false,
+          "rationale": "Questa affermazione inverte la gerarchia delle unità di misura informatiche."
+        },
+        {
+          "text": "Un byte è una serie di 8 bit.",
+          "isCorrect": true,
+          "rationale": "Il byte è l'unità di misura fondamentale derivata, composta appunto da otto cifre binarie (bit)."
+        },
+        {
+          "text": "Un bit e un byte sono sinonimi della stessa unità minima.",
+          "isCorrect": false,
+          "rationale": "Il bit è l'unità minima assoluta ($0$ o $1$), mentre il byte è un raggruppamento di bit."
+        },
+        {
+          "text": "Servono 1024 bit per formare un byte.",
+          "isCorrect": false,
+          "rationale": "Il numero 1024 è associato ai multipli come i kilobyte, non alla formazione del singolo byte."
+        }
+      ],
+      "hint": "Pensa alla struttura binaria standard dell'informazione."
+    },
+    {
+      "question": "Perché i dati digitali sono definiti 'discreti' a differenza di quelli analogici?",
+      "answerOptions": [
+        {
+          "text": "Perché non possono essere condivisi pubblicamente.",
+          "isCorrect": false,
+          "rationale": "La 'discretezza' nel contesto digitale si riferisce alla natura dei segnali, non alla privacy dei dati."
+        },
+        {
+          "text": "Perché cambiano continuamente nel tempo senza interruzioni.",
+          "isCorrect": false,
+          "rationale": "Il cambiamento continuo è la caratteristica dei dati analogici, non di quelli digitali."
+        },
+        {
+          "text": "Perché cambiano tra stati distinti e finiti, come $0$ e $1$.",
+          "isCorrect": true,
+          "rationale": "I sistemi digitali operano su stati definiti (on/off), creando una separazione netta tra i valori."
+        },
+        {
+          "text": "Perché sono meno precisi rispetto ai segnali meccanici.",
+          "isCorrect": false,
+          "rationale": "La precisione non è il fattore che definisce la natura discreta del segnale, ma piuttosto la sua codifica."
+        }
+      ],
+      "hint": "Ricorda la distinzione tra segnale continuo e segnale binario."
+    },
+    {
+      "question": "Qual è uno dei principali problemi delle ricerche di mercato online evidenziato nelle slide?",
+      "answerOptions": [
+        {
+          "text": "L'eccessivo costo delle piattaforme di indagine.",
+          "isCorrect": false,
+          "rationale": "Al contrario, le ricerche online sono spesso citate come più economiche rispetto a quelle tradizionali."
+        },
+        {
+          "text": "La difficoltà nel garantire che il campione indagato sia realmente in target.",
+          "isCorrect": true,
+          "rationale": "L'anonimato e la fluidità del web rendono complesso verificare l'identità e le caratteristiche reali dei rispondenti."
+        },
+        {
+          "text": "L'impossibilità di raggiungere un numero elevato di persone.",
+          "isCorrect": false,
+          "rationale": "Il web permette di raggiungere una molteplicità di individui, superando i limiti geografici."
+        },
+        {
+          "text": "La lentezza nella raccolta dei dati grezzi.",
+          "isCorrect": false,
+          "rationale": "La velocità di raccolta è uno dei vantaggi principali delle indagini digitali."
+        }
+      ],
+      "hint": "Pensa all'affidabilità dei partecipanti alle indagini via web."
+    },
+    {
+      "question": "Secondo le lezioni, cosa deve cercare di ridurre l'impresa attraverso le ricerche di mercato?",
+      "answerOptions": [
+        {
+          "text": "Il numero di dipendenti del dipartimento marketing.",
+          "isCorrect": false,
+          "rationale": "Le ricerche servono a potenziare le decisioni, non necessariamente a ridurre l'organico."
+        },
+        {
+          "text": "L'asimmetria informativa.",
+          "isCorrect": true,
+          "rationale": "L'obiettivo è colmare il gap di conoscenza tra ciò che l'impresa sa e ciò che il mercato realmente desidera o fa."
+        },
+        {
+          "text": "La qualità dei prodotti per risparmiare sui costi.",
+          "isCorrect": false,
+          "rationale": "Le ricerche mirano solitamente a migliorare l'offerta, non a degradarla consapevolmente."
+        },
+        {
+          "text": "La pressione fiscale sulle vendite online.",
+          "isCorrect": false,
+          "rationale": "La fiscalità è un fattore esterno normativo, non influenzabile dalle ricerche di marketing dell'impresa."
+        }
+      ],
+      "hint": "Si tratta di un termine legato alla mancanza di conoscenza equilibrata tra due parti."
+    },
+    {
+      "question": "Nelle caratteristiche del nuovo consumatore, cosa significa il termine 'Prosumer'?",
+      "answerOptions": [
+        {
+          "text": "Un consumatore che acquista solo prodotti in promozione.",
+          "isCorrect": false,
+          "rationale": "Questo descrive un comportamento orientato al prezzo, non la fusione dei ruoli di produzione e consumo."
+        },
+        {
+          "text": "Un consumatore passivo che accetta ogni narrazione del brand.",
+          "isCorrect": false,
+          "rationale": "Il consumatore moderno è descritto come attivo e critico, non passivo."
+        },
+        {
+          "text": "Un utente che non solo consuma, ma produce e collabora ai contenuti del brand.",
+          "isCorrect": true,
+          "rationale": "Il termine unisce 'Producer' e 'Consumer', evidenziando la partecipazione attiva nella creazione di valore."
+        },
+        {
+          "text": "Un professionista del marketing che lavora per grandi multinazionali.",
+          "isCorrect": false,
+          "rationale": "Sebbene possa esserlo, il termine prosumer si riferisce specificamente a una nuova dinamica di consumo di massa."
+        }
+      ],
+      "hint": "Combina le parole 'produttore' e 'consumatore'."
+    },
+    {
+      "question": "Qual è il trade-off tradizionale che le tecnologie digitali stanno cercando di superare nelle ricerche?",
+      "answerOptions": [
+        {
+          "text": "Qualità vs Prezzo.",
+          "isCorrect": false,
+          "rationale": "Questo è un trade-off generale di prodotto, non specifico delle metodologie di ricerca informativa."
+        },
+        {
+          "text": "Reach (Raggiungimento) vs Richness (Ricchezza dell'informazione).",
+          "isCorrect": true,
+          "rationale": "Storicamente, raggiungere molte persone significava avere dati superficiali; il digitale punta ad avere dati ricchi su vasta scala."
+        },
+        {
+          "text": "Velocità vs Precisione.",
+          "isCorrect": false,
+          "rationale": "Sebbene esistente, non è il binomio fondamentale rappresentato nel grafico delle slide sulle ricerche."
+        },
+        {
+          "text": "Offline vs Online.",
+          "isCorrect": false,
+          "rationale": "Questi sono canali, non parametri di un trade-off sulla qualità dell'informazione raccolta."
+        }
+      ],
+      "hint": "Pensa alla quantità di persone raggiunte rispetto alla profondità del dato ottenuto."
+    },
+    {
+      "question": "Secondo Frederic Beigbeder, citato nelle slide, perché i pubblicitari sono considerati 'bad people'?",
+      "answerOptions": [
+        {
+          "text": "Perché utilizzano troppa carta per i volantini inquinando l'ambiente.",
+          "isCorrect": false,
+          "rationale": "L'autore usa il termine 'pollute' (inquinare) in senso metaforico riguardo ai desideri umani, non solo fisico."
+        },
+        {
+          "text": "Perché le persone felici non consumano.",
+          "isCorrect": true,
+          "rationale": "La tesi provocatoria è che il marketing debba generare insoddisfazione per stimolare nuovi acquisti."
+        },
+        {
+          "text": "Perché vendono prodotti che non funzionano mai.",
+          "isCorrect": false,
+          "rationale": "La critica di Beigbeder è più filosofica e legata alla manipolazione della felicità che alla qualità tecnica dei beni."
+        },
+        {
+          "text": "Perché non pagano correttamente i creatori di contenuti.",
+          "isCorrect": false,
+          "rationale": "Questa è una problematica moderna dell'economia digitale, ma non è il punto centrale della citazione del 2000."
+        }
+      ],
+      "hint": "Cerca la connessione tra lo stato emotivo di felicità e l'atto di acquisto."
+    },
+    {
+      "question": "Quale tra questi è un esempio di 'dispositivo' (device) digitale e non di 'piattaforma'?",
+      "answerOptions": [
+        {
+          "text": "Social Network.",
+          "isCorrect": false,
+          "rationale": "I social network sono ambienti virtuali o piattaforme dove avvengono le interazioni."
+        },
+        {
+          "text": "Web (Siti internet).",
+          "isCorrect": false,
+          "rationale": "Il World Wide Web è l'infrastruttura logica/piattaforma che ospita i contenuti."
+        },
+        {
+          "text": "Smartphone.",
+          "isCorrect": true,
+          "rationale": "Lo smartphone è l'oggetto fisico (hardware) utilizzato per accedere alle piattaforme digitali."
+        },
+        {
+          "text": "Televisione digitale (come servizio).",
+          "isCorrect": false,
+          "rationale": "Se intesa come protocollo di trasmissione, è considerata una piattaforma di distribuzione."
+        }
+      ],
+      "hint": "Identifica l'elemento fisico tangibile."
+    },
+    {
+      "question": "Qual è il ruolo principale dei backlink in una strategia SEO?",
+      "answerOptions": [
+        {
+          "text": "Sono collegamenti pubblicitari a pagamento obbligatori per apparire su Google.",
+          "isCorrect": false,
+          "rationale": "I backlink per la SEO sono organici; quelli a pagamento appartengono al campo della SEA (Search Engine Advertising)."
+        },
+        {
+          "text": "Aiutano a migliorare il posizionamento organico se provengono da siti autorevoli.",
+          "isCorrect": true,
+          "rationale": "I motori di ricerca vedono i link in entrata come 'voti' di fiducia che attestano la rilevanza del sito."
+        },
+        {
+          "text": "Servono solo per contare quanti utenti escono dal sito web.",
+          "isCorrect": false,
+          "rationale": "I link in uscita hanno altre funzioni; la forza della SEO risiede principalmente nei link in entrata (backlink)."
+        },
+        {
+          "text": "Riducono la velocità di caricamento delle pagine web.",
+          "isCorrect": false,
+          "rationale": "Sebbene troppi script esterni possano rallentare un sito, i backlink di per sé non influenzano la velocità tecnica della pagina."
+        }
+      ],
+      "hint": "Pensa ai link come a dei certificati di autorevolezza rilasciati da altri."
+    },
+    {
+      "question": "Quali sono le tre fasi principali del Customer Journey menzionate nel documento di domande?",
+      "answerOptions": [
+        {
+          "text": "Ricerca - Acquisto - Reclamo.",
+          "isCorrect": false,
+          "rationale": "Il reclamo è solo una possibile evenienza, non una fase standard del percorso ideale."
+        },
+        {
+          "text": "Produzione - Distribuzione - Consumo.",
+          "isCorrect": false,
+          "rationale": "Queste sono fasi della supply chain o del ciclo economico, non del percorso decisionale del cliente."
+        },
+        {
+          "text": "Consapevolezza - Valutazione attiva - Esperienza post-vendita.",
+          "isCorrect": true,
+          "rationale": "Questi stadi descrivono come l'utente scopre il brand, lo confronta e interagisce dopo l'acquisto."
+        },
+        {
+          "text": "Attrazione - Conversione - Abbandono.",
+          "isCorrect": false,
+          "rationale": "L'abbandono è il fallimento del journey, che invece punta alla fidelizzazione e all'esperienza positiva."
+        }
+      ],
+      "hint": "Considera l'intero ciclo di vita del cliente, dal primo contatto a dopo la transazione."
+    },
+    {
+      "question": "Nel contesto dell'economia digitale, cosa si intende per 'Network Interattivo'?",
+      "answerOptions": [
+        {
+          "text": "Una rete di cavi sottomarini per la fibra ottica.",
+          "isCorrect": false,
+          "rationale": "Questa è l'infrastruttura fisica, non la caratteristica relazionale del mercato digitale."
+        },
+        {
+          "text": "La capacità degli utenti di interagire tra loro e con le imprese in tempo reale.",
+          "isCorrect": true,
+          "rationale": "Il network digitale permette una comunicazione bidirezionale e molti-a-molti che trasforma le relazioni di mercato."
+        },
+        {
+          "text": "Un software che blocca le pubblicità indesiderate.",
+          "isCorrect": false,
+          "rationale": "Gli ad-blocker sono strumenti di difesa dell'utente, non definiscono la natura interattiva della rete."
+        },
+        {
+          "text": "Il numero massimo di computer collegabili a un router aziendale.",
+          "isCorrect": false,
+          "rationale": "Questo è un limite tecnico hardware di rete locale (LAN)."
+        }
+      ],
+      "hint": "Rifletti sulla direzione della comunicazione (da uno a molti vs molti a molti)."
+    },
+    {
+      "question": "Perché un 'sito vetrina' è considerato tipico del livello tattico?",
+      "answerOptions": [
+        {
+          "text": "Perché richiede investimenti tecnologici massicci e complessi.",
+          "isCorrect": false,
+          "rationale": "Un sito vetrina è solitamente semplice e a basso costo, l'opposto di un sistema complesso."
+        },
+        {
+          "text": "Perché presenta scarsi livelli di interattività e funziona come una brochure digitale.",
+          "isCorrect": true,
+          "rationale": "Il suo scopo è solo informativo e unidirezionale, senza integrazione con i processi di business."
+        },
+        {
+          "text": "Perché permette di gestire l'intera logistica aziendale online.",
+          "isCorrect": false,
+          "rationale": "La gestione della logistica online è caratteristica dei livelli strategici o core business."
+        },
+        {
+          "text": "Perché viene aggiornato automaticamente tramite intelligenza artificiale.",
+          "isCorrect": false,
+          "rationale": "L'automazione avanzata non è una caratteristica del livello tattico di base descritto da Vernuccio."
+        }
+      ],
+      "hint": "Pensa alla limitata capacità di dialogo con l'utente."
+    },
+    {
+      "question": "Quale di queste domande è fondamentale per scegliere il livello di utilizzo del digital marketing?",
+      "answerOptions": [
+        {
+          "text": "Qual è il colore preferito del CEO dell'azienda?",
+          "isCorrect": false,
+          "rationale": "Le preferenze estetiche personali non sono criteri strategici per l'adozione del marketing digitale."
+        },
+        {
+          "text": "Qual è il macro-scenario di riferimento (es. infrastrutture digitali)?",
+          "isCorrect": true,
+          "rationale": "Lo stato delle infrastrutture tecnologiche nel mercato di riferimento determina cosa è possibile fare operativamente."
+        },
+        {
+          "text": "Quanti caffè consumano in media i dipendenti?",
+          "isCorrect": false,
+          "rationale": "Il consumo interno di beni non influenza la scelta del modello di business digitale verso il mercato."
+        },
+        {
+          "text": "Qual è il numero di serie dei server aziendali?",
+          "isCorrect": false,
+          "rationale": "Questo è un dettaglio di inventario tecnico, non una domanda di pianificazione strategica."
+        }
+      ],
+      "hint": "Cerca un fattore ambientale esterno legato alla tecnologia."
+    },
+    {
+      "question": "Cosa si intende per 'Consumer Empowerment' nel mercato digitale?",
+      "answerOptions": [
+        {
+          "text": "L'aumento del prezzo dei prodotti dovuto alla pubblicità online.",
+          "isCorrect": false,
+          "rationale": "L'aumento dei prezzi riduce il potere del consumatore, non lo aumenta."
+        },
+        {
+          "text": "La capacità delle imprese di forzare l'acquisto tramite algoritmi.",
+          "isCorrect": false,
+          "rationale": "Questo descriverebbe un indebolimento del consumatore a favore dell'impresa."
+        },
+        {
+          "text": "Il maggior potere e controllo acquisito dal consumatore grazie all'accesso alle informazioni.",
+          "isCorrect": true,
+          "rationale": "Internet fornisce strumenti di confronto e recensioni che rendono il cliente più consapevole e influente."
+        },
+        {
+          "text": "L'obbligo per i consumatori di avere una connessione a banda larga.",
+          "isCorrect": false,
+          "rationale": "La connessione è un requisito tecnico, ma l'empowerment riguarda il potere decisionale e informativo."
+        }
+      ],
+      "hint": "Pensa a chi detiene il coltello dalla parte del manico grazie alla conoscenza."
+    },
+    {
+      "question": "Qual è la differenza fondamentale tra un disco in vinile e un CD in termini di archiviazione dati?",
+      "answerOptions": [
+        {
+          "text": "Il vinile archivia dati binari, il CD dati analogici.",
+          "isCorrect": false,
+          "rationale": "È esattamente il contrario: il vinile è il supporto analogico per eccellenza."
+        },
+        {
+          "text": "Il vinile è meccanico e continuo, il CD è digitale e basato su 'buchi' (pits) e 'terre' (lands).",
+          "isCorrect": true,
+          "rationale": "La natura fisica dei solchi del vinile segue l'onda sonora, mentre il CD traduce tutto in codice binario leggibile dal laser."
+        },
+        {
+          "text": "Il CD può essere ascoltato solo su computer, il vinile ovunque.",
+          "isCorrect": false,
+          "rationale": "Entrambi richiedono dispositivi specifici e la portabilità non definisce la natura del dato."
+        },
+        {
+          "text": "Non esiste alcuna differenza, entrambi usano segnali elettrici discreti.",
+          "isCorrect": false,
+          "rationale": "Il vinile si basa su variazioni fisiche continue, non su impulsi discreti $0/1$."
+        }
+      ],
+      "hint": "Considera come viene fisicamente inciso il suono sul supporto."
+    },
+    {
+      "question": "Quale obiettivo del marketing digitale è associato alla generazione di contatti?",
+      "answerOptions": [
+        {
+          "text": "Branding.",
+          "isCorrect": false,
+          "rationale": "Il branding mira alla notorietà e alla percezione, non necessariamente alla raccolta immediata di contatti."
+        },
+        {
+          "text": "Lead Generation.",
+          "isCorrect": true,
+          "rationale": "La generazione di lead consiste proprio nel raccogliere dati di potenziali clienti interessati."
+        },
+        {
+          "text": "Logistica.",
+          "isCorrect": false,
+          "rationale": "La logistica riguarda il movimento fisico delle merci, non l'acquisizione di contatti marketing."
+        },
+        {
+          "text": "Customer Care.",
+          "isCorrect": false,
+          "rationale": "Il customer care gestisce chi è già cliente, mentre la generazione di contatti guarda ai potenziali nuovi clienti."
+        }
+      ],
+      "hint": "Usa il termine inglese comunemente impiegato per la creazione di una lista di potenziali clienti."
+    },
+    {
+      "question": "Che cosa si intende per 'Pure Play' nel contesto dei modelli di business digitali?",
+      "answerOptions": [
+        {
+          "text": "Un'azienda che vende solo giocattoli per bambini online.",
+          "isCorrect": false,
+          "rationale": "Il termine non si riferisce alla categoria merceologica (giocattoli), ma alla modalità di presenza sul mercato."
+        },
+        {
+          "text": "Un'azienda che opera esclusivamente online, senza punti vendita fisici.",
+          "isCorrect": true,
+          "rationale": "Esempi classici sono i grandi e-commerce nati direttamente sul web senza eredità offline."
+        },
+        {
+          "text": "Un'azienda che utilizza il web solo per scopi ludici e di intrattenimento.",
+          "isCorrect": false,
+          "rationale": "Sebbene l'intrattenimento sia un settore, Pure Play indica l'assenza di infrastrutture di vendita fisiche."
+        },
+        {
+          "text": "Un'azienda tradizionale che ha aperto un piccolo sito web informativo.",
+          "isCorrect": false,
+          "rationale": "Questa descrizione corrisponde più a un modello 'Bricks and Mortar' con presenza tattica."
+        }
+      ],
+      "hint": "Pensa ad aziende come Amazon (alle origini) o Netflix."
+    },
+    {
+      "question": "Quale di questi ambiti NON fa parte della mappa dei principali settori del Digital Marketing presentata nelle slide?",
+      "answerOptions": [
+        {
+          "text": "Internet of Things (IoT).",
+          "isCorrect": false,
+          "rationale": "L'IoT è esplicitamente incluso come ambito di interazione tra oggetti e marketing digitale."
+        },
+        {
+          "text": "Blockchain.",
+          "isCorrect": false,
+          "rationale": "La blockchain è citata insieme ad AI e Big Data come tecnologia di frontiera per il marketing."
+        },
+        {
+          "text": "Gestione delle risorse idriche.",
+          "isCorrect": true,
+          "rationale": "Questo è un settore di pubblica utilità o ingegneria, non un ambito proprio del digital marketing."
+        },
+        {
+          "text": "User Experience (UX).",
+          "isCorrect": false,
+          "rationale": "La UX è fondamentale per il successo di siti web e applicazioni ed è un pilastro della mappa."
+        }
+      ],
+      "hint": "Cerca l'opzione che non ha nulla a che fare con la comunicazione o la tecnologia digitale applicata."
+    },
+    {
+      "question": "Cosa caratterizza il 'Livello Core Business' di un'impresa nel marketing digitale?",
+      "answerOptions": [
+        {
+          "text": "L'impresa usa il digitale solo per inviare email interne.",
+          "isCorrect": false,
+          "rationale": "L'uso interno dell'email è una funzione amministrativa di base, non un modello di business."
+        },
+        {
+          "text": "L'attività principale dell'impresa esiste e si sviluppa grazie alle tecnologie digitali.",
+          "isCorrect": true,
+          "rationale": "In questo caso, il digitale non è un supporto, ma il cuore stesso del valore offerto al mercato."
+        },
+        {
+          "text": "L'impresa decide di chiudere il sito web per tornare al cartaceo.",
+          "isCorrect": false,
+          "rationale": "Questo sarebbe un disinvestimento digitale, l'opposto del livello core business."
+        },
+        {
+          "text": "Il marketing digitale è gestito interamente da un solo stagista.",
+          "isCorrect": false,
+          "rationale": "Il livello core business richiede solitamente competenze e risorse centrali e strutturate."
+        }
+      ],
+      "hint": "Pensa alla sopravvivenza stessa dell'azienda senza internet."
+    },
+    {
+      "question": "Nelle ricerche di mercato online, cosa indica il problema della 'Accessibilità'?",
+      "answerOptions": [
+        {
+          "text": "La difficoltà degli utenti nel trovare la password del Wi-Fi.",
+          "isCorrect": false,
+          "rationale": "L'accessibilità come problema di ricerca riguarda la demografia di chi è connesso, non un problema tecnico individuale."
+        },
+        {
+          "text": "Il fatto che non tutta la popolazione ha accesso a Internet, creando distorsioni nel campione.",
+          "isCorrect": true,
+          "rationale": "Se una ricerca è solo online, esclude automaticamente chi non naviga, non rappresentando l'intera popolazione."
+        },
+        {
+          "text": "Il costo troppo alto per comprare un computer nuovo.",
+          "isCorrect": false,
+          "rationale": "Sebbene correlato, il problema metodologico riguarda la rappresentatività statistica del campione."
+        },
+        {
+          "text": "L'impossibilità di accedere ai siti dei concorrenti.",
+          "isCorrect": false,
+          "rationale": "L'analisi dei concorrenti è benchmarking, non una problematica di campionamento nelle ricerche."
+        }
+      ],
+      "hint": "Rifletti sul digital divide e sulla rappresentatività statistica."
+    },
+    {
+      "question": "Quale termine definisce il consumatore come 'Hyper-connected'?",
+      "answerOptions": [
+        {
+          "text": "Un utente che ha troppi amici sui social network.",
+          "isCorrect": false,
+          "rationale": "L'iper-connessione riguarda l'accesso costante alle risorse, non solo la dimensione della rete sociale."
+        },
+        {
+          "text": "Un consumatore collegato a reti di conoscenza e contatti sempre e ovunque.",
+          "isCorrect": true,
+          "rationale": "Grazie ai dispositivi mobili, il consumatore non è mai 'offline' dal flusso informativo."
+        },
+        {
+          "text": "Un computer che scarica dati alla velocità della fibra ottica.",
+          "isCorrect": false,
+          "rationale": "Si riferisce a una persona (consumatore), non alla performance tecnica di una macchina."
+        },
+        {
+          "text": "Un individuo che soffre di dipendenza patologica da internet.",
+          "isCorrect": false,
+          "rationale": "In marketing, il termine descrive una condizione strutturale del mercato, non necessariamente una patologia clinica."
+        }
+      ],
+      "hint": "Considera la disponibilità di informazioni in ogni momento della giornata."
+    },
+    {
+      "question": "Nel contesto delle slide sulla Customer Journey, cosa si intende per approccio 'Omnichannel'?",
+      "answerOptions": [
+        {
+          "text": "Vendere prodotti su tutti i siti di e-commerce esistenti.",
+          "isCorrect": false,
+          "rationale": "Essere ovunque non significa essere omnicanale; l'omnicanalità richiede integrazione e coerenza."
+        },
+        {
+          "text": "Utilizzare un solo canale di comunicazione per non confondere il cliente.",
+          "isCorrect": false,
+          "rationale": "Questo è un approccio monocanale, l'esatto opposto dell'omnicanalità."
+        },
+        {
+          "text": "Garantire una presenza coerente e integrata su tutti i canali fisici e digitali.",
+          "isCorrect": true,
+          "rationale": "L'obiettivo è che l'utente possa passare da un canale all'altro senza frizioni, percependo un'unica identità di brand."
+        },
+        {
+          "text": "Assumere dipendenti che parlano molte lingue diverse.",
+          "isCorrect": false,
+          "rationale": "Questo riguarda il multilinguismo, non la strategia di gestione dei canali di vendita e contatto."
+        }
+      ],
+      "hint": "Pensa alla sinergia tra negozio fisico e sito web."
+    },
+    {
+      "question": "Che cosa rappresenta l'unità 'Bit'?",
+      "answerOptions": [
+        {
+          "text": "Un pacchetto di dati contenente un'intera immagine.",
+          "isCorrect": false,
+          "rationale": "Un'immagine richiede milioni di bit; il bit è infinitamente più piccolo."
+        },
+        {
+          "text": "L'unità minima di informazione.",
+          "isCorrect": true,
+          "rationale": "È l'atomo dell'informazione digitale, potendo assumere solo due valori."
+        },
+        {
+          "text": "Un tipo di cavo utilizzato per le connessioni di rete.",
+          "isCorrect": false,
+          "rationale": "Il bit è un concetto logico/matematico, non un componente hardware fisico come un cavo."
+        },
+        {
+          "text": "L'abbreviazione di 'Binary Internet Technology'.",
+          "isCorrect": false,
+          "rationale": "Bit deriva dalla contrazione di 'Binary Digit'."
+        }
+      ],
+      "hint": "Pensa alla base del sistema binario."
+    },
+    {
+      "question": "Qual è uno degli esempi più comuni di 'Network Effect'?",
+      "answerOptions": [
+        {
+          "text": "Un guasto alla rete elettrica che spegne i computer.",
+          "isCorrect": false,
+          "rationale": "Questo è un blackout tecnico, non un effetto economico di rete."
+        },
+        {
+          "text": "Il valore di una piattaforma che aumenta all'aumentare dei suoi utenti.",
+          "isCorrect": true,
+          "rationale": "Più persone usano un servizio (es. un social o un'app di messaggistica), più quel servizio diventa utile per tutti."
+        },
+        {
+          "text": "L'acquisto di un nuovo router più potente.",
+          "isCorrect": false,
+          "rationale": "Il miglioramento dell'hardware individuale non crea un effetto di rete sistemico."
+        },
+        {
+          "text": "La diminuzione dei prezzi dei computer ogni anno.",
+          "isCorrect": false,
+          "rationale": "Questo è legato alla legge di Moore o all'efficienza produttiva, non all'interattività della rete."
+        }
+      ],
+      "hint": "Pensa a perché usi WhatsApp invece di altre app meno diffuse."
+    },
+    {
+      "question": "In una ricerca di mercato online, cosa si intende per 'Stabilità del campione'?",
+      "answerOptions": [
+        {
+          "text": "La capacità del server di non crashare durante l'invio dei dati.",
+          "isCorrect": false,
+          "rationale": "Questa è stabilità tecnica dell'infrastruttura, non metodologica del campione umano."
+        },
+        {
+          "text": "Il fatto che i soggetti indagati non cambino opinione o caratteristiche nel tempo.",
+          "isCorrect": true,
+          "rationale": "È difficile sapere se lo stesso gruppo di utenti rimane coerente e disponibile per studi longitudinali online."
+        },
+        {
+          "text": "La velocità fissa della connessione internet dei partecipanti.",
+          "isCorrect": false,
+          "rationale": "La velocità di connessione è una variabile tecnica esterna irrilevante per la stabilità demografica."
+        },
+        {
+          "text": "L'obbligo per gli utenti di non muoversi fisicamente mentre rispondono.",
+          "isCorrect": false,
+          "rationale": "La stabilità non è fisica, ma riguarda la consistenza dei dati raccolti nel tempo."
+        }
+      ],
+      "hint": "Riguarda la costanza delle persone coinvolte in uno studio nel lungo periodo."
+    },
+    {
+      "question": "Quale di questi fattori NON è citato come risorsa necessaria per acquisire competenze digitali?",
+      "answerOptions": [
+        {
+          "text": "Benchmark digitale.",
+          "isCorrect": false,
+          "rationale": "Il confronto con i competitor (benchmark) è fondamentale per capire quali competenze mancano."
+        },
+        {
+          "text": "Risorse umane qualificate.",
+          "isCorrect": false,
+          "rationale": "Le persone e le loro abilità sono la risorsa primaria per il digital marketing."
+        },
+        {
+          "text": "Abbonamento a riviste cartacee di gossip.",
+          "isCorrect": true,
+          "rationale": "Questo tipo di risorsa è irrilevante per lo sviluppo di competenze strategiche nel marketing digitale."
+        },
+        {
+          "text": "Investimenti tecnologici.",
+          "isCorrect": false,
+          "rationale": "Senza budget per gli strumenti, non è possibile mettere in pratica le competenze digitali."
+        }
+      ],
+      "hint": "Cerca l'intruso che non ha valore professionale o formativo."
+    }
+  ]
+}

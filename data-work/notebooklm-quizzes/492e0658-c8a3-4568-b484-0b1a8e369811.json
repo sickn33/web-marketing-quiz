@@ -1,0 +1,785 @@
+{
+  "title": "Marketing Quiz",
+  "questions": [
+    {
+      "question": "Un'azienda decide di smettere di vendere software tramite supporti fisici per passare esclusivamente a un modello in abbonamento cloud (SaaS). Secondo le definizioni fornite, in quale categoria rientra questo cambiamento?",
+      "answerOptions": [
+        {
+          "text": "Trasformazione Digitale",
+          "isCorrect": true,
+          "rationale": "Questo rappresenta un cambiamento strategico e culturale che ridefinisce il modello di business e il modo in cui l'azienda genera valore."
+        },
+        {
+          "text": "Digitalizzazione",
+          "isCorrect": false,
+          "rationale": "Questo termine si riferisce specificamente alla conversione di documenti o informazioni da analogico a digitale."
+        },
+        {
+          "text": "Digitalizzazione dei processi",
+          "isCorrect": false,
+          "rationale": "Sebbene implichi l'uso del digitale, questa categoria riguarda maggiormente l'automazione di attività esistenti piuttosto che il ripensamento del modello di business."
+        },
+        {
+          "text": "Ottimizzazione analogica",
+          "isCorrect": false,
+          "rationale": "Il passaggio al cloud è un'evoluzione puramente digitale e non rientra in ambiti analogici."
+        }
+      ],
+      "hint": "Considera se l'intervento riguarda solo l'efficienza operativa o l'intera strategia di business."
+    },
+    {
+      "question": "Qual è la differenza fondamentale tra il 'First Moment of Truth' (FMOT) e lo 'Zero Moment of Truth' (ZMOT) nel percorso d'acquisto moderno?",
+      "answerOptions": [
+        {
+          "text": "Lo ZMOT avviene online durante la fase di ricerca, prima che l'utente interagisca fisicamente con il prodotto.",
+          "isCorrect": true,
+          "rationale": "Lo ZMOT identifica il momento in cui i consumatori effettuano ricerche online per informarsi, precedendo il contatto allo scaffale."
+        },
+        {
+          "text": "Il FMOT riguarda l'esperienza d'uso post-acquisto, mentre lo ZMOT riguarda la pubblicità televisiva.",
+          "isCorrect": false,
+          "rationale": "L'esperienza d'uso post-acquisto è definita come Second Moment of Truth (SMOT), non FMOT."
+        },
+        {
+          "text": "Lo ZMOT è un concetto applicabile solo ai negozi fisici, a differenza del FMOT.",
+          "isCorrect": false,
+          "rationale": "Al contrario, lo ZMOT è un concetto nato per spiegare il comportamento digitale del consumatore."
+        },
+        {
+          "text": "Non esiste differenza, sono sinonimi usati per descrivere la fase di 'Acquisto' nel funnel.",
+          "isCorrect": false,
+          "rationale": "Sono fasi distinte del percorso decisionale dell'utente, dove la ricerca precede l'azione di acquisto."
+        }
+      ],
+      "hint": "Pensa a quale momento descrive la ricerca attiva di informazioni su Google o social media."
+    },
+    {
+      "question": "Nel processo SEO, se una pagina web è stata 'scansionata' (Crawling) ma non appare nei risultati di ricerca per nessuna query, quale fase potrebbe non essere stata completata correttamente?",
+      "answerOptions": [
+        {
+          "text": "Indexing",
+          "isCorrect": true,
+          "rationale": "L'indicizzazione è la fase in cui il motore di ricerca archivia e organizza il contenuto; senza di essa, la pagina non può competere per il posizionamento."
+        },
+        {
+          "text": "Crawling",
+          "isCorrect": false,
+          "rationale": "Se la pagina è stata scansionata, il processo di crawling è tecnicamente già avvenuto."
+        },
+        {
+          "text": "Ranking",
+          "isCorrect": false,
+          "rationale": "Il ranking riguarda il posizionamento tra i risultati, ma se la pagina è assente del tutto, il problema risiede solitamente nell'archiviazione a monte."
+        },
+        {
+          "text": "Search Intent",
+          "isCorrect": false,
+          "rationale": "L'intento di ricerca serve a ottimizzare i contenuti, ma non è una fase tecnica di elaborazione del motore di ricerca."
+        }
+      ],
+      "hint": "Rifletti sulla fase che funge da 'biblioteca' dove il motore di ricerca cataloga le informazioni."
+    },
+    {
+      "question": "Un utente digita su Google 'Login PayPal'. Qual è l'intenzione di ricerca (Search Intent) prevalente e quale strategia SEO dovrebbe essere adottata?",
+      "answerOptions": [
+        {
+          "text": "Navigazionale; ottimizzare la pagina di accesso con informazioni di supporto e FAQ per problemi di login.",
+          "isCorrect": true,
+          "rationale": "L'utente ha l'obiettivo specifico di raggiungere un sito o una pagina precisa, tipico dell'intento navigazionale."
+        },
+        {
+          "text": "Transazionale; creare una landing page con forti Call to Action per vendere un servizio.",
+          "isCorrect": false,
+          "rationale": "L'utente non sta cercando di acquistare un nuovo prodotto, ma di accedere a un servizio che già utilizza."
+        },
+        {
+          "text": "Informazionale; scrivere un lungo articolo di blog sulla storia di PayPal.",
+          "isCorrect": false,
+          "rationale": "Chi cerca un login ha un bisogno immediato e operativo, non sta cercando informazioni storiche o generali."
+        },
+        {
+          "text": "Commerciale; creare una tabella comparativa tra PayPal e i suoi competitor.",
+          "isCorrect": false,
+          "rationale": "L'intento commerciale prevede il confronto tra marchi, mentre qui il marchio è già stato scelto."
+        }
+      ],
+      "hint": "Considera se l'utente sta cercando un'informazione, un acquisto o un luogo digitale specifico."
+    },
+    {
+      "question": "Quale tra le seguenti caratteristiche definisce meglio il valore delle 'Long Tail Keywords' (parole chiave a lunga coda) in una strategia di marketing?",
+      "answerOptions": [
+        {
+          "text": "Hanno volumi di ricerca bassi ma un'intenzione di ricerca altamente specifica e pertinente.",
+          "isCorrect": true,
+          "rationale": "Le query a coda lunga sono più dettagliate e, sebbene meno ricercate, indicano un bisogno molto chiaro dell'utente."
+        },
+        {
+          "text": "Sono parole chiave singole con volumi di ricerca altissimi, come 'scarpe'.",
+          "isCorrect": false,
+          "rationale": "Le parole singole ad alto volume sono definite 'head terms', non long tail."
+        },
+        {
+          "text": "Servono principalmente per aumentare il traffico generico non qualificato.",
+          "isCorrect": false,
+          "rationale": "Al contrario, le long tail attirano traffico molto qualificato proprio grazie alla loro specificità."
+        },
+        {
+          "text": "Garantiscono l'autorità del dominio a prescindere dal contenuto della pagina.",
+          "isCorrect": false,
+          "rationale": "L'autorità del dominio dipende da segnali sociali e backlink, non dalla semplice presenza di keyword specifiche."
+        }
+      ],
+      "hint": "Pensa alla differenza tra cercare 'auto' e 'auto elettrica usata a Roma'."
+    },
+    {
+      "question": "Secondo il framework Hero-Hub-Help, quale tipologia di contenuto è progettata per fornire soluzioni pratiche alle domande quotidiane degli utenti e attirare nuovo pubblico tramite la ricerca?",
+      "answerOptions": [
+        {
+          "text": "Contenuto Help",
+          "isCorrect": true,
+          "rationale": "Il contenuto Help (o igiene) si focalizza sulla risoluzione di problemi pratici e sulle query di ricerca comuni."
+        },
+        {
+          "text": "Contenuto Hero",
+          "isCorrect": false,
+          "rationale": "Il contenuto Hero è destinato a grandi lanci o campagne ad alto impatto per creare massima consapevolezza."
+        },
+        {
+          "text": "Contenuto Hub",
+          "isCorrect": false,
+          "rationale": "L'Hub serve a mantenere l'interesse costante del pubblico già acquisito attraverso appuntamenti regolari."
+        },
+        {
+          "text": "Contenuto Paid",
+          "isCorrect": false,
+          "rationale": "Paid è una categoria del modello PESO che riguarda il canale di distribuzione, non la natura del framework 3H di Google."
+        }
+      ],
+      "hint": "Questo tipo di contenuto è spesso associato a tutorial o guide 'how-to'."
+    },
+    {
+      "question": "Nel modello PESO, dove verrebbe classificata la condivisione spontanea di un post aziendale da parte di un utente sul proprio profilo social personale?",
+      "answerOptions": [
+        {
+          "text": "Shared Media",
+          "isCorrect": true,
+          "rationale": "Gli Shared Media riguardano le interazioni e le condivisioni effettuate da terzi sui social network riguardo all'azienda."
+        },
+        {
+          "text": "Owned Media",
+          "isCorrect": false,
+          "rationale": "Owned Media sono i canali di proprietà diretta dell'azienda, come il sito web o i profili social ufficiali."
+        },
+        {
+          "text": "Paid Media",
+          "isCorrect": false,
+          "rationale": "Paid Media riguarda esclusivamente le sponsorizzazioni e le attività pubblicitarie a pagamento."
+        },
+        {
+          "text": "Earned Media",
+          "isCorrect": false,
+          "rationale": "Earned Media si riferisce solitamente a menzioni stampa, recensioni o backlink ottenuti grazie alla reputazione."
+        }
+      ],
+      "hint": "Focalizzati sull'azione di 'partecipazione' e 'distribuzione' del pubblico sui social."
+    },
+    {
+      "question": "Perché un esperto di marketing dovrebbe preferire il modello di prezzo CPM (Costo per Mille) rispetto al CPC (Costo per Clic) in una campagna di Brand Awareness?",
+      "answerOptions": [
+        {
+          "text": "Perché l'obiettivo principale è la visibilità e la frequenza di visualizzazione dell'annuncio, non l'azione immediata.",
+          "isCorrect": true,
+          "rationale": "Il CPM è ideale per massimizzare le impressioni, garantendo che il marchio venga visto dal maggior numero possibile di persone."
+        },
+        {
+          "text": "Perché il CPM garantisce sempre un numero fisso di vendite finali.",
+          "isCorrect": false,
+          "rationale": "Nessun modello di prezzo pubblicitario garantisce vendite; il CPM misura solo le visualizzazioni (impressioni)."
+        },
+        {
+          "text": "Perché con il CPM si paga solo quando l'utente compie una conversione sul sito.",
+          "isCorrect": false,
+          "rationale": "Il pagamento basato sulla conversione è un modello differente (CPA), non il CPM."
+        },
+        {
+          "text": "Perché il CPC è troppo flessibile per campagne a lungo termine.",
+          "isCorrect": false,
+          "rationale": "La flessibilità è un vantaggio del digital advertising in generale, non un limite del CPC."
+        }
+      ],
+      "hint": "Pensa a cosa misura effettivamente il 'mille' nell'acronimo CPM."
+    },
+    {
+      "question": "Quale fase del funnel di marketing digitale è dedicata al monitoraggio del momento in cui gli utenti interagiscono attivamente con l'azienda (es. visitando pagine specifiche o scaricando risorse)?",
+      "answerOptions": [
+        {
+          "text": "Comportamento (Behavior)",
+          "isCorrect": true,
+          "rationale": "La fase di Behavior analizza come l'utente si muove e interagisce con i contenuti aziendali dopo l'acquisizione."
+        },
+        {
+          "text": "Acquisizione (Acquisition)",
+          "isCorrect": false,
+          "rationale": "L'acquisizione si concentra sul portare l'utente verso il sito o creare la prima consapevolezza (awareness)."
+        },
+        {
+          "text": "Conversione (Conversion)",
+          "isCorrect": false,
+          "rationale": "La conversione è l'atto finale in cui l'utente diventa cliente o genera una transazione economica."
+        },
+        {
+          "text": "Advocacy",
+          "isCorrect": false,
+          "rationale": "L'advocacy riguarda la fase post-acquisto, in cui i clienti diventano promotori del brand."
+        }
+      ],
+      "hint": "Si tratta del 'mezzo' del funnel, tra il primo contatto e l'acquisto finale."
+    },
+    {
+      "question": "In una strategia SEO moderna, cosa si intende quando si afferma che la keyword è un 'proxy della domanda'?",
+      "answerOptions": [
+        {
+          "text": "Che la parola chiave è solo un indizio osservabile di un bisogno o problema più profondo dell'utente.",
+          "isCorrect": true,
+          "rationale": "L'obiettivo del marketer non è la keyword in sé, ma comprendere l'intenzione e il bisogno che spinge l'utente a usarla."
+        },
+        {
+          "text": "Che bisogna ripetere la parola chiave il maggior numero di volte possibile nel testo.",
+          "isCorrect": false,
+          "rationale": "Questa pratica (keyword stuffing) è considerata obsoleta e dannosa per il posizionamento moderno."
+        },
+        {
+          "text": "Che la keyword deve essere utilizzata esclusivamente per gli annunci a pagamento.",
+          "isCorrect": false,
+          "rationale": "Le keyword sono fondamentali sia per la SEO (organico) che per il Digital ADS (pagamento)."
+        },
+        {
+          "text": "Che il volume di ricerca è l'unico parametro che definisce il valore di una parola chiave.",
+          "isCorrect": false,
+          "rationale": "Il valore di una keyword dipende anche dalla rilevanza, dall'autorità e dall'intento di ricerca."
+        }
+      ],
+      "hint": "Rifletti sulla differenza tra ciò che l'utente scrive e ciò di cui ha effettivamente bisogno."
+    },
+    {
+      "question": "In riferimento al Customer Journey, quale canale è più indicato per la fase di 'Advocacy'?",
+      "answerOptions": [
+        {
+          "text": "Forum e Community",
+          "isCorrect": true,
+          "rationale": "Gli spazi comunitari permettono ai clienti fedeli di interagire, aiutare altri utenti e promuovere il brand spontaneamente."
+        },
+        {
+          "text": "Online Ads",
+          "isCorrect": false,
+          "rationale": "Le Ads sono solitamente strumenti di acquisizione per intercettare utenti che non conoscono ancora il brand."
+        },
+        {
+          "text": "PPC (Pay Per Click)",
+          "isCorrect": false,
+          "rationale": "Il PPC è uno strumento tipico delle fasi di considerazione o acquisto, non della promozione spontanea dei clienti."
+        },
+        {
+          "text": "Radio / TV",
+          "isCorrect": false,
+          "rationale": "Questi media tradizionali sono efficaci per la fase iniziale di conoscenza (awareness)."
+        }
+      ],
+      "hint": "Pensa a dove i 'fan' di un marchio si riuniscono per discutere dei prodotti."
+    },
+    {
+      "question": "Qual è il principale vantaggio della pubblicità digitale rispetto a quella tradizionale in termini di 'Modificabilità'?",
+      "answerOptions": [
+        {
+          "text": "Permette di cambiare il contenuto o il target di una campagna in tempo reale se i risultati non sono soddisfacenti.",
+          "isCorrect": true,
+          "rationale": "La flessibilità digitale consente interventi immediati, a differenza di un cartellone stradale o di uno spot TV già prodotto."
+        },
+        {
+          "text": "Assicura che l'annuncio non venga mai visto dalle persone sbagliate per errore umano.",
+          "isCorrect": false,
+          "rationale": "Sebbene precisa, la pubblicità digitale dipende comunque dalle impostazioni scelte dal marketer."
+        },
+        {
+          "text": "Rende superfluo il controllo dei KPI dopo l'avvio della campagna.",
+          "isCorrect": false,
+          "rationale": "Al contrario, la modificabilità richiede un monitoraggio costante proprio per poter intervenire con efficacia."
+        },
+        {
+          "text": "Consente di evitare totalmente l'uso di creatività grafiche.",
+          "isCorrect": false,
+          "rationale": "Le creatività rimangono essenziali anche nel digitale, cambiano solo i formati e la velocità di distribuzione."
+        }
+      ],
+      "hint": "Considera cosa succede se ti accorgi di un errore in un annuncio dopo che è stato pubblicato."
+    },
+    {
+      "question": "Nel modello AIDA, quale stadio psicologico si trova tra l'Interesse e l'Azione?",
+      "answerOptions": [
+        {
+          "text": "Desiderio (Desire)",
+          "isCorrect": true,
+          "rationale": "Dopo aver catturato l'interesse, l'obiettivo è far nascere nel consumatore la volontà specifica di possedere il prodotto."
+        },
+        {
+          "text": "Attenzione (Awareness)",
+          "isCorrect": false,
+          "rationale": "L'attenzione è il primissimo stadio del modello, necessario per avviare il processo."
+        },
+        {
+          "text": "Decisione",
+          "isCorrect": false,
+          "rationale": "Sebbene logica, la 'Decisione' non fa parte dell'acronimo originale AIDA (Attention, Interest, Desire, Action)."
+        },
+        {
+          "text": "Fedeltà",
+          "isCorrect": false,
+          "rationale": "La fedeltà è una fase successiva all'intero ciclo AIDA, legata al mantenimento del cliente."
+        }
+      ],
+      "hint": "Cerca la parola che completa l'acronimo tra la 'I' e la 'A'."
+    },
+    {
+      "question": "Cosa indica la metrica MSV (Monthly Search Volume) nell'analisi delle parole chiave?",
+      "answerOptions": [
+        {
+          "text": "Il numero di volte che una specifica keyword viene cercata mediamente in un mese.",
+          "isCorrect": true,
+          "rationale": "Il volume di ricerca mensile è fondamentale per valutare il traffico potenziale che una parola chiave può generare."
+        },
+        {
+          "text": "La velocità con cui il motore di ricerca scansiona una nuova pagina.",
+          "isCorrect": false,
+          "rationale": "La velocità di scansione è legata al 'crawl budget' e alle prestazioni tecniche del server."
+        },
+        {
+          "text": "Il costo medio che un'azienda deve pagare per ogni clic ricevuto.",
+          "isCorrect": false,
+          "rationale": "Il costo per clic è indicato dalla metrica CPC, non dal volume di ricerca."
+        },
+        {
+          "text": "La percentuale di utenti che abbandonano il sito dopo aver visto una sola pagina.",
+          "isCorrect": false,
+          "rationale": "Questa metrica è definita come 'frequenza di rimbalzo' (bounce rate)."
+        }
+      ],
+      "hint": "Si riferisce alla quantità di domanda esistente per un determinato termine di ricerca."
+    },
+    {
+      "question": "Un blog che pubblica regolarmente articoli di approfondimento per mantenere attivo il rapporto con i propri iscritti sta producendo, secondo Google, un contenuto di tipo:",
+      "answerOptions": [
+        {
+          "text": "Hub",
+          "isCorrect": true,
+          "rationale": "Il contenuto Hub è progettato per l'engagement continuativo e viene prodotto con cadenza regolare."
+        },
+        {
+          "text": "Hero",
+          "isCorrect": false,
+          "rationale": "Il contenuto Hero è sporadico e mira alla viralità o a catturare l'attenzione su larga scala."
+        },
+        {
+          "text": "Hygiene",
+          "isCorrect": false,
+          "rationale": "Hygiene è un altro modo per definire i contenuti 'Help', focalizzati sulle risposte pratiche."
+        },
+        {
+          "text": "Earned",
+          "isCorrect": false,
+          "rationale": "Earned si riferisce alla categoria di media ottenuta (come recensioni), non a una tipologia di produzione di contenuto interna."
+        }
+      ],
+      "hint": "Considera la funzione di 'centro di aggregazione' per il pubblico fedele."
+    },
+    {
+      "question": "Quale elemento del marketing mix (5P) è maggiormente influenzato dal passaggio da un negozio fisico a un e-commerce?",
+      "answerOptions": [
+        {
+          "text": "Place",
+          "isCorrect": true,
+          "rationale": "La 'P' di Place riguarda la distribuzione e i punti vendita; l'e-commerce ridefinisce completamente la disponibilità spaziale del prodotto."
+        },
+        {
+          "text": "Price",
+          "isCorrect": false,
+          "rationale": "Sebbene i prezzi possano variare online, il cambiamento strutturale del modello di vendita riguarda primariamente la distribuzione."
+        },
+        {
+          "text": "People",
+          "isCorrect": false,
+          "rationale": "People riguarda il personale e il servizio clienti, che cambiano modalità ma non sono l'asse principale della transizione fisica/digitale."
+        },
+        {
+          "text": "Product",
+          "isCorrect": false,
+          "rationale": "Il prodotto fisico può rimanere identico; ciò che cambia radicalmente è dove e come viene reso accessibile."
+        }
+      ],
+      "hint": "In italiano questo concetto è spesso tradotto come 'Punto Vendita' o 'Distribuzione'."
+    },
+    {
+      "question": "Quale di questi è un esempio corretto di 'Digitalizzazione dei processi'?",
+      "answerOptions": [
+        {
+          "text": "L'utilizzo di un software CRM per gestire automaticamente le relazioni con i clienti.",
+          "isCorrect": true,
+          "rationale": "Automatizzare e ottimizzare i processi aziendali preesistenti con strumenti digitali è l'essenza della digitalizzazione dei processi."
+        },
+        {
+          "text": "La scansione di un vecchio contratto cartaceo in un file PDF.",
+          "isCorrect": false,
+          "rationale": "Questa è semplice digitalizzazione (conversione di un formato analogico in digitale)."
+        },
+        {
+          "text": "La creazione di un nuovo modello di business basato interamente sulla sharing economy.",
+          "isCorrect": false,
+          "rationale": "Questo livello di cambiamento strategico rientra nella Trasformazione Digitale."
+        },
+        {
+          "text": "L'acquisto di computer portatili per tutti i dipendenti dell'ufficio.",
+          "isCorrect": false,
+          "rationale": "L'acquisto di hardware è una precondizione tecnica, ma non definisce di per sé l'ottimizzazione di un processo."
+        }
+      ],
+      "hint": "Cerca l'opzione che descrive un miglioramento nel modo in cui un'attività viene svolta grazie al digitale."
+    },
+    {
+      "question": "Perché l'autorità di una fonte è un fattore critico nel ranking dei motori di ricerca?",
+      "answerOptions": [
+        {
+          "text": "Perché i motori di ricerca tendono a privilegiare fonti considerate affidabili e informative per garantire qualità all'utente.",
+          "isCorrect": true,
+          "rationale": "L'autorità si costruisce nel tempo con contenuti utili e segnali esterni come i backlink, influenzando la posizione in SERP."
+        },
+        {
+          "text": "Perché una fonte autorevole non ha bisogno di scansionare il proprio sito.",
+          "isCorrect": false,
+          "rationale": "Tutti i siti, a prescindere dall'autorità, devono essere scansionati (Crawling) per essere indicizzati."
+        },
+        {
+          "text": "Perché l'autorità permette di ignorare l'intento di ricerca dell'utente.",
+          "isCorrect": false,
+          "rationale": "La rilevanza rispetto all'intento di ricerca rimane fondamentale anche per i siti più autorevoli."
+        },
+        {
+          "text": "Perché l'autorità si acquista semplicemente pagando una quota fissa mensile a Google.",
+          "isCorrect": false,
+          "rationale": "L'autorità organica non può essere acquistata direttamente; i risultati a pagamento (ADS) sono separati dal ranking organico."
+        }
+      ],
+      "hint": "Rifletti sulla fiducia che un utente ripone in un risultato di ricerca."
+    },
+    {
+      "question": "Un utente cerca 'Migliori scarpe da corsa per maratona'. Quale tipo di contenuto è più adatto a soddisfare questa Search Intent commerciale?",
+      "answerOptions": [
+        {
+          "text": "Un articolo comparativo con recensioni e tabelle di confronto tra diversi modelli.",
+          "isCorrect": true,
+          "rationale": "L'intento commerciale indica che l'utente sta valutando diverse opzioni prima di procedere all'acquisto."
+        },
+        {
+          "text": "Una pagina di login per atleti professionisti.",
+          "isCorrect": false,
+          "rationale": "Questo risponderebbe a un intento navigazionale, non alla necessità di confrontare prodotti."
+        },
+        {
+          "text": "Un video che spiega la definizione scientifica di 'maratona'.",
+          "isCorrect": false,
+          "rationale": "Questo sarebbe un contenuto puramente informazionale, troppo generico per chi cerca un'attrezzatura specifica."
+        },
+        {
+          "text": "Una semplice immagine del logo di un brand di scarpe.",
+          "isCorrect": false,
+          "rationale": "Un'immagine statica non fornisce le informazioni necessarie per supportare una decisione d'acquisto complessa."
+        }
+      ],
+      "hint": "L'utente è nella fase di 'Considerazione' e ha bisogno di aiuto per scegliere tra varie marche."
+    },
+    {
+      "question": "Qual è lo scopo principale della fase di 'Ranking' in una SERP?",
+      "answerOptions": [
+        {
+          "text": "Posizionare nelle prime posizioni le pagine che meglio rispondono alla ricerca specifica dell'utente.",
+          "isCorrect": true,
+          "rationale": "Il ranking è l'ordinamento meritocratico dei risultati basato sulla pertinenza e sulla qualità."
+        },
+        {
+          "text": "Trovare nuovi URL navigando attraverso i link presenti sul web.",
+          "isCorrect": false,
+          "rationale": "Questa è la descrizione della fase di Crawling (scansione)."
+        },
+        {
+          "text": "Eliminare definitivamente i siti che non utilizzano parole chiave a lunga coda.",
+          "isCorrect": false,
+          "rationale": "Il ranking non elimina i siti, ma li ordina; inoltre, le keyword a lunga coda sono solo una delle possibili strategie."
+        },
+        {
+          "text": "Garantire che ogni ricerca restituisca sempre almeno mille risultati a pagamento.",
+          "isCorrect": false,
+          "rationale": "Il ranking si applica principalmente ai risultati organici, non al numero prefissato di annunci pubblicitari."
+        }
+      ],
+      "hint": "Considera l'ordine di apparizione dei risultati quando fai una ricerca su Google."
+    },
+    {
+      "question": "Con l'introduzione delle AI Overviews (AIO), quale nuova sfida devono affrontare i marketer nella Keyword Research?",
+      "answerOptions": [
+        {
+          "text": "Valutare il valore del clic anche in presenza di una risposta automatica fornita direttamente nella SERP.",
+          "isCorrect": true,
+          "rationale": "Le AIO possono rispondere direttamente all'utente, riducendo la necessità di cliccare sui siti web e cambiando il valore della query."
+        },
+        {
+          "text": "Imparare a scrivere codice HTML a mano per ogni singola parola chiave.",
+          "isCorrect": false,
+          "rationale": "La gestione delle keyword non richiede necessariamente la scrittura manuale di codice HTML per ogni termine."
+        },
+        {
+          "text": "Smettere di utilizzare keyword informazionali per concentrarsi solo su quelle navigazionali.",
+          "isCorrect": false,
+          "rationale": "Le keyword informazionali rimangono importanti, ma la loro strategia deve adattarsi alla presenza delle risposte AI."
+        },
+        {
+          "text": "Evitare di indicizzare il sito per non essere letti dall'intelligenza artificiale.",
+          "isCorrect": false,
+          "rationale": "Non indicizzare il sito significherebbe scomparire dai motori di ricerca, peggiorando la situazione."
+        }
+      ],
+      "hint": "Pensa a cosa succede quando Google ti dà la risposta completa senza farti uscire dalla sua pagina."
+    },
+    {
+      "question": "Se un'azienda pubblica un annuncio su Facebook rivolto solo a donne tra i 25 e i 35 anni interessate allo yoga, quale vantaggio del Digital ADS sta sfruttando?",
+      "answerOptions": [
+        {
+          "text": "Precisione nel targeting",
+          "isCorrect": true,
+          "rationale": "La pubblicità digitale permette di isolare segmenti di pubblico molto specifici in base a dati demografici e interessi."
+        },
+        {
+          "text": "Scalabilità del budget",
+          "isCorrect": false,
+          "rationale": "Sebbene collegata, la scalabilità riguarda la possibilità di aumentare o diminuire l'investimento, non la selezione del pubblico."
+        },
+        {
+          "text": "Rapidità di esecuzione",
+          "isCorrect": false,
+          "rationale": "La rapidità riguarda il tempo di messa in onda, non la capacità di colpire una nicchia specifica."
+        },
+        {
+          "text": "Modificabilità dei contenuti",
+          "isCorrect": false,
+          "rationale": "La modificabilità riguarda il cambiamento del messaggio pubblicitario durante la campagna."
+        }
+      ],
+      "hint": "Considera la capacità di scegliere esattamente 'chi' vedrà il tuo messaggio."
+    },
+    {
+      "question": "Quale tipologia di email è progettata per accompagnare fasi operative del cliente, come la conferma di un ordine o il ripristino di una password?",
+      "answerOptions": [
+        {
+          "text": "Email Transazionali",
+          "isCorrect": true,
+          "rationale": "Queste email sono inviate in risposta ad azioni specifiche dell'utente e hanno un carattere prettamente funzionale."
+        },
+        {
+          "text": "Email Promozionali",
+          "isCorrect": false,
+          "rationale": "Le promozionali mirano a spingere l'utente verso un nuovo acquisto o a presentare un'offerta commerciale."
+        },
+        {
+          "text": "Newsletter",
+          "isCorrect": false,
+          "rationale": "La newsletter ha uno scopo informativo o di aggiornamento regolare, non è necessariamente legata a una transazione specifica."
+        },
+        {
+          "text": "Email di Acquisizione",
+          "isCorrect": false,
+          "rationale": "L'acquisizione avviene solitamente prima che l'utente effettui un'azione che richieda una transazione o un account."
+        }
+      ],
+      "hint": "Sono messaggi automatici innescati da un comportamento dell'utente (trigger)."
+    },
+    {
+      "question": "Cosa si intende per 'Rilevanza' nel contesto della Keyword Research?",
+      "answerOptions": [
+        {
+          "text": "La capacità del contenuto di corrispondere esattamente all'intento del ricercatore e soddisfare il suo bisogno.",
+          "isCorrect": true,
+          "rationale": "I motori di ricerca premiano i contenuti che offrono la migliore risposta possibile alla query specifica dell'utente."
+        },
+        {
+          "text": "Il numero totale di follower che un'azienda ha sui canali social.",
+          "isCorrect": false,
+          "rationale": "I follower sono una metrica di social media marketing, non definiscono la rilevanza di una keyword SEO."
+        },
+        {
+          "text": "La velocità con cui una pagina web si carica su dispositivi mobili.",
+          "isCorrect": false,
+          "rationale": "Questa è una metrica di performance tecnica (web performance), distinta dalla rilevanza semantica."
+        },
+        {
+          "text": "La quantità di pubblicità a pagamento presente sulla stessa parola chiave.",
+          "isCorrect": false,
+          "rationale": "La presenza di ADS indica concorrenza commerciale, non la rilevanza intrinseca del contenuto organico."
+        }
+      ],
+      "hint": "Pensa alla coerenza tra la domanda fatta dall'utente e la risposta fornita dalla pagina."
+    },
+    {
+      "question": "Un'azienda produce una serie di video documentari spettacolari per il lancio di un nuovo brand globale. Nel framework Hero-Hub-Help, questa iniziativa è classificabile come:",
+      "answerOptions": [
+        {
+          "text": "Hero",
+          "isCorrect": true,
+          "rationale": "I contenuti Hero sono eventi rari, ad alto impatto, progettati per massimizzare la portata e la consapevolezza (awareness)."
+        },
+        {
+          "text": "Hub",
+          "isCorrect": false,
+          "rationale": "I contenuti Hub richiedono una regolarità che mal si concilia con l'eccezionalità di una grande campagna di lancio."
+        },
+        {
+          "text": "Help",
+          "isCorrect": false,
+          "rationale": "I contenuti Help risolvono piccoli dubbi pratici, non puntano sull'impatto emotivo o sulla spettacolarità del brand."
+        },
+        {
+          "text": "Paid",
+          "isCorrect": false,
+          "rationale": "Paid indica la modalità di acquisto dello spazio pubblicitario, non la strategia creativa del contenuto."
+        }
+      ],
+      "hint": "È il tipo di contenuto che si realizza 'poche volte l'anno' per colpire nel segno."
+    },
+    {
+      "question": "Perché nel digital marketing è più facile misurare la 'canalizzazione' (funnel) rispetto al mondo offline?",
+      "answerOptions": [
+        {
+          "text": "Perché è possibile monitorare tecnicamente ogni comportamento online che precede e genera un acquisto.",
+          "isCorrect": true,
+          "rationale": "Gli strumenti digitali permettono di tracciare il percorso dell'utente dal primo clic fino alla transazione finale."
+        },
+        {
+          "text": "Perché online gli utenti sono obbligati a fornire i propri dati prima di vedere un annuncio.",
+          "isCorrect": false,
+          "rationale": "Molte interazioni online avvengono in forma anonima o senza registrazione immediata dei dati personali."
+        },
+        {
+          "text": "Perché la pubblicità offline non può essere visualizzata su dispositivi mobili.",
+          "isCorrect": false,
+          "rationale": "Sebbene vero, la differenza cruciale non è il dispositivo, ma la tracciabilità tecnica dell'azione."
+        },
+        {
+          "text": "Perché nel mondo digitale non esiste la concorrenza tra aziende.",
+          "isCorrect": false,
+          "rationale": "La concorrenza nel digitale è estremamente alta, proprio per questo la misurazione diventa vitale."
+        }
+      ],
+      "hint": "Pensa alla capacità di seguire le 'impronte digitali' lasciate da un utente sul web."
+    },
+    {
+      "question": "Quale scenario descrive meglio la fase di 'Considerazione' nel percorso dell'utente?",
+      "answerOptions": [
+        {
+          "text": "L'utente legge blog informativi e recensioni per valutare diverse soluzioni al suo problema.",
+          "isCorrect": true,
+          "rationale": "In questa fase, l'utente è consapevole del problema e sta confrontando attivamente le possibili opzioni di mercato."
+        },
+        {
+          "text": "L'utente non ha mai sentito parlare del brand e vede per la prima volta un post sui social.",
+          "isCorrect": false,
+          "rationale": "Questa è la fase iniziale di Conoscenza (Awareness)."
+        },
+        {
+          "text": "L'utente inserisce i dati della carta di credito e completa l'ordine.",
+          "isCorrect": false,
+          "rationale": "Questa è la fase di Acquisto (Action/Purchase)."
+        },
+        {
+          "text": "L'utente scrive una recensione positiva dopo aver usato il prodotto per un mese.",
+          "isCorrect": false,
+          "rationale": "Questa attività rientra nella fase di Soddisfazione o Fedeltà."
+        }
+      ],
+      "hint": "È il momento in cui l'utente si chiede: 'Quale di questi prodotti è il migliore per me?'."
+    },
+    {
+      "question": "In un'ottica di Trasformazione Digitale, cosa ha rappresentato Spotify rispetto al modello precedente di iTunes?",
+      "answerOptions": [
+        {
+          "text": "Un cambiamento radicale del modello di business, passando dal possesso del file allo streaming come servizio.",
+          "isCorrect": true,
+          "rationale": "Spotify non ha solo venduto musica online, ma ha ridefinito il modo in cui il valore viene generato e consumato."
+        },
+        {
+          "text": "Una semplice digitalizzazione della qualità audio dei brani musicali.",
+          "isCorrect": false,
+          "rationale": "La qualità audio è un aspetto tecnico, non un cambiamento del modello operativo aziendale."
+        },
+        {
+          "text": "L'automazione del processo di stampa delle copertine dei CD.",
+          "isCorrect": false,
+          "rationale": "Questo sarebbe un esempio di digitalizzazione dei processi produttivi fisici, non trasformazione del business."
+        },
+        {
+          "text": "Un ritorno ai media tradizionali per promuovere la musica classica.",
+          "isCorrect": false,
+          "rationale": "Spotify è un'azienda puramente digitale e non rappresenta un ritorno al passato analogico."
+        }
+      ],
+      "hint": "Considera come è cambiato il modo in cui paghi e accedi alla musica."
+    },
+    {
+      "question": "Quale di questi KPI (Key Performance Indicator) sarebbe meno rilevante per misurare l'efficacia di una campagna di Content Marketing nella fase di Awareness?",
+      "answerOptions": [
+        {
+          "text": "Tasso di conversione in vendite dirette",
+          "isCorrect": true,
+          "rationale": "Nella fase di Awareness l'obiettivo è farsi conoscere; le vendite sono un risultato finale di fasi successive del funnel."
+        },
+        {
+          "text": "Numero di visite al sito web",
+          "isCorrect": false,
+          "rationale": "Le visite sono un indicatore fondamentale per capire quanta attenzione il contenuto sta attirando."
+        },
+        {
+          "text": "Condivisioni sui social media",
+          "isCorrect": false,
+          "rationale": "Le condivisioni misurano la viralità e la capacità del contenuto di raggiungere nuovi potenziali utenti."
+        },
+        {
+          "text": "Impressioni dell'annuncio",
+          "isCorrect": false,
+          "rationale": "Le impressioni indicano quante volte il messaggio è stato visualizzato, parametro tipico della fase di conoscenza."
+        }
+      ],
+      "hint": "Pensa a quale metrica è più vicina alla 'fine' del percorso d'acquisto piuttosto che all'inizio."
+    },
+    {
+      "question": "Un utente digita 'definizione SEO' su un motore di ricerca. Qual è l'intenzione di ricerca e quale contenuto è più appropriato?",
+      "answerOptions": [
+        {
+          "text": "Informazionale; un post del blog educativo che spiega cos'è e come funziona la SEO.",
+          "isCorrect": true,
+          "rationale": "L'utente sta cercando di acquisire conoscenze generali o risposte a domande specifiche, tipico dell'intento informazionale."
+        },
+        {
+          "text": "Transazionale; una pagina di vendita per un corso avanzato di SEO da 1000 euro.",
+          "isCorrect": false,
+          "rationale": "Chi cerca una definizione non è solitamente pronto all'acquisto immediato di un servizio costoso."
+        },
+        {
+          "text": "Navigazionale; un link diretto alla console di amministrazione di un sito web.",
+          "isCorrect": false,
+          "rationale": "L'utente cerca un concetto, non sta tentando di raggiungere un'area riservata o un sito specifico."
+        },
+        {
+          "text": "Commerciale; una classifica dei migliori consulenti SEO in Italia.",
+          "isCorrect": false,
+          "rationale": "L'utente vuole capire il significato del termine, non sta ancora confrontando professionisti per un ingaggio."
+        }
+      ],
+      "hint": "L'utente sta usando termini come 'cos'è' o 'come funziona' sottintesi."
+    }
+  ]
+}

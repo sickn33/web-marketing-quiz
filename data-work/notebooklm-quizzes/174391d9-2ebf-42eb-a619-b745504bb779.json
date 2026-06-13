@@ -1,0 +1,785 @@
+{
+  "title": "Marketing Quiz",
+  "questions": [
+    {
+      "question": "Secondo le lezioni del Prof. Granato, quale termine descrive l'applicazione di nuove idee per migliorare prodotti o processi generando valore?",
+      "answerOptions": [
+        {
+          "text": "Invenzione",
+          "isCorrect": false,
+          "rationale": "Questo concetto si riferisce alla creazione di qualcosa di completamente inedito, piuttosto che al miglioramento di ciò che esiste già."
+        },
+        {
+          "text": "Innovazione",
+          "isCorrect": true,
+          "rationale": "L'innovazione consiste nel generare valore applicando nuove idee a prodotti, servizi o processi preesistenti."
+        },
+        {
+          "text": "Trasformazione",
+          "isCorrect": false,
+          "rationale": "Sebbene correlata, questa è la fase di integrazione tecnologica sistemica e non la definizione specifica di applicazione di idee per il miglioramento."
+        },
+        {
+          "text": "Digitalizzazione",
+          "isCorrect": false,
+          "rationale": "Questo termine indica solitamente la conversione di processi analogici in digitali, non necessariamente il miglioramento di valore tramite nuove idee."
+        }
+      ],
+      "hint": "Considera la differenza tra creare il 'nuovo assoluto' e migliorare l'esistente."
+    },
+    {
+      "question": "Qual è l'obiettivo principale della trasformazione digitale all'interno di un'organizzazione?",
+      "answerOptions": [
+        {
+          "text": "Sostituire completamente il personale con l'intelligenza artificiale",
+          "isCorrect": false,
+          "rationale": "L'obiettivo è il miglioramento sistemico e l'efficienza, non necessariamente la sostituzione totale del capitale umano."
+        },
+        {
+          "text": "Migliorare efficienza, competitività e innovazione ridefinendo i modelli di business",
+          "isCorrect": true,
+          "rationale": "La trasformazione digitale mira a integrare le tecnologie in tutti gli aspetti aziendali per generare valore e competitività."
+        },
+        {
+          "text": "Creare unicamente un sito web vetrina per l'azienda",
+          "isCorrect": false,
+          "rationale": "Questa è un'attività puramente tattica e limitata che non riflette la natura sistemica della trasformazione digitale."
+        },
+        {
+          "text": "Ridurre esclusivamente i costi di marketing tradizionale",
+          "isCorrect": false,
+          "rationale": "La riduzione dei costi può essere una conseguenza, ma l'obiettivo principale è più ampio e riguarda la competitività e i processi operativi."
+        }
+      ],
+      "hint": "Pensa alla trasformazione come a un processo che coinvolge l'intera struttura aziendale."
+    },
+    {
+      "question": "Quale tra questi non fa parte degli elementi del Marketing Mix (P) presentati nel materiale?",
+      "answerOptions": [
+        {
+          "text": "People",
+          "isCorrect": false,
+          "rationale": "Le persone rappresentano uno degli elementi fondamentali del mix nel marketing moderno."
+        },
+        {
+          "text": "Price",
+          "isCorrect": false,
+          "rationale": "Il prezzo è una variabile critica che determina il posizionamento e l'accessibilità del prodotto."
+        },
+        {
+          "text": "Performance",
+          "isCorrect": true,
+          "rationale": "Sebbene importante, la performance non è elencata come una delle 'P' canoniche del marketing mix nelle slide fornite."
+        },
+        {
+          "text": "Place",
+          "isCorrect": false,
+          "rationale": "Il punto vendita o la distribuzione sono essenziali per rendere disponibile il prodotto al cliente."
+        }
+      ],
+      "hint": "Ricorda il modello classico delle 'P' esteso a cinque elementi nel materiale."
+    },
+    {
+      "question": "In che modo l'esperienza di Blockbuster vs. Netflix illustra il concetto di innovazione?",
+      "answerOptions": [
+        {
+          "text": "Netflix ha inventato il concetto di film, mentre Blockbuster no",
+          "isCorrect": false,
+          "rationale": "Il film esisteva già; la differenza risiede nel modello di distribuzione e fruizione."
+        },
+        {
+          "text": "Blockbuster è fallita perché non ha saputo adattarsi ai nuovi modelli di business digitali",
+          "isCorrect": true,
+          "rationale": "Il rifiuto di acquisire Netflix e l'incapacità di innovare il proprio modello operativo hanno portato Blockbuster al fallimento."
+        },
+        {
+          "text": "La tecnologia di streaming è stata inventata da Blockbuster e poi rubata",
+          "isCorrect": false,
+          "rationale": "Non ci sono prove nel materiale che suggeriscano un furto di proprietà intellettuale, ma piuttosto una mancanza di visione strategica."
+        },
+        {
+          "text": "Netflix ha vinto perché offriva prezzi più alti per una qualità inferiore",
+          "isCorrect": false,
+          "rationale": "Il successo di Netflix è derivato dalla convenienza, dalla tecnologia on-demand e dalla comprensione del consumatore digitale."
+        }
+      ],
+      "hint": "Rifletti sulla capacità di un'azienda di cambiare il proprio approccio al mercato nel tempo."
+    },
+    {
+      "question": "Che cos'è lo ZMOT nel percorso d'acquisto del consumatore?",
+      "answerOptions": [
+        {
+          "text": "Il momento in cui il cliente vede un annuncio in TV",
+          "isCorrect": false,
+          "rationale": "Questo corrisponde solitamente allo stimolo iniziale, non alla fase di ricerca attiva tipica dello ZMOT."
+        },
+        {
+          "text": "Zero Moment of Truth: la ricerca online effettuata prima dell'acquisto",
+          "isCorrect": true,
+          "rationale": "Lo ZMOT rappresenta il momento in cui il consumatore utilizza internet per informarsi prima di interagire con il prodotto."
+        },
+        {
+          "text": "Il momento in cui il cliente paga alla cassa",
+          "isCorrect": false,
+          "rationale": "Questo è solitamente definito come il Primo Momento della Verità (First Moment of Truth)."
+        },
+        {
+          "text": "L'esperienza d'uso del prodotto dopo l'acquisto",
+          "isCorrect": false,
+          "rationale": "Questa fase è definita Secondo Momento della Verità (Second Moment of Truth)."
+        }
+      ],
+      "hint": "Google ha coniato questo termine per descrivere la fase di ricerca digitale."
+    },
+    {
+      "question": "Qual è l'obiettivo principale della SEO (Search Engine Optimization)?",
+      "answerOptions": [
+        {
+          "text": "Aumentare il numero di annunci a pagamento su Google",
+          "isCorrect": false,
+          "rationale": "La SEO si concentra specificamente sui risultati organici, non sulla pubblicità a pagamento (SEA)."
+        },
+        {
+          "text": "Ottenere più traffico dai motori di ricerca migliorando il posizionamento organico",
+          "isCorrect": true,
+          "rationale": "La SEO mira a rendere una pagina web più utile e visibile per le ricerche degli utenti senza ricorrere a sponsorizzazioni."
+        },
+        {
+          "text": "Eliminare i concorrenti dai risultati di ricerca",
+          "isCorrect": false,
+          "rationale": "L'obiettivo è migliorare la propria rilevanza, non agire direttamente sull'esistenza dei concorrenti."
+        },
+        {
+          "text": "Creare contenuti che solo i robot possono leggere",
+          "isCorrect": false,
+          "rationale": "Al contrario, i motori di ricerca premiano le pagine che risultano più utili per le persone reali."
+        }
+      ],
+      "hint": "Si tratta di visibilità non a pagamento."
+    },
+    {
+      "question": "Nella SERP (Search Engine Results Page), come vengono distinti i risultati?",
+      "answerOptions": [
+        {
+          "text": "A pagamento e Organici",
+          "isCorrect": true,
+          "rationale": "Google suddivide i risultati in annunci sponsorizzati (a pagamento) e risultati determinati dall'algoritmo (organici)."
+        },
+        {
+          "text": "Casuali e Ordinati",
+          "isCorrect": false,
+          "rationale": "I risultati non sono mai casuali; seguono logiche algoritmiche o di offerta economica."
+        },
+        {
+          "text": "Solo Video e Solo Testo",
+          "isCorrect": false,
+          "rationale": "La SERP include vari formati, ma la distinzione strutturale primaria riguarda la fonte del posizionamento (pagato o meno)."
+        },
+        {
+          "text": "Interni ed Esterni",
+          "isCorrect": false,
+          "rationale": "Tutti i risultati portano a destinazioni esterne a Google o interne al suo ecosistema, ma non è questa la distinzione principale presentata."
+        }
+      ],
+      "hint": "Pensa a come Google genera profitto rispetto a come fornisce informazioni gratuite."
+    },
+    {
+      "question": "Quale caratteristica distingue principalmente il digital advertising dalla pubblicità tradizionale?",
+      "answerOptions": [
+        {
+          "text": "Il costo sempre più elevato",
+          "isCorrect": false,
+          "rationale": "Il digitale può spesso essere più economico e scalabile rispetto ai media tradizionali."
+        },
+        {
+          "text": "Flessibilità e precisione",
+          "isCorrect": true,
+          "rationale": "La pubblicità digitale permette modifiche rapide, scalabilità del budget e una profilazione del pubblico molto accurata."
+        },
+        {
+          "text": "La mancanza di misurabilità",
+          "isCorrect": false,
+          "rationale": "Al contrario, uno dei punti di forza del digitale è la possibilità di misurare quasi ogni aspetto della performance."
+        },
+        {
+          "text": "L'impossibilità di costruire relazioni",
+          "isCorrect": false,
+          "rationale": "Il materiale specifica che il digital advertising è diventato un mezzo fondamentale per costruire relazioni con i consumatori."
+        }
+      ],
+      "hint": "Considera la capacità di cambiare un annuncio in tempo reale."
+    },
+    {
+      "question": "Cosa indica la metrica CTR (Click-Through Rate)?",
+      "answerOptions": [
+        {
+          "text": "Il costo totale della campagna pubblicitaria",
+          "isCorrect": false,
+          "rationale": "Il costo è una metrica di spesa, non una percentuale di interazione."
+        },
+        {
+          "text": "La percentuale di impressioni che generano un clic",
+          "isCorrect": true,
+          "rationale": "Il CTR mette in relazione quante volte l'annuncio è stato visto (impressioni) con quante volte è stato cliccato."
+        },
+        {
+          "text": "Il numero totale di persone che hanno visto l'annuncio",
+          "isCorrect": false,
+          "rationale": "Questa è la definizione di 'Copertura' o 'Impressioni', a seconda se si contano gli utenti unici o le visualizzazioni totali."
+        },
+        {
+          "text": "Il profitto netto ottenuto da ogni clic",
+          "isCorrect": false,
+          "rationale": "Il profitto legato alla spesa è più propriamente riferito al ROI o al ROAS."
+        }
+      ],
+      "hint": "È un rapporto tra visualizzazioni e azioni dirette sull'annuncio."
+    },
+    {
+      "question": "Qual è la differenza tra ROAS e ROI nel digital advertising?",
+      "answerOptions": [
+        {
+          "text": "Il ROAS calcola il profitto netto, il ROI solo il fatturato",
+          "isCorrect": false,
+          "rationale": "È l'opposto: il ROI considera il profitto netto, mentre il ROAS si focalizza sui ricavi lordi rispetto alla spesa pubblicitaria."
+        },
+        {
+          "text": "Il ROAS riguarda i ricavi della campagna, il ROI il profitto netto sull'investimento",
+          "isCorrect": true,
+          "rationale": "Il ROAS misura l'efficacia della spesa pubblicitaria, mentre il ROI valuta il guadagno finale al netto di tutti i costi."
+        },
+        {
+          "text": "Sono esattamente la stessa cosa",
+          "isCorrect": false,
+          "rationale": "Sebbene simili, utilizzano basi diverse (ricavi lordi vs profitto netto) per valutare il successo."
+        },
+        {
+          "text": "Il ROI si usa solo per la carta stampata",
+          "isCorrect": false,
+          "rationale": "Il ROI è una metrica universale applicabile a qualsiasi investimento, incluso il digital advertising."
+        }
+      ],
+      "hint": "Uno guarda al fatturato generato, l'altro al guadagno effettivo in tasca all'azienda."
+    },
+    {
+      "question": "Cosa si intende per 'Tasso di conversione'?",
+      "answerOptions": [
+        {
+          "text": "La velocità con cui il sito web carica le immagini",
+          "isCorrect": false,
+          "rationale": "Questa è la velocità di caricamento, un parametro tecnico diverso dalla conversione."
+        },
+        {
+          "text": "La frequenza con cui i clienti eseguono un'azione desiderata dopo aver visto l'annuncio",
+          "isCorrect": true,
+          "rationale": "Il tasso di conversione misura l'efficacia nel portare l'utente a compiere l'obiettivo prefissato (es. acquisto o iscrizione)."
+        },
+        {
+          "text": "Il numero di volte che l'annuncio viene mostrato",
+          "isCorrect": false,
+          "rationale": "Questa metrica corrisponde alle impressioni."
+        },
+        {
+          "text": "Il rapporto tra seguaci e non seguaci sui social media",
+          "isCorrect": false,
+          "rationale": "Questa è una metrica di social media vanity o engagement, non di conversione pubblicitaria."
+        }
+      ],
+      "hint": "Pensa al passaggio da semplice spettatore a partecipante attivo."
+    },
+    {
+      "question": "Qual è la definizione corretta di Content Marketing secondo il materiale?",
+      "answerOptions": [
+        {
+          "text": "L'invio massivo di email pubblicitarie a tutti i contatti",
+          "isCorrect": false,
+          "rationale": "Questo è spesso considerato spam o semplice email marketing, non l'approccio strategico del contenuto."
+        },
+        {
+          "text": "Un approccio strategico focalizzato sulla creazione e distribuzione di contenuti di valore, pertinenti e coerenti",
+          "isCorrect": true,
+          "rationale": "Il fine ultimo è attirare e fidelizzare un pubblico definito per guidare azioni profittevoli."
+        },
+        {
+          "text": "La vendita diretta di prodotti tramite videochiamata",
+          "isCorrect": false,
+          "rationale": "Questa è una tecnica di vendita diretta o telemarketing, non content marketing."
+        },
+        {
+          "text": "L'acquisto di spazi pubblicitari sui giornali cartacei",
+          "isCorrect": false,
+          "rationale": "Questa è pubblicità tradizionale (Outbound), che si basa sull'interruzione piuttosto che sul valore del contenuto."
+        }
+      ],
+      "hint": "Si basa sulla capacità di essere utili o interessanti per il pubblico, non solo promozionali."
+    },
+    {
+      "question": "Quali sono le quattro fasi del modello AIDA?",
+      "answerOptions": [
+        {
+          "text": "Accesso, Impatto, Dettaglio, Acquisto",
+          "isCorrect": false,
+          "rationale": "Questi termini non corrispondono agli stadi psicologici del modello classico descritto."
+        },
+        {
+          "text": "Attenzione, Interesse, Desiderio, Azione",
+          "isCorrect": true,
+          "rationale": "Il modello AIDA descrive il percorso psicologico del consumatore: Awareness, Interest, Desire, Action."
+        },
+        {
+          "text": "Analisi, Informazione, Decisione, Archiviazione",
+          "isCorrect": false,
+          "rationale": "Sebbene razionali, questi non sono i nomi corretti delle fasi del modello AIDA."
+        },
+        {
+          "text": "Attività, Investimento, Direzione, Approvazione",
+          "isCorrect": false,
+          "rationale": "Questi termini si riferiscono più a processi gestionali che al percorso decisionale del cliente."
+        }
+      ],
+      "hint": "È un acronimo che parte dalla cattura dello sguardo fino al gesto finale."
+    },
+    {
+      "question": "Nel modello PESO, cosa rappresenta la categoria 'Earned'?",
+      "answerOptions": [
+        {
+          "text": "Contenuti pubblicati su canali di proprietà come il sito web aziendale",
+          "isCorrect": false,
+          "rationale": "Questi appartengono alla categoria 'Owned'."
+        },
+        {
+          "text": "Contenuti ottenuti grazie a PR, menzioni esterne e passaparola",
+          "isCorrect": true,
+          "rationale": "I media 'guadagnati' sono quelli derivanti dalla reputazione e dall'interesse suscitato in terze parti."
+        },
+        {
+          "text": "Spazi pubblicitari acquistati su piattaforme social",
+          "isCorrect": false,
+          "rationale": "Questi rientrano nella categoria 'Paid'."
+        },
+        {
+          "text": "Contenuti condivisi dagli utenti che non sono clienti",
+          "isCorrect": false,
+          "rationale": "Questa definizione si sovrappone parzialmente a 'Shared', ma 'Earned' si focalizza storicamente sull'autorevolezza esterna e PR."
+        }
+      ],
+      "hint": "Pensa a ciò che gli altri dicono di te senza che tu debba pagarli direttamente."
+    },
+    {
+      "question": "Cosa caratterizza l'utilizzo degli strumenti digitali a 'Livello Tattico'?",
+      "answerOptions": [
+        {
+          "text": "Una profonda integrazione con gli obiettivi strategici di business",
+          "isCorrect": false,
+          "rationale": "A questo livello, non esiste una connessione significativa tra strumenti digitali e obiettivi strategici complessivi."
+        },
+        {
+          "text": "L'impiego principalmente per scopi comunicativi e siti web tipo 'brochure digitale'",
+          "isCorrect": true,
+          "rationale": "Il livello tattico vede il digitale come un semplice canale di distribuzione di informazioni limitata."
+        },
+        {
+          "text": "La completa automazione dei processi di vendita",
+          "isCorrect": false,
+          "rationale": "L'automazione richiede un'integrazione strategica che va oltre il mero utilizzo tattico/comunicativo."
+        },
+        {
+          "text": "L'uso esclusivo di Big Data per predire il mercato",
+          "isCorrect": false,
+          "rationale": "L'analisi dei Big Data è una pratica avanzata, non caratteristica del livello tattico superficiale."
+        }
+      ],
+      "hint": "Immagina un'azienda che usa il sito web solo come una 'vetrina' statica."
+    },
+    {
+      "question": "Quale tra le seguenti è una fase finale della Customer Journey indicata nelle slide?",
+      "answerOptions": [
+        {
+          "text": "Conoscenza",
+          "isCorrect": false,
+          "rationale": "Questa è la fase iniziale in cui l'utente scopre il brand."
+        },
+        {
+          "text": "Advocacy",
+          "isCorrect": true,
+          "rationale": "L'advocacy è lo stadio in cui il cliente soddisfatto promuove attivamente il brand ad altri."
+        },
+        {
+          "text": "Acquisto",
+          "isCorrect": false,
+          "rationale": "L'acquisto è una fase intermedia; il percorso prosegue verso la fedeltà e la promozione."
+        },
+        {
+          "text": "Considerazione",
+          "isCorrect": false,
+          "rationale": "Questo è il momento in cui l'utente valuta le diverse opzioni disponibili."
+        }
+      ],
+      "hint": "È il momento in cui il cliente diventa un 'ambasciatore' del marchio."
+    },
+    {
+      "question": "Nella formula del ROAS, quale valore compare al numeratore?",
+      "answerOptions": [
+        {
+          "text": "Il numero di clic riceuti",
+          "isCorrect": false,
+          "rationale": "I clic misurano l'interesse, ma il ROAS è una metrica economica basata sui ricavi."
+        },
+        {
+          "text": "L'importo ricavato dalla campagna (entrate)",
+          "isCorrect": true,
+          "rationale": "Il ROAS calcola quanto fatturato è stato generato per ogni euro speso in pubblicità."
+        },
+        {
+          "text": "Il costo totale dei dipendenti",
+          "isCorrect": false,
+          "rationale": "Il ROAS si limita a considerare la spesa pubblicitaria viva, non i costi fissi aziendali."
+        },
+        {
+          "text": "Il numero di nuovi follower",
+          "isCorrect": false,
+          "rationale": "I follower sono una metrica di engagement, non di rendimento monetario diretto della spesa pubblicitaria."
+        }
+      ],
+      "hint": "Il ROAS è il ritorno sulla spesa pubblicitaria."
+    },
+    {
+      "question": "Perché si dice che 'non siamo obbligati ad inventarci nulla'?",
+      "answerOptions": [
+        {
+          "text": "Perché il marketing è inutile oggi",
+          "isCorrect": false,
+          "rationale": "Al contrario, il marketing è essenziale per applicare l'innovazione e competere."
+        },
+        {
+          "text": "Perché l'innovazione consiste spesso nel migliorare idee esistenti per generare valore",
+          "isCorrect": true,
+          "rationale": "L'obiettivo non è sempre creare l'inedito, ma applicare meglio ciò che già esiste per risolvere problemi."
+        },
+        {
+          "text": "Perché tutte le invenzioni sono già state fatte nel 1985",
+          "isCorrect": false,
+          "rationale": "L'innovazione è continua; l'affermazione sottolinea solo la differenza tra inventare dal nulla e innovare l'esistente."
+        },
+        {
+          "text": "Perché è meglio copiare i concorrenti senza cambiare nulla",
+          "isCorrect": false,
+          "rationale": "L'innovazione richiede un miglioramento e la generazione di valore, non una copia passiva."
+        }
+      ],
+      "hint": "Pensa alla distinzione tra lo scienziato che scopre e l'imprenditore che ottimizza."
+    },
+    {
+      "question": "Quale metrica misura il rapporto tra spesa pubblicitaria e vendite attribuite?",
+      "answerOptions": [
+        {
+          "text": "ACOS (Costo pubblicitario delle vendite)",
+          "isCorrect": true,
+          "rationale": "L'ACOS calcola la percentuale di spesa pubblicitaria rispetto alle vendite che ha generato."
+        },
+        {
+          "text": "CTR",
+          "isCorrect": false,
+          "rationale": "Il CTR riguarda l'interazione con l'annuncio, non il valore delle vendite finali."
+        },
+        {
+          "text": "CPM (Costo per mille)",
+          "isCorrect": false,
+          "rationale": "Il CPM misura il costo per ogni mille visualizzazioni, indipendentemente dalle vendite."
+        },
+        {
+          "text": "Bounce Rate (Tasso di rimbalzo)",
+          "isCorrect": false,
+          "rationale": "Questa metrica riguarda l'abbandono del sito web, non il costo delle vendite."
+        }
+      ],
+      "hint": "Viene spesso utilizzata per capire quanto 'pesa' la pubblicità su ogni euro venduto."
+    },
+    {
+      "question": "Nel Content Marketing, qual è l'importanza di monitorare i KPI?",
+      "answerOptions": [
+        {
+          "text": "Serve solo a giustificare lo stipendio dei dipendenti",
+          "isCorrect": false,
+          "rationale": "I KPI sono strumenti decisionali per ottimizzare la strategia, non meri strumenti di controllo burocratico."
+        },
+        {
+          "text": "Permette di analizzare i risultati e ottimizzare la distribuzione dei contenuti",
+          "isCorrect": true,
+          "rationale": "Senza metriche come visite o tassi di conversione, non è possibile sapere se il contenuto sta generando valore."
+        },
+        {
+          "text": "Nessuna, perché il contenuto di valore non ha bisogno di essere misurato",
+          "isCorrect": false,
+          "rationale": "Tutto il marketing strategico deve essere misurabile per guidare azioni profittevoli."
+        },
+        {
+          "text": "Serve a garantire che il contenuto sia il più lungo possibile",
+          "isCorrect": false,
+          "rationale": "La lunghezza non è un KPI di qualità; i KPI misurano l'efficacia verso l'obiettivo."
+        }
+      ],
+      "hint": "Pensa al miglioramento continuo basato sui dati."
+    },
+    {
+      "question": "Quale stadio del modello AIDA corrisponde alla creazione di un forte legame emotivo o bisogno verso il prodotto?",
+      "answerOptions": [
+        {
+          "text": "Attenzione",
+          "isCorrect": false,
+          "rationale": "Questa fase serve solo a far accorgere l'utente della propria esistenza."
+        },
+        {
+          "text": "Desiderio",
+          "isCorrect": true,
+          "rationale": "Nella fase di Desire, l'utente passa dal semplice interesse a volere effettivamente il prodotto per sé."
+        },
+        {
+          "text": "Azione",
+          "isCorrect": false,
+          "rationale": "Questa è la fase finale dell'acquisto concreto."
+        },
+        {
+          "text": "Interesse",
+          "isCorrect": false,
+          "rationale": "L'interesse è una fase conoscitiva più razionale che precede il coinvolgimento emotivo del desiderio."
+        }
+      ],
+      "hint": "È lo stadio della 'D'."
+    },
+    {
+      "question": "Cosa caratterizza la 'Flessibilità' nel digital advertising?",
+      "answerOptions": [
+        {
+          "text": "La possibilità di usare solo colori diversi negli annunci",
+          "isCorrect": false,
+          "rationale": "La flessibilità riguarda la gestione complessiva della campagna (tempo, budget, target), non solo l'estetica."
+        },
+        {
+          "text": "Rapidità, modificabilità e scalabilità del budget",
+          "isCorrect": true,
+          "rationale": "Questi fattori permettono di adattare la strategia in tempo reale in base alla risposta del mercato."
+        },
+        {
+          "text": "L'obbligo di firmare contratti annuali non modificabili",
+          "isCorrect": false,
+          "rationale": "Questa è una caratteristica rigida tipica di molti media tradizionali, l'esatto opposto del digitale."
+        },
+        {
+          "text": "La rigidità dei canali di distribuzione",
+          "isCorrect": false,
+          "rationale": "Il digitale offre una varietà immensa di canali interconnessi."
+        }
+      ],
+      "hint": "Pensa a quanto velocemente puoi fermare o potenziare una campagna online."
+    },
+    {
+      "question": "Nel modello PESO, i social network dove gli utenti interagiscono e commentano rientrano solitamente in:",
+      "answerOptions": [
+        {
+          "text": "Paid Media",
+          "isCorrect": false,
+          "rationale": "Rientrano qui solo se stiamo pagando per sponsorizzare il post."
+        },
+        {
+          "text": "Shared Media",
+          "isCorrect": true,
+          "rationale": "La natura sociale e di condivisione delle piattaforme è il cuore dei media 'condivisi'."
+        },
+        {
+          "text": "Owned Media",
+          "isCorrect": false,
+          "rationale": "Sebbene l'azienda gestisca il profilo, la piattaforma non è di sua proprietà (come lo è invece un sito web)."
+        },
+        {
+          "text": "Traditional Media",
+          "isCorrect": false,
+          "rationale": "I social network sono per definizione media digitali."
+        }
+      ],
+      "hint": "Si focalizza sulla natura partecipativa del web."
+    },
+    {
+      "question": "Che cos'è la 'Copertura' (Reach) in una campagna pubblicitaria?",
+      "answerOptions": [
+        {
+          "text": "Il numero di volte che l'annuncio è stato cliccato",
+          "isCorrect": false,
+          "rationale": "Questo è il numero totale di clic."
+        },
+        {
+          "text": "Il numero di spettatori unici a cui viene mostrato l'annuncio",
+          "isCorrect": true,
+          "rationale": "La copertura conta le persone singole raggiunte, a differenza delle impressioni che contano le visualizzazioni totali."
+        },
+        {
+          "text": "Il costo per ogni singola vendita",
+          "isCorrect": false,
+          "rationale": "Questo è il Costo per Acquisizione (CPA)."
+        },
+        {
+          "text": "La durata totale del video pubblicitario",
+          "isCorrect": false,
+          "rationale": "Questa è una specifica tecnica del contenuto video, non una metrica di audience."
+        }
+      ],
+      "hint": "Indica l'ampiezza del pubblico raggiunto."
+    },
+    {
+      "question": "Perché le aziende integrano il digital advertising nella loro pianificazione?",
+      "answerOptions": [
+        {
+          "text": "Perché è un obbligo di legge dal 2024",
+          "isCorrect": false,
+          "rationale": "L'integrazione è una scelta strategica dettata dal mercato, non da obblighi normativi."
+        },
+        {
+          "text": "Per rimanere competitive e costruire relazioni in un mercato in evoluzione",
+          "isCorrect": true,
+          "rationale": "L'evoluzione tecnologica e i cambiamenti nel comportamento dei consumatori rendono il digitale indispensabile."
+        },
+        {
+          "text": "Per infastidire i consumatori con continui pop-up",
+          "isCorrect": false,
+          "rationale": "L'obiettivo è la costruzione di relazioni e valore, non l'irritazione del pubblico (sebbene possa accadere se mal gestito)."
+        },
+        {
+          "text": "Per eliminare la necessità di avere un ufficio fisico",
+          "isCorrect": false,
+          "rationale": "Il digital advertising riguarda la promozione e la relazione, non necessariamente la logistica degli uffici."
+        }
+      ],
+      "hint": "Riguarda l'adattamento ai nuovi comportamenti del pubblico."
+    },
+    {
+      "question": "Cosa si intende per 'Sito Vetrina' secondo la Prof.ssa Vernuccio?",
+      "answerOptions": [
+        {
+          "text": "Un portale e-commerce avanzato",
+          "isCorrect": false,
+          "rationale": "Un e-commerce è interattivo e transazionale, l'opposto di una semplice vetrina."
+        },
+        {
+          "text": "Una brochure digitale con limitata interattività",
+          "isCorrect": true,
+          "rationale": "Il sito vetrina si limita a mostrare informazioni senza integrare processi di business complessi."
+        },
+        {
+          "text": "Un sistema di gestione dei Big Data",
+          "isCorrect": false,
+          "rationale": "Questi sistemi sono invisibili all'utente finale e molto distanti dalla natura di un sito informativo semplice."
+        },
+        {
+          "text": "Un'applicazione per la realtà aumentata",
+          "isCorrect": false,
+          "rationale": "La realtà aumentata è una tecnologia esperienziale che va ben oltre la brochure statica."
+        }
+      ],
+      "hint": "Pensa a un volantino trasportato sul web."
+    },
+    {
+      "question": "Quale stadio della Customer Journey è collegato alla 'FAQ Knowledge Base'?",
+      "answerOptions": [
+        {
+          "text": "Conoscenza",
+          "isCorrect": false,
+          "rationale": "In questa fase si usano solitamente ads o social, non documentazione tecnica profonda."
+        },
+        {
+          "text": "Acquisto",
+          "isCorrect": true,
+          "rationale": "Le FAQ e le basi di conoscenza aiutano a risolvere dubbi finali o procedere con l'acquisto tecnico guidato."
+        },
+        {
+          "text": "Considerazione",
+          "isCorrect": false,
+          "rationale": "Qui si consultano più blog e recensioni comparative."
+        },
+        {
+          "text": "Fedeltà",
+          "isCorrect": false,
+          "rationale": "La fedeltà si nutre di newsletter e promozioni esclusive, non solo di risoluzione problemi."
+        }
+      ],
+      "hint": "È un supporto che aiuta a chiudere la transazione o supportare il cliente nel momento critico."
+    },
+    {
+      "question": "Cosa indica il ROI nel contesto pubblicitario?",
+      "answerOptions": [
+        {
+          "text": "Il numero di visualizzazioni totali",
+          "isCorrect": false,
+          "rationale": "Questa è la metrica delle impressioni."
+        },
+        {
+          "text": "Il profitto netto ottenuto in relazione al budget speso",
+          "isCorrect": true,
+          "rationale": "Il ROI misura quanto l'investimento ha effettivamente arricchito l'azienda al netto dei costi."
+        },
+        {
+          "text": "Il tempo medio speso dagli utenti sul sito",
+          "isCorrect": false,
+          "rationale": "Questa è la durata della sessione, una metrica di engagement web."
+        },
+        {
+          "text": "La qualità grafica dei banner",
+          "isCorrect": false,
+          "rationale": "La qualità è soggettiva o misurabile tramite test A/B, ma non è il ROI."
+        }
+      ],
+      "hint": "Return On Investment."
+    },
+    {
+      "question": "Quale elemento del modello PESO include la pubblicità a pagamento sui motori di ricerca (SEA)?",
+      "answerOptions": [
+        {
+          "text": "Paid Media",
+          "isCorrect": true,
+          "rationale": "Qualsiasi spazio ottenuto tramite un pagamento diretto a una piattaforma rientra nei 'Paid Media'."
+        },
+        {
+          "text": "Earned Media",
+          "isCorrect": false,
+          "rationale": "La SEA non è 'guadagnata' per meriti editoriali, ma acquistata."
+        },
+        {
+          "text": "Shared Media",
+          "isCorrect": false,
+          "rationale": "La ricerca non ha la stessa natura virale o di interazione tra pari dei social media."
+        },
+        {
+          "text": "Owned Media",
+          "isCorrect": false,
+          "rationale": "Google Ads non è di proprietà dell'inserzionista, ma di Alphabet Inc."
+        }
+      ],
+      "hint": "È la 'P' dell'acronimo."
+    },
+    {
+      "question": "Cosa significa che la pubblicità digitale ha un'alta 'Precisione'?",
+      "answerOptions": [
+        {
+          "text": "Che non commette mai errori di ortografia",
+          "isCorrect": false,
+          "rationale": "La precisione non si riferisce alla grammatica, ma alla capacità di colpire il target corretto."
+        },
+        {
+          "text": "Che consente di utilizzare diversi parametri di targeting per raggiungere il pubblico giusto",
+          "isCorrect": true,
+          "rationale": "Attraverso dati demografici, interessi e comportamenti, è possibile mostrare l'annuncio solo a chi è realmente interessato."
+        },
+        {
+          "text": "Che il costo è fisso e non cambia mai",
+          "isCorrect": false,
+          "rationale": "Il costo digitale è variabile e dinamico, non preciso nel senso di 'immutabile'."
+        },
+        {
+          "text": "Che gli annunci appaiono sempre nello stesso punto della pagina",
+          "isCorrect": false,
+          "rationale": "Il posizionamento digitale è dinamico e dipende da aste e algoritmi."
+        }
+      ],
+      "hint": "Riguarda la capacità di 'mirare' ai propri potenziali clienti."
+    }
+  ]
+}

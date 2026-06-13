@@ -1,0 +1,785 @@
+{
+  "title": "Marketing Quiz",
+  "questions": [
+    {
+      "question": "Secondo l'evoluzione del marketing moderno, come viene definito il posizionamento del brand?",
+      "answerOptions": [
+        {
+          "text": "Una percezione condivisa basata su coerenza valoriale e adattabilità comunicativa.",
+          "isCorrect": true,
+          "rationale": "Il posizionamento non è più una semplice dichiarazione unidirezionale dell'azienda, ma si costruisce sulla percezione del pubblico e sulla capacità di adattarsi."
+        },
+        {
+          "text": "Una dichiarazione aziendale fissa e immutabile nel tempo.",
+          "isCorrect": false,
+          "rationale": "Questa definizione riflette un approccio tradizionale e statico che non tiene conto dell'interazione con il mercato digitale."
+        },
+        {
+          "text": "L'insieme dei loghi e dei colori sociali definiti dal reparto grafico.",
+          "isCorrect": false,
+          "rationale": "Gli elementi grafici sono solo una parte della brand identity e non definiscono il posizionamento come percezione valoriale."
+        },
+        {
+          "text": "Il posizionamento fisico del prodotto sugli scaffali dei punti vendita.",
+          "isCorrect": false,
+          "rationale": "Il termine in questo contesto si riferisce alla mente del consumatore, non alla collocazione logistica dei prodotti."
+        }
+      ],
+      "hint": "Pensa a come il brand viene vissuto e interpretato collettivamente dalla comunità."
+    },
+    {
+      "question": "Cosa devono fare i brand per penetrare efficacemente nelle comunità digitali?",
+      "answerOptions": [
+        {
+          "text": "Agire come 'amici', mostrando cura e preoccupazione genuina per i bisogni dei clienti.",
+          "isCorrect": true,
+          "rationale": "Per essere accettati nelle community, i brand devono abbandonare il tono istituzionale e adottare un approccio più umano e relazionale."
+        },
+        {
+          "text": "Aumentare la frequenza dei messaggi pubblicitari standardizzati.",
+          "isCorrect": false,
+          "rationale": "La pressione pubblicitaria eccessiva e non personalizzata tende ad allontanare le community digitali."
+        },
+        {
+          "text": "Limitare la comunicazione ai soli canali televisivi tradizionali.",
+          "isCorrect": false,
+          "rationale": "Le comunità digitali risiedono online e richiedono una presenza attiva sui canali social e interattivi."
+        },
+        {
+          "text": "Utilizzare esclusivamente influencer per evitare il contatto diretto.",
+          "isCorrect": false,
+          "rationale": "Sebbene gli influencer aiutino, il brand stesso deve dimostrare di saper ascoltare e interagire direttamente."
+        }
+      ],
+      "hint": "Considera il passaggio dai 'Codici del Brand' a comportamenti più empatici e naturali."
+    },
+    {
+      "question": "Nel passaggio dalle 4P alle 4C, cosa rappresenta la 'Co-creation'?",
+      "answerOptions": [
+        {
+          "text": "La partecipazione attiva dei clienti al processo di sviluppo di nuovi prodotti.",
+          "isCorrect": true,
+          "rationale": "La co-creazione sposta il focus dalla creazione isolata dell'azienda al coinvolgimento dell'utente finale nel design e valore."
+        },
+        {
+          "text": "La creazione coordinata di contenuti tra diverse agenzie pubblicitarie.",
+          "isCorrect": false,
+          "rationale": "La co-creazione nel marketing digitale riguarda il legame tra azienda e cliente, non la collaborazione interna tra fornitori."
+        },
+        {
+          "text": "La riduzione dei costi di produzione tramite l'automazione.",
+          "isCorrect": false,
+          "rationale": "L'automazione riguarda l'efficienza produttiva, mentre la co-creazione riguarda il coinvolgimento strategico del consumatore."
+        },
+        {
+          "text": "La copia dei prodotti della concorrenza per migliorare l'offerta.",
+          "isCorrect": false,
+          "rationale": "Questa pratica non aggiunge valore collaborativo e non riflette il concetto di partecipazione del cliente."
+        }
+      ],
+      "hint": "Pensa al ruolo del consumatore non più come destinatario passivo, ma come collaboratore."
+    },
+    {
+      "question": "Cosa si intende per 'Currency' nell'era digitale?",
+      "answerOptions": [
+        {
+          "text": "Prezzi fluttuanti basati sulla domanda di mercato e sul profilo del cliente.",
+          "isCorrect": true,
+          "rationale": "Il concetto di Currency sostituisce il prezzo statico con il dynamic pricing reso possibile dall'analisi dei dati in tempo reale."
+        },
+        {
+          "text": "L'utilizzo esclusivo di criptovalute per i pagamenti online.",
+          "isCorrect": false,
+          "rationale": "Sebbene le criptovalute siano una moneta, il concetto di 'Currency' nelle 4C si riferisce alla dinamicità delle strategie di prezzo."
+        },
+        {
+          "text": "Il tasso di cambio tra l'euro e il dollaro nelle transazioni e-commerce.",
+          "isCorrect": false,
+          "rationale": "Questo è un fattore macroeconomico standard che non descrive l'evoluzione strategica del marketing mix."
+        },
+        {
+          "text": "La velocità di caricamento delle pagine di pagamento di un sito.",
+          "isCorrect": false,
+          "rationale": "La velocità tecnica riguarda l'usabilità (User Experience), non la strategia di pricing del valore offerto."
+        }
+      ],
+      "hint": "Rifletti su come i prezzi negli hotel o nei voli aerei cambiano continuamente."
+    },
+    {
+      "question": "Quale domanda è fondamentale per scegliere il livello di utilizzo del marketing digitale secondo Vernuccio?",
+      "answerOptions": [
+        {
+          "text": "I nostri concorrenti quanto e come utilizzano il digital marketing?",
+          "isCorrect": true,
+          "rationale": "L'analisi del comportamento dei competitor è uno dei pilastri per definire la propria strategia e il livello di adozione digitale."
+        },
+        {
+          "text": "Qual è il colore preferito dell'amministratore delegato?",
+          "isCorrect": false,
+          "rationale": "Le preferenze personali dei dirigenti non sono criteri strategici validi per l'orientamento digitale."
+        },
+        {
+          "text": "Quanti dipendenti hanno meno di 30 anni in azienda?",
+          "isCorrect": false,
+          "rationale": "Sebbene l'età possa influire sulle competenze, la domanda strategica riguarda le risorse e competenze acquisibili globalmente."
+        },
+        {
+          "text": "Possiamo eliminare totalmente il marketing tradizionale?",
+          "isCorrect": false,
+          "rationale": "L'obiettivo solitamente è l'integrazione, non necessariamente l'eliminazione, e la domanda di Vernuccio si focalizza sulla valorizzazione."
+        }
+      ],
+      "hint": "Cerca un quesito che riguardi il confronto con il mercato e gli altri attori."
+    },
+    {
+      "question": "Perché i dati digitali sono chiamati anche dati binari?",
+      "answerOptions": [
+        {
+          "text": "Perché sono codificati da combinazioni di soli due simboli (0 e 1).",
+          "isCorrect": true,
+          "rationale": "Il sistema binario è la base dell'informatica, dove ogni informazione è ridotta a sequenze di bit (0 e 1)."
+        },
+        {
+          "text": "Perché richiedono sempre due dispositivi per essere letti.",
+          "isCorrect": false,
+          "rationale": "La definizione di binario riguarda la codifica interna dell'informazione, non l'hardware necessario."
+        },
+        {
+          "text": "Perché viaggiano in due direzioni contemporaneamente.",
+          "isCorrect": false,
+          "rationale": "Questa è una caratteristica della comunicazione bidirezionale, non della natura del dato binario."
+        },
+        {
+          "text": "Perché raddoppiano di volume ogni anno.",
+          "isCorrect": false,
+          "rationale": "La crescita dei dati è esponenziale ma il termine binario si riferisce alla base numerica utilizzata."
+        }
+      ],
+      "hint": "Pensa alla forma più elementare di linguaggio dei computer."
+    },
+    {
+      "question": "Qual è la differenza principale tra dati analogici e dati digitali?",
+      "answerOptions": [
+        {
+          "text": "I dati analogici cambiano continuamente, mentre quelli digitali cambiano discretamente tra stati.",
+          "isCorrect": true,
+          "rationale": "Il digitale è discreto (on/off), mentre l'analogico rappresenta grandezze continue come i solchi di un vinile."
+        },
+        {
+          "text": "I dati digitali sono meno precisi di quelli analogici.",
+          "isCorrect": false,
+          "rationale": "La precisione dipende dalla risoluzione (campionamento), ma il digitale offre generalmente maggiore stabilità e facilità di copia."
+        },
+        {
+          "text": "I dati analogici non possono essere archiviati su supporti fisici.",
+          "isCorrect": false,
+          "rationale": "I dischi in vinile sono un esempio perfetto di archiviazione fisica di dati analogici."
+        },
+        {
+          "text": "I dati digitali non sono influenzati dal tempo.",
+          "isCorrect": false,
+          "rationale": "Sebbene più resistenti, anche i supporti digitali possono degradarsi, ma la differenza fondamentale resta la modalità di codifica."
+        }
+      ],
+      "hint": "Pensa alla contrapposizione tra 'flusso continuo' e 'passaggi netti' (on/off)."
+    },
+    {
+      "question": "Quanti bit formano un byte?",
+      "answerOptions": [
+        {
+          "text": "8",
+          "isCorrect": true,
+          "rationale": "Uno standard informatico prevede che una serie di 8 bit componga l'unità di misura chiamata byte."
+        },
+        {
+          "text": "10",
+          "isCorrect": false,
+          "rationale": "Sebbene il sistema decimale usi il 10, l'architettura dei computer si basa su potenze di 2."
+        },
+        {
+          "text": "2",
+          "isCorrect": false,
+          "rationale": "2 è la base del sistema binario, ma non è il numero di bit che compongono un byte."
+        },
+        {
+          "text": "1024",
+          "isCorrect": false,
+          "rationale": "1024 è il numero di byte in un kilobyte, non di bit in un byte."
+        }
+      ],
+      "hint": "È una misura standard fondamentale dell'informatica."
+    },
+    {
+      "question": "Quale di queste è considerata una piattaforma digitale (e non un semplice device)?",
+      "answerOptions": [
+        {
+          "text": "I social network",
+          "isCorrect": true,
+          "rationale": "I social network sono ambienti (piattaforme) in cui avvengono le interazioni, mentre laptop e tablet sono gli strumenti fisici per accedervi."
+        },
+        {
+          "text": "Lo smartphone",
+          "isCorrect": false,
+          "rationale": "Lo smartphone è un device fisico (dispositivo mobile)."
+        },
+        {
+          "text": "Il tablet",
+          "isCorrect": false,
+          "rationale": "Il tablet è un hardware, ovvero un device digitale."
+        },
+        {
+          "text": "Il PC desktop",
+          "isCorrect": false,
+          "rationale": "Il PC è il dispositivo fisico tramite cui si accede alle piattaforme digitali."
+        }
+      ],
+      "hint": "Distingui tra l'ambiente virtuale di interazione e l'oggetto fisico che tieni in mano."
+    },
+    {
+      "question": "Come si è evoluto l'approccio al mercato nel passaggio dal marketing tradizionale al digitale?",
+      "answerOptions": [
+        {
+          "text": "Da unidirezionale e top-down a interattivo e decentralizzato.",
+          "isCorrect": true,
+          "rationale": "Il marketing digitale rompe la gerarchia azienda-cliente permettendo flussi bidirezionali e paritari."
+        },
+        {
+          "text": "Da dinamico a lineare e deterministico.",
+          "isCorrect": false,
+          "rationale": "Questo è il percorso inverso; il marketing tradizionale era lineare e deterministico."
+        },
+        {
+          "text": "Da un legame reticolare a uno basato esclusivamente sul segmento target.",
+          "isCorrect": false,
+          "rationale": "Il marketing digitale è quello che costruisce legami reticolari tra azienda e clienti e tra i clienti stessi."
+        },
+        {
+          "text": "Da un paniere di offerta co-creato a uno pre-confezionato.",
+          "isCorrect": false,
+          "rationale": "L'offerta pre-confezionata è tipica del marketing tradizionale 'push'."
+        }
+      ],
+      "hint": "Pensa alla differenza tra un monologo dell'azienda e un dialogo con la rete."
+    },
+    {
+      "question": "Cosa afferma la Legge di Grosh?",
+      "answerOptions": [
+        {
+          "text": "Se la velocità di elaborazione aumenta di 4 volte, il costo del computer si riduce della metà.",
+          "isCorrect": true,
+          "rationale": "Grosh ha identificato una relazione inversa tra l'aumento esponenziale delle prestazioni e il decremento dei costi hardware."
+        },
+        {
+          "text": "Il numero di transistor in un chip raddoppia ogni 18 mesi.",
+          "isCorrect": false,
+          "rationale": "Questa è la Legge di Moore, non di Grosh."
+        },
+        {
+          "text": "L'utilità di una rete è pari al quadrato del numero dei suoi utenti.",
+          "isCorrect": false,
+          "rationale": "Questa è la Legge di Metcalfe, che riguarda il valore della rete."
+        },
+        {
+          "text": "La tecnologia progredisce più in un'ora che nei primi 90 anni di storia.",
+          "isCorrect": false,
+          "rationale": "Questa è una citazione generale sull'accelerazione tecnologica, non la legge specifica di Grosh."
+        }
+      ],
+      "hint": "Cerca la proporzione specifica tra velocità (4x) e costo (1/2)."
+    },
+    {
+      "question": "Secondo la Legge di Moore, cosa accade ogni 18 mesi circa?",
+      "answerOptions": [
+        {
+          "text": "È possibile raddoppiare il numero di transistor contenuti in un chip a parità di costo.",
+          "isCorrect": true,
+          "rationale": "La Legge di Moore descrive la crescita esponenziale della densità dei microprocessori nel tempo."
+        },
+        {
+          "text": "Il costo di internet si dimezza per tutti gli utenti globali.",
+          "isCorrect": false,
+          "rationale": "Moore si concentra sull'hardware (chip/transistor), non sulle tariffe dei provider."
+        },
+        {
+          "text": "La velocità di connessione raddoppia sistematicamente.",
+          "isCorrect": false,
+          "rationale": "La legge riguarda la capacità di calcolo dei processori, non direttamente la larghezza di banda delle reti."
+        },
+        {
+          "text": "Il numero di siti web raddoppia per soddisfare la domanda.",
+          "isCorrect": false,
+          "rationale": "La proliferazione dei siti è un fenomeno legato alla diffusione del web, non alla legge microelettronica di Moore."
+        }
+      ],
+      "hint": "Pensa al fondatore della Intel e ai componenti microscopici dei chip."
+    },
+    {
+      "question": "Quale legge esprime l'utilità di una rete con la formula $Ui \\approx n^2$?",
+      "answerOptions": [
+        {
+          "text": "Legge di Metcalfe",
+          "isCorrect": true,
+          "rationale": "Metcalfe ha teorizzato che il valore di una rete cresca esponenzialmente con l'aggiunta di ogni nuovo nodo o utente."
+        },
+        {
+          "text": "Legge di Moore",
+          "isCorrect": false,
+          "rationale": "Moore riguarda la potenza dei computer, non il valore della connessione tra utenti."
+        },
+        {
+          "text": "Legge di Grosh",
+          "isCorrect": false,
+          "rationale": "Grosh analizza il rapporto tra costi e velocità di calcolo."
+        },
+        {
+          "text": "Legge di Vernuccio",
+          "isCorrect": false,
+          "rationale": "Vernuccio fornisce domande guida per l'orientamento al digitale, non formule matematiche di rete."
+        }
+      ],
+      "hint": "Riguarda il fatto che più persone usano un social o un telefono, più quel servizio è utile per tutti."
+    },
+    {
+      "question": "Qual è il principale obiettivo delle ricerche di mercato online?",
+      "answerOptions": [
+        {
+          "text": "Ridurre l'asimmetria informativa.",
+          "isCorrect": true,
+          "rationale": "Le ricerche servono a colmare il gap di conoscenza dell'azienda rispetto ai desideri e comportamenti dei clienti."
+        },
+        {
+          "text": "Sostituire completamente i venditori fisici.",
+          "isCorrect": false,
+          "rationale": "La ricerca è uno strumento di analisi, non un canale di vendita automatizzato."
+        },
+        {
+          "text": "Aumentare il prezzo dei prodotti senza che i clienti se ne accorgano.",
+          "isCorrect": false,
+          "rationale": "Lo scopo è comprendere il mercato, non manipolare i prezzi in modo occulto."
+        },
+        {
+          "text": "Eliminare la concorrenza attraverso lo spionaggio industriale.",
+          "isCorrect": false,
+          "rationale": "Le ricerche di mercato sono strumenti legali di analisi dei trend e delle preferenze, non attività illecite."
+        }
+      ],
+      "hint": "Pensa alla necessità dell'azienda di sapere ciò che il cliente sa e desidera."
+    },
+    {
+      "question": "Quale rappresenta un problema tipico delle ricerche di mercato condotte online?",
+      "answerOptions": [
+        {
+          "text": "Difficoltà nel verificare se le persone investigate appartengano realmente al target.",
+          "isCorrect": true,
+          "rationale": "L'anonimato o la falsificazione dei profili online rende complesso garantire l'accuratezza del campione."
+        },
+        {
+          "text": "Il costo troppo elevato rispetto alle ricerche tradizionali.",
+          "isCorrect": false,
+          "rationale": "In genere le ricerche online sono più economiche e veloci di quelle telefoniche o faccia a faccia."
+        },
+        {
+          "text": "L'impossibilità di raggiungere un gran numero di persone.",
+          "isCorrect": false,
+          "rationale": "Al contrario, il web permette di raggiungere una molteplicità di individui molto vasta."
+        },
+        {
+          "text": "La mancanza di strumenti per analizzare i dati raccolti.",
+          "isCorrect": false,
+          "rationale": "Esistono moltissimi software digitali per l'elaborazione statistica dei dati online."
+        }
+      ],
+      "hint": "Considera l'incertezza sull'identità reale degli utenti nel mondo digitale."
+    },
+    {
+      "question": "Cos'è un 'touchpoint' nella Customer Journey?",
+      "answerOptions": [
+        {
+          "text": "Il momento di interazione tra consumatore e brand su una specifica piattaforma o device.",
+          "isCorrect": true,
+          "rationale": "I touchpoint sono i punti di contatto fisici o virtuali che punteggiano l'esperienza dell'utente."
+        },
+        {
+          "text": "Il tasto di acquisto 'compra ora' su un sito e-commerce.",
+          "isCorrect": false,
+          "rationale": "Questo è solo uno dei possibili touchpoint, non la definizione generale del concetto."
+        },
+        {
+          "text": "Il centro assistenza clienti situato in una sede fisica.",
+          "isCorrect": false,
+          "rationale": "Anche questo è un touchpoint, ma il termine include anche pubblicità, social, passaparola, ecc."
+        },
+        {
+          "text": "La velocità con cui un utente tocca lo schermo del telefono.",
+          "isCorrect": false,
+          "rationale": "Il touchpoint riguarda la relazione marca-cliente, non un parametro biomeccanico."
+        }
+      ],
+      "hint": "Immaginalo come una tappa di incontro lungo il percorso del cliente."
+    },
+    {
+      "question": "Quando finisce idealmente la Customer Journey di un consumatore?",
+      "answerOptions": [
+        {
+          "text": "Solo quando scompare il ricordo dell'esperienza.",
+          "isCorrect": true,
+          "rationale": "La journey non si limita all'acquisto, ma comprende il consumo e la memoria persistente del brand."
+        },
+        {
+          "text": "Nel momento esatto in cui viene effettuato il pagamento.",
+          "isCorrect": false,
+          "rationale": "L'acquisto è solo una fase; la fase post-acquisto e di consumo è parte integrante del viaggio."
+        },
+        {
+          "text": "Quando il cliente esce dal negozio fisico o chiude il browser.",
+          "isCorrect": false,
+          "rationale": "L'interazione continua attraverso l'uso del prodotto e l'eventuale assistenza o passaparola."
+        },
+        {
+          "text": "Dopo la consegna del prodotto a casa del cliente.",
+          "isCorrect": false,
+          "rationale": "La journey prosegue finché il prodotto genera un'emozione o un ricordo nell'utente."
+        }
+      ],
+      "hint": "Considera che l'esperienza continua a vivere nella mente anche dopo l'uso del prodotto."
+    },
+    {
+      "question": "Qual è la funzione principale delle 'Buyer Personas'?",
+      "answerOptions": [
+        {
+          "text": "Aiutare le aziende a progettare soluzioni che risolvono problemi dei clienti anziché problemi aziendali.",
+          "isCorrect": true,
+          "rationale": "Le personas favoriscono la 'customer centricity', orientando lo sviluppo del prodotto sui bisogni reali degli archetipi di utente."
+        },
+        {
+          "text": "Sostituire i nomi reali dei clienti nei database per motivi di privacy.",
+          "isCorrect": false,
+          "rationale": "Le personas sono archetipi immaginari per la strategia, non pseudonimi per la gestione dei dati (GDPR)."
+        },
+        {
+          "text": "Identificare i dipendenti dell'azienda più adatti alle vendite.",
+          "isCorrect": false,
+          "rationale": "Le buyer personas riguardano il profilo del cliente ideale, non la selezione del personale interno."
+        },
+        {
+          "text": "Creare avatar grafici per i videogiochi aziendali.",
+          "isCorrect": false,
+          "rationale": "Sebbene possano avere un nome e una descrizione, il loro scopo è strategico-analitico, non puramente ludico."
+        }
+      ],
+      "hint": "Rifletti sul concetto di 'Customer Centricity'."
+    },
+    {
+      "question": "Quali elementi vengono solitamente inclusi nella costruzione di una Persona?",
+      "answerOptions": [
+        {
+          "text": "Dati demografici, psicografici, obiettivi e possibili obiezioni all'acquisto.",
+          "isCorrect": true,
+          "rationale": "Una persona completa deve coprire chi è l'utente, come pensa, perché compra e cosa lo frena."
+        },
+        {
+          "text": "Solo il nome, il cognome e l'indirizzo email reale.",
+          "isCorrect": false,
+          "rationale": "Questi sono dati identificativi di un singolo individuo, non una 'characterization' di un segmento."
+        },
+        {
+          "text": "Esclusivamente la cronologia degli acquisti degli ultimi 10 anni.",
+          "isCorrect": false,
+          "rationale": "La cronologia è un dato comportamentale parziale che non spiega le motivazioni psicografiche o i dubbi del cliente."
+        },
+        {
+          "text": "L'elenco dei competitor preferiti.",
+          "isCorrect": false,
+          "rationale": "Sebbene utile, non è l'elemento centrale che definisce l'identità dell'archetipo del cliente."
+        }
+      ],
+      "hint": "Pensa a un profilo a 360 gradi che includa sia dati oggettivi che motivazioni psicologiche."
+    },
+    {
+      "question": "In cosa consiste la segmentazione del mercato?",
+      "answerOptions": [
+        {
+          "text": "Suddividere la domanda in sottoinsiemi omogenei al loro interno ma disomogenei tra loro.",
+          "isCorrect": true,
+          "rationale": "L'obiettivo è raggruppare clienti con bisogni simili per servirli con un marketing mix specifico."
+        },
+        {
+          "text": "Aumentare il numero di prodotti venduti in un solo anno.",
+          "isCorrect": false,
+          "rationale": "Questo è un obiettivo di vendita, non la definizione del processo di analisi della domanda."
+        },
+        {
+          "text": "Dividere l'azienda in diversi dipartimenti (vendite, marketing, HR).",
+          "isCorrect": false,
+          "rationale": "Questa è l'organizzazione aziendale, non la segmentazione del mercato di riferimento."
+        },
+        {
+          "text": "Limitare la vendita dei prodotti a una sola regione geografica.",
+          "isCorrect": false,
+          "rationale": "La segmentazione può portare alla scelta di un'area, ma la sua definizione è la suddivisione analitica della domanda totale."
+        }
+      ],
+      "hint": "Cerca le parole chiave 'omogenei' e 'disomogenei'."
+    },
+    {
+      "question": "Quali variabili di segmentazione includono parametri come 'stile di vita' e 'personalità'?",
+      "answerOptions": [
+        {
+          "text": "Psicografiche",
+          "isCorrect": true,
+          "rationale": "Le variabili psicografiche scavano negli aspetti soggettivi e psicologici che guidano le scelte del consumatore."
+        },
+        {
+          "text": "Geografiche",
+          "isCorrect": false,
+          "rationale": "Le geografiche riguardano la residenza, il clima e la densità della popolazione."
+        },
+        {
+          "text": "Socio-demografiche",
+          "isCorrect": false,
+          "rationale": "Queste riguardano dati oggettivi come età, reddito e professione."
+        },
+        {
+          "text": "Comportamentali",
+          "isCorrect": false,
+          "rationale": "Si riferiscono alle abitudini di acquisto, frequenza d'uso e fedeltà alla marca."
+        }
+      ],
+      "hint": "Termine che unisce la psicologia alla descrizione del target."
+    },
+    {
+      "question": "Cosa si analizza con le variabili di segmentazione 'Comportamentali'?",
+      "answerOptions": [
+        {
+          "text": "Benefici ricercati, frequenza d'uso e fedeltà alla marca.",
+          "isCorrect": true,
+          "rationale": "Questi parametri misurano il modo effettivo in cui il cliente interagisce con il prodotto o servizio."
+        },
+        {
+          "text": "Area territoriale e densità urbana.",
+          "isCorrect": false,
+          "rationale": "Queste sono variabili puramente geografiche."
+        },
+        {
+          "text": "Età, sesso e livello di istruzione.",
+          "isCorrect": false,
+          "rationale": "Queste sono variabili socio-demografiche classiche."
+        },
+        {
+          "text": "Atteggiamenti politici e credenze religiose.",
+          "isCorrect": false,
+          "rationale": "Sebbene possano influenzare il comportamento, rientrano generalmente nella sfera psicografica o dei valori."
+        }
+      ],
+      "hint": "Pensa alle azioni concrete compiute dal cliente rispetto al prodotto."
+    },
+    {
+      "question": "A cosa serve sviluppare una 'matrice prodotto-mercato' nelle fasi di segmentazione?",
+      "answerOptions": [
+        {
+          "text": "A stimare le dimensioni dei mercati e selezionare i mercati obiettivo.",
+          "isCorrect": true,
+          "rationale": "La matrice permette di visualizzare dove l'azienda può avere successo incrociando l'offerta con i vari segmenti."
+        },
+        {
+          "text": "A calcolare il costo esatto delle materie prime.",
+          "isCorrect": false,
+          "rationale": "I costi di produzione sono analizzati nel controllo di gestione, non nella matrice di segmentazione marketing."
+        },
+        {
+          "text": "A decidere i turni di lavoro degli operai in fabbrica.",
+          "isCorrect": false,
+          "rationale": "Questa è pianificazione operativa della produzione, estranea alle fasi strategiche della segmentazione."
+        },
+        {
+          "text": "A verificare la velocità dei server aziendali.",
+          "isCorrect": false,
+          "rationale": "Questo parametro tecnico non ha relazione diretta con l'incrocio tra prodotti e segmenti di domanda."
+        }
+      ],
+      "hint": "Immagina una tabella che incrocia cosa vendi con a chi lo vendi."
+    },
+    {
+      "question": "In una strategia di marketing, cosa significa 'Concentrazione su un solo segmento'?",
+      "answerOptions": [
+        {
+          "text": "Indirizzare l'offerta esclusivamente a una specifica nicchia di mercato.",
+          "isCorrect": true,
+          "rationale": "È una strategia di focalizzazione estrema, utile per aziende con risorse limitate o posizionamenti molto specifici."
+        },
+        {
+          "text": "Cercare di vendere tutti i prodotti a tutti i consumatori mondiali.",
+          "isCorrect": false,
+          "rationale": "Questa sarebbe una strategia di 'Copertura totale del mercato'."
+        },
+        {
+          "text": "Utilizzare un solo canale di comunicazione per tutti i clienti.",
+          "isCorrect": false,
+          "rationale": "La concentrazione riguarda il mercato obiettivo (chi), non solo il canale (come)."
+        },
+        {
+          "text": "Vendere lo stesso prodotto a 5 segmenti diversi con prezzi uguali.",
+          "isCorrect": false,
+          "rationale": "Questa sarebbe una specializzazione di prodotto, non una concentrazione su un solo segmento di clientela."
+        }
+      ],
+      "hint": "Pensa alla scelta di un unico gruppo target specifico."
+    },
+    {
+      "question": "Perché l'approccio del marketing digitale è definito 'Reticolare'?",
+      "answerOptions": [
+        {
+          "text": "Perché costruisce nessi molteplici tra impresa e clienti, e tra i clienti stessi.",
+          "isCorrect": true,
+          "rationale": "A differenza della linea retta azienda-target, il digitale crea una ragnatela di interazioni sociali e peer-to-peer."
+        },
+        {
+          "text": "Perché utilizza esclusivamente la rete internet via cavo.",
+          "isCorrect": false,
+          "rationale": "Il termine non è tecnologico-fisico, ma descrive la struttura delle relazioni e delle comunicazioni."
+        },
+        {
+          "text": "Perché è un sistema che intrappola i clienti senza via d'uscita.",
+          "isCorrect": false,
+          "rationale": "Sebbene il termine 'rete' possa evocarlo, il marketing moderno punta sulla libertà di scelta e sulla collaborazione paritaria."
+        },
+        {
+          "text": "Perché è rigido e segue uno schema a griglia predefinito.",
+          "isCorrect": false,
+          "rationale": "L'approccio reticolare è flessibile e decentralizzato, l'opposto di una griglia rigida e top-down."
+        }
+      ],
+      "hint": "Considera come i social network permettono agli utenti di parlare tra loro di un brand."
+    },
+    {
+      "question": "Quale tra questi è un esempio di variabile di segmentazione socio-demografica?",
+      "answerOptions": [
+        {
+          "text": "Ciclo di vita della famiglia e reddito.",
+          "isCorrect": true,
+          "rationale": "Questi parametri descrivono lo stato sociale e la capacità economica oggettiva del nucleo familiare."
+        },
+        {
+          "text": "Atteggiamento verso il prodotto (positivo/negativo).",
+          "isCorrect": false,
+          "rationale": "Questo è un parametro comportamentale o psicografico legato alla percezione del brand."
+        },
+        {
+          "text": "Tipologia urbana (urbana/rurale).",
+          "isCorrect": false,
+          "rationale": "Questa è una variabile geografica."
+        },
+        {
+          "text": "Occasioni d'uso (regolare/sporadica).",
+          "isCorrect": false,
+          "rationale": "Rientra nelle variabili comportamentali."
+        }
+      ],
+      "hint": "Cerca caratteristiche che compaiono solitamente nei dati di un censimento."
+    },
+    {
+      "question": "Cosa caratterizza un brand che adotta i nuovi 'Codes' del marketing digitale?",
+      "answerOptions": [
+        {
+          "text": "L'ascolto e il dialogo paritario con il consumatore.",
+          "isCorrect": true,
+          "rationale": "Il brand non impartisce ordini dall'alto, ma si pone allo stesso livello del pubblico per generare valore condiviso."
+        },
+        {
+          "text": "L'invio massivo di email non richieste (spam).",
+          "isCorrect": false,
+          "rationale": "Lo spam è una violazione dei nuovi codici di rispetto e cura del cliente digitale."
+        },
+        {
+          "text": "L'imposizione di prezzi fissi non negoziabili per 10 anni.",
+          "isCorrect": false,
+          "rationale": "L'era digitale favorisce la Currency (prezzi dinamici) e la flessibilità."
+        },
+        {
+          "text": "La totale assenza di presenza sui social network.",
+          "isCorrect": false,
+          "rationale": "I nuovi codici richiedono una presenza attiva dove le comunità si aggregano."
+        }
+      ],
+      "hint": "Rifletti sul concetto di 'Impresa orientata all'ascolto'."
+    },
+    {
+      "question": "Secondo le slide di Laura Michelini, i CD sono digitali perché immagazzinano i suoni come una serie di...",
+      "answerOptions": [
+        {
+          "text": "\"Buchi\" (pits) e \"terre\" (lands).",
+          "isCorrect": true,
+          "rationale": "Questa struttura fisica rappresenta i dati discreti (0 e 1) che il laser del lettore CD traduce in segnale digitale."
+        },
+        {
+          "text": "Onde magnetiche continue.",
+          "isCorrect": false,
+          "rationale": "Le onde continue sono tipiche dei supporti analogici come le vecchie musicassette."
+        },
+        {
+          "text": "Solchi meccanici profondi.",
+          "isCorrect": false,
+          "rationale": "I solchi meccanici sono la caratteristica distintiva dei dischi in vinile (analogici)."
+        },
+        {
+          "text": "Immagini fotografiche miniaturizzate.",
+          "isCorrect": false,
+          "rationale": "I CD musicali non immagazzinano il suono come immagini, ma come dati binari."
+        }
+      ],
+      "hint": "Pensa alla superficie microscopica del disco colpita dal laser."
+    },
+    {
+      "question": "Nello scenario turistico presentato, se divido il mercato per 'Motivo del viaggio' (Affari vs Privato), quale variabile sto usando?",
+      "answerOptions": [
+        {
+          "text": "Comportamentale (Occasioni/Benefici).",
+          "isCorrect": true,
+          "rationale": "Il motivo del viaggio determina un comportamento di acquisto e benefici ricercati molto diversi tra loro."
+        },
+        {
+          "text": "Geografica.",
+          "isCorrect": false,
+          "rationale": "Il motivo non dipende dalla provenienza geografica, ma dallo scopo dell'azione."
+        },
+        {
+          "text": "Socio-demografica.",
+          "isCorrect": false,
+          "rationale": "L'età o il sesso non definiscono necessariamente se il viaggio è per affari o piacere."
+        },
+        {
+          "text": "Psicografica.",
+          "isCorrect": false,
+          "rationale": "Sebbene collegata alla personalità, la distinzione affari/privato è tipicamente classificata come occasione d'uso o beneficio (comportamentale)."
+        }
+      ],
+      "hint": "Riguarda l'occasione o lo scopo che spinge all'acquisto del servizio."
+    },
+    {
+      "question": "Cosa indica l'espressione 'I semestre - Laura Michelini' presente nelle fonti?",
+      "answerOptions": [
+        {
+          "text": "Il periodo accademico e la docente titolare del corso LUMSA.",
+          "isCorrect": true,
+          "rationale": "Le slide appartengono al corso di Web Marketing dell'Università LUMSA, tenuto dalla Prof.ssa Michelini."
+        },
+        {
+          "text": "La data di scadenza di un prodotto digitale.",
+          "isCorrect": false,
+          "rationale": "Si tratta di un'intestazione accademica, non di un parametro temporale tecnico."
+        },
+        {
+          "text": "Il nome di un software per le ricerche di mercato.",
+          "isCorrect": false,
+          "rationale": "Non è un software, ma l'indicazione dell'autrice dei materiali didattici."
+        },
+        {
+          "text": "L'indirizzo di una piattaforma social.",
+          "isCorrect": false,
+          "rationale": "Si riferisce chiaramente a un contesto universitario di insegnamento."
+        }
+      ],
+      "hint": "Guarda le prime slide di ogni presentazione per l'identità del corso."
+    }
+  ]
+}

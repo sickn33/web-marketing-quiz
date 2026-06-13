@@ -1,0 +1,785 @@
+{
+  "title": "Quiz Marketing",
+  "questions": [
+    {
+      "question": "Qual è la differenza fondamentale tra invenzione e innovazione secondo il materiale fornito?",
+      "answerOptions": [
+        {
+          "text": "L'invenzione crea qualcosa di nuovo, mentre l'innovazione applica idee per generare valore.",
+          "isCorrect": true,
+          "rationale": "L'innovazione si distingue per la sua capacità di migliorare processi o prodotti esistenti creando un impatto economico o sociale concreto."
+        },
+        {
+          "text": "L'invenzione riguarda solo i servizi, mentre l'innovazione riguarda solo i prodotti fisici.",
+          "isCorrect": false,
+          "rationale": "Entrambi i concetti possono applicarsi trasversalmente a prodotti, servizi e processi organizzativi."
+        },
+        {
+          "text": "L'innovazione deve essere necessariamente qualcosa di mai visto prima, a differenza dell'invenzione.",
+          "isCorrect": false,
+          "rationale": "Questa definizione inverte i due concetti; è l'invenzione a focalizzarsi sulla creazione ex-novo."
+        },
+        {
+          "text": "Non esiste alcuna differenza pratica tra i due termini nel contesto del marketing digitale.",
+          "isCorrect": false,
+          "rationale": "Il materiale specifica chiaramente che non siamo obbligati a inventare nulla per innovare."
+        }
+      ],
+      "hint": "Rifletti su quale dei due termini implica l'applicazione pratica e la generazione di valore."
+    },
+    {
+      "question": "Come viene definita la 'trasformazione digitale' nelle lezioni del Prof. Granato?",
+      "answerOptions": [
+        {
+          "text": "L'acquisto di nuovi computer e software per i dipendenti di un'azienda.",
+          "isCorrect": false,
+          "rationale": "La trasformazione digitale va oltre il semplice acquisto di hardware, coinvolgendo l'intera strategia aziendale."
+        },
+        {
+          "text": "Un processo sistemico che integra tecnologie digitali in tutti gli aspetti aziendali ridefinendo i modelli di business.",
+          "isCorrect": true,
+          "rationale": "Questa visione olistica include processi operativi, esperienza del cliente e competitività attraverso l'integrazione tecnologica."
+        },
+        {
+          "text": "La semplice creazione di un sito web o di un profilo social per l'azienda.",
+          "isCorrect": false,
+          "rationale": "Sebbene facciano parte del digitale, queste sono solo singole azioni tattiche e non un processo sistemico."
+        },
+        {
+          "text": "La sostituzione totale del personale umano con algoritmi di intelligenza artificiale.",
+          "isCorrect": false,
+          "rationale": "L'obiettivo è migliorare l'efficienza e l'innovazione, non necessariamente eliminare la componente umana."
+        }
+      ],
+      "hint": "Cerca la definizione che descrive un cambiamento profondo e strutturale dell'organizzazione."
+    },
+    {
+      "question": "Nella cronologia Blockbuster vs. Netflix, quale evento segna un punto di svolta critico nel 2000?",
+      "answerOptions": [
+        {
+          "text": "Blockbuster acquista Netflix per 50 milioni di dollari.",
+          "isCorrect": false,
+          "rationale": "L'evento reale fu un rifiuto che portò a conseguenze opposte per le due aziende."
+        },
+        {
+          "text": "Netflix dichiara bancarotta (Chapter 11).",
+          "isCorrect": false,
+          "rationale": "Fu Blockbuster a dichiarare bancarotta, ma molti anni dopo, nel 2010."
+        },
+        {
+          "text": "Blockbuster rifiuta di acquistare Netflix per 5 milioni di dollari.",
+          "isCorrect": true,
+          "rationale": "Questo rifiuto è considerato uno dei più grandi errori strategici nella storia del mercato dell'intrattenimento."
+        },
+        {
+          "text": "Netflix lancia il suo primo servizio di streaming mondiale.",
+          "isCorrect": false,
+          "rationale": "Il servizio di streaming e video on demand fu lanciato solo nel 2007."
+        }
+      ],
+      "hint": "Pensa a un'opportunità mancata che avrebbe potuto cambiare il destino di Blockbuster."
+    },
+    {
+      "question": "Che cos'è il 'digital advertising' secondo la definizione della Lezione 6?",
+      "answerOptions": [
+        {
+          "text": "L'insieme delle attività promozionali gratuite sui motori di ricerca.",
+          "isCorrect": false,
+          "rationale": "Il digital advertising si basa specificamente su sponsorizzazioni a pagamento, non su attività organiche gratuite."
+        },
+        {
+          "text": "Attività promozionali effettuate su internet mediante sponsorizzazioni a pagamento.",
+          "isCorrect": true,
+          "rationale": "Questa definizione sottolinea la natura transazionale e digitale del mezzo pubblicitario moderno."
+        },
+        {
+          "text": "Solo la pubblicità che appare sui social network come Facebook o Instagram.",
+          "isCorrect": false,
+          "rationale": "Il digital advertising include molteplici canali web, non limitandosi ai soli social network."
+        },
+        {
+          "text": "La creazione di contenuti video virali che non richiedono budget pubblicitario.",
+          "isCorrect": false,
+          "rationale": "I contenuti virali organici non rientrano nella categoria 'advertising' se non sono supportati da sponsorizzazioni pagate."
+        }
+      ],
+      "hint": "Considera la differenza tra attività 'organica' e attività 'a pagamento' online."
+    },
+    {
+      "question": "Quale metrica del digital advertising indica la frequenza con cui gli spettatori fanno clic su un annuncio rispetto alle visualizzazioni?",
+      "answerOptions": [
+        {
+          "text": "ROAS",
+          "isCorrect": false,
+          "rationale": "Il ROAS misura il ritorno economico sulla spesa pubblicitaria, non l'interazione diretta."
+        },
+        {
+          "text": "Copertura (Reach)",
+          "isCorrect": false,
+          "rationale": "La copertura indica il numero totale di spettatori unici, non la loro percentuale di clic."
+        },
+        {
+          "text": "Percentuale di clic (CTR)",
+          "isCorrect": true,
+          "rationale": "Il CTR (Click-Through Rate) mette in relazione il numero di clic con il numero totale di impressioni dell'annuncio."
+        },
+        {
+          "text": "Tasso di conversione",
+          "isCorrect": false,
+          "rationale": "Il tasso di conversione misura quante persone compiono un'azione finale, non solo il clic iniziale."
+        }
+      ],
+      "hint": "Cerca l'acronimo inglese che sta per 'frequenza di passaggio tramite clic'."
+    },
+    {
+      "question": "Qual è la differenza principale tra ROI e ROAS?",
+      "answerOptions": [
+        {
+          "text": "Il ROI calcola il profitto netto, mentre il ROAS calcola l'importo lordo ricavato rispetto al budget speso.",
+          "isCorrect": true,
+          "rationale": "Il ROI tiene conto di tutti i costi per determinare il profitto, mentre il ROAS si focalizza esclusivamente sull'efficacia della spesa pubblicitaria."
+        },
+        {
+          "text": "Il ROAS si usa solo per i video, mentre il ROI si usa per i banner statici.",
+          "isCorrect": false,
+          "rationale": "Entrambe sono metriche finanziarie applicabili a qualsiasi tipo di formato pubblicitario digitale."
+        },
+        {
+          "text": "Non c'è differenza, sono sinonimi utilizzati in piattaforme diverse.",
+          "isCorrect": false,
+          "rationale": "Hanno obiettivi analitici diversi: uno guarda alla redditività complessiva e l'altro all'efficienza specifica della campagna."
+        },
+        {
+          "text": "Il ROI misura il numero di clic, mentre il ROAS misura il numero di vendite.",
+          "isCorrect": false,
+          "rationale": "Queste sono metriche di performance e di vendita, non indici di rendimento finanziario."
+        }
+      ],
+      "hint": "Considera quale dei due termini include il concetto di 'profitto netto' nell'analisi."
+    },
+    {
+      "question": "Nella SWOT analysis, quali elementi appartengono alla dimensione 'interna' dell'azienda?",
+      "answerOptions": [
+        {
+          "text": "Opportunità e Minacce",
+          "isCorrect": false,
+          "rationale": "Questi fattori derivano dall'ambiente esterno di riferimento e non sono sotto il controllo diretto dell'azienda."
+        },
+        {
+          "text": "Forze e Debolezze (Strengths and Weaknesses)",
+          "isCorrect": true,
+          "rationale": "I punti di forza e le debolezze sono variabili interne che l'organizzazione può gestire e valutare direttamente."
+        },
+        {
+          "text": "Prezzo e Brand Image",
+          "isCorrect": false,
+          "rationale": "Sebbene importanti, questi non sono i due pilastri della dimensione interna definiti nel modello SWOT standard."
+        },
+        {
+          "text": "Concorrenza e Regolamentazione",
+          "isCorrect": false,
+          "rationale": "Questi sono tipicamente fattori esterni che rientrano nelle minacce o opportunità."
+        }
+      ],
+      "hint": "Focalizzati sugli attributi che l'azienda possiede o controlla direttamente."
+    },
+    {
+      "question": "Quali sono le tre fasi principali della 'fase strategica' del marketing presentate?",
+      "answerOptions": [
+        {
+          "text": "Produzione, Vendita, Distribuzione",
+          "isCorrect": false,
+          "rationale": "Queste fasi riguardano la catena del valore operativa e non la pianificazione strategica di marketing."
+        },
+        {
+          "text": "Awareness, Consideration, Purchase",
+          "isCorrect": false,
+          "rationale": "Queste rappresentano le fasi del tunnel di vendita o del customer journey, non la strategia d'impresa."
+        },
+        {
+          "text": "Segmentazione, Targeting, Posizionamento",
+          "isCorrect": true,
+          "rationale": "Il modello STP (Segmentation, Targeting, Positioning) definisce come l'impresa identifica i gruppi, sceglie i mercati e si differenzia."
+        },
+        {
+          "text": "Ricerca, Sviluppo, Lancio",
+          "isCorrect": false,
+          "rationale": "Queste fasi si riferiscono tipicamente al ciclo di vita del prodotto."
+        }
+      ],
+      "hint": "Cerca il processo che inizia con l'identificazione di gruppi omogenei di individui."
+    },
+    {
+      "question": "Secondo lo schema del marketing evolutivo, qual è l'obiettivo principale del Marketing 3.0?",
+      "answerOptions": [
+        {
+          "text": "Vendere prodotti a massa.",
+          "isCorrect": false,
+          "rationale": "Questo era l'obiettivo del Marketing 1.0, focalizzato esclusivamente sul prodotto."
+        },
+        {
+          "text": "Rendere il mondo un posto migliore (Value-driven).",
+          "isCorrect": true,
+          "rationale": "Il Marketing 3.0 si basa sui valori e vede il consumatore come un essere umano completo con mente, cuore e spirito."
+        },
+        {
+          "text": "Soddisfare e trattenere i consumatori.",
+          "isCorrect": false,
+          "rationale": "Questa è la caratteristica del Marketing 2.0, che è orientato al cliente."
+        },
+        {
+          "text": "Automatizzare i processi di acquisto tramite IA.",
+          "isCorrect": false,
+          "rationale": "L'automazione tecnologica pura è più vicina alle fasi successive del marketing digitale, come il 5.0."
+        }
+      ],
+      "hint": "Pensa a un approccio basato sui valori spirituali ed etici."
+    },
+    {
+      "question": "Cosa caratterizza il passaggio al Marketing 4.0 secondo Philip Kotler?",
+      "answerOptions": [
+        {
+          "text": "L'abbandono totale dei canali pubblicitari tradizionali.",
+          "isCorrect": false,
+          "rationale": "Il marketing 4.0 non abbandona il tradizionale ma cerca un'integrazione tra i due mondi."
+        },
+        {
+          "text": "La convergenza tra il mondo offline e quello online.",
+          "isCorrect": true,
+          "rationale": "Il Marketing 4.0 si focalizza sul passaggio dal tradizionale al digitale attraverso la convergenza dei touchpoint."
+        },
+        {
+          "text": "La creazione di prodotti esclusivamente digitali.",
+          "isCorrect": false,
+          "rationale": "Il focus rimane sulla strategia di comunicazione e relazione, non solo sulla natura fisica o digitale del bene."
+        },
+        {
+          "text": "La fine della centralità del consumatore.",
+          "isCorrect": false,
+          "rationale": "Al contrario, il consumatore diventa ancora più centrale e attivo (prosumer) nelle versioni più recenti del marketing."
+        }
+      ],
+      "hint": "Cerca il concetto che indica l'unione di due mondi precedentemente separati."
+    },
+    {
+      "question": "Perché i dati digitali sono definiti 'binari'?",
+      "answerOptions": [
+        {
+          "text": "Perché possono essere letti solo da due tipi di dispositivi diversi.",
+          "isCorrect": false,
+          "rationale": "La definizione di binario deriva dalla codifica interna del dato, non dall'interoperabilità dei dispositivi."
+        },
+        {
+          "text": "Perché sono codificati da combinazioni di soli due simboli (cifre binarie) che formano stringhe di 0 e 1.",
+          "isCorrect": true,
+          "rationale": "Il sistema binario è la base dell'informatica, dove ogni bit rappresenta uno stato discreto on/off."
+        },
+        {
+          "text": "Perché raddoppiano la loro velocità ogni 18 mesi.",
+          "isCorrect": false,
+          "rationale": "Questa è una confusione con la Legge di Moore, che riguarda l'hardware e non la natura dei dati."
+        },
+        {
+          "text": "Perché permettono la comunicazione tra due persone in tempo reale.",
+          "isCorrect": false,
+          "rationale": "Questa è una caratteristica delle reti interattive, non la definizione tecnica di dato binario."
+        }
+      ],
+      "hint": "Rifletti sui simboli fondamentali utilizzati dai computer per elaborare informazioni."
+    },
+    {
+      "question": "A quanti bit corrisponde un Byte?",
+      "answerOptions": [
+        {
+          "text": "2",
+          "isCorrect": false,
+          "rationale": "Un sistema a 2 bit potrebbe rappresentare solo 4 stati, insufficienti per uno standard di byte."
+        },
+        {
+          "text": "8",
+          "isCorrect": true,
+          "rationale": "Per definizione informatica, un byte è una serie composta da 8 bit."
+        },
+        {
+          "text": "10",
+          "isCorrect": false,
+          "rationale": "Il sistema informatico non utilizza una base decimale per la definizione dei byte."
+        },
+        {
+          "text": "1024",
+          "isCorrect": false,
+          "rationale": "1024 è il moltiplicatore solitamente usato per i multipli come il KiloByte, non la misura del bit nel byte."
+        }
+      ],
+      "hint": "È un numero di base fondamentale nell'architettura dei computer."
+    },
+    {
+      "question": "Qual è la differenza tecnologica tra un disco in vinile e un CD?",
+      "answerOptions": [
+        {
+          "text": "Il vinile è digitale, il CD è analogico.",
+          "isCorrect": false,
+          "rationale": "È esattamente l'opposto: il vinile registra onde fisiche continue, il CD bit discreti."
+        },
+        {
+          "text": "Il vinile immagazzina dati meccanici e continui, mentre il CD trasforma i suoni in una serie di 'buchi' (pits) e 'terre' (lands).",
+          "isCorrect": true,
+          "rationale": "La natura analogica del vinile segue la forma dell'onda sonora, mentre il CD la digitalizza in stati discreti."
+        },
+        {
+          "text": "Il vinile usa stringhe di 0 e 1, mentre il CD usa incisioni magnetiche.",
+          "isCorrect": false,
+          "rationale": "Il vinile non usa il sistema binario e il CD usa un sistema ottico laser, non magnetico."
+        },
+        {
+          "text": "Non c'è differenza tecnologica, cambia solo il materiale di supporto.",
+          "isCorrect": false,
+          "rationale": "I due supporti rappresentano il cambiamento di paradigma tra segnale analogico continuo e segnale digitale discreto."
+        }
+      ],
+      "hint": "Pensa alla differenza tra una variazione 'continua' e una variazione 'discreta' dell'informazione."
+    },
+    {
+      "question": "Quale delle seguenti è considerata una 'piattaforma digitale' e non un semplice 'device'?",
+      "answerOptions": [
+        {
+          "text": "Smartphone",
+          "isCorrect": false,
+          "rationale": "Lo smartphone è l'apparecchio fisico (device) tramite cui si accede alle piattaforme."
+        },
+        {
+          "text": "Social Network",
+          "isCorrect": true,
+          "rationale": "I social network sono ambienti o infrastrutture software che ospitano interazioni e contenuti."
+        },
+        {
+          "text": "Laptop/PC",
+          "isCorrect": false,
+          "rationale": "Il PC è un dispositivo hardware utilizzato per navigare o lavorare."
+        },
+        {
+          "text": "Tablet",
+          "isCorrect": false,
+          "rationale": "Il tablet è una categoria di hardware mobile, classificabile come device."
+        }
+      ],
+      "hint": "Pensa a un ambiente virtuale in cui avvengono le interazioni, piuttosto che a un oggetto fisico."
+    },
+    {
+      "question": "In quale strato (layer) del modello Internet Industry si collocano aziende come Adobe e WordPress?",
+      "answerOptions": [
+        {
+          "text": "1° Layer: Internet infrastructure",
+          "isCorrect": false,
+          "rationale": "Il primo strato riguarda l'hardware di rete e i cavi fisici."
+        },
+        {
+          "text": "2° Layer: Internet access",
+          "isCorrect": false,
+          "rationale": "Questo strato riguarda i fornitori di connettività e le apparecchiature di accesso."
+        },
+        {
+          "text": "3° Layer: Internet IT (Software)",
+          "isCorrect": true,
+          "rationale": "Adobe e WordPress forniscono il software di base e i servizi necessari per creare contenuti e operare su Internet."
+        },
+        {
+          "text": "5° Layer: Internet content",
+          "isCorrect": false,
+          "rationale": "Questo strato riguarda i siti che offrono notizie o intrattenimento diretto agli utenti."
+        }
+      ],
+      "hint": "Considera chi produce gli strumenti e i software necessari per far funzionare i siti web."
+    },
+    {
+      "question": "Secondo la Legge di Moore, cosa accade ogni 18 mesi circa?",
+      "answerOptions": [
+        {
+          "text": "Il costo del software si riduce della metà.",
+          "isCorrect": false,
+          "rationale": "La legge di Moore si riferisce specificamente all'hardware e alla densità dei transistor, non al software."
+        },
+        {
+          "text": "È possibile raddoppiare il numero di transistor contenuti in un chip a parità di costo.",
+          "isCorrect": true,
+          "rationale": "Questa osservazione empirica ha guidato la crescita esponenziale della potenza di calcolo negli ultimi decenni."
+        },
+        {
+          "text": "Il numero di utenti della rete raddoppia, aumentando il valore della stessa.",
+          "isCorrect": false,
+          "rationale": "Questa è una descrizione parziale della Legge di Metcalfe, non della legge di Moore."
+        },
+        {
+          "text": "La velocità della capacità di elaborazione aumenta di 4 volte.",
+          "isCorrect": false,
+          "rationale": "Questo parametro specifico (aumento di 4 volte per metà costo) è attribuito alla Legge di Grosh."
+        }
+      ],
+      "hint": "Pensa alla componente fisica fondamentale dei microprocessori."
+    },
+    {
+      "question": "Qual è la formula che esprime la Legge di Metcalfe riguardante l'utilità di una rete?",
+      "answerOptions": [
+        {
+          "text": "$Ui = n^2$",
+          "isCorrect": true,
+          "rationale": "La legge suggerisce che l'utilità della rete cresce proporzionalmente al quadrato del numero di nodi o utenti ($n$)."
+        },
+        {
+          "text": "$Ui = 2n$",
+          "isCorrect": false,
+          "rationale": "Una crescita lineare non riflette l'enorme valore aggiunto dalle connessioni multiple tra utenti."
+        },
+        {
+          "text": "$Ui = \\frac{n}{2}$",
+          "isCorrect": false,
+          "rationale": "Questa formula implicherebbe una diminuzione dell'utilità individuale all'aumentare degli utenti, il che è illogico per una rete."
+        },
+        {
+          "text": "$Ui = \\log(n)$",
+          "isCorrect": false,
+          "rationale": "La crescita logaritmica sarebbe troppo lenta per descrivere il potenziale diffusivo delle tecnologie digitali."
+        }
+      ],
+      "hint": "Considera una crescita esponenziale basata sul numero di utenti '$n$'."
+    },
+    {
+      "question": "Cosa si intende per 'Consumer empowerment' nel mercato digitale?",
+      "answerOptions": [
+        {
+          "text": "La capacità delle aziende di controllare i dati dei consumatori.",
+          "isCorrect": false,
+          "rationale": "L'empowerment si riferisce al potere acquisito dal consumatore, non al controllo esercitato su di lui."
+        },
+        {
+          "text": "Il maggiore potere informativo e decisionale acquisito dal consumatore grazie alla rete.",
+          "isCorrect": true,
+          "rationale": "Il digitale permette ai consumatori di confrontare prezzi, leggere recensioni e influenzare il brand."
+        },
+        {
+          "text": "L'obbligo dei consumatori di acquistare prodotti digitali.",
+          "isCorrect": false,
+          "rationale": "L'empowerment riguarda la libertà e il potere di scelta, non un obbligo tecnologico."
+        },
+        {
+          "text": "Il sussidio economico dato dallo Stato per l'acquisto di device.",
+          "isCorrect": false,
+          "rationale": "Questo sarebbe un incentivo all'acquisto, non il concetto sociologico di empowerment nel marketing."
+        }
+      ],
+      "hint": "Pensa a come internet ha cambiato il rapporto di forza tra chi vende e chi compra."
+    },
+    {
+      "question": "Quali sono le caratteristiche del 'nuovo consumatore' definito come Digital Native?",
+      "answerOptions": [
+        {
+          "text": "Passivo, focalizzato su un solo canale e poco informato.",
+          "isCorrect": false,
+          "rationale": "Queste caratteristiche sono l'esatto opposto del comportamento rilevato nelle nuove generazioni digitali."
+        },
+        {
+          "text": "Iper-connesso, attivo (prosumer) e omni-canale.",
+          "isCorrect": true,
+          "rationale": "Il nativo digitale utilizza molteplici touchpoint e partecipa attivamente alla creazione di contenuti legati al brand."
+        },
+        {
+          "text": "Utilizzatore esclusivo di media tradizionali come la radio.",
+          "isCorrect": false,
+          "rationale": "Il nativo digitale si muove principalmente, ma non esclusivamente, in ambienti digitali e iper-connessi."
+        },
+        {
+          "text": "Interessato esclusivamente al prezzo più basso senza valutare la marca.",
+          "isCorrect": false,
+          "rationale": "La ricerca attiva e il coinvolgimento suggeriscono un interesse che va oltre il semplice costo."
+        }
+      ],
+      "hint": "Cerca i termini che indicano connessione costante e partecipazione alla creazione di contenuti."
+    },
+    {
+      "question": "Nel modello McKinsey del Customer Journey, quale fase segue il 'Momento dell'acquisto'?",
+      "answerOptions": [
+        {
+          "text": "Valutazione attiva",
+          "isCorrect": false,
+          "rationale": "La valutazione attiva avviene prima dell'acquisto, durante la fase di ricerca e confronto."
+        },
+        {
+          "text": "Esperienza post-acquisto",
+          "isCorrect": true,
+          "rationale": "Dopo l'acquisto, il consumatore sperimenta il prodotto, influenzando le sue percezioni future e il ciclo di fedeltà."
+        },
+        {
+          "text": "Considerazione iniziale",
+          "isCorrect": false,
+          "rationale": "Questa è la prima fase del processo, innescata da un bisogno o da uno stimolo."
+        },
+        {
+          "text": "Targeting strategico",
+          "isCorrect": false,
+          "rationale": "Il targeting è un'azione dell'azienda, non una fase del viaggio del consumatore."
+        }
+      ],
+      "hint": "Pensa a cosa succede quando il cliente inizia a usare effettivamente il prodotto o servizio."
+    },
+    {
+      "question": "Cosa emerge dallo studio McKinsey riguardo ai touchpoint nella fase di 'Valutazione attiva'?",
+      "answerOptions": [
+        {
+          "text": "La maggior parte dei touchpoint sono controllati direttamente dall'azienda tramite pubblicità tradizionale.",
+          "isCorrect": false,
+          "rationale": "Lo studio mostra che in questa fase il controllo dell'azienda è ridotto rispetto alle attività guidate dal consumatore."
+        },
+        {
+          "text": "Due terzi dei touchpoint coinvolgono attività guidate dal consumatore come recensioni online e passaparola.",
+          "isCorrect": true,
+          "rationale": "L'influenza di fonti esterne all'azienda (peer review, word-of-mouth) è predominante quando l'utente valuta attivamente cosa comprare."
+        },
+        {
+          "text": "I consumatori ignorano completamente i siti web aziendali.",
+          "isCorrect": false,
+          "rationale": "I siti aziendali rimangono importanti, ma non sono l'unica o la principale fonte di influenza in questa fase."
+        },
+        {
+          "text": "La fase di valutazione attiva è stata eliminata dal marketing digitale moderno.",
+          "isCorrect": false,
+          "rationale": "Al contrario, è diventata più complessa e ricca di punti di contatto rispetto al passato."
+        }
+      ],
+      "hint": "Rifletti sull'importanza di internet nel permettere ai consumatori di influenzarsi a vicenda."
+    },
+    {
+      "question": "Cos'è una 'Buyer Persona'?",
+      "answerOptions": [
+        {
+          "text": "Un dipendente dell'ufficio marketing addetto alle vendite.",
+          "isCorrect": false,
+          "rationale": "La persona è un modello di cliente, non un ruolo professionale interno all'azienda."
+        },
+        {
+          "text": "Una caratterizzazione fittizia del tuo cliente ideale basata su dati reali e comportamenti.",
+          "isCorrect": true,
+          "rationale": "Le personas aiutano a umanizzare i segmenti di mercato, permettendo di progettare soluzioni mirate a problemi specifici."
+        },
+        {
+          "text": "Un database contenente i nomi e i cognomi di tutti i clienti attuali.",
+          "isCorrect": false,
+          "rationale": "Le personas sono archetipi rappresentativi, non un elenco anagrafico di individui reali."
+        },
+        {
+          "text": "L'avatar utilizzato dai consumatori nei videogiochi online.",
+          "isCorrect": false,
+          "rationale": "Sebbene il termine 'avatar' sia simile, nel marketing si riferisce alla profilazione del target."
+        }
+      ],
+      "hint": "Pensa a un 'personaggio tipo' creato per capire meglio chi è l'acquirente."
+    },
+    {
+      "question": "Quale elemento rientra nei dati 'psicografici' per la costruzione di una Persona?",
+      "answerOptions": [
+        {
+          "text": "Età e Genere",
+          "isCorrect": false,
+          "rationale": "Questi sono dati demografici classici e quantificabili oggettivamente."
+        },
+        {
+          "text": "Attitudini, credenze e personalità",
+          "isCorrect": true,
+          "rationale": "La psicografia scava nelle motivazioni interne e nello stile di vita del consumatore."
+        },
+        {
+          "text": "Livello di reddito",
+          "isCorrect": false,
+          "rationale": "Il reddito è un parametro socio-economico che rientra tipicamente nella demografia."
+        },
+        {
+          "text": "Indirizzo di residenza",
+          "isCorrect": false,
+          "rationale": "La localizzazione geografica è una variabile distinta dalla psicologia dell'individuo."
+        }
+      ],
+      "hint": "Cerca i fattori legati al modo di pensare e di sentire del consumatore."
+    },
+    {
+      "question": "Perché l'approccio 'Customer Centricity' ha reso fondamentali le Personas?",
+      "answerOptions": [
+        {
+          "text": "Perché permette di vendere lo stesso prodotto a chiunque senza distinzioni.",
+          "isCorrect": false,
+          "rationale": "Il marketing di massa è l'opposto della customer centricity, che punta invece alla personalizzazione."
+        },
+        {
+          "text": "Perché sposta il focus dal risolvere i problemi del business al risolvere i problemi dei singoli clienti.",
+          "isCorrect": true,
+          "rationale": "Comprendere le persone permette di progettare soluzioni di valore basate sulle reali necessità dell'utente finale."
+        },
+        {
+          "text": "Perché riduce i costi pubblicitari eliminando la necessità di fare segmentazione.",
+          "isCorrect": false,
+          "rationale": "Le personas sono esse stesse un'evoluzione della segmentazione, non un modo per evitarla."
+        },
+        {
+          "text": "Perché le personas sostituiscono completamente l'analisi dei dati di vendita.",
+          "isCorrect": false,
+          "rationale": "Le personas integrano l'analisi quantitativa fornendo un contesto qualitativo e comportamentale."
+        }
+      ],
+      "hint": "Rifletti su quale prospettiva (aziendale o dell'utente) viene privilegiata in questo approccio."
+    },
+    {
+      "question": "Qual è il primo passo consigliato per definire un Customer Journey efficace?",
+      "answerOptions": [
+        {
+          "text": "Scegliere il budget per la campagna pubblicitaria.",
+          "isCorrect": false,
+          "rationale": "Il budget è una conseguenza della strategia, non il punto di partenza per mappare l'esperienza."
+        },
+        {
+          "text": "Determinare il segmento di clientela o l'audience specifica su cui focalizzarsi.",
+          "isCorrect": true,
+          "rationale": "Non si può mappare un viaggio senza sapere chi è il viaggiatore (persona o segmento)."
+        },
+        {
+          "text": "Acquistare spazi pubblicitari su tutti i canali social possibili.",
+          "isCorrect": false,
+          "rationale": "L'omni-canalità deve essere pianificata dopo aver compreso dove si muove il target, non a priori."
+        },
+        {
+          "text": "Progettare il logo dell'azienda.",
+          "isCorrect": false,
+          "rationale": "Il branding visuale è importante ma non è lo step iniziale per l'analisi del percorso del cliente."
+        }
+      ],
+      "hint": "Considera l'importanza di identificare 'chi' stiamo analizzando prima di capire 'come' si muove."
+    },
+    {
+      "question": "Quale di queste metriche misura l'importo ricavato da una campagna rispetto al budget speso, espresso solitamente come rapporto?",
+      "answerOptions": [
+        {
+          "text": "ACOS",
+          "isCorrect": false,
+          "rationale": "L'ACOS è il rapporto tra spesa e vendite, spesso usato su marketplace, ma non è la definizione standard di ritorno sulla spesa."
+        },
+        {
+          "text": "CTR",
+          "isCorrect": false,
+          "rationale": "Il CTR misura l'interattività (clic), non il ritorno economico in denaro."
+        },
+        {
+          "text": "ROAS (Return on Ad Spend)",
+          "isCorrect": true,
+          "rationale": "Il ROAS indica quanti euro guadagni per ogni euro investito specificamente in pubblicità."
+        },
+        {
+          "text": "Reach",
+          "isCorrect": false,
+          "rationale": "La Reach misura quante persone hai raggiunto, indipendentemente dal ricavato economico."
+        }
+      ],
+      "hint": "Cerca l'acronimo che si riferisce specificamente alla spesa per gli annunci ('Ad Spend')."
+    },
+    {
+      "question": "Cosa indica il termine 'Prosumer'?",
+      "answerOptions": [
+        {
+          "text": "Un consumatore professionista che lavora per l'azienda.",
+          "isCorrect": false,
+          "rationale": "Sebbene la parola unisca 'producer' e 'consumer', non indica un rapporto di lavoro formale."
+        },
+        {
+          "text": "Un consumatore che partecipa attivamente alla creazione o modifica dei contenuti del brand.",
+          "isCorrect": true,
+          "rationale": "Il prosumer non si limita a comprare, ma produce opinioni, video o storytelling che influenzano la marca."
+        },
+        {
+          "text": "Un software che automatizza la produzione per i consumatori.",
+          "isCorrect": false,
+          "rationale": "Il termine si riferisce a un comportamento umano e sociale, non a uno strumento informatico."
+        },
+        {
+          "text": "Un cliente che acquista solo prodotti in promozione.",
+          "isCorrect": false,
+          "rationale": "Questa è una tipologia di acquirente sensibile al prezzo, non legata alla produzione di contenuti."
+        }
+      ],
+      "hint": "Pensa alla fusione delle parole 'Producer' (produttore) e 'Consumer' (consumatore)."
+    },
+    {
+      "question": "Secondo il materiale, qual è l'obiettivo del 'Posizionamento' (Positioning)?",
+      "answerOptions": [
+        {
+          "text": "Collocare i prodotti fisicamente sugli scaffali dei supermercati.",
+          "isCorrect": false,
+          "rationale": "Questa è la distribuzione fisica, che è diversa dal posizionamento di marketing strategico."
+        },
+        {
+          "text": "Influenzare il modo in cui il mercato percepisce il prodotto rispetto ai concorrenti.",
+          "isCorrect": true,
+          "rationale": "Il posizionamento avviene nella mente del consumatore per differenziare l'offerta."
+        },
+        {
+          "text": "Assicurarsi che il sito web sia al primo posto su Google.",
+          "isCorrect": false,
+          "rationale": "Questo è il posizionamento SEO, una tattica specifica che non esaurisce il concetto di marketing strategico."
+        },
+        {
+          "text": "Scegliere la città in cui aprire la sede legale dell'azienda.",
+          "isCorrect": false,
+          "rationale": "La localizzazione geografica dell'ufficio non è l'obiettivo del posizionamento di marca."
+        }
+      ],
+      "hint": "Pensa alla 'mappa mentale' che il cliente ha della tua azienda confrontata con altre."
+    },
+    {
+      "question": "Nella 'Mappa di Posizionamento' del settore Automotive mostrata, quali sono i due assi principali utilizzati per il confronto?",
+      "answerOptions": [
+        {
+          "text": "Velocità e Consumo",
+          "isCorrect": false,
+          "rationale": "Questi sono parametri tecnici, non i due assi strategici mostrati nel grafico della lezione."
+        },
+        {
+          "text": "Prezzo (Alto/Basso) e Brand Image (Trendy/Classic).",
+          "isCorrect": true,
+          "rationale": "La mappa incrocia il valore economico percepito con lo stile o la percezione del marchio (moderno vs tradizionale)."
+        },
+        {
+          "text": "Sicurezza e Spazio interno",
+          "isCorrect": false,
+          "rationale": "Sebbene rilevanti per le auto, non sono i criteri di differenziazione macro-strategica scelti nell'esempio."
+        },
+        {
+          "text": "Paese di produzione e Colore",
+          "isCorrect": false,
+          "rationale": "Questi elementi sono troppo specifici e non permettono una mappatura strategica globale del settore."
+        }
+      ],
+      "hint": "Considera quanto costa il prodotto e quale 'personalità' comunica il marchio."
+    },
+    {
+      "question": "Cosa si intende per 'Omni-channel' nel comportamento del nuovo consumatore?",
+      "answerOptions": [
+        {
+          "text": "L'utilizzo di un solo canale televisivo per informarsi.",
+          "isCorrect": false,
+          "rationale": "L'omni-canalità implica proprio l'opposto dell'utilizzo di un singolo mezzo."
+        },
+        {
+          "text": "Il non fare affidamento su una singola fonte e l'uso di molteplici canali e media durante il percorso d'acquisto.",
+          "isCorrect": true,
+          "rationale": "Il consumatore moderno passa fluidamente dal social al negozio fisico, dal sito web alle recensioni video."
+        },
+        {
+          "text": "La vendita di prodotti esclusivamente tramite canali digitali.",
+          "isCorrect": false,
+          "rationale": "L'omni-canale include anche i canali fisici (offline), integrandoli con quelli digitali."
+        },
+        {
+          "text": "L'invio dello stesso messaggio pubblicitario a tutti i consumatori indistintamente.",
+          "isCorrect": false,
+          "rationale": "Questa è la comunicazione 'broadcast' o di massa, non legata alla gestione integrata dei canali."
+        }
+      ],
+      "hint": "Pensa alla capacità di muoversi tra diverse fonti di informazione e luoghi di acquisto."
+    }
+  ]
+}

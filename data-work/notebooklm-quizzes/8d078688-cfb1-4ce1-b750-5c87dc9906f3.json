@@ -1,0 +1,776 @@
+{
+  "title": "Marketing Quiz",
+  "questions": [
+    {
+      "question": "Nell'ambito dell'analisi SWOT, come vengono classificati i fattori relativi all'ambiente di riferimento?",
+      "answerOptions": [
+        {
+          "text": "Opportunità e Minacce",
+          "isCorrect": true,
+          "rationale": "Questi elementi rappresentano variabili esterne (Outside) che l'organizzazione deve investigare per adattare la propria strategia."
+        },
+        {
+          "text": "Forze e Debolezze",
+          "isCorrect": false,
+          "rationale": "Questi fattori sono di natura interna (Inside) e riguardano le capacità intrinseche dell'organizzazione."
+        },
+        {
+          "text": "Punti di Forza e Opportunità",
+          "isCorrect": false,
+          "rationale": "Questa è una combinazione di un fattore interno e uno esterno, non una classificazione ambientale omogenea."
+        },
+        {
+          "text": "Strategie e Obiettivi",
+          "isCorrect": false,
+          "rationale": "Questi rappresentano l'output del processo decisionale, non le variabili di input dell'analisi ambientale."
+        }
+      ],
+      "hint": "Considera la distinzione tra ciò che accade all'interno dell'azienda e ciò che accade nel mercato circostante."
+    },
+    {
+      "question": "Qual è l'obiettivo principale del 'Positioning' nella fase strategica del marketing?",
+      "answerOptions": [
+        {
+          "text": "Influenzare la percezione del mercato rispetto ai concorrenti",
+          "isCorrect": true,
+          "rationale": "Il posizionamento serve a definire come il prodotto viene visto dai consumatori in relazione alle alternative offerte dai competitor."
+        },
+        {
+          "text": "Identificare gruppi omogenei di individui",
+          "isCorrect": false,
+          "rationale": "Questa attività descrive la segmentazione, che precede il posizionamento."
+        },
+        {
+          "text": "Decidere quali segmenti cercare di raggiungere",
+          "isCorrect": false,
+          "rationale": "Questa azione corrisponde al targeting, ovvero la selezione dei mercati obiettivo."
+        },
+        {
+          "text": "Ridurre l'impatto delle minacce ambientali",
+          "isCorrect": false,
+          "rationale": "Questo è un obiettivo generale dell'analisi SWOT, non specifico del posizionamento."
+        }
+      ],
+      "hint": "Pensa a come una marca vuole 'occupare un posto' nella mente dei consumatori."
+    },
+    {
+      "question": "Nel passaggio dal Marketing 1.0 al Marketing 3.0, come cambia la visione del mercato da parte delle aziende?",
+      "text": "Nel passaggio dal Marketing 1.0 al Marketing 3.0, come cambia la visione del mercato da parte delle aziende?",
+      "answerOptions": [
+        {
+          "text": "Da acquirenti di massa con bisogni fisici a esseri umani integrali",
+          "isCorrect": true,
+          "rationale": "Il Marketing 3.0 vede il consumatore non solo come un target economico ma come una persona dotata di mente, cuore e spirito."
+        },
+        {
+          "text": "Da consumatori intelligenti a semplici acquirenti di massa",
+          "isCorrect": false,
+          "rationale": "Questo invertirebbe l'evoluzione storica del marketing che tende verso una maggiore complessità umana."
+        },
+        {
+          "text": "Da esseri spirituali a target puramente transazionali",
+          "isCorrect": false,
+          "rationale": "La transazionalità era tipica del Marketing 1.0, mentre la visione spirituale è caratteristica delle fasi successive."
+        },
+        {
+          "text": "Da segmenti digitali a gruppi basati sulla rivoluzione industriale",
+          "isCorrect": false,
+          "rationale": "La rivoluzione industriale è stata la forza abilitante del Marketing 1.0, non il punto di arrivo."
+        }
+      ],
+      "hint": "Rifletti sulla crescente importanza dei valori e della spiritualità nelle strategie moderne."
+    },
+    {
+      "question": "Secondo la tabella comparativa, qual è il concetto chiave del Marketing 2.0?",
+      "answerOptions": [
+        {
+          "text": "Differenziazione",
+          "isCorrect": true,
+          "rationale": "In un mercato orientato al cliente, la capacità di distinguersi dalla concorrenza diventa fondamentale per soddisfare segmenti specifici."
+        },
+        {
+          "text": "Sviluppo del prodotto",
+          "isCorrect": false,
+          "rationale": "Questo era il concetto chiave del Marketing 1.0, dove il focus era interamente sull'output produttivo."
+        },
+        {
+          "text": "Valori",
+          "isCorrect": false,
+          "rationale": "I valori rappresentano il pilastro del Marketing 3.0, che si sposta verso una missione più etica e sociale."
+        },
+        {
+          "text": "Collaborazione molti-a-molti",
+          "isCorrect": false,
+          "rationale": "Questa forma di interazione è propria del Marketing 3.0 e delle fasi successive più orientate al network."
+        }
+      ],
+      "hint": "Cerca il termine associato all'approccio 'Customer-oriented'."
+    },
+    {
+      "question": "In termini di posizionamento, quale trasformazione ha operato Nike per passare dal modello tradizionale a quello moderno?",
+      "answerOptions": [
+        {
+          "text": "Da 'Scarpe' a 'Salute e Benessere'",
+          "isCorrect": true,
+          "rationale": "Il nuovo posizionamento si sposta dall'oggetto fisico a un beneficio intangibile e di valore superiore per la vita del cliente."
+        },
+        {
+          "text": "Da 'Sport' a 'Calzature'",
+          "isCorrect": false,
+          "rationale": "Questo restringerebbe il focus aziendale, mentre il marketing moderno tende ad ampliare la value proposition."
+        },
+        {
+          "text": "Da 'Nutrizione' a 'Cibo'",
+          "isCorrect": false,
+          "rationale": "Questa è l'evoluzione contraria a quella mostrata per Nestlè nella documentazione."
+        },
+        {
+          "text": "Da 'Benessere' a 'Performance'",
+          "isCorrect": false,
+          "rationale": "Il posizionamento moderno di Nike mira a un concetto più olistico di lifestyle rispetto alla pura prestazione tecnica."
+        }
+      ],
+      "hint": "Pensa a come il brand ha esteso la sua missione oltre il semplice prodotto fisico."
+    },
+    {
+      "question": "Qual è la caratteristica fondamentale dei dati digitali rispetto a quelli analogici?",
+      "answerOptions": [
+        {
+          "text": "Cambiano discretamente tra stati diversi",
+          "isCorrect": true,
+          "rationale": "I sistemi digitali operano su basi binarie (0 e 1), mentre quelli analogici variano in modo continuo."
+        },
+        {
+          "text": "Immagazzinano dati meccanici e continui",
+          "isCorrect": false,
+          "rationale": "Questa è la definizione di dati analogici, come quelli presenti in un disco in vinile."
+        },
+        {
+          "text": "Sono codificati utilizzando infiniti simboli",
+          "isCorrect": false,
+          "rationale": "Il digitale si basa su soli due simboli (0 e 1), rendendo il sistema binario e non infinito."
+        },
+        {
+          "text": "Non richiedono alcun sistema di codifica",
+          "isCorrect": false,
+          "rationale": "Sia i sistemi analogici che quelli digitali richiedono specifiche forme di codifica e trasmissione."
+        }
+      ],
+      "hint": "Rifletti sulla differenza tra una scala a pioli e una rampa liscia."
+    },
+    {
+      "question": "Considerando l'unità minima di informazione digitale, quanti bit sono necessari per formare un byte?",
+      "answerOptions": [
+        {
+          "text": "8",
+          "isCorrect": true,
+          "rationale": "Come specificato nel materiale, un byte è composto da una serie di 8 bit."
+        },
+        {
+          "text": "2",
+          "isCorrect": false,
+          "rationale": "Il numero 2 rappresenta la base del sistema binario, non la dimensione di un byte."
+        },
+        {
+          "text": "10",
+          "isCorrect": false,
+          "rationale": "Il sistema decimale usa la base 10, ma l'architettura dei computer standard utilizza potenze di 2."
+        },
+        {
+          "text": "1024",
+          "isCorrect": false,
+          "rationale": "Questo numero è tipicamente associato ai kilobyte, non al numero di bit in un singolo byte."
+        }
+      ],
+      "hint": "È un numero standard nell'informatica che definisce la struttura di base del dato."
+    },
+    {
+      "question": "Secondo la Legge di Grosh, se la velocità di elaborazione di un computer aumenta di 4 volte, cosa succede al suo costo?",
+      "answerOptions": [
+        {
+          "text": "Si riduce della metà",
+          "isCorrect": true,
+          "rationale": "La legge di Grosh stabilisce un rapporto inverso tra velocità di calcolo e costo relativo dell'hardware."
+        },
+        {
+          "text": "Raddoppia",
+          "isCorrect": false,
+          "rationale": "Questo contraddirebbe il principio di elevata produttività delle tecnologie digitali descritto."
+        },
+        {
+          "text": "Rimane costante",
+          "isCorrect": false,
+          "rationale": "La legge di Grosh osserva specificamente una riduzione dei costi all'aumentare delle performance."
+        },
+        {
+          "text": "Aumenta di 4 volte",
+          "isCorrect": false,
+          "rationale": "Questo indicherebbe un rendimento costante, mentre la legge suggerisce economie di scala tecnologiche."
+        }
+      ],
+      "hint": "La legge evidenzia come la tecnologia diventi più accessibile man mano che diventa più potente."
+    },
+    {
+      "question": "La Legge di Moore prevede che il numero di transistor in un chip raddoppi ogni quanti mesi, a parità di costo?",
+      "answerOptions": [
+        {
+          "text": "18 mesi",
+          "isCorrect": true,
+          "rationale": "Gordon Moore, fondatore di Intel, identificò questo ritmo di crescita esponenziale nella capacità dei microprocessori."
+        },
+        {
+          "text": "12 mesi",
+          "isCorrect": false,
+          "rationale": "Sebbene sia un intervallo comune per i cicli annuali, Moore specificò un periodo leggermente più lungo per il raddoppio fisico."
+        },
+        {
+          "text": "24 mesi",
+          "isCorrect": false,
+          "rationale": "Due anni è una stima spesso usata colloquialmente, ma la formulazione originale citata è di 18 mesi."
+        },
+        {
+          "text": "36 mesi",
+          "isCorrect": false,
+          "rationale": "Questo periodo sarebbe troppo lento per riflettere l'accelerazione tecnologica descritta nel materiale."
+        }
+      ],
+      "hint": "È un periodo di tempo compreso tra un anno e due anni."
+    },
+    {
+      "question": "Secondo la Legge di Metcalfe, l'utilità di una rete ($U_i$) per un utente è proporzionale a quale valore, dove $n$ è il numero di utenti?",
+      "answerOptions": [
+        {
+          "text": "$n^2$",
+          "isCorrect": true,
+          "rationale": "L'utilità cresce in modo non lineare rispetto al numero di nodi, poiché aumentano le possibili connessioni tra utenti."
+        },
+        {
+          "text": "$n$",
+          "isCorrect": false,
+          "rationale": "Una crescita lineare sottostimerebbe il valore aggiunto da ogni nuovo utente alle interazioni totali della rete."
+        },
+        {
+          "text": "$\\log(n)$",
+          "isCorrect": false,
+          "rationale": "Una funzione logaritmica indicherebbe rendimenti decrescenti, l'opposto di quanto previsto per le tecnologie di rete."
+        },
+        {
+          "text": "$2n$",
+          "isCorrect": false,
+          "rationale": "Questa è una crescita lineare raddoppiata, che non cattura la natura esplosiva degli effetti di rete."
+        }
+      ],
+      "hint": "Pensa alla formula matematica che indica che il valore cresce con il quadrato dei partecipanti."
+    },
+    {
+      "question": "Quale fenomeno ha permesso il passaggio da un 'mercato di massa' a una 'massa di mercati di nicchia'?",
+      "answerOptions": [
+        {
+          "text": "L'eliminazione dei vincoli di spazio fisico e dei costi di stoccaggio",
+          "isCorrect": true,
+          "rationale": "Il digitale permette di offrire prodotti che nel mondo fisico non sarebbero stati profittevoli a causa della scarsità di spazio sugli scaffali."
+        },
+        {
+          "text": "La necessità di selezione dei prodotti da parte dei distributori tradizionali",
+          "isCorrect": false,
+          "rationale": "Questa selezione era proprio il limite del modello precedente, che favoriva solo i 'blockbuster'."
+        },
+        {
+          "text": "L'aumento dei costi di distribuzione per i prodotti digitali",
+          "isCorrect": false,
+          "rationale": "L'economia digitale si basa sulla riduzione drastica, non sull'aumento, dei costi distributivi."
+        },
+        {
+          "text": "Il ritorno al modello transazionale uno-a-molti",
+          "isCorrect": false,
+          "rationale": "La 'massa di mercati' si basa su interazioni più complesse e personalizzate, non sul modello di massa tradizionale."
+        }
+      ],
+      "hint": "Considera come Amazon gestisce il suo catalogo rispetto a una libreria di quartiere."
+    },
+    {
+      "question": "Nel contesto del marketing digitale, cosa si intende per approccio 'Reticolare'?",
+      "answerOptions": [
+        {
+          "text": "La costruzione di molteplici nessi tra impresa e singoli clienti e tra i clienti stessi",
+          "isCorrect": true,
+          "rationale": "A differenza del modello top-down, il marketing digitale favorisce connessioni orizzontali e network interattivi."
+        },
+        {
+          "text": "Una direzione della proposta di valore esclusivamente dall'impresa al target",
+          "isCorrect": false,
+          "rationale": "Questo descrive l'approccio deterministico tradizionale, non quello reticolare."
+        },
+        {
+          "text": "L'utilizzo di un paniere di offerta pre-confezionato di tipo 'push'",
+          "isCorrect": false,
+          "rationale": "L'approccio reticolare e collaborativo tende verso l'offerta co-creata e personalizzata."
+        },
+        {
+          "text": "Un'analisi del cliente effettuata esclusivamente a-priori",
+          "isCorrect": false,
+          "rationale": "L'approccio digitale preferisce analisi dinamiche e basate sull'ascolto continuo del dialogo paritario."
+        }
+      ],
+      "hint": "Visualizza una rete dove i nodi comunicano tra loro, non solo con un centro."
+    },
+    {
+      "question": "A quale fase del Marketing corrisponde il claim 'The future is immersive'?",
+      "answerOptions": [
+        {
+          "text": "Marketing 6.0",
+          "isCorrect": true,
+          "rationale": "Come mostrato dalle copertine di Philip Kotler, il 6.0 rappresenta l'ultima frontiera dell'esperienza immersiva."
+        },
+        {
+          "text": "Marketing 4.0",
+          "isCorrect": false,
+          "rationale": "Il 4.0 è focalizzato sulla transizione dal tradizionale al digitale e sulla convergenza online/offline."
+        },
+        {
+          "text": "Marketing 5.0",
+          "isCorrect": false,
+          "rationale": "Il focus del 5.0 è sulle 'tecnologie per l'umanità' (Humanity)."
+        },
+        {
+          "text": "Marketing 3.0",
+          "isCorrect": false,
+          "rationale": "Il 3.0 è lo stadio del marketing guidato dai valori (Value-driven)."
+        }
+      ],
+      "hint": "Cerca l'edizione più recente dei testi di Kotler menzionati."
+    },
+    {
+      "question": "Definisci il concetto di 'Touchpoint' nel Customer Journey.",
+      "answerOptions": [
+        {
+          "text": "Il momento di interazione tra consumatore e brand su una piattaforma specifica",
+          "isCorrect": true,
+          "rationale": "Rappresenta ogni singolo punto di contatto fisico o digitale attraverso cui avviene lo scambio tra le parti."
+        },
+        {
+          "text": "Il momento in cui la memoria dell'esperienza scompare del tutto",
+          "isCorrect": false,
+          "rationale": "Questo evento segna la fine del customer journey, non un singolo punto di contatto."
+        },
+        {
+          "text": "L'analisi dei soli aspetti psicologici prima dell'acquisto",
+          "isCorrect": false,
+          "rationale": "Il touchpoint riguarda l'interazione reale, non solo l'analisi cognitiva pre-acquisto."
+        },
+        {
+          "text": "La fase finale di pagamento del bene o servizio",
+          "isCorrect": false,
+          "rationale": "Il pagamento è un touchpoint specifico della fase di 'Purchase', ma non definisce l'intero concetto."
+        }
+      ],
+      "hint": "È letteralmente il 'punto di contatto' tra l'utente e l'azienda."
+    },
+    {
+      "question": "In quale fase del Customer Journey avviene il riconoscimento di un bisogno o di un obiettivo?",
+      "answerOptions": [
+        {
+          "text": "Pre-purchase",
+          "isCorrect": true,
+          "rationale": "Questa fase copre tutto ciò che accade prima della transazione, inclusa la motivazione iniziale all'acquisto."
+        },
+        {
+          "text": "Purchase",
+          "isCorrect": false,
+          "rationale": "La fase di acquisto è focalizzata sulla scelta, sull'ordine e sul pagamento effettivo."
+        },
+        {
+          "text": "Post-purchase",
+          "isCorrect": false,
+          "rationale": "Il post-acquisto riguarda il consumo, l'utilizzo e la memoria dell'esperienza vissuta."
+        },
+        {
+          "text": "Mapping",
+          "isCorrect": false,
+          "rationale": "Il mapping è l'attività di diagrammazione del processo, non una fase del viaggio del cliente stesso."
+        }
+      ],
+      "hint": "Accade quando il cliente inizia a pensare di aver bisogno di qualcosa."
+    },
+    {
+      "question": "Cosa sono le 'Personas' nel contesto della mappatura del cliente?",
+      "answerOptions": [
+        {
+          "text": "Archetipi che rappresentano diversi tipi di utenti reali con bisogni e obiettivi specifici",
+          "isCorrect": true,
+          "rationale": "Le personas servono a umanizzare i segmenti di mercato, permettendo all'azienda di progettare soluzioni mirate."
+        },
+        {
+          "text": "Database statistici anonimi che raggruppano migliaia di clienti",
+          "isCorrect": false,
+          "rationale": "Le personas sono caratterizzazioni finzionali e dettagliate, non semplici aggregati di dati numerici."
+        },
+        {
+          "text": "Dipendenti aziendali che testano il prodotto prima del lancio",
+          "isCorrect": false,
+          "rationale": "Questa definizione descriverebbe un processo di QA o beta testing, non uno strumento di marketing strategico."
+        },
+        {
+          "text": "Algoritmi di intelligenza artificiale che prevedono il prezzo futuro",
+          "isCorrect": false,
+          "rationale": "Sebbene l'AI possa aiutare a crearle, le personas sono concettualmente modelli di comportamento umano."
+        }
+      ],
+      "hint": "Pensa a dei personaggi fittizi che 'danno un volto' al cliente ideale."
+    },
+    {
+      "question": "Qual è lo scopo principale dell'aggiunta di un 'livello cognitivo' (pensieri e sentimenti) alla mappa del Customer Journey?",
+      "answerOptions": [
+        {
+          "text": "Costringere l'azienda a entrare in empatia con il proprio pubblico",
+          "isCorrect": true,
+          "rationale": "Comprendere cosa pensa e prova il cliente aiuta a identificare punti di frizione che l'analisi puramente comportamentale ignorerebbe."
+        },
+        {
+          "text": "Ridurre la complessità tecnica dei dispositivi utilizzati",
+          "isCorrect": false,
+          "rationale": "Il livello cognitivo si concentra sull'esperienza umana, non sull'ottimizzazione dell'hardware."
+        },
+        {
+          "text": "Aumentare il numero di touchpoint disponibili",
+          "isCorrect": false,
+          "rationale": "Il numero di touchpoint dipende dalla strategia multicanale, non dalla profondità dell'analisi psicologica."
+        },
+        {
+          "text": "Eliminare la necessità di segmentazione del mercato",
+          "isCorrect": false,
+          "rationale": "Al contrario, l'analisi cognitiva arricchisce e rende più precisi i segmenti o le personas già identificati."
+        }
+      ],
+      "hint": "Riguarda la capacità di 'mettersi nei panni' dell'altro per migliorare l'esperienza."
+    },
+    {
+      "question": "Cosa si intende per 'Effetto di rete indiretto'?",
+      "answerOptions": [
+        {
+          "text": "Il valore di un bene aumenta con la varietà di prodotti complementari disponibili",
+          "isCorrect": true,
+          "rationale": "L'esempio classico è il lettore DVD che diventa più utile se esistono molti titoli di film diversi sul mercato."
+        },
+        {
+          "text": "Il valore aumenta direttamente con il numero di utenti che usano lo stesso dispositivo",
+          "isCorrect": false,
+          "rationale": "Questa è la definizione di effetto di rete diretto, tipico dei sistemi di comunicazione come il telefono."
+        },
+        {
+          "text": "L'effetto che si ottiene riducendo il numero di nodi della rete",
+          "isCorrect": false,
+          "rationale": "Ridurre i nodi solitamente diminuisce l'utilità totale della rete secondo la logica di Metcalfe."
+        },
+        {
+          "text": "Il valore di un bene che diminuisce all'aumentare della concorrenza",
+          "isCorrect": false,
+          "rationale": "Questo descriverebbe dinamiche di saturazione del mercato, non effetti di rete."
+        }
+      ],
+      "hint": "Pensa alla relazione tra una console di gioco e il numero di videogiochi prodotti per essa."
+    },
+    {
+      "question": "Nelle piattaforme 'a due mercati' (two-sided), quale sfida critica devono affrontare i gestori?",
+      "answerOptions": [
+        {
+          "text": "Scegliere quanto far pagare a ciascuna parte per massimizzare i profitti",
+          "isCorrect": true,
+          "rationale": "Il valore per una parte dipende dalla presenza dell'altra, quindi il pricing deve bilanciare la partecipazione di entrambi i lati."
+        },
+        {
+          "text": "Eliminare completamente una delle due parti per semplificare lo scambio",
+          "isCorrect": false,
+          "rationale": "Le piattaforme multi-lato richiedono per definizione la presenza di almeno due gruppi distinti (es. acquirenti e venditori)."
+        },
+        {
+          "text": "Garantire che i dati analogici non interferiscano con quelli digitali",
+          "isCorrect": false,
+          "rationale": "Questa è una problematica tecnica di segnale, irrilevante per la strategia di business model delle piattaforme."
+        },
+        {
+          "text": "Evitare che il numero di utenti cresca troppo velocemente",
+          "isCorrect": false,
+          "rationale": "Data la legge di Metcalfe, le piattaforme solitamente cercano di massimizzare il numero di utenti per aumentare l'utilità."
+        }
+      ],
+      "hint": "Considera come aziende come Uber o Airbnb decidono le commissioni per conducenti/host rispetto ai passeggeri/ospiti."
+    },
+    {
+      "question": "Vero o Falso: Nel Marketing 1.0, l'interazione con i consumatori è di tipo 'uno-a-uno'.",
+      "answerOptions": [
+        {
+          "text": "Falso",
+          "isCorrect": true,
+          "rationale": "Nel Marketing 1.0 l'interazione è 'uno-a-molti' (transazionale), mentre il modello 'uno-a-uno' appare nel Marketing 2.0."
+        },
+        {
+          "text": "Vero",
+          "isCorrect": false,
+          "rationale": "Il Marketing 1.0 era focalizzato sul prodotto e sulla produzione di massa, senza una personalizzazione individuale."
+        }
+      ],
+      "hint": "Pensa alla produzione in serie di Henry Ford: 'Ogni cliente può avere un'auto di qualunque colore, purché sia nera'."
+    },
+    {
+      "question": "Quale elemento caratterizza il Marketing 4.0 secondo le slide?",
+      "answerOptions": [
+        {
+          "text": "Convergenza tra il mondo offline e quello online",
+          "isCorrect": true,
+          "rationale": "Il Marketing 4.0 segna l'integrazione fluida delle esperienze fisiche e digitali nel percorso del consumatore."
+        },
+        {
+          "text": "Focalizzazione esclusiva sulla vendita di prodotti fisici",
+          "isCorrect": false,
+          "rationale": "Questo approccio limitato era tipico del Marketing 1.0."
+        },
+        {
+          "text": "Ritorno ai media tradizionali senza l'uso di internet",
+          "isCorrect": false,
+          "rationale": "Il Marketing 4.0 è intrinsecamente legato alla trasformazione digitale."
+        },
+        {
+          "text": "Eliminazione totale dei touchpoint fisici",
+          "isCorrect": false,
+          "rationale": "Il concetto di convergenza implica che entrambi i mondi continuino a esistere e a interagire."
+        }
+      ],
+      "hint": "È il passaggio che unisce il negozio fisico all'e-commerce."
+    },
+    {
+      "question": "Un diagramma di mappatura del Customer Journey solitamente presenta il viaggio secondo quale struttura?",
+      "answerOptions": [
+        {
+          "text": "Una timeline lineare",
+          "isCorrect": true,
+          "rationale": "Sebbene il viaggio reale sia complesso, la timeline lineare semplifica la visualizzazione per estrarre insight e miglioramenti."
+        },
+        {
+          "text": "Un cerchio chiuso senza fine",
+          "isCorrect": false,
+          "rationale": "Sebbene esistano cicli di riacquisto, la mappatura standard si focalizza su un processo sequenziale nel tempo."
+        },
+        {
+          "text": "Una matrice di soli dati numerici",
+          "isCorrect": false,
+          "rationale": "Il journey map è uno strumento narrativo e visivo, non un semplice foglio di calcolo."
+        },
+        {
+          "text": "Un grafico a torta dei costi",
+          "isCorrect": false,
+          "rationale": "La mappa riguarda l'esperienza dell'utente, non la distribuzione del budget aziendale."
+        }
+      ],
+      "hint": "Pensa a come viene rappresentata visivamente la storia dell'esperienza nel tempo."
+    },
+    {
+      "question": "Perché le Buyer Personas aiutano le aziende a progettare soluzioni migliori?",
+      "answerOptions": [
+        {
+          "text": "Perché risolvono i problemi dei clienti invece di quelli del business",
+          "isCorrect": true,
+          "rationale": "L'approccio customer-centric sposta il focus sulle reali necessità dell'utente, portando a prodotti di maggior valore."
+        },
+        {
+          "text": "Perché permettono di ignorare i segmenti di mercato meno redditizi",
+          "isCorrect": false,
+          "rationale": "Le personas servono a comprendere meglio i target, non necessariamente a escluderli senza analisi."
+        },
+        {
+          "text": "Perché riducono i costi di ricerca e sviluppo",
+          "isCorrect": false,
+          "rationale": "La creazione di personas è essa stessa un'attività di ricerca che richiede risorse, sebbene ottimizzi i risultati futuri."
+        },
+        {
+          "text": "Perché sostituiscono completamente la necessità di feedback reali",
+          "isCorrect": false,
+          "rationale": "Le personas devono essere basate su informazioni reali e validate continuamente dai feedback del mercato."
+        }
+      ],
+      "hint": "Considera la differenza tra un approccio egoistico dell'azienda e uno empatico."
+    },
+    {
+      "question": "Nel grafico della 'Coda Lunga', cosa rappresenta la parte gialla?",
+      "answerOptions": [
+        {
+          "text": "Libri venduti solo da Amazon (nicchie)",
+          "isCorrect": true,
+          "rationale": "La 'Long Tail' è composta da una miriade di prodotti a bassa rotazione che cumulativamente generano volumi significativi."
+        },
+        {
+          "text": "I 100.000 libri più popolari nei negozi tradizionali",
+          "isCorrect": false,
+          "rationale": "Questi costituiscono la 'testa' del grafico (parte verde), ovvero i blockbuster di massa."
+        },
+        {
+          "text": "I prodotti che non verranno mai acquistati da nessuno",
+          "isCorrect": false,
+          "rationale": "La coda lunga riguarda prodotti con domanda bassa ma esistente, non prodotti privi di mercato."
+        },
+        {
+          "text": "Il costo totale del marketing per i successi",
+          "isCorrect": false,
+          "rationale": "Il grafico rappresenta le vendite (Sales) in relazione al ranking dei prodotti, non i costi pubblicitari."
+        }
+      ],
+      "hint": "Si riferisce a quei prodotti che i negozi fisici non possono permettersi di tenere in magazzino."
+    },
+    {
+      "question": "Quale di questi è considerato un 'dispositivo' (device) digitale e non una 'piattaforma'?",
+      "answerOptions": [
+        {
+          "text": "Smartphone",
+          "isCorrect": true,
+          "rationale": "Lo smartphone è l'hardware fisico, mentre internet o i social network sono le piattaforme che lo utilizzano."
+        },
+        {
+          "text": "Social Network",
+          "isCorrect": false,
+          "rationale": "I social network sono piattaforme digitali basate su software e interazioni di rete."
+        },
+        {
+          "text": "Mobile Web",
+          "isCorrect": false,
+          "rationale": "Il web è una piattaforma di accesso alle informazioni, indipendentemente dal mezzo fisico."
+        },
+        {
+          "text": "TV Digitale",
+          "isCorrect": false,
+          "rationale": "Secondo il materiale, la TV digitale è elencata tra le piattaforme, mentre l'apparecchio TV fisico è il device."
+        }
+      ],
+      "hint": "Cerca l'oggetto fisico che puoi tenere in mano o poggiare sulla scrivania."
+    },
+    {
+      "question": "Cosa caratterizza il 'Consumer Empowerment' nel mercato digitale?",
+      "answerOptions": [
+        {
+          "text": "Il cliente ha più potere e controllo grazie all'accesso alle informazioni",
+          "isCorrect": true,
+          "rationale": "La tecnologia digitale sposta l'equilibrio di potere verso il consumatore, che può confrontare e scegliere con maggiore consapevolezza."
+        },
+        {
+          "text": "L'azienda decide unilateralmente il prezzo senza interferenze",
+          "isCorrect": false,
+          "rationale": "Questo descriverebbe un monopolio o una situazione di scarsa informazione, l'opposto dell'empowerment."
+        },
+        {
+          "text": "La riduzione della capacità di scelta del consumatore",
+          "isCorrect": false,
+          "rationale": "Il mercato digitale amplia drasticamente le opzioni di scelta (mondo dell'abbondanza)."
+        },
+        {
+          "text": "L'impossibilità per l'utente di fornire feedback sui prodotti",
+          "isCorrect": false,
+          "rationale": "L'interattività e il feedback sono pilastri fondamentali del ruolo attivo del consumatore digitale."
+        }
+      ],
+      "hint": "Pensa a come internet ha cambiato la forza contrattuale di chi compra."
+    },
+    {
+      "question": "Nelle mappe di posizionamento del settore Automotive mostrate, quali sono i due assi principali?",
+      "answerOptions": [
+        {
+          "text": "Prezzo e Immagine di Marca (Trendy vs Classic)",
+          "isCorrect": true,
+          "rationale": "Queste variabili permettono di mappare i competitor in base a quanto costano e a come vengono percepiti stilisticamente."
+        },
+        {
+          "text": "Velocità e Consumo di carburante",
+          "isCorrect": false,
+          "rationale": "Sebbene importanti, queste sono caratteristiche tecniche e non assi del posizionamento d'immagine mostrato."
+        },
+        {
+          "text": "Dimensioni e Numero di posti",
+          "isCorrect": false,
+          "rationale": "Questi fattori servono a segmentare per categoria d'uso, non a definire il posizionamento percettivo globale."
+        },
+        {
+          "text": "Paese d'origine e Anno di fondazione",
+          "isCorrect": false,
+          "rationale": "Questi sono dati storici che raramente costituiscono i driver principali di una mappa di posizionamento moderna."
+        }
+      ],
+      "hint": "Guarda i termini 'Alto/Basso' e 'Trendy/Classic' nelle immagini del settore auto."
+    },
+    {
+      "question": "Cosa indica il termine 'Virtualizzazione' nell'economia digitale?",
+      "answerOptions": [
+        {
+          "text": "La trasformazione di oggetti fisici in flussi di bit",
+          "isCorrect": true,
+          "rationale": "Questo permette a beni come musica o libri di essere distribuiti istantaneamente senza costi logistici fisici."
+        },
+        {
+          "text": "L'obbligo di utilizzare visori VR per ogni acquisto",
+          "isCorrect": false,
+          "rationale": "La virtualizzazione è un concetto economico di smaterializzazione, non limitato alla tecnologia della realtà virtuale."
+        },
+        {
+          "text": "L'eliminazione dei dipendenti umani a favore dei robot",
+          "isCorrect": false,
+          "rationale": "Sebbene l'automazione esista, la virtualizzazione si riferisce primariamente alla natura del bene scambiato."
+        },
+        {
+          "text": "La creazione di negozi fisici senza prodotti reali",
+          "isCorrect": false,
+          "rationale": "Questo sarebbe uno showroom, mentre la virtualizzazione riguarda l'essenza digitale dell'oggetto dello scambio."
+        }
+      ],
+      "hint": "Pensa a come un CD diventa un file MP3."
+    },
+    {
+      "question": "In un Customer Journey, cosa si intende per 'Pain Points'?",
+      "answerOptions": [
+        {
+          "text": "Momenti di frizione o difficoltà riscontrati dal cliente durante il percorso",
+          "isCorrect": true,
+          "rationale": "Identificare e risolvere questi punti è cruciale per migliorare l'esperienza complessiva e aumentare la conversione."
+        },
+        {
+          "text": "Il costo massimo che un cliente è disposto a pagare",
+          "isCorrect": false,
+          "rationale": "Questo concetto riguarda la 'disponibilità a pagare' (willingness to pay), non i punti di dolore del viaggio."
+        },
+        {
+          "text": "I punti di forza dei concorrenti che ci spaventano",
+          "isCorrect": false,
+          "rationale": "I pain points sono relativi all'esperienza del nostro cliente con noi, non alla strategia dei competitor."
+        },
+        {
+          "text": "Le fasi in cui il marketing non deve intervenire",
+          "isCorrect": false,
+          "rationale": "Il marketing deve intervenire proprio dove ci sono problemi per fluidificare il percorso."
+        }
+      ],
+      "hint": "Sono gli ostacoli che rendono l'acquisto frustrante o difficile."
+    },
+    {
+      "question": "Il Marketing 5.0 viene definito come:",
+      "answerOptions": [
+        {
+          "text": "Tecnologie per l'umanità",
+          "isCorrect": true,
+          "rationale": "Questa fase cerca di mettere le innovazioni tecnologiche al servizio del miglioramento della condizione umana e sociale."
+        },
+        {
+          "text": "Pura automazione senza intervento umano",
+          "isCorrect": false,
+          "rationale": "Il Marketing 5.0 non esclude l'umano, ma usa la tecnologia per potenziarne l'impatto positivo."
+        },
+        {
+          "text": "Ritorno al solo marketing analogico",
+          "isCorrect": false,
+          "rationale": "Il 5.0 presuppone una maturità digitale elevatissima."
+        },
+        {
+          "text": "Sviluppo di soli prodotti industriali di massa",
+          "isCorrect": false,
+          "rationale": "Questa era la missione del Marketing 1.0 all'inizio del secolo scorso."
+        }
+      ],
+      "hint": "Guarda il sottotitolo italiano sulla copertina del libro di Kotler corrispondente."
+    }
+  ]
+}

@@ -1,0 +1,785 @@
+{
+  "title": "Quiz Marketing",
+  "questions": [
+    {
+      "question": "Qual era l'obiettivo principale nel paradigma del Marketing 1.0?",
+      "answerOptions": [
+        {
+          "text": "Soddisfare e trattenere i consumatori",
+          "isCorrect": false,
+          "rationale": "Questo obiettivo appartiene al Marketing 2.0, che è orientato al cliente piuttosto che al prodotto."
+        },
+        {
+          "text": "Vendere prodotti",
+          "isCorrect": true,
+          "rationale": "Il Marketing 1.0 era incentrato sul prodotto e l'obiettivo primario era la transazione e la vendita di massa."
+        },
+        {
+          "text": "Rendere il mondo un posto migliore",
+          "isCorrect": false,
+          "rationale": "Questa è la missione del Marketing 3.0, che si focalizza sui valori e sull'umanità."
+        },
+        {
+          "text": "Creare esperienze immersive",
+          "isCorrect": false,
+          "rationale": "L'immersività è una caratteristica delle fasi più recenti, come il Marketing 6.0."
+        }
+      ],
+      "hint": "Pensa alla fase della Rivoluzione Industriale, quando l'attenzione era tutta sulla produzione di massa."
+    },
+    {
+      "question": "Secondo la definizione dell'AMA del 1985, il marketing riguarda la creazione di scambi per soddisfare obiettivi individuali e di quale altro tipo?",
+      "answerOptions": [
+        {
+          "text": "Sociali",
+          "isCorrect": false,
+          "rationale": "Gli obiettivi sociali sono stati integrati più esplicitamente nelle definizioni successive o nel Marketing 3.0."
+        },
+        {
+          "text": "Organizzativi",
+          "isCorrect": true,
+          "rationale": "La definizione classica sottolinea il bilanciamento tra la soddisfazione del singolo e quella dell'ente che produce."
+        },
+        {
+          "text": "Ambientali",
+          "isCorrect": false,
+          "rationale": "Sebbene importanti oggi, gli obiettivi ambientali non erano il focus centrale della definizione del 1985."
+        },
+        {
+          "text": "Tecnologici",
+          "isCorrect": false,
+          "rationale": "La tecnologia è un abilitatore, ma non l'obiettivo finale dello scambio secondo quella definizione."
+        }
+      ],
+      "hint": "Considera che il marketing deve servire sia la persona che l'azienda o l'ente coinvolto."
+    },
+    {
+      "question": "Qual è la differenza fondamentale tra un 'Bisogno' e un 'Desiderio'?",
+      "answerOptions": [
+        {
+          "text": "Il desiderio è uno stato di privazione fisica, il bisogno è psicologico",
+          "isCorrect": false,
+          "rationale": "In realtà, il bisogno può essere sia fisico che psicologico, rappresentando una privazione avvertita."
+        },
+        {
+          "text": "Il bisogno è la forma assunta dal desiderio in base alla cultura",
+          "isCorrect": false,
+          "rationale": "La relazione è inversa: è il desiderio a dare forma culturale a un bisogno sottostante."
+        },
+        {
+          "text": "Il desiderio è la forma che un bisogno umano assume, plasmata dalla cultura",
+          "isCorrect": true,
+          "rationale": "Mentre il bisogno è universale (es. fame), il desiderio è specifico e influenzato dall'ambiente (es. voglia di pizza)."
+        },
+        {
+          "text": "Non esiste differenza terminologica nel marketing moderno",
+          "isCorrect": false,
+          "rationale": "La distinzione è cruciale per capire come i prodotti si posizionano sul mercato."
+        }
+      ],
+      "hint": "Pensa a come la cultura influenza il modo in cui decidiamo di soddisfare una necessità primaria."
+    },
+    {
+      "question": "Nella piramide di Maslow applicata al mondo digitale, a quale livello corrisponde la 'Connettività' (wi-fi, 4G)?",
+      "answerOptions": [
+        {
+          "text": "Bisogni di stima",
+          "isCorrect": false,
+          "rationale": "La stima riguarda il riconoscimento sociale, non l'accesso tecnico alla rete."
+        },
+        {
+          "text": "Bisogni fisiologici",
+          "isCorrect": true,
+          "rationale": "Nell'era digitale, la connettività è considerata la base fondamentale senza la quale non si può accedere ad altri servizi."
+        },
+        {
+          "text": "Bisogni di appartenenza",
+          "isCorrect": false,
+          "rationale": "L'appartenenza si realizza tramite i social network, che richiedono la connettività come prerequisito."
+        },
+        {
+          "text": "Autorealizzazione",
+          "isCorrect": false,
+          "rationale": "L'autorealizzazione digitale è legata all'espressione di sé e alla visibilità personale."
+        }
+      ],
+      "hint": "Cerca il livello che rappresenta le fondamenta necessarie per la sopravvivenza nel contesto digitale."
+    },
+    {
+      "question": "Cosa si intende per 'Vantaggio' (Benefit) di un prodotto?",
+      "answerOptions": [
+        {
+          "text": "Il prezzo di vendita al dettaglio",
+          "isCorrect": false,
+          "rationale": "Il prezzo è un costo per il consumatore, non il beneficio che trae dall'uso."
+        },
+        {
+          "text": "Un fattore reale o percepito che soddisfa un bisogno o desiderio",
+          "isCorrect": true,
+          "rationale": "Il beneficio può essere funzionale (prestazioni) o psicologico (immagine e reputazione)."
+        },
+        {
+          "text": "La quantità di scorte disponibili in magazzino",
+          "isCorrect": false,
+          "rationale": "Le scorte riguardano la logistica, non il valore percepito dall'utente finale."
+        },
+        {
+          "text": "La campagna pubblicitaria associata al brand",
+          "isCorrect": false,
+          "rationale": "La pubblicità comunica il vantaggio, ma non è il vantaggio stesso."
+        }
+      ],
+      "hint": "È il motivo per cui un cliente sceglie un prodotto specifico rispetto a un altro per risolvere un suo problema."
+    },
+    {
+      "question": "Quale delle 4P del Marketing Mix comprende le decisioni su 'garanzie' e 'resi'?",
+      "answerOptions": [
+        {
+          "text": "Prezzo (Price)",
+          "isCorrect": false,
+          "rationale": "Il prezzo si occupa di listini, sconti e termini di pagamento."
+        },
+        {
+          "text": "Distribuzione (Place)",
+          "isCorrect": false,
+          "rationale": "La distribuzione riguarda i canali, la copertura e la logistica dei trasporti."
+        },
+        {
+          "text": "Promozione (Promotion)",
+          "isCorrect": false,
+          "rationale": "La promozione si focalizza sulla comunicazione, come pubblicità e relazioni pubbliche."
+        },
+        {
+          "text": "Prodotto (Product)",
+          "isCorrect": true,
+          "rationale": "Tutto ciò che riguarda le caratteristiche fisiche, il packaging e i servizi post-vendita rientra nella variabile Prodotto."
+        }
+      ],
+      "hint": "Considera questi elementi come parte dell'offerta tangibile e intangibile che l'azienda fornisce."
+    },
+    {
+      "question": "In un'analisi SWOT, come vengono classificati i 'Rischi' derivanti dal mercato esterno?",
+      "answerOptions": [
+        {
+          "text": "Debolezze (Weaknesses)",
+          "isCorrect": false,
+          "rationale": "Le debolezze sono fattori interni negativi propri dell'organizzazione."
+        },
+        {
+          "text": "Minacce (Threats)",
+          "isCorrect": true,
+          "rationale": "Le minacce sono fattori esterni negativi che possono ostacolare il raggiungimento degli obiettivi."
+        },
+        {
+          "text": "Opportunità (Opportunities)",
+          "isCorrect": false,
+          "rationale": "Le opportunità sono fattori esterni positivi che l'azienda può sfruttare."
+        },
+        {
+          "text": "Punti di forza (Strengths)",
+          "isCorrect": false,
+          "rationale": "I punti di forza sono capacità interne positive dell'azienda."
+        }
+      ],
+      "hint": "Pensa a fattori fuori dal controllo dell'azienda che potrebbero danneggiarla."
+    },
+    {
+      "question": "Qual è l'obiettivo principale della fase di 'Posizionamento' (Positioning)?",
+      "answerOptions": [
+        {
+          "text": "Dividere il mercato in gruppi omogenei",
+          "isCorrect": false,
+          "rationale": "Questa operazione è chiamata segmentazione, che precede il posizionamento."
+        },
+        {
+          "text": "Scegliere quali segmenti di mercato servire",
+          "isCorrect": false,
+          "rationale": "Questa è la fase di targeting, ovvero la selezione dei mercati obiettivo."
+        },
+        {
+          "text": "Definire come il prodotto è percepito rispetto ai concorrenti",
+          "isCorrect": true,
+          "rationale": "Il posizionamento mira a occupare uno spazio distintivo nella mente del consumatore."
+        },
+        {
+          "text": "Calcolare i costi di produzione",
+          "isCorrect": false,
+          "rationale": "Il calcolo dei costi è un'attività analitica/operativa, non una scelta strategica di immagine."
+        }
+      ],
+      "hint": "Riguarda la percezione del brand nella mente del cliente in relazione agli altri attori del mercato."
+    },
+    {
+      "question": "Il passaggio dalle 4P alle 4C nel Marketing 4.0 vede il 'Prezzo' evolversi in:",
+      "answerOptions": [
+        {
+          "text": "Co-creazione (Co-creation)",
+          "isCorrect": false,
+          "rationale": "La co-creazione è l'evoluzione della variabile Prodotto, coinvolgendo il cliente nello sviluppo."
+        },
+        {
+          "text": "Conversazione (Conversation)",
+          "isCorrect": false,
+          "rationale": "La conversazione è l'evoluzione della Promozione, passando da monologo a dialogo."
+        },
+        {
+          "text": "Valuta/Prezzo Dinamico (Currency)",
+          "isCorrect": true,
+          "rationale": "Currency riflette i prezzi fluttuanti basati sulla domanda del mercato e sull'utilizzo della capacità."
+        },
+        {
+          "text": "Attivazione Comunitaria (Communal Activation)",
+          "isCorrect": false,
+          "rationale": "Questa variabile evolve il concetto di Place (Distribuzione) attraverso l'economia collaborativa."
+        }
+      ],
+      "hint": "Cerca il termine che indica un valore non statico, tipico dell'economia digitale."
+    },
+    {
+      "question": "Nel Marketing 5.0, che cosa si intende per 'Agile Marketing'?",
+      "answerOptions": [
+        {
+          "text": "L'uso di robot per la distribuzione fisica",
+          "isCorrect": false,
+          "rationale": "L'agilità nel marketing 5.0 riguarda i processi decisionali e operativi, non solo la logistica robotica."
+        },
+        {
+          "text": "La capacità di rispondere rapidamente ai cambiamenti del mercato",
+          "isCorrect": true,
+          "rationale": "L'agilità permette alle aziende di adattare strategie e campagne in tempo reale basandosi sui dati."
+        },
+        {
+          "text": "La vendita di prodotti esclusivamente online",
+          "isCorrect": false,
+          "rationale": "Il marketing agile può applicarsi sia all'online che all'offline, non è limitato al canale."
+        },
+        {
+          "text": "La creazione di loghi animati",
+          "isCorrect": false,
+          "rationale": "Sebbene creativo, il concetto di agilità è molto più profondo e strutturale."
+        }
+      ],
+      "hint": "Pensa alla velocità di reazione e alla flessibilità organizzativa di fronte a nuovi trend."
+    },
+    {
+      "question": "Cosa caratterizza il concetto di 'Brand Activism' rispetto alla tradizionale CSR?",
+      "answerOptions": [
+        {
+          "text": "La CSR ha un impatto esterno più alto dell'attivismo",
+          "isCorrect": false,
+          "rationale": "Al contrario, l'attivismo cerca un impatto sociale esterno molto più radicale (giustizia sociale)."
+        },
+        {
+          "text": "L'attivismo si focalizza sulla 'giustizia' e sul fare la differenza nel mondo",
+          "isCorrect": true,
+          "rationale": "Mentre la CSR punta a essere un 'buon cittadino', l'attivismo prende posizione su temi controversi per il cambiamento sociale."
+        },
+        {
+          "text": "La CSR non si occupa di etica",
+          "isCorrect": false,
+          "rationale": "La CSR si occupa eccome di etica, ma spesso in modo più conservativo o interno (es. catena di fornitura)."
+        },
+        {
+          "text": "L'attivismo ignora gli obiettivi di profitto",
+          "isCorrect": false,
+          "rationale": "Le aziende che praticano attivismo restano entità commerciali, ma integrano la causa nel loro modello di business."
+        }
+      ],
+      "hint": "Pensa alla differenza tra comportarsi bene (cittadinanza) e lottare per una causa specifica (giustizia)."
+    },
+    {
+      "question": "Nel contesto del Marketing 4.0, come cambia il rapporto con il 'Customer Service'?",
+      "answerOptions": [
+        {
+          "text": "Il cliente viene trattato come un 're'",
+          "isCorrect": false,
+          "rationale": "Questo è il modello tradizionale gerarchico, non quello collaborativo moderno."
+        },
+        {
+          "text": "Il servizio diventa un partner paritario (Collaborative Customer Care)",
+          "isCorrect": true,
+          "rationale": "Il focus si sposta sulla collaborazione e sul dialogo autentico, trattando il cliente come un partner alla pari."
+        },
+        {
+          "text": "Il cliente viene ignorato a favore dell'automazione",
+          "isCorrect": false,
+          "rationale": "Il marketing 4.0 integra l'automazione ma sottolinea l'importanza del tocco umano (H2H)."
+        },
+        {
+          "text": "Il servizio clienti è centralizzato in un unico ufficio",
+          "isCorrect": false,
+          "rationale": "La tendenza moderna è la decentralizzazione e l'uso di comunità peer-to-peer."
+        }
+      ],
+      "hint": "Cerca il termine che descrive una relazione orizzontale e non più di sottomissione dell'azienda al cliente."
+    },
+    {
+      "question": "Quale elemento del brand rappresenta 'quanto il brand è conosciuto' dal pubblico?",
+      "answerOptions": [
+        {
+          "text": "Brand Identity",
+          "isCorrect": false,
+          "rationale": "L'identità è ciò che l'azienda vuole comunicare, non quanto è nota."
+        },
+        {
+          "text": "Brand Awareness",
+          "isCorrect": true,
+          "rationale": "L'awareness misura la notorietà e la capacità dei consumatori di riconoscere o richiamare il brand."
+        },
+        {
+          "text": "Brand Trust",
+          "isCorrect": false,
+          "rationale": "La fiducia riguarda l'affidabilità percepita, non la semplice conoscenza dell'esistenza del brand."
+        },
+        {
+          "text": "Brand Equity",
+          "isCorrect": false,
+          "rationale": "L'equity è il valore patrimoniale complessivo del brand nel tempo."
+        }
+      ],
+      "hint": "È un termine inglese che significa letteralmente 'consapevolezza'."
+    },
+    {
+      "question": "Quale delle seguenti è una caratteristica distintiva del Marketing 6.0?",
+      "answerOptions": [
+        {
+          "text": "Orientamento esclusivo al prezzo basso",
+          "isCorrect": false,
+          "rationale": "Questa è una strategia di costo tipica di fasi molto precedenti o mercati di commodity."
+        },
+        {
+          "text": "Utilizzo di tecnologie immersive per creare esperienze",
+          "isCorrect": true,
+          "rationale": "Il Marketing 6.0 è definito dall'inevitabilità del marketing immersivo (metaverso, realtà aumentata)."
+        },
+        {
+          "text": "Rifiuto totale dei social media",
+          "isCorrect": false,
+          "rationale": "Al contrario, si basa su social media basati sulla comunità."
+        },
+        {
+          "text": "Focus sulla produzione industriale pesante",
+          "isCorrect": false,
+          "rationale": "Questa era la caratteristica del Marketing 1.0."
+        }
+      ],
+      "hint": "Pensa al futuro 'immersive' e all'uso di dispositivi indossabili avanzati."
+    },
+    {
+      "question": "Cosa si intende per 'B2B' (Business to Business) nel marketing?",
+      "answerOptions": [
+        {
+          "text": "Scambio di beni tra privati cittadini",
+          "isCorrect": false,
+          "rationale": "Questo è il modello C2C (Consumer to Consumer)."
+        },
+        {
+          "text": "Vendita di prodotti direttamente alle famiglie",
+          "isCorrect": false,
+          "rationale": "Questo è il modello B2C (Business to Consumer)."
+        },
+        {
+          "text": "Scambio di beni industriali o servizi tra aziende",
+          "isCorrect": true,
+          "rationale": "Il B2B riguarda merci come macchinari o materiali destinati ad altre industrie."
+        },
+        {
+          "text": "Regolamentazione governativa del commercio",
+          "isCorrect": false,
+          "rationale": "Il marketing non è una regolamentazione, ma un processo di creazione di valore."
+        }
+      ],
+      "hint": "Considera chi è l'acquirente finale: un individuo per uso privato o un'altra impresa per la sua attività?"
+    },
+    {
+      "question": "Nella fase analitica del marketing management, quali sono le principali caratteristiche delle ricerche di mercato?",
+      "answerOptions": [
+        {
+          "text": "Veloci ed economiche",
+          "isCorrect": false,
+          "rationale": "Tradizionalmente, le ricerche di mercato sono considerate costose e richiedono molto tempo."
+        },
+        {
+          "text": "Molto dispendiose in termini di tempo e denaro",
+          "isCorrect": true,
+          "rationale": "La raccolta e l'analisi rigorosa dei dati richiedono investimenti e competenze analitiche elevate."
+        },
+        {
+          "text": "Basate solo sull'intuizione del manager",
+          "isCorrect": false,
+          "rationale": "Il marketing moderno cerca di basarsi su dati oggettivi, non solo sull'intuizione."
+        },
+        {
+          "text": "Inutili per la strategia a lungo termine",
+          "isCorrect": false,
+          "rationale": "Sono invece fondamentali per definire correttamente targeting e posizionamento."
+        }
+      ],
+      "hint": "Pensa alla complessità di raccogliere dati accurati su migliaia di consumatori."
+    },
+    {
+      "question": "Qual è il rischio principale segnalato da Frederic Beigbeder riguardo ai pubblicitari?",
+      "answerOptions": [
+        {
+          "text": "Che non sappiano usare i social media",
+          "isCorrect": false,
+          "rationale": "La citazione è del 2000 e si concentra sull'impatto psicologico, non sulla competenza tecnica."
+        },
+        {
+          "text": "Che inquinino l'universo facendo sognare cose che non si avranno mai",
+          "isCorrect": true,
+          "rationale": "L'autore critica la creazione di desideri insoddisfabili che allontanano dalla felicità reale."
+        },
+        {
+          "text": "Che vendano prodotti a prezzi troppo bassi",
+          "isCorrect": false,
+          "rationale": "La critica non riguarda il prezzo, ma la natura del desiderio creato."
+        },
+        {
+          "text": "Che siano troppo onesti nelle loro campagne",
+          "isCorrect": false,
+          "rationale": "L'ironia della citazione suggerisce l'opposto della trasparenza."
+        }
+      ],
+      "hint": "Rifletti sulla frase: 'Le persone felici non consumano'."
+    },
+    {
+      "question": "Nel marketing 4.0, cosa rappresenta la 'Conversazione' rispetto alla 'Promozione' tradizionale?",
+      "answerOptions": [
+        {
+          "text": "L'invio di email massive a tutti i clienti",
+          "isCorrect": false,
+          "rationale": "Le email massive sono ancora monologhi, non vere conversazioni."
+        },
+        {
+          "text": "Un dialogo bidirezionale dove il cliente partecipa attivamente",
+          "isCorrect": true,
+          "rationale": "La promozione non è più un messaggio unidirezionale del brand, ma uno scambio di opinioni."
+        },
+        {
+          "text": "La registrazione di tutti i discorsi dei dipendenti",
+          "isCorrect": false,
+          "rationale": "Questo riguarda il controllo interno, non la strategia di marketing esterno."
+        },
+        {
+          "text": "L'uso esclusivo del telefono per vendere",
+          "isCorrect": false,
+          "rationale": "La conversazione avviene su molteplici canali digitali e social."
+        }
+      ],
+      "hint": "Pensa al passaggio da un megafono a un telefono dove entrambi parlano."
+    },
+    {
+      "question": "Che cosa indica la 'Brand Advocacy'?",
+      "answerOptions": [
+        {
+          "text": "Il costo legale per proteggere un marchio",
+          "isCorrect": false,
+          "rationale": "Non si riferisce ad aspetti legali, ma al comportamento dei consumatori."
+        },
+        {
+          "text": "Quando i consumatori diventano promotori attivi e volontari del brand",
+          "isCorrect": true,
+          "rationale": "È lo stadio più alto del coinvolgimento, in cui il cliente consiglia spontaneamente il brand ad altri."
+        },
+        {
+          "text": "La capacità di ignorare i feedback negativi",
+          "isCorrect": false,
+          "rationale": "L'advocacy si basa sulla gestione positiva dei feedback, non sulla loro ignoranza."
+        },
+        {
+          "text": "L'acquisto compulsivo di ogni nuovo prodotto",
+          "isCorrect": false,
+          "rationale": "Questo indica fedeltà o dipendenza, ma l'advocacy richiede la promozione verso l'esterno."
+        }
+      ],
+      "hint": "Pensa a un cliente così soddisfatto da fare pubblicità gratuita all'azienda."
+    },
+    {
+      "question": "Cosa si intende per 'Mappa di Posizionamento' (Perceptual Mapping)?",
+      "answerOptions": [
+        {
+          "text": "Una carta geografica dei punti vendita",
+          "isCorrect": false,
+          "rationale": "Questa sarebbe una mappa logistica, non percettiva."
+        },
+        {
+          "text": "Uno strumento visuale che mostra la posizione dei brand su diverse dimensioni (es. prezzo vs qualità)",
+          "isCorrect": true,
+          "rationale": "Aiuta a visualizzare come i consumatori percepiscono i vari competitor in uno spazio definito da attributi chiave."
+        },
+        {
+          "text": "Un elenco dei nomi dei manager dell'azienda",
+          "isCorrect": false,
+          "rationale": "Questo è un organigramma, non una mappa di marketing."
+        },
+        {
+          "text": "Una previsione meteorologica per le vendite all'aperto",
+          "isCorrect": false,
+          "rationale": "Non ha nulla a che fare con il meteo, ma con la psicologia del consumatore."
+        }
+      ],
+      "hint": "Immagina un grafico con due assi (X e Y) usato per confrontare le auto di lusso e quelle economiche."
+    },
+    {
+      "question": "Quale stadio del Marketing si focalizza sull'essere 'Human-centric' e guidato dai valori?",
+      "answerOptions": [
+        {
+          "text": "Marketing 1.0",
+          "isCorrect": false,
+          "rationale": "Il 1.0 è focalizzato sul prodotto."
+        },
+        {
+          "text": "Marketing 2.0",
+          "isCorrect": false,
+          "rationale": "Il 2.0 è focalizzato sul cliente."
+        },
+        {
+          "text": "Marketing 3.0",
+          "isCorrect": true,
+          "rationale": "Il 3.0 vede il consumatore come un essere umano completo con mente, cuore e spirito."
+        },
+        {
+          "text": "Marketing 4.0",
+          "isCorrect": false,
+          "rationale": "Il 4.0 si focalizza sulla transizione dal tradizionale al digitale."
+        }
+      ],
+      "hint": "Cerca la fase che ha come obiettivo rendere il mondo un posto migliore."
+    },
+    {
+      "question": "Il caso LEGO di rimozione delle etichette 'per bambine' è un esempio di evoluzione della:",
+      "answerOptions": [
+        {
+          "text": "Distribuzione logistica",
+          "isCorrect": false,
+          "rationale": "Non riguarda come i mattoncini arrivano nei negozi, ma come vengono proposti psicologicamente."
+        },
+        {
+          "text": "Segmentazione e targeting",
+          "isCorrect": true,
+          "rationale": "LEGO ha deciso di passare da una segmentazione di genere a una basata sulle passioni (interessi)."
+        },
+        {
+          "text": "Riduzione dei costi di produzione",
+          "isCorrect": false,
+          "rationale": "Il cambio di etichetta non impatta significativamente sui costi di fabbrica."
+        },
+        {
+          "text": "Campagna di sconti stagionali",
+          "isCorrect": false,
+          "rationale": "È una scelta strategica di brand identity a lungo termine, non una promozione temporanea."
+        }
+      ],
+      "hint": "Pensa a come l'azienda decide di dividere il suo pubblico non più per sesso ma per 'passione'."
+    },
+    {
+      "question": "Nel Marketing 4.0, cosa significa 'Co-creation'?",
+      "answerOptions": [
+        {
+          "text": "L'unione di due aziende concorrenti",
+          "isCorrect": false,
+          "rationale": "Questo sarebbe una fusione o una joint venture."
+        },
+        {
+          "text": "Il coinvolgimento del cliente nello sviluppo di nuovi prodotti",
+          "isCorrect": true,
+          "rationale": "Permette alle aziende di creare prodotti che rispondono esattamente ai desideri della comunità."
+        },
+        {
+          "text": "La creazione di due loghi per lo stesso prodotto",
+          "isCorrect": false,
+          "rationale": "La co-creazione riguarda il valore del prodotto, non solo la sua veste grafica doppia."
+        },
+        {
+          "text": "L'assunzione di nuovi creativi nel team marketing",
+          "isCorrect": false,
+          "rationale": "Si riferisce al coinvolgimento di soggetti esterni all'azienda (i clienti)."
+        }
+      ],
+      "hint": "Pensa a quando gli utenti suggeriscono nuove funzionalità o gusti per un prodotto."
+    },
+    {
+      "question": "Secondo Philip Kotler, il Marketing 5.0 è l'applicazione di quali tecnologie per l'umanità?",
+      "answerOptions": [
+        {
+          "text": "Solo macchine a vapore",
+          "isCorrect": false,
+          "rationale": "Questa tecnologia appartiene al secolo scorso, non al marketing digitale avanzato."
+        },
+        {
+          "text": "Tecnologie 'Next Tech' (AI, IoT, AR/VR) per migliorare il Customer Journey",
+          "isCorrect": true,
+          "rationale": "Mira a imitare le capacità umane attraverso la tecnologia per creare valore lungo tutta l'esperienza del cliente."
+        },
+        {
+          "text": "La stampa a caratteri mobili",
+          "isCorrect": false,
+          "rationale": "È un'invenzione storica fondamentale ma non fa parte della definizione di marketing 5.0."
+        },
+        {
+          "text": "Esclusivamente l'uso dei telefoni fissi",
+          "isCorrect": false,
+          "rationale": "I telefoni fissi sono in declino rispetto alle tecnologie mobile e AI del marketing moderno."
+        }
+      ],
+      "hint": "Considera l'uso di intelligenza artificiale e realtà aumentata per scopi umani."
+    },
+    {
+      "question": "Nella gerarchia di Maslow, il bisogno di 'Amore e Appartenenza' include:",
+      "answerOptions": [
+        {
+          "text": "Sonno e cibo",
+          "isCorrect": false,
+          "rationale": "Questi sono bisogni fisiologici alla base della piramide."
+        },
+        {
+          "text": "Sicurezza fisica e dell'impiego",
+          "isCorrect": false,
+          "rationale": "Questi rientrano nei bisogni di sicurezza."
+        },
+        {
+          "text": "Amicizia, intimità e senso di connessione",
+          "isCorrect": true,
+          "rationale": "Rappresentano il terzo livello della piramide, focalizzato sulle relazioni sociali."
+        },
+        {
+          "text": "Riconoscimento e status sociale",
+          "isCorrect": false,
+          "rationale": "Questi sono bisogni di stima, situati sopra l'appartenenza."
+        }
+      ],
+      "hint": "Pensa alla necessità umana di sentirsi parte di un gruppo o di una famiglia."
+    },
+    {
+      "question": "Quale di questi è un esempio di 'Bene Industriale'?",
+      "answerOptions": [
+        {
+          "text": "Una confezione di cereali per la colazione",
+          "isCorrect": false,
+          "rationale": "Questo è un bene di consumo destinato all'uso privato."
+        },
+        {
+          "text": "Un impianto robotico per una fabbrica automobilistica",
+          "isCorrect": true,
+          "rationale": "È un bene strumentale utilizzato da un'altra impresa per produrre altri beni."
+        },
+        {
+          "text": "Un paio di scarpe da ginnastica",
+          "isCorrect": false,
+          "rationale": "È un bene di consumo finale."
+        },
+        {
+          "text": "Un abbonamento a una rivista di gossip",
+          "isCorrect": false,
+          "rationale": "È un servizio di consumo per individui."
+        }
+      ],
+      "hint": "Cerca l'oggetto che non viene comprato da una famiglia ma da un'azienda per produrre."
+    },
+    {
+      "question": "Che cosa rappresenta la 'Brand Equity'?",
+      "answerOptions": [
+        {
+          "text": "L'uguaglianza dei prezzi tra brand diversi",
+          "isCorrect": false,
+          "rationale": "Equity in questo contesto non significa uguaglianza, ma valore patrimoniale."
+        },
+        {
+          "text": "Il valore complessivo del brand nel tempo",
+          "isCorrect": true,
+          "rationale": "Include la forza del marchio, la fedeltà dei clienti e il valore finanziario che aggiunge al prodotto."
+        },
+        {
+          "text": "Il colore del logo aziendale",
+          "isCorrect": false,
+          "rationale": "Il colore è parte della visual identity, non il valore complessivo."
+        },
+        {
+          "text": "Il numero di dipendenti dell'azienda",
+          "isCorrect": false,
+          "rationale": "La dimensione del personale è un dato organizzativo, non il valore del marchio sul mercato."
+        }
+      ],
+      "hint": "Considera quanto 'vale' il nome Coca-Cola rispetto a una cola senza marchio."
+    },
+    {
+      "question": "Quale elemento del Marketing Mix 'Place' si occupa della gestione delle scorte?",
+      "answerOptions": [
+        {
+          "text": "Trasporto",
+          "isCorrect": false,
+          "rationale": "Il trasporto si occupa del movimento fisico delle merci."
+        },
+        {
+          "text": "Inventario (Inventory)",
+          "isCorrect": true,
+          "rationale": "L'inventario gestisce le quantità di prodotto stoccate per garantire la disponibilità."
+        },
+        {
+          "text": "Assortimento",
+          "isCorrect": false,
+          "rationale": "L'assortimento riguarda la varietà di prodotti offerti in un punto vendita."
+        },
+        {
+          "text": "Canali",
+          "isCorrect": false,
+          "rationale": "I canali definiscono i percorsi intermediari tra produttore e consumatore."
+        }
+      ],
+      "hint": "Pensa alla parola tecnica per definire l'elenco e la quantità di merci in magazzino."
+    },
+    {
+      "question": "Il Marketing 4.0 sottolinea l'importanza di bilanciare 'M2M' e 'H2H'. Cosa significa 'H2H'?",
+      "answerOptions": [
+        {
+          "text": "Hard to Help",
+          "isCorrect": false,
+          "rationale": "Non è un acronimo di marketing standard per indicare difficoltà nel servizio."
+        },
+        {
+          "text": "Human-to-Human",
+          "isCorrect": true,
+          "rationale": "Sottolinea che, nonostante la tecnologia (M2M), la connessione umana resta vitale per l'engagement."
+        },
+        {
+          "text": "Head to Head",
+          "isCorrect": false,
+          "rationale": "Indica una competizione diretta, ma non è il focus della connettività nel marketing 4.0."
+        },
+        {
+          "text": "High to Horizontal",
+          "isCorrect": false,
+          "rationale": "Sebbene si parli di reti orizzontali, l'acronimo corretto è legato alla natura umana del rapporto."
+        }
+      ],
+      "hint": "Cerca il termine che mette l'accento sulla relazione tra persone reali."
+    },
+    {
+      "question": "Nella SWOT analysis, i 'Punti di debolezza' sono fattori:",
+      "answerOptions": [
+        {
+          "text": "Esterni e negativi",
+          "isCorrect": false,
+          "rationale": "I fattori esterni negativi sono le minacce."
+        },
+        {
+          "text": "Interni e positivi",
+          "isCorrect": false,
+          "rationale": "I fattori interni positivi sono i punti di forza."
+        },
+        {
+          "text": "Interni e negativi",
+          "isCorrect": true,
+          "rationale": "Sono limitazioni o carenze dell'azienda stessa che possono ostacolare le performance."
+        },
+        {
+          "text": "Esterni e positivi",
+          "isCorrect": false,
+          "rationale": "I fattori esterni positivi sono le opportunità."
+        }
+      ],
+      "hint": "Riguardano problemi 'dentro' l'azienda, come la mancanza di tecnologia o personale esperto."
+    }
+  ]
+}

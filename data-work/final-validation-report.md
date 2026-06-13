@@ -1,27 +1,29 @@
 # Final Quiz Validation
 
-- Questions checked one by one: 500
+- Questions checked one by one: 539
+- Questions with hints: 188
+- Questions with rationales: 188
 - Errors: 0
 - Warnings: 0
-- Sources represented: 24
+- Sources represented: 66
 
 ## Section Counts
 - Fondamenti di marketing: 18
 - Processo di marketing: 15
 - STP e segmentazione: 12
-- Marketing 4.0 e brand: 51
-- Ecosistema digitale: 66
+- Marketing 4.0 e brand: 62
+- Ecosistema digitale: 72
 - Ricerche di mercato online: 48
-- Customer journey: 60
-- Business model ed e-commerce: 87
-- Granato, search e operational: 143
+- Customer journey: 67
+- Business model ed e-commerce: 91
+- Granato, search e operational: 154
 
 ## Tag Counts
-- fondamenti: 119
-- business: 136
-- digitale: 177
-- operational: 125
-- journey: 89
+- fondamenti: 129
+- business: 138
+- digitale: 214
+- operational: 136
+- journey: 95
 - ricerca: 51
 
 ## Per-Question Check
@@ -85,13 +87,13 @@
 - OK Q058 | Marketing 4.0 e brand | answer A: rende il brand un asset capace di generare preferenza e valore economico | distractors B/C/D present | source: 07_Appunti_Corso.md / Web Marketing
 - OK Q059 | Marketing 4.0 e brand | answer A: la fiducia riposta dal consumatore nella marca | distractors B/C/D present | source: 07_Appunti_Corso.md / Web Marketing
 - OK Q060 | Marketing 4.0 e brand | answer A: riduce incertezza e rischio percepito, soprattutto nei contesti digitali | distractors B/C/D present | source: 07_Appunti_Corso.md / Web Marketing
-- OK Q061 | Marketing 4.0 e brand | answer A: il coinvolgimento attivo e partecipativo dei consumatori con un marchio | distractors B/C/D present | source: 07_Appunti_Corso.md / Web Marketing
+- OK Q061 | Marketing 4.0 e brand | answer A: Il coinvolgimento attivo e partecipativo dei consumatori con un marchio. | distractors B/C/D present | source: 07_Appunti_Corso.md / Web Marketing + NotebookLM Web Marketing / Marketing Quiz / 060f48b2
 - OK Q062 | Marketing 4.0 e brand | answer A: indica una relazione cognitiva, emotiva o comportamentale oltre la semplice esposizione | distractors B/C/D present | source: 07_Appunti_Corso.md / Web Marketing
 - OK Q063 | Marketing 4.0 e brand | answer A: il sostegno esplicito e spontaneo dei consumatori verso il brand | distractors B/C/D present | source: 07_Appunti_Corso.md / Web Marketing
 - OK Q064 | Marketing 4.0 e brand | answer A: trasforma clienti soddisfatti in promotori attivi della marca | distractors B/C/D present | source: 07_Appunti_Corso.md / Web Marketing
 - OK Q065 | Ecosistema digitale | answer A: un approccio manageriale che riconfigura in chiave digitale i processi di creazione del valore | distractors B/C/D present | source: 04_Slides_Corso.md / Orientamento al digitale
 - OK Q066 | Ecosistema digitale | answer A: ridefinisce fornitura, distribuzione, offerta e relazione con il cliente | distractors B/C/D present | source: 04_Slides_Corso.md / Orientamento al digitale
-- OK Q067 | Ecosistema digitale | answer A: il sistema con cui l'impresa sviluppa valore economico usando tecnologie digitali | distractors B/C/D present | source: 04_Slides_Corso.md / Orientamento al digitale
+- OK Q067 | Ecosistema digitale | answer A: L'attività principale dell'impresa esiste e si sviluppa grazie alle tecnologie digitali. | distractors B/C/D present | source: 04_Slides_Corso.md / Orientamento al digitale + NotebookLM Web Marketing / Marketing Quiz / 0d653805
 - OK Q068 | Ecosistema digitale | answer A: collega tecnologie, clienti, processi e fonti di ricavo | distractors B/C/D present | source: 04_Slides_Corso.md / Orientamento al digitale
 - OK Q069 | Ecosistema digitale | answer A: l'uso di strumenti digitali per attività operative di comunicazione con basso impatto strategico | distractors B/C/D present | source: 04_Slides_Corso.md / Orientamento al digitale
 - OK Q070 | Ecosistema digitale | answer A: spesso produce siti vetrina o presenze informative scollegate dagli obiettivi di business | distractors B/C/D present | source: 04_Slides_Corso.md / Orientamento al digitale
@@ -165,7 +167,7 @@
 - OK Q138 | Ricerche di mercato online | answer A: è una criticità perché online non sempre si controlla chi risponde e quanto il target sia coperto | distractors B/C/D present | source: 04_Slides_Corso.md / Ricerche di mercato
 - OK Q139 | Ricerche di mercato online | answer A: la capacità dello strumento di misurare davvero ciò che intende misurare | distractors B/C/D present | source: 04_Slides_Corso.md / Ricerche di mercato
 - OK Q140 | Ricerche di mercato online | answer A: può essere influenzata da browser, dispositivi, contesto e interpretazione delle scale | distractors B/C/D present | source: 04_Slides_Corso.md / Ricerche di mercato
-- OK Q141 | Customer journey | answer A: un consumatore attivo, connesso e capace di usare molteplici fonti e touchpoint | distractors B/C/D present | source: 04_Slides_Corso.md / Customer Journey
+- OK Q141 | Customer journey | answer A: L'utilizzo di molteplici punti di contatto in modo integrato durante il Customer Journey. | distractors B/C/D present | source: 04_Slides_Corso.md / Customer Journey + NotebookLM Web Marketing / Marketing Quiz / b595dddc
 - OK Q142 | Customer journey | answer A: modifica la relazione brand-cliente rendendola più informata e partecipativa | distractors B/C/D present | source: 04_Slides_Corso.md / Customer Journey
 - OK Q143 | Customer journey | answer A: un consumatore che ricerca, richiede e produce contenuti o valore per il brand | distractors B/C/D present | source: 07_Appunti_Corso.md / Web Marketing
 - OK Q144 | Customer journey | answer A: partecipa alla narrazione e può influenzare altri consumatori | distractors B/C/D present | source: 07_Appunti_Corso.md / Web Marketing
@@ -175,15 +177,15 @@
 - OK Q148 | Customer journey | answer A: rende osservabile dove il cliente incontra o valuta l'impresa | distractors B/C/D present | source: 04_Slides_Corso.md / Customer Journey
 - OK Q149 | Customer journey | answer A: un modello lineare in cui il consumatore restringe progressivamente il set di marche fino all'acquisto | distractors B/C/D present | source: 05_Dispense_Approfondimenti.md / McKinsey
 - OK Q150 | Customer journey | answer A: rappresenta il percorso classico prima dei modelli circolari e multi-touchpoint | distractors B/C/D present | source: 05_Dispense_Approfondimenti.md / McKinsey
-- OK Q151 | Customer journey | answer A: un percorso circolare con considerazione iniziale, valutazione attiva, momento d'acquisto ed esperienza post-acquisto | distractors B/C/D present | source: 05_Dispense_Approfondimenti.md / McKinsey
+- OK Q151 | Customer journey | answer A: Affrontare debolezze specifiche nelle fasi di considerazione iniziale o valutazione attiva. | distractors B/C/D present | source: 05_Dispense_Approfondimenti.md / McKinsey + NotebookLM Web Marketing / Marketing Quiz / 85f72fb5
 - OK Q152 | Customer journey | answer A: sostituisce la visione puramente lineare del funnel tradizionale | distractors B/C/D present | source: 05_Dispense_Approfondimenti.md / McKinsey
 - OK Q153 | Customer journey | answer A: la fase in cui il consumatore raccoglie informazioni e può aggiungere o togliere marche dal set considerato | distractors B/C/D present | source: 05_Dispense_Approfondimenti.md / McKinsey
 - OK Q154 | Customer journey | answer A: è fortemente influenzata da recensioni, passaparola ed esperienze consumer-driven | distractors B/C/D present | source: 05_Dispense_Approfondimenti.md / McKinsey
-- OK Q155 | Customer journey | answer A: l'anello di fedeltà alimentato dall'esperienza post-acquisto | distractors B/C/D present | source: 05_Dispense_Approfondimenti.md / McKinsey
+- OK Q155 | Customer journey | answer A: Un percorso circolare in cui l'esperienza post-acquisto influenza direttamente le considerazioni future. | distractors B/C/D present | source: 05_Dispense_Approfondimenti.md / McKinsey + NotebookLM Web Marketing / Marketing Quiz / 85f72fb5
 - OK Q156 | Customer journey | answer A: può accorciare o riattivare percorsi decisionali successivi | distractors B/C/D present | source: 05_Dispense_Approfondimenti.md / McKinsey
 - OK Q157 | Customer journey | answer A: la fase in cui l'uso del prodotto costruisce aspettative e influenza futuri percorsi decisionali | distractors B/C/D present | source: 05_Dispense_Approfondimenti.md / McKinsey
 - OK Q158 | Customer journey | answer A: è cruciale per alimentare il loyalty loop | distractors B/C/D present | source: 05_Dispense_Approfondimenti.md / McKinsey
-- OK Q159 | Customer journey | answer A: il momento in cui il consumatore cerca online informazioni, recensioni e confronti prima dell'acquisto | distractors B/C/D present | source: 07_Appunti_Corso.md / Web Marketing
+- OK Q159 | Customer journey | answer A: Zero Moment of Truth: la ricerca online effettuata prima dell'acquisto | distractors B/C/D present | source: 07_Appunti_Corso.md / Web Marketing + NotebookLM Web Marketing / Marketing Quiz / 174391d9
 - OK Q160 | Customer journey | answer A: anticipa il contatto diretto con prodotto o venditore e influenza la decisione | distractors B/C/D present | source: 07_Appunti_Corso.md / Web Marketing
 - OK Q161 | Customer journey | answer A: il First Moment of Truth, cioè il momento dello scaffale fisico o digitale in cui il consumatore incontra l'offerta | distractors B/C/D present | source: 07_Appunti_Corso.md / Web Marketing
 - OK Q162 | Customer journey | answer A: riguarda la scelta nel punto di acquisto o nella pagina prodotto | distractors B/C/D present | source: 07_Appunti_Corso.md / Web Marketing
@@ -205,8 +207,8 @@
 - OK Q178 | Customer journey | answer A: può rafforzare fedeltà, passaparola e relazione con il brand | distractors B/C/D present | source: 04_Slides_Corso.md / Buyer personas
 - OK Q179 | Customer journey | answer A: uno stato psicologico e comportamentale che include interazioni oltre l'acquisto | distractors B/C/D present | source: 04_Slides_Corso.md / Buyer personas
 - OK Q180 | Customer journey | answer A: può generare co-creazione, partecipazione e valore o anche effetti negativi | distractors B/C/D present | source: 04_Slides_Corso.md / Buyer personas
-- OK Q181 | Business model ed e-commerce | answer A: la logica con cui un'organizzazione crea, distribuisce e cattura valore | distractors B/C/D present | source: 04_Slides_Corso.md / Business Model Digitali
-- OK Q182 | Business model ed e-commerce | answer A: racconta come l'impresa funziona economicamente e strategicamente | distractors B/C/D present | source: 04_Slides_Corso.md / Business Model Digitali
+- OK Q181 | Business model ed e-commerce | answer A: Quale valore poter creare o aggiungere per il cliente? | distractors B/C/D present | source: 04_Slides_Corso.md / Business Model Digitali + NotebookLM Web Marketing / Marketing Quiz / c6307972
+- OK Q182 | Business model ed e-commerce | answer A: Internazionalizzarsi e ridurre i costi operativi. | distractors B/C/D present | source: 04_Slides_Corso.md / Business Model Digitali + NotebookLM Web Marketing / Business Quiz / 4803ba1d
 - OK Q183 | Business model ed e-commerce | answer A: uno schema che descrive value proposition, segmenti, canali, relazioni, ricavi, risorse, attività, partner e costi | distractors B/C/D present | source: 04_Slides_Corso.md / Business Model Digitali
 - OK Q184 | Business model ed e-commerce | answer A: aiuta a visualizzare le componenti chiave del modello d'impresa | distractors B/C/D present | source: 04_Slides_Corso.md / Business Model Digitali
 - OK Q185 | Business model ed e-commerce | answer A: i gruppi di clienti a cui l'impresa intende offrire valore | distractors B/C/D present | source: 04_Slides_Corso.md / Business Model Digitali
@@ -305,11 +307,11 @@
 - OK Q278 | Granato, search e operational | answer A: di solito indica una fase fredda o iniziale del percorso | distractors B/C/D present | source: converted-md/appunti-web-marketing/Web Marketing.md
 - OK Q279 | Granato, search e operational | answer A: un intento in cui l'utente cerca un sito, una pagina o un luogo specifico | distractors B/C/D present | source: converted-md/appunti-web-marketing/Web Marketing.md
 - OK Q280 | Granato, search e operational | answer A: indica che la destinazione è già nota almeno in parte | distractors B/C/D present | source: converted-md/appunti-web-marketing/Web Marketing.md
-- OK Q281 | Granato, search e operational | answer A: un intento in cui l'utente sta investigando e confrontando prima dell'acquisto | distractors B/C/D present | source: converted-md/appunti-web-marketing/Web Marketing.md
+- OK Q281 | Granato, search e operational | answer A: Nella fase di ricerca su brand o servizi prima di una decisione. | distractors B/C/D present | source: converted-md/appunti-web-marketing/Web Marketing.md + NotebookLM Web Marketing / SEO Quiz / 721a30f2
 - OK Q282 | Granato, search e operational | answer A: rappresenta un lead più caldo e una fase avanzata della journey | distractors B/C/D present | source: converted-md/appunti-web-marketing/Web Marketing.md
 - OK Q283 | Granato, search e operational | answer A: un intento in cui l'utente è già orientato a compiere un acquisto o un'azione | distractors B/C/D present | source: converted-md/appunti-web-marketing/Web Marketing.md
 - OK Q284 | Granato, search e operational | answer A: richiede pagine capaci di ridurre frizioni e sostenere la conversione | distractors B/C/D present | source: converted-md/appunti-web-marketing/Web Marketing.md
-- OK Q285 | Granato, search e operational | answer A: una risposta generata dall'IA di Google mostrata sopra i risultati organici sintetizzando più fonti | distractors B/C/D present | source: converted-md/slide parte 2/05 Granato
+- OK Q285 | Granato, search e operational | answer A: Risposte generate dall'intelligenza artificiale che sintetizzano più fonti sopra i risultati organici. | distractors B/C/D present | source: converted-md/slide parte 2/05 Granato + NotebookLM Web Marketing / SEO Quiz / d35c27ec
 - OK Q286 | Granato, search e operational | answer A: trasforma il motore di ricerca in motore di risposta e può ridurre il click verso i siti | distractors B/C/D present | source: converted-md/slide parte 2/05 Granato
 - OK Q287 | Granato, search e operational | answer A: Generative Engine Optimization, cioè ottimizzazione dei contenuti per essere usati o citati da motori generativi | distractors B/C/D present | source: converted-md/appunti-web-marketing/Web Marketing.md
 - OK Q288 | Granato, search e operational | answer A: nasce con i risultati AI e premia qualità, specificità e strutturazione del contenuto | distractors B/C/D present | source: converted-md/appunti-web-marketing/Web Marketing.md
@@ -341,9 +343,9 @@
 - OK Q314 | Granato, search e operational | answer A: valuta la resa economica specifica dell'investimento advertising | distractors B/C/D present | source: converted-md/appunti-web-marketing/Web Marketing.md
 - OK Q315 | Granato, search e operational | answer A: il rapporto tra spesa pubblicitaria e vendite attribuite agli annunci | distractors B/C/D present | source: converted-md/appunti-web-marketing/Web Marketing.md
 - OK Q316 | Granato, search e operational | answer A: indica quanto pesa l'advertising sulle vendite generate | distractors B/C/D present | source: converted-md/appunti-web-marketing/Web Marketing.md
-- OK Q317 | Granato, search e operational | answer A: l'analisi dei dati di traffico e comportamento degli utenti su siti e piattaforme digitali | distractors B/C/D present | source: converted-md/slide parte 2/07 Gabriele
+- OK Q317 | Granato, search e operational | answer A: Fornendo dati su quali contenuti funzionano meglio e come gli utenti si muovono. | distractors B/C/D present | source: converted-md/slide parte 2/07 Gabriele + NotebookLM Web Marketing / Analytics Quiz / be7f2fdb
 - OK Q318 | Granato, search e operational | answer A: serve a migliorare esperienza, visibilità, contenuti e conversioni | distractors B/C/D present | source: converted-md/slide parte 2/07 Gabriele
-- OK Q319 | Granato, search e operational | answer A: la fase in cui si crea awareness e si cattura interesse portando utenti al sito | distractors B/C/D present | source: converted-md/slide parte 2/07 Gabriele
+- OK Q319 | Granato, search e operational | answer A: Visitatori che atterrano sul sito per la prima volta. | distractors B/C/D present | source: converted-md/slide parte 2/07 Gabriele + NotebookLM Web Marketing / Analytics Quiz / be7f2fdb
 - OK Q320 | Granato, search e operational | answer A: permette di capire da quali canali arrivano utenti nuovi o esistenti | distractors B/C/D present | source: converted-md/slide parte 2/07 Gabriele
 - OK Q321 | Granato, search e operational | answer A: il rapporto tra visite di una sola pagina e totale delle visite | distractors B/C/D present | source: converted-md/slide parte 2/07 Gabriele
 - OK Q322 | Granato, search e operational | answer A: aiuta a valutare se gli utenti interagiscono oltre la prima pagina | distractors B/C/D present | source: converted-md/slide parte 2/07 Gabriele
@@ -357,7 +359,7 @@
 - OK Q330 | Granato, search e operational | answer A: mantiene vivo il rapporto con gli iscritti attraverso contenuti pertinenti | distractors B/C/D present | source: converted-md/slide parte 2/08 Gabriele
 - OK Q331 | Granato, search e operational | answer A: un'email inviata in risposta a un'azione specifica del cliente | distractors B/C/D present | source: converted-md/slide parte 2/08 Gabriele
 - OK Q332 | Granato, search e operational | answer A: conferma o supporta una transazione, iscrizione o richiesta | distractors B/C/D present | source: converted-md/slide parte 2/08 Gabriele
-- OK Q333 | Granato, search e operational | answer A: un'email usata per recuperare utenti che hanno abbandonato il carrello o non completato l'acquisto | distractors B/C/D present | source: converted-md/slide parte 2/08 Gabriele
+- OK Q333 | Granato, search e operational | answer A: Email di Remarketing. | distractors B/C/D present | source: converted-md/slide parte 2/08 Gabriele + NotebookLM Web Marketing / Marketing Quiz / 7f2cb1e6
 - OK Q334 | Granato, search e operational | answer A: riattiva un'intenzione già emersa nel percorso di conversione | distractors B/C/D present | source: converted-md/slide parte 2/08 Gabriele
 - OK Q335 | Granato, search e operational | answer A: la prima informazione letta dal destinatario, che deve essere chiara, breve e coinvolgente | distractors B/C/D present | source: converted-md/slide parte 2/08 Gabriele
 - OK Q336 | Granato, search e operational | answer A: ha forte impatto sull'apertura dell'email | distractors B/C/D present | source: converted-md/slide parte 2/08 Gabriele
@@ -365,7 +367,7 @@
 - OK Q338 | Granato, search e operational | answer A: aumenta engagement e percezione di rilevanza del brand | distractors B/C/D present | source: converted-md/slide parte 2/08 Gabriele
 - OK Q339 | Granato, search e operational | answer A: l'invio automatico di email a specifici iscritti in momenti ideali predefiniti | distractors B/C/D present | source: converted-md/slide parte 2/08 Gabriele
 - OK Q340 | Granato, search e operational | answer A: riduce lavoro manuale e aumenta tempestività ed efficacia | distractors B/C/D present | source: converted-md/slide parte 2/08 Gabriele
-- OK Q341 | Granato, search e operational | answer A: la creazione e distribuzione di contenuti di valore, pertinenti e coerenti per attrarre e fidelizzare un pubblico definito | distractors B/C/D present | source: converted-md/lezione-9-content-marketing
+- OK Q341 | Granato, search e operational | answer A: Essere riconosciuti come esperti e fonti affidabili nel proprio settore. | distractors B/C/D present | source: converted-md/lezione-9-content-marketing + NotebookLM Web Marketing / Marketing Quiz / a70d05b8
 - OK Q342 | Granato, search e operational | answer A: costruisce fiducia e guida azioni profittevoli senza interrompere l'utente | distractors B/C/D present | source: converted-md/lezione-9-content-marketing
 - OK Q343 | Granato, search e operational | answer A: la logica per cui contenuti utili attraggono l'utente che cerca valore | distractors B/C/D present | source: converted-md/lezione-9-content-marketing
 - OK Q344 | Granato, search e operational | answer A: si contrappone alla pubblicità push che mette il prodotto davanti all'utente | distractors B/C/D present | source: converted-md/lezione-9-content-marketing
@@ -457,7 +459,7 @@
 - OK Q430 | Customer journey | answer A: una recensione, un sito, un punto vendita o una email di conferma | distractors B/C/D present | source: 04_Slides_Corso.md / Customer Journey
 - OK Q431 | Customer journey | answer A: passare da consapevolezza a considerazione e infine acquisto | distractors B/C/D present | source: 05_Dispense_Approfondimenti.md / McKinsey
 - OK Q432 | Customer journey | answer A: il consumatore aggiunge o rimuove brand durante la valutazione attiva | distractors B/C/D present | source: 05_Dispense_Approfondimenti.md / McKinsey
-- OK Q433 | Customer journey | answer A: un cliente scopre un nuovo brand leggendo confronti e recensioni online | distractors B/C/D present | source: 05_Dispense_Approfondimenti.md / McKinsey
+- OK Q433 | Customer journey | answer A: Il processo in cui l'utente confronta i brand potenziali per soddisfare il suo bisogno. | distractors B/C/D present | source: 05_Dispense_Approfondimenti.md / McKinsey + NotebookLM Web Marketing / Marketing Quiz / c6307972
 - OK Q434 | Customer journey | answer A: un'esperienza positiva porta il cliente a riacquistare senza rivalutare troppe alternative | distractors B/C/D present | source: 05_Dispense_Approfondimenti.md / McKinsey
 - OK Q435 | Customer journey | answer A: dopo l'acquisto un cliente valuta l'assistenza e decide se riacquistare | distractors B/C/D present | source: 05_Dispense_Approfondimenti.md / McKinsey
 - OK Q436 | Customer journey | answer A: vedere una pubblicità e poi cercare recensioni YouTube prima di comprare | distractors B/C/D present | source: 07_Appunti_Corso.md / Web Marketing
@@ -495,7 +497,7 @@
 - OK Q468 | Business model ed e-commerce | answer A: utenti condividono recensioni e consigli dentro un percorso di shopping online | distractors B/C/D present | source: 04_Slides_Corso.md / E-commerce
 - OK Q469 | Business model ed e-commerce | answer A: recensioni, trasparenza e sicurezza aiutano il primo acquisto | distractors B/C/D present | source: 04_Slides_Corso.md / E-commerce
 - OK Q470 | Business model ed e-commerce | answer A: foto degli utenti, video prodotto e AR riducono l'incertezza | distractors B/C/D present | source: 04_Slides_Corso.md / E-commerce
-- OK Q471 | Business model ed e-commerce | answer A: permettere checkout come ospite riduce la barriera all'acquisto | distractors B/C/D present | source: 04_Slides_Corso.md / E-commerce
+- OK Q471 | Business model ed e-commerce | answer A: richiedere la creazione di un account prima di completare il checkout | distractors B/C/D present | source: 04_Slides_Corso.md / E-commerce
 - OK Q472 | Business model ed e-commerce | answer A: un carrello chiaro mostra prezzo finale, spedizione e passaggi successivi | distractors B/C/D present | source: 04_Slides_Corso.md / E-commerce
 - OK Q473 | Business model ed e-commerce | answer A: valutare quanto costa trasformare campagne e visite in nuovi acquirenti | distractors B/C/D present | source: 04_Slides_Corso.md / E-commerce
 - OK Q474 | Business model ed e-commerce | answer A: un certificato SSL protegge lo scambio di informazioni tra cliente e sito | distractors B/C/D present | source: 04_Slides_Corso.md / E-commerce
@@ -525,6 +527,45 @@
 - OK Q498 | Granato, search e operational | answer A: cercare 'compra scarpe running numero 42 spedizione rapida' | distractors B/C/D present | source: converted-md/appunti-web-marketing/Web Marketing.md
 - OK Q499 | Granato, search e operational | answer A: l'utente ottiene una sintesi direttamente in SERP senza aprire subito un risultato | distractors B/C/D present | source: converted-md/slide parte 2/05 Granato
 - OK Q500 | Granato, search e operational | answer A: scrivere contenuti autorevoli e semanticamente chiari per comparire nelle risposte AI | distractors B/C/D present | source: converted-md/appunti-web-marketing/Web Marketing.md
+- OK Q501 | Marketing 4.0 e brand | answer A: Entrando nel set di considerazione durante la valutazione attiva e spingendo l'utente a riconsiderare le alternative. | distractors B/C/D present | source: NotebookLM Web Marketing / Marketing Quiz / 3d71c962 / Marketing 4.0
+- OK Q502 | Marketing 4.0 e brand | answer A: La soddisfazione derivante dal confronto tra le prestazioni reali del prodotto e le aspettative del cliente. | distractors B/C/D present | source: NotebookLM Web Marketing / Marketing Quiz / a061de53 / Marketing 4.0
+- OK Q503 | Marketing 4.0 e brand | answer A: L'attivismo si focalizza sulla 'giustizia' e sul fare la differenza nel mondo | distractors B/C/D present | source: NotebookLM Web Marketing / Quiz Marketing / 3d7a6e33 / Marketing 4.0
+- OK Q504 | Marketing 4.0 e brand | answer A: L'ascolto e il dialogo paritario con il consumatore. | distractors B/C/D present | source: NotebookLM Web Marketing / Marketing Quiz / 6f37cae2 / Marketing 4.0
+- OK Q505 | Marketing 4.0 e brand | answer A: Agire come 'amici', mostrando cura e preoccupazione genuina per i bisogni dei clienti. | distractors B/C/D present | source: NotebookLM Web Marketing / Marketing Quiz / 6f37cae2 / Marketing 4.0
+- OK Q506 | Marketing 4.0 e brand | answer A: Che devono mostrare cura e preoccupazione genuina per i bisogni dei clienti. | distractors B/C/D present | source: NotebookLM Web Marketing / Marketing Quiz / b595dddc / Marketing 4.0
+- OK Q507 | Marketing 4.0 e brand | answer A: Che i concorrenti possono entrare nel set in qualsiasi momento e spodestare i brand esistenti. | distractors B/C/D present | source: NotebookLM Web Marketing / Marketing Quiz / a061de53 / Marketing 4.0
+- OK Q508 | Marketing 4.0 e brand | answer A: Rispetto a quale alternativa competitiva specifica si sta confrontando l'utente. | distractors B/C/D present | source: NotebookLM Web Marketing / Marketing Quiz / 7f575abd / Marketing 4.0
+- OK Q509 | Marketing 4.0 e brand | answer A: È una percezione condivisa, costruita su coerenza valoriale e adattabilità. | distractors B/C/D present | source: NotebookLM Web Marketing / Marketing Quiz / c6307972 / Marketing 4.0
+- OK Q510 | Marketing 4.0 e brand | answer A: Bilanciare la connettività machine-to-machine (M2M) con quella human-to-human (H2H). | distractors B/C/D present | source: NotebookLM Web Marketing / Marketing Quiz / 3d71c962 / Marketing 4.0
+- OK Q511 | Marketing 4.0 e brand | answer A: L'utente legge blog informativi e recensioni per valutare diverse soluzioni al suo problema. | distractors B/C/D present | source: NotebookLM Web Marketing / Marketing Quiz / 492e0658 / Marketing 4.0
+- OK Q512 | Ecosistema digitale | answer A: Che l'impresa ascolta attivamente e interagisce in modo non gerarchico con il cliente. | distractors B/C/D present | source: NotebookLM Web Marketing / Marketing Quiz / 3d71c962 / Ecosistema digitale
+- OK Q513 | Ecosistema digitale | answer A: Si sta trasformando da motore di ricerca a motore di risposta. | distractors B/C/D present | source: NotebookLM Web Marketing / SEO Quiz / d35c27ec / Ecosistema digitale
+- OK Q514 | Ecosistema digitale | answer A: Nella pagina di checkout di un e-commerce. | distractors B/C/D present | source: NotebookLM Web Marketing / Analytics Quiz / be7f2fdb / Ecosistema digitale
+- OK Q515 | Ecosistema digitale | answer A: Un utente che non solo consuma, ma produce e collabora ai contenuti del brand. | distractors B/C/D present | source: NotebookLM Web Marketing / Marketing Quiz / 0d653805 / Ecosistema digitale
+- OK Q516 | Ecosistema digitale | answer A: La piattaforma è l'ambiente software o di rete (es. Internet), il device è lo strumento hardware (es. Laptop). | distractors B/C/D present | source: NotebookLM Web Marketing / Marketing Quiz / 060f48b2 / Ecosistema digitale
+- OK Q517 | Ecosistema digitale | answer A: L'assenza o la debolezza del modello di business. | distractors B/C/D present | source: NotebookLM Web Marketing / Business Quiz / 4803ba1d / Ecosistema digitale
+- OK Q518 | Customer journey | answer A: Per confrontare ciò che l'utente si aspetta con la percezione reale dell'esperienza. | distractors B/C/D present | source: NotebookLM Web Marketing / Marketing Quiz / 7d680837 / Customer Journey
+- OK Q519 | Customer journey | answer A: Perché mettono al centro i bisogni reali e le sfide individuali dell'utente finale. | distractors B/C/D present | source: NotebookLM Web Marketing / Marketing Quiz / c6307972 / Customer Journey
+- OK Q520 | Customer journey | answer A: Aiutano a progettare soluzioni che risolvono i problemi del cliente anziché quelli del business. | distractors B/C/D present | source: NotebookLM Web Marketing / Marketing Quiz / 3d71c962 / Customer Journey
+- OK Q521 | Customer journey | answer A: Una recensione pubblicata da un utente su un forum indipendente. | distractors B/C/D present | source: NotebookLM Web Marketing / Marketing Quiz / 85f72fb5 / Customer Journey
+- OK Q522 | Customer journey | answer A: Ostacoli, frizioni o problemi che impediscono il progresso dell'utente. | distractors B/C/D present | source: NotebookLM Web Marketing / Marketing Quiz / 7d680837 / Customer Journey
+- OK Q523 | Customer journey | answer A: Automobili (Autos) | distractors B/C/D present | source: NotebookLM Web Marketing / Marketing Quiz / 7d680837 / Customer Journey
+- OK Q524 | Customer journey | answer A: Considerazione iniziale, Valutazione attiva, Momento dell'acquisto, Esperienza post-vendita. | distractors B/C/D present | source: NotebookLM Web Marketing / Marketing Quiz / 060f48b2 / Customer Journey
+- OK Q525 | Business model ed e-commerce | answer A: Per analizzare il tempo di visione e creare una home page personalizzata. | distractors B/C/D present | source: NotebookLM Web Marketing / IA Quiz / f37bf5c0 / Business Model Digitali
+- OK Q526 | Business model ed e-commerce | answer A: Il passaggio a un modello basato sul servizio (music streaming). | distractors B/C/D present | source: NotebookLM Web Marketing / Marketing Quiz / 702e4960 / Business Model Digitali
+- OK Q527 | Business model ed e-commerce | answer A: La piattaforma è l'ambiente (es. Web), il device è lo strumento hardware (es. Smartphone). | distractors B/C/D present | source: NotebookLM Web Marketing / Advertising Quiz / a073bca2 / Business Model Digitali
+- OK Q528 | Business model ed e-commerce | answer A: Ottimizzare i margini e aumentare le vendite complementari. | distractors B/C/D present | source: NotebookLM Web Marketing / IA Quiz / f37bf5c0 / Business Model Digitali
+- OK Q529 | Granato, search e operational | answer A: Un volume di ricerca superiore rispetto ad altre destinazioni come Tokyo o Dubai. | distractors B/C/D present | source: NotebookLM Web Marketing / Marketing Quiz / 7f575abd / Operational digital marketing
+- OK Q530 | Granato, search e operational | answer A: Di usarlo se necessario, ma si potrebbe evitare se si è già ben posizionati organicamente. | distractors B/C/D present | source: NotebookLM Web Marketing / SEO Quiz / 721a30f2 / Operational digital marketing
+- OK Q531 | Granato, search e operational | answer A: Perché l'obiettivo principale è la visibilità e la frequenza di visualizzazione dell'annuncio, non l'azione immediata. | distractors B/C/D present | source: NotebookLM Web Marketing / Marketing Quiz / 492e0658 / Operational digital marketing
+- OK Q532 | Granato, search e operational | answer A: È un fattore di ranking confermato sia per le ricerche desktop che mobile. | distractors B/C/D present | source: NotebookLM Web Marketing / Quiz SEO / aa4bfa94 / Operational digital marketing
+- OK Q533 | Granato, search e operational | answer A: Raggiungere nuovamente utenti che hanno già visitato il sito senza completare un'azione. | distractors B/C/D present | source: NotebookLM Web Marketing / Marketing Quiz / d2f2355a / Operational digital marketing
+- OK Q534 | Granato, search e operational | answer A: Un articolo comparativo con recensioni e tabelle di confronto tra diversi modelli. | distractors B/C/D present | source: NotebookLM Web Marketing / Marketing Quiz / 492e0658 / Operational digital marketing
+- OK Q535 | Granato, search e operational | answer A: Informazionale; un post del blog educativo che spiega cos'è e come funziona la SEO. | distractors B/C/D present | source: NotebookLM Web Marketing / Marketing Quiz / 492e0658 / Operational digital marketing
+- OK Q536 | Granato, search e operational | answer A: Il numero di spettatori unici a cui viene mostrato l'annuncio | distractors B/C/D present | source: NotebookLM Web Marketing / Marketing Quiz / 174391d9 / Operational digital marketing
+- OK Q537 | Granato, search e operational | answer A: Google tiene conto principalmente della versione mobile del sito per l'indicizzazione. | distractors B/C/D present | source: NotebookLM Web Marketing / Quiz SEO / aa4bfa94 / Operational digital marketing
+- OK Q538 | Granato, search e operational | answer A: ERP (Enterprise Resource Planning). | distractors B/C/D present | source: NotebookLM Web Marketing / Marketing Quiz / 060f48b2 / Operational digital marketing
+- OK Q539 | Granato, search e operational | answer A: Comparazioni di prodotti ed elenchi di funzionalità dettagliate. | distractors B/C/D present | source: NotebookLM Web Marketing / SEO Quiz / 721a30f2 / Operational digital marketing
 
 ## Warnings
 - None

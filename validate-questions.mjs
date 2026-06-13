@@ -17,7 +17,7 @@ const letters = ["A", "B", "C", "D"];
 
 if (!Array.isArray(questions)) errors.push("WEB_MARKETING_QUIZ_BANK is not an array");
 if (!Array.isArray(modes)) errors.push("WEB_MARKETING_SPECIAL_QUIZZES is not an array");
-if (questions.length !== 500) errors.push(`Expected 500 questions, found ${questions.length}`);
+if (questions.length < 500) errors.push(`Expected at least 500 questions, found ${questions.length}`);
 
 for (const q of questions) {
   const prefix = `Q${q.id}`;
@@ -67,6 +67,23 @@ for (const q of questions) {
   if (!Array.isArray(q.tags) || q.tags.length === 0) errors.push(`${prefix}: missing tags`);
   if (!q.source || typeof q.source !== "string") errors.push(`${prefix}: missing source`);
   if (q.source) sources.add(q.source);
+
+  if (q.hint !== undefined && (typeof q.hint !== "string" || normalize(q.hint).length < 18)) {
+    errors.push(`${prefix}: invalid hint`);
+  }
+
+  if (q.rationales !== undefined) {
+    if (!q.rationales || typeof q.rationales !== "object") {
+      errors.push(`${prefix}: invalid rationales`);
+    } else {
+      for (const letter of letters) {
+        const rationale = q.rationales[letter];
+        if (typeof rationale !== "string" || normalize(rationale).length < 18) {
+          errors.push(`${prefix}: missing or weak rationale ${letter}`);
+        }
+      }
+    }
+  }
 }
 
 for (const mode of modes.filter(mode => mode.tag)) {
@@ -80,6 +97,8 @@ const report = [
   "# Final Quiz Validation",
   "",
   `- Questions checked one by one: ${questions.length}`,
+  `- Questions with hints: ${questions.filter(q => q.hint).length}`,
+  `- Questions with rationales: ${questions.filter(q => q.rationales).length}`,
   `- Errors: ${errors.length}`,
   `- Warnings: ${warnings.length}`,
   `- Sources represented: ${sources.size}`,

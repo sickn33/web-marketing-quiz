@@ -1,0 +1,765 @@
+{
+  "title": "Digitale Quiz",
+  "questions": [
+    {
+      "question": "Perché i dati digitali vengono definiti 'binari'?",
+      "answerOptions": [
+        {
+          "text": "Perché sono codificati esclusivamente tramite combinazioni di due simboli, lo 0 e l'1.",
+          "isCorrect": true,
+          "rationale": "Il sistema binario si basa su due stati discreti che rappresentano l'unità minima di informazione."
+        },
+        {
+          "text": "Perché possono essere trasmessi solo attraverso due tipi di frequenze d'onda.",
+          "isCorrect": false,
+          "rationale": "La natura binaria riguarda la codifica dei dati, non la limitazione fisica delle frequenze di trasmissione."
+        },
+        {
+          "text": "Perché richiedono sempre due dispositivi collegati per essere elaborati correttamente.",
+          "isCorrect": false,
+          "rationale": "Il termine binario si riferisce alla logica matematica della rappresentazione del dato, indipendentemente dal numero di dispositivi."
+        },
+        {
+          "text": "Perché ogni stringa di dati deve essere composta da una coppia di byte.",
+          "isCorrect": false,
+          "rationale": "Sebbene i dati siano organizzati in byte, il termine binario deriva dall'uso delle due cifre di base."
+        }
+      ],
+      "hint": "Pensa al numero di simboli utilizzati per formare le stringhe di dati."
+    },
+    {
+      "question": "Qual è la relazione corretta tra bit e byte secondo il materiale fornito?",
+      "answerOptions": [
+        {
+          "text": "Un byte è composto da una serie di 8 bit.",
+          "isCorrect": true,
+          "rationale": "Il byte è l'unità di misura standard dell'informazione digitale composta da otto unità minime."
+        },
+        {
+          "text": "Un bit è composto da una serie di 8 byte.",
+          "isCorrect": false,
+          "rationale": "Questa affermazione inverte la gerarchia, poiché il bit è l'unità minima e non può contenere byte."
+        },
+        {
+          "text": "Bit e byte sono sinonimi utilizzati per descrivere l'unità minima di informazione.",
+          "isCorrect": false,
+          "rationale": "Il bit è l'unità minima, mentre il byte è un raggruppamento specifico di bit."
+        },
+        {
+          "text": "Un byte rappresenta lo stato 'on', mentre un bit rappresenta lo stato 'off'.",
+          "isCorrect": false,
+          "rationale": "On e off sono gli stati rappresentati da un singolo bit, non la distinzione tra bit e byte."
+        }
+      ],
+      "hint": "Considera quanti bit sono necessari per formare un'unità superiore."
+    },
+    {
+      "question": "In che modo i dati analogici si differenziano da quelli digitali nel loro cambiamento di stato?",
+      "answerOptions": [
+        {
+          "text": "I dati analogici cambiano continuamente, mentre quelli digitali cambiano discretamente.",
+          "isCorrect": true,
+          "rationale": "La continuità è tipica dei sistemi fisici analogici, mentre il digitale opera per salti definiti tra stati come on/off."
+        },
+        {
+          "text": "I dati digitali sono costanti nel tempo, mentre quelli analogici sono variabili.",
+          "isCorrect": false,
+          "rationale": "Entrambi i tipi di dati possono variare, ma la differenza risiede nella modalità (continua vs discreta) con cui variano."
+        },
+        {
+          "text": "I dati analogici sono codificati in codice binario, quelli digitali in segnali meccanici.",
+          "isCorrect": false,
+          "rationale": "Questa è l'esatta inversione delle definizioni di analogico e digitale."
+        },
+        {
+          "text": "I dati analogici non possono essere archiviati, mentre quelli digitali sì.",
+          "isCorrect": false,
+          "rationale": "Entrambi possono essere archiviati, come dimostrato dall'esempio del disco in vinile (analogico) e del CD (digitale)."
+        }
+      ],
+      "hint": "Rifletti sulla differenza tra un flusso ininterrotto e una serie di valori separati."
+    },
+    {
+      "question": "Secondo l'esempio del CD, cosa rappresentano i 'pits' (buchi) e le 'lands' (terre)?",
+      "answerOptions": [
+        {
+          "text": "La trasformazione dei suoni in una serie di dati digitali binari.",
+          "isCorrect": true,
+          "rationale": "La superficie del CD utilizza queste irregolarità fisiche per rappresentare i due stati del codice binario."
+        },
+        {
+          "text": "Le tracce meccaniche continue che corrispondono alle onde sonore.",
+          "isCorrect": false,
+          "rationale": "Le tracce meccaniche continue sono caratteristiche dei dischi in vinile, non dei CD."
+        },
+        {
+          "text": "Il metodo per pulire la testina laser durante la lettura dei dati.",
+          "isCorrect": false,
+          "rationale": "Pits e lands sono il supporto fisico dei dati stessi, non uno strumento di manutenzione."
+        },
+        {
+          "text": "La differenza di velocità di rotazione tra l'inizio e la fine del disco.",
+          "isCorrect": false,
+          "rationale": "Pits e lands riguardano la codifica dell'informazione sulla superficie, non la meccanica di rotazione."
+        }
+      ],
+      "hint": "Pensa a come una superficie fisica possa immagazzinare gli 0 e gli 1."
+    },
+    {
+      "question": "Quale delle seguenti definizioni descrive correttamente l'ICT (Information & Communication Technologies)?",
+      "answerOptions": [
+        {
+          "text": "Metodi e tecnologie che integrano telecomunicazioni, hardware e software per gestire le informazioni.",
+          "isCorrect": true,
+          "rationale": "L'ICT si focalizza sull'integrazione di diversi strumenti tecnologici per l'accesso e l'elaborazione dei dati."
+        },
+        {
+          "text": "Un sistema di reti globali basato esclusivamente sul protocollo HTML.",
+          "isCorrect": false,
+          "rationale": "L'HTML è un linguaggio per il Web, che è solo una parte dell'ecosistema ICT."
+        },
+        {
+          "text": "La tecnologia limitata alla sola produzione di cavi in fibra ottica.",
+          "isCorrect": false,
+          "rationale": "La fibra ottica è solo una componente infrastrutturale, mentre l'ICT comprende anche hardware e software."
+        },
+        {
+          "text": "Un protocollo di trasporto dati utilizzato per canalizzare le informazioni in rete.",
+          "isCorrect": false,
+          "rationale": "Questa definizione è più vicina a quella dei protocolli TCP/IP."
+        }
+      ],
+      "hint": "Considera l'unione di hardware, software e comunicazioni."
+    },
+    {
+      "question": "Qual è la funzione specifica del protocollo TCP nel sistema Internet?",
+      "answerOptions": [
+        {
+          "text": "Consente il trasporto dei dati.",
+          "isCorrect": true,
+          "rationale": "Il Transmission Control Protocol si occupa della gestione corretta della consegna dei pacchetti di dati."
+        },
+        {
+          "text": "Permette di incanalare e dirigere i dati verso la destinazione corretta.",
+          "isCorrect": false,
+          "rationale": "Questo compito di indirizzamento è svolto dall'IP (Internet Protocol), non dal TCP."
+        },
+        {
+          "text": "Crea documenti collegati tramite link ipertestuali.",
+          "isCorrect": false,
+          "rationale": "Questa è una funzione del Web e del linguaggio HTML, non dei protocolli di rete di base."
+        },
+        {
+          "text": "Definisce l'interfaccia grafica degli smartphone.",
+          "isCorrect": false,
+          "rationale": "I protocolli di rete operano a un livello logico sottostante rispetto alle interfacce utente dei dispositivi."
+        }
+      ],
+      "hint": "Cerca la differenza tra trasportare e indirizzare."
+    },
+    {
+      "question": "Come viene definito il Web rispetto a Internet nel materiale didattico?",
+      "answerOptions": [
+        {
+          "text": "Un sistema di navigazione del contenuto in forma ipertestuale.",
+          "isCorrect": true,
+          "rationale": "Il Web è un'applicazione che risiede su Internet e permette la consultazione di documenti tramite link."
+        },
+        {
+          "text": "L'infrastruttura hardware composta da server e router.",
+          "isCorrect": false,
+          "rationale": "L'infrastruttura fisica appartiene a Internet, mentre il Web riguarda l'organizzazione dei contenuti."
+        },
+        {
+          "text": "Il protocollo di base che permette il funzionamento dei computer globali.",
+          "isCorrect": false,
+          "rationale": "Internet è il sistema di reti basato su protocolli, il Web è il servizio di consultazione ipertestuale."
+        },
+        {
+          "text": "Un insieme di dispositivi come smartphone e tablet.",
+          "isCorrect": false,
+          "rationale": "Smartphone e tablet sono device digitali, non il sistema del Web in sé."
+        }
+      ],
+      "hint": "Pensa al concetto di ipertesto e documenti collegati."
+    },
+    {
+      "question": "Quale di questi è un esempio di 'Piattaforma digitale' e non di 'Device digitale'?",
+      "answerOptions": [
+        {
+          "text": "Social network",
+          "isCorrect": true,
+          "rationale": "I social network sono piattaforme software e di servizio che operano sul web, non oggetti fisici."
+        },
+        {
+          "text": "Laptop/PC",
+          "isCorrect": false,
+          "rationale": "Il PC è un dispositivo fisico (device) utilizzato per accedere alle piattaforme."
+        },
+        {
+          "text": "Wearable technologies",
+          "isCorrect": false,
+          "rationale": "Le tecnologie indossabili sono dispositivi fisici, sebbene integrino software avanzato."
+        },
+        {
+          "text": "Tablet",
+          "isCorrect": false,
+          "rationale": "Il tablet è classificato come un device digitale hardware."
+        }
+      ],
+      "hint": "Distingui tra l'ambiente in cui si interagisce e l'oggetto fisico usato per connettersi."
+    },
+    {
+      "question": "Nel Modello Internet Industry, cosa comprende il primo livello (Internet Infrastructure)?",
+      "answerOptions": [
+        {
+          "text": "Produttori di attrezzature come fibra ottica e server, e operatori della core network.",
+          "isCorrect": true,
+          "rationale": "Il livello base riguarda le componenti fisiche e gli operatori che gestiscono la struttura di rete fondamentale."
+        },
+        {
+          "text": "Sistemi operativi e browser di navigazione.",
+          "isCorrect": false,
+          "rationale": "Questi appartengono al livello dell'accesso (Internet Access), non all'infrastruttura di base."
+        },
+        {
+          "text": "Motori di ricerca e portali web.",
+          "isCorrect": false,
+          "rationale": "Motori di ricerca e portali fanno parte dello strato dell'intermediazione (Internet Intermediation)."
+        },
+        {
+          "text": "Agenzie di consulenza IT e servizi di hosting.",
+          "isCorrect": false,
+          "rationale": "Questi servizi sono collocati nel terzo livello, ovvero l'Internet IT."
+        }
+      ],
+      "hint": "Cerca gli elementi che costituiscono la 'spina dorsale' fisica della rete."
+    },
+    {
+      "question": "A quale livello del Modello Internet Industry appartengono i browser e i sistemi operativi?",
+      "answerOptions": [
+        {
+          "text": "2° Livello (Internet Access)",
+          "isCorrect": true,
+          "rationale": "Browser e OS sono software necessari per consentire all'utente di accedere concretamente all'infrastruttura."
+        },
+        {
+          "text": "4° Livello (Internet Intermediation)",
+          "isCorrect": false,
+          "rationale": "L'intermediazione riguarda i servizi commerciali o sociali, non il software di accesso base."
+        },
+        {
+          "text": "5° Livello (Internet Content)",
+          "isCorrect": false,
+          "rationale": "Il contenuto riguarda le informazioni finali (siti news, e-commerce), non gli strumenti per visualizzarli."
+        },
+        {
+          "text": "1° Livello (Internet Infrastructure)",
+          "isCorrect": false,
+          "rationale": "Il primo livello riguarda l'hardware di rete, non il software lato utente."
+        }
+      ],
+      "hint": "Considera quali strumenti permettono all'utente di 'entrare' in rete."
+    },
+    {
+      "question": "Qual è il ruolo dei 'Payment intermediaries' come Paypal nel modello a strati?",
+      "answerOptions": [
+        {
+          "text": "Intermediare i pagamenti online basati su conti bancari o istituzioni non bancarie.",
+          "isCorrect": true,
+          "rationale": "Essi operano nel quarto livello facilitando le transazioni economiche tra le parti nel mercato digitale."
+        },
+        {
+          "text": "Produrre il software di base necessario per creare siti web.",
+          "isCorrect": false,
+          "rationale": "La produzione di software di base appartiene al terzo livello (Internet IT)."
+        },
+        {
+          "text": "Fornire connettività fisica tramite cavi sottomarini.",
+          "isCorrect": false,
+          "rationale": "La connettività fisica è una funzione del primo livello (Infrastructure)."
+        },
+        {
+          "text": "Gestire siti di news e intrattenimento verticali.",
+          "isCorrect": false,
+          "rationale": "La gestione di contenuti editoriali appartiene al quinto livello (Internet Content)."
+        }
+      ],
+      "hint": "Pensa alla funzione di ponte tra chi compra e chi vende."
+    },
+    {
+      "question": "Quale caratteristica del mercato digitale riguarda la creazione di un 'Network interattivo'?",
+      "answerOptions": [
+        {
+          "text": "Le relazioni",
+          "isCorrect": true,
+          "rationale": "L'interattività è una proprietà fondamentale delle relazioni che si stabiliscono tra i soggetti nel mercato digitale."
+        },
+        {
+          "text": "Le parti coinvolte",
+          "isCorrect": false,
+          "rationale": "Le parti coinvolte riguardano l'identità e l'empowerment dei soggetti, non la struttura della rete relazionale."
+        },
+        {
+          "text": "L'oggetto dello scambio",
+          "isCorrect": false,
+          "rationale": "L'oggetto dello scambio è caratterizzato da virtualizzazione e connessione."
+        },
+        {
+          "text": "I limiti fisici",
+          "isCorrect": false,
+          "rationale": "L'interattività è una caratteristica che supera i limiti fisici, ma è classificata sotto la voce 'Relazioni'."
+        }
+      ],
+      "hint": "Controlla lo schema a triangolo che definisce il mercato digitale."
+    },
+    {
+      "question": "Secondo l'evoluzione del marketing, com'è l'approccio tradizionale rispetto a quello digitale?",
+      "answerOptions": [
+        {
+          "text": "Lineare e top-down, mentre il digitale è reticolare e decentralizzato.",
+          "isCorrect": true,
+          "rationale": "Il marketing tradizionale segue un flusso unidirezionale dall'impresa al mercato, a differenza della rete collaborativa digitale."
+        },
+        {
+          "text": "Collaborativo e dinamico, mentre il digitale è deterministico.",
+          "isCorrect": false,
+          "rationale": "Questa affermazione inverte i concetti; è il digitale ad essere collaborativo e dinamico."
+        },
+        {
+          "text": "Bidirezionale, mentre il digitale è unidirezionale.",
+          "isCorrect": false,
+          "rationale": "Il marketing tradizionale è caratterizzato proprio dalla mancanza di bidirezionalità reale rispetto al digitale."
+        },
+        {
+          "text": "Basato sull'ascolto paritario, mentre il digitale è basato sul segmento target.",
+          "isCorrect": false,
+          "rationale": "L'ascolto paritario è l'obiettivo del marketing digitale, non di quello tradizionale."
+        }
+      ],
+      "hint": "Confronta un modello a senso unico con un modello a rete."
+    },
+    {
+      "question": "Cosa si intende per 'Paniere di offerta co-creato' nel marketing digitale?",
+      "answerOptions": [
+        {
+          "text": "Un'offerta che nasce dalla collaborazione e interazione tra impresa e clienti.",
+          "isCorrect": true,
+          "rationale": "Nel marketing digitale, il prodotto o servizio non è più solo 'calato dall'alto' ma sviluppato insieme all'utente."
+        },
+        {
+          "text": "Un pacchetto di prodotti pre-confezionati pronti per la vendita di massa.",
+          "isCorrect": false,
+          "rationale": "L'offerta pre-confezionata è tipica dell'approccio 'push' del marketing tradizionale."
+        },
+        {
+          "text": "Un'offerta disponibile solo su piattaforme di e-commerce.",
+          "isCorrect": false,
+          "rationale": "La co-creazione riguarda il processo di genesi dell'offerta, non solo il canale di vendita."
+        },
+        {
+          "text": "Un sistema di sconti automatici basati sugli acquisti precedenti.",
+          "isCorrect": false,
+          "rationale": "Gli sconti automatici sono una tecnica promozionale, non la co-creazione del paniere di offerta."
+        }
+      ],
+      "hint": "Pensa al coinvolgimento attivo del consumatore nella definizione del valore."
+    },
+    {
+      "question": "Secondo la Legge di GROSH, cosa accade se la velocità di elaborazione aumenta di 4 volte?",
+      "answerOptions": [
+        {
+          "text": "Il costo del computer si riduce della metà.",
+          "isCorrect": true,
+          "rationale": "La legge evidenzia una relazione inversamente proporzionale tra potenza di calcolo e costi hardware."
+        },
+        {
+          "text": "Il numero di utenti della rete raddoppia istantaneamente.",
+          "isCorrect": false,
+          "rationale": "La crescita degli utenti è legata alla legge di Metcalfe, non alla potenza di calcolo di Grosh."
+        },
+        {
+          "text": "Il numero di transistor nel chip raddoppia ogni 18 mesi.",
+          "isCorrect": false,
+          "rationale": "Questa è la definizione della legge di Moore, spesso confusa con quella di Grosh."
+        },
+        {
+          "text": "La complessità informativa veicolabile diminuisce.",
+          "isCorrect": false,
+          "rationale": "Al contrario, l'aumento della velocità permette di gestire una complessità maggiore."
+        }
+      ],
+      "hint": "Rifletti sul legame tra prestazioni tecnologiche e prezzo."
+    },
+    {
+      "question": "Cosa prevede la Legge di MOORE riguardo ai microprocessori?",
+      "answerOptions": [
+        {
+          "text": "È possibile raddoppiare il numero di transistor contenuti in un chip ogni 18 mesi a parità di costo.",
+          "isCorrect": true,
+          "rationale": "La legge di Moore descrive la crescita esponenziale della densità dei componenti elettronici nei circuiti integrati."
+        },
+        {
+          "text": "L'utilità di una rete è pari al quadrato del numero dei suoi nodi.",
+          "isCorrect": false,
+          "rationale": "Questa è la legge di Metcalfe, che riguarda le reti e non la miniaturizzazione dei chip."
+        },
+        {
+          "text": "Il prezzo di un chip raddoppia ogni volta che la sua potenza aumenta.",
+          "isCorrect": false,
+          "rationale": "Moore sostiene che la potenza aumenti a parità di costo, rendendo la tecnologia più accessibile."
+        },
+        {
+          "text": "I transistor diventano meno efficienti all'aumentare della loro velocità.",
+          "isCorrect": false,
+          "rationale": "L'efficienza e la capacità aumentano secondo la legge di Moore."
+        }
+      ],
+      "hint": "Concentrati sull'intervallo temporale di 18 mesi e sui componenti fisici del chip."
+    },
+    {
+      "question": "Quale formula esprime la Legge di METCALFE?",
+      "answerOptions": [
+        {
+          "text": "$Ui = n(n-1) \\approx n^2$",
+          "isCorrect": true,
+          "rationale": "La formula indica che l'utilità di una rete cresce esponenzialmente al crescere del numero di partecipanti."
+        },
+        {
+          "text": "$Cost = \\frac{Speed}{2}$",
+          "isCorrect": false,
+          "rationale": "Questa non è una formula standard di Metcalfe, ma una semplificazione errata di Grosh."
+        },
+        {
+          "text": "$Transistors = 2 \\times 18 \\text{ mesi}$",
+          "isCorrect": false,
+          "rationale": "Questa è una rappresentazione scorretta dei parametri della legge di Moore."
+        },
+        {
+          "text": "$Reach \\times Richness = Constant$",
+          "isCorrect": false,
+          "rationale": "Questo si riferisce al trade-off informativo, non alla legge di Metcalfe sull'utilità di rete."
+        }
+      ],
+      "hint": "Ricorda la relazione tra utilità e quadrato del numero di utenti."
+    },
+    {
+      "question": "Cosa determina la riduzione del prezzo medio unitario di accesso a una tecnologia all'aumentare della sua diffusione?",
+      "answerOptions": [
+        {
+          "text": "Le economie di scala dal lato della domanda.",
+          "isCorrect": true,
+          "rationale": "A differenza delle economie industriali classiche, qui è l'ampia diffusione tra gli utenti a trainare l'efficienza dei costi."
+        },
+        {
+          "text": "La condizione di lock-in.",
+          "isCorrect": false,
+          "rationale": "Il lock-in tende a mantenere l'utente legato a una tecnologia, non necessariamente a ridurne il prezzo."
+        },
+        {
+          "text": "Il superamento del trade-off tra reach e richness.",
+          "isCorrect": false,
+          "rationale": "Questo riguarda la qualità dell'informazione, non direttamente le economie di scala di prezzo."
+        },
+        {
+          "text": "La legge di Moore applicata ai server.",
+          "isCorrect": false,
+          "rationale": "SebbeneMoore aiuti, la definizione specifica del materiale punta sulle economie di scala lato domanda."
+        }
+      ],
+      "hint": "Pensa a un fattore legato alla massa critica e al numero di utenti."
+    },
+    {
+      "question": "Cosa comporta una situazione di 'lock-in' per l'utente di una tecnologia?",
+      "answerOptions": [
+        {
+          "text": "L'esistenza di switching cost (monetari o cognitivi) da sostenere per cambiare tecnologia.",
+          "isCorrect": true,
+          "rationale": "Il lock-in crea una barriera all'uscita rendendo oneroso o difficile passare a un concorrente."
+        },
+        {
+          "text": "La possibilità di accedere gratuitamente a tutte le funzionalità della rete.",
+          "isCorrect": false,
+          "rationale": "Il lock-in non è sinonimo di gratuità, ma di vincolo verso uno standard o un fornitore."
+        },
+        {
+          "text": "Il raddoppio istantaneo della velocità di connessione ogni anno.",
+          "isCorrect": false,
+          "rationale": "Questa è una proprietà di crescita tecnologica, non una condizione di mercato come il lock-in."
+        },
+        {
+          "text": "La cancellazione automatica dei dati dopo un periodo di inattività.",
+          "isCorrect": false,
+          "rationale": "Il lock-in mira a trattenere i dati e l'utente, non a cancellarli."
+        }
+      ],
+      "hint": "Rifletti sul significato letterale di 'bloccato dentro' e sulle difficoltà di uscirne."
+    },
+    {
+      "question": "Perché il layout di tastiera QWERTY è citato come esempio nel materiale?",
+      "answerOptions": [
+        {
+          "text": "Per illustrare come uno standard possa persistere nonostante non sia il più efficiente (lock-in).",
+          "isCorrect": true,
+          "rationale": "QWERTY è nato per rallentare la battuta e non inceppare le leve meccaniche, ma è rimasto lo standard per via dei costi di apprendimento per cambiarlo."
+        },
+        {
+          "text": "Per dimostrare che la velocità di digitazione è l'unica priorità delle tecnologie digitali.",
+          "isCorrect": false,
+          "rationale": "Al contrario, QWERTY è stato progettato per rallentare la tastiera, non per velocizzarla."
+        },
+        {
+          "text": "Per mostrare un esempio di tecnologia analogica che non ha switching cost.",
+          "isCorrect": false,
+          "rationale": "QWERTY ha enormi switching cost cognitivi (bisognerebbe imparare di nuovo a scrivere)."
+        },
+        {
+          "text": "Per spiegare il funzionamento dei bit nelle macchine da scrivere elettroniche.",
+          "isCorrect": false,
+          "rationale": "L'esempio riguarda il layout meccanico e le dinamiche di mercato, non la codifica binaria."
+        }
+      ],
+      "hint": "Pensa a quanto sarebbe difficile per tutti noi imparare a scrivere con una disposizione di tasti diversa."
+    },
+    {
+      "question": "Qual è un limite fisico tipico dei mercati tradizionali menzionato nelle slide?",
+      "answerOptions": [
+        {
+          "text": "Lo spazio limitato sugli scaffali per prodotti come CD e DVD.",
+          "isCorrect": true,
+          "rationale": "I mercati fisici devono selezionare i successi perché non possono contenere fisicamente ogni prodotto creato."
+        },
+        {
+          "text": "L'eccessiva larghezza di banda delle onde radio.",
+          "isCorrect": false,
+          "rationale": "Il materiale afferma che non ci sono abbastanza onde radio, indicando una scarsità, non un eccesso."
+        },
+        {
+          "text": "La capacità illimitata dei cinema di mostrare film.",
+          "isCorrect": false,
+          "rationale": "I cinema hanno schermi insufficienti per mostrare tutto il catalogo disponibile."
+        },
+        {
+          "text": "La mancanza di costi di affitto per i negozi fisici.",
+          "isCorrect": false,
+          "rationale": "I negozi fisici devono coprire alti costi di affitto, il che impone la vendita di soli prodotti popolari."
+        }
+      ],
+      "hint": "Considera perché i negozi fisici non possono vendere tutto ciò che esiste al mondo."
+    },
+    {
+      "question": "Cosa significa che le tecnologie digitali hanno un 'elevato potenziale diffusivo'?",
+      "answerOptions": [
+        {
+          "text": "Che la loro utilità aumenta con l'aumentare degli utenti collegati (Legge di Metcalfe).",
+          "isCorrect": true,
+          "rationale": "Più persone usano una tecnologia di rete, più essa diventa preziosa per ogni singolo partecipante."
+        },
+        {
+          "text": "Che i segnali digitali possono viaggiare solo nel vuoto.",
+          "isCorrect": false,
+          "rationale": "La diffusione riguarda l'adozione sociale e di rete, non le proprietà fisiche di propagazione nel vuoto."
+        },
+        {
+          "text": "Che ogni dispositivo digitale deve essere sostituito ogni 18 mesi.",
+          "isCorrect": false,
+          "rationale": "Questo riguarda l'obsolescenza o la legge di Moore, non direttamente il potenziale diffusivo di rete."
+        },
+        {
+          "text": "Che le informazioni digitali sono impossibili da copiare.",
+          "isCorrect": false,
+          "rationale": "In realtà, la facilità di copia è un fattore che aiuta la diffusione del digitale."
+        }
+      ],
+      "hint": "Collega questo concetto al valore che la rete acquisisce quando cresce."
+    },
+    {
+      "question": "Nel marketing tradizionale, come viene analizzato il cliente?",
+      "answerOptions": [
+        {
+          "text": "A-priori, definendo un segmento target prima della proposta.",
+          "isCorrect": true,
+          "rationale": "L'impresa analizza il mercato e decide in anticipo a chi rivolgersi, in modo deterministico."
+        },
+        {
+          "text": "Attraverso una modalità collaborativa e costante.",
+          "isCorrect": false,
+          "rationale": "L'analisi collaborativa è una caratteristica dell'approccio digitale, non tradizionale."
+        },
+        {
+          "text": "Esclusivamente tramite l'ascolto dei social network.",
+          "isCorrect": false,
+          "rationale": "I social network sono strumenti digitali non presenti nell'approccio di marketing tradizionale classico."
+        },
+        {
+          "text": "Senza alcuno strumento statistico o di ricerca.",
+          "isCorrect": false,
+          "rationale": "Il marketing tradizionale usa strumenti di ricerca, ma l'analisi resta confinata a un momento precedente la vendita (a-priori)."
+        }
+      ],
+      "hint": "Pensa se l'analisi avviene 'prima' o 'durante' la relazione con il cliente."
+    },
+    {
+      "question": "Vero o Falso: Nel mercato digitale, l'oggetto dello scambio è caratterizzato dalla virtualizzazione.",
+      "answerOptions": [
+        {
+          "text": "Vero",
+          "isCorrect": true,
+          "rationale": "La virtualizzazione permette di scambiare beni e servizi dematerializzati o rappresentazioni digitali di beni fisici."
+        },
+        {
+          "text": "Falso",
+          "isCorrect": false,
+          "rationale": "Secondo lo schema delle slide, la virtualizzazione e la connessione sono i due pilastri dell'oggetto dello scambio digitale."
+        }
+      ],
+      "hint": "Considera se i prodotti digitali abbiano una consistenza fisica o meno."
+    },
+    {
+      "question": "Quale tra questi è un operatore di 'Internet IT' (3° livello)?",
+      "answerOptions": [
+        {
+          "text": "Fornitori di hosting e creazione siti web.",
+          "isCorrect": true,
+          "rationale": "Questi operatori forniscono l'infrastruttura logica e i servizi tecnici per stare online."
+        },
+        {
+          "text": "Produttori di fibra ottica.",
+          "isCorrect": false,
+          "rationale": "La fibra ottica è infrastruttura pura, ovvero il primo livello."
+        },
+        {
+          "text": "Siti di aste come eBay.",
+          "isCorrect": false,
+          "rationale": "eBay è un intermediario di e-commerce, situato al quarto livello."
+        },
+        {
+          "text": "Siti di news generici.",
+          "isCorrect": false,
+          "rationale": "I siti di news sono produttori di contenuti, situati al quinto livello."
+        }
+      ],
+      "hint": "Cerca chi fornisce servizi tecnologici correlati a Internet."
+    },
+    {
+      "question": "Cosa caratterizza il 4° livello del modello Internet Industry (Internet Intermediation)?",
+      "answerOptions": [
+        {
+          "text": "Operatori che intermediano tecnologia e/o servizi, come motori di ricerca e piattaforme social.",
+          "isCorrect": true,
+          "rationale": "In questo strato si trovano i soggetti che connettono domanda e offerta o facilitano l'interazione sociale."
+        },
+        {
+          "text": "Esclusivamente gli operatori telefonici via cavo.",
+          "isCorrect": false,
+          "rationale": "Gli operatori telefonici sono fornitori di accesso (2° livello)."
+        },
+        {
+          "text": "I produttori di hardware come laptop e tablet.",
+          "isCorrect": false,
+          "rationale": "La produzione di device appartiene alla categoria dell'accesso hardware (2° livello)."
+        },
+        {
+          "text": "Le aziende che vendono prodotti fisici online (e-Tailers).",
+          "isCorrect": false,
+          "rationale": "Gli e-Tailers sono considerati produttori di contenuto/offerta finale (5° livello)."
+        }
+      ],
+      "hint": "Pensa a chi aiuta l'utente a trovare informazioni o a interagire con altri."
+    },
+    {
+      "question": "A cosa si riferisce il concetto di 'Consumer empowerment' nel mercato digitale?",
+      "answerOptions": [
+        {
+          "text": "Al maggior potere e controllo che il consumatore acquisisce grazie all'informazione e alla rete.",
+          "isCorrect": true,
+          "rationale": "Grazie alla trasparenza e alla facilità di confronto, il cliente digitale ha un ruolo molto più attivo e forte."
+        },
+        {
+          "text": "All'obbligo del consumatore di acquistare solo prodotti digitali.",
+          "isCorrect": false,
+          "rationale": "L'empowerment è una crescita di capacità e potere, non un obbligo o una limitazione."
+        },
+        {
+          "text": "Alla velocità con cui un consumatore può ricaricare il proprio smartphone.",
+          "isCorrect": false,
+          "rationale": "L'empowerment è un concetto sociologico e di marketing, non legato alla ricarica elettrica."
+        },
+        {
+          "text": "Al fatto che i consumatori devono produrre l'elettricità per i loro dispositivi.",
+          "isCorrect": false,
+          "rationale": "Questa è un'interpretazione letterale errata del termine 'power' contenuto in empowerment."
+        }
+      ],
+      "hint": "Pensa al passaggio da un consumatore passivo a uno attivo e informato."
+    },
+    {
+      "question": "Nel marketing digitale, com'è la direzione della proposta di valore?",
+      "answerOptions": [
+        {
+          "text": "Multi-direzionale, coinvolgendo molteplici nessi tra impresa e clienti.",
+          "isCorrect": true,
+          "rationale": "Il valore non scorre più in una sola direzione ma circola nella rete tra tutti gli attori."
+        },
+        {
+          "text": "Esclusivamente dall'impresa verso il segmento target.",
+          "isCorrect": false,
+          "rationale": "Questa è la modalità unidirezionale tipica del marketing tradizionale."
+        },
+        {
+          "text": "Dall'alto verso il basso (top-down).",
+          "isCorrect": false,
+          "rationale": "Il top-down è l'opposto della decentralizzazione digitale."
+        },
+        {
+          "text": "Solo tra i clienti stessi, escludendo l'impresa.",
+          "isCorrect": false,
+          "rationale": "Sebbene il passaparola sia forte, l'impresa resta un nodo fondamentale della rete digitale."
+        }
+      ],
+      "hint": "Immagina una ragnatela di relazioni invece di una linea retta."
+    },
+    {
+      "question": "Quale affermazione descrive meglio la 'Massa critica' nel contesto digitale?",
+      "answerOptions": [
+        {
+          "text": "Il numero minimo di utenti necessari affinché una tecnologia diventi autosufficiente e di valore.",
+          "isCorrect": true,
+          "rationale": "Raggiungere la massa critica permette di innescare le economie di scala e gli effetti di rete positivi."
+        },
+        {
+          "text": "Il peso totale in chilogrammi dei server di un'azienda.",
+          "isCorrect": false,
+          "rationale": "La 'massa' in questo caso è un concetto numerico di adozione, non di peso fisico."
+        },
+        {
+          "text": "Il momento in cui una tecnologia smette di funzionare per troppi utenti.",
+          "isCorrect": false,
+          "rationale": "Al contrario, la massa critica segna il successo e la stabilità di una tecnologia."
+        },
+        {
+          "text": "La quantità di bit necessari per spegnere un computer.",
+          "isCorrect": false,
+          "rationale": "Non esiste una correlazione tra massa critica e lo spegnimento di un dispositivo."
+        }
+      ],
+      "hint": "Pensa al punto di svolta oltre il quale una rete diventa davvero utile per tutti."
+    },
+    {
+      "question": "Vero o Falso: Il linguaggio HTML viene utilizzato per codificare i documenti nel Web.",
+      "answerOptions": [
+        {
+          "text": "Vero",
+          "isCorrect": true,
+          "rationale": "L'Hyper Text Markup Language è lo standard per la creazione e strutturazione delle pagine web."
+        },
+        {
+          "text": "Falso",
+          "isCorrect": false,
+          "rationale": "L'HTML è esplicitamente indicato come il linguaggio di codifica dei documenti ipertestuali del Web."
+        }
+      ],
+      "hint": "Ricorda l'acronimo che sta per 'Hyper Text Markup Language'."
+    }
+  ]
+}

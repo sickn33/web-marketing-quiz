@@ -1,0 +1,525 @@
+{
+  "title": "Marketing Quiz",
+  "questions": [
+    {
+      "question": "Secondo la Legge di Metcalfe, qual è la relazione matematica tra l'utilità di una rete ($U$) e il numero di nodi o utenti ($n$)?",
+      "answerOptions": [
+        {
+          "text": "$U \\propto n^2$",
+          "isCorrect": true,
+          "rationale": "L'utilità di una rete cresce in modo proporzionale al quadrato del numero di utenti, riflettendo il potenziale di connessioni tra di loro."
+        },
+        {
+          "text": "$U \\propto n$",
+          "isCorrect": false,
+          "rationale": "Questo suggerirebbe una crescita lineare, che non tiene conto del valore aggiunto dalle interconnessioni multiple tra i partecipanti."
+        },
+        {
+          "text": "$U \\propto \\log(n)$",
+          "isCorrect": false,
+          "rationale": "Un modello logaritmico indicherebbe rendimenti decrescenti estremi, contrariamente alla dinamica di espansione delle reti digitali."
+        },
+        {
+          "text": "$U \\propto \\sqrt{n}$",
+          "isCorrect": false,
+          "rationale": "Questa formula implicherebbe che l'utilità cresca più lentamente rispetto al numero di utenti, ignorando gli effetti di rete positivi."
+        }
+      ],
+      "hint": "Pensa a come il numero di possibili connessioni uniche aumenti quando aggiungi un nuovo partecipante a un gruppo."
+    },
+    {
+      "question": "Quale tra i seguenti scenari SEO descrive meglio il concetto di 'Long Tail' applicato alla ricerca di parole chiave?",
+      "answerOptions": [
+        {
+          "text": "Un sito di e-commerce che ottiene la maggior parte del traffico da migliaia di query molto specifiche e a basso volume.",
+          "isCorrect": true,
+          "rationale": "La strategia si basa sulla somma di molti piccoli volumi di ricerca provenienti da nicchie, che insieme superano i termini generici."
+        },
+        {
+          "text": "Un'azienda che punta esclusivamente su termini ad alto volume per dominare il mercato principale.",
+          "isCorrect": false,
+          "rationale": "Questa è una strategia 'Short Head' o 'Head Term', caratterizzata da alta concorrenza e minor specificità."
+        },
+        {
+          "text": "L'uso di keyword composte da una sola parola per massimizzare la visibilità generica.",
+          "isCorrect": false,
+          "rationale": "Le keyword a coda lunga sono solitamente frasi più articolate che rispondono a bisogni molto precisi del ricercatore."
+        },
+        {
+          "text": "L'ottimizzazione di una singola pagina per una keyword con KD (Keyword Difficulty) superiore a 80.",
+          "isCorrect": false,
+          "rationale": "Puntare su difficoltà elevate riguarda solitamente termini competitivi 'mainstream' e non la varietà tipica della coda lunga."
+        }
+      ],
+      "hint": "Considera la differenza tra cercare 'scarpe' e cercare 'scarpe da corsa rosse per pronatori taglia 42'."
+    },
+    {
+      "question": "Nel contesto delle ricerche di mercato, qual è il principale rischio tecnico associato all'uso di un numero 'pari' di opzioni in una scala Likert?",
+      "answerOptions": [
+        {
+          "text": "Sottostima dei soggetti realmente indecisi o neutrali.",
+          "isCorrect": true,
+          "rationale": "Le scale pari forzano il rispondente a prendere una posizione, eliminando la possibilità di esprimere una reale neutralità."
+        },
+        {
+          "text": "Eccessivo affollamento delle risposte sui valori medi.",
+          "isCorrect": false,
+          "rationale": "Questo fenomeno è tipico delle scale dispari, dove gli indecisi tendono a scegliere il punto centrale."
+        },
+        {
+          "text": "Aumento del tempo necessario per la codifica dei dati.",
+          "isCorrect": false,
+          "rationale": "La codifica di una scala pari non è intrinsecamente più complessa di quella dispari; il problema è di natura psicometrica."
+        },
+        {
+          "text": "Percezione 'scolastica' del punteggio da parte del rispondente.",
+          "isCorrect": false,
+          "rationale": "La percezione scolastica è solitamente associata a scale da 1 a 10, indipendentemente dal fatto che siano pari o dispari."
+        }
+      ],
+      "hint": "Rifletti su cosa accade quando a una persona che non ha un'opinione viene negata l'opzione 'centrale'."
+    },
+    {
+      "question": "Perché il layout della tastiera QWERTY è citato come esempio di 'lock-in' tecnologico nonostante l'esistenza di alternative più efficienti come la Dvorak?",
+      "answerOptions": [
+        {
+          "text": "A causa degli elevati switching cost cognitivi legati al riapprendimento.",
+          "isCorrect": true,
+          "rationale": "Il costo di cambiare abitudine e imparare un nuovo schema supera il beneficio marginale della velocità promessa dal layout alternativo."
+        },
+        {
+          "text": "Perché il layout Dvorak causa l'inceppamento meccanico delle moderne tastiere digitali.",
+          "isCorrect": false,
+          "rationale": "Le tastiere digitali non hanno parti meccaniche che possano incepparsi; il layout QWERTY risolveva problemi delle vecchie macchine da scrivere."
+        },
+        {
+          "text": "Perché la legge di Moore impedisce il cambio di standard hardware.",
+          "isCorrect": false,
+          "rationale": "La legge di Moore riguarda la potenza di calcolo dei microprocessori e non ha relazione diretta con l'ergonomia dei layout dei tasti."
+        },
+        {
+          "text": "Perché il costo di produzione dei tasti QWERTY è inferiore.",
+          "isCorrect": false,
+          "rationale": "Il costo fisico di stampare lettere diverse sui tasti è identico; il vincolo è sociale e comportamentale."
+        }
+      ],
+      "hint": "Pensa alla difficoltà che avresti oggi se dovessi imparare a scrivere da capo con una disposizione dei tasti completamente diversa."
+    },
+    {
+      "question": "Quale fase del modello decisionale McKinsey è considerata fondamentale per innescare il 'Loyalty Loop' (anello della fedeltà)?",
+      "answerOptions": [
+        {
+          "text": "Esperienza post-vendita.",
+          "isCorrect": true,
+          "rationale": "La soddisfazione dopo l'acquisto determina se il cliente tornerà direttamente nella fase di valutazione o se diventerà un promotore del brand."
+        },
+        {
+          "text": "Valutazione attiva.",
+          "isCorrect": false,
+          "rationale": "Sebbene cruciale per la scelta, questa fase precede l'uso effettivo del prodotto che è alla base della fedeltà a lungo termine."
+        },
+        {
+          "text": "Esposizione iniziale.",
+          "isCorrect": false,
+          "rationale": "L'esposizione crea consapevolezza ma non garantisce un legame duraturo senza una prova soddisfacente del valore offerto."
+        },
+        {
+          "text": "Momento dell'acquisto.",
+          "isCorrect": false,
+          "rationale": "L'acquisto è la transazione finale di un processo, ma il ciclo della fedeltà si nutre di ciò che accade dopo la transazione."
+        }
+      ],
+      "hint": "Cerca la fase che trasforma un acquirente occasionale in un cliente ricorrente."
+    },
+    {
+      "question": "Qual è la differenza fondamentale tra dati 'analogici' e dati 'digitali'?",
+      "answerOptions": [
+        {
+          "text": "I dati analogici sono continui, mentre quelli digitali cambiano discretamente tra stati definiti.",
+          "isCorrect": true,
+          "rationale": "Il digitale scompone l'informazione in unità minime (bit) e stati finiti (0 e 1), a differenza della variazione fluida dell'analogico."
+        },
+        {
+          "text": "I dati digitali possono essere memorizzati, quelli analogici no.",
+          "isCorrect": false,
+          "rationale": "Entrambi possono essere memorizzati (es. un disco in vinile per l'analogico, un CD per il digitale), cambia solo il metodo di codifica."
+        },
+        {
+          "text": "L'analogico è basato sull'elettricità, il digitale sulla meccanica.",
+          "isCorrect": false,
+          "rationale": "In realtà, molte tecnologie digitali sono puramente elettroniche, mentre l'analogico può essere meccanico, elettrico o acustico."
+        },
+        {
+          "text": "Il digitale è più veloce dell'analogico in ogni circostanza trasmissiva.",
+          "isCorrect": false,
+          "rationale": "La velocità dipende dall'infrastruttura; la distinzione chiave risiede nella natura della rappresentazione del segnale."
+        }
+      ],
+      "hint": "Immagina la differenza tra una rampa liscia (continuità) e una scala a gradini (discrezione)."
+    },
+    {
+      "question": "Nella gerarchia dell'Internet Industry, cosa distingue lo strato 'Internet Intermediation' (4° livello) dallo strato 'Internet Content' (5° livello)?",
+      "answerOptions": [
+        {
+          "text": "L'intermediazione facilita le transazioni e la navigazione, mentre il contenuto fornisce il valore informativo finale.",
+          "isCorrect": true,
+          "rationale": "Siti di pagamento o motori di ricerca sono intermediari; portali di notizie o piattaforme di streaming sono fornitori di contenuto."
+        },
+        {
+          "text": "L'intermediazione riguarda solo i cavi e i server, il contenuto riguarda i siti web.",
+          "isCorrect": false,
+          "rationale": "Cavi e server appartengono ai livelli inferiori (infrastruttura), non ai livelli applicativi superiori."
+        },
+        {
+          "text": "Il contenuto è sempre gratuito, mentre l'intermediazione è sempre a pagamento.",
+          "isCorrect": false,
+          "rationale": "Esistono intermediari gratuiti (es. Google) e contenuti a pagamento (es. Netflix); il modello di business non definisce il livello tecnico."
+        },
+        {
+          "text": "Lo strato del contenuto è necessario per l'accesso a Internet, l'intermediazione è opzionale.",
+          "isCorrect": false,
+          "rationale": "Tecnicamente, l'accesso richiede i livelli 1 e 2; gli strati superiori definiscono l'esperienza d'uso e il valore economico del web."
+        }
+      ],
+      "hint": "Pensa alla differenza tra un servizio che ti aiuta a trovare un prodotto e il prodotto stesso."
+    },
+    {
+      "question": "Qual è il ruolo strategico dei 'Backlink' in un'ottica di ottimizzazione per i motori di ricerca (SEO)?",
+      "answerOptions": [
+        {
+          "text": "Agiscono come segnali di autorità e fiducia se provenienti da siti pertinenti.",
+          "isCorrect": true,
+          "rationale": "I motori di ricerca interpretano i link esterni come 'voti' di qualità, migliorando il posizionamento organico del sito ricevente."
+        },
+        {
+          "text": "Servono a incrementare la velocità di caricamento delle pagine web.",
+          "isCorrect": false,
+          "rationale": "I link esterni non influenzano le prestazioni tecniche del server o il tempo di rendering del browser."
+        },
+        {
+          "text": "Sono obbligatori per poter essere indicizzati da Google Search Console.",
+          "isCorrect": false,
+          "rationale": "L'indicizzazione può avvenire tramite sitemap o scansione diretta; i backlink aiutano il posizionamento, non sono l'unico modo per essere 'visti'."
+        },
+        {
+          "text": "Rappresentano la principale fonte di traffico a pagamento (SEM).",
+          "isCorrect": false,
+          "rationale": "Il traffico a pagamento deriva dagli annunci (Ads); i backlink naturali fanno parte della strategia SEO organica."
+        }
+      ],
+      "hint": "Immagina i link come raccomandazioni da parte di altre persone in un contesto professionale."
+    },
+    {
+      "question": "Cosa si intende per 'Zero Moment of Truth' (ZMOT) nella teoria del marketing digitale di Google?",
+      "answerOptions": [
+        {
+          "text": "La fase di ricerca online e confronto che avviene prima di entrare in contatto fisico con il prodotto.",
+          "isCorrect": true,
+          "rationale": "Lo ZMOT riconosce che il consumatore moderno si informa autonomamente su internet molto prima di recarsi in negozio o acquistare."
+        },
+        {
+          "text": "Il momento esatto in cui il cliente clicca sul pulsante 'Acquista ora'.",
+          "isCorrect": false,
+          "rationale": "Quello è solitamente definito come il Primo Momento della Verità (FMOT) o semplicemente il momento della conversione."
+        },
+        {
+          "text": "La recensione pubblicata dall'utente dopo aver provato il prodotto a casa.",
+          "isCorrect": false,
+          "rationale": "Questo corrisponde al Secondo Momento della Verità (SMOT), legato all'esperienza d'uso effettiva."
+        },
+        {
+          "text": "L'esposizione involontaria a un annuncio pubblicitario televisivo.",
+          "isCorrect": false,
+          "rationale": "L'annuncio è lo 'stimolo' iniziale, che precede la fase di ricerca attiva tipica dello ZMOT."
+        }
+      ],
+      "hint": "Pensa a cosa fai sul tuo smartphone mentre sei ancora sul divano, prima di decidere dove andare a fare shopping."
+    },
+    {
+      "question": "Qual è la caratteristica distintiva del marketing 4.0 rispetto alle versioni precedenti?",
+      "answerOptions": [
+        {
+          "text": "Il passaggio dalla segmentazione tradizionale alla focalizzazione sulle community.",
+          "isCorrect": true,
+          "rationale": "Il marketing 4.0 enfatizza la dimensione sociale e l'influenza delle reti di consumatori rispetto alla semplice divisione demografica."
+        },
+        {
+          "text": "L'orientamento esclusivo al profitto aziendale tramite l'automazione.",
+          "isCorrect": false,
+          "rationale": "Mentre l'automazione è presente, il marketing 4.0 cerca di umanizzare i brand e creare valore condiviso."
+        },
+        {
+          "text": "La completa eliminazione dei canali di vendita fisici a favore del digitale.",
+          "isCorrect": false,
+          "rationale": "Il marketing 4.0 promuove l'integrazione tra offline e online (omnichannel), non la sostituzione totale del primo."
+        },
+        {
+          "text": "La riduzione del potere decisionale del consumatore grazie agli algoritmi.",
+          "isCorrect": false,
+          "rationale": "Al contrario, il consumatore è più 'empowered' e informato, costringendo le aziende a essere più trasparenti."
+        }
+      ],
+      "hint": "Considera come i social media abbiano trasformato gruppi di sconosciuti in gruppi d'influenza reciproca."
+    },
+    {
+      "question": "In un questionario, perché è fondamentale evitare domande che manchino di 'mutua esclusione' nelle risposte?",
+      "answerOptions": [
+        {
+          "text": "Per evitare che un rispondente possa identificarsi validamente in più di una categoria opzionale.",
+          "isCorrect": true,
+          "rationale": "Se le opzioni si sovrappongono (es. '1-3' e '3-5'), il dato raccolto diventa ambiguo e impossibile da analizzare statisticamente."
+        },
+        {
+          "text": "Per garantire che il questionario non duri più di dieci minuti.",
+          "isCorrect": false,
+          "rationale": "La durata dipende dal numero di domande; la mutua esclusione riguarda la chiarezza logica della singola domanda."
+        },
+        {
+          "text": "Per permettere l'inserimento di video o immagini tra le domande.",
+          "isCorrect": false,
+          "rationale": "L'integrazione multimediale è una scelta di design tecnico e non dipende dalla struttura logica delle opzioni di risposta."
+        },
+        {
+          "text": "Per costringere il rispondente a dare sempre una risposta positiva.",
+          "isCorrect": false,
+          "rationale": "La mutua esclusione non serve a orientare il sentiment, ma a garantire che ogni stato del rispondente corrisponda a un'unica opzione."
+        }
+      ],
+      "hint": "Cosa faresti se ti chiedessero quanti caffè bevi e le opzioni fossero 'da 0 a 2' e 'da 2 a 4' e tu ne bevessi esattamente 2?"
+    },
+    {
+      "question": "Qual è il principale vantaggio competitivo di un modello di business 'Freemium'?",
+      "answerOptions": [
+        {
+          "text": "Abbatte le barriere all'entrata permettendo agli utenti di testare il valore prima dell'acquisto.",
+          "isCorrect": true,
+          "rationale": "Offrendo una versione gratuita, l'azienda acquisisce una vasta base utenti da cui può convertire una percentuale in clienti paganti (premium)."
+        },
+        {
+          "text": "Garantisce che il 100% degli utenti diventi pagante entro i primi sei mesi.",
+          "isCorrect": false,
+          "rationale": "I tassi di conversione nel freemium sono solitamente bassi (spesso sotto il 5-10%); il successo dipende dai grandi volumi."
+        },
+        {
+          "text": "Elimina totalmente i costi di assistenza clienti per la versione gratuita.",
+          "isCorrect": false,
+          "rationale": "Sebbene limitata, l'assistenza per gli utenti free è spesso necessaria per mantenere la reputazione del brand e favorire l'upselling."
+        },
+        {
+          "text": "Permette di vendere prodotti di scarsa qualità a prezzi molto elevati.",
+          "isCorrect": false,
+          "rationale": "Il freemium richiede un prodotto di alta qualità anche nella versione base per convincere l'utente che la versione premium valga l'investimento."
+        }
+      ],
+      "hint": "Pensa a servizi come Spotify o Dropbox: perché ti permettono di usarli gratis all'inizio?"
+    },
+    {
+      "question": "Secondo la Legge di Grosh, se la capacità di elaborazione di un computer aumenta di 4 volte, come varia indicativamente il suo costo?",
+      "answerOptions": [
+        {
+          "text": "Il costo si riduce della metà.",
+          "isCorrect": true,
+          "rationale": "Questa legge economica suggeriva che il costo dei sistemi informatici diminuisse proporzionalmente alla radice quadrata della loro potenza."
+        },
+        {
+          "text": "Il costo quadruplica linearmente.",
+          "isCorrect": false,
+          "rationale": "Questo negherebbe l'esistenza di economie di scala e progresso tecnologico tipici del settore ICT."
+        },
+        {
+          "text": "Il costo rimane costante indipendentemente dalla velocità.",
+          "isCorrect": false,
+          "rationale": "Sebbene i prezzi scendano nel tempo, la legge di Grosh metteva in relazione specifica la potenza con l'investimento necessario."
+        },
+        {
+          "text": "Il costo aumenta esponenzialmente.",
+          "isCorrect": false,
+          "rationale": "L'aumento esponenziale del costo renderebbe la tecnologia inaccessibile alle masse, contrariamente all'andamento storico del digitale."
+        }
+      ],
+      "hint": "Cerca una relazione che spieghi perché la tecnologia diventa più economica mentre diventa più potente."
+    },
+    {
+      "question": "Cosa si intende per 'Consumer Empowerment' nel marketing digitale?",
+      "answerOptions": [
+        {
+          "text": "La maggiore capacità del consumatore di influenzare i brand attraverso la condivisione di informazioni e feedback.",
+          "isCorrect": true,
+          "rationale": "Grazie a internet, i singoli clienti hanno accesso a dati globali e possono condizionare la reputazione aziendale pubblicamente."
+        },
+        {
+          "text": "L'obbligo legale per le aziende di regalare prodotti ai propri follower.",
+          "isCorrect": false,
+          "rationale": "L'empowerment è un fenomeno di potere informativo e relazionale, non una normativa sulla distribuzione gratuita."
+        },
+        {
+          "text": "Il potere delle aziende di tracciare ogni movimento dell'utente tramite i cookie.",
+          "isCorrect": false,
+          "rationale": "Questo riguarda la sorveglianza o il targeting; l'empowerment si riferisce al potere acquisito dal consumatore, non dall'impresa."
+        },
+        {
+          "text": "La trasformazione di ogni cliente in un dipendente dell'azienda a tempo parziale.",
+          "isCorrect": false,
+          "rationale": "Sebbene esista la co-creazione, l'empowerment descrive la posizione di forza del consumatore nel mercato, non il suo ruolo lavorativo."
+        }
+      ],
+      "hint": "Pensa a come una singola recensione negativa su un grande portale possa cambiare le sorti di un'impresa."
+    },
+    {
+      "question": "Nella matrice prodotto-mercato della segmentazione, cosa definisce una strategia di 'Specializzazione di Prodotto'?",
+      "answerOptions": [
+        {
+          "text": "L'azienda produce un unico prodotto che vende a diversi segmenti di clientela.",
+          "isCorrect": true,
+          "rationale": "L'impresa capitalizza sulle proprie competenze produttive specifiche per soddisfare bisogni simili in mercati diversi."
+        },
+        {
+          "text": "L'azienda offre un'ampia gamma di prodotti diversi a un unico segmento specifico.",
+          "isCorrect": false,
+          "rationale": "Questa è definita 'Specializzazione di Mercato', dove il focus è sul cliente e non sull'omogeneità del prodotto."
+        },
+        {
+          "text": "L'azienda decide di coprire tutti i segmenti con tutti i prodotti possibili.",
+          "isCorrect": false,
+          "rationale": "Questo scenario descrive una strategia di 'Copertura Totale', tipica delle grandi multinazionali generaliste."
+        },
+        {
+          "text": "L'azienda si concentra su un solo prodotto per un solo segmento.",
+          "isCorrect": false,
+          "rationale": "Questa è la strategia di 'Concentrazione', il livello massimo di focalizzazione di nicchia."
+        }
+      ],
+      "hint": "Immagina un'azienda che produce solo microscopi di alta qualità e li vende a università, ospedali e industrie."
+    },
+    {
+      "question": "Quale elemento grafico o testuale ha statisticamente il maggior impatto sul tasso di apertura (Open Rate) di una DEM o Newsletter?",
+      "answerOptions": [
+        {
+          "text": "L'oggetto della mail.",
+          "isCorrect": true,
+          "rationale": "È il primo elemento visualizzato nell'inbox e determina se il destinatario riterrà il contenuto rilevante o degno di essere letto."
+        },
+        {
+          "text": "Il numero di immagini presenti nel corpo del testo.",
+          "isCorrect": false,
+          "rationale": "Le immagini influenzano il click-through rate (CTR) all'interno della mail, ma non possono essere viste prima dell'apertura."
+        },
+        {
+          "text": "Il colore dei pulsanti di Call-to-Action (CTA).",
+          "isCorrect": false,
+          "rationale": "Il design dei pulsanti influisce sulla conversione finale, ma richiede che la mail sia già stata aperta."
+        },
+        {
+          "text": "Il footer con i dati aziendali e il link di disiscrizione.",
+          "isCorrect": false,
+          "rationale": "Questi sono elementi legali e di usabilità che raramente incentivano l'apertura proattiva della comunicazione."
+        }
+      ],
+      "hint": "Cosa leggi per primo nel tuo client di posta per decidere se cestinare un messaggio o cliccarci sopra?"
+    },
+    {
+      "question": "Nel contesto del Search Marketing, cosa differenzia sostanzialmente i risultati 'Organici' da quelli 'A Pagamento' (Ads)?",
+      "answerOptions": [
+        {
+          "text": "I risultati organici dipendono dall'algoritmo di rilevanza e utilità, quelli a pagamento da un sistema di aste.",
+          "isCorrect": true,
+          "rationale": "La SEO lavora per meritare il posizionamento tramite contenuti di valore; la SEM acquista visibilità immediata tramite budget pubblicitari."
+        },
+        {
+          "text": "I risultati a pagamento appaiono sempre in fondo alla pagina, sotto i risultati organici.",
+          "isCorrect": false,
+          "rationale": "In genere, gli annunci a pagamento occupano le posizioni più visibili in alto per massimizzare l'esposizione commerciale."
+        },
+        {
+          "text": "Solo i risultati organici possono contenere link a siti esterni.",
+          "isCorrect": false,
+          "rationale": "Entrambe le tipologie di risultati sono basate su link che portano l'utente verso destinazioni web specifiche."
+        },
+        {
+          "text": "I risultati organici sono visibili solo su desktop, quelli a pagamento solo su mobile.",
+          "isCorrect": false,
+          "rationale": "Entrambi sono presenti su tutti i device; Google ottimizza la visualizzazione in base al comportamento dell'utente su ogni schermo."
+        }
+      ],
+      "hint": "Pensa alla differenza tra guadagnarsi la stima di qualcuno e pagare per avere uno spazio pubblicitario sul suo giornale."
+    },
+    {
+      "question": "Qual è le principale obiettivo di una 'Filter Question' (domanda filtro) all'inizio di un'indagine online?",
+      "answerOptions": [
+        {
+          "text": "Escludere i rispondenti che non fanno parte del target o indirizzarli a sezioni specifiche.",
+          "isCorrect": true,
+          "rationale": "Serve a garantire la qualità del campione e ad evitare di porre domande irrilevanti a chi non possiede determinate caratteristiche."
+        },
+        {
+          "text": "Chiedere il consenso per il trattamento dei dati personali (GDPR).",
+          "isCorrect": false,
+          "rationale": "Il consenso è una nota informativa legale obbligatoria, ma non è tecnicamente definita come una 'domanda filtro' metodologica."
+        },
+        {
+          "text": "Raccogliere dati socio-demografici come età e sesso.",
+          "isCorrect": false,
+          "rationale": "Queste sono domande di profilazione che solitamente vengono poste alla fine per non stancare l'utente prima del tempo."
+        },
+        {
+          "text": "Misurare la velocità di connessione internet del partecipante.",
+          "isCorrect": false,
+          "rationale": "La velocità di connessione è un dato tecnico non raccolto tramite domande dirette al rispondente."
+        }
+      ],
+      "hint": "Cosa faresti se dovessi intervistare solo possessori di cani in un centro commerciale pieno di gente?"
+    },
+    {
+      "question": "In una strategia di Content Marketing, cos'è un 'Content Pillar'?",
+      "answerOptions": [
+        {
+          "text": "Un contenuto lungo e approfondito da cui derivano numerosi contenuti più piccoli e specifici.",
+          "isCorrect": true,
+          "rationale": "Funziona come base tematica (es. una guida completa) per creare post social, infografiche o articoli di blog correlati."
+        },
+        {
+          "text": "Un banner pubblicitario di grandi dimensioni posto nella barra laterale di un sito.",
+          "isCorrect": false,
+          "rationale": "Questo è un formato pubblicitario (display ad) e non ha nulla a che fare con la struttura strategica dei contenuti."
+        },
+        {
+          "text": "L'unico post dell'anno che riceve il maggior numero di 'like' sui social media.",
+          "isCorrect": false,
+          "rationale": "Quello sarebbe un contenuto virale; il 'pillar' riguarda la struttura e la pianificazione editoriale, non necessariamente la viralità estemporanea."
+        },
+        {
+          "text": "Un sistema di protezione dei dati che impedisce la copia dei testi aziendali.",
+          "isCorrect": false,
+          "rationale": "Questo riguarda il diritto d'autore o la sicurezza informatica (DRM), non la strategia di marketing."
+        }
+      ],
+      "hint": "Immagina un tronco d'albero robusto da cui partono tanti rami più sottili."
+    },
+    {
+      "question": "Che cosa si intende per 'Economia Digitale Reticolare'?",
+      "answerOptions": [
+        {
+          "text": "Un sistema basato su connessioni multi-direzionali tra imprese, clienti e altri stakeholder.",
+          "isCorrect": true,
+          "rationale": "Il digitale rompe la gerarchia top-down favorendo flussi di comunicazione paritari e collaborativi in una struttura a rete."
+        },
+        {
+          "text": "Un mercato dominato esclusivamente da un'unica grande azienda di telecomunicazioni.",
+          "isCorrect": false,
+          "rationale": "Questo descriverebbe un monopolio, l'opposto della natura decentralizzata e distribuita delle reti digitali."
+        },
+        {
+          "text": "Un tipo di commercio che utilizza solo monete d'oro fisiche per le transazioni.",
+          "isCorrect": false,
+          "rationale": "L'economia digitale si basa su transazioni virtuali e flussi informativi dematerializzati."
+        },
+        {
+          "text": "L'uso di reti da pesca dotate di sensori IoT per monitorare l'oceano.",
+          "isCorrect": false,
+          "rationale": "Sebbene sia un'applicazione tecnologica, il termine 'reticolare' in economia si riferisce alla struttura delle relazioni di mercato."
+        }
+      ],
+      "hint": "Pensa alla struttura di Internet: è un unico centro o un insieme di punti tutti collegati tra loro?"
+    }
+  ]
+}

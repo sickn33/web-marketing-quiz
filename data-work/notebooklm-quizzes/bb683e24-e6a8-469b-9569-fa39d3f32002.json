@@ -1,0 +1,785 @@
+{
+  "title": "Marketing Quiz",
+  "questions": [
+    {
+      "question": "Qual è la principale differenza tra 'Digitalizzazione' e 'Trasformazione Digitale' secondo il materiale fornito?",
+      "answerOptions": [
+        {
+          "text": "La digitalizzazione riguarda la conversione di formati, mentre la trasformazione digitale è un cambiamento strategico e culturale.",
+          "isCorrect": true,
+          "rationale": "Il primo termine si riferisce alla pura conversione di documenti o informazioni in bit, mentre il secondo ridefinisce il modello di business e il modo in cui l'azienda genera valore."
+        },
+        {
+          "text": "La trasformazione digitale riguarda solo l'uso dei social media, mentre la digitalizzazione riguarda i processi interni.",
+          "isCorrect": false,
+          "rationale": "Questo limita eccessivamente il concetto di trasformazione digitale, che coinvolge l'intera strategia aziendale e non solo i canali di comunicazione."
+        },
+        {
+          "text": "Non c'è differenza, sono termini sinonimi utilizzati in contesti diversi.",
+          "isCorrect": false,
+          "rationale": "Le definizioni fornite distinguono chiaramente tra la conversione di dati, l'ottimizzazione dei processi e il cambiamento culturale strategico."
+        },
+        {
+          "text": "La digitalizzazione è un processo culturale, mentre la trasformazione digitale è puramente tecnica.",
+          "isCorrect": false,
+          "rationale": "In realtà è l'opposto: la digitalizzazione è l'atto tecnico di conversione, mentre la trasformazione è l'evoluzione culturale e strategica."
+        }
+      ],
+      "hint": "Pensa a quale dei due concetti implica un cambiamento profondo nel modello di business."
+    },
+    {
+      "question": "In base alla Legge di Metcalfe, se una rete raddoppia il numero dei suoi utenti ($n$), come cambia l'utilità ($Ui$) per l'utente?",
+      "answerOptions": [
+        {
+          "text": "L'utilità cresce in modo quadratico rispetto al numero di utenti.",
+          "isCorrect": true,
+          "rationale": "La legge afferma che l'utilità è proporzionale al quadrato del numero di nodi della rete, espresso dalla formula $Ui = n(n-1) \\approx n^2$."
+        },
+        {
+          "text": "L'utilità cresce linearmente con il numero di utenti.",
+          "isCorrect": false,
+          "rationale": "Una crescita lineare non terrebbe conto del valore aggiunto dalle interconnessioni tra tutti i membri della rete."
+        },
+        {
+          "text": "L'utilità diminuisce a causa della saturazione della rete.",
+          "isCorrect": false,
+          "rationale": "Al contrario, le tecnologie di rete traggono valore dall'effetto di rete, dove ogni nuovo utente aumenta il valore per gli altri."
+        },
+        {
+          "text": "L'utilità rimane costante per l'utente individuale.",
+          "isCorrect": false,
+          "rationale": "L'utilità di una rete dipende intrinsecamente dalla capacità di interagire con altri nodi, quindi non può restare costante all'aumentare degli utenti."
+        }
+      ],
+      "hint": "Ricorda la formula matematica $Ui \\approx n^2$."
+    },
+    {
+      "question": "Secondo la Legge di Moore, cosa accade ogni 18 mesi nel settore tecnologico?",
+      "answerOptions": [
+        {
+          "text": "Il numero di transistor in un chip raddoppia a parità di costo.",
+          "isCorrect": true,
+          "rationale": "Questa osservazione empirica di Moore descrive il ritmo esponenziale dell'innovazione nell'hardware dei microprocessori."
+        },
+        {
+          "text": "Il costo dei computer raddoppia a causa della complessità dei transistor.",
+          "isCorrect": false,
+          "rationale": "L'osservazione di Moore evidenzia che la potenza aumenta mentre il costo relativo rimane stabile o diminuisce."
+        },
+        {
+          "text": "La velocità di elaborazione quadruplica mentre il costo si dimezza.",
+          "isCorrect": false,
+          "rationale": "Questa descrizione si avvicina di più alla Legge di Grosh piuttosto che a quella di Moore."
+        },
+        {
+          "text": "Il numero di utenti di internet raddoppia globalmente.",
+          "isCorrect": false,
+          "rationale": "La Legge di Moore si concentra sull'hardware e sulla densità dei componenti elettronici, non sulla demografia degli utenti."
+        }
+      ],
+      "hint": "Focalizzati sull'unità fondamentale dei microprocessori e sulla frequenza temporale indicata."
+    },
+    {
+      "question": "Quale delle seguenti fasi del Marketing Management si occupa di definire il targeting e il positioning?",
+      "answerOptions": [
+        {
+          "text": "Fase Strategica",
+          "isCorrect": true,
+          "rationale": "In questa fase si prendono decisioni su quali segmenti servire e come posizionare il brand nella mente del consumatore."
+        },
+        {
+          "text": "Fase Analitica",
+          "isCorrect": false,
+          "rationale": "Questa fase precede la strategia e si concentra sulla ricerca di mercato e sulla raccolta di dati."
+        },
+        {
+          "text": "Fase Operativa",
+          "isCorrect": false,
+          "rationale": "La fase operativa (le 4P) mette in atto le decisioni prese durante la fase strategica."
+        },
+        {
+          "text": "Fase di Feedback",
+          "isCorrect": false,
+          "rationale": "Il feedback avviene dopo l'implementazione operativa per valutare i risultati e non per definire il targeting iniziale."
+        }
+      ],
+      "hint": "È la fase che sta 'nel mezzo' tra l'analisi dei dati e l'esecuzione delle campagne."
+    },
+    {
+      "question": "Nell'evoluzione del marketing, qual è l'obiettivo principale del Marketing 1.0?",
+      "answerOptions": [
+        {
+          "text": "Vendere prodotti (Product-centric).",
+          "isCorrect": true,
+          "rationale": "Il Marketing 1.0 era focalizzato sulla standardizzazione e sulla produzione di massa, tipico dell'era industriale."
+        },
+        {
+          "text": "Soddisfare e trattenere il consumatore (Customer-oriented).",
+          "isCorrect": false,
+          "rationale": "Questo è l'obiettivo del Marketing 2.0, dove le aziende iniziano a differenziare l'offerta."
+        },
+        {
+          "text": "Rendere il mondo un posto migliore (Value-driven).",
+          "isCorrect": false,
+          "rationale": "Questo approccio basato sui valori e sull'essere umano integrale appartiene al Marketing 3.0."
+        },
+        {
+          "text": "Creare esperienze immersive.",
+          "isCorrect": false,
+          "rationale": "Le esperienze immersive sono un concetto chiave del Marketing 6.0."
+        }
+      ],
+      "hint": "Pensa alla mentalità tipica della catena di montaggio e della rivoluzione industriale."
+    },
+    {
+      "question": "Nella piramide dei bisogni di Maslow adattata all'era digitale, cosa si trova alla base come prerequisito fondamentale?",
+      "answerOptions": [
+        {
+          "text": "Connectivity (Wi-Fi, 4G/5G).",
+          "isCorrect": true,
+          "rationale": "Senza una connessione a internet, molti degli altri bisogni digitali superiori non possono essere soddisfatti."
+        },
+        {
+          "text": "Self-Expression.",
+          "isCorrect": false,
+          "rationale": "L'auto-espressione è considerata un bisogno di livello superiore, simile all'autorealizzazione."
+        },
+        {
+          "text": "Sociability.",
+          "isCorrect": false,
+          "rationale": "La socialità richiede prima una connessione stabile e la mobilità per essere esercitata costantemente."
+        },
+        {
+          "text": "Content.",
+          "isCorrect": false,
+          "rationale": "I contenuti sono lo strumento per soddisfare bisogni di stima o informazione, ma non sono la base infrastrutturale."
+        }
+      ],
+      "hint": "Considera cosa cerchi disperatamente quando arrivi in un hotel o in un bar per usare il tuo smartphone."
+    },
+    {
+      "question": "Cosa si intende per 'Pure Sharing' nel contesto della sharing economy?",
+      "answerOptions": [
+        {
+          "text": "Scambio di beni tra privati in modo gratuito o senza scopo di lucro.",
+          "isCorrect": true,
+          "rationale": "Il modello 'pure' si distingue per l'assenza di una transazione commerciale orientata al profitto, come nello scambio di vestiti tra amici."
+        },
+        {
+          "text": "Noleggio di un'auto tramite una piattaforma professionale a pagamento.",
+          "isCorrect": false,
+          "rationale": "Questo è un servizio commerciale di sharing che prevede una transazione monetaria per l'uso."
+        },
+        {
+          "text": "Acquisto collettivo di beni per ottenere uno sconto.",
+          "isCorrect": false,
+          "rationale": "L'acquisto collettivo riguarda la proprietà, mentre lo sharing riguarda l'accesso e l'uso condiviso."
+        },
+        {
+          "text": "Abbonamento mensile a un servizio di streaming musicale.",
+          "isCorrect": false,
+          "rationale": "Lo streaming è un modello di accesso a un catalogo centralizzato, non necessariamente una condivisione tra pari (P2P)."
+        }
+      ],
+      "hint": "Focus sulla parola 'Pure' come sinonimo di assenza di profitto."
+    },
+    {
+      "question": "Quale tra questi è un esempio di 'Digitalizzazione dei processi' applicato all'industria musicale?",
+      "answerOptions": [
+        {
+          "text": "Vendere musica online tramite piattaforme come iTunes.",
+          "isCorrect": true,
+          "rationale": "L'uso di un e-commerce per distribuire musica sostituisce il processo di vendita in un negozio fisico, ottimizzandolo tramite il digitale."
+        },
+        {
+          "text": "Convertire i file audio da CD a formato MP3.",
+          "isCorrect": false,
+          "rationale": "Questa è una semplice digitalizzazione (conversione di formato), non un'ottimizzazione di un processo aziendale."
+        },
+        {
+          "text": "Creare un modello di business basato esclusivamente sullo streaming illimitato.",
+          "isCorrect": false,
+          "rationale": "Lo streaming rappresenta una trasformazione digitale completa che cambia il modo di generare valore."
+        },
+        {
+          "text": "Registrare un album in uno studio analogico.",
+          "isCorrect": false,
+          "rationale": "Questa è un'attività tradizionale che non coinvolge l'automazione o l'ottimizzazione digitale dei processi di vendita o gestione."
+        }
+      ],
+      "hint": "Pensa al passaggio dal negozio fisico alla vendita digitale di singoli brani."
+    },
+    {
+      "question": "Qual è la caratteristica distintiva dei dati digitali rispetto a quelli analogici?",
+      "answerOptions": [
+        {
+          "text": "Sono discreti e codificati in stringhe binarie di 0 e 1.",
+          "isCorrect": true,
+          "rationale": "Il termine digitale deriva dalla natura discontinua dei dati, che cambiano 'a scatti' tra stati definiti."
+        },
+        {
+          "text": "Sono continui e variano fluidamente nel tempo.",
+          "isCorrect": false,
+          "rationale": "Questa è la definizione di dati analogici, come i solchi di un disco in vinile."
+        },
+        {
+          "text": "Non possono essere compressi o archiviati elettronicamente.",
+          "isCorrect": false,
+          "rationale": "I dati digitali sono proprio quelli che si prestano meglio alla compressione e all'archiviazione efficiente."
+        },
+        {
+          "text": "Richiedono necessariamente un supporto fisico meccanico per la lettura.",
+          "isCorrect": false,
+          "rationale": "Al contrario dei dati analogici (come le cassette), i dati digitali sono svincolati dal supporto fisico specifico."
+        }
+      ],
+      "hint": "Pensa al linguaggio fondamentale dei computer."
+    },
+    {
+      "question": "Un 'Business Model' efficace deve rispondere a tre domande fondamentali. Quale tra queste NON è una di esse?",
+      "answerOptions": [
+        {
+          "text": "Quali sono le tecnologie specifiche brevettate dall'azienda?",
+          "isCorrect": true,
+          "rationale": "Sebbene importanti, i brevetti sono dettagli tecnici; il Business Model si focalizza su logiche di valore, clienti e sostenibilità."
+        },
+        {
+          "text": "Chi è il cliente?",
+          "isCorrect": false,
+          "rationale": "Identificare il target è il primo pilastro fondamentale per definire a chi è rivolto il valore."
+        },
+        {
+          "text": "Quale valore poter creare o aggiungere per il cliente?",
+          "isCorrect": false,
+          "rationale": "La proposta di valore è l'elemento centrale che giustifica l'esistenza dell'azienda sul mercato."
+        },
+        {
+          "text": "Come è possibile farlo in modo sostenibile e profittevole?",
+          "isCorrect": false,
+          "rationale": "Questa domanda riguarda la logica economica e la sopravvivenza a lungo termine dell'impresa."
+        }
+      ],
+      "hint": "Cerca l'opzione che si concentra più su un dettaglio tecnico che sulla logica di business generale."
+    },
+    {
+      "question": "Quanti bit compongono un singolo Byte?",
+      "answerOptions": [
+        {
+          "text": "8",
+          "isCorrect": true,
+          "rationale": "Un byte è convenzionalmente definito come una serie di 8 bit, l'unità minima di informazione moltiplicata per otto."
+        },
+        {
+          "text": "2",
+          "isCorrect": false,
+          "rationale": "Due bit permettono solo 4 combinazioni, insufficienti per formare un byte standard."
+        },
+        {
+          "text": "16",
+          "isCorrect": false,
+          "rationale": "Sedici bit compongono solitamente una 'word' in architetture specifiche, ma non definiscono il byte di base."
+        },
+        {
+          "text": "10",
+          "isCorrect": false,
+          "rationale": "Il sistema digitale è binario (base 2), non decimale (base 10)."
+        }
+      ],
+      "hint": "È un numero di potenza di 2 molto comune nell'informatica di base."
+    },
+    {
+      "question": "Cosa si intende per 'Effetto di rete indiretto'?",
+      "answerOptions": [
+        {
+          "text": "L'aumento del valore di un prodotto dovuto alla crescita della varietà di beni complementari disponibili.",
+          "isCorrect": true,
+          "rationale": "Un esempio è il lettore DVD che vale di più se ci sono più film (beni complementari) sul mercato."
+        },
+        {
+          "text": "L'aumento dell'utilità di un telefono quando più amici acquistano lo stesso modello.",
+          "isCorrect": false,
+          "rationale": "Questo è un effetto di rete diretto, poiché il valore deriva direttamente dall'interazione tra utenti dello stesso bene."
+        },
+        {
+          "text": "La diminuzione dei costi di produzione all'aumentare del numero di utenti.",
+          "isCorrect": false,
+          "rationale": "Questa è un'economia di scala produttiva, non un effetto di rete lato domanda."
+        },
+        {
+          "text": "L'influenza che la pubblicità ha sulla percezione del brand.",
+          "isCorrect": false,
+          "rationale": "L'effetto di rete riguarda l'utilità strutturale della tecnologia, non la comunicazione di marketing."
+        }
+      ],
+      "hint": "Pensa alla relazione tra un hardware e i contenuti (software) che può ospitare."
+    },
+    {
+      "question": "Nell'analisi SWOT, in quale categoria rientrano le 'Minacce' (Threats)?",
+      "answerOptions": [
+        {
+          "text": "Fattori esterni negativi.",
+          "isCorrect": true,
+          "rationale": "Le minacce provengono dall'ambiente di riferimento (concorrenza, leggi, mercato) e l'obiettivo è ridurne l'impatto."
+        },
+        {
+          "text": "Fattori interni negativi.",
+          "isCorrect": false,
+          "rationale": "I punti di debolezza (Weaknesses) sono i fattori negativi che risiedono all'interno dell'organizzazione."
+        },
+        {
+          "text": "Fattori interni positivi.",
+          "isCorrect": false,
+          "rationale": "I punti di forza (Strengths) sono le risorse interne che danno un vantaggio competitivo."
+        },
+        {
+          "text": "Fattori esterni positivi.",
+          "isCorrect": false,
+          "rationale": "Le opportunità (Opportunities) sono elementi esterni che l'azienda può sfruttare a proprio favore."
+        }
+      ],
+      "hint": "Considera se il pericolo arriva da dentro l'ufficio o dal mercato fuori."
+    },
+    {
+      "question": "Qual è il focus del Marketing 4.0 secondo Philip Kotler?",
+      "answerOptions": [
+        {
+          "text": "La convergenza tra mondo offline e mondo online.",
+          "isCorrect": true,
+          "rationale": "Il Marketing 4.0 segna il passaggio dal tradizionale al digitale, integrando i due mondi nella 'New Customer Experience'."
+        },
+        {
+          "text": "Il passaggio dal marketing di massa alla produzione artigianale.",
+          "isCorrect": false,
+          "rationale": "Il focus è tecnologico e relazionale (digitale), non un ritorno all'artigianato pre-industriale."
+        },
+        {
+          "text": "L'uso esclusivo dell'Intelligenza Artificiale per sostituire l'uomo.",
+          "isCorrect": false,
+          "rationale": "L'IA come 'tecnologia per l'umanità' è un tema più centrale nel Marketing 5.0."
+        },
+        {
+          "text": "La creazione di prodotti indistruttibili a basso costo.",
+          "isCorrect": false,
+          "rationale": "Il marketing moderno si sposta dal prodotto (1.0) all'esperienza e ai valori."
+        }
+      ],
+      "hint": "Pensa all'unione dei canali fisici e digitali."
+    },
+    {
+      "question": "Nella fase strategica del marketing, cosa si intende per 'Posizionamento' (Positioning)?",
+      "answerOptions": [
+        {
+          "text": "Definire come il prodotto si colloca nella mente dei consumatori rispetto ai concorrenti.",
+          "isCorrect": true,
+          "rationale": "Il posizionamento agisce sulla percezione del brand per differenziarsi nell'arena competitiva."
+        },
+        {
+          "text": "Scegliere la posizione fisica dei prodotti sugli scaffali dei supermercati.",
+          "isCorrect": false,
+          "rationale": "Questa è una tattica di 'trade marketing' o 'merchandising', non il posizionamento strategico del brand."
+        },
+        {
+          "text": "Identificare gruppi omogenei di individui nel mercato.",
+          "isCorrect": false,
+          "rationale": "Questa attività corrisponde alla 'Segmentazione'."
+        },
+        {
+          "text": "Decidere quali canali logistici utilizzare per la distribuzione.",
+          "isCorrect": false,
+          "rationale": "La distribuzione (Place) fa parte della fase operativa (Marketing Mix), non della definizione del posizionamento mentale."
+        }
+      ],
+      "hint": "Riguarda lo 'spazio' che il marchio occupa nei pensieri del cliente."
+    },
+    {
+      "question": "Cos'è un 'Persona' (o Archetipo) nella mappatura della Customer Journey?",
+      "answerOptions": [
+        {
+          "text": "Un modello idealizzato che rappresenta un segmento specifico di utenti reali con bisogni e motivazioni simili.",
+          "isCorrect": true,
+          "rationale": "Le personas aiutano a umanizzare i dati e a progettare esperienze su misura per i diversi tipi di clienti."
+        },
+        {
+          "text": "Un dipendente dell'azienda incaricato di testare il sito web.",
+          "isCorrect": false,
+          "rationale": "Le personas sono rappresentazioni dei clienti esterni, non test interni dei dipendenti."
+        },
+        {
+          "text": "Un software di intelligenza artificiale che risponde ai clienti.",
+          "isCorrect": false,
+          "rationale": "Questo sarebbe un 'chatbot' o un assistente virtuale, non un archetipo di marketing."
+        },
+        {
+          "text": "L'elenco completo di tutti i clienti presenti nel database aziendale.",
+          "isCorrect": false,
+          "rationale": "L'elenco dei clienti è un CRM; le personas sono modelli sintetici per scopi strategici."
+        }
+      ],
+      "hint": "Pensa a un 'identikit' fittizio ma basato sulla realtà."
+    },
+    {
+      "question": "Cosa caratterizza il modello di 'Collaborative Customer Care' nel marketing moderno?",
+      "answerOptions": [
+        {
+          "text": "Il cliente è considerato un partner paritario e si punta a un dialogo autentico.",
+          "isCorrect": true,
+          "rationale": "Si passa da un modello gerarchico ('il cliente è re') a uno partecipativo basato sulla collaborazione."
+        },
+        {
+          "text": "L'azienda ignora i reclami dei clienti per ridurre i costi.",
+          "isCorrect": false,
+          "rationale": "Questo sarebbe l'opposto del customer care e danneggerebbe gravemente il brand."
+        },
+        {
+          "text": "Il servizio è affidato esclusivamente a robot senza intervento umano.",
+          "isCorrect": false,
+          "rationale": "Sebbene l'automazione esista, il concetto di 'collaborazione' implica una relazione evoluta, non necessariamente solo robotica."
+        },
+        {
+          "text": "Il cliente deve pagare un supplemento per parlare con un operatore.",
+          "isCorrect": false,
+          "rationale": "Le barriere economiche al servizio non favoriscono la collaborazione o il dialogo autentico richiesto dal modello."
+        }
+      ],
+      "hint": "Pensa al passaggio da 'il cliente ha sempre ragione' a 'lavoriamo insieme'."
+    },
+    {
+      "question": "Cosa si intende per 'WANT' (Desiderio) nel processo di soddisfazione dei bisogni?",
+      "answerOptions": [
+        {
+          "text": "La forma specifica che un bisogno umano assume in base alla cultura e alla personalità individuale.",
+          "isCorrect": true,
+          "rationale": "Mentre il bisogno è uno stato di privazione generico (fame), il desiderio è l'oggetto specifico che lo soddisfa (un sushi)."
+        },
+        {
+          "text": "Uno stato di privazione fisica oggettiva e universale.",
+          "isCorrect": false,
+          "rationale": "Questa è la definizione di 'Need' (Bisogno), come la necessità di bere o dormire."
+        },
+        {
+          "text": "Il fattore economico che permette l'acquisto del prodotto.",
+          "isCorrect": false,
+          "rationale": "Il potere d'acquisto trasforma un desiderio in 'Demand' (Domanda), non definisce il desiderio stesso."
+        },
+        {
+          "text": "Il servizio post-vendita offerto dall'azienda.",
+          "isCorrect": false,
+          "rationale": "Il post-vendita è una componente dell'offerta di marketing, non una categoria di bisogno umano."
+        }
+      ],
+      "hint": "Pensa a come la tua voglia di mangiare si trasforma in un piatto specifico a seconda di dove vivi."
+    },
+    {
+      "question": "Qual è il concetto chiave del Marketing 5.0?",
+      "answerOptions": [
+        {
+          "text": "L'applicazione delle 'Next Tech' per creare valore lungo tutta la Customer Journey.",
+          "isCorrect": true,
+          "rationale": "Il Marketing 5.0 integra tecnologie avanzate (come l'IA o il marketing predittivo) mantenendo un approccio 'human-centric'."
+        },
+        {
+          "text": "Il ritorno all'uso esclusivo di canali cartacei e analogici.",
+          "isCorrect": false,
+          "rationale": "Il Marketing 5.0 è profondamente radicato nel mondo digitale e tecnologico."
+        },
+        {
+          "text": "La focalizzazione esclusiva sul prezzo più basso possibile.",
+          "isCorrect": false,
+          "rationale": "La strategia di prezzo è solo una parte; il 5.0 mira all'esperienza tecnologica per l'umanità."
+        },
+        {
+          "text": "L'eliminazione definitiva di ogni forma di pubblicità.",
+          "isCorrect": false,
+          "rationale": "Il marketing continua a comunicare, ma lo fa in modi più intelligenti e basati sui dati."
+        }
+      ],
+      "hint": "Cerca la risposta che menziona l'uso di tecnologie all'avanguardia per l'uomo."
+    },
+    {
+      "question": "Quale delle seguenti è una 'Piattaforma Digitale' e NON un 'Device Digitale'?",
+      "answerOptions": [
+        {
+          "text": "Social Network",
+          "isCorrect": true,
+          "rationale": "Le piattaforme sono gli ambienti software (come il Web o i Social) dove avvengono le interazioni, non l'oggetto fisico."
+        },
+        {
+          "text": "Smartphone",
+          "isCorrect": false,
+          "rationale": "Lo smartphone è un hardware fisico, ovvero un 'device' o dispositivo."
+        },
+        {
+          "text": "Tablet",
+          "isCorrect": false,
+          "rationale": "Il tablet è uno strumento fisico di accesso, classificato come dispositivo."
+        },
+        {
+          "text": "Laptop",
+          "isCorrect": false,
+          "rationale": "Anche il laptop è un pezzo di hardware, quindi un dispositivo digitale."
+        }
+      ],
+      "hint": "Pensa a quale opzione rappresenta un 'luogo virtuale' piuttosto che un oggetto da tenere in mano."
+    },
+    {
+      "question": "Nella matrice del 'Business as a Force for Good', cosa distingue il 'Brand Activism' dalla CSR?",
+      "answerOptions": [
+        {
+          "text": "Il Brand Activism punta alla 'giustizia' e ha un alto impatto esterno, la CSR punta a essere un 'buon cittadino'.",
+          "isCorrect": true,
+          "rationale": "L'attivismo di marca assume posizioni forti su temi sociali e politici, andando oltre la semplice responsabilità sociale d'impresa."
+        },
+        {
+          "text": "Il Brand Activism è solo per le piccole aziende, la CSR per le multinazionali.",
+          "isCorrect": false,
+          "rationale": "Entrambe le strategie possono essere adottate da aziende di qualsiasi dimensione."
+        },
+        {
+          "text": "La CSR è illegale in molti paesi, mentre l'attivismo è obbligatorio.",
+          "isCorrect": false,
+          "rationale": "Entrambi sono approcci volontari e perfettamente legali alla gestione dell'impatto aziendale."
+        },
+        {
+          "text": "Non c'è differenza, sono solo modi diversi di chiamare la beneficenza.",
+          "isCorrect": false,
+          "rationale": "La matrice mostra chiaramente che differiscono per l'intensità dell'impatto interno ed esterno e per il focus (advocacy vs mission)."
+        }
+      ],
+      "hint": "Pensa a quale approccio è più orientato a cambiare il mondo attivamente."
+    },
+    {
+      "question": "Secondo la mappatura del settore Automotive presentata nel materiale, quali sono i due assi principali del posizionamento?",
+      "answerOptions": [
+        {
+          "text": "Prezzo (Basso/Alto) e Brand Image (Trendy/Classic).",
+          "isCorrect": true,
+          "rationale": "Questi assi permettono di visualizzare come marchi come Ferrari o Fiat vengono percepiti rispetto al lusso e allo stile."
+        },
+        {
+          "text": "Velocità massima e Consumo di carburante.",
+          "isCorrect": false,
+          "rationale": "Queste sono specifiche tecniche, non gli assi strategici usati per la mappa di posizionamento psicologico."
+        },
+        {
+          "text": "Numero di sedili e Colore della carrozzeria.",
+          "isCorrect": false,
+          "rationale": "Queste sono caratteristiche del prodotto che non definiscono il posizionamento strategico del brand nel mercato."
+        },
+        {
+          "text": "Paese di origine e Anno di fondazione.",
+          "isCorrect": false,
+          "rationale": "Sebbene possano influenzare l'immagine, non sono gli assi di confronto immediato tra valore e stile scelti per la mappa."
+        }
+      ],
+      "hint": "Cerca le dimensioni che riguardano il portafoglio e l'identità del marchio."
+    },
+    {
+      "question": "Nella fase di 'Pre-acquisto' della Customer Journey, cosa accade tipicamente?",
+      "answerOptions": [
+        {
+          "text": "Il cliente riconosce un bisogno e cerca informazioni per valutare le alternative.",
+          "isCorrect": true,
+          "rationale": "Questa fase copre tutto ciò che precede la transazione, dall'impulso iniziale alla considerazione del brand."
+        },
+        {
+          "text": "Il cliente effettua il pagamento tramite carta di credito.",
+          "isCorrect": false,
+          "rationale": "Il pagamento è l'atto centrale della fase di 'Acquisto' (Purchase)."
+        },
+        {
+          "text": "L'azienda invia una richiesta di feedback dopo l'uso del prodotto.",
+          "isCorrect": false,
+          "rationale": "Questa attività appartiene alla fase di post-acquisto o esperienza post-vendita."
+        },
+        {
+          "text": "Il cliente riceve il pacco a casa dal corriere.",
+          "isCorrect": false,
+          "rationale": "La consegna e l'uso del prodotto avvengono dopo che la fase di acquisto si è conclusa."
+        }
+      ],
+      "hint": "È tutto ciò che succede prima di cliccare su 'Compra ora'."
+    },
+    {
+      "question": "Quale di queste definizioni corrisponde a un 'Digital Business Model'?",
+      "answerOptions": [
+        {
+          "text": "Un modello che utilizza le tecnologie digitali per ottimizzare processi e relazioni con clienti e partner.",
+          "isCorrect": true,
+          "rationale": "Sfrutta il digitale non solo come strumento tecnico, ma come logica organizzativa e di creazione del valore."
+        },
+        {
+          "text": "Un'azienda che produce esclusivamente hardware come cavi e caricatori.",
+          "isCorrect": false,
+          "rationale": "Produrre hardware non implica necessariamente avere un modello di business 'digital'; potrebbe essere un modello industriale tradizionale."
+        },
+        {
+          "text": "Un ufficio che ha rimosso la carta ma continua a lavorare come negli anni '90.",
+          "isCorrect": false,
+          "rationale": "Questa è una digitalizzazione parziale dei supporti, non un ripensamento del modello di business."
+        },
+        {
+          "text": "Qualsiasi azienda che possiede un profilo Instagram.",
+          "isCorrect": false,
+          "rationale": "Avere un profilo social è un'attività di comunicazione, non definisce l'intera logica di business dell'azienda."
+        }
+      ],
+      "hint": "Cerca la risposta che parla di organizzazione e valore tramite la tecnologia."
+    },
+    {
+      "question": "Cosa afferma la Legge di Grosh riguardo ai costi dei computer?",
+      "answerOptions": [
+        {
+          "text": "Se la velocità di elaborazione aumenta di 4 volte, il costo del computer si dimezza.",
+          "isCorrect": true,
+          "rationale": "Questa legge mette in relazione l'aumento della produttività hardware con la drastica riduzione dei costi."
+        },
+        {
+          "text": "L'utilità di un computer è pari al numero dei suoi componenti interni.",
+          "isCorrect": false,
+          "rationale": "Questa sembra una variazione errata della Legge di Metcalfe, che parla di utenti della rete."
+        },
+        {
+          "text": "Il costo di un computer aumenta linearmente con la sua memoria RAM.",
+          "isCorrect": false,
+          "rationale": "La Legge di Grosh sottolinea proprio il contrario: l'efficienza economica migliora all'aumentare delle prestazioni."
+        },
+        {
+          "text": "I computer diventano obsoleti esattamente ogni 2 anni.",
+          "isCorrect": false,
+          "rationale": "Sebbene l'obsolescenza sia rapida, la Legge di Grosh si focalizza sul rapporto tra capacità di calcolo e costo."
+        }
+      ],
+      "hint": "Focalizzati sulla relazione numerica tra '4 volte la velocità' e 'costo'."
+    },
+    {
+      "question": "Nella fase 'TOFU' (Top of the Funnel), quale tipo di contenuto è più appropriato?",
+      "answerOptions": [
+        {
+          "text": "Guida introduttiva gratuita o contenuti informativi generici.",
+          "isCorrect": true,
+          "rationale": "In questa fase il potenziale cliente sta cercando risposte e consapevolezza, non è ancora pronto per un'offerta commerciale aggressiva."
+        },
+        {
+          "text": "Contratto finale di vendita pronto per la firma.",
+          "isCorrect": false,
+          "rationale": "Questo sarebbe un contenuto da 'fondo del funnel' (BOFU), quando il cliente è già convinto dell'acquisto."
+        },
+        {
+          "text": "Richiesta di preventivo dettagliato.",
+          "isCorrect": false,
+          "rationale": "Il preventivo si colloca solitamente nella fase di valutazione (MOFU), dopo che il cliente ha già scremato le opzioni."
+        },
+        {
+          "text": "Sconto del 50% valido solo per i prossimi 10 minuti.",
+          "isCorrect": false,
+          "rationale": "Le tattiche di scarsità e vendita diretta sono poco efficaci con chi ha appena scoperto il proprio bisogno."
+        }
+      ],
+      "hint": "Pensa a contenuti che servono a educare il cliente che ha appena scoperto un problema o un interesse."
+    },
+    {
+      "question": "Secondo le slide su 'Com’è cambiata la musica', Spotify rappresenta:",
+      "answerOptions": [
+        {
+          "text": "La Trasformazione Digitale (cambio del modello di business in streaming).",
+          "isCorrect": true,
+          "rationale": "Spotify non vende più singoli 'file', ma offre l'accesso a un servizio, trasformando radicalmente il consumo musicale."
+        },
+        {
+          "text": "La semplice Digitalizzazione dei documenti musicali.",
+          "isCorrect": false,
+          "rationale": "La digitalizzazione pura sarebbe solo la creazione dei file audio, non l'intera piattaforma di streaming."
+        },
+        {
+          "text": "Un modello di business puramente analogico.",
+          "isCorrect": false,
+          "rationale": "Spotify è un servizio nativo digitale e non potrebbe esistere in un contesto analogico."
+        },
+        {
+          "text": "Un esempio di insostenibilità economica nel marketing 1.0.",
+          "isCorrect": false,
+          "rationale": "Spotify è un esempio di evoluzione verso i modelli digitali moderni, ben oltre l'era 1.0."
+        }
+      ],
+      "hint": "È lo stadio finale dell'evoluzione citata, quello che ha cambiato le regole del gioco."
+    },
+    {
+      "question": "Cosa si intende per 'Lead Generation'?",
+      "answerOptions": [
+        {
+          "text": "Un'attività volta a generare una lista di potenziali clienti interessati.",
+          "isCorrect": true,
+          "rationale": "L'obiettivo è raccogliere contatti qualificati che abbiano mostrato interesse per l'offerta aziendale."
+        },
+        {
+          "text": "La produzione automatizzata di prodotti fisici tramite robot.",
+          "isCorrect": false,
+          "rationale": "Questa è automazione industriale, non ha a che fare con la generazione di contatti commerciali."
+        },
+        {
+          "text": "La chiusura definitiva di una trattativa di vendita.",
+          "isCorrect": false,
+          "rationale": "La chiusura (closing) è la fase finale; la lead generation è l'inizio del processo di acquisizione."
+        },
+        {
+          "text": "Lo smaltimento dei prodotti elettronici obsoleti.",
+          "isCorrect": false,
+          "rationale": "Questo riguarda la logistica di ritorno o la sostenibilità ambientale, non il marketing di acquisizione."
+        }
+      ],
+      "hint": "Pensa alla raccolta di email o numeri di telefono di persone curiose dei tuoi servizi."
+    },
+    {
+      "question": "Quale caratteristica definisce i mercati 'Two-sided' (o multi-sided)?",
+      "answerOptions": [
+        {
+          "text": "Il valore della piattaforma per una parte dipende dal numero di membri presenti dall'altra parte.",
+          "isCorrect": true,
+          "rationale": "In piattaforme come eBay o Uber, i venditori traggono valore dalla presenza di molti acquirenti e viceversa."
+        },
+        {
+          "text": "L'azienda vende solo due prodotti diversi in croce.",
+          "isCorrect": false,
+          "rationale": "Il termine non si riferisce al numero di prodotti, ma alla struttura del mercato con diversi gruppi di stakeholder."
+        },
+        {
+          "text": "Il marketing è rivolto solo a due persone alla volta.",
+          "isCorrect": false,
+          "rationale": "I mercati multi-sided operano solitamente su scala massiva collegando migliaia o milioni di utenti."
+        },
+        {
+          "text": "È un mercato dove la concorrenza è vietata per legge.",
+          "isCorrect": false,
+          "rationale": "Questi mercati sono spesso molto competitivi, sebbene soggetti a forti effetti di rete che possono creare monopoli."
+        }
+      ],
+      "hint": "Pensa a una piazza dove devono esserci sia mercanti che clienti affinché funzioni."
+    },
+    {
+      "question": "Nel Marketing 6.0, qual è uno dei 'Micro Trends' citati?",
+      "answerOptions": [
+        {
+          "text": "Immersive wearable devices.",
+          "isCorrect": true,
+          "rationale": "Il marketing 6.0 è definito come immersivo, utilizzando dispositivi indossabili per integrare l'esperienza digitale nella realtà."
+        },
+        {
+          "text": "Radio a onde corte per la pubblicità.",
+          "isCorrect": false,
+          "rationale": "La radio tradizionale è un mezzo dei paradigmi di marketing molto più vecchi."
+        },
+        {
+          "text": "Messaggi spediti tramite posta prioritaria cartacea.",
+          "isCorrect": false,
+          "rationale": "Il direct mail cartaceo non è un micro-trend tecnologico del futuro immersivo."
+        },
+        {
+          "text": "La fine dell'utilizzo di internet per gli acquisti.",
+          "isCorrect": false,
+          "rationale": "Il trend è l'opposto: internet diventa onnipresente e immersivo tramite nuove interfacce."
+        }
+      ],
+      "hint": "Pensa a visori o orologi intelligenti che rendono l'esperienza coinvolgente."
+    }
+  ]
+}

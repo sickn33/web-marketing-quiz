@@ -1,0 +1,785 @@
+{
+  "title": "Marketing Quiz",
+  "questions": [
+    {
+      "question": "Qual è la definizione principale di Unique Selling Proposition (USP) secondo il materiale fornito?",
+      "answerOptions": [
+        {
+          "text": "L'elemento distintivo che rende un prodotto unico e differente rispetto alla concorrenza.",
+          "isCorrect": true,
+          "rationale": "La USP si concentra sulla promessa di un beneficio unico che risolve un problema meglio dei competitor."
+        },
+        {
+          "text": "Una strategia di prezzo volta a offrire il costo più basso sul mercato.",
+          "isCorrect": false,
+          "rationale": "Sebbene il prezzo possa essere un fattore, la USP riguarda l'unicità e il beneficio specifico, non necessariamente il costo inferiore."
+        },
+        {
+          "text": "L'insieme dei canali pubblicitari utilizzati per promuovere un marchio.",
+          "isCorrect": false,
+          "rationale": "I canali sono strumenti di distribuzione del messaggio, mentre la USP è il contenuto del messaggio distintivo stesso."
+        },
+        {
+          "text": "La quantità di traffico generata da una campagna di marketing digitale.",
+          "isCorrect": false,
+          "rationale": "Il traffico è una metrica di flusso degli utenti, non l'elemento di differenziazione del prodotto."
+        }
+      ],
+      "hint": "Considera cosa rende un'offerta insostituibile agli occhi del cliente."
+    },
+    {
+      "question": "In quale contesto storico e informativo è nata la USP di Reeves nel 1961?",
+      "answerOptions": [
+        {
+          "text": "In un contesto di scarsità informativa.",
+          "isCorrect": true,
+          "rationale": "In passato, i consumatori avevano meno accesso alle informazioni, rendendo più semplice far risaltare un singolo messaggio."
+        },
+        {
+          "text": "Durante l'esplosione dei mercati digitali saturi.",
+          "isCorrect": false,
+          "rationale": "Nel 1961 l'era digitale non era ancora iniziata; quel contesto è tipico dei giorni nostri."
+        },
+        {
+          "text": "In un'epoca di iper-informazione del consumatore.",
+          "isCorrect": false,
+          "rationale": "L'iper-informazione è una sfida moderna che obbliga a evolvere il concetto classico di USP."
+        },
+        {
+          "text": "In risposta alla nascita dei primi motori di ricerca.",
+          "isCorrect": false,
+          "rationale": "I motori di ricerca sono nati decenni dopo la formulazione originale di Reeves."
+        }
+      ],
+      "hint": "Rifletti sulla quantità di dati a disposizione dei consumatori negli anni '60."
+    },
+    {
+      "question": "Quale domanda deve porsi oggi una USP in un mercato digitale saturo?",
+      "answerOptions": [
+        {
+          "text": "Perché dovrei sceglierti adesso, in questo contesto, rispetto a questa alternativa specifica?",
+          "isCorrect": true,
+          "rationale": "Nel digitale, la USP deve essere estremamente contestuale e specifica per vincere la bassa attenzione dell'utente."
+        },
+        {
+          "text": "Qual è il budget massimo che posso investire in pubblicità?",
+          "isCorrect": false,
+          "rationale": "Il budget riguarda le risorse economiche, non l'efficacia del messaggio differenziante."
+        },
+        {
+          "text": "Quanti follower ha il mio brand sui social media?",
+          "isCorrect": false,
+          "rationale": "La riprova sociale è importante, ma la domanda centrale della USP riguarda il motivo della scelta d'acquisto."
+        },
+        {
+          "text": "Come posso imitare il leader di mercato per sembrare affidabile?",
+          "isCorrect": false,
+          "rationale": "L'imitazione è l'opposto della differenziazione richiesta da una vera USP."
+        }
+      ],
+      "hint": "Pensa alla necessità di giustificare la scelta del cliente nel momento esatto dell'interazione."
+    },
+    {
+      "question": "Qual è la differenza tra una USP comunicativa e una USP strutturale?",
+      "answerOptions": [
+        {
+          "text": "La USP comunicativa è ciò che l'azienda dichiara, mentre quella strutturale genera un'asimmetria competitiva reale.",
+          "isCorrect": true,
+          "rationale": "La prima può essere superficiale o imitabile, mentre la seconda si basa su vantaggi concreti difficili da replicare."
+        },
+        {
+          "text": "La USP strutturale è solo per le grandi aziende, quella comunicativa per le piccole.",
+          "isCorrect": false,
+          "rationale": "Entrambi i tipi di USP possono essere applicati indipendentemente dalle dimensioni dell'azienda."
+        },
+        {
+          "text": "La USP comunicativa riguarda il design del sito, quella strutturale il codice.",
+          "isCorrect": false,
+          "rationale": "Queste sono distinzioni tecniche che non riflettono il valore strategico e la percezione del mercato."
+        },
+        {
+          "text": "Non esiste differenza; sono due termini per indicare lo stesso concetto di marketing.",
+          "isCorrect": false,
+          "rationale": "Il materiale distingue chiaramente tra la promessa verbale e il vantaggio competitivo effettivo."
+        }
+      ],
+      "hint": "Distingui tra ciò che viene detto a parole e ciò che l'azienda è realmente in grado di offrire."
+    },
+    {
+      "question": "Secondo le tre variabili menzionate, la USP non esiste nel vuoto ma in relazione a:",
+      "answerOptions": [
+        {
+          "text": "Segmento clienti, contesto d'acquisto e alternativa competitiva.",
+          "isCorrect": true,
+          "rationale": "Questi tre elementi definiscono la pertinenza e la forza della proposta di valore in un dato momento."
+        },
+        {
+          "text": "Prezzo, logo e canali di distribuzione.",
+          "isCorrect": false,
+          "rationale": "Questi sono elementi del marketing mix, ma non le variabili relazionali che definiscono la USP."
+        },
+        {
+          "text": "Data di lancio, budget e numero di dipendenti.",
+          "isCorrect": false,
+          "rationale": "Questi sono fattori interni che non influenzano direttamente la percezione dell'unicità lato cliente."
+        },
+        {
+          "text": "Nazione, lingua e fuso orario.",
+          "isCorrect": false,
+          "rationale": "Sebbene possano influenzare la localizzazione, non sono le variabili chiave della definizione di USP presentata."
+        }
+      ],
+      "hint": "Cerca i fattori che collegano chi compra, dove compra e chi altro potrebbe vendere."
+    },
+    {
+      "question": "Per il consumatore finale che acquista online su Amazon, qual è l'elemento differenziante principale?",
+      "answerOptions": [
+        {
+          "text": "La frizione zero nell'esperienza d'acquisto.",
+          "isCorrect": true,
+          "rationale": "Amazon ha costruito il suo successo sulla facilità e velocità di acquisto per l'utente finale."
+        },
+        {
+          "text": "L'accesso a una base clienti enorme senza investimento in brand.",
+          "isCorrect": false,
+          "rationale": "Questo è il beneficio percepito dai venditori terzi, non dai consumatori finali."
+        },
+        {
+          "text": "La scalabilità dell'infrastruttura server.",
+          "isCorrect": false,
+          "rationale": "Questo aspetto riguarda specificamente i clienti di AWS."
+        },
+        {
+          "text": "Il design estetico accattivante del sito web.",
+          "isCorrect": false,
+          "rationale": "L'estetica non è citata come USP; l'accento è posto sull'efficienza funzionale."
+        }
+      ],
+      "hint": "Pensa a quanto sia facile o difficile completare un ordine su quella piattaforma."
+    },
+    {
+      "question": "Qual è la USP di Amazon per un venditore terzo che utilizza il Marketplace?",
+      "answerOptions": [
+        {
+          "text": "L'accesso immediato a una base clienti enorme senza investimento in brand building.",
+          "isCorrect": true,
+          "rationale": "Il beneficio unico per il venditore è di natura distributiva piuttosto che puramente logistica."
+        },
+        {
+          "text": "La possibilità di acquistare prodotti a prezzi scontati per uso personale.",
+          "isCorrect": false,
+          "rationale": "Questo è un vantaggio del consumatore, non una USP per il business del venditore."
+        },
+        {
+          "text": "L'utilizzo gratuito di AWS per i primi due anni.",
+          "isCorrect": false,
+          "rationale": "Amazon Web Services è un segmento di mercato separato con la propria USP."
+        },
+        {
+          "text": "Un'interfaccia di gestione prodotti complessa e dettagliata.",
+          "isCorrect": false,
+          "rationale": "La complessità non è solitamente considerata un beneficio unico o un vantaggio competitivo."
+        }
+      ],
+      "hint": "Considera cosa ottiene un'azienda mettendo i propri prodotti sulla vetrina di Amazon."
+    },
+    {
+      "question": "Per un'azienda che utilizza AWS (Amazon Web Services), la USP è focalizzata su:",
+      "answerOptions": [
+        {
+          "text": "Scalabilità infrastrutturale.",
+          "isCorrect": true,
+          "rationale": "Le aziende che usano servizi cloud cercano la capacità di adattare le risorse tecnologiche alle proprie esigenze."
+        },
+        {
+          "text": "Spedizione rapida dei pacchi.",
+          "isCorrect": false,
+          "rationale": "I pacchi riguardano la logistica retail, non i servizi di infrastruttura digitale."
+        },
+        {
+          "text": "Recensioni certificate dei prodotti fisici.",
+          "isCorrect": false,
+          "rationale": "Le recensioni sono cruciali per il marketplace, non per il servizio server/cloud."
+        },
+        {
+          "text": "Assenza di pubblicità durante la navigazione.",
+          "isCorrect": false,
+          "rationale": "AWS non è un servizio orientato alla rimozione di annunci per l'utente finale."
+        }
+      ],
+      "hint": "Pensa alle necessità tecniche di un sito web o di un'applicazione che cresce rapidamente."
+    },
+    {
+      "question": "In economia e marketing, come viene definita la 'Domanda'?",
+      "answerOptions": [
+        {
+          "text": "Il desiderio e la capacità di acquistare un bene o servizio a un determinato prezzo.",
+          "isCorrect": true,
+          "rationale": "La domanda richiede sia l'interesse (desiderio) che la possibilità economica (capacità) di acquisto."
+        },
+        {
+          "text": "Il numero totale di prodotti disponibili in un magazzino.",
+          "isCorrect": false,
+          "rationale": "Questa è la definizione di offerta, non di domanda."
+        },
+        {
+          "text": "La lista di domande che gli utenti pongono all'assistenza clienti.",
+          "isCorrect": false,
+          "rationale": "Sebbene siano domande in senso letterale, nel marketing il termine ha un significato economico specifico."
+        },
+        {
+          "text": "Il costo necessario per produrre una singola unità di prodotto.",
+          "isCorrect": false,
+          "rationale": "Il costo di produzione influisce sul prezzo, ma non rappresenta l'interesse degli utenti."
+        }
+      ],
+      "hint": "Considera che non basta voler qualcosa per creare domanda; serve anche poterlo comprare."
+    },
+    {
+      "question": "Che cos'è la 'Domanda Latente'?",
+      "answerOptions": [
+        {
+          "text": "Una situazione in cui il consumatore non sa ancora di aver bisogno del prodotto.",
+          "isCorrect": true,
+          "rationale": "L'utente non sta cercando attivamente, ma ha un bisogno che può essere stimolato."
+        },
+        {
+          "text": "Quando l'utente sa esattamente cosa vuole e lo cerca sui motori di ricerca.",
+          "isCorrect": false,
+          "rationale": "Questa è la definizione di domanda consapevole."
+        },
+        {
+          "text": "La domanda di prodotti che non sono più in produzione.",
+          "isCorrect": false,
+          "rationale": "La domanda latente riguarda la consapevolezza del bisogno, non la disponibilità storica del bene."
+        },
+        {
+          "text": "Un tipo di domanda che si manifesta solo durante i periodi di saldi.",
+          "isCorrect": false,
+          "rationale": "La stagionalità è un fattore diverso dalla latenza del bisogno."
+        }
+      ],
+      "hint": "Pensa a un bisogno 'nascosto' che l'utente non ha ancora verbalizzato."
+    },
+    {
+      "question": "In quale piattaforma è più probabile intercettare la 'Domanda Consapevole'?",
+      "answerOptions": [
+        {
+          "text": "Google (tramite la ricerca).",
+          "isCorrect": true,
+          "rationale": "Quando un utente digita una query di ricerca, sta esprimendo un bisogno già chiaro e attivo."
+        },
+        {
+          "text": "Facebook (tramite il feed social).",
+          "isCorrect": false,
+          "rationale": "Sui social spesso si intercetta la domanda latente tramite inserzioni basate sugli interessi."
+        },
+        {
+          "text": "Cartellonistica stradale generica.",
+          "isCorrect": false,
+          "rationale": "I cartelloni sono solitamente strumenti di massa che non filtrano per consapevolezza attiva del bisogno."
+        },
+        {
+          "text": "Programmi televisivi di intrattenimento.",
+          "isCorrect": false,
+          "rationale": "La TV è un mezzo di interruzione, più adatto a stimolare bisogni latenti o awareness."
+        }
+      ],
+      "hint": "Rifletti su dove vai quando sai già cosa vuoi comprare o imparare."
+    },
+    {
+      "question": "Qual è la caratteristica fondamentale del 'Traffico Qualificato'?",
+      "answerOptions": [
+        {
+          "text": "È composto da utenti in target, realmente interessati al prodotto.",
+          "isCorrect": true,
+          "rationale": "Non conta solo la quantità di visite, ma quanto queste siano pertinenti agli obiettivi di conversione."
+        },
+        {
+          "text": "È il traffico che proviene esclusivamente da annunci a pagamento.",
+          "isCorrect": false,
+          "rationale": "Il traffico qualificato può essere sia organico che a pagamento, purché sia pertinente."
+        },
+        {
+          "text": "Rappresenta il numero massimo di utenti che un server può ospitare.",
+          "isCorrect": false,
+          "rationale": "Questa è una metrica di capacità tecnica dell'infrastruttura."
+        },
+        {
+          "text": "È il traffico generato dai dipendenti dell'azienda per testare il sito.",
+          "isCorrect": false,
+          "rationale": "Il traffico interno di solito viene escluso dalle analisi di marketing perché non è reale mercato."
+        }
+      ],
+      "hint": "Considera la differenza tra una folla casuale e un gruppo di potenziali acquirenti."
+    },
+    {
+      "question": "Nella piramide della consapevolezza, quale segmento è considerato il 'Target più facile da convertire'?",
+      "answerOptions": [
+        {
+          "text": "Il Sostenitore.",
+          "isCorrect": true,
+          "rationale": "Chi è già un sostenitore del brand ha superato tutte le barriere di fiducia e conoscenza."
+        },
+        {
+          "text": "L'Inconsapevole.",
+          "isCorrect": false,
+          "rationale": "L'inconsapevole è il più difficile perché deve essere educato sul problema, sulla soluzione e sul prodotto."
+        },
+        {
+          "text": "Il Consapevole del problema.",
+          "isCorrect": false,
+          "rationale": "Sebbene sia un passo avanti, deve ancora scoprire che esiste una soluzione e scegliere il tuo prodotto."
+        },
+        {
+          "text": "L'Estraneo.",
+          "isCorrect": false,
+          "rationale": "Un estraneo si trova alla base del funnel e richiede molto sforzo per essere portato all'acquisto."
+        }
+      ],
+      "hint": "Pensa a chi si trova sulla cima della piramide e ha già un legame con il marchio."
+    },
+    {
+      "question": "Cosa significa l'acronimo MQL nel contesto del customer journey?",
+      "answerOptions": [
+        {
+          "text": "Marketing Qualified Lead.",
+          "isCorrect": true,
+          "rationale": "Si tratta di un contatto che è stato qualificato e segmentato dal marketing in base a specifici criteri di interesse."
+        },
+        {
+          "text": "Market Quality Level.",
+          "isCorrect": false,
+          "rationale": "Questo termine non appartiene alla terminologia standard del funnel di vendita presentata."
+        },
+        {
+          "text": "Monthly Quantitative List.",
+          "isCorrect": false,
+          "rationale": "MQL si riferisce alla qualificazione del singolo contatto, non a una lista mensile."
+        },
+        {
+          "text": "Maximum Query Limit.",
+          "isCorrect": false,
+          "rationale": "Questo è un termine tecnico legato ai database o ai motori di ricerca, non al marketing."
+        }
+      ],
+      "hint": "Rifletti sulla fase in cui il dipartimento marketing decide che un contatto è pronto per essere seguito."
+    },
+    {
+      "question": "In quale fase del funnel l'obiettivo è 'Trasformare il bisogno del lead in richiesta esplicita commerciale'?",
+      "answerOptions": [
+        {
+          "text": "SQL (Sales Qualified Lead).",
+          "isCorrect": true,
+          "rationale": "In questa fase, il lead ha espresso un interesse concreto all'acquisto, diventando pronto per il team vendite."
+        },
+        {
+          "text": "Navigazione.",
+          "isCorrect": false,
+          "rationale": "Durante la navigazione l'utente è ancora in una fase esplorativa e spesso anonima."
+        },
+        {
+          "text": "Fan.",
+          "isCorrect": false,
+          "rationale": "I fan sono già clienti che promuovono il brand; la fase di richiesta commerciale è già passata."
+        },
+        {
+          "text": "Lead non qualificato.",
+          "isCorrect": false,
+          "rationale": "Un lead non qualificato non ha ancora mostrato segnali sufficienti per una proposta commerciale."
+        }
+      ],
+      "hint": "Cerca lo stadio in cui il marketing passa il testimone alle vendite (Sales)."
+    },
+    {
+      "question": "Secondo la teoria SKIM presentata, quale elemento visivo può aumentare significativamente il CTR (Click-Through Rate)?",
+      "answerOptions": [
+        {
+          "text": "L'uso di Hero images con sensorial cues e product claims.",
+          "isCorrect": true,
+          "rationale": "Le immagini che mostrano benefici sensoriali e promesse chiare attirano maggiormente l'attenzione e il click."
+        },
+        {
+          "text": "L'uso di immagini standard del solo packaging (pack shot).",
+          "isCorrect": false,
+          "rationale": "I dati SKIM mostrano che il pack shot standard ha performance inferiori rispetto alle immagini con benefici visibili."
+        },
+        {
+          "text": "L'assenza totale di testo nelle immagini.",
+          "isCorrect": false,
+          "rationale": "I claim di prodotto (testo) aggiunti alle immagini aiutano a definire il valore e aumentano l'interesse."
+        },
+        {
+          "text": "L'utilizzo di colori spenti per non distrarre l'utente.",
+          "isCorrect": false,
+          "rationale": "L'efficacia visiva nel digitale dipende spesso dalla capacità di catturare l'attenzione, non dal mimetismo."
+        }
+      ],
+      "hint": "Guarda gli esempi di Toblerone e Ryo Hair Care nel materiale: cosa li rende più attraenti?"
+    },
+    {
+      "question": "Qual è lo scopo principale del processo di 'Nurturing'?",
+      "answerOptions": [
+        {
+          "text": "Alimentare la relazione con i contatti per guidarli verso la decisione d'acquisto.",
+          "isCorrect": true,
+          "rationale": "Il nurturing serve a fornire valore e informazioni nel tempo a chi non è ancora pronto a comprare."
+        },
+        {
+          "text": "Eliminare i contatti che non hanno acquistato entro 24 ore.",
+          "isCorrect": false,
+          "rationale": "Il nurturing punta a recuperare e coltivare i contatti nel tempo, non a eliminarli subito."
+        },
+        {
+          "text": "Aumentare artificialmente il numero di follower sui social.",
+          "isCorrect": false,
+          "rationale": "Il numero di follower è una metrica di vanity; il nurturing si focalizza sulla qualità della relazione con i lead."
+        },
+        {
+          "text": "Nascondere i prezzi dei competitor dal sito web.",
+          "isCorrect": false,
+          "rationale": "Il nurturing si basa sulla trasparenza e sull'educazione del cliente, non sull'oscuramento della concorrenza."
+        }
+      ],
+      "hint": "Pensa all'azione di 'coltivare' un interesse che non è ancora maturo."
+    },
+    {
+      "question": "Perché l'ottimizzazione SEO è considerata un supporto alla USP?",
+      "answerOptions": [
+        {
+          "text": "Perché aiuta a rendere il messaggio distintivo rintracciabile da chi cerca quelle specifiche soluzioni.",
+          "isCorrect": true,
+          "rationale": "Una USP è inutile se non viene trovata dagli utenti che esprimono una domanda consapevole."
+        },
+        {
+          "text": "Perché la SEO garantisce che i prezzi siano sempre i più bassi.",
+          "isCorrect": false,
+          "rationale": "La SEO riguarda il posizionamento nei motori di ricerca, non la gestione dinamica dei prezzi."
+        },
+        {
+          "text": "Perché permette di copiare le parole chiave dei concorrenti.",
+          "isCorrect": false,
+          "rationale": "L'obiettivo della SEO legata alla USP è la differenziazione, non la semplice imitazione."
+        },
+        {
+          "text": "Perché serve a bloccare gli annunci pubblicitari della concorrenza.",
+          "isCorrect": false,
+          "rationale": "Nessuna tecnica SEO ha il potere di bloccare le campagne pubblicitarie altrui."
+        }
+      ],
+      "hint": "Rifletti sulla necessità di far incontrare il messaggio unico con la ricerca dell'utente."
+    },
+    {
+      "question": "Quale di questi è un esempio di USP comunicativa 'vuota' secondo la critica del materiale?",
+      "answerOptions": [
+        {
+          "text": "\"Siamo i leader della qualità da oltre 20 anni\" (senza prove concrete).",
+          "isCorrect": true,
+          "rationale": "Le dichiarazioni auto-referenziali non supportate da asimmetrie reali sono facilmente imitabili e poco credibili."
+        },
+        {
+          "text": "\"Consegna garantita entro 2 ore in tutta la città\".",
+          "isCorrect": false,
+          "rationale": "Questa è una promessa specifica e misurabile che può generare un vantaggio strutturale."
+        },
+        {
+          "text": "\"L'unico software che si integra nativamente con X e Y\".",
+          "isCorrect": false,
+          "rationale": "L'unicità tecnica è una forma di differenziazione strutturale chiara."
+        },
+        {
+          "text": "\"Il primo mese è gratuito per tutti i nuovi iscritti\".",
+          "isCorrect": false,
+          "rationale": "Questa è un'offerta promozionale specifica, non necessariamente una dichiarazione vuota."
+        }
+      ],
+      "hint": "Cerca lo slogan che chiunque potrebbe scrivere senza dover cambiare nulla nella propria azienda."
+    },
+    {
+      "question": "Cosa accade se un prodotto è perfetto ma nessuno lo sta cercando?",
+      "answerOptions": [
+        {
+          "text": "Non si genera traffico organico basato sulla domanda consapevole.",
+          "isCorrect": true,
+          "rationale": "Senza ricerca attiva, l'azienda deve sforzarsi di creare domanda latente o intercettare gli utenti su altri canali."
+        },
+        {
+          "text": "Il prodotto viene venduto automaticamente grazie alla sua perfezione.",
+          "isCorrect": false,
+          "rationale": "La qualità da sola non basta se il mercato non è a conoscenza dell'esistenza del prodotto."
+        },
+        {
+          "text": "I motori di ricerca lo posizionano comunque al primo posto.",
+          "isCorrect": false,
+          "rationale": "I motori di ricerca rispondono alle query esistenti; se non c'è ricerca, non c'è posizionamento utile."
+        },
+        {
+          "text": "La USP diventa automaticamente strutturale.",
+          "isCorrect": false,
+          "rationale": "Il valore strutturale dipende dalla capacità di risolvere un problema, non solo dalla mancanza di ricerca."
+        }
+      ],
+      "hint": "Considera l'importanza di far coincidere l'offerta con un bisogno espresso o inespresso."
+    },
+    {
+      "question": "Qual è l'ultimo stadio del Web Marketing & Sales Funnel mostrato nelle slide?",
+      "answerOptions": [
+        {
+          "text": "Fan.",
+          "isCorrect": true,
+          "rationale": "L'obiettivo finale è trasformare il cliente in un promotore entusiasta del brand."
+        },
+        {
+          "text": "Contatti.",
+          "isCorrect": false,
+          "rationale": "I contatti sono una fase intermedia del processo di conversione."
+        },
+        {
+          "text": "Clienti.",
+          "isCorrect": false,
+          "rationale": "Diventare cliente è un traguardo fondamentale, ma il funnel prosegue verso la fidelizzazione (Fan)."
+        },
+        {
+          "text": "Visitatori.",
+          "isCorrect": false,
+          "rationale": "I visitatori rappresentano l'inizio del funnel, non la sua conclusione."
+        }
+      ],
+      "hint": "Pensa a cosa succede dopo che l'acquisto è stato completato con successo."
+    },
+    {
+      "question": "Nella gerarchia dei lead, cosa differenzia un SAL da un SQL?",
+      "answerOptions": [
+        {
+          "text": "Il SAL è un lead accettato dalle vendite, l'SQL è un lead qualificato per la vendita con richiesta esplicita.",
+          "isCorrect": true,
+          "rationale": "Il SAL indica che il team vendite concorda sulla qualità del lead, l'SQL è pronto per la trattativa commerciale vera e propria."
+        },
+        {
+          "text": "SAL significa 'Senza Alcun Limite', SQL è un linguaggio di programmazione.",
+          "isCorrect": false,
+          "rationale": "Nel contesto del funnel di marketing, questi acronimi hanno significati specifici legati alla gestione dei lead."
+        },
+        {
+          "text": "Il SAL viene prima dell'MQL nel funnel.",
+          "isCorrect": false,
+          "rationale": "Solitamente l'MQL precede il SAL, poiché è il marketing a qualificare per primo il contatto."
+        },
+        {
+          "text": "Non c'è differenza, sono sinonimi usati in aziende diverse.",
+          "isCorrect": false,
+          "rationale": "Le slide distinguono i vari step per gestire correttamente il passaggio di responsabilità tra reparti."
+        }
+      ],
+      "hint": "Rifletti sui passaggi di approvazione tra il reparto Marketing e il reparto Sales."
+    },
+    {
+      "question": "Perché la 'Chiarezza e Sintesi' sono fondamentali per una USP moderna?",
+      "answerOptions": [
+        {
+          "text": "Perché l'attenzione dei consumatori digitali è estremamente limitata.",
+          "isCorrect": true,
+          "rationale": "Con troppi messaggi, solo quelli brevi e chiari hanno speranza di essere recepiti."
+        },
+        {
+          "text": "Per ridurre i costi di stampa dei volantini.",
+          "isCorrect": false,
+          "rationale": "Sebbene possa esserci un risparmio, il motivo strategico è l'efficacia della comunicazione digitale."
+        },
+        {
+          "text": "Perché Google penalizza i testi più lunghi di 10 parole.",
+          "isCorrect": false,
+          "rationale": "Google non penalizza la lunghezza in sé, ma la mancanza di rilevanza e chiarezza per l'utente."
+        },
+        {
+          "text": "Per evitare che i competitor capiscano la strategia aziendale.",
+          "isCorrect": false,
+          "rationale": "La USP è pubblica per definizione; la sintesi serve a comunicare meglio con i clienti, non a nascondersi."
+        }
+      ],
+      "hint": "Considera il comportamento di un utente che scorre velocemente il feed di uno smartphone."
+    },
+    {
+      "question": "Secondo i dati Feedvisor (2022) citati, perché l'87% degli acquirenti preferisce Amazon?",
+      "answerOptions": [
+        {
+          "text": "Perché sono più propensi a comprare da Amazon rispetto ad altri siti di e-commerce.",
+          "isCorrect": true,
+          "rationale": "Il dato evidenzia la fortissima fiducia e preferenza di acquisto consolidata verso la piattaforma."
+        },
+        {
+          "text": "Perché Amazon regala prodotti ogni settimana.",
+          "isCorrect": false,
+          "rationale": "Il dato non riguarda regali, ma la propensione all'acquisto basata sulla fiducia nel servizio."
+        },
+        {
+          "text": "Perché il logo di Amazon è più colorato degli altri.",
+          "isCorrect": false,
+          "rationale": "La preferenza è basata su vantaggi competitivi concreti, non sulla semplice estetica del logo."
+        },
+        {
+          "text": "Perché Amazon è l'unico sito che accetta carte di credito.",
+          "isCorrect": false,
+          "rationale": "Quasi tutti gli e-commerce accettano carte; la USP di Amazon risiede altrove."
+        }
+      ],
+      "hint": "Pensa alla posizione di vantaggio che Amazon occupa nella mente del consumatore."
+    },
+    {
+      "question": "Cos'è l'asimmetria competitiva citata nel materiale?",
+      "answerOptions": [
+        {
+          "text": "Un vantaggio reale percepito dal mercato che i concorrenti non possono replicare facilmente.",
+          "isCorrect": true,
+          "rationale": "Rappresenta il cuore della USP strutturale, basata su risorse o processi unici."
+        },
+        {
+          "text": "La differenza di fuso orario tra due aziende concorrenti.",
+          "isCorrect": false,
+          "rationale": "Il termine non ha una connotazione geografica o temporale in questo contesto."
+        },
+        {
+          "text": "Quando un'azienda ha un logo più grande di quello dei competitor.",
+          "isCorrect": false,
+          "rationale": "L'asimmetria riguarda il valore offerto, non le dimensioni fisiche o grafiche."
+        },
+        {
+          "text": "L'obbligo legale di non vendere gli stessi prodotti della concorrenza.",
+          "isCorrect": false,
+          "rationale": "L'asimmetria è un risultato strategico, non un'imposizione normativa."
+        }
+      ],
+      "hint": "Immagina una bilancia in cui la tua azienda pesa molto di più grazie a qualcosa che gli altri non hanno."
+    },
+    {
+      "question": "Quale ruolo gioca la 'Social Proof' (prova sociale) in una USP?",
+      "answerOptions": [
+        {
+          "text": "Supporta la promessa della USP fornendo evidenze esterne di affidabilità.",
+          "isCorrect": true,
+          "rationale": "Recensioni, testimonianze e certificazioni rendono credibile l'elemento distintivo dichiarato."
+        },
+        {
+          "text": "Sostituisce completamente la necessità di avere un prodotto unico.",
+          "isCorrect": false,
+          "rationale": "La social proof potenzia la USP, ma non può nascondere a lungo la mancanza di un valore reale."
+        },
+        {
+          "text": "È una tecnica per hackerare i profili social dei concorrenti.",
+          "isCorrect": false,
+          "rationale": "La social proof è una strategia etica basata sulla fiducia degli utenti reali."
+        },
+        {
+          "text": "Serve solo a decorare il sito web con loghi colorati.",
+          "isCorrect": false,
+          "rationale": "Ha una funzione psicologica profonda nel ridurre il rischio percepito dall'acquirente."
+        }
+      ],
+      "hint": "Pensa a cosa cerchi quando non sei sicuro se fidarti o meno di una promessa pubblicitaria."
+    },
+    {
+      "question": "Nel grafico di Google Trends mostrato, cosa rappresenta l'interesse medio più alto per il termine 'Volo New York'?",
+      "answerOptions": [
+        {
+          "text": "Un volume di ricerca superiore rispetto ad altre destinazioni come Tokyo o Dubai.",
+          "isCorrect": true,
+          "rationale": "Google Trends permette di visualizzare la domanda consapevole e confrontare l'interesse relativo nel tempo."
+        },
+        {
+          "text": "Il costo del biglietto aereo per quella tratta.",
+          "isCorrect": false,
+          "rationale": "Trends misura la frequenza di ricerca, non il valore monetario dei beni cercati."
+        },
+        {
+          "text": "La velocità effettiva degli aerei verso New York.",
+          "isCorrect": false,
+          "rationale": "Lo strumento analizza i dati di ricerca degli utenti, non le prestazioni dei mezzi di trasporto."
+        },
+        {
+          "text": "Il numero di persone che sono attualmente a New York.",
+          "isCorrect": false,
+          "rationale": "Rappresenta l'intenzione di ricerca digitale, che non coincide necessariamente con la presenza fisica."
+        }
+      ],
+      "hint": "Rifletti su cosa indicano i picchi di una linea su uno strumento che analizza le ricerche online."
+    },
+    {
+      "question": "Nella slide sul 'Contesto', quale alternativa viene posta per decidere se scegliere un brand?",
+      "answerOptions": [
+        {
+          "text": "Rispetto a quale alternativa competitiva specifica si sta confrontando l'utente.",
+          "isCorrect": true,
+          "rationale": "La USP deve essere efficace nel momento del confronto diretto con un concorrente specifico."
+        },
+        {
+          "text": "Rispetto a quanto tempo fa è stata fondata l'azienda.",
+          "isCorrect": false,
+          "rationale": "La longevità può essere un fattore, ma il confronto competitivo attuale è la variabile chiave citata."
+        },
+        {
+          "text": "Rispetto al colore preferito dell'utente.",
+          "isCorrect": false,
+          "rationale": "Le preferenze estetiche personali sono meno rilevanti del valore differenziale rispetto alle alternative."
+        },
+        {
+          "text": "Rispetto al numero di email ricevute nella stessa giornata.",
+          "isCorrect": false,
+          "rationale": "Sebbene il rumore informativo sia un problema, la USP si definisce in base alla scelta competitiva."
+        }
+      ],
+      "hint": "Immagina un cliente che ha due schede del browser aperte con due prodotti simili."
+    },
+    {
+      "question": "Cosa si intende per 'Frizione Zero' nell'e-commerce?",
+      "answerOptions": [
+        {
+          "text": "La rimozione di ogni ostacolo psicologico o tecnico che rallenta l'acquisto.",
+          "isCorrect": true,
+          "rationale": "Amazon eccelle in questo riducendo i click necessari e semplificando i pagamenti e i resi."
+        },
+        {
+          "text": "L'assenza di costi di spedizione per tutti i prodotti del mondo.",
+          "isCorrect": false,
+          "rationale": "La frizione zero riguarda l'esperienza d'uso totale, non solo il costo della logistica."
+        },
+        {
+          "text": "Un tipo di lubrificante venduto sul marketplace di Amazon.",
+          "isCorrect": false,
+          "rationale": "In questo contesto marketing, il termine è una metafora dell'esperienza utente fluida."
+        },
+        {
+          "text": "La possibilità di parlare con un operatore umano in meno di un secondo.",
+          "isCorrect": false,
+          "rationale": "Amazon spesso punta sull'automazione self-service per eliminare la frizione, più che sul contatto umano immediato."
+        }
+      ],
+      "hint": "Pensa a un'esperienza così fluida che l'utente non ha tempo di ripensarci."
+    },
+    {
+      "question": "Qual è il messaggio finale suggerito per rimanere in contatto con il Prof. Granato?",
+      "answerOptions": [
+        {
+          "text": "Tramite email istituzionale o Telegram.",
+          "isCorrect": true,
+          "rationale": "Il materiale fornisce esplicitamente l'indirizzo email LUMSA e l'username Telegram per dubbi e suggerimenti."
+        },
+        {
+          "text": "Solo tramite raccomandata postale.",
+          "isCorrect": false,
+          "rationale": "Il professore utilizza canali digitali moderni e immediati per la comunicazione con gli studenti."
+        },
+        {
+          "text": "Visitando personalmente gli uffici di Amazon a Seattle.",
+          "isCorrect": false,
+          "rationale": "Sebbene Amazon sia un caso studio, i contatti forniti sono quelli diretti del docente a Roma."
+        },
+        {
+          "text": "Lasciando un commento sotto un video YouTube a caso.",
+          "isCorrect": false,
+          "rationale": "Vengono indicati canali di comunicazione specifici e professionali."
+        }
+      ],
+      "hint": "Guarda l'ultima slide della lezione per trovare i riferimenti."
+    }
+  ]
+}

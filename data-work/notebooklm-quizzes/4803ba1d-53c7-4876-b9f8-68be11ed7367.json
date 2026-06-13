@@ -1,0 +1,785 @@
+{
+  "title": "Business Quiz",
+  "questions": [
+    {
+      "question": "Secondo il materiale fornito, qual è la ragione principale del fallimento della maggior parte delle startup?",
+      "answerOptions": [
+        {
+          "text": "L'assenza o la debolezza del modello di business.",
+          "isCorrect": true,
+          "rationale": "Il testo sottolinea che un modello di business poco solido è la causa primaria del fallimento delle nuove imprese."
+        },
+        {
+          "text": "La mancanza di tecnologie all'avanguardia.",
+          "isCorrect": false,
+          "rationale": "Sebbene la tecnologia sia importante, l'innovazione digitale riguarda primariamente il modello di creazione del valore piuttosto che la sola dotazione tecnica."
+        },
+        {
+          "text": "L'incapacità di inventare prodotti completamente nuovi.",
+          "isCorrect": false,
+          "rationale": "Il materiale specifica che non è obbligatorio inventare qualcosa di nuovo per avere successo, ma è necessario innovare il modo di fare business."
+        },
+        {
+          "text": "Un budget di marketing insufficiente.",
+          "isCorrect": false,
+          "rationale": "Il fallimento viene attribuito alla logica di business complessiva piuttosto che a singole voci di spesa come il marketing."
+        }
+      ],
+      "hint": "Considera l'importanza della struttura logica con cui un'azienda genera valore."
+    },
+    {
+      "question": "Qual è la differenza fondamentale tra 'Invenzione' e 'Innovazione'?",
+      "answerOptions": [
+        {
+          "text": "L'innovazione applica nuove idee per generare valore, mentre l'invenzione crea qualcosa di mai esistito.",
+          "isCorrect": true,
+          "rationale": "Questa distinzione mette in luce il ruolo del valore e del miglioramento pratico tipico dell'innovazione rispetto alla novità assoluta dell'invenzione."
+        },
+        {
+          "text": "L'invenzione è un processo digitale, mentre l'innovazione riguarda solo i processi fisici.",
+          "isCorrect": false,
+          "rationale": "Entrambi i concetti possono applicarsi sia al mondo fisico che a quello digitale senza restrizioni di dominio."
+        },
+        {
+          "text": "L'innovazione è sempre tecnologica, mentre l'invenzione riguarda il design.",
+          "isCorrect": false,
+          "rationale": "L'innovazione può riguardare processi o servizi e non è necessariamente legata esclusivamente alla tecnologia."
+        },
+        {
+          "text": "Non esiste differenza; i due termini sono sinonimi nel marketing digitale.",
+          "isCorrect": false,
+          "rationale": "Il materiale didattico distingue chiaramente i due termini in base alla creazione di valore e all'applicazione delle idee."
+        }
+      ],
+      "hint": "Pensa a quale dei due concetti si focalizza sul miglioramento di prodotti o processi esistenti per creare valore."
+    },
+    {
+      "question": "Come definisce George Westerman la 'Trasformazione Digitale'?",
+      "answerOptions": [
+        {
+          "text": "Un ripensamento radicale dell'uso di tecnologia, persone e processi per migliorare le performance.",
+          "isCorrect": true,
+          "rationale": "La definizione evidenzia l'approccio olistico che coinvolge non solo gli strumenti ma anche il capitale umano e le procedure operative."
+        },
+        {
+          "text": "L'acquisto di nuovi software per automatizzare le vendite.",
+          "isCorrect": false,
+          "rationale": "L'automazione delle vendite rientra più propriamente nella digitalizzazione dei processi piuttosto che in una trasformazione radicale."
+        },
+        {
+          "text": "La semplice conversione di documenti cartacei in file digitali.",
+          "isCorrect": false,
+          "rationale": "Questa attività descrive la digitalizzazione di base delle informazioni, non la trasformazione dell'intera organizzazione."
+        },
+        {
+          "text": "Il passaggio esclusivo alla vendita tramite e-commerce.",
+          "isCorrect": false,
+          "rationale": "La trasformazione digitale va oltre la sola vendita online, includendo la ridefinizione dei modelli di business e dell'esperienza cliente."
+        }
+      ],
+      "hint": "Cerca una definizione che includa un cambiamento profondo e sistemico all'interno dell'organizzazione."
+    },
+    {
+      "question": "Nell'evoluzione del settore musicale, a quale stadio corrisponde il passaggio dai CD ai file MP3?",
+      "answerOptions": [
+        {
+          "text": "Digitalizzazione.",
+          "isCorrect": true,
+          "rationale": "Si tratta della pura conversione di un'informazione (musica) da un supporto analogico o fisico a un formato digitale leggibile da computer."
+        },
+        {
+          "text": "Digitalizzazione dei processi.",
+          "isCorrect": false,
+          "rationale": "Questa fase implicherebbe l'automazione di un'attività commerciale, come la vendita online, non solo il cambio di formato del file."
+        },
+        {
+          "text": "Trasformazione Digitale.",
+          "isCorrect": false,
+          "rationale": "La trasformazione digitale richiederebbe un cambio radicale del modello di business, come il passaggio al modello streaming."
+        },
+        {
+          "text": "E-procurement.",
+          "isCorrect": false,
+          "rationale": "L'e-procurement riguarda la gestione digitale degli approvvigionamenti e non la natura del prodotto musicale stesso."
+        }
+      ],
+      "hint": "Si tratta della fase più elementare in cui l'informazione cambia semplicemente formato."
+    },
+    {
+      "question": "Quale delle seguenti attività è un esempio di 'Digitalizzazione dei processi'?",
+      "answerOptions": [
+        {
+          "text": "Utilizzare un sistema CRM per gestire le relazioni con i clienti.",
+          "isCorrect": true,
+          "rationale": "L'uso di un CRM ottimizza e automatizza una specifica procedura aziendale (la gestione clienti) attraverso strumenti digitali."
+        },
+        {
+          "text": "Creare un file PDF da un documento stampato.",
+          "isCorrect": false,
+          "rationale": "Questa è una digitalizzazione delle informazioni, ovvero la conversione di un supporto fisico in digitale."
+        },
+        {
+          "text": "Lanciare una piattaforma di streaming per sostituire la vendita di singoli brani.",
+          "isCorrect": false,
+          "rationale": "Questo rappresenta un cambiamento strategico del modello di business, identificabile come trasformazione digitale."
+        },
+        {
+          "text": "Aprire un negozio fisico in una nuova città.",
+          "isCorrect": false,
+          "rationale": "Questa è un'operazione tradizionale che non implica necessariamente l'uso di tecnologie digitali per ottimizzare processi."
+        }
+      ],
+      "hint": "Pensa all'automazione di un'attività operativa esistente."
+    },
+    {
+      "question": "Quale domanda fondamentale NON è inclusa tra quelle a cui un modello di business dovrebbe rispondere?",
+      "answerOptions": [
+        {
+          "text": "Quale tecnologia specifica è la più costosa sul mercato?",
+          "isCorrect": true,
+          "rationale": "Il modello di business si concentra sul valore, sul cliente e sulla sostenibilità, non sul costo assoluto delle singole tecnologie."
+        },
+        {
+          "text": "Chi è il cliente?",
+          "isCorrect": false,
+          "rationale": "Identificare il target di riferimento è uno dei pilastri fondamentali per definire a chi è destinato il valore creato."
+        },
+        {
+          "text": "Quale valore poter creare o aggiungere per il cliente?",
+          "isCorrect": false,
+          "rationale": "La proposta di valore è l'elemento centrale che giustifica l'esistenza dell'azienda sul mercato."
+        },
+        {
+          "text": "Come è possibile operare in modo sostenibile e profittevole?",
+          "isCorrect": false,
+          "rationale": "La sostenibilità economica garantisce che la logica di creazione del valore possa perdurare nel tempo."
+        }
+      ],
+      "hint": "Cerca l'opzione che si focalizza su un dettaglio tecnico/economico isolato invece che sulla logica di business."
+    },
+    {
+      "question": "In cosa consiste un 'Digital Business Model' secondo la lezione?",
+      "answerOptions": [
+        {
+          "text": "La descrizione della logica con cui un'azienda crea, distribuisce e cattura valore usando tecnologie digitali.",
+          "isCorrect": true,
+          "rationale": "Questa definizione integra il concetto classico di business model con l'applicazione pervasiva del digitale per gestire relazioni e processi."
+        },
+        {
+          "text": "Esclusivamente l'apertura di un sito di e-commerce.",
+          "isCorrect": false,
+          "rationale": "Il modello digitale è più ampio della sola vendita e include marketing, supply chain e collaborazione interna."
+        },
+        {
+          "text": "L'uso dei social media per fare pubblicità.",
+          "isCorrect": false,
+          "rationale": "Il marketing digitale è solo una componente delle attività incluse in un modello di business digitale completo."
+        },
+        {
+          "text": "La sostituzione totale di tutti i dipendenti con intelligenze artificiali.",
+          "isCorrect": false,
+          "rationale": "La trasformazione digitale riguarda il modo in cui le persone utilizzano la tecnologia, non necessariamente la loro sostituzione."
+        }
+      ],
+      "hint": "Rifletti sulla definizione olistica che comprende la creazione e la cattura del valore."
+    },
+    {
+      "question": "Qual è il rapporto corretto tra E-Business ed E-Commerce?",
+      "answerOptions": [
+        {
+          "text": "L'E-Commerce è un sottoinsieme dell'E-Business.",
+          "isCorrect": true,
+          "rationale": "Il diagramma mostrato nelle slide evidenzia come l'e-business sia l'ambito più vasto che include, tra le altre cose, l'attività di commercio elettronico."
+        },
+        {
+          "text": "L'E-Business è un sottoinsieme dell'E-Commerce.",
+          "isCorrect": false,
+          "rationale": "L'e-commerce è focalizzato sulla transazione, mentre l'e-business copre tutti i processi aziendali digitalizzati."
+        },
+        {
+          "text": "Sono due termini completamente indipendenti e non correlati.",
+          "isCorrect": false,
+          "rationale": "Entrambi si riferiscono all'applicazione del digitale nel mondo aziendale, con l'e-commerce che rappresenta la parte transazionale."
+        },
+        {
+          "text": "L'E-Business riguarda solo le aziende fisiche, l'E-Commerce solo quelle online.",
+          "isCorrect": false,
+          "rationale": "Entrambi i concetti si applicano a diversi tipi di modelli, indipendentemente dalla presenza fisica."
+        }
+      ],
+      "hint": "Pensa a quale termine ha una portata più generale e sistemica rispetto alla semplice vendita."
+    },
+    {
+      "question": "Come viene definito il modello di business 'All Digital'?",
+      "answerOptions": [
+        {
+          "text": "Un modello in cui tutte le operazioni, le vendite e le interazioni avvengono esclusivamente online.",
+          "isCorrect": true,
+          "rationale": "In questo modello non esistono punti vendita fisici e il contatto con il cliente è mediato interamente dai canali digitali."
+        },
+        {
+          "text": "Un'azienda tradizionale che ha solo una pagina Facebook.",
+          "isCorrect": false,
+          "rationale": "La semplice presenza sui social senza operazioni core online non qualifica un'azienda come 'All Digital'."
+        },
+        {
+          "text": "Un negozio fisico che accetta pagamenti con carta di credito.",
+          "isCorrect": false,
+          "rationale": "L'accettazione di pagamenti elettronici è una digitalizzazione minima di un processo in un contesto prevalentemente fisico."
+        },
+        {
+          "text": "Un modello ibrido che integra negozi fisici e magazzini digitali.",
+          "isCorrect": false,
+          "rationale": "Questo descrive il modello 'Click & Mortar', non quello puramente digitale."
+        }
+      ],
+      "hint": "Pensa alla totale assenza di interazioni offline o punti vendita fisici."
+    },
+    {
+      "question": "Che cosa caratterizza il modello 'Click & Mortar'?",
+      "answerOptions": [
+        {
+          "text": "La combinazione di presenza fisica (negozi tradizionali) e canali digitali.",
+          "isCorrect": true,
+          "rationale": "Questo modello ibrido permette al cliente di scegliere tra l'acquisto online e quello nel punto vendita fisico."
+        },
+        {
+          "text": "L'assoluta mancanza di un sito web aziendale.",
+          "isCorrect": false,
+          "rationale": "L'assenza di canali digitali è tipica del modello 'Brick & Mortar'."
+        },
+        {
+          "text": "La vendita di prodotti esclusivamente attraverso distributori terzi online.",
+          "isCorrect": false,
+          "rationale": "Il modello 'Click & Mortar' implica che l'azienda stessa gestisca sia la presenza fisica che quella digitale."
+        },
+        {
+          "text": "Un modello di business basato solo sul dropshipping.",
+          "isCorrect": false,
+          "rationale": "Il dropshipping è una specifica tipologia di e-commerce, non necessariamente legata alla presenza di negozi fisici."
+        }
+      ],
+      "hint": "Cerca un termine che indichi l'integrazione tra il 'clic' del mouse e i 'mattoni' del negozio."
+    },
+    {
+      "question": "Qual è la caratteristica principale di un'azienda 'Brick & Mortar' a livello tattico?",
+      "answerOptions": [
+        {
+          "text": "Il sito web funge principalmente da 'sito vetrina' con limitata interattività.",
+          "isCorrect": true,
+          "rationale": "A questo livello, gli strumenti digitali sono usati solo per scopi comunicativi di base, senza integrazione strategica."
+        },
+        {
+          "text": "L'integrazione totale dei canali online e offline.",
+          "isCorrect": false,
+          "rationale": "L'integrazione omnicanale appartiene al livello strategico, non a quello tattico elementare."
+        },
+        {
+          "text": "La chiusura di tutti i negozi fisici per passare all'online.",
+          "isCorrect": false,
+          "rationale": "Questa azione trasformerebbe l'azienda in un modello 'Pure Play' o 'All Digital'."
+        },
+        {
+          "text": "L'uso avanzato di big data per prevedere il comportamento d'acquisto.",
+          "isCorrect": false,
+          "rationale": "L'analisi avanzata dei dati richiede una maturità digitale superiore a quella di un semplice livello tattico."
+        }
+      ],
+      "hint": "Rifletti sulla funzione limitata di una brochure digitale."
+    },
+    {
+      "question": "Cosa contraddistingue il 'Livello Strategico' nell'utilizzo del digital marketing?",
+      "answerOptions": [
+        {
+          "text": "La definizione di obiettivi di business specifici per il digitale e l'adozione di un approccio omnicanale.",
+          "isCorrect": true,
+          "rationale": "In questo stadio, la strategia online è coerente e integrata con quella offline per garantire una presenza unificata."
+        },
+        {
+          "text": "L'uso casuale dei social media quando c'è budget extra.",
+          "isCorrect": false,
+          "rationale": "L'uso non pianificato è tipico di una mancanza di strategia, non del livello strategico."
+        },
+        {
+          "text": "Il digitale come unico e solo canale di esistenza dell'azienda.",
+          "isCorrect": false,
+          "rationale": "Questa è la caratteristica del livello 'Core Business' (All Digital)."
+        },
+        {
+          "text": "La semplice conversione delle fatture cartacee in elettroniche.",
+          "isCorrect": false,
+          "rationale": "Questo è un esempio di digitalizzazione dei processi operativi, non di marketing strategico."
+        }
+      ],
+      "hint": "Pensa alla coerenza tra i diversi canali di vendita e comunicazione."
+    },
+    {
+      "question": "Al 'Livello Core Business', come viene considerato il digitale?",
+      "answerOptions": [
+        {
+          "text": "Fondamentale o esclusivo per l'esistenza dell'azienda stessa.",
+          "isCorrect": true,
+          "rationale": "A questo livello la strategia di business è intrinsecamente digitale e non potrebbe esistere senza di essa."
+        },
+        {
+          "text": "Un'attività secondaria rispetto alla produzione fisica.",
+          "isCorrect": false,
+          "rationale": "Se il digitale è secondario, l'azienda si trova probabilmente a un livello tattico o strategico iniziale."
+        },
+        {
+          "text": "Uno strumento utile solo per la gestione della logistica.",
+          "isCorrect": false,
+          "rationale": "Il livello Core implica un'integrazione totale in ogni aspetto, non solo in una funzione specifica come la logistica."
+        },
+        {
+          "text": "Un costo da ridurre il più possibile per mantenere i margini.",
+          "isCorrect": false,
+          "rationale": "In un modello core digital, la tecnologia è un investimento abilitante per la creazione di valore, non un mero costo da tagliare."
+        }
+      ],
+      "hint": "Immagina un'azienda come Spotify o Netflix."
+    },
+    {
+      "question": "Quale tra questi fattori è determinante nella scelta del livello digitale adatto secondo il materiale?",
+      "answerOptions": [
+        {
+          "text": "La maturità tecnologica del settore e il comportamento del target.",
+          "isCorrect": true,
+          "rationale": "Capire dove il cliente si informa e acquista, insieme al contesto normativo e tecnologico, guida la scelta strategica."
+        },
+        {
+          "text": "Il numero di dipendenti dell'azienda.",
+          "isCorrect": false,
+          "rationale": "La dimensione del personale non determina necessariamente il livello di digitalizzazione, che dipende più dalla strategia e dal mercato."
+        },
+        {
+          "text": "La preferenza personale del CEO per i gadget tecnologici.",
+          "isCorrect": false,
+          "rationale": "Le scelte strategiche devono basarsi su dati di mercato e obiettivi di business, non su gusti personali."
+        },
+        {
+          "text": "L'anno di fondazione della società.",
+          "isCorrect": false,
+          "rationale": "Anche aziende storiche possono raggiungere livelli core digital attraverso la trasformazione digitale."
+        }
+      ],
+      "hint": "Considera l'importanza di allinearsi alle abitudini dei consumatori e al mercato."
+    },
+    {
+      "question": "Nella categorizzazione dei Digital Business Model, cosa si intende per 'Soggetti coinvolti'?",
+      "answerOptions": [
+        {
+          "text": "Classificazioni come B2B, B2C, C2B o C2C.",
+          "isCorrect": true,
+          "rationale": "Questi acronimi indicano la natura delle parti che interagiscono nel modello di business (Aziende o Consumatori)."
+        },
+        {
+          "text": "L'elenco dei nomi dei soci fondatori.",
+          "isCorrect": false,
+          "rationale": "I soggetti coinvolti si riferiscono alle categorie di attori economici, non all'identità anagrafica dei proprietari."
+        },
+        {
+          "text": "I dipendenti addetti esclusivamente all'IT.",
+          "isCorrect": false,
+          "rationale": "Questa è una funzione aziendale interna, non un modo per categorizzare il modello di business esterno."
+        },
+        {
+          "text": "Solo i partner logistici esterni.",
+          "isCorrect": false,
+          "rationale": "Sebbene importanti, i partner logistici sono solo una parte della supply chain e non definiscono la categoria di scambio principale."
+        }
+      ],
+      "hint": "Pensa alle relazioni tra imprese e consumatori finali."
+    },
+    {
+      "question": "Quale tipologia di e-commerce prevede che un'azienda venda i prodotti di altri tramite la propria piattaforma senza possedere magazzino?",
+      "answerOptions": [
+        {
+          "text": "Dropshipping o Marketplace.",
+          "isCorrect": true,
+          "rationale": "Questi modelli permettono di gestire le transazioni senza la necessità di stoccare fisicamente la merce."
+        },
+        {
+          "text": "Brick & Mortar.",
+          "isCorrect": false,
+          "rationale": "Questo modello si basa proprio sul possesso fisico di merce e punti vendita."
+        },
+        {
+          "text": "Pure Play Manifatturiero.",
+          "isCorrect": false,
+          "rationale": "Un'azienda manifatturiera produce i propri beni, quindi non si limita a vendere quelli altrui."
+        },
+        {
+          "text": "E-procurement diretto.",
+          "isCorrect": false,
+          "rationale": "L'e-procurement riguarda l'acquisto di beni e servizi per uso interno aziendale."
+        }
+      ],
+      "hint": "Cerca un modello basato sull'intermediazione digitale o sulla spedizione diretta dal fornitore."
+    },
+    {
+      "question": "Secondo le slide, l'innovazione digitale è solo tecnologia?",
+      "answerOptions": [
+        {
+          "text": "No, è principalmente un modello di creazione del valore.",
+          "isCorrect": true,
+          "rationale": "Il testo specifica esplicitamente che la tecnologia è solo il mezzo per ridefinire come l'impresa genera valore."
+        },
+        {
+          "text": "Sì, senza l'ultimo modello di server non c'è innovazione.",
+          "isCorrect": false,
+          "rationale": "L'hardware è solo un supporto; l'innovazione risiede nell'idea e nella sua applicazione di valore."
+        },
+        {
+          "text": "No, riguarda solo la riduzione dei costi del personale.",
+          "isCorrect": false,
+          "rationale": "L'innovazione mira a migliorare efficienza e competitività in modo ampio, non solo tramite tagli al personale."
+        },
+        {
+          "text": "Sì, infatti ogni startup fallisce per colpa di bug software.",
+          "isCorrect": false,
+          "rationale": "Il materiale attribuisce i fallimenti a modelli di business deboli, non a problemi puramente tecnici."
+        }
+      ],
+      "hint": "Rifletti su cosa differenzia un'azienda di successo da una che fallisce pur usando le stesse macchine."
+    },
+    {
+      "question": "Che cosa si intende per 'E-procurement' nel contesto di un DBM?",
+      "answerOptions": [
+        {
+          "text": "La gestione digitale della supply chain e degli approvvigionamenti.",
+          "isCorrect": true,
+          "rationale": "Rappresenta l'integrazione del digitale nei processi di acquisto dell'azienda verso i propri fornitori."
+        },
+        {
+          "text": "La vendita di prodotti ai consumatori finali su Amazon.",
+          "isCorrect": false,
+          "rationale": "La vendita ai consumatori è definita B2C (Business to Consumer), non e-procurement."
+        },
+        {
+          "text": "La creazione di contenuti video per YouTube.",
+          "isCorrect": false,
+          "rationale": "Questa attività rientra nel marketing digitale o nella creazione di contenuti, non negli approvvigionamenti."
+        },
+        {
+          "text": "L'invio di newsletter ai propri dipendenti.",
+          "isCorrect": false,
+          "rationale": "Questa è una forma di comunicazione interna o collaborazione, non di acquisto elettronico."
+        }
+      ],
+      "hint": "Pensa alla fase di acquisto dei materiali necessari alla produzione."
+    },
+    {
+      "question": "Quale di queste aziende viene citata come esempio di chi ha rivoluzionato il settore partendo da un nuovo modello di business?",
+      "answerOptions": [
+        {
+          "text": "Amazon.",
+          "isCorrect": true,
+          "rationale": "Amazon è esplicitamente menzionata insieme ad Apple e Google come esempio di rivoluzione del settore tramite il modello di business."
+        },
+        {
+          "text": "Blockbuster.",
+          "isCorrect": false,
+          "rationale": "Blockbuster è citata come l'azienda che ha subito l'innovazione altrui (Netflix) fino a fallire."
+        },
+        {
+          "text": "David Cook.",
+          "isCorrect": false,
+          "rationale": "David Cook è indicato come il fondatore di Blockbuster, non come un esempio di rivoluzione di successo recente."
+        },
+        {
+          "text": "LUMSA.",
+          "isCorrect": false,
+          "rationale": "LUMSA è l'istituzione universitaria che ospita la lezione, non un esempio di azienda citata per la rivoluzione del modello di business."
+        }
+      ],
+      "hint": "Cerca uno dei colossi tecnologici 'Big Three' elencati all'inizio delle slide."
+    },
+    {
+      "question": "Nella timeline presentata, cosa è accaduto nel 2000 tra Netflix e Blockbuster?",
+      "answerOptions": [
+        {
+          "text": "Blockbuster ha rifiutato di acquistare Netflix per 50 milioni di dollari.",
+          "isCorrect": true,
+          "rationale": "Questa decisione è riportata come un momento critico in cui un'azienda tradizionale ha sottovalutato il potenziale del nuovo modello digitale."
+        },
+        {
+          "text": "Netflix è fallita lasciando il mercato a Blockbuster.",
+          "isCorrect": false,
+          "rationale": "Al contrario, Netflix ha continuato a crescere fino a superare i 148 milioni di utenti, mentre Blockbuster è fallita."
+        },
+        {
+          "text": "Blockbuster ha lanciato il suo primo servizio di streaming.",
+          "isCorrect": false,
+          "rationale": "Blockbuster è entrata nel mercato del noleggio DVD online solo nel 2004, molto dopo Netflix."
+        },
+        {
+          "text": "Le due aziende si sono fuse creando un monopolio.",
+          "isCorrect": false,
+          "rationale": "Non c'è mai stata una fusione; le due aziende sono state concorrenti dirette fino al fallimento di Blockbuster."
+        }
+      ],
+      "hint": "Pensa a un'opportunità mancata clamorosa da parte dell'azienda leader di allora."
+    },
+    {
+      "question": "Quale obiettivo può spingere un'impresa ad adottare un Digital Business Model?",
+      "answerOptions": [
+        {
+          "text": "Internazionalizzarsi e ridurre i costi operativi.",
+          "isCorrect": true,
+          "rationale": "Il digitale abbatte le barriere geografiche e permette automazioni che migliorano l'efficienza dei costi."
+        },
+        {
+          "text": "Evitare di pagare le tasse.",
+          "isCorrect": false,
+          "rationale": "L'elusione fiscale non è un obiettivo strategico di business modellizzazione descritto nel materiale didattico."
+        },
+        {
+          "text": "Rendere i prodotti meno accessibili per aumentarne l'esclusività.",
+          "isCorrect": false,
+          "rationale": "In genere il digitale mira ad aumentare la visibilità e facilitare l'acquisto, non a nascondere i prodotti."
+        },
+        {
+          "text": "Eliminare completamente il concetto di 'cliente'.",
+          "isCorrect": false,
+          "rationale": "Il cliente rimane il centro del modello di business, poiché è colui per il quale viene creato il valore."
+        }
+      ],
+      "hint": "Rifletti sui vantaggi tipici della scalabilità e dell'efficienza digitale."
+    },
+    {
+      "question": "Cosa significa l'acronimo C2C in un modello di business?",
+      "answerOptions": [
+        {
+          "text": "Consumer to Consumer.",
+          "isCorrect": true,
+          "rationale": "Indica scambi che avvengono direttamente tra consumatori privati, spesso facilitati da piattaforme di terze parti."
+        },
+        {
+          "text": "Company to Client.",
+          "isCorrect": false,
+          "rationale": "Questa relazione è solitamente indicata come B2C (Business to Consumer)."
+        },
+        {
+          "text": "Computer to Cloud.",
+          "isCorrect": false,
+          "rationale": "Sebbene sia un concetto tecnico, non descrive i soggetti economici coinvolti in un modello di business."
+        },
+        {
+          "text": "Corporate to Corporate.",
+          "isCorrect": false,
+          "rationale": "Il termine corretto per le interazioni tra aziende è B2B (Business to Business)."
+        }
+      ],
+      "hint": "Pensa a piattaforme come eBay o Vinted dove i privati vendono ad altri privati."
+    },
+    {
+      "question": "Un 'sito vetrina' è tipico di quale stadio di evoluzione digitale?",
+      "answerOptions": [
+        {
+          "text": "Livello tattico.",
+          "isCorrect": true,
+          "rationale": "In questa fase il digitale è usato solo come brochure online senza reali obiettivi strategici integrati."
+        },
+        {
+          "text": "Livello Core Business.",
+          "isCorrect": false,
+          "rationale": "Un'azienda core business ha un sito che è il motore delle vendite e delle operazioni, non solo una vetrina."
+        },
+        {
+          "text": "Livello Strategico.",
+          "isCorrect": false,
+          "rationale": "Al livello strategico il sito è parte di un approccio omnicanale con obiettivi di business definiti."
+        },
+        {
+          "text": "Trasformazione Digitale completa.",
+          "isCorrect": false,
+          "rationale": "La trasformazione implica un ripensamento profondo che supera di gran lunga la semplice messa online di un sito vetrina."
+        }
+      ],
+      "hint": "Si tratta del gradino più basso nella rilevanza strategica del marketing digitale."
+    },
+    {
+      "question": "Cosa suggerisce il fumetto dei cavernicoli presente nelle slide riguardo all'innovazione?",
+      "answerOptions": [
+        {
+          "text": "Le aziende sono spesso troppo occupate per adottare soluzioni che migliorerebbero drasticamente il loro lavoro.",
+          "isCorrect": true,
+          "rationale": "I cavernicoli rifiutano la ruota perché sono troppo impegnati a trascinare pesi con una slitta quadrata, simboleggiando la resistenza al cambiamento."
+        },
+        {
+          "text": "L'invenzione della ruota è stata il primo esempio di digitalizzazione.",
+          "isCorrect": false,
+          "rationale": "La ruota è un'invenzione meccanica; il fumetto è un'analogia sulla resistenza all'innovazione in generale."
+        },
+        {
+          "text": "Non bisogna mai fidarsi delle nuove idee se non sono testate.",
+          "isCorrect": false,
+          "rationale": "Il messaggio è l'esatto opposto: l'incapacità di fermarsi ad ascoltare nuove idee causa inefficienza."
+        },
+        {
+          "text": "I trasporti fisici sono più importanti di quelli digitali.",
+          "isCorrect": false,
+          "rationale": "L'immagine è una metafora del processo di innovazione e non un commento sul settore logistico."
+        }
+      ],
+      "hint": "Guarda come reagiscono i personaggi che stanno trascinando il carico alla proposta di una nuova soluzione."
+    },
+    {
+      "question": "Quale tra questi è un esempio di 'Digitalizzazione' pura?",
+      "answerOptions": [
+        {
+          "text": "Passare da fatture cartacee a fatture elettroniche.",
+          "isCorrect": true,
+          "rationale": "Si tratta della conversione di un documento fisico in un formato digitale, senza necessariamente cambiare il modello di business sottostante."
+        },
+        {
+          "text": "Creare un nuovo servizio di consulenza basato su IA.",
+          "isCorrect": false,
+          "rationale": "Questo sarebbe un esempio di innovazione o trasformazione digitale se ridefinisce il modo di creare valore."
+        },
+        {
+          "text": "Sostituire un negozio fisico con un sito di e-commerce.",
+          "isCorrect": false,
+          "rationale": "Questa è una digitalizzazione dei processi (vendita) che impatta sulla struttura operativa dell'azienda."
+        },
+        {
+          "text": "Inventare una nuova lega metallica per i computer.",
+          "isCorrect": false,
+          "rationale": "Questa è un'invenzione di prodotto nel mondo fisico/chimico."
+        }
+      ],
+      "hint": "Cerca l'attività che riguarda semplicemente il cambio di 'stato' di un'informazione da analogico a bit."
+    },
+    {
+      "question": "Cosa include un approccio di Digital Business Model oltre alla vendita online?",
+      "answerOptions": [
+        {
+          "text": "Servizi post-vendita, marketing digitale e piattaforme di collaborazione interna.",
+          "isCorrect": true,
+          "rationale": "Un DBM è un approccio integrato che coinvolge tutte le funzioni aziendali per migliorare l'efficienza globale."
+        },
+        {
+          "text": "Solamente l'invio di prodotti tramite corriere espresso.",
+          "isCorrect": false,
+          "rationale": "La logistica fisica è solo una parte dell'esecuzione, non definisce l'interezza del modello digitale."
+        },
+        {
+          "text": "L'uso esclusivo di carta riciclata negli uffici.",
+          "isCorrect": false,
+          "rationale": "Questa è una pratica di sostenibilità ambientale non legata specificamente alla logica del business digitale."
+        },
+        {
+          "text": "La rinuncia a qualsiasi tipo di relazione con i fornitori.",
+          "isCorrect": false,
+          "rationale": "Al contrario, il DBM ottimizza le relazioni con i fornitori attraverso sistemi come l'e-procurement."
+        }
+      ],
+      "hint": "Cerca una visione che comprenda l'azienda in modo sistemico."
+    },
+    {
+      "question": "Nel contesto della 'Digital Society', cosa deve fare ogni impresa?",
+      "answerOptions": [
+        {
+          "text": "Ripensare il 'come' fa business.",
+          "isCorrect": true,
+          "rationale": "Le slide indicano che la trasformazione digitale richiede di riconsiderare radicalmente i processi e le strategie operative."
+        },
+        {
+          "text": "Smettere di assumere persone nate prima del 2000.",
+          "isCorrect": false,
+          "rationale": "La trasformazione digitale riguarda le persone e i processi a tutti i livelli, non una discriminazione anagrafica."
+        },
+        {
+          "text": "Tornare ai modelli di business degli anni '80 perché più sicuri.",
+          "isCorrect": false,
+          "rationale": "Il materiale suggerisce che le aziende che non si adattano (come Blockbuster) rischiano il fallimento."
+        },
+        {
+          "text": "Acquistare solo azioni di Amazon e Google.",
+          "isCorrect": false,
+          "rationale": "L'invito è a trasformare la propria impresa, non a diventare meri investitori finanziari."
+        }
+      ],
+      "hint": "Non si tratta solo di 'cosa' vendere, ma del modo in cui l'azienda opera."
+    },
+    {
+      "question": "Qual è il focus principale dell'innovazione digitale?",
+      "answerOptions": [
+        {
+          "text": "Il modello di creazione del valore.",
+          "isCorrect": true,
+          "rationale": "Viene sottolineato che l'innovazione non è solo tecnologia, ma un nuovo modo di generare beneficio per cliente e azienda."
+        },
+        {
+          "text": "L'acquisto del software più costoso possibile.",
+          "isCorrect": false,
+          "rationale": "Il valore non deriva dal costo della tecnologia ma dalla sua applicazione strategica."
+        },
+        {
+          "text": "La stampa di brochure cartacee ad alta definizione.",
+          "isCorrect": false,
+          "rationale": "Il digitale tende a superare o integrare i mezzi cartacei tradizionali, non a focalizzarsi su di essi."
+        },
+        {
+          "text": "La creazione di prodotti che non servono a nessuno.",
+          "isCorrect": false,
+          "rationale": "L'innovazione deve per definizione generare valore, quindi rispondere a bisogni reali del target."
+        }
+      ],
+      "hint": "Considera l'elemento centrale che definisce l'utilità di un business per i suoi clienti."
+    },
+    {
+      "question": "Secondo le slide di Gabriele Granato, perché parliamo di Business Modelling oggi?",
+      "answerOptions": [
+        {
+          "text": "Perché le aziende di maggior valore hanno rivoluzionato i loro settori partendo da nuovi modelli di business.",
+          "isCorrect": true,
+          "rationale": "Esempi come Apple o Google dimostrano che il successo deriva da una logica di business innovativa applicata alla tecnologia."
+        },
+        {
+          "text": "Perché non esistono più prodotti fisici da vendere.",
+          "isCorrect": false,
+          "rationale": "Il materiale parla di modelli ibridi e prodotti adatti alla comunicazione online, non della scomparsa dei beni fisici."
+        },
+        {
+          "text": "Perché il marketing tradizionale è stato dichiarato illegale.",
+          "isCorrect": false,
+          "rationale": "Il marketing tradizionale esiste ancora, ma deve essere integrato in una strategia omnicanale."
+        },
+        {
+          "text": "Perché disegnare grafici rende le presentazioni più belle.",
+          "isCorrect": false,
+          "rationale": "La modellizzazione è uno strumento strategico per la sopravvivenza aziendale, non un mero esercizio estetico."
+        }
+      ],
+      "hint": "Guarda al successo delle multinazionali tech citate nell'introduzione."
+    },
+    {
+      "question": "Quale domanda aiuta a capire se il proprio prodotto è adatto alla comunicazione online?",
+      "answerOptions": [
+        {
+          "text": "I nostri prodotti sono adatti a essere comunicati online?",
+          "isCorrect": true,
+          "rationale": "Questa è una delle domande chiave elencate per scegliere il livello di digitalizzazione adatto."
+        },
+        {
+          "text": "Il prodotto può essere lanciato nello spazio?",
+          "isCorrect": false,
+          "rationale": "Questa non è una considerazione strategica standard per la maggior parte dei modelli di business digitali discussi."
+        },
+        {
+          "text": "Il colore del prodotto piace al mio gatto?",
+          "isCorrect": false,
+          "rationale": "Le decisioni di business si basano sui dati dei consumatori (target), non su preferenze non correlate."
+        },
+        {
+          "text": "Quanto pesa il prodotto in libbre?",
+          "isCorrect": false,
+          "rationale": "Sebbene il peso possa influenzare la logistica, la domanda chiave riguarda l'idoneità comunicativa e strategica sui canali digitali."
+        }
+      ],
+      "hint": "È una domanda riflessiva sulla natura del bene e sulla sua 'notiziabilità' sul web."
+    }
+  ]
+}

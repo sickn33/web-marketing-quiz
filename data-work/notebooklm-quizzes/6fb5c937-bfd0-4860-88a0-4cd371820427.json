@@ -1,0 +1,786 @@
+{
+  "title": "Economia Quiz",
+  "questions": [
+    {
+      "question": "Secondo la mappa dei modelli di business digitali, quali aziende sono esempi di 'Hidden Revenue Generation'?",
+      "answerOptions": [
+        {
+          "text": "Google e Facebook",
+          "isCorrect": true,
+          "rationale": "Queste aziende offrono servizi gratuiti agli utenti finali monetizzando attraverso i dati o la pubblicità verso terzi."
+        },
+        {
+          "text": "Netflix e Salesforce",
+          "isCorrect": false,
+          "rationale": "Queste aziende utilizzano un modello basato su abbonamento (Subscription-Based) dove il ricavo è diretto ed esplicito."
+        },
+        {
+          "text": "Amazon e Alibaba",
+          "isCorrect": false,
+          "rationale": "Queste piattaforme operano principalmente come E-Commerce o Marketplace con transazioni dirette."
+        },
+        {
+          "text": "Spotify e Dropbox",
+          "isCorrect": false,
+          "rationale": "Queste aziende seguono tipicamente il modello Freemium, combinando servizi gratuiti e a pagamento."
+        }
+      ],
+      "hint": "Pensa a piattaforme che non fanno pagare l'utente finale per l'uso base del servizio ma generano profitti in altro modo."
+    },
+    {
+      "question": "In quale anno la presentazione di Belk presso l'Università del Wisconsin ha dato impulso al concetto di sharing nel comportamento del consumatore?",
+      "answerOptions": [
+        {
+          "text": "Ottobre 2006",
+          "isCorrect": true,
+          "rationale": "Questo evento segna l'inizio della diffusione accademica del concetto di condivisione applicato al consumo moderno."
+        },
+        {
+          "text": "Ottobre 2010",
+          "isCorrect": false,
+          "rationale": "Il 2010 è l'anno di pubblicazione dell'articolo 'Sharing', successivo alla presentazione iniziale."
+        },
+        {
+          "text": "Gennaio 2007",
+          "isCorrect": false,
+          "rationale": "Sebbene Belk abbia pubblicato un articolo rilevante nel 2007, la presentazione alla conferenza è avvenuta l'anno precedente."
+        },
+        {
+          "text": "Novembre 2012",
+          "isCorrect": false,
+          "rationale": "Il 2012 coincide con una crescita dei trend di ricerca su Google, ma non con la presentazione originale di Belk."
+        }
+      ],
+      "hint": "L'evento è avvenuto a metà degli anni 2000, poco prima della pubblicazione dei suoi articoli più noti."
+    },
+    {
+      "question": "Quale delle seguenti è una definizione alternativa comunemente usata per indicare la 'sharing economy'?",
+      "answerOptions": [
+        {
+          "text": "Access-based consumption",
+          "isCorrect": true,
+          "rationale": "Questo termine enfatizza l'ottenimento dell'uso di un bene senza il trasferimento della proprietà."
+        },
+        {
+          "text": "Ownership-based economy",
+          "isCorrect": false,
+          "rationale": "L'economia della condivisione si contrappone proprio al concetto tradizionale di possesso e proprietà."
+        },
+        {
+          "text": "Linear consumption model",
+          "isCorrect": false,
+          "rationale": "Il modello lineare riguarda la produzione e lo smaltimento, non la natura collaborativa del consumo."
+        },
+        {
+          "text": "Isolated consumption",
+          "isCorrect": false,
+          "rationale": "La sharing economy è definita 'connessa' o 'collaborativa', l'opposto del consumo isolato."
+        }
+      ],
+      "hint": "Cerca un termine che suggerisca l'idea di fruire di qualcosa invece di possederlo."
+    },
+    {
+      "question": "L'interazione 'Business to peer' (B2P) è esemplificata nel materiale da quale servizio?",
+      "answerOptions": [
+        {
+          "text": "ENJOY",
+          "isCorrect": true,
+          "rationale": "Si tratta di un modello in cui un'azienda fornisce beni o servizi direttamente ai singoli consumatori in modalità sharing."
+        },
+        {
+          "text": "Couchsurfing",
+          "isCorrect": false,
+          "rationale": "Couchsurfing è un classico esempio di interazione Peer to Peer (P2P), dove privati interagiscono con privati."
+        },
+        {
+          "text": "Airbnb",
+          "isCorrect": false,
+          "rationale": "Airbnb è prevalentemente una piattaforma P2P o C2C che facilita lo scambio tra individui."
+        },
+        {
+          "text": "Barter industriale",
+          "isCorrect": false,
+          "rationale": "Il barter industriale è citato come esempio di interazione Business to Business (B2B)."
+        }
+      ],
+      "hint": "Considera un servizio di mobilità gestito da un'azienda per utenti finali."
+    },
+    {
+      "question": "Secondo il 'continuum sharing/exchange' di Habibi et al. (2016), quali sono le caratteristiche dominanti dello scambio puro (Pure exchange)?",
+      "answerOptions": [
+        {
+          "text": "Reciprocità, calcolo e impersonalità",
+          "isCorrect": true,
+          "rationale": "Nello scambio puro, le parti agiscono in base a interessi economici calcolati senza legami sociali duraturi."
+        },
+        {
+          "text": "Legami sociali, cura e assenza di lucro",
+          "isCorrect": false,
+          "rationale": "Queste sono caratteristiche tipiche del 'Pure sharing', come la condivisione in ambito familiare."
+        },
+        {
+          "text": "Inalienabilità e dipendenza",
+          "isCorrect": false,
+          "rationale": "Lo scambio puro prevede beni alienabili e indipendenza tra i soggetti coinvolti."
+        },
+        {
+          "text": "Assenza di reciprocità e contesto affettivo",
+          "isCorrect": false,
+          "rationale": "Lo scambio economico è intrinsecamente reciproco e solitamente privo di connotazioni affettive."
+        }
+      ],
+      "hint": "Pensa alla transazione tipica di un negozio, come comprare il pane."
+    },
+    {
+      "question": "Quale punteggio di condivisione (sharing score) viene attribuito a Couchsurfing rispetto a Zipcar?",
+      "answerOptions": [
+        {
+          "text": "3.95 contro 2.3",
+          "isCorrect": true,
+          "rationale": "Couchsurfing ha una componente sociale e di condivisione molto più alta rispetto a Zipcar, che è più vicino allo scambio commerciale."
+        },
+        {
+          "text": "2.3 contro 3.95",
+          "isCorrect": false,
+          "rationale": "Questo invertirebbe il valore, suggerendo erroneamente che Zipcar sia più orientato alla condivisione pura rispetto a Couchsurfing."
+        },
+        {
+          "text": "3.14 contro 3.14",
+          "isCorrect": false,
+          "rationale": "Questo valore è indicato per Airbnb, che rappresenta un equilibrio tra condivisione e scambio."
+        },
+        {
+          "text": "1.0 contro 5.0",
+          "isCorrect": false,
+          "rationale": "Sebbene gli estremi siano 1 e 5, i casi studio presentati mostrano valori intermedi specifici."
+        }
+      ],
+      "hint": "Couchsurfing è molto più vicino alla 'condivisione pura' rispetto a un servizio di noleggio auto."
+    },
+    {
+      "question": "Nel 'Collaborative Economy Honeycomb', quali sono i tre principali fattori di mercato (Key Market Forces)?",
+      "answerOptions": [
+        {
+          "text": "Societal drivers, Economic drivers e Technology enablers",
+          "isCorrect": true,
+          "rationale": "Queste tre forze spiegano perché l'economia collaborativa si è sviluppata proprio in questo periodo storico."
+        },
+        {
+          "text": "Marketing, Finance e Human Resources",
+          "isCorrect": false,
+          "rationale": "Queste sono funzioni aziendali tradizionali, non le forze macroeconomiche descritte nel modello Honeycomb."
+        },
+        {
+          "text": "Supply, Demand e Equilibrium",
+          "isCorrect": false,
+          "rationale": "Sebbene siano concetti economici validi, il modello specifica driver sociali e tecnologici precisi."
+        },
+        {
+          "text": "Profit, Loss e Sustainability",
+          "isCorrect": false,
+          "rationale": "Questi sono risultati o obiettivi, mentre il modello si concentra sui fattori abilitanti del sistema."
+        }
+      ],
+      "hint": "Le forze includono il desiderio di connessione, il clima finanziario e l'avvento dei social network."
+    },
+    {
+      "question": "Quale settore domina i campi empirici coperti dalle ricerche sulla sharing economy secondo Trabucchi et al. (2019)?",
+      "answerOptions": [
+        {
+          "text": "Accomodations and tourism ($34\\%$)",
+          "isCorrect": true,
+          "rationale": "L'ospitalità, trainata da giganti come Airbnb, è l'area più studiata e attiva del settore."
+        },
+        {
+          "text": "Mobility ($8\\%$)",
+          "isCorrect": false,
+          "rationale": "Sebbene molto visibile (Uber/Lyft), la mobilità rappresenta una percentuale minore rispetto al turismo."
+        },
+        {
+          "text": "Fashion and other goods ($6\\%$)",
+          "isCorrect": false,
+          "rationale": "I beni di consumo e la moda sono settori emergenti ma ancora limitati nella ricerca empirica."
+        },
+        {
+          "text": "Multiple fields ($25\\%$)",
+          "isCorrect": false,
+          "rationale": "Questa categoria è rilevante, ma è superata dal settore specifico dell'alloggio e del turismo."
+        }
+      ],
+      "hint": "Pensa al settore in cui opera Airbnb."
+    },
+    {
+      "question": "Cosa si intende per 'Mercato a due lati' (Two-sided market)?",
+      "answerOptions": [
+        {
+          "text": "Piattaforme che consentono l'interazione tra diverse tipologie di utenti finali",
+          "isCorrect": true,
+          "rationale": "Il valore della piattaforma per una parte dipende in modo critico dal numero di utenti presenti sull'altro lato."
+        },
+        {
+          "text": "Un mercato dove esistono solo due aziende in competizione",
+          "isCorrect": false,
+          "rationale": "Questa è la definizione di duopolio, non di mercato a due lati (multi-sided)."
+        },
+        {
+          "text": "Un sistema di vendita dove il prezzo è fisso per tutti i clienti",
+          "isCorrect": false,
+          "rationale": "Nei mercati a due lati, la strategia di prezzo è spesso asimmetrica per massimizzare la partecipazione delle parti."
+        },
+        {
+          "text": "Un mercato diviso geograficamente in due zone distinte",
+          "isCorrect": false,
+          "rationale": "La 'lato' nel termine si riferisce a categorie di utenti (es. acquirenti e venditori), non a geografia."
+        }
+      ],
+      "hint": "Pensa al ruolo di intermediario che svolge Facebook o American Express."
+    },
+    {
+      "question": "Secondo la Legge di METCALFE, l'utilità di una rete ($Ui$) per ogni utente è circa pari a:",
+      "answerOptions": [
+        {
+          "text": "$Ui = n(n-1) \\approx n^2$",
+          "isCorrect": true,
+          "rationale": "L'utilità cresce in modo esponenziale rispetto al numero di nodi o utenti presenti nella rete."
+        },
+        {
+          "text": "$Ui = 2n$",
+          "isCorrect": false,
+          "rationale": "Questa formula indicherebbe una crescita lineare, che non riflette i potenti effetti di rete digitali."
+        },
+        {
+          "text": "$Ui = \\log(n)$",
+          "isCorrect": false,
+          "rationale": "Una crescita logaritmica indicherebbe ritorni decrescenti estremi, contrariamente alla teoria delle reti."
+        },
+        {
+          "text": "$Ui = n / 2$",
+          "isCorrect": false,
+          "rationale": "Questa formula suggerirebbe che l'utilità individuale diminuisce con l'aumento degli utenti, il che è falso per le reti positive."
+        }
+      ],
+      "hint": "L'utilità è proporzionale al quadrato del numero totale degli utenti."
+    },
+    {
+      "question": "Che cos'è l'effetto di rete indiretto?",
+      "answerOptions": [
+        {
+          "text": "Il valore di un bene aumenta con l'aumentare della varietà di beni complementari disponibili",
+          "isCorrect": true,
+          "rationale": "Un esempio classico è il lettore DVD, che diventa più utile se esistono molti titoli di film diversi."
+        },
+        {
+          "text": "Il valore aumenta direttamente con il numero di altri utenti che usano lo stesso bene",
+          "isCorrect": false,
+          "rationale": "Questa è la definizione di effetto di rete diretto, tipico del telefono."
+        },
+        {
+          "text": "La diminuzione dell'utilità dovuta al sovraffollamento della rete",
+          "isCorrect": false,
+          "rationale": "Questo descrive un'esternalità negativa di rete, non l'effetto indiretto standard."
+        },
+        {
+          "text": "L'effetto per cui il prezzo di un bene scende grazie alle economie di scala",
+          "isCorrect": false,
+          "rationale": "Sebbene correlato alla diffusione, l'effetto di rete riguarda l'utilità (valore) percepita, non solo il costo di produzione."
+        }
+      ],
+      "hint": "Pensa alla relazione tra un hardware e il suo software o i suoi contenuti."
+    },
+    {
+      "question": "Quali sono i due fattori che determinano la 'massa critica' nelle tecnologie digitali?",
+      "answerOptions": [
+        {
+          "text": "Economie di scala (lato domanda) e condizione di lock-in",
+          "isCorrect": true,
+          "rationale": "Questi fattori garantiscono che, una volta raggiunta una certa diffusione, la tecnologia diventi dominante e difficile da sostituire."
+        },
+        {
+          "text": "Prezzo di lancio e campagne pubblicitarie",
+          "isCorrect": false,
+          "rationale": "Questi sono strumenti di marketing, ma la massa critica strutturale dipende da economie di rete e costi di switch."
+        },
+        {
+          "text": "Velocità della CPU e memoria RAM",
+          "isCorrect": false,
+          "rationale": "Questi sono requisiti hardware tecnici, non fattori economici di massa critica."
+        },
+        {
+          "text": "Numero di dipendenti e capitale sociale",
+          "isCorrect": false,
+          "rationale": "Questi riguardano la dimensione dell'azienda, non la diffusione e la stabilità della tecnologia nel mercato."
+        }
+      ],
+      "hint": "Considera il vantaggio del costo per l'utente e i costi legati al cambiamento di fornitore."
+    },
+    {
+      "question": "Perché il layout della tastiera QWERTY è stato progettato originariamente?",
+      "answerOptions": [
+        {
+          "text": "Per evitare che le barre dei caratteri si inceppassero nelle prime macchine da scrivere",
+          "isCorrect": true,
+          "rationale": "Separando le lettere premute più frequentemente, si riduceva la velocità meccanica per evitare problemi fisici."
+        },
+        {
+          "text": "Perché è la disposizione scientificamente più veloce per la digitazione umana",
+          "isCorrect": false,
+          "rationale": "Al contrario, il QWERTY è stato progettato per rallentare la digitazione rispetto a quanto fosse meccanicamente possibile."
+        },
+        {
+          "text": "Per facilitare l'apprendimento ai bambini nelle scuole",
+          "isCorrect": false,
+          "rationale": "La disposizione non segue criteri pedagogici, ma rispondeva a limiti ingegneristici del 1868."
+        },
+        {
+          "text": "Per standardizzare le tastiere tra diverse lingue europee",
+          "isCorrect": false,
+          "rationale": "Il progetto era specifico per la lingua inglese e per risolvere un problema meccanico interno."
+        }
+      ],
+      "hint": "Era una soluzione a un problema meccanico delle macchine di Christopher Sholes."
+    },
+    {
+      "question": "Nonostante il layout Dvorak (1936) sia più veloce, perché il QWERTY domina ancora?",
+      "answer": "A causa dei costi di switching (lock-in) e dell'effetto di rete.",
+      "answerOptions": [
+        {
+          "text": "Per la presenza di switching cost (monetari o cognitivi)",
+          "isCorrect": true,
+          "rationale": "L'abitudine e l'investimento nell'apprendimento del QWERTY rendono troppo costoso il passaggio a un nuovo standard."
+        },
+        {
+          "text": "Perché il brevetto Dvorak è ancora segreto e inutilizzabile",
+          "isCorrect": false,
+          "rationale": "Il layout Dvorak è pubblico e disponibile, ma manca l'adozione di massa."
+        },
+        {
+          "text": "Perché le moderne tastiere dei PC richiedono ancora il rallentamento meccanico",
+          "isCorrect": false,
+          "rationale": "Nei PC e nelle macchine elettriche il problema dell'inceppamento delle barre non esiste più."
+        },
+        {
+          "text": "Perché il QWERTY è più efficiente per i dispositivi mobili",
+          "isCorrect": false,
+          "rationale": "Il QWERTY è stato semplicemente trasposto sui mobili per familiarità, non per efficienza ergonomica superiore."
+        }
+      ],
+      "hint": "Considera quanto sarebbe difficile per tutti imparare di nuovo a scrivere a macchina."
+    },
+    {
+      "question": "Nelle piattaforme a due lati, come interagiscono solitamente gli utenti dello stesso lato?",
+      "answerOptions": [
+        {
+          "text": "Sottraggono valore direttamente gli uni agli altri",
+          "isCorrect": true,
+          "rationale": "L'aumento della concorrenza sullo stesso lato (es. troppi venditori) può ridurre il valore per il singolo utente di quel lato."
+        },
+        {
+          "text": "Collaborano sempre per aumentare i prezzi",
+          "isCorrect": false,
+          "rationale": "Sebbene possibile in teoria (cartelli), il modello standard prevede che competano, sottraendosi opportunità."
+        },
+        {
+          "text": "Non hanno alcun impatto reciproco",
+          "isCorrect": false,
+          "rationale": "Nelle piattaforme digitali, gli utenti dello stesso lato hanno quasi sempre un impatto (positivo o negativo) tra loro."
+        },
+        {
+          "text": "Aumentano il valore della piattaforma senza limiti",
+          "isCorrect": false,
+          "rationale": "Questa è solitamente l'interazione tra lati diversi (cross-side), non tra utenti dello stesso lato."
+        }
+      ],
+      "hint": "Pensa a cosa succede se ci sono troppi autisti Uber nella stessa zona per l'utilità del singolo autista."
+    },
+    {
+      "question": "Cosa indica la 'curva del valore' in un Marketplace Asintotico (2-Sided)?",
+      "answerOptions": [
+        {
+          "text": "La velocità con cui il valore per la domanda aumenta con l'aumentare dell'offerta",
+          "isCorrect": true,
+          "rationale": "Descrive come l'utilità per chi acquista cresce man mano che si aggiungono fornitori sulla piattaforma."
+        },
+        {
+          "text": "Il costo totale di acquisizione di un nuovo cliente",
+          "isCorrect": false,
+          "rationale": "Questa metrica è importante ma non definisce la forma asintotica del valore di rete."
+        },
+        {
+          "text": "La diminuzione dei prezzi dovuta alla concorrenza perfetta",
+          "isCorrect": false,
+          "rationale": "Il grafico si concentra sul 'Valore per la Domanda', non necessariamente sul prezzo di mercato."
+        },
+        {
+          "text": "Il tempo necessario per raggiungere il profitto netto",
+          "isCorrect": false,
+          "rationale": "La curva riguarda la struttura del mercato e l'utilità della rete, non i tempi contabili dell'azienda."
+        }
+      ],
+      "hint": "Il grafico mette in relazione il 'Value to Demand' con la 'Supply'."
+    },
+    {
+      "question": "Nel modello di business di Airbnb, quale percentuale di 'Service Fee' viene solitamente addebitata all'Host?",
+      "answerOptions": [
+        {
+          "text": "$3\\%$",
+          "isCorrect": true,
+          "rationale": "L'Host paga una commissione fissa relativamente bassa per l'accesso al mercato e i servizi della piattaforma."
+        },
+        {
+          "text": "$6-12\\%$",
+          "isCorrect": false,
+          "rationale": "Questa è la gamma di percentuali solitamente applicata al visitatore (Guest)."
+        },
+        {
+          "text": "$20\\%$",
+          "isCorrect": false,
+          "rationale": "Questa percentuale è superiore a quella standard indicata nel diagramma del modello di business."
+        },
+        {
+          "text": "$0\\%$, è totalmente gratuito",
+          "isCorrect": false,
+          "rationale": "Airbnb trattiene una commissione da entrambi i lati per sostenere l'infrastruttura."
+        }
+      ],
+      "hint": "È la percentuale più piccola tra le due citate per i costi di servizio."
+    },
+    {
+      "question": "Quale delle seguenti è una caratteristica del 'Pure Sharing' nel continuum di Habibi?",
+      "answerOptions": [
+        {
+          "text": "Non reciprocità e legami sociali",
+          "isCorrect": true,
+          "rationale": "In contesti come la cura materna, l'atto del condividere non aspetta un ritorno economico o un calcolo."
+        },
+        {
+          "text": "Calcolo e alienabilità",
+          "isCorrect": false,
+          "rationale": "Queste caratteristiche appartengono allo scambio commerciale (Pure exchange)."
+        },
+        {
+          "text": "Obblighi persistenti e indipendenza",
+          "isCorrect": false,
+          "rationale": "Il pure sharing prevede dipendenza e legami personali, non indipendenza tra le parti."
+        },
+        {
+          "text": "Valutazione monetaria dei beni",
+          "isCorrect": false,
+          "rationale": "Nella condivisione pura, il denaro è solitamente irrilevante."
+        }
+      ],
+      "hint": "Pensa ad atti di cura o condivisione in famiglia."
+    },
+    {
+      "question": "In un mercato a due lati, qual è un problema critico per il gestore della piattaforma?",
+      "answerOptions": [
+        {
+          "text": "Scegliere quanto far pagare a ciascuna parte per massimizzare i profitti",
+          "isCorrect": true,
+          "rationale": "Trovare l'equilibrio di prezzo ottimale tra i due lati è fondamentale per non scoraggiare la partecipazione di una parte essenziale."
+        },
+        {
+          "text": "Limitare il numero di utenti per evitare il sovraccarico dei server",
+          "isCorrect": false,
+          "rationale": "L'obiettivo è solitamente scalare e raggiungere la massa critica, non limitare la crescita."
+        },
+        {
+          "text": "Vendere i dati degli utenti esclusivamente alla concorrenza",
+          "isCorrect": false,
+          "rationale": "Sebbene i dati siano un asset, la sfida principale citata riguarda la struttura dei prezzi per l'adesione."
+        },
+        {
+          "text": "Assicurarsi che il prodotto fisico sia di proprietà della piattaforma",
+          "isCorrect": false,
+          "rationale": "Molte piattaforme di sharing (come Airbnb) non possiedono gli asset che scambiano."
+        }
+      ],
+      "hint": "Riguarda la strategia di monetizzazione descritta da Rochet e Tirole."
+    },
+    {
+      "question": "Secondo il 'Honeycomb Version 1.0', sotto quale categoria ricadono Kickstarter e LendingClub?",
+      "answerOptions": [
+        {
+          "text": "Money",
+          "isCorrect": true,
+          "rationale": "Queste piattaforme facilitano il finanziamento collettivo (crowdfunding) e il prestito tra pari (moneylending)."
+        },
+        {
+          "text": "Goods",
+          "isCorrect": false,
+          "rationale": "Sebbene si possano ottenere beni, l'attività core è la gestione e lo scambio di capitali."
+        },
+        {
+          "text": "Services",
+          "isCorrect": false,
+          "rationale": "Si riferisce a servizi professionali o personali, non specificamente al finanziamento."
+        },
+        {
+          "text": "Space",
+          "isCorrect": false,
+          "rationale": "Questa categoria include l'affitto di alloggi o uffici, come Airbnb o Sharedesk."
+        }
+      ],
+      "hint": "Queste aziende gestiscono flussi finanziari e capitali."
+    },
+    {
+      "question": "Quale esempio viene fatto per illustrare l'effetto di rete diretto?",
+      "answerOptions": [
+        {
+          "text": "Il telefono",
+          "isCorrect": true,
+          "rationale": "Il valore di un telefono per un singolo individuo cresce direttamente con il numero totale di persone che hanno un telefono."
+        },
+        {
+          "text": "Il lettore DVD",
+          "isCorrect": false,
+          "rationale": "Viene utilizzato come esempio di effetto di rete indiretto."
+        },
+        {
+          "text": "Il pane comprato in un negozio",
+          "isCorrect": false,
+          "rationale": "Questo è un esempio di 'Pure exchange' senza significativi effetti di rete."
+        },
+        {
+          "text": "L'acquisto di un'auto privata",
+          "isCorrect": false,
+          "rationale": "Il valore di un'auto privata non aumenta necessariamente se altre persone comprano la stessa auto."
+        }
+      ],
+      "hint": "È un dispositivo di comunicazione interpersonale."
+    },
+    {
+      "question": "Cosa sostiene la prospettiva di Codagnone (2016) sulla sharing economy?",
+      "answerOptions": [
+        {
+          "text": "Include piattaforme commerciali e non-profit che sfruttano asset capitali, beni o tempo",
+          "isCorrect": true,
+          "rationale": "La definizione è ampia e comprende vari asset (denaro, immobili, competenze) e diverse modalità di interazione."
+        },
+        {
+          "text": "La sharing economy dovrebbe limitarsi esclusivamente allo scambio gratuito tra pari",
+          "isCorrect": false,
+          "rationale": "La definizione di Codagnone include esplicitamente interazioni digitali commerciali."
+        },
+        {
+          "text": "È un fenomeno che riguarda solo il settore dei trasporti",
+          "isCorrect": false,
+          "rationale": "Il testo menziona una vasta gamma di interazioni (immobili, tempo, ecc.) oltre ai trasporti."
+        },
+        {
+          "text": "Non può esistere senza l'intervento diretto del governo (G2G)",
+          "isCorrect": false,
+          "rationale": "Sebbene citi interazioni G2G, non le pone come condizione necessaria per l'intero fenomeno."
+        }
+      ],
+      "hint": "Guarda alla definizione che parla di 'interazioni tra una varietà di player attraverso interazioni digitali'."
+    },
+    {
+      "question": "Cosa si intende per 'Economie di scala dal lato della domanda'?",
+      "answerOptions": [
+        {
+          "text": "La riduzione del prezzo medio unitario di accesso all'aumentare della diffusione della tecnologia",
+          "isCorrect": true,
+          "rationale": "Più utenti adottano la tecnologia, più i costi si spalmano, rendendo l'accesso più economico per tutti."
+        },
+        {
+          "text": "L'aumento dei costi di produzione quando la domanda è troppo alta",
+          "isCorrect": false,
+          "rationale": "Questo descriverebbe diseconomie di scala, l'opposto di quanto richiesto."
+        },
+        {
+          "text": "Il vantaggio competitivo derivante dall'avere fornitori esclusivi",
+          "isCorrect": false,
+          "rationale": "Le economie di scala dal lato domanda riguardano la diffusione tra gli utenti, non la supply chain."
+        },
+        {
+          "text": "La capacità di produrre beni fisici a costi marginali crescenti",
+          "isCorrect": false,
+          "rationale": "Nelle economie digitali i costi marginali tendono a zero o sono decrescenti."
+        }
+      ],
+      "hint": "Pensa a come il costo per l'utente finale cambia quando una rete si espande."
+    },
+    {
+      "question": "Nel diagramma di Airbnb, cosa rappresenta la freccia che va dal Visitor all'Host con l'icona delle stelline?",
+      "answerOptions": [
+        {
+          "text": "Feedback o recensione",
+          "isCorrect": true,
+          "rationale": "La comunicazione post-soggiorno è fondamentale per costruire fiducia nella piattaforma."
+        },
+        {
+          "text": "Pagamento della prenotazione",
+          "isCorrect": false,
+          "rationale": "Il pagamento solitamente passa attraverso la piattaforma Airbnb (intermediario), non direttamente tra i due con quelle icone."
+        },
+        {
+          "text": "Consegna delle chiavi",
+          "isCorrect": false,
+          "rationale": "Questa è un'interazione fisica o logistica, non rappresentata dalle icone di valutazione nel materiale."
+        },
+        {
+          "text": "Assicurazione sulla casa",
+          "isCorrect": false,
+          "rationale": "L'assicurazione è un servizio fornito dalla piattaforma o da terzi, non uno scambio diretto Guest-Host con stelline."
+        }
+      ],
+      "hint": "Si riferisce alla valutazione dell'esperienza."
+    },
+    {
+      "question": "Quale tra questi è un esempio di interazione 'Business to Business' (B2B) nell'economia della condivisione?",
+      "answerOptions": [
+        {
+          "text": "Barter industriale",
+          "isCorrect": true,
+          "rationale": "Lo scambio di beni o servizi tra aziende senza l'uso di valuta monetaria è una forma storica di B2B sharing."
+        },
+        {
+          "text": "TaskRabbit",
+          "isCorrect": false,
+          "rationale": "TaskRabbit è tipicamente P2P o B2P, focalizzato su servizi personali e professionali per individui."
+        },
+        {
+          "text": "Lyft",
+          "isCorrect": false,
+          "rationale": "Lyft è un servizio di trasporto orientato ai singoli consumatori."
+        },
+        {
+          "text": "eBay",
+          "isCorrect": false,
+          "rationale": "eBay è il classico marketplace C2C/P2P o B2C, non specificamente focalizzato sul barter industriale."
+        }
+      ],
+      "hint": "Cerca il termine che descrive lo scambio merci tra imprese."
+    },
+    {
+      "question": "Quale driver sociale (Societal Driver) è citato nel modello Honeycomb?",
+      "answerOptions": [
+        {
+          "text": "Desire to connect",
+          "isCorrect": true,
+          "rationale": "Il bisogno umano di interazione sociale e appartenenza a una comunità spinge verso modelli collaborativi."
+        },
+        {
+          "text": "Financial climate",
+          "isCorrect": false,
+          "rationale": "Questo è classificato come un 'Economic Driver', non sociale."
+        },
+        {
+          "text": "Mobile technologies",
+          "isCorrect": false,
+          "rationale": "Le tecnologie mobili sono classificate come 'Technology Enablers'."
+        },
+        {
+          "text": "Startups heavily funded",
+          "isCorrect": false,
+          "rationale": "I massicci finanziamenti alle startup sono un fattore economico (Economic Driver)."
+        }
+      ],
+      "hint": "Riguarda un'aspirazione o un comportamento tipico delle persone nella società."
+    },
+    {
+      "question": "Nella mappa dei modelli di business digitali, sotto quale categoria si trova Uber?",
+      "answerOptions": [
+        {
+          "text": "On-Demand",
+          "isCorrect": true,
+          "rationale": "Uber fornisce servizi immediati basati sulla richiesta dell'utente in tempo reale."
+        },
+        {
+          "text": "Open Source Model",
+          "isCorrect": false,
+          "rationale": "Il software di Uber è proprietario, non aperto come quello di RedHat o GitHub."
+        },
+        {
+          "text": "Subscription-Based",
+          "isCorrect": false,
+          "rationale": "Sebbene esistano pass, il modello core è il pagamento a consumo per ogni singola corsa."
+        },
+        {
+          "text": "Ad-Supported",
+          "isCorrect": false,
+          "rationale": "Uber genera ricavi dalle commissioni sulle corse, non principalmente dalla pubblicità."
+        }
+      ],
+      "hint": "Pensa alla disponibilità del servizio 'su richiesta'."
+    },
+    {
+      "question": "Cosa indica il termine 'Lock-in' in ambito tecnologico?",
+      "answerOptions": [
+        {
+          "text": "L'esistenza di costi che un utente deve sostenere nel cambiare tecnologia",
+          "isCorrect": true,
+          "rationale": "Questi costi possono essere monetari, di tempo per l'apprendimento o legati alla compatibilità dei dati."
+        },
+        {
+          "text": "Il blocco di sicurezza di una piattaforma contro gli hacker",
+          "isCorrect": false,
+          "rationale": "Il termine non si riferisce alla cybersecurity in questo contesto economico."
+        },
+        {
+          "text": "L'obbligo legale di utilizzare solo software nazionale",
+          "isCorrect": false,
+          "rationale": "Il lock-in è solitamente un fenomeno di mercato, non un'imposizione legislativa diretta."
+        },
+        {
+          "text": "L'impossibilità fisica di disinstallare un'applicazione",
+          "isCorrect": false,
+          "rationale": "Si tratta di una metafora economica riguardante la difficoltà di passare a un concorrente."
+        }
+      ],
+      "hint": "Pensa alla fatica di passare da Android a iOS o viceversa."
+    },
+    {
+      "question": "Quale di queste aziende è associata alla categoria 'Food' nel Collaborative Economy Honeycomb?",
+      "answerOptions": [
+        {
+          "text": "Feastly",
+          "isCorrect": true,
+          "rationale": "Feastly permette ai cuochi di offrire pasti in case private, un classico esempio di food sharing."
+        },
+        {
+          "text": "Zappos",
+          "isCorrect": false,
+          "rationale": "Zappos è un rivenditore online di scarpe e abbigliamento."
+        },
+        {
+          "text": "LendingClub",
+          "isCorrect": false,
+          "rationale": "Si occupa di prestiti finanziari tra privati (Money)."
+        },
+        {
+          "text": "RelayRides",
+          "isCorrect": false,
+          "rationale": "È focalizzata sulla condivisione di veicoli (Transportation)."
+        }
+      ],
+      "hint": "Cerca una piattaforma legata alla preparazione o condivisione di pasti."
+    },
+    {
+      "question": "Secondo i grafici di Google Trends mostrati, quale termine di ricerca ha mostrato una crescita significativa dopo il 2012?",
+      "answerOptions": [
+        {
+          "text": "\"sharing economy\"",
+          "isCorrect": true,
+          "rationale": "L'interesse del pubblico per questo termine è esploso con l'affermarsi globale delle principali piattaforme."
+        },
+        {
+          "text": "\"industrial barter\"",
+          "isCorrect": false,
+          "rationale": "Il barter è una pratica più vecchia e non ha avuto lo stesso picco di interesse generalista su Google."
+        },
+        {
+          "text": "\"floppy disk\"",
+          "isCorrect": false,
+          "rationale": "Questo termine avrebbe mostrato un trend decrescente in quel periodo."
+        },
+        {
+          "text": "\"fax machine\"",
+          "isCorrect": false,
+          "rationale": "Tecnologia obsoleta, non coerente con i trend di crescita della digital economy citati."
+        }
+      ],
+      "hint": "È il termine che dà il titolo a gran parte della presentazione."
+    }
+  ]
+}

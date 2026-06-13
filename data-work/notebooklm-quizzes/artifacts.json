@@ -1,0 +1,275 @@
+[
+  {
+    "id": "060f48b2-afd4-4c70-8b8a-70879877aae5",
+    "type": "quiz",
+    "status": "completed",
+    "custom_instructions": "il quiz deve avere 50 domande",
+    "visual_style_prompt": null
+  },
+  {
+    "id": "f7c675e4-98c5-4bba-be60-f114af3833f8",
+    "type": "quiz",
+    "status": "completed",
+    "custom_instructions": "il quiz deve avere 30 domande",
+    "visual_style_prompt": null
+  },
+  {
+    "id": "bb683e24-e6a8-469b-9569-fa39d3f32002",
+    "type": "quiz",
+    "status": "completed",
+    "custom_instructions": "genera un quiz di 30 domande",
+    "visual_style_prompt": null
+  },
+  {
+    "id": "4803ba1d-53c7-4876-b9f8-68be11ed7367",
+    "type": "quiz",
+    "status": "completed",
+    "custom_instructions": "il quiz deve avere 30 domande",
+    "visual_style_prompt": null
+  },
+  {
+    "id": "f37bf5c0-6912-49c1-9627-45ed9fe4ccb7",
+    "type": "quiz",
+    "status": "completed",
+    "custom_instructions": "il quiz deve avere 30 domande",
+    "visual_style_prompt": null
+  },
+  {
+    "id": "7f2cb1e6-f2f6-4cf1-956e-e7151f7a2c92",
+    "type": "quiz",
+    "status": "completed",
+    "custom_instructions": "il quiz deve avere 30 domande",
+    "visual_style_prompt": null
+  },
+  {
+    "id": "a70d05b8-88d4-47de-b733-7d7b97c732be",
+    "type": "quiz",
+    "status": "completed",
+    "custom_instructions": "il quiz deve avere 30 domande",
+    "visual_style_prompt": null
+  },
+  {
+    "id": "be7f2fdb-6d3e-4632-a8e4-42caf84dfc9c",
+    "type": "quiz",
+    "status": "completed",
+    "custom_instructions": "il quiz deve avere 30 domande",
+    "visual_style_prompt": null
+  },
+  {
+    "id": "721a30f2-966a-45d7-96f5-c292c6d7487e",
+    "type": "quiz",
+    "status": "completed",
+    "custom_instructions": "il quiz deve avere 30 domande",
+    "visual_style_prompt": null
+  },
+  {
+    "id": "0bba1403-0ace-43e1-bde5-9d69c2e55d25",
+    "type": "quiz",
+    "status": "completed",
+    "custom_instructions": "il quiz deve avere 30 domande",
+    "visual_style_prompt": null
+  },
+  {
+    "id": "d35c27ec-7158-4bb2-a309-294809d9c81a",
+    "type": "quiz",
+    "status": "completed",
+    "custom_instructions": "il quiz deve avere 30 domande",
+    "visual_style_prompt": null
+  },
+  {
+    "id": "aa4bfa94-0c7f-4231-aa81-023bae318c29",
+    "type": "quiz",
+    "status": "completed",
+    "custom_instructions": "il quiz deve avere 30 domande",
+    "visual_style_prompt": null
+  },
+  {
+    "id": "7f575abd-f93a-418a-b24e-9e153cfc6842",
+    "type": "quiz",
+    "status": "completed",
+    "custom_instructions": "il quiz deve avere 30 domande",
+    "visual_style_prompt": null
+  },
+  {
+    "id": "702e4960-949c-4266-b88e-8ed3d5b5c160",
+    "type": "quiz",
+    "status": "completed",
+    "custom_instructions": "il quiz deve avere 30 domande",
+    "visual_style_prompt": null
+  },
+  {
+    "id": "6fb5c937-bfd0-4860-88a0-4cd371820427",
+    "type": "quiz",
+    "status": "completed",
+    "custom_instructions": "il quiz deve avere 30 domande di varia difficoltà",
+    "visual_style_prompt": null
+  },
+  {
+    "id": "12c0dac5-0ef8-4e9a-a7a9-c33c73f780dc",
+    "type": "quiz",
+    "status": "completed",
+    "custom_instructions": "il quiz deve avere 30 domande di varia difficoltà",
+    "visual_style_prompt": null
+  },
+  {
+    "id": "2cb8bb7f-afa4-4cda-89cd-7cded489209e",
+    "type": "quiz",
+    "status": "completed",
+    "custom_instructions": "il quiz deve avere 30 domande di varia difficoltà",
+    "visual_style_prompt": null
+  },
+  {
+    "id": "a061de53-5ac8-4858-ae12-cc2f682bc6da",
+    "type": "quiz",
+    "status": "completed",
+    "custom_instructions": "il quiz deve avere 30 domande di varia difficoltà",
+    "visual_style_prompt": null
+  },
+  {
+    "id": "7d680837-6c7c-499a-a9e0-616e6302fb7f",
+    "type": "quiz",
+    "status": "completed",
+    "custom_instructions": "il quiz deve avere 30 domande di varia difficoltà",
+    "visual_style_prompt": null
+  },
+  {
+    "id": "1bd98dae-4888-4881-b0ab-0b3e53eb0ba6",
+    "type": "quiz",
+    "status": "completed",
+    "custom_instructions": "il quiz deve avere 30 domande di varia difficoltà",
+    "visual_style_prompt": null
+  },
+  {
+    "id": "3a28bdbd-885a-4a57-9c50-d59fe30fe8a5",
+    "type": "quiz",
+    "status": "completed",
+    "custom_instructions": "il quiz deve avere 30 domande di varia difficoltà",
+    "visual_style_prompt": null
+  },
+  {
+    "id": "dbe27a51-c171-43e0-a5eb-132a74405a20",
+    "type": "quiz",
+    "status": "completed",
+    "custom_instructions": "il quiz deve avere 30 domande di varia difficoltà",
+    "visual_style_prompt": null
+  },
+  {
+    "id": "3d7a6e33-bdcd-4c60-a085-f51df978270a",
+    "type": "quiz",
+    "status": "completed",
+    "custom_instructions": "il quiz deve avere 30 domande di varia difficoltà",
+    "visual_style_prompt": null
+  },
+  {
+    "id": "85f72fb5-fbe1-406c-975f-5fed3a248aad",
+    "type": "quiz",
+    "status": "completed",
+    "custom_instructions": "il quiz deve avere 50 domande",
+    "visual_style_prompt": null
+  },
+  {
+    "id": "0d653805-381b-4361-875e-6ce65c2814ae",
+    "type": "quiz",
+    "status": "completed",
+    "custom_instructions": "il quiz deve avere 30 domande",
+    "visual_style_prompt": null
+  },
+  {
+    "id": "8b03b550-a2af-4342-aafe-1f922af739eb",
+    "type": "quiz",
+    "status": "completed",
+    "custom_instructions": "il quiz deve avere 30 domande di difficoltà media e 20 domande di difficoltà elevata",
+    "visual_style_prompt": null
+  },
+  {
+    "id": "c6307972-40bd-4fac-ba36-8ef9b39fea9a",
+    "type": "quiz",
+    "status": "completed",
+    "custom_instructions": "il quiz deve avere 50 domande\n15 domande facili\n20 domande intermedie\n15 domande difficili",
+    "visual_style_prompt": null
+  },
+  {
+    "id": "d2f2355a-c341-48a3-b665-2dfd27b3382a",
+    "type": "quiz",
+    "status": "completed",
+    "custom_instructions": "il quiz deve avere 50 domande",
+    "visual_style_prompt": null
+  },
+  {
+    "id": "96172cc3-3369-4044-9bcc-b40a6d8bc28c",
+    "type": "quiz",
+    "status": "completed",
+    "custom_instructions": "il quiz deve avere 50 domande e toccare gli argomenti di tutti i documenti",
+    "visual_style_prompt": null
+  },
+  {
+    "id": "a073bca2-2098-43ac-a206-0e1255a55c7b",
+    "type": "quiz",
+    "status": "completed",
+    "custom_instructions": "Genera un quiz composto da esattamente 30 domande seguendo queste regole:\n\nLe domande devono avere un livello di difficoltà variabile (facile, medio e difficile).\nCirca il 50% delle domande deve essere identico o molto simile a quelle presenti nel documento.\nIl restante 50% deve essere composto da domande nuove ma strettamente correlate agli stessi argomenti, concetti e competenze trattati nel documento.\nDistribuisci le domande in modo equilibrato tra tutti gli argomenti presenti nei documenti.\nEvita duplicazioni e formulazioni ambigue.",
+    "visual_style_prompt": null
+  },
+  {
+    "id": "6bace792-fb78-4adf-9731-fad76d9dec25",
+    "type": "quiz",
+    "status": "completed",
+    "custom_instructions": "il quiz deve avere 50 domande",
+    "visual_style_prompt": null
+  },
+  {
+    "id": "716f7be8-90fd-4dea-b301-9a299e8f7da2",
+    "type": "quiz",
+    "status": "completed",
+    "custom_instructions": "il quiz deve avere 30 domande",
+    "visual_style_prompt": null
+  },
+  {
+    "id": "492e0658-c8a3-4568-b484-0b1a8e369811",
+    "type": "quiz",
+    "status": "completed",
+    "custom_instructions": "il quiz deve avere 30 domande\nno domande con risposte mnemoniche",
+    "visual_style_prompt": null
+  },
+  {
+    "id": "e117a23d-cc4c-475b-ab27-804b5c03e78d",
+    "type": "quiz",
+    "status": "completed",
+    "custom_instructions": "il quiz deve avere 30 domande\nle domande devono spaziare fra gli argomenti\nno domande con risposte mnemoniche",
+    "visual_style_prompt": null
+  },
+  {
+    "id": "174391d9-2ebf-42eb-a619-b745504bb779",
+    "type": "quiz",
+    "status": "completed",
+    "custom_instructions": "crea un quiz di 30 domande",
+    "visual_style_prompt": null
+  },
+  {
+    "id": "8d078688-cfb1-4ce1-b750-5c87dc9906f3",
+    "type": "quiz",
+    "status": "completed",
+    "custom_instructions": "il quiz deve avere 30 domande",
+    "visual_style_prompt": null
+  },
+  {
+    "id": "b595dddc-b912-4784-a3ee-9c8ddf7412ac",
+    "type": "quiz",
+    "status": "completed",
+    "custom_instructions": "il quiz deve avere 50 domande\nle domande devono essere di difficoltà bassa, media, alta",
+    "visual_style_prompt": null
+  },
+  {
+    "id": "6f37cae2-b831-44be-a972-340482a4216f",
+    "type": "quiz",
+    "status": "completed",
+    "custom_instructions": "il quiz deve avere 30 domande.\nLe domande devono essere tutte tradotte in italiano",
+    "visual_style_prompt": null
+  },
+  {
+    "id": "3d71c962-6382-4632-b2d0-ba88da163777",
+    "type": "quiz",
+    "status": "completed",
+    "custom_instructions": "il quiz deve avere 30 domande",
+    "visual_style_prompt": null
+  }
+]

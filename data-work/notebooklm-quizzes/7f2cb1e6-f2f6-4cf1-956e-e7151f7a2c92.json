@@ -1,0 +1,785 @@
+{
+  "title": "Marketing Quiz",
+  "questions": [
+    {
+      "question": "Qual è l'obiettivo principale dell'email marketing secondo la definizione del Prof. Granato?",
+      "answerOptions": [
+        {
+          "text": "Inviare il maggior numero di messaggi possibile a database acquistati.",
+          "isCorrect": false,
+          "rationale": "L'invio massivo e indiscriminato contrasta con il principio di creare una relazione di valore e personalizzata descritta nel materiale."
+        },
+        {
+          "text": "Creare una relazione di valore, trasparente e duratura con il destinatario.",
+          "isCorrect": true,
+          "rationale": "Il marketing via email mira a costruire un legame solido basato su informazioni utili per favorire la conversione finale."
+        },
+        {
+          "text": "Sostituire completamente la comunicazione sui social media.",
+          "isCorrect": false,
+          "rationale": "Il materiale descrive l'email marketing come una tecnica specifica di marketing digitale, non come un sostituto totale di altri canali."
+        },
+        {
+          "text": "Fornire esclusivamente assistenza tecnica post-vendita.",
+          "isCorrect": false,
+          "rationale": "Sebbene possa includere conferme di acquisto, il suo scopo è più ampio e include la promozione e la costruzione di relazioni."
+        }
+      ],
+      "hint": "Cerca di focalizzarti sulla natura del legame che l'azienda vuole instaurare con il cliente."
+    },
+    {
+      "question": "Quale tipo di email marketing ha lo scopo di recuperare un utente che ha lasciato prodotti nel carrello?",
+      "answerOptions": [
+        {
+          "text": "Newsletter periodica.",
+          "isCorrect": false,
+          "rationale": "Le newsletter sono focalizzate sull'informazione generale e sugli aggiornamenti aziendali regolari, non sul recupero di azioni specifiche."
+        },
+        {
+          "text": "Email Transazionale.",
+          "isCorrect": false,
+          "rationale": "Queste email rispondono a un'azione completata, come un acquisto, piuttosto che a un'azione interrotta."
+        },
+        {
+          "text": "Email di Remarketing.",
+          "isCorrect": true,
+          "rationale": "Questa tipologia è progettata specificamente per invogliare i potenziali clienti a completare un processo d'acquisto iniziato ma non concluso."
+        },
+        {
+          "text": "Email di Benvenuto.",
+          "isCorrect": false,
+          "rationale": "L'email di benvenuto serve a presentare l'azienda ai nuovi iscritti, non a gestire i carrelli abbandonati."
+        }
+      ],
+      "hint": "Pensa al termine utilizzato per indicare il marketing rivolto a chi ha già interagito con il sito."
+    },
+    {
+      "question": "In cosa consiste l'automazione nell'ambito dell'email marketing?",
+      "answerOptions": [
+        {
+          "text": "Scrivere contenuti generici validi per tutti i segmenti di pubblico.",
+          "isCorrect": false,
+          "rationale": "L'automazione non riguarda la qualità o la generalità dei contenuti, ma il processo di invio."
+        },
+        {
+          "text": "Inviare email a specifici iscritti in momenti ideali predefiniti.",
+          "isCorrect": true,
+          "rationale": "L'automazione permette di ottimizzare i tempi di invio e ridurre il lavoro manuale basandosi su trigger specifici."
+        },
+        {
+          "text": "Utilizzare un bot per rispondere alle lamentele dei clienti.",
+          "isCorrect": false,
+          "rationale": "Sebbene utile, questa funzione rientra più nel customer service che nelle strategie di email marketing presentate."
+        },
+        {
+          "text": "Eliminare automaticamente gli utenti che non aprono le email.",
+          "isCorrect": false,
+          "rationale": "Questa è una pratica di pulizia delle liste, mentre l'automazione è orientata all'invio proattivo di messaggi."
+        }
+      ],
+      "hint": "Rifletti sul risparmio di tempo e sulla scelta del tempismo perfetto per il destinatario."
+    },
+    {
+      "question": "Secondo l'esempio di Nike, perché il design dell'email è considerato strategico?",
+      "answerOptions": [
+        {
+          "text": "Perché nel settore della moda l'aspetto visivo è fondamentale.",
+          "isCorrect": true,
+          "rationale": "In settori come l'abbigliamento, un design minimalista e accattivante comunica direttamente l'estetica del brand."
+        },
+        {
+          "text": "Perché deve contenere il maggior numero di link possibile.",
+          "isCorrect": false,
+          "rationale": "Il design di Nike è lodato per il suo minimalismo, non per la quantità di collegamenti ipertestuali."
+        },
+        {
+          "text": "Per compensare la mancanza di prodotti nuovi.",
+          "isCorrect": false,
+          "rationale": "Il design serve a pubblicizzare le linee esistenti o nuove in modo efficace, non a nascondere carenze di catalogo."
+        },
+        {
+          "text": "Perché le email di moda sono le uniche che richiedono un layout chiaro.",
+          "isCorrect": false,
+          "rationale": "Tutte le email beneficiano di un layout chiaro, ma per la moda il design ha un valore strategico legato all'immagine."
+        }
+      ],
+      "hint": "Pensa alla connessione tra l'estetica del prodotto e il modo in cui viene presentato digitalmente."
+    },
+    {
+      "question": "Cosa caratterizza un'email transazionale?",
+      "answerOptions": [
+        {
+          "text": "L'offerta di sconti per il compleanno del cliente.",
+          "isCorrect": false,
+          "rationale": "Questa pratica rientra solitamente nelle email promozionali o di fidelizzazione personalizzate."
+        },
+        {
+          "text": "La risposta a un'azione specifica come l'iscrizione a un servizio.",
+          "isCorrect": true,
+          "rationale": "Le email transazionali sono innescate da un comportamento dell'utente per confermare o fornire informazioni su tale azione."
+        },
+        {
+          "text": "L'invio periodico di notizie sul settore di riferimento.",
+          "isCorrect": false,
+          "rationale": "L'aggiornamento periodico sulle novità è la funzione tipica della newsletter."
+        },
+        {
+          "text": "La promozione di una nuova collezione stagionale.",
+          "isCorrect": false,
+          "rationale": "La promozione di collezioni è l'obiettivo delle email promozionali."
+        }
+      ],
+      "hint": "Pensa all'email che ricevi immediatamente dopo aver completato un modulo online."
+    },
+    {
+      "question": "Quale caratteristica dell'oggetto di una newsletter è fondamentale per spingere all'apertura?",
+      "answerOptions": [
+        {
+          "text": "Deve essere molto lungo per spiegare tutto il contenuto.",
+          "isCorrect": false,
+          "rationale": "Un oggetto troppo lungo rischia di essere tagliato dai client di posta e di perdere efficacia."
+        },
+        {
+          "text": "Deve essere coinvolgente, chiaro e breve.",
+          "isCorrect": true,
+          "rationale": "La brevità e la chiarezza sono essenziali per catturare l'attenzione in una casella di posta affollata."
+        },
+        {
+          "text": "Deve contenere solo il nome dell'azienda.",
+          "isCorrect": false,
+          "rationale": "Includere solo il nome dell'azienda non fornisce al lettore un motivo per interessarsi al contenuto specifico del messaggio."
+        },
+        {
+          "text": "Deve essere scritto interamente in maiuscolo.",
+          "isCorrect": false,
+          "rationale": "L'uso del tutto maiuscolo è spesso percepito come aggressivo o associato allo spam."
+        }
+      ],
+      "hint": "Considera che l'utente dedica solo pochi istanti alla scansione dei titoli nella propria inbox."
+    },
+    {
+      "question": "Perché Patagonia punta a creare una sensazione di 'club esclusivo'?",
+      "answerOptions": [
+        {
+          "text": "Per impedire l'accesso ai prodotti ai non iscritti.",
+          "isCorrect": false,
+          "rationale": "L'esclusività citata è psicologica e legata al valore della community, non a una restrizione di vendita."
+        },
+        {
+          "text": "Per ridurre le probabilità di disiscrizione e aumentare il senso di valore.",
+          "isCorrect": true,
+          "rationale": "Far sentire l'utente parte di una comunità rafforza il legame con il brand e incentiva la permanenza nella lista."
+        },
+        {
+          "text": "Per evitare di dover inviare email promozionali.",
+          "isCorrect": false,
+          "rationale": "La creazione di una community spesso supporta e potenzia le offerte promozionali invece di eliminarle."
+        },
+        {
+          "text": "Per raccogliere dati sensibili senza il consenso dell'utente.",
+          "isCorrect": false,
+          "rationale": "La gestione delle liste deve essere sempre trasparente e legale; la community serve all'engagement."
+        }
+      ],
+      "hint": "Pensa all'impatto emotivo che ha il sentirsi parte di un gruppo selezionato."
+    },
+    {
+      "question": "Quale di questi elementi NON è citato come fondamentale per una gestione efficace delle liste?",
+      "answerOptions": [
+        {
+          "text": "Segmentazione del pubblico.",
+          "isCorrect": false,
+          "rationale": "La segmentazione è esplicitamente menzionata come parte fondamentale della gestione delle liste iscritti."
+        },
+        {
+          "text": "Importazione di dati.",
+          "isCorrect": false,
+          "rationale": "Saper importare correttamente i dati è una delle competenze base indicate per la gestione dei contatti."
+        },
+        {
+          "text": "Acquisto di liste di contatti da terze parti.",
+          "isCorrect": true,
+          "rationale": "Il materiale parla di gestione di iscritti e relazioni trasparenti, pratiche che solitamente sconsigliano l'acquisto di liste esterne."
+        },
+        {
+          "text": "Mantenimento di liste pulite e aggiornate.",
+          "isCorrect": false,
+          "rationale": "Mantenere i dati aggiornati è essenziale per l'efficacia delle campagne di email marketing."
+        }
+      ],
+      "hint": "Rifletti sulla differenza tra costruire un pubblico e 'comprare' un'audience."
+    },
+    {
+      "question": "Nella newsletter 'The Morning' del NY Times, qual è un elemento molto apprezzato?",
+      "answerOptions": [
+        {
+          "text": "L'uso esclusivo di immagini senza testo.",
+          "isCorrect": false,
+          "rationale": "La newsletter è nota per il suo linguaggio chiaro e i suoi contenuti accurati, che richiedono l'uso del testo."
+        },
+        {
+          "text": "La presenza di link ad altri articoli del giornale.",
+          "isCorrect": true,
+          "rationale": "Fornire collegamenti permette al lettore di approfondire le notizie, aumentando il valore del servizio offerto."
+        },
+        {
+          "text": "La richiesta di un pagamento obbligatorio per l'iscrizione.",
+          "isCorrect": false,
+          "rationale": "Il materiale specifica che l'iscrizione alla newsletter è gratuita."
+        },
+        {
+          "text": "L'invio di messaggi solo una volta al mese.",
+          "isCorrect": false,
+          "rationale": "Una newsletter informativa quotidiana o frequente è più comune per i quotidiani rispetto a una cadenza mensile."
+        }
+      ],
+      "hint": "Pensa a come una testata giornalistica possa guidare il traffico verso il proprio sito web."
+    },
+    {
+      "question": "Oltre al nome del destinatario, cosa dovrebbe includere una personalizzazione avanzata?",
+      "answerOptions": [
+        {
+          "text": "La foto del profilo social del destinatario.",
+          "isCorrect": false,
+          "rationale": "Sebbene tecnicamente possibile, questa pratica non è menzionata e potrebbe risultare invasiva."
+        },
+        {
+          "text": "Segmentazione basata su comportamenti d'acquisto e livelli di coinvolgimento.",
+          "isCorrect": true,
+          "rationale": "Adattare il messaggio in base a ciò che l'utente fa o preferisce rende la comunicazione molto più pertinente."
+        },
+        {
+          "text": "L'indirizzo di casa del destinatario nel corpo dell'email.",
+          "isCorrect": false,
+          "rationale": "La personalizzazione riguarda la pertinenza del contenuto, non la visualizzazione di dati puramente logistici."
+        },
+        {
+          "text": "La cronologia di tutte le email ricevute negli ultimi anni.",
+          "isCorrect": false,
+          "rationale": "Includere la cronologia appesantirebbe l'email senza aggiungere valore reale al messaggio corrente."
+        }
+      ],
+      "hint": "Pensa a come le aziende raggruppano gli utenti in base alle loro azioni passate."
+    },
+    {
+      "question": "Qual è il compito principale della Call To Action (CTA)?",
+      "answerOptions": [
+        {
+          "text": "Riassumere l'intera newsletter.",
+          "isCorrect": false,
+          "rationale": "Il riassunto è un elemento testuale, mentre la CTA ha una funzione operativa."
+        },
+        {
+          "text": "Invitare il destinatario a effettuare un'azione specifica.",
+          "isCorrect": true,
+          "rationale": "La CTA funge da ponte tra la lettura dell'email e l'azione desiderata, come un acquisto o una registrazione."
+        },
+        {
+          "text": "Fornire i dati di contatto dell'assistenza clienti.",
+          "isCorrect": false,
+          "rationale": "Sebbene importante, i dati di contatto solitamente risiedono nel footer e non sono la CTA principale."
+        },
+        {
+          "text": "Elencare i termini e le condizioni della privacy.",
+          "isCorrect": false,
+          "rationale": "Le informative legali sono obbligatorie ma non costituiscono l'invito all'azione commerciale dell'email."
+        }
+      ],
+      "hint": "Rifletti sul significato letterale del termine 'Chiamata all'Azione'."
+    },
+    {
+      "question": "Per un'azienda B2B, il design è solitamente:",
+      "answerOptions": [
+        {
+          "text": "La priorità numero uno assoluta.",
+          "isCorrect": false,
+          "rationale": "Il materiale suggerisce che per il B2B il design potrebbe non essere la priorità principale rispetto ad altri settori."
+        },
+        {
+          "text": "Probabilmente meno prioritario rispetto al settore moda.",
+          "isCorrect": true,
+          "rationale": "Mentre nella moda il design è strategico, in ambito B2B spesso prevalgono la chiarezza dell'informazione e l'efficienza."
+        },
+        {
+          "text": "Completamente inutile e da evitare.",
+          "isCorrect": false,
+          "rationale": "Nessun tipo di comunicazione professionale dovrebbe ignorare totalmente il design e la leggibilità."
+        },
+        {
+          "text": "Identico a quello di un'azienda di abbigliamento sportivo.",
+          "isCorrect": false,
+          "rationale": "Ogni settore adatta il proprio design agli obiettivi specifici e al pubblico di riferimento."
+        }
+      ],
+      "hint": "Confronta le necessità di un produttore industriale con quelle di un brand di scarpe da ginnastica."
+    },
+    {
+      "question": "Quale tra i seguenti è un esempio di oggetto accattivante fornito nel materiale?",
+      "answerOptions": [
+        {
+          "text": "Email Numero 45 - Giugno.",
+          "isCorrect": false,
+          "rationale": "Un oggetto puramente numerico o cronologico non è coinvolgente né descrittivo dei benefici."
+        },
+        {
+          "text": "Il nostro regalo per te: uno sconto del 20% su tutti i prodotti.",
+          "isCorrect": true,
+          "rationale": "Promettere un beneficio immediato e chiaro è una tecnica efficace per aumentare il tasso di apertura."
+        },
+        {
+          "text": "Leggere attentamente questa comunicazione obbligatoria.",
+          "isCorrect": false,
+          "rationale": "Questo tono è più adatto a comunicazioni burocratiche che a una strategia di marketing coinvolgente."
+        },
+        {
+          "text": "Catalogo Prodotti 2023.",
+          "isCorrect": false,
+          "rationale": "Sebbene chiaro, manca dell'elemento emozionale o di urgenza che caratterizza un oggetto 'accattivante'."
+        }
+      ],
+      "hint": "Cerca l'opzione che promette un vantaggio diretto e personale all'utente."
+    },
+    {
+      "question": "Cosa si intende per 'frequenza regolare' nell'invio delle newsletter?",
+      "answerOptions": [
+        {
+          "text": "Inviare email ogni volta che l'ufficio marketing ha un'idea nuova.",
+          "isCorrect": false,
+          "rationale": "L'invio basato sull'ispirazione momentanea non garantisce la prevedibilità richiesta da una frequenza regolare."
+        },
+        {
+          "text": "Seguire un calendario predefinito affinché i destinatari sappiano quando aspettarsi i contenuti.",
+          "isCorrect": true,
+          "rationale": "La regolarità crea un'abitudine nel destinatario e migliora la percezione di affidabilità del brand."
+        },
+        {
+          "text": "Inviare almeno tre email al giorno per non essere dimenticati.",
+          "isCorrect": false,
+          "rationale": "Una frequenza eccessiva può infastidire il destinatario e portare a un alto tasso di disiscrizioni."
+        },
+        {
+          "text": "Variare costantemente i giorni di invio per sorprendere il pubblico.",
+          "isCorrect": false,
+          "rationale": "La sorpresa non è l'obiettivo della frequenza; la regolarità serve a costruire un rapporto stabile."
+        }
+      ],
+      "hint": "Pensa alla differenza tra un appuntamento fisso e un incontro casuale."
+    },
+    {
+      "question": "Quale elemento grafico NON è menzionato per rendere piacevole il design di una newsletter?",
+      "answerOptions": [
+        {
+          "text": "Font.",
+          "isCorrect": false,
+          "rationale": "L'uso efficace dei font è citato come parte integrante di un design accattivante."
+        },
+        {
+          "text": "Video in background a tutto schermo.",
+          "isCorrect": true,
+          "rationale": "Il materiale menziona colori, immagini e grafici, ma non video pesanti che potrebbero non caricarsi correttamente."
+        },
+        {
+          "text": "Colori.",
+          "isCorrect": false,
+          "rationale": "La coerenza cromatica con l'immagine del brand è fondamentale per il design delle email."
+        },
+        {
+          "text": "Immagini.",
+          "isCorrect": false,
+          "rationale": "Le immagini sono esplicitamente indicate come strumenti per catturare l'attenzione del destinatario."
+        }
+      ],
+      "hint": "Considera quali elementi sono più standard e leggeri per la visualizzazione in un'email."
+    },
+    {
+      "question": "In un layout chiaro e ben strutturato, perché si usano paragrafi brevi?",
+      "answerOptions": [
+        {
+          "text": "Per nascondere la mancanza di informazioni reali.",
+          "isCorrect": false,
+          "rationale": "La brevità serve alla leggibilità, non a occultare contenuti poveri."
+        },
+        {
+          "text": "Per facilitare la comprensione dei contenuti e la navigazione.",
+          "isCorrect": true,
+          "rationale": "I blocchi di testo brevi rendono la lettura meno faticosa, specialmente su schermi digitali."
+        },
+        {
+          "text": "Perché le email hanno un limite massimo di parole per legge.",
+          "isCorrect": false,
+          "rationale": "Non esiste una legge che limiti il numero di parole; è una scelta di user experience."
+        },
+        {
+          "text": "Per lasciare più spazio ai banner pubblicitari esterni.",
+          "isCorrect": false,
+          "rationale": "L'obiettivo è migliorare la fruizione del contenuto proprio, non favorire pubblicità terze."
+        }
+      ],
+      "hint": "Pensa a come leggi un'email velocemente sul tuo smartphone."
+    },
+    {
+      "question": "Quale delle seguenti è una finalità specifica dell'email promozionale?",
+      "answerOptions": [
+        {
+          "text": "Fornire solo le ultime notizie del blog aziendale.",
+          "isCorrect": false,
+          "rationale": "Questo è il compito primario della newsletter, non dell'email promozionale focalizzata sulla vendita."
+        },
+        {
+          "text": "Offrire sconti o coupon per invogliare all'acquisto.",
+          "isCorrect": true,
+          "rationale": "L'email promozionale ha un obiettivo commerciale diretto legato alla conversione immediata."
+        },
+        {
+          "text": "Confermare il cambio della password di un utente.",
+          "isCorrect": false,
+          "rationale": "Le notifiche di sicurezza o cambio password sono tipiche email transazionali."
+        },
+        {
+          "text": "Chiedere scusa per un disservizio tecnico.",
+          "isCorrect": false,
+          "rationale": "Questa è una comunicazione di servizio o di crisi, non una promozione commerciale."
+        }
+      ],
+      "hint": "Pensa a cosa ricevi solitamente durante il periodo dei saldi o del Black Friday."
+    },
+    {
+      "question": "Nel processo di acquisto, quando entra in gioco l'email di remarketing?",
+      "answerOptions": [
+        {
+          "text": "Appena l'utente atterra sulla homepage per la prima volta.",
+          "isCorrect": false,
+          "rationale": "In questa fase l'utente non ha ancora manifestato un'intenzione d'acquisto specifica su un prodotto."
+        },
+        {
+          "text": "Dopo che l'utente ha abbandonato il carrello senza completare l'ordine.",
+          "isCorrect": true,
+          "rationale": "Il remarketing interviene per recuperare un interesse già dimostrato ma non finalizzato."
+        },
+        {
+          "text": "Esattamente un anno dopo l'ultimo acquisto effettuato.",
+          "isCorrect": false,
+          "rationale": "Questa sarebbe un'email di win-back o fidelizzazione, non specificamente legata a un carrello abbandonato."
+        },
+        {
+          "text": "Solamente dopo che l'utente ha ricevuto la merce a casa.",
+          "isCorrect": false,
+          "rationale": "Dopo la ricezione si inviano email di feedback o cross-selling, non di remarketing per carrello abbandonato."
+        }
+      ],
+      "hint": "Rifletti sul momento in cui un venditore cerca di convincerti a tornare sui tuoi passi."
+    },
+    {
+      "question": "Quale di questi è un canale di contatto del Prof. Granato citato nelle slide?",
+      "answerOptions": [
+        {
+          "text": "Profilo LinkedIn.",
+          "isCorrect": false,
+          "rationale": "Sebbene probabile, nelle slide sono esplicitamente indicati solo la mail istituzionale e Telegram."
+        },
+        {
+          "text": "Telegram (@gabrielegranato).",
+          "isCorrect": true,
+          "rationale": "L'account Telegram è uno dei due metodi di contatto forniti nell'ultima slide per dubbi o suggerimenti."
+        },
+        {
+          "text": "WhatsApp Business.",
+          "isCorrect": false,
+          "rationale": "Non viene menzionato WhatsApp tra i canali di contatto ufficiali nella lezione."
+        },
+        {
+          "text": "Canale YouTube.",
+          "isCorrect": false,
+          "rationale": "Il materiale non fa riferimento a un canale YouTube del docente."
+        }
+      ],
+      "hint": "Guarda verso la fine della presentazione per i contatti personali."
+    },
+    {
+      "question": "Perché le email di Patagonia sono un buon esempio di 'Email di Benvenuto'?",
+      "answerOptions": [
+        {
+          "text": "Perché inviano subito un catalogo cartaceo a casa.",
+          "isCorrect": false,
+          "rationale": "L'esempio si focalizza sulla comunicazione digitale e sul senso di appartenenza alla 'famiglia'."
+        },
+        {
+          "text": "Perché accolgono l'utente in una community, riducendo le distanze con il brand.",
+          "isCorrect": true,
+          "rationale": "L'approccio 'Welcome to the family' trasforma l'iscrizione tecnica in un ingresso in un club di valori condivisi."
+        },
+        {
+          "text": "Perché sono le uniche email ad essere inviate in bianco e nero.",
+          "isCorrect": false,
+          "rationale": "Il design di Patagonia usa colori e immagini suggestive della natura, non si limita al bianco e nero."
+        },
+        {
+          "text": "Perché non contengono alcun testo, solo foto di montagne.",
+          "isCorrect": false,
+          "rationale": "L'email mostrata contiene testi chiari sulla missione aziendale e sulla garanzia dei prodotti."
+        }
+      ],
+      "hint": "Considera il calore e l'accoglienza che trasmettono le prime parole del loro messaggio."
+    },
+    {
+      "question": "Qual è il rischio di una gestione povera delle liste iscritti?",
+      "answerOptions": [
+        {
+          "text": "Ricevere troppe risposte entusiaste dai clienti.",
+          "isCorrect": false,
+          "rationale": "Una cattiva gestione porta solitamente a risultati negativi, non a un eccesso di entusiasmo."
+        },
+        {
+          "text": "Inviare messaggi irrilevanti che portano alla disiscrizione o allo spam.",
+          "isCorrect": true,
+          "rationale": "Senza pulizia e segmentazione, si inviano contenuti non desiderati che danneggiano la reputazione del mittente."
+        },
+        {
+          "text": "Aumentare involontariamente i profitti aziendali.",
+          "isCorrect": false,
+          "rationale": "L'email marketing inefficace è un costo in termini di risorse e opportunità perse."
+        },
+        {
+          "text": "Migliorare la trasparenza verso il pubblico.",
+          "isCorrect": false,
+          "rationale": "La trasparenza richiede precisione e cura dei dati, l'opposto di una gestione approssimativa."
+        }
+      ],
+      "hint": "Immagina cosa succede quando ricevi continuamente email di prodotti che non ti interessano."
+    },
+    {
+      "question": "Come viene definita la 'Conversione' nel contesto della lezione?",
+      "answerOptions": [
+        {
+          "text": "Il passaggio da un provider di posta a un altro.",
+          "isCorrect": false,
+          "rationale": "Questo è un cambio di servizio tecnico, non un obiettivo di marketing."
+        },
+        {
+          "text": "L'atto di acquisto del prodotto o servizio offerto.",
+          "isCorrect": true,
+          "rationale": "La conversione è il momento in cui il potenziale cliente compie l'azione finale desiderata dall'azienda."
+        },
+        {
+          "text": "La traduzione dell'email in una lingua straniera.",
+          "isCorrect": false,
+          "rationale": "La localizzazione linguistica non è ciò che si intende per conversione nel marketing."
+        },
+        {
+          "text": "L'iscrizione alla newsletter di un concorrente.",
+          "isCorrect": false,
+          "rationale": "Questo sarebbe un segnale negativo di perdita di un lead, non una conversione."
+        }
+      ],
+      "hint": "Rifletti sul risultato finale che giustifica l'investimento in marketing."
+    },
+    {
+      "question": "Cosa include la sezione 'Layout chiaro' secondo il materiale?",
+      "answerOptions": [
+        {
+          "text": "Titoli, sottotitoli ed elenchi puntati.",
+          "isCorrect": true,
+          "rationale": "Questi elementi aiutano a scansionare il testo velocemente e a individuare le informazioni chiave."
+        },
+        {
+          "text": "Un unico blocco di testo di almeno mille parole.",
+          "isCorrect": false,
+          "rationale": "I muri di testo sono contrari ai principi di leggibilità e layout chiaro esposti."
+        },
+        {
+          "text": "Musica di sottofondo automatica.",
+          "isCorrect": false,
+          "rationale": "L'audio automatico è generalmente sconsigliato e non citato tra gli elementi di un buon layout."
+        },
+        {
+          "text": "Link nascosti all'interno delle immagini.",
+          "isCorrect": false,
+          "rationale": "La chiarezza presuppone che la navigazione sia intuitiva e gli elementi cliccabili siano riconoscibili."
+        }
+      ],
+      "hint": "Pensa agli strumenti grafici che servono a 'spezzare' il testo."
+    },
+    {
+      "question": "Quale oggetto tra questi mira a creare curiosità sul futuro?",
+      "answerOptions": [
+        {
+          "text": "Dieci consigli per rendere la tua vita più facile.",
+          "isCorrect": false,
+          "rationale": "Questo oggetto punta sull'utilità immediata, non sull'anteprima del futuro."
+        },
+        {
+          "text": "Una sorpresa per te: l'anteprima della nostra prossima collezione.",
+          "isCorrect": true,
+          "rationale": "L'uso della parola 'sorpresa' e 'anteprima' stimola la curiosità dell'utente riguardo a ciò che accadrà."
+        },
+        {
+          "text": "Non perdere l'opportunità di risparmiare il 50%.",
+          "isCorrect": false,
+          "rationale": "Questo oggetto si basa sull'urgenza economica (scarcity), non sulla curiosità temporale."
+        },
+        {
+          "text": "Cosa c'è di nuovo nell'industria del marketing?",
+          "isCorrect": false,
+          "rationale": "Questa è una domanda informativa sull'attualità, meno legata a un'esclusiva futura del brand."
+        }
+      ],
+      "hint": "Cerca l'opzione che parla di qualcosa che non è ancora ufficialmente disponibile."
+    },
+    {
+      "question": "Qual è il vantaggio dell'iscrizione alla newsletter del New York Times citato nelle slide?",
+      "answerOptions": [
+        {
+          "text": "Ricevere un abbonamento cartaceo gratuito a vita.",
+          "isCorrect": false,
+          "rationale": "Il materiale specifica che l'iscrizione è gratuita e richiede solo l'email, non menziona regali fisici perpetui."
+        },
+        {
+          "text": "È facilmente leggibile anche su dispositivi mobili.",
+          "isCorrect": true,
+          "rationale": "L'ottimizzazione per il mobile è un punto di forza fondamentale per una newsletter informativa moderna."
+        },
+        {
+          "text": "Permette di scrivere articoli direttamente sul sito.",
+          "isCorrect": false,
+          "rationale": "La newsletter serve a leggere notizie selezionate, non a trasformare il lettore in autore."
+        },
+        {
+          "text": "Contiene esclusivamente notizie di sport locale.",
+          "isCorrect": false,
+          "rationale": "La selezione copre notizie internazionali e nazionali, rendendola molto più ampia."
+        }
+      ],
+      "hint": "Pensa alla comodità di lettura mentre sei in viaggio o fuori casa."
+    },
+    {
+      "question": "Cosa si intende per 'Relazione duratura' nell'email marketing?",
+      "answerOptions": [
+        {
+          "text": "Inviare un'email ogni giorno per i prossimi cinquant'anni.",
+          "isCorrect": false,
+          "rationale": "La durata non è solo frequenza temporale, ma qualità e mantenimento del valore nel tempo."
+        },
+        {
+          "text": "Mantenere attivo l'interesse del cliente nel lungo periodo con contenuti utili.",
+          "isCorrect": true,
+          "rationale": "L'obiettivo è evitare che l'utente si dimentichi del brand o si stanchi, fornendo valore costante."
+        },
+        {
+          "text": "Impedire tecnicamente all'utente di disiscriversi.",
+          "isCorrect": false,
+          "rationale": "Obbligare l'utente a restare è contrario ai principi di trasparenza e valore."
+        },
+        {
+          "text": "Inviare email solo quando il cliente smette di comprare.",
+          "isCorrect": false,
+          "rationale": "Una relazione duratura si coltiva costantemente, non solo nei momenti di crisi."
+        }
+      ],
+      "hint": "Pensa a come si coltiva un'amicizia o un rapporto di fiducia professionale."
+    },
+    {
+      "question": "Il design minimalista di Nike nell'email marketing è descritto come:",
+      "answerOptions": [
+        {
+          "text": "Splendidamente minimalista.",
+          "isCorrect": true,
+          "rationale": "Il materiale elogia esplicitamente la scelta visiva di Nike per la sua pulizia ed efficacia estetica."
+        },
+        {
+          "text": "Troppo povero di informazioni.",
+          "isCorrect": false,
+          "rationale": "Al contrario, il minimalismo è visto come un punto di forza strategico, non come una carenza."
+        },
+        {
+          "text": "Caotico e pieno di grafiche sovrapposte.",
+          "isCorrect": false,
+          "rationale": "Il termine minimalista indica proprio l'assenza di caos e l'ordine visivo."
+        },
+        {
+          "text": "Indistinguibile da quello di Swatch.",
+          "isCorrect": false,
+          "rationale": "Sebbene entrambi siano efficaci, ogni brand mantiene la propria identità specifica (Swatch usa molto i colori dei macaron nell'esempio)."
+        }
+      ],
+      "hint": "Rifletti sull'aggettivo positivo usato per descrivere uno stile con pochi elementi essenziali."
+    },
+    {
+      "question": "Quale elemento dell'email Swatch serve a celebrare una ricorrenza specifica?",
+      "answerOptions": [
+        {
+          "text": "Il tasto di disiscrizione in basso.",
+          "isCorrect": false,
+          "rationale": "Il tasto di disiscrizione è un obbligo legale, non un elemento celebrativo."
+        },
+        {
+          "text": "L'oggetto e il testo 'Happy Macaron Day!'.",
+          "isCorrect": true,
+          "rationale": "Utilizzare una giornata a tema permette di presentare i prodotti in modo creativo e colorato."
+        },
+        {
+          "text": "L'informativa sulla privacy obbligatoria.",
+          "isCorrect": false,
+          "rationale": "La privacy è una sezione tecnica che non ha finalità di marketing o celebrazione."
+        },
+        {
+          "text": "L'elenco dei prezzi in diverse valute.",
+          "isCorrect": false,
+          "rationale": "Nell'esempio i prezzi sono in Euro e servono alla conversione commerciale, non alla celebrazione."
+        }
+      ],
+      "hint": "Cerca il riferimento a un dolce francese molto colorato nel corpo dell'email."
+    },
+    {
+      "question": "Secondo le slide, l'email marketing è una tecnica di:",
+      "answerOptions": [
+        {
+          "text": "Marketing Tradizionale.",
+          "isCorrect": false,
+          "rationale": "Il marketing tradizionale include canali come stampa, TV o cartellonistica stradale."
+        },
+        {
+          "text": "Marketing Digitale.",
+          "isCorrect": true,
+          "rationale": "Sfruttando la posta elettronica, si posiziona chiaramente all'interno degli strumenti digitali."
+        },
+        {
+          "text": "Marketing Porta a Porta.",
+          "isCorrect": false,
+          "rationale": "L'email marketing è diretto ma non richiede la presenza fisica del venditore presso l'abitazione."
+        },
+        {
+          "text": "Telemarketing.",
+          "isCorrect": false,
+          "rationale": "Il telemarketing utilizza il telefono, mentre qui il mezzo è la posta elettronica."
+        }
+      ],
+      "hint": "Considera l'ambiente in cui operano le email (internet)."
+    },
+    {
+      "question": "Qual è il tono di voce suggerito per le email di 'The Morning'?",
+      "answerOptions": [
+        {
+          "text": "Accademico e complesso per lettori esperti.",
+          "isCorrect": false,
+          "rationale": "La newsletter è lodata per la sua accessibilità, il che esclude un linguaggio troppo ostico."
+        },
+        {
+          "text": "Chiaro e accessibile.",
+          "isCorrect": true,
+          "rationale": "Queste qualità rendono l'informazione fruibile a un pubblico vasto e migliorano l'engagement."
+        },
+        {
+          "text": "Aggressivo e polemico.",
+          "isCorrect": false,
+          "rationale": "Un tono aggressivo allontanerebbe i lettori che cercano un aggiornamento accurato delle notizie."
+        },
+        {
+          "text": "Strettamente dialettale.",
+          "isCorrect": false,
+          "rationale": "Il NY Times è una testata nazionale/internazionale che utilizza l'inglese standard (o la lingua della versione) per essere compreso globalmente."
+        }
+      ],
+      "hint": "Pensa a come dovrebbe essere scritto un riassunto delle notizie per essere capito da chiunque."
+    }
+  ]
+}

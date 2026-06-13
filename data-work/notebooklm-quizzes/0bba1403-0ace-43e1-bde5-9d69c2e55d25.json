@@ -1,0 +1,785 @@
+{
+  "title": "Advertising Quiz",
+  "questions": [
+    {
+      "question": "Qual è la definizione corretta di digital advertising secondo il materiale fornito?",
+      "answerOptions": [
+        {
+          "text": "L'insieme delle attività promozionali effettuate su internet mediante sponsorizzazioni a pagamento.",
+          "isCorrect": true,
+          "rationale": "Il testo definisce esplicitamente il digital advertising come pubblicità online basata su investimenti a pagamento nel contesto web."
+        },
+        {
+          "text": "Qualsiasi forma di comunicazione non pagata che avviene sui canali social aziendali.",
+          "isCorrect": false,
+          "rationale": "La definizione specifica richiede che le sponsorizzazioni siano a pagamento, escludendo l'attività puramente organica."
+        },
+        {
+          "text": "La creazione di contenuti virali per aumentare la notorietà del marchio senza budget pubblicitario.",
+          "isCorrect": false,
+          "rationale": "Sebbene la notorietà sia un obiettivo, il digital advertising si riferisce ad attività che prevedono una spesa pubblicitaria diretta."
+        },
+        {
+          "text": "L'invio massivo di email a database non profilati per scopi commerciali.",
+          "isCorrect": false,
+          "rationale": "Questa descrizione si riferisce più allo spam o all'email marketing non richiesto che alla definizione ampia di advertising online."
+        }
+      ],
+      "hint": "Considera se la pubblicità digitale richiede o meno un investimento economico diretto per essere definita tale."
+    },
+    {
+      "question": "Oltre alla promozione di prodotti, qual è diventato un obiettivo fondamentale del digital advertising?",
+      "answerOptions": [
+        {
+          "text": "Costruire relazioni con i consumatori.",
+          "isCorrect": true,
+          "rationale": "Il materiale sottolinea che il digital advertising si è evoluto in un mezzo per stabilire e mantenere un legame con il pubblico."
+        },
+        {
+          "text": "Sostituire completamente la forza vendita fisica.",
+          "isCorrect": false,
+          "rationale": "Il digital advertising integra le strategie di marketing ma non è descritto come un sostituto totale delle interazioni umane."
+        },
+        {
+          "text": "Eliminare la necessità di ricerche di mercato tradizionali.",
+          "isCorrect": false,
+          "rationale": "Sebbene fornisca molti dati, il testo non afferma che esso elimini le altre forme di ricerca strategica."
+        },
+        {
+          "text": "Ridurre drasticamente la qualità dei contenuti a favore della quantità.",
+          "isCorrect": false,
+          "rationale": "L'evoluzione tecnologica richiede solitamente un adattamento strategico di qualità, non un peggioramento."
+        }
+      ],
+      "hint": "Pensa a come le aziende interagiscono oggi con il proprio pubblico tramite i canali digitali."
+    },
+    {
+      "question": "Quali sono le due differenze principali identificate tra pubblicità digitale e pubblicità tradizionale?",
+      "answerOptions": [
+        {
+          "text": "Flessibilità e precisione.",
+          "isCorrect": true,
+          "rationale": "Questi sono i due pilastri citati nel testo che distinguono il mondo digitale da quello offline."
+        },
+        {
+          "text": "Costo elevato e complessità creativa.",
+          "isCorrect": false,
+          "rationale": "Il digitale spesso mira a ridurre i costi d'ingresso e a semplificare alcuni processi, non il contrario."
+        },
+        {
+          "text": "Durata dei contratti e numero di agenzie coinvolte.",
+          "isCorrect": false,
+          "rationale": "Questi sono aspetti logistici che non rappresentano le differenze concettuali fondamentali evidenziate nel materiale."
+        },
+        {
+          "text": "Estetica visiva e tono di voce.",
+          "isCorrect": false,
+          "rationale": "Questi elementi dipendono dal brand e non sono caratteristiche intrinseche che definiscono la differenza tra i due mezzi."
+        }
+      ],
+      "hint": "Cerca i termini che descrivono la capacità di adattamento e la capacità di colpire esattamente il target desiderato."
+    },
+    {
+      "question": "In termini di flessibilità, cosa si intende per 'scalabilità' del budget?",
+      "answerOptions": [
+        {
+          "text": "La possibilità di variare l'investimento in base ai risultati e alle necessità aziendali.",
+          "isCorrect": true,
+          "rationale": "La scalabilità permette di aumentare o diminuire il budget allocato in modo dinamico."
+        },
+        {
+          "text": "L'obbligo di raddoppiare l'investimento ogni mese per mantenere le performance.",
+          "isCorrect": false,
+          "rationale": "La scalabilità è una scelta strategica basata sulla flessibilità, non un obbligo di crescita costante."
+        },
+        {
+          "text": "La rigidità dei costi fissi che non possono essere modificati una volta avviata la campagna.",
+          "isCorrect": false,
+          "rationale": "Questa sarebbe l'antitesi della scalabilità e della flessibilità digitale."
+        },
+        {
+          "text": "Il calcolo automatico delle tasse pubblicitarie in base al paese di pubblicazione.",
+          "isCorrect": false,
+          "rationale": "Questo è un aspetto amministrativo e fiscale, non legato alla flessibilità strategica del budget."
+        }
+      ],
+      "hint": "Rifletti sulla capacità di un inserzionista di aggiustare i rubinetti della spesa pubblicitaria."
+    },
+    {
+      "question": "Quale vantaggio della precisione digitale permette di non mostrare un annuncio a chi lo ha già visualizzato?",
+      "answerOptions": [
+        {
+          "text": "Limitazione della frequenza di visualizzazione.",
+          "isCorrect": true,
+          "rationale": "Il targeting consente di escludere segmenti di pubblico che hanno già interagito per ottimizzare la copertura."
+        },
+        {
+          "text": "Cancellazione automatica dei dati degli utenti.",
+          "isCorrect": false,
+          "rationale": "Evitare di mostrare l'annuncio non significa cancellare i dati, ma usarli per regolare la pubblicazione."
+        },
+        {
+          "text": "Aumento del costo per clic per gli utenti ricorrenti.",
+          "isCorrect": false,
+          "rationale": "Il controllo della visualizzazione serve a migliorare l'efficienza, non ad aumentare i costi arbitrariamente."
+        },
+        {
+          "text": "Blocco geografico degli utenti.",
+          "isCorrect": false,
+          "rationale": "Il blocco geografico si basa sulla posizione, non sulla precedente visualizzazione dell'annuncio."
+        }
+      ],
+      "hint": "Pensa a come si chiama il controllo che evita di essere ripetitivi verso la stessa persona."
+    },
+    {
+      "question": "Il modello di prezzo CPM (Costo per Mille) si basa su quale metrica?",
+      "answerOptions": [
+        {
+          "text": "Impressioni.",
+          "isCorrect": true,
+          "rationale": "Il CPM prevede il pagamento di un importo stabilito ogni mille volte che l'annuncio viene visualizzato."
+        },
+        {
+          "text": "Clic effettuati dagli utenti.",
+          "isCorrect": false,
+          "rationale": "Il pagamento basato sui clic è tipico del modello CPC, non del CPM."
+        },
+        {
+          "text": "Acquisti finalizzati sul sito.",
+          "isCorrect": false,
+          "rationale": "Gli acquisti sono legati a modelli di conversione o CPA, non alle impressioni."
+        },
+        {
+          "text": "Minuti di video guardati.",
+          "isCorrect": false,
+          "rationale": "Questa metrica è specifica per il formato video e non definisce il modello CPM generico."
+        }
+      ],
+      "hint": "Ricorda cosa significa letteralmente la 'M' in questo acronimo francese/latino nel contesto pubblicitario."
+    },
+    {
+      "question": "Come viene definita la 'Percentuale di clic' (CTR)?",
+      "answerOptions": [
+        {
+          "text": "Il rapporto tra il numero di clic e il numero di impressioni, espresso in percentuale.",
+          "isCorrect": true,
+          "rationale": "Il CTR misura l'efficacia di un annuncio calcolando quanti, tra coloro che lo hanno visto, hanno deciso di cliccare."
+        },
+        {
+          "text": "Il costo totale della campagna diviso per il numero di clic.",
+          "isCorrect": false,
+          "rationale": "Questa formula descrive il CPC (Costo per Clic) medio, non una percentuale di efficacia."
+        },
+        {
+          "text": "Il numero di vendite diviso per il numero di clic.",
+          "isCorrect": false,
+          "rationale": "Questa metrica rappresenta solitamente il tasso di conversione delle vendite."
+        },
+        {
+          "text": "La quantità di tempo che un utente trascorre sulla pagina dopo il clic.",
+          "isCorrect": false,
+          "rationale": "Il tempo sulla pagina è una metrica di engagement post-clic, non il CTR."
+        }
+      ],
+      "hint": "È una metrica di efficacia che mette in relazione le visualizzazioni totali con l'interazione diretta."
+    },
+    {
+      "question": "Che cosa indica la metrica della 'Copertura' (Reach)?",
+      "answerOptions": [
+        {
+          "text": "Il numero totale di spettatori unici a cui viene mostrato l'annuncio.",
+          "isCorrect": true,
+          "rationale": "La copertura conta le singole persone raggiunte, indipendentemente da quante volte abbiano visto l'annuncio."
+        },
+        {
+          "text": "Il numero di volte che l'annuncio è apparso sullo schermo.",
+          "isCorrect": false,
+          "rationale": "Questa è la definizione di 'Impressioni', che non tiene conto dell'unicità dell'utente."
+        },
+        {
+          "text": "L'area geografica massima coperta dai server pubblicitari.",
+          "isCorrect": false,
+          "rationale": "La copertura nel marketing digitale si riferisce alle persone, non all'estensione fisica del segnale."
+        },
+        {
+          "text": "La percentuale di utenti che hanno completato un acquisto.",
+          "isCorrect": false,
+          "rationale": "Il completamento dell'acquisto è legato al tasso di conversione."
+        }
+      ],
+      "hint": "Si focalizza sugli individui unici raggiunti dalla campagna."
+    },
+    {
+      "question": "Qual è la formula logica per calcolare il Ritorno sulla spesa pubblicitaria (ROAS)?",
+      "answerOptions": [
+        {
+          "text": "$\\text{Ricavo della campagna} / \\text{Spesa pubblicitaria}$",
+          "isCorrect": true,
+          "rationale": "Il ROAS misura l'efficacia lorda della spesa calcolando quanto ricavo è stato generato per ogni euro speso."
+        },
+        {
+          "text": "$\\text{Spesa pubblicitaria} / \\text{Vendite attribuite}$",
+          "isCorrect": false,
+          "rationale": "Questa è la formula per l'ACOS (Costo pubblicitario delle vendite)."
+        },
+        {
+          "text": "$\\text{Profitto netto} / \\text{Spesa totale}$",
+          "isCorrect": false,
+          "rationale": "Il rapporto con il profitto netto definisce solitamente il ROI, non il ROAS che usa il ricavo lordo."
+        },
+        {
+          "text": "$\\text{Numero di clic} / \\text{Costo per clic}$",
+          "isCorrect": false,
+          "rationale": "Questa operazione non ha un significato logico standard nelle metriche di ritorno economico."
+        }
+      ],
+      "hint": "Questa metrica confronta i ricavi lordi ottenuti direttamente dalla pubblicità rispetto al costo sostenuto per la stessa."
+    },
+    {
+      "question": "Cosa differenzia il ROI dal ROAS?",
+      "answerOptions": [
+        {
+          "text": "Il ROI considera il profitto netto, mentre il ROAS si basa sul ricavo lordo.",
+          "isCorrect": true,
+          "rationale": "Il ROI è una misura di redditività aziendale complessiva, mentre il ROAS è una metrica di efficienza della specifica spesa pubblicitaria."
+        },
+        {
+          "text": "Il ROI misura solo i clic, il ROAS solo le visualizzazioni.",
+          "isCorrect": false,
+          "rationale": "Entrambe sono metriche finanziarie legate alle vendite o ai ricavi, non a metriche di engagement semplici."
+        },
+        {
+          "text": "Il ROAS è utilizzato solo per i video, il ROI per i banner.",
+          "isCorrect": false,
+          "rationale": "Sono metriche trasversali applicabili a qualsiasi formato pubblicitario digitale."
+        },
+        {
+          "text": "Il ROI è espresso in numero assoluto, il ROAS solo in percentuale.",
+          "isCorrect": false,
+          "rationale": "Entrambi possono essere espressi come rapporti o percentuali a seconda delle necessità di analisi."
+        }
+      ],
+      "hint": "Pensa alla differenza tra quanto incassi (lordo) e quanto ti rimane in tasca dopo aver tolto tutti i costi (netto)."
+    },
+    {
+      "question": "Quale metrica rappresenta il rapporto tra spesa pubblicitaria e vendite attribuite?",
+      "answerOptions": [
+        {
+          "text": "ACOS (Costo pubblicitario delle vendite).",
+          "isCorrect": true,
+          "rationale": "L'ACOS indica quanta parte del valore delle vendite è stata assorbita dal costo per ottenerle."
+        },
+        {
+          "text": "CTR (Tasso di clic).",
+          "isCorrect": false,
+          "rationale": "Il CTR mette in relazione clic e visualizzazioni, non spesa e vendite monetarie."
+        },
+        {
+          "text": "CPM (Costo per mille).",
+          "isCorrect": false,
+          "rationale": "Il CPM si riferisce al costo delle visualizzazioni, indipendentemente dalle vendite generate."
+        },
+        {
+          "text": "Reach (Copertura).",
+          "isCorrect": false,
+          "rationale": "La copertura misura le persone raggiunte e non ha una componente di valore monetario delle vendite."
+        }
+      ],
+      "hint": "Cerca l'acronimo che indica quanto 'costa' pubblicitariamente ogni vendita effettuata."
+    },
+    {
+      "question": "Quale di queste è citata come una 'Best Practice' nel digital advertising?",
+      "answerOptions": [
+        {
+          "text": "Essere autentico.",
+          "isCorrect": true,
+          "rationale": "L'autenticità è fondamentale per costruire quella relazione con il consumatore citata all'inizio del testo."
+        },
+        {
+          "text": "Utilizzare sempre il budget massimo disponibile.",
+          "isCorrect": false,
+          "rationale": "La gestione del budget deve essere strategica e scalabile, non necessariamente sempre al massimo."
+        },
+        {
+          "text": "Mostrare l'annuncio al maggior numero di persone possibile senza distinzione.",
+          "isCorrect": false,
+          "rationale": "Una best practice è raggiungere il pubblico 'giusto' (precisione), non solo una massa indifferenziata."
+        },
+        {
+          "text": "Evitare di cambiare gli annunci una volta pubblicati.",
+          "isCorrect": false,
+          "rationale": "Il testo suggerisce di effettuare test e ottimizzare, il che implica cambiare e migliorare gli annunci."
+        }
+      ],
+      "hint": "Pensa a un valore etico o di stile comunicativo che rende un brand credibile online."
+    },
+    {
+      "question": "Perché è importante 'effettuare test e ottimizzare' nelle campagne digitali?",
+      "answerOptions": [
+        {
+          "text": "Per migliorare costantemente i risultati basandosi sui dati di performance.",
+          "isCorrect": true,
+          "rationale": "L'ottimizzazione è il processo di affinamento della strategia per massimizzare l'efficacia del budget."
+        },
+        {
+          "text": "Perché le piattaforme obbligano a cambiare creatività ogni settimana.",
+          "isCorrect": false,
+          "rationale": "Sebbene consigliato, non è un obbligo tecnico ma una scelta strategica di performance."
+        },
+        {
+          "text": "Per confondere la concorrenza con strategie sempre diverse.",
+          "isCorrect": false,
+          "rationale": "L'obiettivo primario dei test è il miglioramento interno, non il depistaggio degli altri player."
+        },
+        {
+          "text": "Per aumentare artificialmente il numero di impressioni totali.",
+          "isCorrect": false,
+          "rationale": "I test servono a rendere le impressioni più efficaci, non necessariamente ad aumentarne il numero in modo vacuo."
+        }
+      ],
+      "hint": "Rifletti sul ciclo di feedback: vedo cosa funziona, imparo e correggo."
+    },
+    {
+      "question": "A cosa serve monitorare le performance nel digital advertising?",
+      "answerOptions": [
+        {
+          "text": "A valutare se gli obiettivi della campagna sono stati raggiunti.",
+          "isCorrect": true,
+          "rationale": "Il monitoraggio costante permette di verificare in tempo reale l'andamento rispetto ai KPI prefissati."
+        },
+        {
+          "text": "A giustificare il costo della connessione internet aziendale.",
+          "isCorrect": false,
+          "rationale": "Il monitoraggio riguarda il ritorno sull'investimento pubblicitario, non i costi infrastrutturali generici."
+        },
+        {
+          "text": "A bloccare l'accesso dei competitor al proprio sito web.",
+          "isCorrect": false,
+          "rationale": "Le metriche di performance misurano l'efficacia degli annunci, non sono strumenti di sicurezza informatica."
+        },
+        {
+          "text": "A garantire che l'annuncio appaia solo su siti web di alta qualità.",
+          "isCorrect": false,
+          "rationale": "Questo fa parte del setup della campagna o del brand safety, non è l'unico scopo del monitoraggio delle performance."
+        }
+      ],
+      "hint": "Pensa alla necessità di sapere se i soldi spesi stanno portando i frutti sperati."
+    },
+    {
+      "question": "Cosa consente la 'precisione' in termini di programmazione temporale?",
+      "answerOptions": [
+        {
+          "text": "Scegliere di limitare la pubblicazione dell'annuncio a determinate ore del giorno.",
+          "isCorrect": true,
+          "rationale": "Il digital advertising permette il 'dayparting', ovvero mostrare annunci nei momenti di massima probabilità di conversione."
+        },
+        {
+          "text": "Garantire che l'annuncio sia visibile per esattamente un anno solare.",
+          "isCorrect": false,
+          "rationale": "Questa è una scelta di durata, ma la precisione citata riguarda la granularità oraria e di target."
+        },
+        {
+          "text": "Prevedere con esattezza il giorno in cui un cliente effettuerà l'acquisto.",
+          "isCorrect": false,
+          "rationale": "La pubblicità digitale offre dati statistici e probabilità, ma non la chiaroveggenza sul comportamento individuale."
+        },
+        {
+          "text": "Eliminare i tempi di caricamento delle pagine web.",
+          "isCorrect": false,
+          "rationale": "La precisione pubblicitaria non influisce sulle performance tecniche del server ospitante."
+        }
+      ],
+      "hint": "Rifletti sulla capacità di decidere 'quando' attivare o disattivare gli annunci durante le 24 ore."
+    },
+    {
+      "question": "In che modo l'evoluzione tecnologica ha influenzato le aziende secondo il testo?",
+      "answerOptions": [
+        {
+          "text": "Ha reso necessario integrare strategie digitali per rimanere competitive.",
+          "isCorrect": true,
+          "rationale": "Il mercato attuale richiede adattamento continuo a causa dei cambiamenti tecnologici e dei comportamenti dei consumatori."
+        },
+        {
+          "text": "Ha permesso di eliminare completamente i costi di marketing.",
+          "isCorrect": false,
+          "rationale": "La tecnologia ha cambiato il modo di investire, ma non ha eliminato la necessità di budget promozionali."
+        },
+        {
+          "text": "Ha reso superfluo il ruolo del consumatore nel processo decisionale.",
+          "isCorrect": false,
+          "rationale": "Al contrario, il consumatore è al centro della costruzione di relazioni cercata dal digital advertising."
+        },
+        {
+          "text": "Ha stabilizzato i prezzi dei prodotti su scala globale.",
+          "isCorrect": false,
+          "rationale": "Il testo non menziona la stabilità dei prezzi dei beni come conseguenza della tecnologia nel marketing."
+        }
+      ],
+      "hint": "Pensa alla competitività aziendale nel contesto di un mercato che cambia velocemente."
+    },
+    {
+      "question": "Cosa si intende per 'modificabilità' nella pubblicità digitale?",
+      "answerOptions": [
+        {
+          "text": "La possibilità di cambiare testi o immagini di un annuncio anche mentre la campagna è attiva.",
+          "isCorrect": true,
+          "rationale": "A differenza della carta stampata o della TV, il digitale permette correzioni e aggiornamenti rapidi senza costi di ristampa."
+        },
+        {
+          "text": "La capacità del consumatore di cambiare il prezzo del prodotto visualizzato.",
+          "isCorrect": false,
+          "rationale": "La modificabilità si riferisce all'annuncio dal punto di vista dell'inserzionista, non a un potere contrattuale diretto sul prezzo."
+        },
+        {
+          "text": "L'alterazione automatica dei dati di vendita per far apparire i report migliori.",
+          "isCorrect": false,
+          "rationale": "Questa sarebbe una pratica fraudolenta e non un vantaggio strategico di flessibilità."
+        },
+        {
+          "text": "Il fatto che ogni utente veda un annuncio di dimensioni diverse in base al proprio umore.",
+          "isCorrect": false,
+          "rationale": "L'adattamento tecnico (responsività) esiste, ma non si basa sull'umore dell'utente."
+        }
+      ],
+      "hint": "Considera quanto è facile correggere un errore in un post sponsorizzato rispetto a un cartellone stradale già affisso."
+    },
+    {
+      "question": "Quale metrica misura la frequenza con cui i clienti compiono un'azione desiderata dopo aver visto l'annuncio?",
+      "answerOptions": [
+        {
+          "text": "Tasso di conversione.",
+          "isCorrect": true,
+          "rationale": "La conversione è l'atto finale desiderato (acquisto, iscrizione, ecc.) che dà senso alla campagna."
+        },
+        {
+          "text": "Impressioni totali.",
+          "isCorrect": false,
+          "rationale": "Le impressioni misurano solo la visibilità, non il successo di un'azione specifica post-visualizzazione."
+        },
+        {
+          "text": "Costo per mille (CPM).",
+          "isCorrect": false,
+          "rationale": "Il CPM è un modello di costo per la visibilità, non una misura di completamento di azioni."
+        },
+        {
+          "text": "Percentuale di rimbalzo.",
+          "isCorrect": false,
+          "rationale": "Sebbene sia una metrica web, non è citata nel materiale come misura dell'azione desiderata pubblicitaria."
+        }
+      ],
+      "hint": "Cerca il termine che indica la 'trasformazione' di un semplice spettatore in un cliente attivo."
+    },
+    {
+      "question": "Cosa rappresenta il 'Tasso di completamento video'?",
+      "answerOptions": [
+        {
+          "text": "La frequenza con cui un annuncio video viene guardato per intero dagli spettatori.",
+          "isCorrect": true,
+          "rationale": "È una metrica di engagement cruciale per capire se il contenuto video è interessante o troppo lungo."
+        },
+        {
+          "text": "Il tempo impiegato per caricare il file video sul server.",
+          "isCorrect": false,
+          "rationale": "Questo riguarda la velocità di caricamento tecnica, non il comportamento dell'utente."
+        },
+        {
+          "text": "La quantità di video prodotti dall'agenzia in un mese.",
+          "isCorrect": false,
+          "rationale": "La metrica si riferisce alla performance dell'annuncio singolo presso il pubblico."
+        },
+        {
+          "text": "Il numero di clic effettuati sul pulsante 'pausa' del video.",
+          "isCorrect": false,
+          "rationale": "Il tasso di completamento guarda alla fine della riproduzione, non alle interazioni intermedie negative."
+        }
+      ],
+      "hint": "Rifletti sulla capacità di un contenuto di trattenere l'attenzione dall'inizio alla fine."
+    },
+    {
+      "question": "Perché la 'rapidità' è considerata un elemento di flessibilità?",
+      "answerOptions": [
+        {
+          "text": "Perché consente di lanciare campagne in tempi brevissimi rispetto ai canali tradizionali.",
+          "isCorrect": true,
+          "rationale": "Nel digitale, una campagna può andare online quasi istantaneamente dopo la creazione."
+        },
+        {
+          "text": "Perché gli utenti leggono gli annunci più velocemente online.",
+          "isCorrect": false,
+          "rationale": "La rapidità si riferisce ai tempi di esecuzione e implementazione dell'advertising, non alla velocità di lettura."
+        },
+        {
+          "text": "Perché i pagamenti ai fornitori devono essere immediati.",
+          "isCorrect": false,
+          "rationale": "I termini di pagamento sono questioni amministrative slegate dalla flessibilità del mezzo."
+        },
+        {
+          "text": "Perché i video pubblicitari non possono durare più di 5 secondi.",
+          "isCorrect": false,
+          "rationale": "Esistono diversi formati video, alcuni molto lunghi; la rapidità non impone una durata massima universale."
+        }
+      ],
+      "hint": "Pensa alla differenza di tempo tra la pianificazione e l'effettiva visibilità dell'annuncio."
+    },
+    {
+      "question": "Nel contesto del digital advertising, chi prende le decisioni sui beni e servizi?",
+      "answerOptions": [
+        {
+          "text": "Le persone.",
+          "isCorrect": true,
+          "rationale": "Il materiale specifica che sono le persone a prendere decisioni, suggerendo l'importanza del fattore umano nel marketing."
+        },
+        {
+          "text": "Gli algoritmi di intelligenza artificiale in modo autonomo.",
+          "isCorrect": false,
+          "rationale": "Sebbene gli algoritmi aiutino nel targeting, la decisione d'acquisto finale spetta al consumatore umano."
+        },
+        {
+          "text": "Solo i direttori marketing delle grandi aziende.",
+          "isCorrect": false,
+          "rationale": "Tutti i consumatori sono decisori nel mercato; l'advertising si rivolge a segmenti di pubblico ampi."
+        },
+        {
+          "text": "I software di automazione delle vendite.",
+          "isCorrect": false,
+          "rationale": "L'automazione gestisce i processi, ma non 'decide' di acquistare un bene o servizio per sé."
+        }
+      ],
+      "hint": "Rifletti sull'utente finale che interagisce con l'annuncio."
+    },
+    {
+      "question": "Qual è il rapporto tra 'Spesa pubblicitaria' e 'Vendite' definito nel testo?",
+      "answerOptions": [
+        {
+          "text": "ACOS.",
+          "isCorrect": true,
+          "rationale": "L'ACOS calcola la percentuale di spesa pubblicitaria rispetto alle vendite totali da essa generate."
+        },
+        {
+          "text": "ROAS.",
+          "isCorrect": false,
+          "rationale": "Il ROAS è il rapporto inverso: vendite/spesa (quanto ricavo per ogni euro speso)."
+        },
+        {
+          "text": "CTR.",
+          "isCorrect": false,
+          "rationale": "Il CTR riguarda clic e impressioni, senza considerare il valore monetario delle vendite."
+        },
+        {
+          "text": "ROI.",
+          "isCorrect": false,
+          "rationale": "Il ROI si focalizza sul profitto netto e non sul semplice rapporto spesa/vendita lorda."
+        }
+      ],
+      "hint": "È un acronimo spesso usato su piattaforme come Amazon Advertising."
+    },
+    {
+      "question": "Il digital advertising permette di raggiungere segmenti di pubblico con precisione mediante:",
+      "answerOptions": [
+        {
+          "text": "Diversi metodi di targeting.",
+          "isCorrect": true,
+          "rationale": "Il targeting è lo strumento tecnico che permette di isolare e colpire segmenti specifici (interessi, demografia, ecc.)."
+        },
+        {
+          "text": "L'invio di lettere cartacee personalizzate.",
+          "isCorrect": false,
+          "rationale": "Questo appartiene al direct mail tradizionale, non alle sponsorizzazioni digitali online."
+        },
+        {
+          "text": "L'uso esclusivo di colori molto accesi negli annunci.",
+          "isCorrect": false,
+          "rationale": "Il design aiuta l'attenzione, ma la precisione del pubblico si ottiene con la tecnologia di targeting."
+        },
+        {
+          "text": "La riduzione casuale del prezzo del prodotto.",
+          "isCorrect": false,
+          "rationale": "La precisione riguarda il 'chi' vede l'annuncio, non modifiche casuali alle leve di prezzo."
+        }
+      ],
+      "hint": "Pensa alla funzione che permette di mostrare un annuncio di scarpe da corsa solo ai maratoneti."
+    },
+    {
+      "question": "Secondo il Prof. Granato, come si può definire il cambiamento nei consumatori?",
+      "answerOptions": [
+        {
+          "text": "Continuo e legato all'evoluzione tecnologica.",
+          "isCorrect": true,
+          "rationale": "Il materiale descrive un mercato caratterizzato da cambiamenti costanti nei comportamenti dovuti al progresso tecnico."
+        },
+        {
+          "text": "Lento e prevedibile nel lungo periodo.",
+          "isCorrect": false,
+          "rationale": "L'evoluzione tecnologica accelera i cambiamenti, rendendoli tutt'altro che lenti."
+        },
+        {
+          "text": "Irrilevante per la pianificazione marketing attuale.",
+          "isCorrect": false,
+          "rationale": "Le aziende devono integrare queste strategie proprio per rispondere a tali cambiamenti."
+        },
+        {
+          "text": "Casuale e non influenzabile dalla pubblicità.",
+          "isCorrect": false,
+          "rationale": "L'advertising mira proprio a influenzare e costruire relazioni basate su questi comportamenti."
+        }
+      ],
+      "hint": "Considera come internet ha cambiato la nostra velocità di scoperta e acquisto dei prodotti."
+    },
+    {
+      "question": "Quale di queste metriche NON è citata direttamente nella sezione della performance?",
+      "answerOptions": [
+        {
+          "text": "Costo per acquisizione di un lead fisico (CPL).",
+          "isCorrect": true,
+          "rationale": "Sebbene esistente nel digital marketing, il materiale fornito non menziona esplicitamente il CPL."
+        },
+        {
+          "text": "Tasso di conversione.",
+          "isCorrect": false,
+          "rationale": "È esplicitamente elencato tra i dati che misurano i risultati della campagna."
+        },
+        {
+          "text": "Ritorno sull'investimento (ROI).",
+          "isCorrect": false,
+          "rationale": "Il ROI è chiaramente definito come profitto netto in relazione al budget speso."
+        },
+        {
+          "text": "Vendite attribuite agli annunci.",
+          "isCorrect": false,
+          "rationale": "Questa metrica è inclusa per tracciare gli acquisti riconducibili all'advertising."
+        }
+      ],
+      "hint": "Tutte le opzioni tranne una sono presenti nella lista delle metriche misurabili del documento."
+    },
+    {
+      "question": "Qual è il primo passo delle 'Best Practice' elencate nel documento?",
+      "answerOptions": [
+        {
+          "text": "Raggiungere il pubblico giusto.",
+          "isCorrect": true,
+          "rationale": "Senza colpire il target corretto, tutte le fasi successive di monitoraggio e ottimizzazione perdono di valore."
+        },
+        {
+          "text": "Spendere tutto il budget nel primo giorno.",
+          "isCorrect": false,
+          "rationale": "Questa sarebbe una pratica rischiosa che ignora la scalabilità e l'ottimizzazione temporale."
+        },
+        {
+          "text": "Contattare il professore via Telegram.",
+          "isCorrect": false,
+          "rationale": "Contattare il professore è un invito finale per gli studenti, non una best practice tecnica di advertising."
+        },
+        {
+          "text": "Creare annunci solo in lingua inglese.",
+          "isCorrect": false,
+          "rationale": "La lingua dipende dal target; non è una regola universale citata nel testo."
+        }
+      ],
+      "hint": "Si ricollega al concetto di precisione e targeting."
+    },
+    {
+      "question": "In una campagna video, se il 50% degli spettatori arriva alla fine del filmato, il 50% rappresenta:",
+      "answerOptions": [
+        {
+          "text": "Il tasso di completamento video.",
+          "isCorrect": true,
+          "rationale": "Misura esattamente la percentuale di spettatori che non abbandonano la visione prima della fine."
+        },
+        {
+          "text": "Il CTR del video.",
+          "isCorrect": false,
+          "rationale": "Il CTR misurerebbe i clic sul video, non la durata della visione."
+        },
+        {
+          "text": "La copertura totale.",
+          "isCorrect": false,
+          "rationale": "La copertura indicherebbe quante persone hanno iniziato a vedere il video, non quante lo hanno finito."
+        },
+        {
+          "text": "L'ACOS della campagna.",
+          "isCorrect": false,
+          "rationale": "L'ACOS richiede dati di vendita e di spesa, non semplici dati di visualizzazione."
+        }
+      ],
+      "hint": "Cerca la metrica che descrive l'azione di guardare 'per intero'."
+    },
+    {
+      "question": "L'invito 'Keep in Touch!' del Prof. Granato include quale dei seguenti canali?",
+      "answerOptions": [
+        {
+          "text": "Mail e Telegram.",
+          "isCorrect": true,
+          "rationale": "Il professore fornisce esplicitamente il suo indirizzo email LUMSA e il suo username Telegram."
+        },
+        {
+          "text": "WhatsApp e Facebook.",
+          "isCorrect": false,
+          "rationale": "Questi canali non sono menzionati nelle slide come mezzi di contatto ufficiali."
+        },
+        {
+          "text": "LinkedIn e Twitter.",
+          "isCorrect": false,
+          "rationale": "Sebbene professionali, non compaiono nell'elenco dei contatti diretti fornito."
+        },
+        {
+          "text": "Instagram e TikTok.",
+          "isCorrect": false,
+          "rationale": "Non sono canali indicati per dubbi o suggerimenti sulla lezione nel materiale."
+        }
+      ],
+      "hint": "Guarda l'ultima parte della presentazione per i riferimenti di contatto."
+    },
+    {
+      "question": "Quale di queste affermazioni riflette la 'scalabilità' del budget pubblicitario digitale?",
+      "answerOptions": [
+        {
+          "text": "Posso iniziare con 10 euro al giorno e passare a 1000 euro se i risultati sono positivi.",
+          "isCorrect": true,
+          "rationale": "La scalabilità permette di adattare le dimensioni dell'investimento in base alla risposta del mercato."
+        },
+        {
+          "text": "Devo necessariamente spendere 1000 euro al giorno fin dall'inizio.",
+          "isCorrect": false,
+          "rationale": "Questa rigidità è l'opposto della flessibilità e scalabilità digitale."
+        },
+        {
+          "text": "Il costo per annuncio è fisso e non può mai cambiare.",
+          "isCorrect": false,
+          "rationale": "I modelli di asta digitali rendono i costi variabili e scalabili."
+        },
+        {
+          "text": "Il budget deve essere pagato in anticipo per intero senza possibilità di rimborso.",
+          "isCorrect": false,
+          "rationale": "Molte piattaforme permettono pagamenti a consumo, tipici della flessibilità del budget."
+        }
+      ],
+      "hint": "Pensa alla possibilità di crescere (o diminuire) in modo proporzionale alle necessità."
+    },
+    {
+      "question": "Cosa significa 'Ritorno sull'investimento (ROI)' secondo la definizione fornita?",
+      "answerOptions": [
+        {
+          "text": "Profitto netto ottenuto in relazione al budget speso.",
+          "isCorrect": true,
+          "rationale": "Il ROI è il calcolo finale che sottrae tutti i costi dal ricavo per determinare l'effettivo guadagno netto."
+        },
+        {
+          "text": "Numero di nuovi follower acquisiti durante la campagna.",
+          "isCorrect": false,
+          "rationale": "Questa è una metrica di crescita social, non un ritorno sull'investimento finanziario come descritto."
+        },
+        {
+          "text": "Tempo risparmiato dal team marketing grazie all'automazione.",
+          "isCorrect": false,
+          "rationale": "Sebbene importante, il ROI nelle slide è definito in termini monetari di profitto."
+        },
+        {
+          "text": "Percentuale di persone che hanno cliccato sull'annuncio.",
+          "isCorrect": false,
+          "rationale": "Questa è la definizione di CTR (Click-Through Rate)."
+        }
+      ],
+      "hint": "Focalizzati sulla parola 'profitto netto' e sul suo legame con l'investimento iniziale."
+    }
+  ]
+}

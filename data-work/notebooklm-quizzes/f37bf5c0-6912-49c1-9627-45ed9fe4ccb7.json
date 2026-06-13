@@ -1,0 +1,775 @@
+{
+  "title": "IA Quiz",
+  "questions": [
+    {
+      "question": "Qual è la definizione di Intelligenza Artificiale fornita nel materiale?",
+      "answerOptions": [
+        {
+          "text": "La capacità di un sistema di produrre risultati basandosi su evidenze estratte autonomamente dai dati.",
+          "isCorrect": true,
+          "rationale": "Questa definizione sottolinea il passaggio da una logica rigida a una basata sull'apprendimento dai dati."
+        },
+        {
+          "text": "Un sistema software che segue esclusivamente logiche deterministiche preimpostate.",
+          "isCorrect": false,
+          "rationale": "L'AI si distingue proprio perché non si basa solo su logiche deterministiche fisse, ma impara dai dati."
+        },
+        {
+          "text": "Un insieme di regole fisse scritte da programmatori per simulare il pensiero umano.",
+          "isCorrect": false,
+          "rationale": "Sebbene ci sia programmazione, il cuore dell'AI è l'estrazione autonoma di evidenze dai dati."
+        },
+        {
+          "text": "Uno strumento statistico che richiede l'intervento umano costante per ogni singola azione.",
+          "isCorrect": false,
+          "rationale": "Il concetto chiave di AI include l'autonomia del sistema nel generare risultati o statistiche."
+        }
+      ],
+      "hint": "Considera come il sistema ottiene i suoi risultati rispetto alla programmazione tradizionale."
+    },
+    {
+      "question": "Secondo W. Edwards Deming, cosa sei senza dati?",
+      "answerOptions": [
+        {
+          "text": "Solo un'altra persona con un'opinione.",
+          "isCorrect": true,
+          "rationale": "Questa citazione enfatizza l'importanza dei dati oggettivi rispetto alle intuizioni soggettive."
+        },
+        {
+          "text": "Un professionista senza strumenti di lavoro.",
+          "isCorrect": false,
+          "rationale": "Sebbene sia vero in senso lato, la citazione specifica di Deming si focalizza sul concetto di opinione personale."
+        },
+        {
+          "text": "Un ricercatore senza una base scientifica.",
+          "isCorrect": false,
+          "rationale": "La citazione mira a contrapporre la solidità dei dati alla soggettività del parere individuale."
+        },
+        {
+          "text": "Una persona incapace di prendere decisioni.",
+          "isCorrect": false,
+          "rationale": "Deming non nega la capacità decisionale, ma ne mette in dubbio il valore se priva di supporto empirico."
+        }
+      ],
+      "hint": "Pensa alla differenza tra una convinzione personale e una prova oggettiva."
+    },
+    {
+      "question": "Quali sono i tre elementi fondamentali (pilastri) di un sistema di AI?",
+      "answerOptions": [
+        {
+          "text": "Dati, Algoritmi e Potenza Computazionale.",
+          "isCorrect": true,
+          "rationale": "Questi tre componenti formano l'infrastruttura necessaria per il funzionamento e l'evoluzione dell'AI."
+        },
+        {
+          "text": "Software, Hardware e Connettività Internet.",
+          "isCorrect": false,
+          "rationale": "Questi sono termini informatici generali e non i tre pilastri specifici descritti per l'AI nel materiale."
+        },
+        {
+          "text": "Statistica, Logica e Creatività Umana.",
+          "isCorrect": false,
+          "rationale": "L'AI utilizza la statistica e la logica, ma i suoi componenti strutturali sono dati, algoritmi e potenza di calcolo."
+        },
+        {
+          "text": "Dati, Marketing e Strategia Digitale.",
+          "isCorrect": false,
+          "rationale": "Sebbene l'AI venga applicata a questi ambiti, non costituiscono i suoi elementi tecnici di base."
+        }
+      ],
+      "hint": "Si tratta di informazioni, istruzioni e capacità di elaborazione."
+    },
+    {
+      "question": "Perché i dati sono considerati il fondamento di qualsiasi applicazione di AI?",
+      "answerOptions": [
+        {
+          "text": "Forniscono le informazioni da cui i sistemi possono imparare e fare previsioni.",
+          "isCorrect": true,
+          "rationale": "Senza informazioni in ingresso, l'algoritmo non ha una base su cui costruire modelli di apprendimento."
+        },
+        {
+          "text": "Servono a sostituire completamente la necessità di algoritmi complessi.",
+          "isCorrect": false,
+          "rationale": "I dati e gli algoritmi sono complementari; i dati non eliminano la necessità di istruzioni per elaborarli."
+        },
+        {
+          "text": "Sono necessari solo per la fase finale della reportistica di marketing.",
+          "isCorrect": false,
+          "rationale": "I dati sono essenziali sin dall'inizio per l'addestramento, non solo per il monitoraggio finale."
+        },
+        {
+          "text": "Permettono di ridurre la potenza computazionale richiesta dal sistema.",
+          "isCorrect": false,
+          "rationale": "In realtà, set di dati più ampi solitamente richiedono una maggiore potenza computazionale per essere analizzati."
+        }
+      ],
+      "hint": "Pensa al ruolo dei dati nel processo di addestramento di un modello."
+    },
+    {
+      "question": "Qual è la funzione principale degli algoritmi in un sistema di AI?",
+      "answerOptions": [
+        {
+          "text": "Guidare il processo di apprendimento e decisione dell'AI.",
+          "isCorrect": true,
+          "rationale": "Gli algoritmi sono il 'cuore' che determina come i dati vengono interpretati e trasformati in azioni."
+        },
+        {
+          "text": "Aumentare fisicamente la memoria del computer utilizzato.",
+          "isCorrect": false,
+          "rationale": "L'aumento della memoria riguarda l'hardware (potenza computazionale), non le istruzioni logiche dell'algoritmo."
+        },
+        {
+          "text": "Fungere da database per l'archiviazione delle informazioni utente.",
+          "isCorrect": false,
+          "rationale": "Gli algoritmi elaborano i dati, ma l'archiviazione è una funzione delegata alle strutture dati."
+        },
+        {
+          "text": "Sostituire la necessità di potenza computazionale per velocizzare il calcolo.",
+          "isCorrect": false,
+          "rationale": "Algoritmi più avanzati spesso richiedono, al contrario, più potenza di calcolo per essere eseguiti."
+        }
+      ],
+      "hint": "Rifletti su cosa definisce le regole che il sistema deve seguire."
+    },
+    {
+      "question": "Come si comportano gli algoritmi di machine learning man mano che ricevono più dati?",
+      "answerOptions": [
+        {
+          "text": "Migliorano le proprie prestazioni nel tempo.",
+          "isCorrect": true,
+          "rationale": "La natura del machine learning è l'apprendimento iterativo basato sull'esperienza fornita dai dati."
+        },
+        {
+          "text": "Diventano più semplici e meno dispendiosi in termini di calcolo.",
+          "isCorrect": false,
+          "rationale": "La complessità interna può aumentare e la potenza richiesta non diminuisce necessariamente con più dati."
+        },
+        {
+          "text": "Smettono di funzionare a causa del sovraccarico di informazioni.",
+          "isCorrect": false,
+          "rationale": "Un sistema ben progettato scala con l'aumento dei dati per migliorare la precisione, non per bloccarsi."
+        },
+        {
+          "text": "Richiedono una riscrittura manuale del codice da parte dell'uomo.",
+          "isCorrect": false,
+          "rationale": "L'apprendimento è automatico, il che riduce la necessità di interventi manuali sul codice sorgente."
+        }
+      ],
+      "hint": "Ricorda la caratteristica dinamica di questo tipo di algoritmi."
+    },
+    {
+      "question": "Cos'è la potenza computazionale nel contesto dell'AI?",
+      "answerOptions": [
+        {
+          "text": "La capacità di calcolo disponibile per eseguire gli algoritmi.",
+          "isCorrect": true,
+          "rationale": "Rappresenta la forza motrice hardware necessaria per processare i calcoli complessi richiesti dall'AI."
+        },
+        {
+          "text": "La velocità della connessione internet tra server e utente.",
+          "isCorrect": false,
+          "rationale": "La connettività è importante per il trasferimento dati, ma la potenza computazionale riguarda l'elaborazione locale o in cloud."
+        },
+        {
+          "text": "Il numero di gigabyte di dati raccolti in un anno.",
+          "isCorrect": false,
+          "rationale": "Il volume dei dati è una misura dei dati stessi, non della capacità di calcolo del processore."
+        },
+        {
+          "text": "La complessità delle istruzioni scritte in un algoritmo.",
+          "isCorrect": false,
+          "rationale": "La complessità algoritmica è una caratteristica del software, non della potenza di calcolo hardware."
+        }
+      ],
+      "hint": "Associa questo concetto alle risorse hardware."
+    },
+    {
+      "question": "Qual è il rapporto tra dati, algoritmi e potenza computazionale?",
+      "answerOptions": [
+        {
+          "text": "È un rapporto ciclico e interdipendente.",
+          "isCorrect": true,
+          "rationale": "Ogni elemento alimenta e richiede gli altri per far progredire l'intero sistema di AI."
+        },
+        {
+          "text": "È un rapporto lineare in cui i dati sono l'unico elemento fondamentale.",
+          "isCorrect": false,
+          "rationale": "Non è lineare perché la potenza computazionale e gli algoritmi influenzano a loro volta come i dati vengono usati."
+        },
+        {
+          "text": "Si tratta di elementi indipendenti che non si influenzano a vicenda.",
+          "isCorrect": false,
+          "rationale": "Il materiale specifica chiaramente che la mancanza di uno limita drasticamente gli altri due."
+        },
+        {
+          "text": "È un rapporto gerarchico dove la potenza computazionale è meno importante degli altri.",
+          "isCorrect": false,
+          "rationale": "Senza potenza adeguata, algoritmi complessi non possono essere eseguiti su set di dati moderni."
+        }
+      ],
+      "hint": "Pensa a come questi tre fattori collaborano tra loro."
+    },
+    {
+      "question": "In che modo una maggiore potenza computazionale influisce sugli algoritmi?",
+      "answerOptions": [
+        {
+          "text": "Consente di addestrare modelli su grandi set di dati in tempi ragionevoli.",
+          "isCorrect": true,
+          "rationale": "L'efficienza temporale è cruciale nello sviluppo di modelli di AI moderni e complessi."
+        },
+        {
+          "text": "Rende superfluo l'utilizzo di dati di alta qualità.",
+          "isCorrect": false,
+          "rationale": "La qualità dei dati rimane fondamentale indipendentemente dalla velocità di calcolo."
+        },
+        {
+          "text": "Garantisce che l'algoritmo non commetta mai errori statistici.",
+          "isCorrect": false,
+          "rationale": "La potenza aumenta la velocità e la scala, ma la precisione dipende anche dalla logica dell'algoritmo e dai dati."
+        },
+        {
+          "text": "Elimina la necessità di avere algoritmi di machine learning.",
+          "isCorrect": false,
+          "rationale": "La potenza computazionale è lo strumento che permette agli algoritmi di operare, non il loro sostituto."
+        }
+      ],
+      "hint": "Considera l'impatto sulla velocità di elaborazione delle informazioni."
+    },
+    {
+      "question": "Quale termine rappresenta il concetto generale di creazione di macchine intelligenti?",
+      "answerOptions": [
+        {
+          "text": "Intelligenza Artificiale.",
+          "isCorrect": true,
+          "rationale": "È l'ombrello più ampio che racchiude tutte le tecnologie e le metodologie del settore."
+        },
+        {
+          "text": "Machine Learning.",
+          "isCorrect": false,
+          "rationale": "Il machine learning è un sottocampo specifico dell'IA, non il concetto generale."
+        },
+        {
+          "text": "Deep Learning.",
+          "isCorrect": false,
+          "rationale": "Il deep learning è una tecnica ancora più specifica all'interno del machine learning."
+        },
+        {
+          "text": "Generative AI.",
+          "isCorrect": false,
+          "rationale": "La GenAI è una categoria specializzata focalizzata sulla creazione di contenuti."
+        }
+      ],
+      "hint": "Cerca il termine più inclusivo tra quelli presentati."
+    },
+    {
+      "question": "Che cos'è nello specifico il Machine Learning?",
+      "answerOptions": [
+        {
+          "text": "Un sottocampo dell'IA che addestra le macchine a imparare dai dati.",
+          "isCorrect": true,
+          "rationale": "Si focalizza sulla capacità del sistema di migliorare le proprie prestazioni analizzando informazioni pregresse."
+        },
+        {
+          "text": "La capacità hardware di un computer di accendersi autonomamente.",
+          "isCorrect": false,
+          "rationale": "L'apprendimento non riguarda l'hardware di base, ma il modo in cui il software processa i dati."
+        },
+        {
+          "text": "Una tecnica per programmare manualmente ogni possibile scenario decisionale.",
+          "isCorrect": false,
+          "rationale": "Questo descriverebbe un sistema deterministico tradizionale, l'opposto del machine learning."
+        },
+        {
+          "text": "Un tipo di intelligenza che non richiede dati per funzionare.",
+          "isCorrect": false,
+          "rationale": "Il machine learning dipende interamente dai dati per il suo processo di apprendimento."
+        }
+      ],
+      "hint": "Focalizzati sulla relazione tra macchina e dati."
+    },
+    {
+      "question": "Qual è la caratteristica distintiva del Deep Learning?",
+      "answerOptions": [
+        {
+          "text": "L'utilizzo di reti neurali profonde per analizzare vari fattori di un dato.",
+          "isCorrect": true,
+          "rationale": "Le reti neurali multistrato permettono di gestire livelli di astrazione dei dati molto complessi."
+        },
+        {
+          "text": "L'apprendimento basato esclusivamente su database di testo semplici.",
+          "isCorrect": false,
+          "rationale": "Il deep learning può analizzare immagini, suoni e dati multimodali, non solo testo semplice."
+        },
+        {
+          "text": "Il fatto di essere una tecnologia esterna al Machine Learning.",
+          "isCorrect": false,
+          "rationale": "Il deep learning è in realtà un sottoinsieme del machine learning."
+        },
+        {
+          "text": "L'assenza totale di algoritmi nel processo decisionale.",
+          "isCorrect": false,
+          "rationale": "Le reti neurali sono esse stesse forme complesse di algoritmi."
+        }
+      ],
+      "hint": "Pensa alla struttura 'biologica' che tenta di imitare."
+    },
+    {
+      "question": "Su cosa si focalizza la Generative AI?",
+      "answerOptions": [
+        {
+          "text": "Sulla creazione di nuovi dati coerenti con un set di dati esistente.",
+          "isCorrect": true,
+          "rationale": "L'obiettivo è generare output originali (testi, immagini) che seguano i pattern appresi."
+        },
+        {
+          "text": "Sulla sola classificazione di email in spam o non spam.",
+          "isCorrect": false,
+          "rationale": "La classificazione è un compito tipico dei modelli discriminativi, non di quelli generativi."
+        },
+        {
+          "text": "Sul miglioramento della velocità di calcolo dei processori grafici.",
+          "isCorrect": false,
+          "rationale": "La GenAI sfrutta la potenza di calcolo ma il suo scopo è la creazione di contenuti."
+        },
+        {
+          "text": "Sulla protezione dei dati sensibili all'interno di un'azienda.",
+          "isCorrect": false,
+          "rationale": "Sebbene la sicurezza sia importante, non è il focus definitorio della Generative AI."
+        }
+      ],
+      "hint": "Considera la parola 'generativa' e cosa implica per l'output."
+    },
+    {
+      "question": "In che modo i modelli discriminativi differiscono da quelli generativi?",
+      "answerOptions": [
+        {
+          "text": "I discriminativi classificano i dati, i generativi ne producono di nuovi.",
+          "isCorrect": true,
+          "rationale": "Questa è la distinzione fondamentale tra identificare pattern esistenti e crearne di nuovi."
+        },
+        {
+          "text": "I discriminativi sono più intelligenti dei modelli generativi.",
+          "isCorrect": false,
+          "rationale": "Non si tratta di un grado di intelligenza, ma di una differenza di scopo e architettura."
+        },
+        {
+          "text": "I modelli generativi non utilizzano il machine learning, a differenza dei discriminativi.",
+          "isCorrect": false,
+          "rationale": "Entrambi sono sottocategorie del machine learning."
+        },
+        {
+          "text": "I modelli discriminativi richiedono meno dati rispetto a quelli generativi.",
+          "isCorrect": false,
+          "rationale": "Entrambi beneficiano di grandi quantità di dati, sebbene i modelli generativi moderni siano particolarmente avidi di dati."
+        }
+      ],
+      "hint": "Pensa alla differenza tra 'etichettare' e 'creare'."
+    },
+    {
+      "question": "Quale compito cercano di eseguire i modelli discriminativi?",
+      "answerOptions": [
+        {
+          "text": "Classificare o etichettare dati in base a informazioni pregresse.",
+          "isCorrect": true,
+          "rationale": "Il loro scopo è distinguere tra diverse categorie all'interno di un dataset."
+        },
+        {
+          "text": "Dipingere un quadro digitale simile a quelli di Van Gogh.",
+          "isCorrect": false,
+          "rationale": "Questo sarebbe un compito creativo tipico dell'IA generativa."
+        },
+        {
+          "text": "Scrivere un codice di programmazione partendo da una richiesta testuale.",
+          "isCorrect": false,
+          "rationale": "La generazione di codice è una funzione dell'IA generativa."
+        },
+        {
+          "text": "Aumentare la memoria RAM del sistema in uso.",
+          "isCorrect": false,
+          "rationale": "L'hardware non viene modificato dal tipo di modello software utilizzato."
+        }
+      ],
+      "hint": "Cerca un'azione legata alla distinzione tra categorie."
+    },
+    {
+      "question": "Come utilizza Netflix gli algoritmi di machine learning per il marketing?",
+      "answerOptions": [
+        {
+          "text": "Per analizzare il tempo di visione e creare una home page personalizzata.",
+          "isCorrect": true,
+          "rationale": "La personalizzazione dell'interfaccia aumenta il valore percepito dall'utente e l'engagement."
+        },
+        {
+          "text": "Per decidere il prezzo dell'abbonamento mensile di ogni singolo utente.",
+          "isCorrect": false,
+          "rationale": "Netflix usa solitamente piani tariffari standard, non il dynamic pricing per utente descritto nel materiale."
+        },
+        {
+          "text": "Per bloccare automaticamente gli account che condividono la password.",
+          "isCorrect": false,
+          "rationale": "Sebbene esistano controlli, il caso di studio citato si concentra sulle raccomandazioni personalizzate."
+        },
+        {
+          "text": "Per produrre film senza l'ausilio di registi o sceneggiatori umani.",
+          "isCorrect": false,
+          "rationale": "Netflix usa l'AI per suggerire e analizzare i dati, ma la produzione creativa primaria è ancora umana."
+        }
+      ],
+      "hint": "Pensa a cosa vedi quando apri l'app di Netflix sul tuo dispositivo."
+    },
+    {
+      "question": "Qual è l'impatto di marketing principale della personalizzazione di Netflix?",
+      "answerOptions": [
+        {
+          "text": "Aumenta il tempo di permanenza e riduce l'abbandono della piattaforma.",
+          "isCorrect": true,
+          "rationale": "Offrire contenuti rilevanti rende l'utente più propenso a continuare a utilizzare il servizio."
+        },
+        {
+          "text": "Consente di eliminare del tutto i costi pubblicitari esterni.",
+          "isCorrect": false,
+          "rationale": "La personalizzazione migliora la ritenzione (churn rate), ma non elimina la necessità di acquisire nuovi clienti."
+        },
+        {
+          "text": "Permette di aumentare il prezzo dell'abbonamento ogni mese senza preavviso.",
+          "isCorrect": false,
+          "rationale": "La strategia di pricing è separata dalla personalizzazione dell'esperienza utente."
+        },
+        {
+          "text": "Sostituisce la necessità di creare nuovi contenuti originali.",
+          "isCorrect": false,
+          "rationale": "La personalizzazione serve a far scoprire i contenuti, non a smettere di produrne."
+        }
+      ],
+      "hint": "Rifletti sul motivo per cui un'azienda vuole che l'utente resti soddisfatto."
+    },
+    {
+      "question": "Cos'è il 'Dynamic Pricing' sfruttato da Amazon tramite l'AI?",
+      "answerOptions": [
+        {
+          "text": "Il cambiamento dei prezzi in tempo reale in base a domanda e concorrenza.",
+          "isCorrect": true,
+          "rationale": "Permette di ottimizzare i margini e rimanere competitivi istantaneamente sul mercato."
+        },
+        {
+          "text": "Un sistema di sconti fissi per i clienti che acquistano più di dieci prodotti.",
+          "isCorrect": false,
+          "rationale": "La dinamicità implica un cambiamento basato su variabili di mercato, non su soglie fisse predefinite."
+        },
+        {
+          "text": "La capacità di regalare prodotti a sorpresa agli utenti più fedeli.",
+          "isCorrect": false,
+          "rationale": "Questa sarebbe una strategia promozionale, non un meccanismo di pricing dinamico."
+        },
+        {
+          "text": "Un algoritmo che riduce i prezzi ogni giorno fino all'esaurimento scorte.",
+          "isCorrect": false,
+          "rationale": "Il prezzo può anche aumentare se la domanda sale; il termine chiave è 'adattamento' alle condizioni."
+        }
+      ],
+      "hint": "Considera come variano i prezzi su Amazon in momenti diversi della giornata."
+    },
+    {
+      "question": "Oltre al dynamic pricing, per quale altra attività di marketing Amazon sfrutta l'AI?",
+      "answerOptions": [
+        {
+          "text": "Per suggerire prodotti complementari (cross-selling).",
+          "isCorrect": true,
+          "rationale": "L'analisi dei comportamenti d'acquisto permette di proporre oggetti che l'utente potrebbe desiderare insieme al principale."
+        },
+        {
+          "text": "Per spedire pacchi prima ancora che l'utente clicchi su 'acquista'.",
+          "isCorrect": false,
+          "rationale": "Sebbene esistano brevetti sulla spedizione predittiva, l'esempio nel materiale si focalizza sui suggerimenti di prodotto."
+        },
+        {
+          "text": "Per sostituire completamente il servizio clienti umano con dei robot fisici.",
+          "isCorrect": false,
+          "rationale": "Amazon usa chatbot, ma il focus del materiale è sull'ottimizzazione delle vendite e dei margini."
+        },
+        {
+          "text": "Per impedire la vendita di prodotti da parte di venditori terzi.",
+          "isCorrect": false,
+          "rationale": "L'AI aiuta a gestire il marketplace, ma non è finalizzata all'esclusione sistematica della concorrenza interna."
+        }
+      ],
+      "hint": "Pensa alla sezione 'Spesso comprati insieme'."
+    },
+    {
+      "question": "Qual è il vantaggio economico per Amazon derivante dall'uso dell'AI descritto?",
+      "answerOptions": [
+        {
+          "text": "Aumenta le vendite cross-selling e ottimizza i margini.",
+          "isCorrect": true,
+          "rationale": "L'efficienza operativa e la capacità di proporre il prezzo giusto massimizzano il profitto."
+        },
+        {
+          "text": "Riduce a zero i costi di spedizione per l'azienda.",
+          "isCorrect": false,
+          "rationale": "L'AI può ottimizzare la logistica, ma non elimina i costi vivi di trasporto e personale."
+        },
+        {
+          "text": "Permette di non pagare tasse nei paesi in cui opera.",
+          "isCorrect": false,
+          "rationale": "L'AI è uno strumento tecnologico di marketing, non una strategia di elusione fiscale."
+        },
+        {
+          "text": "Assicura che nessun prodotto rimanga mai invenduto in magazzino.",
+          "isCorrect": false,
+          "rationale": "L'AI aiuta a prevedere la domanda, ma non può garantire matematicamente lo svuotamento totale degli stock."
+        }
+      ],
+      "hint": "Focalizzati sull'ottimizzazione del guadagno su ogni singola transazione."
+    },
+    {
+      "question": "L'AI sostituirà davvero i marketer? Qual è lo spunto di riflessione proposto?",
+      "answerOptions": [
+        {
+          "text": "La questione riguarda come i marketer possano usare l'AI per emergere.",
+          "isCorrect": true,
+          "rationale": "Il materiale pone l'accento sull'uso strategico dello strumento piuttosto che sulla pura sostituzione."
+        },
+        {
+          "text": "L'AI sostituirà sicuramente tutti i marketer entro il prossimo anno.",
+          "isCorrect": false,
+          "rationale": "Il materiale non dà una risposta definitiva ma pone una domanda aperta sull'uso creativo dell'AI."
+        },
+        {
+          "text": "I marketer sono del tutto immuni all'avanzata tecnologica.",
+          "isCorrect": false,
+          "rationale": "L'AI sta cambiando il settore, quindi ignorarla non è una posizione supportata dai casi di successo citati."
+        },
+        {
+          "text": "L'AI si occuperà solo della logistica, non della comunicazione.",
+          "isCorrect": false,
+          "rationale": "Esempi come Netflix mostrano che l'AI ha un impatto profondo sulla comunicazione e l'esperienza utente."
+        }
+      ],
+      "hint": "Considera se lo strumento è visto come un nemico o un'opportunità strategica."
+    },
+    {
+      "question": "Nel diagramma della gerarchia dell'AI, dove si posiziona il Deep Learning?",
+      "answerOptions": [
+        {
+          "text": "È un sottoinsieme del Machine Learning.",
+          "isCorrect": true,
+          "rationale": "Tutte le tecniche di deep learning appartengono alla più ampia categoria del machine learning."
+        },
+        {
+          "text": "È una categoria separata che non ha a che fare con l'AI.",
+          "isCorrect": false,
+          "rationale": "Il deep learning è una delle forme più avanzate di intelligenza artificiale moderna."
+        },
+        {
+          "text": "Si trova allo stesso livello gerarchico dell'Intelligenza Artificiale generale.",
+          "isCorrect": false,
+          "rationale": "L'AI è il contenitore generale, il deep learning è un componente specifico al suo interno."
+        },
+        {
+          "text": "È un sinonimo esatto di Generative AI.",
+          "isCorrect": false,
+          "rationale": "Sebbene la GenAI possa usare il deep learning, quest'ultimo include anche modelli non generativi."
+        }
+      ],
+      "hint": "Immagina dei cerchi concentrici: qual è quello più interno?"
+    },
+    {
+      "question": "Qual è il prerequisito fondamentale per addestrare algoritmi efficaci?",
+      "answerOptions": [
+        {
+          "text": "Dati di qualità.",
+          "isCorrect": true,
+          "rationale": "Dati sporchi o errati porteranno l'algoritmo a imparare pattern sbagliati o inutili."
+        },
+        {
+          "text": "Un team di almeno cento programmatori.",
+          "isCorrect": false,
+          "rationale": "Anche un piccolo team può addestrare modelli efficaci se dispone di dati eccellenti e potenza adeguata."
+        },
+        {
+          "text": "L'assenza di concorrenza sul mercato.",
+          "isCorrect": false,
+          "rationale": "La concorrenza è un fattore di mercato, non un prerequisito tecnico per l'addestramento dell'algoritmo."
+        },
+        {
+          "text": "L'utilizzo esclusivo di logiche deterministiche.",
+          "isCorrect": false,
+          "rationale": "L'AI si allontana dalle logiche deterministiche proprio per imparare autonomamente dai dati."
+        }
+      ],
+      "hint": "Cosa deve essere 'pulito' e 'accurato' affinché l'AI funzioni bene?"
+    },
+    {
+      "question": "Vero o Falso: L'AI Generativa cerca di produrre nuovi dati simili a quelli utilizzati per l'addestramento.",
+      "answerOptions": [
+        {
+          "text": "Vero",
+          "isCorrect": true,
+          "rationale": "L'essenza dei modelli generativi è la coerenza statistica con i dati sorgente per creare nuovi output verosimili."
+        },
+        {
+          "text": "Falso",
+          "isCorrect": false,
+          "rationale": "In realtà, questa è proprio la definizione corretta di come operano i modelli generativi."
+        }
+      ],
+      "hint": "Pensa se l'obiettivo è la somiglianza stilistica o la totale casualità."
+    },
+    {
+      "question": "Perché un algoritmo non può essere addestrato efficacemente senza dati adeguati?",
+      "answerOptions": [
+        {
+          "text": "Perché non sarà in grado di eseguire compiti con un livello di precisione accettabile.",
+          "isCorrect": true,
+          "rationale": "La precisione deriva dalla quantità e qualità delle evidenze estratte durante la fase di training."
+        },
+        {
+          "text": "Perché i dati servono a raffreddare l'hardware durante il calcolo.",
+          "isCorrect": false,
+          "rationale": "Questa affermazione non ha senso tecnico; il raffreddamento è un processo fisico dell'hardware."
+        },
+        {
+          "text": "Perché gli algoritmi si cancellano automaticamente se non ricevono input ogni ora.",
+          "isCorrect": false,
+          "rationale": "Gli algoritmi sono codice persistente; la mancanza di dati ne impedisce l'evoluzione, non ne causa la cancellazione."
+        },
+        {
+          "text": "Perché l'interfaccia utente diventerebbe troppo complessa da gestire.",
+          "isCorrect": false,
+          "rationale": "La complessità dell'interfaccia è una scelta di design e non dipende direttamente dall'addestramento dell'algoritmo."
+        }
+      ],
+      "hint": "Pensa alla qualità del risultato finale fornito dall'AI."
+    },
+    {
+      "question": "Quale elemento permette di lavorare con set di dati più grandi e complessi, migliorando l'apprendimento?",
+      "answerOptions": [
+        {
+          "text": "Maggiore potenza computazionale.",
+          "isCorrect": true,
+          "rationale": "Più risorse di calcolo consentono di processare moli di dati che altrimenti richiederebbero troppo tempo."
+        },
+        {
+          "text": "Una connessione 5G ultra-veloce.",
+          "isCorrect": false,
+          "rationale": "La velocità di rete aiuta il trasferimento, ma l'apprendimento vero e proprio avviene tramite l'elaborazione hardware."
+        },
+        {
+          "text": "L'eliminazione di tutti gli algoritmi di machine learning.",
+          "isCorrect": false,
+          "rationale": "Senza algoritmi non ci sarebbe alcun processo di apprendimento da migliorare."
+        },
+        {
+          "text": "L'uso di logiche deterministiche invece di quelle probabilistiche.",
+          "isCorrect": false,
+          "rationale": "Le logiche deterministiche sono limitate e non scalano bene con l'apprendimento dai dati."
+        }
+      ],
+      "hint": "Si tratta della risorsa che 'alimenta' il motore del calcolo."
+    },
+    {
+      "question": "Il Machine Learning è focalizzato su:",
+      "answerOptions": [
+        {
+          "text": "Addestrare le macchine a imparare dai dati.",
+          "isCorrect": true,
+          "rationale": "Questo distingue il ML dalla programmazione tradizionale basata su regole fisse."
+        },
+        {
+          "text": "Costruire computer con parti biologiche umane.",
+          "isCorrect": false,
+          "rationale": "L'AI è artificiale; l'uso di parti biologiche appartiene ad altri campi della scienza (biotecnologia)."
+        },
+        {
+          "text": "Garantire che il marketing non usi mai l'automazione.",
+          "isCorrect": false,
+          "rationale": "Al contrario, il ML è alla base di molte moderne automazioni di marketing."
+        },
+        {
+          "text": "Creare database che si riempiono di dati senza alcun intervento esterno.",
+          "isCorrect": false,
+          "rationale": "I dati devono essere forniti o raccolti attivamente; il ML si occupa di cosa farne una volta ottenuti."
+        }
+      ],
+      "hint": "Cerca il termine che descrive il processo di istruzione della macchina."
+    },
+    {
+      "question": "Cosa determinano gli algoritmi in un sistema di AI?",
+      "answerOptions": [
+        {
+          "text": "Come i dati vengono interpretati e utilizzati per fare previsioni.",
+          "isCorrect": true,
+          "rationale": "Essi stabiliscono la logica di trasformazione dall'input di dati all'output decisionale."
+        },
+        {
+          "text": "La quantità di corrente elettrica consumata dal data center.",
+          "isCorrect": false,
+          "rationale": "Sebbene influenzino il carico di lavoro, il consumo elettrico è una proprietà fisica dell'hardware."
+        },
+        {
+          "text": "La bellezza estetica del logo aziendale.",
+          "isCorrect": false,
+          "rationale": "Questo è un compito di design grafico, sebbene la GenAI possa assistervi, non è lo scopo degli algoritmi in generale."
+        },
+        {
+          "text": "L'unico modo possibile in cui un essere umano può pensare.",
+          "isCorrect": false,
+          "rationale": "Gli algoritmi simulano processi, ma non determinano o limitano il pensiero umano biologico."
+        }
+      ],
+      "hint": "Rifletti sul passaggio dai dati grezzi alle decisioni finali."
+    },
+    {
+      "question": "Nel contesto di marketing, l'uso dell'AI da parte di Amazon mira a:",
+      "answerOptions": [
+        {
+          "text": "Ottimizzare i margini e aumentare le vendite complementari.",
+          "isCorrect": true,
+          "rationale": "Attraverso il pricing dinamico e i suggerimenti, l'azienda massimizza l'efficacia di ogni sessione utente."
+        },
+        {
+          "text": "Nascondere i prodotti della concorrenza per favorire solo i propri.",
+          "isCorrect": false,
+          "rationale": "Il marketplace di Amazon si basa sulla varietà; l'AI serve a mostrare ciò che l'utente è più propenso a comprare."
+        },
+        {
+          "text": "Sostituire la necessità di avere magazzini fisici.",
+          "isCorrect": false,
+          "rationale": "Amazon è un'azienda logistica massiccia; l'AI ottimizza i magazzini, non li elimina."
+        },
+        {
+          "text": "Inviare email pubblicitarie ogni ora a tutti gli iscritti.",
+          "isCorrect": false,
+          "rationale": "Questa sarebbe una pratica di spam inefficiente; l'AI mira alla pertinenza, non alla quantità ossessiva."
+        }
+      ],
+      "hint": "Pensa all'efficienza economica del gigante dell'e-commerce."
+    },
+    {
+      "question": "Qual è il messaggio finale del seminario di Gabriele Granato?",
+      "answerOptions": [
+        {
+          "text": "Invitare gli studenti a pensare a come usare l'AI per far emergere un brand.",
+          "isCorrect": true,
+          "rationale": "Il seminario si conclude con una domanda aperta sulla strategia competitiva tramite l'uso dell'AI."
+        },
+        {
+          "text": "Affermare che lo studio del marketing digitale è ormai inutile.",
+          "isCorrect": false,
+          "rationale": "Al contrario, il seminario integra l'AI come uno strumento fondamentale per chi studia marketing."
+        },
+        {
+          "text": "Dimostrare che Amazon è l'unica azienda al mondo a poter usare l'AI.",
+          "isCorrect": false,
+          "rationale": "Amazon e Netflix sono portati come esempi di successo da cui trarre ispirazione per brand emergenti."
+        },
+        {
+          "text": "Consigliare di non contattare il docente per dubbi o suggerimenti.",
+          "isCorrect": false,
+          "rationale": "L'ultima slide invita esplicitamente a mantenere i contatti per qualsiasi informazione o dubbio."
+        }
+      ],
+      "hint": "Rifletti sulla domanda posta ai 'responsabili marketing di un brand emergente'."
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 # Final Quiz Validation
 
 - Questions checked one by one: 539
-- Questions with hints: 188
+- Questions with hints: 0
 - Questions with rationales: 188
 - Errors: 0
 - Warnings: 0

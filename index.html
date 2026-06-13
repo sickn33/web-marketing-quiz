@@ -998,9 +998,7 @@
       let className = "feedback";
 
       if (!selected && !revealed) {
-        parts.push(q.hint
-          ? `<p><strong>Indizio:</strong> ${escapeHtml(q.hint)}</p>`
-          : "<p>Scegli una risposta.</p>");
+        parts.push("<p>Scegli una risposta.</p>");
       } else if (selected === q.answer) {
         className = "feedback good";
         parts.push("<p>Corretto.</p>");

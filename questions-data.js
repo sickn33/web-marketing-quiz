@@ -77,7 +77,6 @@
       "C": "trasforma un bisogno generale in una preferenza verso una soluzione concreta",
       "D": "materializza la value proposition in qualcosa che il cliente può valutare e acquistare"
     },
-    "hint": "Cerca l'opzione che collega il concetto di marketing management a: serve a collegare analisi, strategia e leve operative orientate ai bisogni del mercato.",
     "rationales": {
       "A": "È corretta: mette il concetto di marketing management in relazione con \"serve a collegare analisi, strategia e leve operative orientate ai bisogni del mercato\".",
       "B": "Non è la scelta migliore: \"è il punto di partenza su cui il marketing costruisce offerte e valore percepito\" descrive un concetto diverso dal concetto di marketing management.",
@@ -116,7 +115,6 @@
       "C": "trasforma un bisogno generale in una preferenza verso una soluzione concreta",
       "D": "materializza la value proposition in qualcosa che il cliente può valutare e acquistare"
     },
-    "hint": "Cerca l'opzione che collega il concetto di bisogno a: è il punto di partenza su cui il marketing costruisce offerte e valore percepito.",
     "rationales": {
       "A": "È corretta: mette il concetto di bisogno in relazione con \"è il punto di partenza su cui il marketing costruisce offerte e valore percepito\".",
       "B": "Non è la scelta migliore: \"serve a collegare analisi, strategia e leve operative orientate ai bisogni del mercato\" descrive un concetto diverso dal concetto di bisogno.",
@@ -155,7 +153,6 @@
       "C": "materializza la value proposition in qualcosa che il cliente può valutare e acquistare",
       "D": "serve a collegare analisi, strategia e leve operative orientate ai bisogni del mercato"
     },
-    "hint": "Cerca l'opzione che collega il concetto di desiderio a: trasforma un bisogno generale in una preferenza verso una soluzione concreta.",
     "rationales": {
       "A": "È corretta: mette il concetto di desiderio in relazione con \"trasforma un bisogno generale in una preferenza verso una soluzione concreta\".",
       "B": "Non è la scelta migliore: \"è il punto di partenza su cui il marketing costruisce offerte e valore percepito\" descrive un concetto diverso dal concetto di desiderio.",
@@ -228,7 +225,6 @@
       "C": "è la logica che collega bisogni del cliente e obiettivi dell'organizzazione",
       "D": "trasforma un bisogno generale in una preferenza verso una soluzione concreta"
     },
-    "hint": "Cerca l'opzione che collega il concetto di value proposition a: spiega perché l'offerta dovrebbe essere rilevante per un segmento specifico.",
     "rationales": {
       "A": "È corretta: mette il concetto di value proposition in relazione con \"spiega perché l'offerta dovrebbe essere rilevante per un segmento specifico\".",
       "B": "Non è la scelta migliore: \"materializza la value proposition in qualcosa che il cliente può valutare e acquistare\" descrive un concetto diverso dal concetto di value proposition.",
@@ -267,7 +263,6 @@
       "C": "materializza la value proposition in qualcosa che il cliente può valutare e acquistare",
       "D": "trasforma un bisogno generale in una preferenza verso una soluzione concreta"
     },
-    "hint": "Cerca l'opzione che collega il concetto di scambio di valore a: è la logica che collega bisogni del cliente e obiettivi dell'organizzazione.",
     "rationales": {
       "A": "È corretta: mette il concetto di scambio di valore in relazione con \"è la logica che collega bisogni del cliente e obiettivi dell'organizzazione\".",
       "B": "Non è la scelta migliore: \"spiega perché l'offerta dovrebbe essere rilevante per un segmento specifico\" descrive un concetto diverso dal concetto di scambio di valore.",
@@ -370,7 +365,6 @@
       "C": "organizza le leve controllabili con cui l'impresa porta valore al mercato",
       "D": "riduce l'asimmetria informativa prima delle scelte strategiche"
     },
-    "hint": "Cerca l'opzione che collega il concetto di fase operativa a: traduce posizionamento e obiettivi in prodotto, prezzo, distribuzione e promozione.",
     "rationales": {
       "A": "È corretta: mette il concetto di fase operativa in relazione con \"traduce posizionamento e obiettivi in prodotto, prezzo, distribuzione e promozione\".",
       "B": "Non è la scelta migliore: \"trasforma l'analisi in scelte di mercato e direzione competitiva\" descrive un concetto diverso dal concetto di fase operativa.",
@@ -409,7 +403,6 @@
       "C": "aiuta a collegare analisi interna e ambiente competitivo",
       "D": "trasforma l'analisi in scelte di mercato e direzione competitiva"
     },
-    "hint": "Cerca l'opzione che collega il concetto di marketing mix 4P a: organizza le leve controllabili con cui l'impresa porta valore al mercato.",
     "rationales": {
       "A": "È corretta: mette il concetto di marketing mix 4P in relazione con \"organizza le leve controllabili con cui l'impresa porta valore al mercato\".",
       "B": "Non è la scelta migliore: \"traduce posizionamento e obiettivi in prodotto, prezzo, distribuzione e promozione\" descrive un concetto diverso dal concetto di marketing mix 4P.",
@@ -448,7 +441,6 @@
       "C": "traduce posizionamento e obiettivi in prodotto, prezzo, distribuzione e promozione",
       "D": "trasforma l'analisi in scelte di mercato e direzione competitiva"
     },
-    "hint": "Cerca l'opzione che collega il concetto di SWOT analysis a: aiuta a collegare analisi interna e ambiente competitivo.",
     "rationales": {
       "A": "È corretta: mette il concetto di SWOT analysis in relazione con \"aiuta a collegare analisi interna e ambiente competitivo\".",
       "B": "Non è la scelta migliore: \"organizza le leve controllabili con cui l'impresa porta valore al mercato\" descrive un concetto diverso dal concetto di SWOT analysis.",
@@ -519,7 +511,6 @@
       "C": "orienta la percezione del valore e differenzia l'offerta",
       "D": "supporta le scelte di posizionamento visualizzando vicinanze e differenze competitive"
     },
-    "hint": "Cerca l'opzione che collega il concetto di targeting a: concentra risorse e offerta sui gruppi più coerenti con obiettivi e capacità aziendali.",
     "rationales": {
       "A": "È corretta: mette il concetto di targeting in relazione con \"concentra risorse e offerta sui gruppi più coerenti con obiettivi e capacità aziendali\".",
       "B": "Non è la scelta migliore: \"permette di non trattare tutto il pubblico come una massa indifferenziata\" descrive un concetto diverso dal concetto di targeting.",
@@ -558,7 +549,6 @@
       "C": "supporta le scelte di posizionamento visualizzando vicinanze e differenze competitive",
       "D": "permette di non trattare tutto il pubblico come una massa indifferenziata"
     },
-    "hint": "Cerca l'opzione che collega il concetto di posizionamento a: orienta la percezione del valore e differenzia l'offerta.",
     "rationales": {
       "A": "È corretta: mette il concetto di posizionamento in relazione con \"orienta la percezione del valore e differenzia l'offerta\".",
       "B": "Non è la scelta migliore: \"concentra risorse e offerta sui gruppi più coerenti con obiettivi e capacità aziendali\" descrive un concetto diverso dal concetto di posizionamento.",
@@ -661,7 +651,6 @@
       "C": "porta il brand oltre la sola soddisfazione funzionale del cliente",
       "D": "rafforza engagement e advocacy bilanciando tecnologia e relazione umana"
     },
-    "hint": "Cerca l'opzione che collega il concetto di Marketing 2.0 a: sposta l'attenzione dal prodotto indifferenziato ai bisogni dei consumatori.",
     "rationales": {
       "A": "È corretta: mette il concetto di Marketing 2.0 in relazione con \"sposta l'attenzione dal prodotto indifferenziato ai bisogni dei consumatori\".",
       "B": "Non è la scelta migliore: \"rappresenta la fase in cui il mercato viene trattato in modo poco differenziato\" descrive un concetto diverso dal concetto di Marketing 2.0.",
@@ -700,7 +689,6 @@
       "C": "rafforza engagement e advocacy bilanciando tecnologia e relazione umana",
       "D": "rappresenta la fase in cui il mercato viene trattato in modo poco differenziato"
     },
-    "hint": "Cerca l'opzione che collega il concetto di Marketing 3.0 a: porta il brand oltre la sola soddisfazione funzionale del cliente.",
     "rationales": {
       "A": "È corretta: mette il concetto di Marketing 3.0 in relazione con \"porta il brand oltre la sola soddisfazione funzionale del cliente\".",
       "B": "Non è la scelta migliore: \"sposta l'attenzione dal prodotto indifferenziato ai bisogni dei consumatori\" descrive un concetto diverso dal concetto di Marketing 3.0.",
@@ -741,7 +729,6 @@
       "C": "rende più orizzontale e partecipata la relazione tra brand e mercato",
       "D": "sposta l'attenzione dal prodotto indifferenziato ai bisogni dei consumatori"
     },
-    "hint": "Cerca l'opzione che collega il concetto di Marketing 4.0 a: rafforza engagement e advocacy bilanciando tecnologia e relazione umana.",
     "rationales": {
       "A": "È corretta: mette il concetto di Marketing 4.0 in relazione con \"rafforza engagement e advocacy bilanciando tecnologia e relazione umana\".",
       "B": "Non è la scelta migliore: \"porta il brand oltre la sola soddisfazione funzionale del cliente\" descrive un concetto diverso dal concetto di Marketing 4.0.",
@@ -814,7 +801,6 @@
       "C": "trasforma il cliente da destinatario passivo a parte attiva della creazione di valore",
       "D": "rafforza engagement e advocacy bilanciando tecnologia e relazione umana"
     },
-    "hint": "Cerca l'opzione che collega il concetto di brand characters and codes a: mantiene coerenza identitaria anche quando linguaggi e touchpoint cambiano.",
     "rationales": {
       "A": "È corretta: mette il concetto di brand characters and codes in relazione con \"mantiene coerenza identitaria anche quando linguaggi e touchpoint cambiano\".",
       "B": "Non è la scelta migliore: \"rende più orizzontale e partecipata la relazione tra brand e mercato\" descrive un concetto diverso dal concetto di brand characters and codes.",
@@ -855,7 +841,6 @@
       "C": "sostituisce l'idea di prezzo fisso come unica leva del marketing mix digitale",
       "D": "rende più orizzontale e partecipata la relazione tra brand e mercato"
     },
-    "hint": "Cerca l'opzione che collega il concetto di co-creation a: trasforma il cliente da destinatario passivo a parte attiva della creazione di valore.",
     "rationales": {
       "A": "È corretta: mette il concetto di co-creation in relazione con \"trasforma il cliente da destinatario passivo a parte attiva della creazione di valore\".",
       "B": "Non è la scelta migliore: \"mantiene coerenza identitaria anche quando linguaggi e touchpoint cambiano\" descrive un concetto diverso dal concetto di co-creation.",
@@ -964,7 +949,6 @@
       "C": "costruisce l'intenzione espressiva del brand prima della percezione pubblica",
       "D": "sostituisce l'idea di prezzo fisso come unica leva del marketing mix digitale"
     },
-    "hint": "Cerca l'opzione che collega il concetto di conversation a: rende social, review, forum e community spazi di relazione e ascolto.",
     "rationales": {
       "A": "È corretta: mette il concetto di conversation in relazione con \"rende social, review, forum e community spazi di relazione e ascolto\".",
       "B": "Non è la scelta migliore: \"spiega perché nel digitale la distribuzione passa anche da reti e prossimità sociale\" descrive un concetto diverso dal concetto di conversation.",
@@ -1003,7 +987,6 @@
       "C": "permette di valutare se ciò che l'azienda comunica viene recepito come previsto",
       "D": "spiega perché nel digitale la distribuzione passa anche da reti e prossimità sociale"
     },
-    "hint": "Cerca l'opzione che collega il concetto di brand identity a: costruisce l'intenzione espressiva del brand prima della percezione pubblica.",
     "rationales": {
       "A": "È corretta: mette il concetto di brand identity in relazione con \"costruisce l'intenzione espressiva del brand prima della percezione pubblica\".",
       "B": "Non è la scelta migliore: \"rende social, review, forum e community spazi di relazione e ascolto\" descrive un concetto diverso dal concetto di brand identity.",
@@ -1042,7 +1025,6 @@
       "C": "misura quanto il brand entra nel set mentale dei consumatori",
       "D": "rende social, review, forum e community spazi di relazione e ascolto"
     },
-    "hint": "Cerca l'opzione che collega il concetto di brand image a: permette di valutare se ciò che l'azienda comunica viene recepito come previsto.",
     "rationales": {
       "A": "È corretta: mette il concetto di brand image in relazione con \"permette di valutare se ciò che l'azienda comunica viene recepito come previsto\".",
       "B": "Non è la scelta migliore: \"costruisce l'intenzione espressiva del brand prima della percezione pubblica\" descrive un concetto diverso dal concetto di brand image.",
@@ -1113,7 +1095,6 @@
       "C": "riduce incertezza e rischio percepito, soprattutto nei contesti digitali",
       "D": "permette di valutare se ciò che l'azienda comunica viene recepito come previsto"
     },
-    "hint": "Cerca l'opzione che collega il concetto di brand equity a: rende il brand un asset capace di generare preferenza e valore economico.",
     "rationales": {
       "A": "È corretta: mette il concetto di brand equity in relazione con \"rende il brand un asset capace di generare preferenza e valore economico\".",
       "B": "Non è la scelta migliore: \"misura quanto il brand entra nel set mentale dei consumatori\" descrive un concetto diverso dal concetto di brand equity.",
@@ -1154,7 +1135,6 @@
       "C": "indica una relazione cognitiva, emotiva o comportamentale oltre la semplice esposizione",
       "D": "misura quanto il brand entra nel set mentale dei consumatori"
     },
-    "hint": "Cerca l'opzione che collega il concetto di brand trust a: riduce incertezza e rischio percepito, soprattutto nei contesti digitali.",
     "rationales": {
       "A": "È corretta: mette il concetto di brand trust in relazione con \"riduce incertezza e rischio percepito, soprattutto nei contesti digitali\".",
       "B": "Non è la scelta migliore: \"rende il brand un asset capace di generare preferenza e valore economico\" descrive un concetto diverso dal concetto di brand trust.",
@@ -1178,7 +1158,6 @@
       "C": "La semplice visibilità passiva di un marchio senza alcuna azione da parte del cliente.",
       "D": "La coerenza visiva degli elementi grafici usati nei profili social del brand."
     },
-    "hint": "Pensa alla differenza tra guardare un manifesto e scrivere un commento sotto un post di un brand.",
     "rationales": {
       "A": "Si misura tramite like, commenti, condivisioni e creazione di contenuti da parte degli utenti.",
       "B": "L'engagement digitale richiede segnali di interazione, non soltanto copertura o impression.",
@@ -1268,7 +1247,6 @@
       "C": "spesso produce siti vetrina o presenze informative scollegate dagli obiettivi di business",
       "D": "coordina canali e azioni in ottica omnicanale"
     },
-    "hint": "Cerca l'opzione che collega il concetto di orientamento all'e-business a: ridefinisce fornitura, distribuzione, offerta e relazione con il cliente.",
     "rationales": {
       "A": "È corretta: mette il concetto di orientamento all'e-business in relazione con \"ridefinisce fornitura, distribuzione, offerta e relazione con il cliente\".",
       "B": "Non è la scelta migliore: \"collega tecnologie, clienti, processi e fonti di ricavo\" descrive un concetto diverso dal concetto di orientamento all'e-business.",
@@ -1291,7 +1269,6 @@
       "C": "L'impresa usa il sito come semplice vetrina informativa senza integrare processi e ricavi.",
       "D": "L'impresa usa campagne digitali tattiche senza modificare il proprio modello di business."
     },
-    "hint": "Pensa alla sopravvivenza stessa dell'azienda senza internet.",
     "rationales": {
       "A": "In questo caso, il digitale non è un supporto, ma il cuore stesso del valore offerto al mercato.",
       "B": "L'uso interno dell'email è una funzione amministrativa di base, non un modello di business.",
@@ -1315,7 +1292,6 @@
       "C": "spesso produce siti vetrina o presenze informative scollegate dagli obiettivi di business",
       "D": "coordina canali e azioni in ottica omnicanale"
     },
-    "hint": "Cerca l'opzione che collega il concetto di business model digitale a: collega tecnologie, clienti, processi e fonti di ricavo.",
     "rationales": {
       "A": "È corretta: mette il concetto di business model digitale in relazione con \"collega tecnologie, clienti, processi e fonti di ricavo\".",
       "B": "Non è la scelta migliore: \"ridefinisce fornitura, distribuzione, offerta e relazione con il cliente\" descrive un concetto diverso dal concetto di business model digitale.",
@@ -1354,7 +1330,6 @@
       "C": "coordina canali e azioni in ottica omnicanale",
       "D": "ridefinisce fornitura, distribuzione, offerta e relazione con il cliente"
     },
-    "hint": "Cerca l'opzione che collega il concetto di digital marketing tattico a: spesso produce siti vetrina o presenze informative scollegate dagli obiettivi di business.",
     "rationales": {
       "A": "È corretta: mette il concetto di digital marketing tattico in relazione con \"spesso produce siti vetrina o presenze informative scollegate dagli obiettivi di business\".",
       "B": "Non è la scelta migliore: \"collega tecnologie, clienti, processi e fonti di ricavo\" descrive un concetto diverso dal concetto di digital marketing tattico.",
@@ -1427,7 +1402,6 @@
       "C": "descrive il grado più basso di presenza online tra gli assetti strutturali",
       "D": "spesso produce siti vetrina o presenze informative scollegate dagli obiettivi di business"
     },
-    "hint": "Cerca l'opzione che collega il concetto di livello core business digitale a: rende la strategia digitale parte centrale del modello di business.",
     "rationales": {
       "A": "È corretta: mette il concetto di livello core business digitale in relazione con \"rende la strategia digitale parte centrale del modello di business\".",
       "B": "Non è la scelta migliore: \"coordina canali e azioni in ottica omnicanale\" descrive un concetto diverso dal concetto di livello core business digitale.",
@@ -1468,7 +1442,6 @@
       "C": "combina presenza offline e online in modo potenzialmente omnicanale",
       "D": "coordina canali e azioni in ottica omnicanale"
     },
-    "hint": "Cerca l'opzione che collega il concetto di bricks and mortar a: descrive il grado più basso di presenza online tra gli assetti strutturali.",
     "rationales": {
       "A": "È corretta: mette il concetto di bricks and mortar in relazione con \"descrive il grado più basso di presenza online tra gli assetti strutturali\".",
       "B": "Non è la scelta migliore: \"rende la strategia digitale parte centrale del modello di business\" descrive un concetto diverso dal concetto di bricks and mortar.",
@@ -1577,7 +1550,6 @@
       "C": "è la base tecnica della trasformazione e trasmissione digitale",
       "D": "combina presenza offline e online in modo potenzialmente omnicanale"
     },
-    "hint": "Cerca l'opzione che collega il concetto di omnicanalità a: rende fluida l'esperienza quando il cliente passa tra touchpoint diversi.",
     "rationales": {
       "A": "È corretta: mette il concetto di omnicanalità in relazione con \"rende fluida l'esperienza quando il cliente passa tra touchpoint diversi\".",
       "B": "Non è la scelta migliore: \"rappresenta un assetto strutturale completamente digitale\" descrive un concetto diverso dal concetto di omnicanalità.",
@@ -1616,7 +1588,6 @@
       "C": "permettono di misurare e organizzare l'informazione digitale",
       "D": "rappresenta un assetto strutturale completamente digitale"
     },
-    "hint": "Cerca l'opzione che collega il concetto di dato digitale a: è la base tecnica della trasformazione e trasmissione digitale.",
     "rationales": {
       "A": "È corretta: mette il concetto di dato digitale in relazione con \"è la base tecnica della trasformazione e trasmissione digitale\".",
       "B": "Non è la scelta migliore: \"rende fluida l'esperienza quando il cliente passa tra touchpoint diversi\" descrive un concetto diverso dal concetto di dato digitale.",
@@ -1655,7 +1626,6 @@
       "C": "spiega la differenza tra codifica binaria e segnali continui",
       "D": "rende fluida l'esperienza quando il cliente passa tra touchpoint diversi"
     },
-    "hint": "Cerca l'opzione che collega il concetto di bit e byte a: permettono di misurare e organizzare l'informazione digitale.",
     "rationales": {
       "A": "È corretta: mette il concetto di bit e byte in relazione con \"permettono di misurare e organizzare l'informazione digitale\".",
       "B": "Non è la scelta migliore: \"è la base tecnica della trasformazione e trasmissione digitale\" descrive un concetto diverso dal concetto di bit e byte.",
@@ -1726,7 +1696,6 @@
       "C": "sono i punti materiali di accesso alle piattaforme",
       "D": "permettono di misurare e organizzare l'informazione digitale"
     },
-    "hint": "Cerca l'opzione che collega il concetto di piattaforme digitali a: abilitano contenuti, comunicazioni e servizi digitali.",
     "rationales": {
       "A": "È corretta: mette il concetto di piattaforme digitali in relazione con \"abilitano contenuti, comunicazioni e servizi digitali\".",
       "B": "Non è la scelta migliore: \"spiega la differenza tra codifica binaria e segnali continui\" descrive un concetto diverso dal concetto di piattaforme digitali.",
@@ -1765,7 +1734,6 @@
       "C": "fornisce l'infrastruttura su cui possono operare web, piattaforme e servizi",
       "D": "spiega la differenza tra codifica binaria e segnali continui"
     },
-    "hint": "Cerca l'opzione che collega il concetto di device digitali a: sono i punti materiali di accesso alle piattaforme.",
     "rationales": {
       "A": "È corretta: mette il concetto di device digitali in relazione con \"sono i punti materiali di accesso alle piattaforme\".",
       "B": "Non è la scelta migliore: \"abilitano contenuti, comunicazioni e servizi digitali\" descrive un concetto diverso dal concetto di device digitali.",
@@ -1870,7 +1838,6 @@
       "C": "spiega l'elevata produttività e il progresso delle tecnologie digitali",
       "D": "fornisce l'infrastruttura su cui possono operare web, piattaforme e servizi"
     },
-    "hint": "Cerca l'opzione che collega il concetto di marketing digitale reticolare a: rende i flussi di comunicazione bidirezionali e aperti alla co-creazione.",
     "rationales": {
       "A": "È corretta: mette il concetto di marketing digitale reticolare in relazione con \"rende i flussi di comunicazione bidirezionali e aperti alla co-creazione\".",
       "B": "Non è la scelta migliore: \"permette l'accesso a pagine, siti e contenuti tramite browser e link\" descrive un concetto diverso dal concetto di marketing digitale reticolare.",
@@ -1909,7 +1876,6 @@
       "C": "spiega il potenziale diffusivo e gli effetti di rete",
       "D": "permette l'accesso a pagine, siti e contenuti tramite browser e link"
     },
-    "hint": "Cerca l'opzione che collega il concetto di legge di Moore a: spiega l'elevata produttività e il progresso delle tecnologie digitali.",
     "rationales": {
       "A": "È corretta: mette il concetto di legge di Moore in relazione con \"spiega l'elevata produttività e il progresso delle tecnologie digitali\".",
       "B": "Non è la scelta migliore: \"rende i flussi di comunicazione bidirezionali e aperti alla co-creazione\" descrive un concetto diverso dal concetto di legge di Moore.",
@@ -1950,7 +1916,6 @@
       "C": "rafforza la permanenza degli utenti anche quando esistono alternative",
       "D": "rende i flussi di comunicazione bidirezionali e aperti alla co-creazione"
     },
-    "hint": "Cerca l'opzione che collega il concetto di legge di Metcalfe a: spiega il potenziale diffusivo e gli effetti di rete.",
     "rationales": {
       "A": "È corretta: mette il concetto di legge di Metcalfe in relazione con \"spiega il potenziale diffusivo e gli effetti di rete\".",
       "B": "Non è la scelta migliore: \"spiega l'elevata produttività e il progresso delle tecnologie digitali\" descrive un concetto diverso dal concetto di legge di Metcalfe.",
@@ -2023,7 +1988,6 @@
       "C": "supera il vincolo fisico dello scaffale e riduce la dipendenza dai soli blockbuster",
       "D": "spiega il potenziale diffusivo e gli effetti di rete"
     },
-    "hint": "Cerca l'opzione che collega il concetto di reach e richness a: il digitale attenua il trade-off permettendo ampia portata e informazioni profonde.",
     "rationales": {
       "A": "È corretta: mette il concetto di reach e richness in relazione con \"il digitale attenua il trade-off permettendo ampia portata e informazioni profonde\".",
       "B": "Non è la scelta migliore: \"rafforza la permanenza degli utenti anche quando esistono alternative\" descrive un concetto diverso dal concetto di reach e richness.",
@@ -2064,7 +2028,6 @@
       "C": "rafforza la permanenza degli utenti anche quando esistono alternative",
       "D": "spiega il potenziale diffusivo e gli effetti di rete"
     },
-    "hint": "Cerca l'opzione che collega il concetto di long tail a: supera il vincolo fisico dello scaffale e riduce la dipendenza dai soli blockbuster.",
     "rationales": {
       "A": "È corretta: mette il concetto di long tail in relazione con \"supera il vincolo fisico dello scaffale e riduce la dipendenza dai soli blockbuster\".",
       "B": "Non è la scelta migliore: \"il digitale attenua il trade-off permettendo ampia portata e informazioni profonde\" descrive un concetto diverso dal concetto di long tail.",
@@ -2167,7 +2130,6 @@
       "C": "forniscono risposte dirette e aggiornate, ma richiedono tempo e risorse",
       "D": "usa strumenti online senza avere necessariamente come oggetto i comportamenti digitali"
     },
-    "hint": "Cerca l'opzione che collega il concetto di dati secondari a: permettono di partire da informazioni esistenti prima di raccogliere dati primari.",
     "rationales": {
       "A": "È corretta: mette il concetto di dati secondari in relazione con \"permettono di partire da informazioni esistenti prima di raccogliere dati primari\".",
       "B": "Non è la scelta migliore: \"mette il web non solo come strumento ma come oggetto dell'indagine\" descrive un concetto diverso dal concetto di dati secondari.",
@@ -2206,7 +2168,6 @@
       "C": "consente di raggiungere contatti specifici con un invito diretto alla compilazione",
       "D": "mette il web non solo come strumento ma come oggetto dell'indagine"
     },
-    "hint": "Cerca l'opzione che collega il concetto di dati primari a: forniscono risposte dirette e aggiornate, ma richiedono tempo e risorse.",
     "rationales": {
       "A": "È corretta: mette il concetto di dati primari in relazione con \"forniscono risposte dirette e aggiornate, ma richiedono tempo e risorse\".",
       "B": "Non è la scelta migliore: \"permettono di partire da informazioni esistenti prima di raccogliere dati primari\" descrive un concetto diverso dal concetto di dati primari.",
@@ -2247,7 +2208,6 @@
       "C": "rende rapida ed economica la raccolta di risposte online",
       "D": "permettono di partire da informazioni esistenti prima di raccogliere dati primari"
     },
-    "hint": "Cerca l'opzione che collega il concetto di e-mail survey a: consente di raggiungere contatti specifici con un invito diretto alla compilazione.",
     "rationales": {
       "A": "È corretta: mette il concetto di e-mail survey in relazione con \"consente di raggiungere contatti specifici con un invito diretto alla compilazione\".",
       "B": "Non è la scelta migliore: \"forniscono risposte dirette e aggiornate, ma richiedono tempo e risorse\" descrive un concetto diverso dal concetto di e-mail survey.",
@@ -2318,7 +2278,6 @@
       "C": "facilita codifica, confronto e analisi quantitativa delle risposte",
       "D": "consente di raggiungere contatti specifici con un invito diretto alla compilazione"
     },
-    "hint": "Cerca l'opzione che collega il concetto di domanda aperta a: permette approfondimenti ma richiede più lavoro di codifica e analisi.",
     "rationales": {
       "A": "È corretta: mette il concetto di domanda aperta in relazione con \"permette approfondimenti ma richiede più lavoro di codifica e analisi\".",
       "B": "Non è la scelta migliore: \"rende rapida ed economica la raccolta di risposte online\" descrive un concetto diverso dal concetto di domanda aperta.",
@@ -2357,7 +2316,6 @@
       "C": "serve quando la variabile può essere rilevata con una scelta binaria",
       "D": "rende rapida ed economica la raccolta di risposte online"
     },
-    "hint": "Cerca l'opzione che collega il concetto di domanda chiusa a: facilita codifica, confronto e analisi quantitativa delle risposte.",
     "rationales": {
       "A": "È corretta: mette il concetto di domanda chiusa in relazione con \"facilita codifica, confronto e analisi quantitativa delle risposte\".",
       "B": "Non è la scelta migliore: \"permette approfondimenti ma richiede più lavoro di codifica e analisi\" descrive un concetto diverso dal concetto di domanda chiusa.",
@@ -2460,7 +2418,6 @@
       "C": "evitano di porre domande irrilevanti o non applicabili",
       "D": "serve quando la variabile può essere rilevata con una scelta binaria"
     },
-    "hint": "Cerca l'opzione che collega il concetto di scala Likert a: trasforma percezioni e opinioni in dati confrontabili.",
     "rationales": {
       "A": "È corretta: mette il concetto di scala Likert in relazione con \"trasforma percezioni e opinioni in dati confrontabili\".",
       "B": "Non è la scelta migliore: \"permette di misurare preferenze o categorie in modo strutturato\" descrive un concetto diverso dal concetto di scala Likert.",
@@ -2499,7 +2456,6 @@
       "C": "riduce abbandono, stress e distorsioni nelle risposte",
       "D": "permette di misurare preferenze o categorie in modo strutturato"
     },
-    "hint": "Cerca l'opzione che collega il concetto di domande filtro a: evitano di porre domande irrilevanti o non applicabili.",
     "rationales": {
       "A": "È corretta: mette il concetto di domande filtro in relazione con \"evitano di porre domande irrilevanti o non applicabili\".",
       "B": "Non è la scelta migliore: \"trasforma percezioni e opinioni in dati confrontabili\" descrive un concetto diverso dal concetto di domande filtro.",
@@ -2538,7 +2494,6 @@
       "C": "serve a individuare ambiguità, errori e problemi di comprensione",
       "D": "trasforma percezioni e opinioni in dati confrontabili"
     },
-    "hint": "Cerca l'opzione che collega il concetto di sequenza del questionario a: riduce abbandono, stress e distorsioni nelle risposte.",
     "rationales": {
       "A": "È corretta: mette il concetto di sequenza del questionario in relazione con \"riduce abbandono, stress e distorsioni nelle risposte\".",
       "B": "Non è la scelta migliore: \"evitano di porre domande irrilevanti o non applicabili\" descrive un concetto diverso dal concetto di sequenza del questionario.",
@@ -2609,7 +2564,6 @@
       "C": "può essere influenzata da browser, dispositivi, contesto e interpretazione delle scale",
       "D": "riduce abbandono, stress e distorsioni nelle risposte"
     },
-    "hint": "Cerca l'opzione che collega il concetto di rappresentatività del campione online al controllo del target effettivamente raggiunto dalla ricerca.",
     "rationales": {
       "A": "È corretta: mette il concetto di rappresentatività del campione online in relazione con \"è una criticità perché online non sempre si controlla chi risponde e quanto il target sia coperto\".",
       "B": "Non è la scelta migliore: \"serve a individuare ambiguità, errori e problemi di comprensione\" descrive un concetto diverso dal concetto di rappresentatività del campione online.",
@@ -2648,7 +2602,6 @@
       "C": "serve a individuare ambiguità, errori e problemi di comprensione",
       "D": "riduce abbandono, stress e distorsioni nelle risposte"
     },
-    "hint": "Cerca l'opzione che collega il concetto di validità della misurazione online a: può essere influenzata da browser, dispositivi, contesto e interpretazione delle scale.",
     "rationales": {
       "A": "È corretta: mette il concetto di validità della misurazione online in relazione con \"può essere influenzata da browser, dispositivi, contesto e interpretazione delle scale\".",
       "B": "Non è la scelta migliore: \"è una criticità perché online non sempre si controlla chi risponde e quanto il target sia coperto\" descrive un concetto diverso dal concetto di validità della misurazione online.",
@@ -2671,7 +2624,6 @@
       "C": "La tendenza a guardare solo la televisione digitale.",
       "D": "L'acquisto di prodotti esclusivamente tramite social network."
     },
-    "hint": "Riflette la capacità dell'utente di essere presente su più piattaforme contemporaneamente o in sequenza.",
     "rationales": {
       "A": "Il consumatore passa fluidamente dal sito, all'app, al negozio fisico basandosi sul bisogno del momento.",
       "B": "Questo sarebbe un comportamento mono-canale, ormai superato dalla complessità digitale.",
@@ -2758,7 +2710,6 @@
       "C": "rende osservabile dove il cliente incontra o valuta l'impresa",
       "D": "modifica la relazione brand-cliente rendendola più informata e partecipativa"
     },
-    "hint": "Cerca l'opzione che collega il concetto di customer journey a: permette di osservare interazioni, aspettative, emozioni e ostacoli nel tempo.",
     "rationales": {
       "A": "È corretta: mette il concetto di customer journey in relazione con \"permette di osservare interazioni, aspettative, emozioni e ostacoli nel tempo\".",
       "B": "Non è la scelta migliore: \"partecipa alla narrazione e può influenzare altri consumatori\" descrive un concetto diverso dal concetto di customer journey.",
@@ -2797,7 +2748,6 @@
       "C": "rappresenta il percorso classico prima dei modelli circolari e multi-touchpoint",
       "D": "partecipa alla narrazione e può influenzare altri consumatori"
     },
-    "hint": "Cerca l'opzione che collega il concetto di touchpoint a: rende osservabile dove il cliente incontra o valuta l'impresa.",
     "rationales": {
       "A": "È corretta: mette il concetto di touchpoint in relazione con \"rende osservabile dove il cliente incontra o valuta l'impresa\".",
       "B": "Non è la scelta migliore: \"permette di osservare interazioni, aspettative, emozioni e ostacoli nel tempo\" descrive un concetto diverso dal concetto di touchpoint.",
@@ -2836,7 +2786,6 @@
       "C": "sostituisce la visione puramente lineare del funnel tradizionale",
       "D": "permette di osservare interazioni, aspettative, emozioni e ostacoli nel tempo"
     },
-    "hint": "Cerca l'opzione che collega il concetto di funnel tradizionale a: rappresenta il percorso classico prima dei modelli circolari e multi-touchpoint.",
     "rationales": {
       "A": "È corretta: mette il concetto di funnel tradizionale in relazione con \"rappresenta il percorso classico prima dei modelli circolari e multi-touchpoint\".",
       "B": "Non è la scelta migliore: \"rende osservabile dove il cliente incontra o valuta l'impresa\" descrive un concetto diverso dal concetto di funnel tradizionale.",
@@ -2859,7 +2808,6 @@
       "C": "Usare un messaggio uniforme per tutti i potenziali clienti, indipendentemente dai loro dubbi.",
       "D": "Concentrare la comunicazione solo sulle promozioni finali nel momento dell'acquisto."
     },
-    "hint": "Rifletti sulla necessità di rispondere a dubbi diversi a seconda di quanto il cliente è vicino all'acquisto.",
     "rationales": {
       "A": "Messaggi mirati servono a rassicurare il cliente su punti critici dove il brand potrebbe perdere contro i concorrenti.",
       "B": "La notorietà generica non risponde alle barriere specifiche che emergono nelle diverse fasi decisionali.",
@@ -2914,7 +2862,6 @@
       "C": "può accorciare o riattivare percorsi decisionali successivi",
       "D": "rappresenta il percorso classico prima dei modelli circolari e multi-touchpoint"
     },
-    "hint": "Cerca l'opzione che collega il concetto di valutazione attiva a: è fortemente influenzata da recensioni, passaparola ed esperienze consumer-driven.",
     "rationales": {
       "A": "È corretta: mette il concetto di valutazione attiva in relazione con \"è fortemente influenzata da recensioni, passaparola ed esperienze consumer-driven\".",
       "B": "Non è la scelta migliore: \"sostituisce la visione puramente lineare del funnel tradizionale\" descrive un concetto diverso dal concetto di valutazione attiva.",
@@ -2937,7 +2884,6 @@
       "C": "L'obbligo contrattuale che lega il cliente a un fornitore per un tempo prestabilito.",
       "D": "Il momento in cui un utente cancella l'iscrizione a una community online."
     },
-    "hint": "Immagina come un cliente soddisfatto si comporta quando ha di nuovo lo stesso bisogno.",
     "rationales": {
       "A": "Se l'esperienza è positiva, il consumatore può saltare le fasi di ricerca e valutazione per gli acquisti successivi.",
       "B": "Questa è una tattica di recupero, non la struttura del ciclo di fedeltà.",
@@ -2960,7 +2906,6 @@
       "C": "è cruciale per alimentare il loyalty loop",
       "D": "sostituisce la visione puramente lineare del funnel tradizionale"
     },
-    "hint": "Cerca l'opzione che collega il concetto di loyalty loop a: può accorciare o riattivare percorsi decisionali successivi.",
     "rationales": {
       "A": "È corretta: mette il concetto di loyalty loop in relazione con \"può accorciare o riattivare percorsi decisionali successivi\".",
       "B": "Non è la scelta migliore: \"è fortemente influenzata da recensioni, passaparola ed esperienze consumer-driven\" descrive un concetto diverso dal concetto di loyalty loop.",
@@ -3015,7 +2960,6 @@
       "C": "Il momento in cui il cliente paga alla cassa",
       "D": "L'esperienza d'uso del prodotto dopo l'acquisto"
     },
-    "hint": "Google ha coniato questo termine per descrivere la fase di ricerca digitale.",
     "rationales": {
       "A": "Lo ZMOT rappresenta il momento in cui il consumatore utilizza internet per informarsi prima di interagire con il prodotto.",
       "B": "Questo corrisponde solitamente allo stimolo iniziale, non alla fase di ricerca attiva tipica dello ZMOT.",
@@ -3073,7 +3017,6 @@
       "C": "può generare contenuti e passaparola che diventano ZMOT per altri consumatori",
       "D": "è cruciale per alimentare il loyalty loop"
     },
-    "hint": "Cerca l'opzione che collega il concetto di FMOT a: riguarda la scelta nel punto di acquisto o nella pagina prodotto.",
     "rationales": {
       "A": "È corretta: mette il concetto di FMOT in relazione con \"riguarda la scelta nel punto di acquisto o nella pagina prodotto\".",
       "B": "Non è la scelta migliore: \"anticipa il contatto diretto con prodotto o venditore e influenza la decisione\" descrive un concetto diverso dal concetto di FMOT.",
@@ -3112,7 +3055,6 @@
       "C": "sono touchpoint su cui il brand ha maggiore governo",
       "D": "anticipa il contatto diretto con prodotto o venditore e influenza la decisione"
     },
-    "hint": "Cerca l'opzione che collega il concetto di SMOT a: può generare contenuti e passaparola che diventano ZMOT per altri consumatori.",
     "rationales": {
       "A": "È corretta: mette il concetto di SMOT in relazione con \"può generare contenuti e passaparola che diventano ZMOT per altri consumatori\".",
       "B": "Non è la scelta migliore: \"riguarda la scelta nel punto di acquisto o nella pagina prodotto\" descrive un concetto diverso dal concetto di SMOT.",
@@ -3151,7 +3093,6 @@
       "C": "mostrano come il cliente costruisce esperienza anche fuori dai canali gestiti",
       "D": "riguarda la scelta nel punto di acquisto o nella pagina prodotto"
     },
-    "hint": "Cerca l'opzione che collega il concetto di touchpoint brand-owned a: sono touchpoint su cui il brand ha maggiore governo.",
     "rationales": {
       "A": "È corretta: mette il concetto di touchpoint brand-owned in relazione con \"sono touchpoint su cui il brand ha maggiore governo\".",
       "B": "Non è la scelta migliore: \"può generare contenuti e passaparola che diventano ZMOT per altri consumatori\" descrive un concetto diverso dal concetto di touchpoint brand-owned.",
@@ -3222,7 +3163,6 @@
       "C": "delimita il perimetro dell'analisi prima della raccolta dati",
       "D": "sono touchpoint su cui il brand ha maggiore governo"
     },
-    "hint": "Cerca l'opzione che collega il concetto di customer journey map a: aiuta a individuare frizioni, insight e opportunità di miglioramento.",
     "rationales": {
       "A": "È corretta: mette il concetto di customer journey map in relazione con \"aiuta a individuare frizioni, insight e opportunità di miglioramento\".",
       "B": "Non è la scelta migliore: \"mostrano come il cliente costruisce esperienza anche fuori dai canali gestiti\" descrive un concetto diverso dal concetto di customer journey map.",
@@ -3263,7 +3203,6 @@
       "C": "aiuta a progettare contenuti, soluzioni e campagne più aderenti ai segmenti",
       "D": "mostrano come il cliente costruisce esperienza anche fuori dai canali gestiti"
     },
-    "hint": "Cerca l'opzione che collega il concetto di scoping della journey map a: delimita il perimetro dell'analisi prima della raccolta dati.",
     "rationales": {
       "A": "È corretta: mette il concetto di scoping della journey map in relazione con \"delimita il perimetro dell'analisi prima della raccolta dati\".",
       "B": "Non è la scelta migliore: \"aiuta a individuare frizioni, insight e opportunità di miglioramento\" descrive un concetto diverso dal concetto di scoping della journey map.",
@@ -3368,7 +3307,6 @@
       "C": "può generare co-creazione, partecipazione e valore o anche effetti negativi",
       "D": "aiuta a progettare contenuti, soluzioni e campagne più aderenti ai segmenti"
     },
-    "hint": "Cerca l'opzione che collega il concetto di customer delight a: può rafforzare fedeltà, passaparola e relazione con il brand.",
     "rationales": {
       "A": "È corretta: mette il concetto di customer delight in relazione con \"può rafforzare fedeltà, passaparola e relazione con il brand\".",
       "B": "Non è la scelta migliore: \"spiega perché la customer satisfaction non dipende solo dalla qualità tecnica assoluta\" descrive un concetto diverso dal concetto di customer delight.",
@@ -3409,7 +3347,6 @@
       "C": "spiega perché la customer satisfaction non dipende solo dalla qualità tecnica assoluta",
       "D": "aiuta a progettare contenuti, soluzioni e campagne più aderenti ai segmenti"
     },
-    "hint": "Cerca l'opzione che collega il concetto di customer engagement a: può generare co-creazione, partecipazione e valore o anche effetti negativi.",
     "rationales": {
       "A": "È corretta: mette il concetto di customer engagement in relazione con \"può generare co-creazione, partecipazione e valore o anche effetti negativi\".",
       "B": "Non è la scelta migliore: \"può rafforzare fedeltà, passaparola e relazione con il brand\" descrive un concetto diverso dal concetto di customer engagement.",
@@ -3433,7 +3370,6 @@
       "C": "Quali risorse tecniche servono per rendere operativo il sito?",
       "D": "Quali concorrenti presidiano già lo stesso segmento di mercato?"
     },
-    "hint": "Cerca la domanda che mette al centro il beneficio ottenuto dall'utente finale.",
     "rationales": {
       "A": "Questa domanda identifica la proposta di valore che l'azienda offre al suo target.",
       "B": "L'automazione può migliorare l'efficienza, ma non definisce direttamente il beneficio promesso al cliente.",
@@ -3457,7 +3393,6 @@
       "C": "Ridurre la presenza online per proteggere solo il canale fisico.",
       "D": "Usare strumenti digitali solo per comunicazioni interne non collegate ai ricavi."
     },
-    "hint": "Rifletti sui vantaggi tipici della scalabilità e dell'efficienza digitale.",
     "rationales": {
       "A": "Il digitale abbatte le barriere geografiche e permette automazioni che migliorano l'efficienza dei costi.",
       "B": "La semplice digitalizzazione del catalogo non basta a configurare un vero Digital Business Model.",
@@ -3530,7 +3465,6 @@
       "C": "collegano offerta e cliente lungo comunicazione, distribuzione e vendita",
       "D": "racconta come l'impresa funziona economicamente e strategicamente"
     },
-    "hint": "Cerca l'opzione che collega il concetto di customer segments nel Business Model Canvas a: orientano value proposition, canali, relazioni e ricavi.",
     "rationales": {
       "A": "È corretta: mette il concetto di customer segments nel Business Model Canvas in relazione con \"orientano value proposition, canali, relazioni e ricavi\".",
       "B": "Non è la scelta migliore: \"aiuta a visualizzare le componenti chiave del modello d'impresa\" descrive un concetto diverso dal concetto di customer segments nel Business Model Canvas.",
@@ -3569,7 +3503,6 @@
       "C": "definisce assistenza, automazione, community o personalizzazione del rapporto",
       "D": "aiuta a visualizzare le componenti chiave del modello d'impresa"
     },
-    "hint": "Cerca l'opzione che collega il concetto di channels nel Business Model Canvas a: collegano offerta e cliente lungo comunicazione, distribuzione e vendita.",
     "rationales": {
       "A": "È corretta: mette il concetto di channels nel Business Model Canvas in relazione con \"collegano offerta e cliente lungo comunicazione, distribuzione e vendita\".",
       "B": "Non è la scelta migliore: \"orientano value proposition, canali, relazioni e ricavi\" descrive un concetto diverso dal concetto di channels nel Business Model Canvas.",
@@ -3674,7 +3607,6 @@
       "C": "riduce la barriera d'ingresso e monetizza gli utenti che percepiscono valore aggiuntivo",
       "D": "definisce assistenza, automazione, community o personalizzazione del rapporto"
     },
-    "hint": "Cerca l'opzione che collega il concetto di cost structure a: aiuta a valutare sostenibilità economica e formula di profitto.",
     "rationales": {
       "A": "È corretta: mette il concetto di cost structure in relazione con \"aiuta a valutare sostenibilità economica e formula di profitto\".",
       "B": "Non è la scelta migliore: \"è una componente del business model dedicata ai flussi di ricavo\" descrive un concetto diverso dal concetto di cost structure.",
@@ -3713,7 +3645,6 @@
       "C": "monetizza l'attenzione o il traffico generato dalla piattaforma",
       "D": "è una componente del business model dedicata ai flussi di ricavo"
     },
-    "hint": "Cerca l'opzione che collega il concetto di freemium a: riduce la barriera d'ingresso e monetizza gli utenti che percepiscono valore aggiuntivo.",
     "rationales": {
       "A": "È corretta: mette il concetto di freemium in relazione con \"riduce la barriera d'ingresso e monetizza gli utenti che percepiscono valore aggiuntivo\".",
       "B": "Non è la scelta migliore: \"aiuta a valutare sostenibilità economica e formula di profitto\" descrive un concetto diverso dal concetto di freemium.",
@@ -3754,7 +3685,6 @@
       "C": "premia la capacità di portare utenti qualificati a un'offerta di terzi",
       "D": "aiuta a valutare sostenibilità economica e formula di profitto"
     },
-    "hint": "Cerca l'opzione che collega il concetto di advertising based revenue a: monetizza l'attenzione o il traffico generato dalla piattaforma.",
     "rationales": {
       "A": "È corretta: mette il concetto di advertising based revenue in relazione con \"monetizza l'attenzione o il traffico generato dalla piattaforma\".",
       "B": "Non è la scelta migliore: \"riduce la barriera d'ingresso e monetizza gli utenti che percepiscono valore aggiuntivo\" descrive un concetto diverso dal concetto di advertising based revenue.",
@@ -3825,7 +3755,6 @@
       "C": "deve attrarre entrambe le parti perché il valore dipende dalla presenza dell'altra",
       "D": "monetizza l'attenzione o il traffico generato dalla piattaforma"
     },
-    "hint": "Cerca l'opzione che collega il concetto di commission based model a: è tipico di marketplace che mettono in contatto domanda e offerta.",
     "rationales": {
       "A": "È corretta: mette il concetto di commission based model in relazione con \"è tipico di marketplace che mettono in contatto domanda e offerta\".",
       "B": "Non è la scelta migliore: \"premia la capacità di portare utenti qualificati a un'offerta di terzi\" descrive un concetto diverso dal concetto di commission based model.",
@@ -3866,7 +3795,6 @@
       "C": "spiega perché le piattaforme possono diventare più utili e attrattive con la scala",
       "D": "premia la capacità di portare utenti qualificati a un'offerta di terzi"
     },
-    "hint": "Cerca l'opzione che collega il concetto di two-sided platform a: deve attrarre entrambe le parti perché il valore dipende dalla presenza dell'altra.",
     "rationales": {
       "A": "È corretta: mette il concetto di two-sided platform in relazione con \"deve attrarre entrambe le parti perché il valore dipende dalla presenza dell'altra\".",
       "B": "Non è la scelta migliore: \"è tipico di marketplace che mettono in contatto domanda e offerta\" descrive un concetto diverso dal concetto di two-sided platform.",
@@ -3971,7 +3899,6 @@
       "C": "richiede comunicazione coerente perché contiene sia comunità sia transazione",
       "D": "spiega perché le piattaforme possono diventare più utili e attrattive con la scala"
     },
-    "hint": "Cerca l'opzione che collega il concetto di pure sharing a: valorizza comunità, socializzazione e accesso più che profitto immediato.",
     "rationales": {
       "A": "È corretta: mette il concetto di pure sharing in relazione con \"valorizza comunità, socializzazione e accesso più che profitto immediato\".",
       "B": "Non è la scelta migliore: \"si colloca lungo un continuum tra condivisione e scambio economico\" descrive un concetto diverso dal concetto di pure sharing.",
@@ -4010,7 +3937,6 @@
       "C": "estende la transazione includendo informazione, relazione, pagamento e servizio",
       "D": "si colloca lungo un continuum tra condivisione e scambio economico"
     },
-    "hint": "Cerca l'opzione che collega il concetto di dual-mode sharing a: richiede comunicazione coerente perché contiene sia comunità sia transazione.",
     "rationales": {
       "A": "È corretta: mette il concetto di dual-mode sharing in relazione con \"richiede comunicazione coerente perché contiene sia comunità sia transazione\".",
       "B": "Non è la scelta migliore: \"valorizza comunità, socializzazione e accesso più che profitto immediato\" descrive un concetto diverso dal concetto di dual-mode sharing.",
@@ -4049,7 +3975,6 @@
       "C": "rappresenta una delle categorie più rilevanti in termini economici",
       "D": "valorizza comunità, socializzazione e accesso più che profitto immediato"
     },
-    "hint": "Cerca l'opzione che collega il concetto di e-commerce a: estende la transazione includendo informazione, relazione, pagamento e servizio.",
     "rationales": {
       "A": "È corretta: mette il concetto di e-commerce in relazione con \"estende la transazione includendo informazione, relazione, pagamento e servizio\".",
       "B": "Non è la scelta migliore: \"richiede comunicazione coerente perché contiene sia comunità sia transazione\" descrive un concetto diverso dal concetto di e-commerce.",
@@ -4120,7 +4045,6 @@
       "C": "abilita scambi peer-to-peer spesso mediati da marketplace",
       "D": "estende la transazione includendo informazione, relazione, pagamento e servizio"
     },
-    "hint": "Cerca l'opzione che collega il concetto di B2C e-commerce a: è la forma più intuitiva per il consumatore finale online.",
     "rationales": {
       "A": "È corretta: mette il concetto di B2C e-commerce in relazione con \"è la forma più intuitiva per il consumatore finale online\".",
       "B": "Non è la scelta migliore: \"rappresenta una delle categorie più rilevanti in termini economici\" descrive un concetto diverso dal concetto di B2C e-commerce.",
@@ -4159,7 +4083,6 @@
       "C": "ribalta la direzione classica della vendita impresa-cliente",
       "D": "rappresenta una delle categorie più rilevanti in termini economici"
     },
-    "hint": "Cerca l'opzione che collega il concetto di C2C e-commerce a: abilita scambi peer-to-peer spesso mediati da marketplace.",
     "rationales": {
       "A": "È corretta: mette il concetto di C2C e-commerce in relazione con \"abilita scambi peer-to-peer spesso mediati da marketplace\".",
       "B": "Non è la scelta migliore: \"è la forma più intuitiva per il consumatore finale online\" descrive un concetto diverso dal concetto di C2C e-commerce.",
@@ -4266,7 +4189,6 @@
       "C": "va ridotta con contenuti visuali, descrizioni, video e realtà aumentata",
       "D": "ribalta la direzione classica della vendita impresa-cliente"
     },
-    "hint": "Cerca l'opzione che collega il concetto di fiducia nell'e-commerce a: è critica perché il cliente non ha contatto fisico immediato con venditore e prodotto.",
     "rationales": {
       "A": "È corretta: mette il concetto di fiducia nell'e-commerce in relazione con \"è critica perché il cliente non ha contatto fisico immediato con venditore e prodotto\".",
       "B": "Non è la scelta migliore: \"integra relazione sociale, informazione e acquisto\" descrive un concetto diverso dal concetto di fiducia nell'e-commerce.",
@@ -4305,7 +4227,6 @@
       "C": "può aumentare abbandono se imposta prima del checkout senza valore percepito",
       "D": "integra relazione sociale, informazione e acquisto"
     },
-    "hint": "Cerca l'opzione che collega il concetto di distanza fisica nell'e-commerce a: va ridotta con contenuti visuali, descrizioni, video e realtà aumentata.",
     "rationales": {
       "A": "È corretta: mette il concetto di distanza fisica nell'e-commerce in relazione con \"va ridotta con contenuti visuali, descrizioni, video e realtà aumentata\".",
       "B": "Non è la scelta migliore: \"è critica perché il cliente non ha contatto fisico immediato con venditore e prodotto\" descrive un concetto diverso dal concetto di distanza fisica nell'e-commerce.",
@@ -4346,7 +4267,6 @@
       "C": "è un punto delicato in cui frizioni, costi inattesi o complessità possono generare abbandono",
       "D": "è critica perché il cliente non ha contatto fisico immediato con venditore e prodotto"
     },
-    "hint": "Cerca l'opzione che collega il concetto di registrazione obbligatoria a: può aumentare abbandono se imposta prima del checkout senza valore percepito.",
     "rationales": {
       "A": "È corretta: mette il concetto di registrazione obbligatoria in relazione con \"può aumentare abbandono se imposta prima del checkout senza valore percepito\".",
       "B": "Non è la scelta migliore: \"va ridotta con contenuti visuali, descrizioni, video e realtà aumentata\" descrive un concetto diverso dal concetto di registrazione obbligatoria.",
@@ -4421,7 +4341,6 @@
       "C": "aumenta fiducia e sicurezza nelle transazioni online",
       "D": "può aumentare abbandono se imposta prima del checkout senza valore percepito"
     },
-    "hint": "Cerca l'opzione che collega il concetto di costo di acquisizione cliente a: è critico perché traffico e conversioni devono essere economicamente sostenibili.",
     "rationales": {
       "A": "È corretta: mette il concetto di costo di acquisizione cliente in relazione con \"è critico perché traffico e conversioni devono essere economicamente sostenibili\".",
       "B": "Non è la scelta migliore: \"è un punto delicato in cui frizioni, costi inattesi o complessità possono generare abbandono\" descrive un concetto diverso dal concetto di costo di acquisizione cliente.",
@@ -4462,7 +4381,6 @@
       "C": "compensa l'assenza di rapporto umano diretto e riduce incertezza",
       "D": "è un punto delicato in cui frizioni, costi inattesi o complessità possono generare abbandono"
     },
-    "hint": "Cerca l'opzione che collega il concetto di certificato digitale a: aumenta fiducia e sicurezza nelle transazioni online.",
     "rationales": {
       "A": "È corretta: mette il concetto di certificato digitale in relazione con \"aumenta fiducia e sicurezza nelle transazioni online\".",
       "B": "Non è la scelta migliore: \"è critico perché traffico e conversioni devono essere economicamente sostenibili\" descrive un concetto diverso dal concetto di certificato digitale.",
@@ -4567,7 +4485,6 @@
       "C": "usa il digitale per rendere più efficienti attività esistenti",
       "D": "tocca modello di business, processi, organizzazione ed esperienza cliente"
     },
-    "hint": "Cerca l'opzione che collega il concetto di digitalizzazione a: è il primo livello del passaggio al digitale.",
     "rationales": {
       "A": "È corretta: mette il concetto di digitalizzazione in relazione con \"è il primo livello del passaggio al digitale\".",
       "B": "Non è la scelta migliore: \"distingue il miglioramento utile dalla semplice creazione di qualcosa di nuovo\" descrive un concetto diverso dal concetto di digitalizzazione.",
@@ -4606,7 +4523,6 @@
       "C": "tocca modello di business, processi, organizzazione ed esperienza cliente",
       "D": "distingue il miglioramento utile dalla semplice creazione di qualcosa di nuovo"
     },
-    "hint": "Cerca l'opzione che collega il concetto di digitalizzazione dei processi a: usa il digitale per rendere più efficienti attività esistenti.",
     "rationales": {
       "A": "È corretta: mette il concetto di digitalizzazione dei processi in relazione con \"usa il digitale per rendere più efficienti attività esistenti\".",
       "B": "Non è la scelta migliore: \"è il primo livello del passaggio al digitale\" descrive un concetto diverso dal concetto di digitalizzazione dei processi.",
@@ -4647,7 +4563,6 @@
       "C": "aiuta a emergere in un contesto digitale con molti messaggi e poca attenzione",
       "D": "è il primo livello del passaggio al digitale"
     },
-    "hint": "Cerca l'opzione che collega il concetto di trasformazione digitale a: tocca modello di business, processi, organizzazione ed esperienza cliente.",
     "rationales": {
       "A": "È corretta: mette il concetto di trasformazione digitale in relazione con \"tocca modello di business, processi, organizzazione ed esperienza cliente\".",
       "B": "Non è la scelta migliore: \"usa il digitale per rendere più efficienti attività esistenti\" descrive un concetto diverso dal concetto di trasformazione digitale.",
@@ -4722,7 +4637,6 @@
       "C": "rende più credibile e difendibile la promessa comunicativa",
       "D": "tocca modello di business, processi, organizzazione ed esperienza cliente"
     },
-    "hint": "Cerca l'opzione che collega il concetto di USP comunicativa a: rappresenta il livello dichiarativo della promessa di valore.",
     "rationales": {
       "A": "È corretta: mette il concetto di USP comunicativa in relazione con \"rappresenta il livello dichiarativo della promessa di valore\".",
       "B": "Non è la scelta migliore: \"aiuta a emergere in un contesto digitale con molti messaggi e poca attenzione\" descrive un concetto diverso dal concetto di USP comunicativa.",
@@ -4763,7 +4677,6 @@
       "C": "richiede comunicazione capace di attivare consapevolezza",
       "D": "aiuta a emergere in un contesto digitale con molti messaggi e poca attenzione"
     },
-    "hint": "Cerca l'opzione che collega il concetto di USP strutturale a: rende più credibile e difendibile la promessa comunicativa.",
     "rationales": {
       "A": "È corretta: mette il concetto di USP strutturale in relazione con \"rende più credibile e difendibile la promessa comunicativa\".",
       "B": "Non è la scelta migliore: \"rappresenta il livello dichiarativo della promessa di valore\" descrive un concetto diverso dal concetto di USP strutturale.",
@@ -4872,7 +4785,6 @@
       "C": "mira a rendere una pagina rilevante e autorevole rispetto alle query degli utenti",
       "D": "richiede comunicazione capace di attivare consapevolezza"
     },
-    "hint": "Cerca l'opzione che collega il concetto di traffico qualificato a: conta più del semplice volume di visite perché aumenta probabilità di conversione.",
     "rationales": {
       "A": "È corretta: mette il concetto di traffico qualificato in relazione con \"conta più del semplice volume di visite perché aumenta probabilità di conversione\".",
       "B": "Non è la scelta migliore: \"si intercetta spesso con motori di ricerca e contenuti coerenti con l'intento\" descrive un concetto diverso dal concetto di traffico qualificato.",
@@ -4913,7 +4825,6 @@
       "C": "consentono risultati più rapidi ma richiedono budget pubblicitario",
       "D": "si intercetta spesso con motori di ricerca e contenuti coerenti con l'intento"
     },
-    "hint": "Cerca l'opzione che collega il concetto di SEO a: mira a rendere una pagina rilevante e autorevole rispetto alle query degli utenti.",
     "rationales": {
       "A": "È corretta: mette il concetto di SEO in relazione con \"mira a rendere una pagina rilevante e autorevole rispetto alle query degli utenti\".",
       "B": "Non è la scelta migliore: \"conta più del semplice volume di visite perché aumenta probabilità di conversione\" descrive un concetto diverso dal concetto di SEO.",
@@ -4954,7 +4865,6 @@
       "C": "è il primo passaggio perché una pagina possa essere scoperta",
       "D": "conta più del semplice volume di visite perché aumenta probabilità di conversione"
     },
-    "hint": "Cerca l'opzione che collega il concetto di SEM e SEA a: consentono risultati più rapidi ma richiedono budget pubblicitario.",
     "rationales": {
       "A": "È corretta: mette il concetto di SEM e SEA in relazione con \"consentono risultati più rapidi ma richiedono budget pubblicitario\".",
       "B": "Non è la scelta migliore: \"mira a rendere una pagina rilevante e autorevole rispetto alle query degli utenti\" descrive un concetto diverso dal concetto di SEM e SEA.",
@@ -5025,7 +4935,6 @@
       "C": "determina la visibilità effettiva nella SERP",
       "D": "consentono risultati più rapidi ma richiedono budget pubblicitario"
     },
-    "hint": "Cerca l'opzione che collega il concetto di indexing a: fa diventare la pagina candidata a comparire per le query.",
     "rationales": {
       "A": "È corretta: mette il concetto di indexing in relazione con \"fa diventare la pagina candidata a comparire per le query\".",
       "B": "Non è la scelta migliore: \"è il primo passaggio perché una pagina possa essere scoperta\" descrive un concetto diverso dal concetto di indexing.",
@@ -5064,7 +4973,6 @@
       "C": "lavora su elementi che il sito controlla direttamente",
       "D": "è il primo passaggio perché una pagina possa essere scoperta"
     },
-    "hint": "Cerca l'opzione che collega il concetto di ranking a: determina la visibilità effettiva nella SERP.",
     "rationales": {
       "A": "È corretta: mette il concetto di ranking in relazione con \"determina la visibilità effettiva nella SERP\".",
       "B": "Non è la scelta migliore: \"fa diventare la pagina candidata a comparire per le query\" descrive un concetto diverso dal concetto di ranking.",
@@ -5173,7 +5081,6 @@
       "C": "guida la creazione di contenuti pertinenti e il miglioramento del traffico qualificato",
       "D": "lavora su elementi che il sito controlla direttamente"
     },
-    "hint": "Cerca l'opzione che collega il concetto di SEO tecnica a: lavora dietro le quinte su struttura, performance e accessibilità tecnica.",
     "rationales": {
       "A": "È corretta: mette il concetto di SEO tecnica in relazione con \"lavora dietro le quinte su struttura, performance e accessibilità tecnica\".",
       "B": "Non è la scelta migliore: \"costruisce autorevolezza tramite segnali come menzioni e backlink\" descrive un concetto diverso dal concetto di SEO tecnica.",
@@ -5214,7 +5121,6 @@
       "C": "di solito indica una fase fredda o iniziale del percorso",
       "D": "costruisce autorevolezza tramite segnali come menzioni e backlink"
     },
-    "hint": "Cerca l'opzione che collega il concetto di search intent a: guida la creazione di contenuti pertinenti e il miglioramento del traffico qualificato.",
     "rationales": {
       "A": "È corretta: mette il concetto di search intent in relazione con \"guida la creazione di contenuti pertinenti e il miglioramento del traffico qualificato\".",
       "B": "Non è la scelta migliore: \"lavora dietro le quinte su struttura, performance e accessibilità tecnica\" descrive un concetto diverso dal concetto di search intent.",
@@ -5255,7 +5161,6 @@
       "C": "indica che la destinazione è già nota almeno in parte",
       "D": "lavora dietro le quinte su struttura, performance e accessibilità tecnica"
     },
-    "hint": "Cerca l'opzione che collega il concetto di intento informazionale a: di solito indica una fase fredda o iniziale del percorso.",
     "rationales": {
       "A": "È corretta: mette il concetto di intento informazionale in relazione con \"di solito indica una fase fredda o iniziale del percorso\".",
       "B": "Non è la scelta migliore: \"guida la creazione di contenuti pertinenti e il miglioramento del traffico qualificato\" descrive un concetto diverso dal concetto di intento informazionale.",
@@ -5313,7 +5218,6 @@
       "C": "Nella fase iniziale di scoperta casuale di un nuovo argomento.",
       "D": "Nella fase di recupero di una password su un sito già noto."
     },
-    "hint": "Pensa alla fase in cui si confrontano i prodotti prima di comprare.",
     "rationales": {
       "A": "L'utente sta valutando le opzioni disponibili, confrontando vantaggi e caratteristiche per prepararsi all'acquisto.",
       "B": "L'acquisto immediato è il focus dell'intento transazionale, non di quello commerciale.",
@@ -5337,7 +5241,6 @@
       "C": "richiede pagine capaci di ridurre frizioni e sostenere la conversione",
       "D": "di solito indica una fase fredda o iniziale del percorso"
     },
-    "hint": "Cerca l'opzione che collega il concetto di intento commerciale a: rappresenta un lead più caldo e una fase avanzata della journey.",
     "rationales": {
       "A": "È corretta: mette il concetto di intento commerciale in relazione con \"rappresenta un lead più caldo e una fase avanzata della journey\".",
       "B": "Non è la scelta migliore: \"indica che la destinazione è già nota almeno in parte\" descrive un concetto diverso dal concetto di intento commerciale.",
@@ -5378,7 +5281,6 @@
       "C": "trasforma il motore di ricerca in motore di risposta e può ridurre il click verso i siti",
       "D": "indica che la destinazione è già nota almeno in parte"
     },
-    "hint": "Cerca l'opzione che collega il concetto di intento transazionale a: richiede pagine capaci di ridurre frizioni e sostenere la conversione.",
     "rationales": {
       "A": "È corretta: mette il concetto di intento transazionale in relazione con \"richiede pagine capaci di ridurre frizioni e sostenere la conversione\".",
       "B": "Non è la scelta migliore: \"rappresenta un lead più caldo e una fase avanzata della journey\" descrive un concetto diverso dal concetto di intento transazionale.",
@@ -5402,7 +5304,6 @@
       "C": "Un elenco di annunci a pagamento posizionati nella parte superiore della pagina.",
       "D": "Una sezione dedicata esclusivamente ai risultati video e immagini di YouTube."
     },
-    "hint": "Considera come l'IA elabora le informazioni provenienti da diverse parti del web contemporaneamente.",
     "rationales": {
       "A": "L'AIO si distingue per la sua capacità di elaborare e unire informazioni provenienti da diversi siti web per fornire una risposta diretta in SERP.",
       "B": "Questa descrizione si riferisce più propriamente ai Featured Snippet tradizionali piuttosto che alla sintesi multi-fonte degli AIO.",
@@ -5494,7 +5395,6 @@
       "C": "sono utili perché più vicine a bisogni precisi e meno competitive",
       "D": "trasforma il motore di ricerca in motore di risposta e può ridurre il click verso i siti"
     },
-    "hint": "Cerca l'opzione che collega il concetto di keyword research a: la keyword diventa proxy della domanda e dell'intento dell'utente.",
     "rationales": {
       "A": "È corretta: mette il concetto di keyword research in relazione con \"la keyword diventa proxy della domanda e dell'intento dell'utente\".",
       "B": "Non è la scelta migliore: \"nasce con i risultati AI e premia qualità, specificità e strutturazione del contenuto\" descrive un concetto diverso dal concetto di keyword research.",
@@ -5535,7 +5435,6 @@
       "C": "aiuta a stimare il potenziale traffico ma va letto insieme a rilevanza e concorrenza",
       "D": "nasce con i risultati AI e premia qualità, specificità e strutturazione del contenuto"
     },
-    "hint": "Cerca l'opzione che collega il concetto di keyword long-tail a: sono utili perché più vicine a bisogni precisi e meno competitive.",
     "rationales": {
       "A": "È corretta: mette il concetto di keyword long-tail in relazione con \"sono utili perché più vicine a bisogni precisi e meno competitive\".",
       "B": "Non è la scelta migliore: \"la keyword diventa proxy della domanda e dell'intento dell'utente\" descrive un concetto diverso dal concetto di keyword long-tail.",
@@ -5576,7 +5475,6 @@
       "C": "influenza la capacità di competere su keyword presidiate da fonti forti",
       "D": "la keyword diventa proxy della domanda e dell'intento dell'utente"
     },
-    "hint": "Cerca l'opzione che collega il concetto di volume di ricerca a: aiuta a stimare il potenziale traffico ma va letto insieme a rilevanza e concorrenza.",
     "rationales": {
       "A": "È corretta: mette il concetto di volume di ricerca in relazione con \"aiuta a stimare il potenziale traffico ma va letto insieme a rilevanza e concorrenza\".",
       "B": "Non è la scelta migliore: \"sono utili perché più vicine a bisogni precisi e meno competitive\" descrive un concetto diverso dal concetto di volume di ricerca.",
@@ -5651,7 +5549,6 @@
       "C": "permette targeting, flessibilità, modifiche rapide e budget scalabile",
       "D": "aiuta a stimare il potenziale traffico ma va letto insieme a rilevanza e concorrenza"
     },
-    "hint": "Cerca l'opzione che collega il concetto di backlink autorevoli a: sono un segnale esterno di fiducia per la SEO off-page.",
     "rationales": {
       "A": "È corretta: mette il concetto di backlink autorevoli in relazione con \"sono un segnale esterno di fiducia per la SEO off-page\".",
       "B": "Non è la scelta migliore: \"influenza la capacità di competere su keyword presidiate da fonti forti\" descrive un concetto diverso dal concetto di backlink autorevoli.",
@@ -5690,7 +5587,6 @@
       "C": "intercetta utenti che stanno formulando una query esplicita",
       "D": "influenza la capacità di competere su keyword presidiate da fonti forti"
     },
-    "hint": "Cerca l'opzione che collega il concetto di digital advertising a: permette targeting, flessibilità, modifiche rapide e budget scalabile.",
     "rationales": {
       "A": "È corretta: mette il concetto di digital advertising in relazione con \"permette targeting, flessibilità, modifiche rapide e budget scalabile\".",
       "B": "Non è la scelta migliore: \"sono un segnale esterno di fiducia per la SEO off-page\" descrive un concetto diverso dal concetto di digital advertising.",
@@ -5795,7 +5691,6 @@
       "C": "raggiunge utenti su servizi over-the-top non via satellite o cavo tradizionale",
       "D": "intercetta utenti che stanno formulando una query esplicita"
     },
-    "hint": "Cerca l'opzione che collega il concetto di video advertising in-stream a: sfrutta il contesto di fruizione video per veicolare messaggi promozionali.",
     "rationales": {
       "A": "È corretta: mette il concetto di video advertising in-stream in relazione con \"sfrutta il contesto di fruizione video per veicolare messaggi promozionali\".",
       "B": "Non è la scelta migliore: \"lavora sulla visibilità in spazi pubblicitari esterni alla SERP organica\" descrive un concetto diverso dal concetto di video advertising in-stream.",
@@ -5834,7 +5729,6 @@
       "C": "misura l'efficienza economica della generazione di click paid",
       "D": "lavora sulla visibilità in spazi pubblicitari esterni alla SERP organica"
     },
-    "hint": "Cerca l'opzione che collega il concetto di OTT advertising a: raggiunge utenti su servizi over-the-top non via satellite o cavo tradizionale.",
     "rationales": {
       "A": "È corretta: mette il concetto di OTT advertising in relazione con \"raggiunge utenti su servizi over-the-top non via satellite o cavo tradizionale\".",
       "B": "Non è la scelta migliore: \"sfrutta il contesto di fruizione video per veicolare messaggi promozionali\" descrive un concetto diverso dal concetto di OTT advertising.",
@@ -5873,7 +5767,6 @@
       "C": "è utile per campagne orientate alla copertura o alla visibilità",
       "D": "sfrutta il contesto di fruizione video per veicolare messaggi promozionali"
     },
-    "hint": "Cerca l'opzione che collega il concetto di CPC a: misura l'efficienza economica della generazione di click paid.",
     "rationales": {
       "A": "È corretta: mette il concetto di CPC in relazione con \"misura l'efficienza economica della generazione di click paid\".",
       "B": "Non è la scelta migliore: \"raggiunge utenti su servizi over-the-top non via satellite o cavo tradizionale\" descrive un concetto diverso dal concetto di CPC.",
@@ -5944,7 +5837,6 @@
       "C": "indica quanto pesa l'advertising sulle vendite generate",
       "D": "misura l'efficienza economica della generazione di click paid"
     },
-    "hint": "Cerca l'opzione che collega il concetto di ROAS a: valuta la resa economica specifica dell'investimento advertising.",
     "rationales": {
       "A": "È corretta: mette il concetto di ROAS in relazione con \"valuta la resa economica specifica dell'investimento advertising\".",
       "B": "Non è la scelta migliore: \"è utile per campagne orientate alla copertura o alla visibilità\" descrive un concetto diverso dal concetto di ROAS.",
@@ -5983,7 +5875,6 @@
       "C": "serve a migliorare esperienza, visibilità, contenuti e conversioni",
       "D": "è utile per campagne orientate alla copertura o alla visibilità"
     },
-    "hint": "Cerca l'opzione che collega il concetto di ACOS a: indica quanto pesa l'advertising sulle vendite generate.",
     "rationales": {
       "A": "È corretta: mette il concetto di ACOS in relazione con \"indica quanto pesa l'advertising sulle vendite generate\".",
       "B": "Non è la scelta migliore: \"valuta la resa economica specifica dell'investimento advertising\" descrive un concetto diverso dal concetto di ACOS.",
@@ -6007,7 +5898,6 @@
       "C": "Basandosi soltanto sui commenti spontanei lasciati dagli utenti nei form.",
       "D": "Ottimizzando i contenuti in base alle preferenze interne del team editoriale."
     },
-    "hint": "Considera l'utilità di sapere cosa piace ai visitatori per offrire loro un servizio migliore.",
     "rationales": {
       "A": "L'analisi dei pattern di comportamento permette di rimuovere ostacoli e ottimizzare i percorsi di navigazione.",
       "B": "Il solo volume di visite non basta a capire dove gli utenti trovano valore o incontrano ostacoli.",
@@ -6048,7 +5938,6 @@
       "C": "Utenti che completano per la prima volta una conversione sul sito.",
       "D": "Sessioni generate da campagne appena lanciate nel periodo analizzato."
     },
-    "hint": "Si tratta di persone che non hanno precedenti record di navigazione su quel determinato sito.",
     "rationales": {
       "A": "Identifica i soggetti che non sono mai stati tracciati in precedenza sulla piattaforma.",
       "B": "Questa descrizione riguarda gli utenti di ritorno, non quelli rilevati per la prima volta.",
@@ -6103,7 +5992,6 @@
       "C": "distingue visite provenienti da risultati organici rispetto a CPC o referral",
       "D": "serve a migliorare esperienza, visibilità, contenuti e conversioni"
     },
-    "hint": "Cerca l'opzione che collega il concetto di frequenza di rimbalzo a: aiuta a valutare se gli utenti interagiscono oltre la prima pagina.",
     "rationales": {
       "A": "È corretta: mette il concetto di frequenza di rimbalzo in relazione con \"aiuta a valutare se gli utenti interagiscono oltre la prima pagina\".",
       "B": "Non è la scelta migliore: \"permette di capire da quali canali arrivano utenti nuovi o esistenti\" descrive un concetto diverso dal concetto di frequenza di rimbalzo.",
@@ -6144,7 +6032,6 @@
       "C": "traduce un comportamento rilevante in dato misurabile",
       "D": "permette di capire da quali canali arrivano utenti nuovi o esistenti"
     },
-    "hint": "Cerca l'opzione che collega il concetto di acquisizione organica a: distingue visite provenienti da risultati organici rispetto a CPC o referral.",
     "rationales": {
       "A": "È corretta: mette il concetto di acquisizione organica in relazione con \"distingue visite provenienti da risultati organici rispetto a CPC o referral\".",
       "B": "Non è la scelta migliore: \"aiuta a valutare se gli utenti interagiscono oltre la prima pagina\" descrive un concetto diverso dal concetto di acquisizione organica.",
@@ -6183,7 +6070,6 @@
       "C": "mira a costruire relazione di valore e spingere alla conversione",
       "D": "aiuta a valutare se gli utenti interagiscono oltre la prima pagina"
     },
-    "hint": "Cerca l'opzione che collega il concetto di obiettivo completato a: traduce un comportamento rilevante in dato misurabile.",
     "rationales": {
       "A": "È corretta: mette il concetto di obiettivo completato in relazione con \"traduce un comportamento rilevante in dato misurabile\".",
       "B": "Non è la scelta migliore: \"distingue visite provenienti da risultati organici rispetto a CPC o referral\" descrive un concetto diverso dal concetto di obiettivo completato.",
@@ -6254,7 +6140,6 @@
       "C": "conferma o supporta una transazione, iscrizione o richiesta",
       "D": "traduce un comportamento rilevante in dato misurabile"
     },
-    "hint": "Cerca l'opzione che collega il concetto di newsletter a: mantiene vivo il rapporto con gli iscritti attraverso contenuti pertinenti.",
     "rationales": {
       "A": "È corretta: mette il concetto di newsletter in relazione con \"mantiene vivo il rapporto con gli iscritti attraverso contenuti pertinenti\".",
       "B": "Non è la scelta migliore: \"mira a costruire relazione di valore e spingere alla conversione\" descrive un concetto diverso dal concetto di newsletter.",
@@ -6295,7 +6180,6 @@
       "C": "riattiva un'intenzione già emersa nel percorso di conversione",
       "D": "mira a costruire relazione di valore e spingere alla conversione"
     },
-    "hint": "Cerca l'opzione che collega il concetto di email transazionale a: conferma o supporta una transazione, iscrizione o richiesta.",
     "rationales": {
       "A": "È corretta: mette il concetto di email transazionale in relazione con \"conferma o supporta una transazione, iscrizione o richiesta\".",
       "B": "Non è la scelta migliore: \"mantiene vivo il rapporto con gli iscritti attraverso contenuti pertinenti\" descrive un concetto diverso dal concetto di email transazionale.",
@@ -6319,7 +6203,6 @@
       "C": "Email Transazionale.",
       "D": "Email di Benvenuto."
     },
-    "hint": "Pensa al termine utilizzato per indicare il marketing rivolto a chi ha già interagito con il sito.",
     "rationales": {
       "A": "Questa tipologia è progettata specificamente per invogliare i potenziali clienti a completare un processo d'acquisto iniziato ma non concluso.",
       "B": "Le newsletter sono focalizzate sull'informazione generale e sugli aggiornamenti aziendali regolari, non sul recupero di azioni specifiche.",
@@ -6407,7 +6290,6 @@
       "C": "riduce lavoro manuale e aumenta tempestività ed efficacia",
       "D": "riattiva un'intenzione già emersa nel percorso di conversione"
     },
-    "hint": "Cerca l'opzione che collega il concetto di personalizzazione email a: aumenta engagement e percezione di rilevanza del brand.",
     "rationales": {
       "A": "È corretta: mette il concetto di personalizzazione email in relazione con \"aumenta engagement e percezione di rilevanza del brand\".",
       "B": "Non è la scelta migliore: \"ha forte impatto sull'apertura dell'email\" descrive un concetto diverso dal concetto di personalizzazione email.",
@@ -6446,7 +6328,6 @@
       "C": "costruisce fiducia e guida azioni profittevoli senza interrompere l'utente",
       "D": "ha forte impatto sull'apertura dell'email"
     },
-    "hint": "Cerca l'opzione che collega il concetto di automazione email a: riduce lavoro manuale e aumenta tempestività ed efficacia.",
     "rationales": {
       "A": "È corretta: mette il concetto di automazione email in relazione con \"riduce lavoro manuale e aumenta tempestività ed efficacia\".",
       "B": "Non è la scelta migliore: \"aumenta engagement e percezione di rilevanza del brand\" descrive un concetto diverso dal concetto di automazione email.",
@@ -6470,7 +6351,6 @@
       "C": "Aumentare la pressione promozionale fino a rendere il brand più visibile dei concorrenti.",
       "D": "Rendere il tono di voce uniforme su tutti i canali, anche senza contenuti specialistici."
     },
-    "hint": "Rifletti su cosa pensi di un'azienda che pubblica guide molto approfondite e utili.",
     "rationales": {
       "A": "Fornendo contenuti utili, il brand dimostra competenza e guadagna la fiducia degli utenti.",
       "B": "La frequenza aiuta solo se i contenuti sono realmente competenti, affidabili e pertinenti.",
@@ -6494,7 +6374,6 @@
       "C": "si contrappone alla pubblicità push che mette il prodotto davanti all'utente",
       "D": "aumenta engagement e percezione di rilevanza del brand"
     },
-    "hint": "Cerca l'opzione che collega il concetto di content marketing a: costruisce fiducia e guida azioni profittevoli senza interrompere l'utente.",
     "rationales": {
       "A": "È corretta: mette il concetto di content marketing in relazione con \"costruisce fiducia e guida azioni profittevoli senza interrompere l'utente\".",
       "B": "Non è la scelta migliore: \"riduce lavoro manuale e aumenta tempestività ed efficacia\" descrive un concetto diverso dal concetto di content marketing.",
@@ -6565,7 +6444,6 @@
       "C": "aiuta a collegare contenuti e comunicazione a stadi psicologici progressivi",
       "D": "costruisce fiducia e guida azioni profittevoli senza interrompere l'utente"
     },
-    "hint": "Cerca l'opzione che collega il concetto di piano editoriale a: assicura coerenza, qualità e allineamento agli obiettivi di content marketing.",
     "rationales": {
       "A": "È corretta: mette il concetto di piano editoriale in relazione con \"assicura coerenza, qualità e allineamento agli obiettivi di content marketing\".",
       "B": "Non è la scelta migliore: \"si contrappone alla pubblicità push che mette il prodotto davanti all'utente\" descrive un concetto diverso dal concetto di piano editoriale.",
@@ -6606,7 +6484,6 @@
       "C": "aiuta a pianificare la distribuzione integrata dei contenuti",
       "D": "si contrappone alla pubblicità push che mette il prodotto davanti all'utente"
     },
-    "hint": "Cerca l'opzione che collega il concetto di modello AIDA a: aiuta a collegare contenuti e comunicazione a stadi psicologici progressivi.",
     "rationales": {
       "A": "È corretta: mette il concetto di modello AIDA in relazione con \"aiuta a collegare contenuti e comunicazione a stadi psicologici progressivi\".",
       "B": "Non è la scelta migliore: \"assicura coerenza, qualità e allineamento agli obiettivi di content marketing\" descrive un concetto diverso dal concetto di modello AIDA.",
@@ -6709,7 +6586,6 @@
       "C": "attira nuovi pubblici tramite ricerca e costruisce fiducia",
       "D": "aiuta a pianificare la distribuzione integrata dei contenuti"
     },
-    "hint": "Cerca l'opzione che collega il concetto di contenuto Hub a: mantiene la relazione con il pubblico nel tempo.",
     "rationales": {
       "A": "È corretta: mette il concetto di contenuto Hub in relazione con \"mantiene la relazione con il pubblico nel tempo\".",
       "B": "Non è la scelta migliore: \"serve a momenti di grande visibilità nel framework Hero-Hub-Help\" descrive un concetto diverso dal concetto di contenuto Hub.",
@@ -6750,7 +6626,6 @@
       "C": "serve a momenti di grande visibilità nel framework Hero-Hub-Help",
       "D": "aiuta a pianificare la distribuzione integrata dei contenuti"
     },
-    "hint": "Cerca l'opzione che collega il concetto di contenuto Help a: attira nuovi pubblici tramite ricerca e costruisce fiducia.",
     "rationales": {
       "A": "È corretta: mette il concetto di contenuto Help in relazione con \"attira nuovi pubblici tramite ricerca e costruisce fiducia\".",
       "B": "Non è la scelta migliore: \"mantiene la relazione con il pubblico nel tempo\" descrive un concetto diverso dal concetto di contenuto Help.",
@@ -6838,7 +6713,6 @@
       "C": "un utente paga un abbonamento perché percepisce benefici superiori al costo",
       "D": "scegliere uno smartphone premium per soddisfare un bisogno di connessione e status"
     },
-    "hint": "Cerca l'opzione che collega il concetto di value proposition a: Dropbox promette accesso semplice e sincronizzato ai file tra dispositivi.",
     "rationales": {
       "A": "È corretta: mette il concetto di value proposition in relazione con \"Dropbox promette accesso semplice e sincronizzato ai file tra dispositivi\".",
       "B": "Non è la scelta migliore: \"un abbonamento digitale con app, assistenza, contenuti e community\" descrive un concetto diverso dal concetto di value proposition.",
@@ -6941,7 +6815,6 @@
       "C": "definire packaging, pricing, canali e attività promozionali di un'offerta",
       "D": "scegliere un segmento prioritario e costruire una posizione distintiva"
     },
-    "hint": "Cerca l'opzione che collega il concetto di SWOT analysis a: classificare una community forte come strength e una nuova normativa come threat.",
     "rationales": {
       "A": "È corretta: mette il concetto di SWOT analysis in relazione con \"classificare una community forte come strength e una nuova normativa come threat\".",
       "B": "Non è la scelta migliore: \"decidere assortimento, livello di prezzo, canali e comunicazione di lancio\" descrive un concetto diverso dal concetto di SWOT analysis.",
@@ -7044,7 +6917,6 @@
       "C": "un'impresa costruisce valore collegandosi a temi sociali e ambientali coerenti",
       "D": "usare dati e automazione senza perdere autenticità e contatto umano"
     },
-    "hint": "Cerca l'opzione che collega il concetto di Marketing 2.0 a: adattare l'offerta a segmenti con esigenze diverse.",
     "rationales": {
       "A": "È corretta: mette il concetto di Marketing 2.0 in relazione con \"adattare l'offerta a segmenti con esigenze diverse\".",
       "B": "Non è la scelta migliore: \"comunicare principalmente le caratteristiche del prodotto a un pubblico ampio\" descrive un concetto diverso dal concetto di Marketing 2.0.",
@@ -7151,7 +7023,6 @@
       "C": "una piattaforma che abilita scambi tra utenti e valorizza la partecipazione della community",
       "D": "un brand conserva tono, simboli e personalità coerenti su app, social e store"
     },
-    "hint": "Cerca l'opzione che collega il concetto di currency a: un prezzo che cambia in base a disponibilità, domanda o profilo d'acquisto.",
     "rationales": {
       "A": "È corretta: mette il concetto di currency in relazione con \"un prezzo che cambia in base a disponibilità, domanda o profilo d'acquisto\".",
       "B": "Non è la scelta migliore: \"una community contribuisce a progettare nuove funzionalità di un servizio\" descrive un concetto diverso dal concetto di currency.",
@@ -7256,7 +7127,6 @@
       "C": "un cliente acquista online perché ritiene affidabile il venditore",
       "D": "una marca percepita come sostenibile anche oltre ciò che dichiara nelle campagne"
     },
-    "hint": "Cerca l'opzione che collega il concetto di brand equity a: un marchio forte permette premium price e fiducia più elevata.",
     "rationales": {
       "A": "È corretta: mette il concetto di brand equity in relazione con \"un marchio forte permette premium price e fiducia più elevata\".",
       "B": "Non è la scelta migliore: \"essere top of mind nella categoria bevande\" descrive un concetto diverso dal concetto di brand equity.",
@@ -7363,7 +7233,6 @@
       "C": "un retailer integra sito, store fisici, CRM e campagne coordinate",
       "D": "un'impresa integra sistemi informativi, e-commerce e processi con partner e clienti"
     },
-    "hint": "Cerca l'opzione che collega il concetto di digital marketing tattico a: un sito brochure aggiornato raramente e non integrato con canali o CRM.",
     "rationales": {
       "A": "È corretta: mette il concetto di digital marketing tattico in relazione con \"un sito brochure aggiornato raramente e non integrato con canali o CRM\".",
       "B": "Non è la scelta migliore: \"Spotify cambia il modello musicale da vendita di supporti a streaming in abbonamento\" descrive un concetto diverso dal concetto di digital marketing tattico.",
@@ -7471,7 +7340,6 @@
       "C": "un file composto da bit organizzati in byte",
       "D": "Zara con punti vendita fisici e sito e-commerce"
     },
-    "hint": "Cerca l'opzione che collega il concetto di omnicanalità a: iniziare un acquisto da smartphone, proseguirlo da desktop e ritirare in negozio.",
     "rationales": {
       "A": "È corretta: mette il concetto di omnicanalità in relazione con \"iniziare un acquisto da smartphone, proseguirlo da desktop e ritirare in negozio\".",
       "B": "Non è la scelta migliore: \"un marketplace nato e gestito solo via piattaforma online\" descrive un concetto diverso dal concetto di omnicanalità.",
@@ -7574,7 +7442,6 @@
       "C": "consultare una pagina informativa tramite browser",
       "D": "il web come piattaforma che ospita siti, contenuti e social network"
     },
-    "hint": "Cerca l'opzione che collega il concetto di Internet a: la rete che permette a un sito web di essere raggiunto.",
     "rationales": {
       "A": "È corretta: mette il concetto di Internet in relazione con \"la rete che permette a un sito web di essere raggiunto\".",
       "B": "Non è la scelta migliore: \"uno smartwatch o uno smartphone che consente l'uso di app e web\" descrive un concetto diverso dal concetto di Internet.",
@@ -7680,7 +7547,6 @@
       "C": "un e-commerce vende milioni di titoli, inclusi libri di nicchia poco richiesti singolarmente",
       "D": "una piattaforma diventa più utile man mano che aumentano gli utenti collegati"
     },
-    "hint": "Cerca l'opzione che collega il concetto di reach e richness a: un sito può raggiungere molti utenti e offrire schede prodotto dettagliate.",
     "rationales": {
       "A": "È corretta: mette il concetto di reach e richness in relazione con \"un sito può raggiungere molti utenti e offrire schede prodotto dettagliate\".",
       "B": "Non è la scelta migliore: \"abitudini e costi di migrazione rendono difficile abbandonare una tastiera o un ecosistema software\" descrive un concetto diverso dal concetto di reach e richness.",
@@ -7785,7 +7651,6 @@
       "C": "inserire un questionario su una landing page o diffonderlo via social",
       "D": "usare report di settore o statistiche pubbliche per stimare un mercato"
     },
-    "hint": "Cerca l'opzione che collega il concetto di e-mail survey a: mandare un link survey a una lista di clienti selezionati.",
     "rationales": {
       "A": "È corretta: mette il concetto di e-mail survey in relazione con \"mandare un link survey a una lista di clienti selezionati\".",
       "B": "Non è la scelta migliore: \"progettare una survey online per capire le preferenze di un nuovo target\" descrive un concetto diverso dal concetto di e-mail survey.",
@@ -7888,7 +7753,6 @@
       "C": "chiedere se l'utente ha comprato online prima di domande sul checkout",
       "D": "chiedere se l'utente ha mai acquistato online: sì o no"
     },
-    "hint": "Cerca l'opzione che collega il concetto di scala Likert a: valutare da per niente d'accordo a molto d'accordo la fiducia verso un brand.",
     "rationales": {
       "A": "È corretta: mette il concetto di scala Likert in relazione con \"valutare da per niente d'accordo a molto d'accordo la fiducia verso un brand\".",
       "B": "Non è la scelta migliore: \"chiedere quali canali usa il cliente tra sito, social, app e negozio\" descrive un concetto diverso dal concetto di scala Likert.",
@@ -7991,7 +7855,6 @@
       "C": "seguire un cliente dalla ricerca online al consumo e al ricordo dell'esperienza",
       "D": "una recensione, un sito, un punto vendita o una email di conferma"
     },
-    "hint": "Cerca l'opzione che collega il concetto di nuovo consumatore iperconnesso a: un utente confronta recensioni, social, sito e negozio prima di decidere.",
     "rationales": {
       "A": "È corretta: mette il concetto di nuovo consumatore iperconnesso in relazione con \"un utente confronta recensioni, social, sito e negozio prima di decidere\".",
       "B": "Non è la scelta migliore: \"un cliente pubblica recensioni e contenuti che guidano le scelte altrui\" descrive un concetto diverso dal concetto di nuovo consumatore iperconnesso.",
@@ -8094,7 +7957,6 @@
       "C": "Il test di laboratorio effettuato dall'azienda prima del lancio del prodotto.",
       "D": "La recensione lasciata su un sito web tre mesi dopo l'acquisto."
     },
-    "hint": "È la fase in cui si leggono recensioni, si guardano video comparativi e si scelgono i brand preferiti.",
     "rationales": {
       "A": "Dopo la consapevolezza del bisogno, il cliente ricerca attivamente informazioni per scegliere.",
       "B": "Questa è l'esperienza post-vendita, successiva all'acquisto.",
@@ -8199,7 +8061,6 @@
       "C": "un utente modifica un prodotto o cerca soluzioni autonome prima di contattare il brand",
       "D": "valutare un prodotto nella scheda e-commerce prima di metterlo nel carrello"
     },
-    "hint": "Cerca l'opzione che collega il concetto di touchpoint brand-owned a: sito aziendale, app, programma loyalty o pubblicità proprietaria.",
     "rationales": {
       "A": "È corretta: mette il concetto di touchpoint brand-owned in relazione con \"sito aziendale, app, programma loyalty o pubblicità proprietaria\".",
       "B": "Non è la scelta migliore: \"provare un prodotto a casa e condividere una recensione\" descrive un concetto diverso dal concetto di touchpoint brand-owned.",
@@ -8304,7 +8165,6 @@
       "C": "un cliente partecipa alla community e produce contenuti sul brand",
       "D": "descrivere obiettivi, obiezioni e preferenze comunicative di un cliente tipo"
     },
-    "hint": "Cerca l'opzione che collega il concetto di customer delight a: un servizio sorprende positivamente il cliente oltre la promessa attesa.",
     "rationales": {
       "A": "È corretta: mette il concetto di customer delight in relazione con \"un servizio sorprende positivamente il cliente oltre la promessa attesa\".",
       "B": "Non è la scelta migliore: \"un cliente è soddisfatto se l'esperienza supera ciò che si aspettava\" descrive un concetto diverso dal concetto di customer delight.",
@@ -8410,7 +8270,6 @@
       "C": "abbonamento, advertising, commissione o affiliazione",
       "D": "distinguere utenti free, clienti premium e aziende partner"
     },
-    "hint": "Cerca l'opzione che collega il concetto di customer relationships nel Business Model Canvas a: self-service, community o assistenza dedicata per gruppi diversi di clienti.",
     "rationales": {
       "A": "È corretta: mette il concetto di customer relationships nel Business Model Canvas in relazione con \"self-service, community o assistenza dedicata per gruppi diversi di clienti\".",
       "B": "Non è la scelta migliore: \"app, sito e marketplace come canali per distribuire un servizio\" descrive un concetto diverso dal concetto di customer relationships nel Business Model Canvas.",
@@ -8514,7 +8373,6 @@
       "C": "Vinted ha bisogno sia di venditori sia di acquirenti",
       "D": "un sito gratuito guadagna mostrando annunci a target specifici"
     },
-    "hint": "Cerca l'opzione che collega il concetto di commission based model a: una piattaforma incassa una percentuale per ogni vendita conclusa.",
     "rationales": {
       "A": "È corretta: mette il concetto di commission based model in relazione con \"una piattaforma incassa una percentuale per ogni vendita conclusa\".",
       "B": "Non è la scelta migliore: \"un blog riceve una commissione per acquisti generati tramite link affiliato\" descrive un concetto diverso dal concetto di commission based model.",
@@ -8619,7 +8477,6 @@
       "C": "una piattaforma che vende forniture aziendali ad altre imprese",
       "D": "utenti che si scambiano beni gratuitamente in una community"
     },
-    "hint": "Cerca l'opzione che collega il concetto di e-commerce a: un acquisto online con scheda prodotto, checkout, pagamento e assistenza post-vendita.",
     "rationales": {
       "A": "È corretta: mette il concetto di e-commerce in relazione con \"un acquisto online con scheda prodotto, checkout, pagamento e assistenza post-vendita\".",
       "B": "Non è la scelta migliore: \"piattaforme come Airbnb o Uber presentano accesso peer-to-peer ma anche pagamento\" descrive un concetto diverso dal concetto di e-commerce.",
@@ -8724,7 +8581,6 @@
       "C": "foto degli utenti, video prodotto e AR riducono l'incertezza",
       "D": "un utente propone un'invenzione brevettata o condizioni di prezzo a un'azienda"
     },
-    "hint": "Cerca l'opzione che collega il concetto di fiducia nell'e-commerce a: recensioni, trasparenza e sicurezza aiutano il primo acquisto.",
     "rationales": {
       "A": "È corretta: mette il concetto di fiducia nell'e-commerce in relazione con \"recensioni, trasparenza e sicurezza aiutano il primo acquisto\".",
       "B": "Non è la scelta migliore: \"utenti condividono recensioni e consigli dentro un percorso di shopping online\" descrive un concetto diverso dal concetto di fiducia nell'e-commerce.",
@@ -8832,7 +8688,6 @@
       "C": "valutare quanto costa trasformare campagne e visite in nuovi acquirenti",
       "D": "un carrello chiaro mostra prezzo finale, spedizione e passaggi successivi"
     },
-    "hint": "Cerca l'opzione che collega il concetto di customer care online a: chat, FAQ e supporto post-vendita aiutano durante acquisto e reso.",
     "rationales": {
       "A": "È corretta: mette il concetto di customer care online in relazione con \"chat, FAQ e supporto post-vendita aiutano durante acquisto e reso\".",
       "B": "Non è la scelta migliore: \"un certificato SSL protegge lo scambio di informazioni tra cliente e sito\" descrive un concetto diverso dal concetto di customer care online.",
@@ -8938,7 +8793,6 @@
       "C": "Amazon riduce sistematicamente l'attrito nell'esperienza d'acquisto",
       "D": "passare dalla vendita di musica online allo streaming come Spotify"
     },
-    "hint": "Cerca l'opzione che collega il concetto di USP comunicativa a: un claim pubblicitario che comunica unicità senza provarla strutturalmente.",
     "rationales": {
       "A": "È corretta: mette il concetto di USP comunicativa in relazione con \"un claim pubblicitario che comunica unicità senza provarla strutturalmente\".",
       "B": "Non è la scelta migliore: \"chiarire il beneficio unico per un segmento e contesto d'acquisto specifico\" descrive un concetto diverso dal concetto di USP comunicativa.",
@@ -9047,7 +8901,6 @@
       "C": "Googlebot visita pagine e segue link di un sito",
       "D": "visitatori che arrivano da query coerenti con l'offerta e il bisogno"
     },
-    "hint": "Cerca l'opzione che collega il concetto di SEM e SEA a: pagare annunci testuali sopra i risultati organici per una keyword.",
     "rationales": {
       "A": "È corretta: mette il concetto di SEM e SEA in relazione con \"pagare annunci testuali sopra i risultati organici per una keyword\".",
       "B": "Non è la scelta migliore: \"ottimizzare titoli, contenuti, struttura tecnica e segnali esterni per la SERP\" descrive un concetto diverso dal concetto di SEM e SEA.",
@@ -9153,7 +9006,6 @@
       "C": "capire se l'utente vuole informarsi, confrontare o comprare",
       "D": "migliorare titoli, URL, heading, contenuto e struttura informativa"
     },
-    "hint": "Cerca l'opzione che collega il concetto di SEO tecnica a: migliorare codice, velocità, sitemap o problemi di indicizzazione.",
     "rationales": {
       "A": "È corretta: mette il concetto di SEO tecnica in relazione con \"migliorare codice, velocità, sitemap o problemi di indicizzazione\".",
       "B": "Non è la scelta migliore: \"un sito autorevole linka una guida del brand e ne rafforza la credibilità\" descrive un concetto diverso dal concetto di SEO tecnica.",
@@ -9262,7 +9114,6 @@
       "C": "scrivere contenuti autorevoli e semanticamente chiari per comparire nelle risposte AI",
       "D": "cercare 'miglior CRM per piccole imprese confronto prezzi'"
     },
-    "hint": "Cerca l'opzione che collega il concetto di AI Overview a: l'utente ottiene una sintesi direttamente in SERP senza aprire subito un risultato.",
     "rationales": {
       "A": "È corretta: mette il concetto di AI Overview in relazione con \"l'utente ottiene una sintesi direttamente in SERP senza aprire subito un risultato\".",
       "B": "Non è la scelta migliore: \"cercare 'compra scarpe running numero 42 spedizione rapida'\" descrive un concetto diverso dal concetto di AI Overview.",
@@ -9303,7 +9154,6 @@
       "C": "Affidandosi alla fedeltà storica del cliente senza intervenire nei touchpoint di confronto.",
       "D": "Usando gli stessi messaggi in tutti i canali, così da mantenere la massima coerenza formale."
     },
-    "hint": "Pensa a come un nuovo brand possa apparire con un annuncio proprio mentre stai confrontando altri prodotti.",
     "rationales": {
       "A": "Le molteplici touchpoint digitali offrono opportunità costanti per influenzare la scelta dell'utente.",
       "B": "La sola awareness iniziale non basta se il consumatore modifica il set durante la valutazione attiva.",
@@ -9327,7 +9177,6 @@
       "C": "La differenza tra il prezzo che il cliente immaginava e il prezzo effettivamente pagato.",
       "D": "La tendenza del cliente a confermare la propria opinione iniziale senza valutare l'esperienza."
     },
-    "hint": "Si focalizza sulla discrepanza tra ciò che si pensava di ottenere e ciò che si è effettivamente ottenuto.",
     "rationales": {
       "A": "Questo paradigma spiega che la soddisfazione nasce quando la performance del prodotto conferma o supera quanto il cliente si aspettava.",
       "B": "La notorietà pre-acquisto riguarda awareness e consideration, non il confronto post-esperienza tra attese e prestazione.",
@@ -9351,7 +9200,6 @@
       "C": "La CSR non si occupa di etica",
       "D": "L'attivismo ignora gli obiettivi di profitto"
     },
-    "hint": "Pensa alla differenza tra comportarsi bene (cittadinanza) e lottare per una causa specifica (giustizia).",
     "rationales": {
       "A": "Mentre la CSR punta a essere un 'buon cittadino', l'attivismo prende posizione su temi controversi per il cambiamento sociale.",
       "B": "Al contrario, l'attivismo cerca un impatto sociale esterno molto più radicale (giustizia sociale).",
@@ -9375,7 +9223,6 @@
       "C": "La standardizzazione di ogni contenuto per evitare adattamenti alle diverse community.",
       "D": "La delega del dialogo ai soli sistemi automatici, senza ascolto umano dei feedback."
     },
-    "hint": "Rifletti sul concetto di 'Impresa orientata all'ascolto'.",
     "rationales": {
       "A": "Il brand non impartisce ordini dall'alto, ma si pone allo stesso livello del pubblico per generare valore condiviso.",
       "B": "I nuovi codici richiedono ascolto e reciprocità, non solo controllo editoriale dall'alto.",
@@ -9399,7 +9246,6 @@
       "C": "Limitare la comunicazione ai soli canali televisivi tradizionali.",
       "D": "Utilizzare esclusivamente influencer per evitare il contatto diretto."
     },
-    "hint": "Considera il passaggio dai 'Codici del Brand' a comportamenti più empatici e naturali.",
     "rationales": {
       "A": "Per essere accettati nelle community, i brand devono abbandonare il tono istituzionale e adottare un approccio più umano e relazionale.",
       "B": "La pressione pubblicitaria eccessiva e non personalizzata tende ad allontanare le community digitali.",
@@ -9423,7 +9269,6 @@
       "C": "Che devono offrire soprattutto promozioni e vantaggi economici per apparire vicini al pubblico.",
       "D": "Che devono sostituire il customer care umano con risposte automatiche sempre cordiali."
     },
-    "hint": "Riguarda il tono di voce e l'autenticità della relazione.",
     "rationales": {
       "A": "Si tratta di costruire un rapporto di fiducia basato sull'empatia e sulla vicinanza valoriale.",
       "B": "L'informalità da sola non basta: l'idea di amicizia implica ascolto, cura e rilevanza.",
@@ -9447,7 +9292,6 @@
       "C": "Che ogni touchpoint pesa meno perché il cliente decide quasi sempre prima di informarsi.",
       "D": "Che basta essere presenti nel funnel iniziale per restare rilevanti fino all'acquisto."
     },
-    "hint": "Rifletti sulla natura competitiva del mercato e sulla possibilità di essere sostituiti da una nuova opzione.",
     "rationales": {
       "A": "Il Consumer Decision Journey moderno è fluido e i consumatori sono costantemente esposti a nuove alternative.",
       "B": "La notorietà aiuta, ma non protegge il brand se alternative più rilevanti entrano durante la valutazione.",
@@ -9471,7 +9315,6 @@
       "C": "Rispetto al segmento demografico più ampio che l'azienda potrebbe raggiungere.",
       "D": "Rispetto agli obiettivi interni di vendita fissati per la campagna."
     },
-    "hint": "Immagina un cliente che ha due schede del browser aperte con due prodotti simili.",
     "rationales": {
       "A": "La USP deve essere efficace nel momento del confronto diretto con un concorrente specifico.",
       "B": "Il prezzo conta, ma la domanda sul contesto riguarda l'alternativa competitiva contro cui la scelta avviene.",
@@ -9495,7 +9338,6 @@
       "C": "Dipende esclusivamente dal logo e dal colore scelto per i prodotti.",
       "D": "Viene deciso a tavolino senza considerare le opinioni dei clienti."
     },
-    "hint": "Pensa a come i brand oggi cercano di 'agire come amici' e mostrare preoccupazione genuina.",
     "rationales": {
       "A": "Non dipende solo da cosa dice l'azienda, ma da come il pubblico recepisce e condivide quei valori.",
       "B": "Il posizionamento deve essere adattabile e coerente, non un dogma immutabile.",
@@ -9519,7 +9361,6 @@
       "C": "Privilegiare l'interazione umana ignorando le innovazioni tecnologiche.",
       "D": "Utilizzare l'AI solo per la raccolta dati e l'IoT solo per la logistica."
     },
-    "hint": "Considera l'importanza di non perdere il lato empatico mentre si diventa tecnologicamente avanzati.",
     "rationales": {
       "A": "La tecnologia deve supportare e rafforzare le relazioni umane per migliorare il coinvolgimento del cliente.",
       "B": "L'automazione totale priva il brand del tocco umano necessario per l'engagement.",
@@ -9543,7 +9384,6 @@
       "C": "L'utente inserisce i dati della carta di credito e completa l'ordine.",
       "D": "L'utente scrive una recensione positiva dopo aver usato il prodotto per un mese."
     },
-    "hint": "È il momento in cui l'utente si chiede: 'Quale di questi prodotti è il migliore per me?'.",
     "rationales": {
       "A": "In questa fase, l'utente è consapevole del problema e sta confrontando attivamente le possibili opzioni di mercato.",
       "B": "Questa è la fase iniziale di Conoscenza (Awareness).",
@@ -9566,7 +9406,6 @@
       "C": "Che le opinioni dei clienti sostituiscono interamente la strategia e le decisioni del brand.",
       "D": "Che il brand rinuncia a guidare la conversazione per evitare conflitti con la community."
     },
-    "hint": "Rifletti sulla fine del modello in cui l'azienda parla e il cliente ascolta soltanto.",
     "rationales": {
       "A": "La decentralizzazione digitale mette azienda e consumatore sullo stesso piano comunicativo.",
       "B": "La raccolta di feedback è utile, ma non basta se la relazione resta unidirezionale e gerarchica.",
@@ -9589,7 +9428,6 @@
       "C": "Sta eliminando completamente i risultati organici per favorire solo gli ADS.",
       "D": "Sta riducendo l'uso dell'intelligenza artificiale per tornare alla scansione manuale."
     },
-    "hint": "Rifletti sull'obiettivo finale dell'utente: cercare un sito o ricevere subito una soluzione?",
     "rationales": {
       "A": "L'obiettivo di Google è ora fornire la soluzione direttamente all'utente senza che quest'ultimo debba necessariamente cliccare su un sito.",
       "B": "Nonostante l'integrazione di feed, l'evoluzione principale descritta riguarda il modo in cui fornisce informazioni dirette.",
@@ -9612,7 +9450,6 @@
       "C": "Nella pagina 'Chi Siamo' di un'azienda.",
       "D": "In una pagina contenente un video tutorial di dieci minuti."
     },
-    "hint": "Pensa a una fase del processo d'acquisto dove la velocità è sinonimo di efficienza.",
     "rationales": {
       "A": "Un tempo basso nel checkout suggerisce un processo rapido, fluido e privo di intoppi per l'utente.",
       "B": "Per i contenuti testuali, un tempo basso indicherebbe che l'utente non ha letto il contenuto.",
@@ -9635,7 +9472,6 @@
       "C": "Un consumatore passivo che accetta ogni narrazione del brand.",
       "D": "Un professionista del marketing che lavora per grandi multinazionali."
     },
-    "hint": "Combina le parole 'produttore' e 'consumatore'.",
     "rationales": {
       "A": "Il termine unisce 'Producer' e 'Consumer', evidenziando la partecipazione attiva nella creazione di valore.",
       "B": "Questo descrive un comportamento orientato al prezzo, non la fusione dei ruoli di produzione e consumo.",
@@ -9658,7 +9494,6 @@
       "C": "La piattaforma è sempre a pagamento, il device è sempre gratuito.",
       "D": "I device esistono solo offline, le piattaforme solo online."
     },
-    "hint": "Pensa a iOS come piattaforma e all'iPhone come device.",
     "rationales": {
       "A": "Distinguiamo tra il 'dove' avviene l'interazione e l'oggetto fisico usato per connettersi.",
       "B": "L'analisi strategica richiede di distinguere tra i due per ottimizzare contenuti e interfacce.",
@@ -9681,7 +9516,6 @@
       "C": "L'incapacità di inventare prodotti completamente nuovi.",
       "D": "Un budget di marketing insufficiente."
     },
-    "hint": "Considera l'importanza della struttura logica con cui un'azienda genera valore.",
     "rationales": {
       "A": "Il testo sottolinea che un modello di business poco solido è la causa primaria del fallimento delle nuove imprese.",
       "B": "Sebbene la tecnologia sia importante, l'innovazione digitale riguarda primariamente il modello di creazione del valore piuttosto che la sola dotazione tecnica.",
@@ -9704,7 +9538,6 @@
       "C": "Per confrontare soprattutto le aspettative interne dell'azienda con gli obiettivi di vendita.",
       "D": "Per fissare un benchmark stabile senza rivederlo dopo nuovi touchpoint."
     },
-    "hint": "Considera il legame tra ciò che si desidera e la soddisfazione finale.",
     "rationales": {
       "A": "Il gap tra aspettativa e realtà determina il livello di soddisfazione.",
       "B": "Promettere di più senza migliorare l'esperienza aumenta il rischio di disconfirmation negativa.",
@@ -9727,7 +9560,6 @@
       "C": "Perché sostituiscono ogni ricerca quantitativa con profili narrativi costruiti dal team marketing.",
       "D": "Perché trasformano gli obiettivi commerciali dell'azienda in bisogni attribuiti al cliente."
     },
-    "hint": "Pensa alla differenza tra vendere ciò che hai e creare ciò di cui l'utente ha bisogno.",
     "rationales": {
       "A": "L'approccio 'customer-centric' sposta il focus dalle necessità interne dell'impresa a quelle esterne del target.",
       "B": "Le personas non sono semplici cluster demografici: devono includere bisogni, motivazioni e ostacoli reali.",
@@ -9750,7 +9582,6 @@
       "C": "Permettono di sostituire i dati quantitativi con intuizioni creative più veloci da produrre.",
       "D": "Spingono a progettare prodotti partendo dai vincoli interni e poi a trovare il target adatto."
     },
-    "hint": "Rifletti sulla differenza tra focus sui profitti e focus sui bisogni dell'utente.",
     "rationales": {
       "A": "L'approccio 'customer centric' garantisce che il valore offerto risponda a bisogni reali.",
       "B": "Le personas servono a differenziare bisogni e messaggi, non a uniformare il mercato.",
@@ -9773,7 +9604,6 @@
       "C": "Un'e-mail promozionale inviata tramite newsletter aziendale.",
       "D": "Il packaging del prodotto esposto sullo scaffale del negozio."
     },
-    "hint": "Cerca un'interazione che l'azienda non può né programmare né controllare totalmente.",
     "rationales": {
       "A": "Le recensioni sono generate dagli utenti e non sono sotto il controllo diretto del brand.",
       "B": "La pubblicità radiofonica è un'attività 'push' guidata dall'azienda.",
@@ -9796,7 +9626,6 @@
       "C": "I momenti di gratificazione massima dell'utente.",
       "D": "I punti di forza della concorrenza."
     },
-    "hint": "Pensa a qualcosa che causa disagio o rallentamento durante il percorso.",
     "rationales": {
       "A": "Identificare le frizioni è fondamentale per migliorare l'esperienza complessiva.",
       "B": "I pain points non sono legati al prezzo in sé, ma alla difficoltà dell'esperienza.",
@@ -9819,7 +9648,6 @@
       "C": "Assicurazioni auto (Auto insurance)",
       "D": "Personal computers"
     },
-    "hint": "Pensa a un acquisto complesso dove la ricerca di alternative è molto dinamica.",
     "rationales": {
       "A": "I dati mostrano che nel settore auto vengono aggiunti in media 2.2 brand durante la valutazione attiva.",
       "B": "Il numero di brand aggiunti per le telecomunicazioni è significativamente più basso (0.9).",
@@ -9842,7 +9670,6 @@
       "C": "Produzione, Distribuzione, Vendita, Consumo.",
       "D": "Ignoranza, Interesse, Noia, Abbandono."
     },
-    "hint": "Pensa a un percorso che non finisce con lo scontrino, ma continua con l'uso del prodotto.",
     "rationales": {
       "A": "Questo modello circolare sostituisce il vecchio concetto di imbuto lineare.",
       "B": "Questa sequenza descrive solo una gestione negativa del cliente, non il processo strategico standard.",
@@ -9866,7 +9693,6 @@
       "C": "Per bloccare automaticamente gli account che condividono la password.",
       "D": "Per produrre film senza l'ausilio di registi o sceneggiatori umani."
     },
-    "hint": "Pensa a cosa vedi quando apri l'app di Netflix sul tuo dispositivo.",
     "rationales": {
       "A": "La personalizzazione dell'interfaccia aumenta il valore percepito dall'utente e l'engagement.",
       "B": "Netflix usa solitamente piani tariffari standard, non il dynamic pricing per utente descritto nel materiale.",
@@ -9890,7 +9716,6 @@
       "C": "L'invenzione del formato MP3.",
       "D": "L'obbligo di acquistare ogni singola canzone per poterla ascoltare."
     },
-    "hint": "Pensa alla differenza tra 'comprare' e 'abbonarsi'.",
     "rationales": {
       "A": "Hanno trasformato il mercato discografico da vendita di beni fisici o digitali a fornitura di servizi ad accesso illimitato.",
       "B": "Queste piattaforme non vendono CD, ma accesso a file digitali in cloud.",
@@ -9914,7 +9739,6 @@
       "C": "Non c'è differenza, sono sinonimi usati in contesti diversi.",
       "D": "Il device è una rete di computer, la piattaforma è un singolo processore."
     },
-    "hint": "Considera quale dei due puoi toccare fisicamente e quale invece visiti virtualmente.",
     "rationales": {
       "A": "Questa distinzione separa correttamente il contesto software/rete dall'oggetto fisico utilizzato per accedervi.",
       "B": "Esistono piattaforme accessibili ovunque e device sia fissi che mobili.",
@@ -9938,7 +9762,6 @@
       "C": "Ridurre la complessità logistica fino a rendere marginale la gestione fisica dello stock.",
       "D": "Aumentare il volume di comunicazioni uguali per tutti gli iscritti."
     },
-    "hint": "Pensa all'efficienza economica del gigante dell'e-commerce.",
     "rationales": {
       "A": "Attraverso il pricing dinamico e i suggerimenti, l'azienda massimizza l'efficacia di ogni sessione utente.",
       "B": "Il margine conta, ma le raccomandazioni funzionano se integrano redditività e rilevanza per l'utente.",
@@ -9962,7 +9785,6 @@
       "C": "La quota di vendite realizzate dalle compagnie aeree su quella tratta.",
       "D": "Il numero assoluto di passeggeri partiti per New York nel periodo."
     },
-    "hint": "Rifletti su cosa indicano i picchi di una linea su uno strumento che analizza le ricerche online.",
     "rationales": {
       "A": "Google Trends permette di visualizzare la domanda consapevole e confrontare l'interesse relativo nel tempo.",
       "B": "Google Trends misura interesse relativo di ricerca, non conversioni o vendite generate.",
@@ -9986,7 +9808,6 @@
       "C": "Di evitarlo completamente in ogni circostanza.",
       "D": "Di usarlo solo per attirare nuovi utenti che non conoscono il brand."
     },
-    "hint": "Valuta l'efficienza della spesa pubblicitaria quando il sito è già facile da trovare.",
     "rationales": {
       "A": "Il PPC per intenti navigazionali serve spesso come protezione, ma è opzionale se la SEO organica è eccellente.",
       "B": "Non è sempre necessario spendere di più se il posizionamento organico è già dominante.",
@@ -10010,7 +9831,6 @@
       "C": "Perché con il CPM si paga solo quando l'utente compie una conversione sul sito.",
       "D": "Perché il CPC è troppo flessibile per campagne a lungo termine."
     },
-    "hint": "Pensa a cosa misura effettivamente il 'mille' nell'acronimo CPM.",
     "rationales": {
       "A": "Il CPM è ideale per massimizzare le impressioni, garantendo che il marchio venga visto dal maggior numero possibile di persone.",
       "B": "Nessun modello di prezzo pubblicitario garantisce vendite; il CPM misura solo le visualizzazioni (impressioni).",
@@ -10034,7 +9854,6 @@
       "C": "Conta solo nelle campagne a pagamento, mentre la SEO organica dipende dai contenuti.",
       "D": "È meno rilevante quando il contenuto risponde bene all'intento di ricerca."
     },
-    "hint": "Consulta lo strumento PageSpeed Insights menzionato nelle slide.",
     "rationales": {
       "A": "Siti lenti offrono una cattiva esperienza utente e vengono penalizzati da Google.",
       "B": "La velocità è parte dell'esperienza utente e può influire sulla valutazione del sito.",
@@ -10058,7 +9877,6 @@
       "C": "Raggiungere un pubblico ampio definito solo da caratteristiche demografiche.",
       "D": "Personalizzare il contenuto del sito in base alla lingua e alla posizione dell'utente."
     },
-    "hint": "Ricorda quegli annunci di prodotti che hai appena guardato e che ti 'inseguono' su altri siti.",
     "rationales": {
       "A": "Serve a ricordare all'utente un interesse manifestato, cercando di portarlo alla conversione finale.",
       "B": "Questa è più vicina a una logica lookalike o prospecting, non al recupero di utenti già esposti.",
@@ -10082,7 +9900,6 @@
       "C": "Un video che spiega la definizione scientifica di 'maratona'.",
       "D": "La home page generale di un brand di scarpe con focus sulla storia aziendale."
     },
-    "hint": "L'utente è nella fase di 'Considerazione' e ha bisogno di aiuto per scegliere tra varie marche.",
     "rationales": {
       "A": "L'intento commerciale indica che l'utente sta valutando diverse opzioni prima di procedere all'acquisto.",
       "B": "Una singola scheda prodotto può aiutare, ma soddisfa meno bene una query comparativa.",
@@ -10106,7 +9923,6 @@
       "C": "Navigazionale; un link diretto alla console di amministrazione di un sito web.",
       "D": "Commerciale; una classifica dei migliori consulenti SEO in Italia."
     },
-    "hint": "L'utente sta usando termini come 'cos'è' o 'come funziona' sottintesi.",
     "rationales": {
       "A": "L'utente sta cercando di acquisire conoscenze generali o risposte a domande specifiche, tipico dell'intento informazionale.",
       "B": "Chi cerca una definizione non è solitamente pronto all'acquisto immediato di un servizio costoso.",
@@ -10130,7 +9946,6 @@
       "C": "Il costo per ogni singola vendita",
       "D": "La durata totale del video pubblicitario"
     },
-    "hint": "Indica l'ampiezza del pubblico raggiunto.",
     "rationales": {
       "A": "La copertura conta le persone singole raggiunte, a differenza delle impressioni che contano le visualizzazioni totali.",
       "B": "Questo è il numero totale di clic.",
@@ -10154,7 +9969,6 @@
       "C": "Google premia esclusivamente i siti che hanno anche un'app mobile nativa.",
       "D": "La compatibilità mobile riguarda solo le campagne a pagamento, non l'indicizzazione organica."
     },
-    "hint": "Rifletti sulla tendenza degli utenti a navigare sempre più in mobilità.",
     "rationales": {
       "A": "Con il mobile-first indexing, la versione per smartphone è il riferimento primario per il ranking.",
       "B": "Il mobile-first indexing usa la versione mobile come riferimento primario, non quella desktop.",
@@ -10178,7 +9992,6 @@
       "C": "CMS (Content Management System).",
       "D": "DMP (Data Management Platform)."
     },
-    "hint": "Cerca l'acronimo che indica la pianificazione delle risorse d'impresa.",
     "rationales": {
       "A": "L'ERP permette di gestire in modo coordinato tutti i processi aziendali, dai fornitori ai clienti.",
       "B": "Il CRM gestisce soprattutto le relazioni con clienti e prospect, non l'intero sistema di risorse aziendali.",
@@ -10202,7 +10015,6 @@
       "C": "Un video sulla storia dell'azienda fondata nel 1900.",
       "D": "Nascondere il prezzo fino alla fine del processo."
     },
-    "hint": "Cosa serve a un utente per decidere tra due modelli di smartphone?",
     "rationales": {
       "A": "Gli utenti in questa fase hanno bisogno di prove e confronti per capire quale soluzione sia la migliore per loro.",
       "B": "Le definizioni generiche non aiutano l'utente a decidere tra due opzioni d'acquisto.",

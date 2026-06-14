@@ -2,7 +2,7 @@
 
 - Questions checked one by one: 539
 - Questions with hints: 0
-- Questions with rationales: 188
+- Questions with rationales: 539
 - Errors: 0
 - Warnings: 0
 - Sources represented: 66
@@ -529,7 +529,7 @@
 - OK Q500 | Granato, search e operational | answer A: scrivere contenuti autorevoli e semanticamente chiari per comparire nelle risposte AI | distractors B/C/D present | source: converted-md/appunti-web-marketing/Web Marketing.md
 - OK Q501 | Marketing 4.0 e brand | answer A: Entrando nel set di considerazione durante la valutazione attiva e spingendo l'utente a riconsiderare le alternative. | distractors B/C/D present | source: NotebookLM Web Marketing / Marketing Quiz / 3d71c962 / Marketing 4.0
 - OK Q502 | Marketing 4.0 e brand | answer A: La soddisfazione derivante dal confronto tra le prestazioni reali del prodotto e le aspettative del cliente. | distractors B/C/D present | source: NotebookLM Web Marketing / Marketing Quiz / a061de53 / Marketing 4.0
-- OK Q503 | Marketing 4.0 e brand | answer A: L'attivismo si focalizza sulla 'giustizia' e sul fare la differenza nel mondo | distractors B/C/D present | source: NotebookLM Web Marketing / Quiz Marketing / 3d7a6e33 / Marketing 4.0
+- OK Q503 | Marketing 4.0 e brand | answer A: La presa di posizione attiva delle aziende su temi sociali, politici e ambientali cruciali. | distractors B/C/D present | source: converted-md/appunti-web-marketing/Web Marketing.md / Marketing 6.0 e brand activism
 - OK Q504 | Marketing 4.0 e brand | answer A: L'ascolto e il dialogo paritario con il consumatore. | distractors B/C/D present | source: NotebookLM Web Marketing / Marketing Quiz / 6f37cae2 / Marketing 4.0
 - OK Q505 | Marketing 4.0 e brand | answer A: Agire come 'amici', mostrando cura e preoccupazione genuina per i bisogni dei clienti. | distractors B/C/D present | source: NotebookLM Web Marketing / Marketing Quiz / 6f37cae2 / Marketing 4.0
 - OK Q506 | Marketing 4.0 e brand | answer A: Che devono mostrare cura e preoccupazione genuina per i bisogni dei clienti. | distractors B/C/D present | source: NotebookLM Web Marketing / Marketing Quiz / b595dddc / Marketing 4.0
@@ -556,7 +556,7 @@
 - OK Q527 | Business model ed e-commerce | answer A: La piattaforma è l'ambiente (es. Web), il device è lo strumento hardware (es. Smartphone). | distractors B/C/D present | source: NotebookLM Web Marketing / Advertising Quiz / a073bca2 / Business Model Digitali
 - OK Q528 | Business model ed e-commerce | answer A: Ottimizzare i margini e aumentare le vendite complementari. | distractors B/C/D present | source: NotebookLM Web Marketing / IA Quiz / f37bf5c0 / Business Model Digitali
 - OK Q529 | Granato, search e operational | answer A: Un volume di ricerca superiore rispetto ad altre destinazioni come Tokyo o Dubai. | distractors B/C/D present | source: NotebookLM Web Marketing / Marketing Quiz / 7f575abd / Operational digital marketing
-- OK Q530 | Granato, search e operational | answer A: Di usarlo se necessario, ma si potrebbe evitare se si è già ben posizionati organicamente. | distractors B/C/D present | source: NotebookLM Web Marketing / SEO Quiz / 721a30f2 / Operational digital marketing
+- OK Q530 | Granato, search e operational | answer A: Una comparazione tra alternative, funzionalità e criteri di scelta prima dell'acquisto. | distractors B/C/D present | source: converted-md/appunti-web-marketing/Web Marketing.md / search intent
 - OK Q531 | Granato, search e operational | answer A: Perché l'obiettivo principale è la visibilità e la frequenza di visualizzazione dell'annuncio, non l'azione immediata. | distractors B/C/D present | source: NotebookLM Web Marketing / Marketing Quiz / 492e0658 / Operational digital marketing
 - OK Q532 | Granato, search e operational | answer A: È un fattore di ranking confermato sia per le ricerche desktop che mobile. | distractors B/C/D present | source: NotebookLM Web Marketing / Quiz SEO / aa4bfa94 / Operational digital marketing
 - OK Q533 | Granato, search e operational | answer A: Raggiungere nuovamente utenti che hanno già visitato il sito senza completare un'azione. | distractors B/C/D present | source: NotebookLM Web Marketing / Marketing Quiz / d2f2355a / Operational digital marketing
@@ -565,7 +565,7 @@
 - OK Q536 | Granato, search e operational | answer A: Il numero di spettatori unici a cui viene mostrato l'annuncio | distractors B/C/D present | source: NotebookLM Web Marketing / Marketing Quiz / 174391d9 / Operational digital marketing
 - OK Q537 | Granato, search e operational | answer A: Google tiene conto principalmente della versione mobile del sito per l'indicizzazione. | distractors B/C/D present | source: NotebookLM Web Marketing / Quiz SEO / aa4bfa94 / Operational digital marketing
 - OK Q538 | Granato, search e operational | answer A: ERP (Enterprise Resource Planning). | distractors B/C/D present | source: NotebookLM Web Marketing / Marketing Quiz / 060f48b2 / Operational digital marketing
-- OK Q539 | Granato, search e operational | answer A: Comparazioni di prodotti ed elenchi di funzionalità dettagliate. | distractors B/C/D present | source: NotebookLM Web Marketing / SEO Quiz / 721a30f2 / Operational digital marketing
+- OK Q539 | Granato, search e operational | answer A: Una pagina prodotto o checkout chiara, con prezzo, disponibilità e invito all'acquisto. | distractors B/C/D present | source: converted-md/appunti-web-marketing/Web Marketing.md / search intent
 
 ## Warnings
 - None

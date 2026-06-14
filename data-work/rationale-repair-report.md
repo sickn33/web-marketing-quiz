@@ -1,0 +1,507 @@
+# Rationale Repair Report
+
+Generated: 2026-06-14T06:39:40.893Z
+
+## Summary
+- Questions: 539
+- Questions touched: 481
+- Usable option rationales before: 2156/2156
+- Usable option rationales after: 2156/2156
+- Questions with four usable rationales before: 539/539
+- Questions with four usable rationales after: 539/539
+- Correct-answer rationales before: 539/539
+- Correct-answer rationales after: 539/539
+
+## Changes By Section
+- Fondamenti di marketing: 18
+- Processo di marketing: 13
+- STP e segmentazione: 12
+- Marketing 4.0 e brand: 50
+- Ecosistema digitale: 65
+- Ricerche di mercato online: 48
+- Customer journey: 55
+- Business model ed e-commerce: 83
+- Granato, search e operational: 137
+
+## Touched Questions
+- Q001 | Fondamenti di marketing | marketing management | repaired 
+- Q002 | Fondamenti di marketing | marketing management | repaired 
+- Q003 | Fondamenti di marketing | bisogno | repaired 
+- Q004 | Fondamenti di marketing | bisogno | repaired 
+- Q005 | Fondamenti di marketing | desiderio | repaired 
+- Q006 | Fondamenti di marketing | desiderio | repaired 
+- Q007 | Fondamenti di marketing | offerta di marketing | repaired 
+- Q008 | Fondamenti di marketing | offerta di marketing | repaired 
+- Q009 | Fondamenti di marketing | value proposition | repaired 
+- Q010 | Fondamenti di marketing | value proposition | repaired 
+- Q011 | Fondamenti di marketing | scambio di valore | repaired 
+- Q012 | Fondamenti di marketing | scambio di valore | repaired 
+- Q013 | Processo di marketing | fase analitica | repaired 
+- Q014 | Processo di marketing | fase analitica | repaired 
+- Q015 | Processo di marketing | fase strategica | repaired 
+- Q016 | Processo di marketing | fase strategica | repaired 
+- Q017 | Processo di marketing | fase operativa | repaired 
+- Q018 | Processo di marketing | fase operativa | repaired 
+- Q019 | Processo di marketing | marketing mix 4P | repaired 
+- Q020 | Processo di marketing | marketing mix 4P | repaired 
+- Q021 | Processo di marketing | SWOT analysis | repaired 
+- Q022 | Processo di marketing | SWOT analysis | repaired 
+- Q023 | STP e segmentazione | segmentazione | repaired 
+- Q024 | STP e segmentazione | segmentazione | repaired 
+- Q025 | STP e segmentazione | targeting | repaired 
+- Q026 | STP e segmentazione | targeting | repaired 
+- Q027 | STP e segmentazione | posizionamento | repaired 
+- Q028 | STP e segmentazione | posizionamento | repaired 
+- Q029 | STP e segmentazione | mappa percettiva | repaired 
+- Q030 | STP e segmentazione | mappa percettiva | repaired 
+- Q031 | Marketing 4.0 e brand | Marketing 1.0 | repaired 
+- Q032 | Marketing 4.0 e brand | Marketing 1.0 | repaired 
+- Q033 | Marketing 4.0 e brand | Marketing 2.0 | repaired 
+- Q034 | Marketing 4.0 e brand | Marketing 2.0 | repaired 
+- Q035 | Marketing 4.0 e brand | Marketing 3.0 | repaired 
+- Q036 | Marketing 4.0 e brand | Marketing 3.0 | repaired 
+- Q037 | Marketing 4.0 e brand | Marketing 4.0 | repaired 
+- Q038 | Marketing 4.0 e brand | Marketing 4.0 | repaired 
+- Q039 | Marketing 4.0 e brand | customer community confirmation | repaired 
+- Q040 | Marketing 4.0 e brand | customer community confirmation | repaired 
+- Q041 | Marketing 4.0 e brand | brand characters and codes | repaired 
+- Q042 | Marketing 4.0 e brand | brand characters and codes | repaired 
+- Q043 | Marketing 4.0 e brand | co-creation | repaired 
+- Q044 | Marketing 4.0 e brand | co-creation | repaired 
+- Q045 | Marketing 4.0 e brand | currency | repaired 
+- Q046 | Marketing 4.0 e brand | currency | repaired 
+- Q047 | Marketing 4.0 e brand | communal activation | repaired 
+- Q048 | Marketing 4.0 e brand | communal activation | repaired 
+- Q049 | Marketing 4.0 e brand | conversation | repaired 
+- Q050 | Marketing 4.0 e brand | conversation | repaired 
+- Q051 | Marketing 4.0 e brand | brand identity | repaired 
+- Q052 | Marketing 4.0 e brand | brand identity | repaired 
+- Q053 | Marketing 4.0 e brand | brand image | repaired 
+- Q054 | Marketing 4.0 e brand | brand image | repaired 
+- Q055 | Marketing 4.0 e brand | brand awareness | repaired 
+- Q056 | Marketing 4.0 e brand | brand awareness | repaired 
+- Q057 | Marketing 4.0 e brand | brand equity | repaired 
+- Q058 | Marketing 4.0 e brand | brand equity | repaired 
+- Q059 | Marketing 4.0 e brand | brand trust | repaired 
+- Q060 | Marketing 4.0 e brand | brand trust | repaired 
+- Q062 | Marketing 4.0 e brand | brand engagement | repaired 
+- Q063 | Marketing 4.0 e brand | brand advocacy | repaired 
+- Q064 | Marketing 4.0 e brand | brand advocacy | repaired 
+- Q065 | Ecosistema digitale | orientamento all'e-business | repaired 
+- Q066 | Ecosistema digitale | orientamento all'e-business | repaired 
+- Q068 | Ecosistema digitale | business model digitale | repaired 
+- Q069 | Ecosistema digitale | digital marketing tattico | repaired 
+- Q070 | Ecosistema digitale | digital marketing tattico | repaired 
+- Q071 | Ecosistema digitale | digital marketing strategico | repaired 
+- Q072 | Ecosistema digitale | digital marketing strategico | repaired 
+- Q073 | Ecosistema digitale | livello core business digitale | repaired 
+- Q074 | Ecosistema digitale | livello core business digitale | repaired 
+- Q075 | Ecosistema digitale | bricks and mortar | repaired 
+- Q076 | Ecosistema digitale | bricks and mortar | repaired 
+- Q077 | Ecosistema digitale | click and mortar | repaired 
+- Q078 | Ecosistema digitale | click and mortar | repaired 
+- Q079 | Ecosistema digitale | pure play | repaired 
+- Q080 | Ecosistema digitale | pure play | repaired 
+- Q081 | Ecosistema digitale | omnicanalità | repaired 
+- Q082 | Ecosistema digitale | omnicanalità | repaired 
+- Q083 | Ecosistema digitale | dato digitale | repaired 
+- Q084 | Ecosistema digitale | dato digitale | repaired 
+- Q085 | Ecosistema digitale | bit e byte | repaired 
+- Q086 | Ecosistema digitale | bit e byte | repaired 
+- Q087 | Ecosistema digitale | digitale vs analogico | repaired 
+- Q088 | Ecosistema digitale | digitale vs analogico | repaired 
+- Q089 | Ecosistema digitale | piattaforme digitali | repaired 
+- Q090 | Ecosistema digitale | piattaforme digitali | repaired 
+- Q091 | Ecosistema digitale | device digitali | repaired 
+- Q092 | Ecosistema digitale | device digitali | repaired 
+- Q093 | Ecosistema digitale | Internet | repaired 
+- Q094 | Ecosistema digitale | Internet | repaired 
+- Q095 | Ecosistema digitale | Web | repaired 
+- Q096 | Ecosistema digitale | Web | repaired 
+- Q097 | Ecosistema digitale | marketing digitale reticolare | repaired 
+- Q098 | Ecosistema digitale | marketing digitale reticolare | repaired 
+- Q099 | Ecosistema digitale | legge di Moore | repaired 
+- Q100 | Ecosistema digitale | legge di Moore | repaired 
+- Q101 | Ecosistema digitale | legge di Metcalfe | repaired 
+- Q102 | Ecosistema digitale | legge di Metcalfe | repaired 
+- Q103 | Ecosistema digitale | lock-in | repaired 
+- Q104 | Ecosistema digitale | lock-in | repaired 
+- Q105 | Ecosistema digitale | reach e richness | repaired 
+- Q106 | Ecosistema digitale | reach e richness | repaired 
+- Q107 | Ecosistema digitale | long tail | repaired 
+- Q108 | Ecosistema digitale | long tail | repaired 
+- Q109 | Ricerche di mercato online | ricerca web-enabled | repaired 
+- Q110 | Ricerche di mercato online | ricerca web-enabled | repaired 
+- Q111 | Ricerche di mercato online | ricerca web-centric | repaired 
+- Q112 | Ricerche di mercato online | ricerca web-centric | repaired 
+- Q113 | Ricerche di mercato online | dati secondari | repaired 
+- Q114 | Ricerche di mercato online | dati secondari | repaired 
+- Q115 | Ricerche di mercato online | dati primari | repaired 
+- Q116 | Ricerche di mercato online | dati primari | repaired 
+- Q117 | Ricerche di mercato online | e-mail survey | repaired 
+- Q118 | Ricerche di mercato online | e-mail survey | repaired 
+- Q119 | Ricerche di mercato online | web survey | repaired 
+- Q120 | Ricerche di mercato online | web survey | repaired 
+- Q121 | Ricerche di mercato online | domanda aperta | repaired 
+- Q122 | Ricerche di mercato online | domanda aperta | repaired 
+- Q123 | Ricerche di mercato online | domanda chiusa | repaired 
+- Q124 | Ricerche di mercato online | domanda chiusa | repaired 
+- Q125 | Ricerche di mercato online | domanda dicotomica | repaired 
+- Q126 | Ricerche di mercato online | domanda dicotomica | repaired 
+- Q127 | Ricerche di mercato online | domanda a risposta multipla | repaired 
+- Q128 | Ricerche di mercato online | domanda a risposta multipla | repaired 
+- Q129 | Ricerche di mercato online | scala Likert | repaired 
+- Q130 | Ricerche di mercato online | scala Likert | repaired 
+- Q131 | Ricerche di mercato online | domande filtro | repaired 
+- Q132 | Ricerche di mercato online | domande filtro | repaired 
+- Q133 | Ricerche di mercato online | sequenza del questionario | repaired 
+- Q134 | Ricerche di mercato online | sequenza del questionario | repaired 
+- Q135 | Ricerche di mercato online | pre-test del questionario | repaired 
+- Q136 | Ricerche di mercato online | pre-test del questionario | repaired 
+- Q137 | Ricerche di mercato online | rappresentatività del campione online | repaired 
+- Q138 | Ricerche di mercato online | rappresentatività del campione online | repaired 
+- Q139 | Ricerche di mercato online | validità della misurazione online | repaired 
+- Q140 | Ricerche di mercato online | validità della misurazione online | repaired 
+- Q142 | Customer journey | nuovo consumatore iperconnesso | repaired 
+- Q143 | Customer journey | prosumer | repaired 
+- Q144 | Customer journey | prosumer | repaired 
+- Q145 | Customer journey | customer journey | repaired 
+- Q146 | Customer journey | customer journey | repaired 
+- Q147 | Customer journey | touchpoint | repaired 
+- Q148 | Customer journey | touchpoint | repaired 
+- Q149 | Customer journey | funnel tradizionale | repaired 
+- Q150 | Customer journey | funnel tradizionale | repaired 
+- Q152 | Customer journey | consumer decision journey McKinsey | repaired 
+- Q153 | Customer journey | valutazione attiva | repaired 
+- Q154 | Customer journey | valutazione attiva | repaired 
+- Q156 | Customer journey | loyalty loop | repaired 
+- Q157 | Customer journey | esperienza post-acquisto | repaired 
+- Q158 | Customer journey | esperienza post-acquisto | repaired 
+- Q160 | Customer journey | ZMOT | repaired 
+- Q161 | Customer journey | FMOT | repaired 
+- Q162 | Customer journey | FMOT | repaired 
+- Q163 | Customer journey | SMOT | repaired 
+- Q164 | Customer journey | SMOT | repaired 
+- Q165 | Customer journey | touchpoint brand-owned | repaired 
+- Q166 | Customer journey | touchpoint brand-owned | repaired 
+- Q167 | Customer journey | touchpoint customer-owned | repaired 
+- Q168 | Customer journey | touchpoint customer-owned | repaired 
+- Q169 | Customer journey | customer journey map | repaired 
+- Q170 | Customer journey | customer journey map | repaired 
+- Q171 | Customer journey | scoping della journey map | repaired 
+- Q172 | Customer journey | scoping della journey map | repaired 
+- Q173 | Customer journey | buyer persona | repaired 
+- Q174 | Customer journey | buyer persona | repaired 
+- Q175 | Customer journey | disconfirmation paradigm | repaired 
+- Q176 | Customer journey | disconfirmation paradigm | repaired 
+- Q177 | Customer journey | customer delight | repaired 
+- Q178 | Customer journey | customer delight | repaired 
+- Q179 | Customer journey | customer engagement | repaired 
+- Q180 | Customer journey | customer engagement | repaired 
+- Q183 | Business model ed e-commerce | Business Model Canvas | repaired 
+- Q184 | Business model ed e-commerce | Business Model Canvas | repaired 
+- Q185 | Business model ed e-commerce | customer segments nel Business Model Canvas | repaired 
+- Q186 | Business model ed e-commerce | customer segments nel Business Model Canvas | repaired 
+- Q187 | Business model ed e-commerce | channels nel Business Model Canvas | repaired 
+- Q188 | Business model ed e-commerce | channels nel Business Model Canvas | repaired 
+- Q189 | Business model ed e-commerce | customer relationships nel Business Model Canvas | repaired 
+- Q190 | Business model ed e-commerce | customer relationships nel Business Model Canvas | repaired 
+- Q191 | Business model ed e-commerce | revenue model | repaired 
+- Q192 | Business model ed e-commerce | revenue model | repaired 
+- Q193 | Business model ed e-commerce | cost structure | repaired 
+- Q194 | Business model ed e-commerce | cost structure | repaired 
+- Q195 | Business model ed e-commerce | freemium | repaired 
+- Q196 | Business model ed e-commerce | freemium | repaired 
+- Q197 | Business model ed e-commerce | advertising based revenue | repaired 
+- Q198 | Business model ed e-commerce | advertising based revenue | repaired 
+- Q199 | Business model ed e-commerce | affiliation | repaired 
+- Q200 | Business model ed e-commerce | affiliation | repaired 
+- Q201 | Business model ed e-commerce | commission based model | repaired 
+- Q202 | Business model ed e-commerce | commission based model | repaired 
+- Q203 | Business model ed e-commerce | two-sided platform | repaired 
+- Q204 | Business model ed e-commerce | two-sided platform | repaired 
+- Q205 | Business model ed e-commerce | network effect | repaired 
+- Q206 | Business model ed e-commerce | network effect | repaired 
+- Q207 | Business model ed e-commerce | sharing economy | repaired 
+- Q208 | Business model ed e-commerce | sharing economy | repaired 
+- Q209 | Business model ed e-commerce | pure sharing | repaired 
+- Q210 | Business model ed e-commerce | pure sharing | repaired 
+- Q211 | Business model ed e-commerce | dual-mode sharing | repaired 
+- Q212 | Business model ed e-commerce | dual-mode sharing | repaired 
+- Q213 | Business model ed e-commerce | e-commerce | repaired 
+- Q214 | Business model ed e-commerce | e-commerce | repaired 
+- Q215 | Business model ed e-commerce | B2B e-commerce | repaired 
+- Q216 | Business model ed e-commerce | B2B e-commerce | repaired 
+- Q217 | Business model ed e-commerce | B2C e-commerce | repaired 
+- Q218 | Business model ed e-commerce | B2C e-commerce | repaired 
+- Q219 | Business model ed e-commerce | C2C e-commerce | repaired 
+- Q220 | Business model ed e-commerce | C2C e-commerce | repaired 
+- Q221 | Business model ed e-commerce | C2B e-commerce | repaired 
+- Q222 | Business model ed e-commerce | C2B e-commerce | repaired 
+- Q223 | Business model ed e-commerce | social commerce | repaired 
+- Q224 | Business model ed e-commerce | social commerce | repaired 
+- Q225 | Business model ed e-commerce | fiducia nell'e-commerce | repaired 
+- Q226 | Business model ed e-commerce | fiducia nell'e-commerce | repaired 
+- Q227 | Business model ed e-commerce | distanza fisica nell'e-commerce | repaired 
+- Q228 | Business model ed e-commerce | distanza fisica nell'e-commerce | repaired 
+- Q229 | Business model ed e-commerce | registrazione obbligatoria | repaired 
+- Q230 | Business model ed e-commerce | registrazione obbligatoria | repaired 
+- Q231 | Business model ed e-commerce | carrello e-commerce | repaired 
+- Q232 | Business model ed e-commerce | carrello e-commerce | repaired 
+- Q233 | Business model ed e-commerce | costo di acquisizione cliente | repaired 
+- Q234 | Business model ed e-commerce | costo di acquisizione cliente | repaired 
+- Q235 | Business model ed e-commerce | certificato digitale | repaired 
+- Q236 | Business model ed e-commerce | certificato digitale | repaired 
+- Q237 | Business model ed e-commerce | customer care online | repaired 
+- Q238 | Business model ed e-commerce | customer care online | repaired 
+- Q239 | Granato, search e operational | innovazione | repaired 
+- Q240 | Granato, search e operational | innovazione | repaired 
+- Q241 | Granato, search e operational | digitalizzazione | repaired 
+- Q242 | Granato, search e operational | digitalizzazione | repaired 
+- Q243 | Granato, search e operational | digitalizzazione dei processi | repaired 
+- Q244 | Granato, search e operational | digitalizzazione dei processi | repaired 
+- Q245 | Granato, search e operational | trasformazione digitale | repaired 
+- Q246 | Granato, search e operational | trasformazione digitale | repaired 
+- Q247 | Granato, search e operational | USP | repaired 
+- Q248 | Granato, search e operational | USP | repaired 
+- Q249 | Granato, search e operational | USP comunicativa | repaired 
+- Q250 | Granato, search e operational | USP comunicativa | repaired 
+- Q251 | Granato, search e operational | USP strutturale | repaired 
+- Q252 | Granato, search e operational | USP strutturale | repaired 
+- Q253 | Granato, search e operational | domanda latente | repaired 
+- Q254 | Granato, search e operational | domanda latente | repaired 
+- Q255 | Granato, search e operational | domanda consapevole | repaired 
+- Q256 | Granato, search e operational | domanda consapevole | repaired 
+- Q257 | Granato, search e operational | traffico qualificato | repaired 
+- Q258 | Granato, search e operational | traffico qualificato | repaired 
+- Q259 | Granato, search e operational | SEO | repaired 
+- Q260 | Granato, search e operational | SEO | repaired 
+- Q261 | Granato, search e operational | SEM e SEA | repaired 
+- Q262 | Granato, search e operational | SEM e SEA | repaired 
+- Q263 | Granato, search e operational | crawling | repaired 
+- Q264 | Granato, search e operational | crawling | repaired 
+- Q265 | Granato, search e operational | indexing | repaired 
+- Q266 | Granato, search e operational | indexing | repaired 
+- Q267 | Granato, search e operational | ranking | repaired 
+- Q268 | Granato, search e operational | ranking | repaired 
+- Q269 | Granato, search e operational | SEO on-page | repaired 
+- Q270 | Granato, search e operational | SEO on-page | repaired 
+- Q271 | Granato, search e operational | SEO off-page | repaired 
+- Q272 | Granato, search e operational | SEO off-page | repaired 
+- Q273 | Granato, search e operational | SEO tecnica | repaired 
+- Q274 | Granato, search e operational | SEO tecnica | repaired 
+- Q275 | Granato, search e operational | search intent | repaired 
+- Q276 | Granato, search e operational | search intent | repaired 
+- Q277 | Granato, search e operational | intento informazionale | repaired 
+- Q278 | Granato, search e operational | intento informazionale | repaired 
+- Q279 | Granato, search e operational | intento navigazionale | repaired 
+- Q280 | Granato, search e operational | intento navigazionale | repaired 
+- Q282 | Granato, search e operational | intento commerciale | repaired 
+- Q283 | Granato, search e operational | intento transazionale | repaired 
+- Q284 | Granato, search e operational | intento transazionale | repaired 
+- Q286 | Granato, search e operational | AI Overview | repaired 
+- Q287 | Granato, search e operational | GEO | repaired 
+- Q288 | Granato, search e operational | GEO | repaired A
+- Q289 | Granato, search e operational | keyword research | repaired 
+- Q290 | Granato, search e operational | keyword research | repaired 
+- Q291 | Granato, search e operational | keyword long-tail | repaired 
+- Q292 | Granato, search e operational | keyword long-tail | repaired 
+- Q293 | Granato, search e operational | volume di ricerca | repaired 
+- Q294 | Granato, search e operational | volume di ricerca | repaired 
+- Q295 | Granato, search e operational | autorità SEO | repaired 
+- Q296 | Granato, search e operational | autorità SEO | repaired 
+- Q297 | Granato, search e operational | backlink autorevoli | repaired 
+- Q298 | Granato, search e operational | backlink autorevoli | repaired 
+- Q299 | Granato, search e operational | digital advertising | repaired 
+- Q300 | Granato, search e operational | digital advertising | repaired 
+- Q301 | Granato, search e operational | search advertising | repaired 
+- Q302 | Granato, search e operational | search advertising | repaired 
+- Q303 | Granato, search e operational | display advertising | repaired 
+- Q304 | Granato, search e operational | display advertising | repaired 
+- Q305 | Granato, search e operational | video advertising in-stream | repaired 
+- Q306 | Granato, search e operational | video advertising in-stream | repaired 
+- Q307 | Granato, search e operational | OTT advertising | repaired 
+- Q308 | Granato, search e operational | OTT advertising | repaired 
+- Q309 | Granato, search e operational | CPC | repaired C
+- Q310 | Granato, search e operational | CPC | repaired 
+- Q311 | Granato, search e operational | CPM | repaired A, B, C, D
+- Q312 | Granato, search e operational | CPM | repaired 
+- Q313 | Granato, search e operational | ROAS | repaired B
+- Q314 | Granato, search e operational | ROAS | repaired 
+- Q315 | Granato, search e operational | ACOS | repaired D
+- Q316 | Granato, search e operational | ACOS | repaired 
+- Q318 | Granato, search e operational | digital analytics | repaired 
+- Q320 | Granato, search e operational | acquisizione in digital analytics | repaired 
+- Q321 | Granato, search e operational | frequenza di rimbalzo | repaired 
+- Q322 | Granato, search e operational | frequenza di rimbalzo | repaired 
+- Q323 | Granato, search e operational | acquisizione organica | repaired 
+- Q324 | Granato, search e operational | acquisizione organica | repaired 
+- Q325 | Granato, search e operational | obiettivo completato | repaired 
+- Q326 | Granato, search e operational | obiettivo completato | repaired 
+- Q327 | Granato, search e operational | email marketing | repaired 
+- Q328 | Granato, search e operational | email marketing | repaired 
+- Q329 | Granato, search e operational | newsletter | repaired 
+- Q330 | Granato, search e operational | newsletter | repaired 
+- Q331 | Granato, search e operational | email transazionale | repaired 
+- Q332 | Granato, search e operational | email transazionale | repaired 
+- Q334 | Granato, search e operational | email di remarketing | repaired 
+- Q335 | Granato, search e operational | oggetto della newsletter | repaired 
+- Q336 | Granato, search e operational | oggetto della newsletter | repaired 
+- Q337 | Granato, search e operational | personalizzazione email | repaired 
+- Q338 | Granato, search e operational | personalizzazione email | repaired 
+- Q339 | Granato, search e operational | automazione email | repaired 
+- Q340 | Granato, search e operational | automazione email | repaired 
+- Q342 | Granato, search e operational | content marketing | repaired 
+- Q343 | Granato, search e operational | content marketing pull | repaired 
+- Q344 | Granato, search e operational | content marketing pull | repaired 
+- Q345 | Granato, search e operational | piano editoriale | repaired 
+- Q346 | Granato, search e operational | piano editoriale | repaired 
+- Q347 | Granato, search e operational | modello AIDA | repaired 
+- Q348 | Granato, search e operational | modello AIDA | repaired 
+- Q349 | Granato, search e operational | modello PESO | repaired 
+- Q350 | Granato, search e operational | modello PESO | repaired 
+- Q351 | Granato, search e operational | contenuto Hero | repaired 
+- Q352 | Granato, search e operational | contenuto Hero | repaired 
+- Q353 | Granato, search e operational | contenuto Hub | repaired 
+- Q354 | Granato, search e operational | contenuto Hub | repaired 
+- Q355 | Granato, search e operational | contenuto Help | repaired 
+- Q356 | Granato, search e operational | contenuto Help | repaired 
+- Q357 | Fondamenti di marketing | marketing management | repaired 
+- Q358 | Fondamenti di marketing | bisogno | repaired 
+- Q359 | Fondamenti di marketing | desiderio | repaired 
+- Q360 | Fondamenti di marketing | offerta di marketing | repaired 
+- Q361 | Fondamenti di marketing | value proposition | repaired 
+- Q362 | Fondamenti di marketing | scambio di valore | repaired 
+- Q363 | Processo di marketing | fase analitica | repaired 
+- Q364 | Processo di marketing | fase strategica | repaired 
+- Q367 | Processo di marketing | SWOT analysis | repaired 
+- Q368 | STP e segmentazione | segmentazione | repaired 
+- Q369 | STP e segmentazione | targeting | repaired 
+- Q370 | STP e segmentazione | posizionamento | repaired 
+- Q371 | STP e segmentazione | mappa percettiva | repaired 
+- Q372 | Marketing 4.0 e brand | Marketing 1.0 | repaired 
+- Q373 | Marketing 4.0 e brand | Marketing 2.0 | repaired 
+- Q374 | Marketing 4.0 e brand | Marketing 3.0 | repaired 
+- Q375 | Marketing 4.0 e brand | Marketing 4.0 | repaired 
+- Q376 | Marketing 4.0 e brand | customer community confirmation | repaired 
+- Q377 | Marketing 4.0 e brand | brand characters and codes | repaired 
+- Q378 | Marketing 4.0 e brand | co-creation | repaired 
+- Q379 | Marketing 4.0 e brand | currency | repaired 
+- Q380 | Marketing 4.0 e brand | communal activation | repaired 
+- Q381 | Marketing 4.0 e brand | conversation | repaired 
+- Q382 | Marketing 4.0 e brand | brand identity | repaired 
+- Q383 | Marketing 4.0 e brand | brand image | repaired 
+- Q384 | Marketing 4.0 e brand | brand awareness | repaired 
+- Q385 | Marketing 4.0 e brand | brand equity | repaired 
+- Q386 | Marketing 4.0 e brand | brand trust | repaired 
+- Q387 | Marketing 4.0 e brand | brand engagement | repaired 
+- Q388 | Marketing 4.0 e brand | brand advocacy | repaired 
+- Q389 | Ecosistema digitale | orientamento all'e-business | repaired 
+- Q390 | Ecosistema digitale | business model digitale | repaired 
+- Q391 | Ecosistema digitale | digital marketing tattico | repaired 
+- Q392 | Ecosistema digitale | digital marketing strategico | repaired 
+- Q393 | Ecosistema digitale | livello core business digitale | repaired 
+- Q394 | Ecosistema digitale | bricks and mortar | repaired 
+- Q395 | Ecosistema digitale | click and mortar | repaired 
+- Q396 | Ecosistema digitale | pure play | repaired 
+- Q397 | Ecosistema digitale | omnicanalità | repaired 
+- Q398 | Ecosistema digitale | dato digitale | repaired 
+- Q399 | Ecosistema digitale | bit e byte | repaired 
+- Q400 | Ecosistema digitale | digitale vs analogico | repaired 
+- Q401 | Ecosistema digitale | piattaforme digitali | repaired 
+- Q402 | Ecosistema digitale | device digitali | repaired 
+- Q403 | Ecosistema digitale | Internet | repaired 
+- Q404 | Ecosistema digitale | Web | repaired 
+- Q405 | Ecosistema digitale | marketing digitale reticolare | repaired 
+- Q406 | Ecosistema digitale | legge di Moore | repaired 
+- Q407 | Ecosistema digitale | legge di Metcalfe | repaired 
+- Q408 | Ecosistema digitale | lock-in | repaired 
+- Q409 | Ecosistema digitale | reach e richness | repaired 
+- Q410 | Ecosistema digitale | long tail | repaired 
+- Q411 | Ricerche di mercato online | ricerca web-enabled | repaired 
+- Q412 | Ricerche di mercato online | ricerca web-centric | repaired 
+- Q413 | Ricerche di mercato online | dati secondari | repaired 
+- Q414 | Ricerche di mercato online | dati primari | repaired 
+- Q415 | Ricerche di mercato online | e-mail survey | repaired 
+- Q416 | Ricerche di mercato online | web survey | repaired 
+- Q417 | Ricerche di mercato online | domanda aperta | repaired 
+- Q418 | Ricerche di mercato online | domanda chiusa | repaired 
+- Q419 | Ricerche di mercato online | domanda dicotomica | repaired 
+- Q420 | Ricerche di mercato online | domanda a risposta multipla | repaired 
+- Q421 | Ricerche di mercato online | scala Likert | repaired 
+- Q422 | Ricerche di mercato online | domande filtro | repaired 
+- Q423 | Ricerche di mercato online | sequenza del questionario | repaired 
+- Q424 | Ricerche di mercato online | pre-test del questionario | repaired 
+- Q425 | Ricerche di mercato online | rappresentatività del campione online | repaired 
+- Q426 | Ricerche di mercato online | validità della misurazione online | repaired 
+- Q427 | Customer journey | nuovo consumatore iperconnesso | repaired 
+- Q428 | Customer journey | prosumer | repaired 
+- Q429 | Customer journey | customer journey | repaired 
+- Q430 | Customer journey | touchpoint | repaired 
+- Q431 | Customer journey | funnel tradizionale | repaired 
+- Q432 | Customer journey | consumer decision journey McKinsey | repaired 
+- Q434 | Customer journey | loyalty loop | repaired 
+- Q435 | Customer journey | esperienza post-acquisto | repaired 
+- Q436 | Customer journey | ZMOT | repaired 
+- Q437 | Customer journey | FMOT | repaired 
+- Q438 | Customer journey | SMOT | repaired 
+- Q439 | Customer journey | touchpoint brand-owned | repaired 
+- Q440 | Customer journey | touchpoint customer-owned | repaired 
+- Q441 | Customer journey | customer journey map | repaired 
+- Q442 | Customer journey | scoping della journey map | repaired 
+- Q443 | Customer journey | buyer persona | repaired 
+- Q444 | Customer journey | disconfirmation paradigm | repaired 
+- Q445 | Customer journey | customer delight | repaired 
+- Q446 | Customer journey | customer engagement | repaired 
+- Q447 | Business model ed e-commerce | business model | repaired 
+- Q448 | Business model ed e-commerce | Business Model Canvas | repaired 
+- Q449 | Business model ed e-commerce | customer segments nel Business Model Canvas | repaired 
+- Q450 | Business model ed e-commerce | channels nel Business Model Canvas | repaired 
+- Q451 | Business model ed e-commerce | customer relationships nel Business Model Canvas | repaired 
+- Q452 | Business model ed e-commerce | revenue model | repaired 
+- Q453 | Business model ed e-commerce | cost structure | repaired 
+- Q454 | Business model ed e-commerce | freemium | repaired 
+- Q455 | Business model ed e-commerce | advertising based revenue | repaired 
+- Q456 | Business model ed e-commerce | affiliation | repaired 
+- Q457 | Business model ed e-commerce | commission based model | repaired 
+- Q458 | Business model ed e-commerce | two-sided platform | repaired 
+- Q459 | Business model ed e-commerce | network effect | repaired 
+- Q461 | Business model ed e-commerce | pure sharing | repaired 
+- Q462 | Business model ed e-commerce | dual-mode sharing | repaired 
+- Q463 | Business model ed e-commerce | e-commerce | repaired 
+- Q464 | Business model ed e-commerce | B2B e-commerce | repaired 
+- Q465 | Business model ed e-commerce | B2C e-commerce | repaired 
+- Q466 | Business model ed e-commerce | C2C e-commerce | repaired 
+- Q467 | Business model ed e-commerce | C2B e-commerce | repaired 
+- Q468 | Business model ed e-commerce | social commerce | repaired 
+- Q469 | Business model ed e-commerce | fiducia nell'e-commerce | repaired 
+- Q470 | Business model ed e-commerce | distanza fisica nell'e-commerce | repaired 
+- Q472 | Business model ed e-commerce | carrello e-commerce | repaired 
+- Q473 | Business model ed e-commerce | costo di acquisizione cliente | repaired 
+- Q474 | Business model ed e-commerce | certificato digitale | repaired 
+- Q475 | Business model ed e-commerce | customer care online | repaired 
+- Q476 | Granato, search e operational | innovazione | repaired 
+- Q477 | Granato, search e operational | digitalizzazione | repaired 
+- Q478 | Granato, search e operational | digitalizzazione dei processi | repaired 
+- Q479 | Granato, search e operational | trasformazione digitale | repaired 
+- Q480 | Granato, search e operational | USP | repaired 
+- Q481 | Granato, search e operational | USP comunicativa | repaired 
+- Q482 | Granato, search e operational | USP strutturale | repaired 
+- Q483 | Granato, search e operational | domanda latente | repaired 
+- Q484 | Granato, search e operational | domanda consapevole | repaired 
+- Q485 | Granato, search e operational | traffico qualificato | repaired 
+- Q486 | Granato, search e operational | SEO | repaired 
+- Q487 | Granato, search e operational | SEM e SEA | repaired 
+- Q488 | Granato, search e operational | crawling | repaired 
+- Q489 | Granato, search e operational | indexing | repaired 
+- Q490 | Granato, search e operational | ranking | repaired 
+- Q491 | Granato, search e operational | SEO on-page | repaired 
+- Q492 | Granato, search e operational | SEO off-page | repaired 
+- Q493 | Granato, search e operational | SEO tecnica | repaired 
+- Q494 | Granato, search e operational | search intent | repaired 
+- Q495 | Granato, search e operational | intento informazionale | repaired 
+- Q496 | Granato, search e operational | intento navigazionale | repaired 
+- Q497 | Granato, search e operational | intento commerciale | repaired 
+- Q498 | Granato, search e operational | intento transazionale | repaired 
+- Q499 | Granato, search e operational | AI Overview | repaired 
+- Q500 | Granato, search e operational | GEO | repaired A

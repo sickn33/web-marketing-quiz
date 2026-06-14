@@ -80,6 +80,8 @@ for (const q of questions) {
         const rationale = q.rationales[letter];
         if (typeof rationale !== "string" || normalize(rationale).length < 18) {
           errors.push(`${prefix}: missing or weak rationale ${letter}`);
+        } else if (isWeakRationale(q, letter)) {
+          errors.push(`${prefix}: weak or tautological rationale ${letter}`);
         }
       }
     }
@@ -129,7 +131,31 @@ if (errors.length) {
 console.log(`Validated ${questions.length} questions with ${warnings.length} warnings and 0 errors.`);
 
 function normalize(value) {
-  return String(value).trim().toLowerCase().replace(/\s+/g, " ");
+  return String(value)
+    .trim()
+    .toLowerCase()
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .replace(/[^a-z0-9]+/g, " ")
+    .trim()
+    .replace(/\s+/g, " ");
+}
+
+function isWeakRationale(q, letter) {
+  const rationale = q.rationales?.[letter];
+  const option = q.options?.[letter];
+  const normalized = normalize(rationale);
+  const normalizedOption = normalize(option);
+  if (!normalized || !normalizedOption) return true;
+  if (normalized.length < 35) return true;
+  if (/^(supported by the source evidence|this option does not match the source evidence|correct answer|wrong answer)$/.test(normalized)) return true;
+  if (/mette il concetto\b.*\bin relazione con/.test(normalized)) return true;
+  const stripped = normalized
+    .replace(/^(perche|perche la risposta corretta e|la risposta corretta e|risposta corretta|corretto perche|non e corretto perche|questa opzione e corretta perche|questa opzione non e corretta perche)\s+/, "")
+    .trim();
+  if (stripped === normalizedOption) return true;
+  if (normalizedOption.length > 25 && normalized.includes(normalizedOption)) return true;
+  return normalized.includes(normalizedOption) && stripped.split(" ").length <= normalizedOption.split(" ").length + 4;
 }
 
 function countBy(items, keyFn) {

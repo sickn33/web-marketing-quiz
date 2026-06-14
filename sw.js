@@ -1,4 +1,4 @@
-const CACHE_NAME = "web-marketing-quiz-pwa-v1";
+const CACHE_NAME = "web-marketing-quiz-pwa-v2-rationales";
 const APP_SHELL = [
   "./",
   "./index.html",

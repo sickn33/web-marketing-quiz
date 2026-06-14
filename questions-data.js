@@ -1,5 +1,5 @@
 // Banco quiz per Web Marketing e Comunicazione Digitale.
-// Generato da build-questions.mjs e arricchito con domande curate da NotebookLM.
+// Generato da build-questions.mjs, arricchito con domande curate da NotebookLM e razionali revisionati.
 (() => {
   window.WEB_MARKETING_SPECIAL_QUIZZES = [
   {
@@ -60,6 +60,12 @@
       "B": "uno stato di privazione fisica o psicologica che può essere soddisfatto",
       "C": "la forma specifica che un bisogno assume in base a cultura, personalità e contesto",
       "D": "una combinazione di prodotti, servizi, informazioni o esperienze proposta al mercato"
+    },
+    "rationales": {
+      "A": "Marketing management è il concetto richiesto: nel corso serve a collegare analisi, strategia e leve operative orientate ai bisogni del mercato. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di bisogno, mentre la domanda richiede marketing management.",
+      "C": "Non è corretta perché descrive la definizione di desiderio, mentre la domanda richiede marketing management.",
+      "D": "Non è corretta perché descrive la definizione di offerta di marketing, mentre la domanda richiede marketing management."
     }
   },
   {
@@ -78,10 +84,10 @@
       "D": "materializza la value proposition in qualcosa che il cliente può valutare e acquistare"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di marketing management in relazione con \"serve a collegare analisi, strategia e leve operative orientate ai bisogni del mercato\".",
-      "B": "Non è la scelta migliore: \"è il punto di partenza su cui il marketing costruisce offerte e valore percepito\" descrive un concetto diverso dal concetto di marketing management.",
-      "C": "Non è la scelta migliore: \"trasforma un bisogno generale in una preferenza verso una soluzione concreta\" sposta l'attenzione su un aspetto diverso dal concetto di marketing management.",
-      "D": "Non è la scelta migliore: \"materializza la value proposition in qualcosa che il cliente può valutare e acquistare\" non identifica il ruolo specifico del concetto di marketing management in questa domanda."
+      "A": "È corretta perché interpreta marketing management a partire dalla sua definizione nel corso: il processo di pianificazione ed esecuzione di concezione, prezzo, promozione e distribuzione per creare scambi di valore. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di bisogno, mentre la domanda richiede marketing management.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di desiderio, mentre la domanda richiede marketing management.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di offerta di marketing, mentre la domanda richiede marketing management."
     }
   },
   {
@@ -98,6 +104,12 @@
       "B": "il processo di pianificazione ed esecuzione di concezione, prezzo, promozione e distribuzione per creare scambi di valore",
       "C": "la forma specifica che un bisogno assume in base a cultura, personalità e contesto",
       "D": "una combinazione di prodotti, servizi, informazioni o esperienze proposta al mercato"
+    },
+    "rationales": {
+      "A": "Bisogno è il concetto richiesto: nel corso è il punto di partenza su cui il marketing costruisce offerte e valore percepito. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di marketing management, mentre la domanda richiede bisogno.",
+      "C": "Non è corretta perché descrive la definizione di desiderio, mentre la domanda richiede bisogno.",
+      "D": "Non è corretta perché descrive la definizione di offerta di marketing, mentre la domanda richiede bisogno."
     }
   },
   {
@@ -116,10 +128,10 @@
       "D": "materializza la value proposition in qualcosa che il cliente può valutare e acquistare"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di bisogno in relazione con \"è il punto di partenza su cui il marketing costruisce offerte e valore percepito\".",
-      "B": "Non è la scelta migliore: \"serve a collegare analisi, strategia e leve operative orientate ai bisogni del mercato\" descrive un concetto diverso dal concetto di bisogno.",
-      "C": "Non è la scelta migliore: \"trasforma un bisogno generale in una preferenza verso una soluzione concreta\" sposta l'attenzione su un aspetto diverso dal concetto di bisogno.",
-      "D": "Non è la scelta migliore: \"materializza la value proposition in qualcosa che il cliente può valutare e acquistare\" non identifica il ruolo specifico del concetto di bisogno in questa domanda."
+      "A": "È corretta perché interpreta bisogno a partire dalla sua definizione nel corso: uno stato di privazione fisica o psicologica che può essere soddisfatto. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di marketing management, mentre la domanda richiede bisogno.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di desiderio, mentre la domanda richiede bisogno.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di offerta di marketing, mentre la domanda richiede bisogno."
     }
   },
   {
@@ -136,6 +148,12 @@
       "B": "uno stato di privazione fisica o psicologica che può essere soddisfatto",
       "C": "una combinazione di prodotti, servizi, informazioni o esperienze proposta al mercato",
       "D": "il processo di pianificazione ed esecuzione di concezione, prezzo, promozione e distribuzione per creare scambi di valore"
+    },
+    "rationales": {
+      "A": "Desiderio è il concetto richiesto: nel corso trasforma un bisogno generale in una preferenza verso una soluzione concreta. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di bisogno, mentre la domanda richiede desiderio.",
+      "C": "Non è corretta perché descrive la definizione di offerta di marketing, mentre la domanda richiede desiderio.",
+      "D": "Non è corretta perché descrive la definizione di marketing management, mentre la domanda richiede desiderio."
     }
   },
   {
@@ -154,10 +172,10 @@
       "D": "serve a collegare analisi, strategia e leve operative orientate ai bisogni del mercato"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di desiderio in relazione con \"trasforma un bisogno generale in una preferenza verso una soluzione concreta\".",
-      "B": "Non è la scelta migliore: \"è il punto di partenza su cui il marketing costruisce offerte e valore percepito\" descrive un concetto diverso dal concetto di desiderio.",
-      "C": "Non è la scelta migliore: \"materializza la value proposition in qualcosa che il cliente può valutare e acquistare\" sposta l'attenzione su un aspetto diverso dal concetto di desiderio.",
-      "D": "Non è la scelta migliore: \"serve a collegare analisi, strategia e leve operative orientate ai bisogni del mercato\" non identifica il ruolo specifico del concetto di desiderio in questa domanda."
+      "A": "È corretta perché interpreta desiderio a partire dalla sua definizione nel corso: la forma specifica che un bisogno assume in base a cultura, personalità e contesto. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di bisogno, mentre la domanda richiede desiderio.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di offerta di marketing, mentre la domanda richiede desiderio.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di marketing management, mentre la domanda richiede desiderio."
     }
   },
   {
@@ -174,6 +192,12 @@
       "B": "la forma specifica che un bisogno assume in base a cultura, personalità e contesto",
       "C": "l'insieme dei benefici promessi al cliente in cambio del valore che trasferisce all'impresa",
       "D": "uno stato di privazione fisica o psicologica che può essere soddisfatto"
+    },
+    "rationales": {
+      "A": "Offerta di marketing è il concetto richiesto: nel corso materializza la value proposition in qualcosa che il cliente può valutare e acquistare. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di desiderio, mentre la domanda richiede offerta di marketing.",
+      "C": "Non è corretta perché descrive la definizione di value proposition, mentre la domanda richiede offerta di marketing.",
+      "D": "Non è corretta perché descrive la definizione di bisogno, mentre la domanda richiede offerta di marketing."
     }
   },
   {
@@ -190,6 +214,12 @@
       "B": "trasforma un bisogno generale in una preferenza verso una soluzione concreta",
       "C": "spiega perché l'offerta dovrebbe essere rilevante per un segmento specifico",
       "D": "è il punto di partenza su cui il marketing costruisce offerte e valore percepito"
+    },
+    "rationales": {
+      "A": "È corretta perché interpreta offerta di marketing a partire dalla sua definizione nel corso: una combinazione di prodotti, servizi, informazioni o esperienze proposta al mercato. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di desiderio, mentre la domanda richiede offerta di marketing.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di value proposition, mentre la domanda richiede offerta di marketing.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di bisogno, mentre la domanda richiede offerta di marketing."
     }
   },
   {
@@ -207,6 +237,12 @@
       "B": "una combinazione di prodotti, servizi, informazioni o esperienze proposta al mercato",
       "C": "il processo attraverso cui valore viene trasferito tra venditore e acquirente",
       "D": "la forma specifica che un bisogno assume in base a cultura, personalità e contesto"
+    },
+    "rationales": {
+      "A": "Value proposition è il concetto richiesto: nel corso spiega perché l'offerta dovrebbe essere rilevante per un segmento specifico. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di offerta di marketing, mentre la domanda richiede value proposition.",
+      "C": "Non è corretta perché descrive la definizione di scambio di valore, mentre la domanda richiede value proposition.",
+      "D": "Non è corretta perché descrive la definizione di desiderio, mentre la domanda richiede value proposition."
     }
   },
   {
@@ -226,10 +262,10 @@
       "D": "trasforma un bisogno generale in una preferenza verso una soluzione concreta"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di value proposition in relazione con \"spiega perché l'offerta dovrebbe essere rilevante per un segmento specifico\".",
-      "B": "Non è la scelta migliore: \"materializza la value proposition in qualcosa che il cliente può valutare e acquistare\" descrive un concetto diverso dal concetto di value proposition.",
-      "C": "Non è la scelta migliore: \"è la logica che collega bisogni del cliente e obiettivi dell'organizzazione\" sposta l'attenzione su un aspetto diverso dal concetto di value proposition.",
-      "D": "Non è la scelta migliore: \"trasforma un bisogno generale in una preferenza verso una soluzione concreta\" non identifica il ruolo specifico del concetto di value proposition in questa domanda."
+      "A": "È corretta perché interpreta value proposition a partire dalla sua definizione nel corso: l'insieme dei benefici promessi al cliente in cambio del valore che trasferisce all'impresa. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di offerta di marketing, mentre la domanda richiede value proposition.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di scambio di valore, mentre la domanda richiede value proposition.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di desiderio, mentre la domanda richiede value proposition."
     }
   },
   {
@@ -246,6 +282,12 @@
       "B": "l'insieme dei benefici promessi al cliente in cambio del valore che trasferisce all'impresa",
       "C": "una combinazione di prodotti, servizi, informazioni o esperienze proposta al mercato",
       "D": "la forma specifica che un bisogno assume in base a cultura, personalità e contesto"
+    },
+    "rationales": {
+      "A": "Scambio di valore è il concetto richiesto: nel corso è la logica che collega bisogni del cliente e obiettivi dell'organizzazione. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di value proposition, mentre la domanda richiede scambio di valore.",
+      "C": "Non è corretta perché descrive la definizione di offerta di marketing, mentre la domanda richiede scambio di valore.",
+      "D": "Non è corretta perché descrive la definizione di desiderio, mentre la domanda richiede scambio di valore."
     }
   },
   {
@@ -264,10 +306,10 @@
       "D": "trasforma un bisogno generale in una preferenza verso una soluzione concreta"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di scambio di valore in relazione con \"è la logica che collega bisogni del cliente e obiettivi dell'organizzazione\".",
-      "B": "Non è la scelta migliore: \"spiega perché l'offerta dovrebbe essere rilevante per un segmento specifico\" descrive un concetto diverso dal concetto di scambio di valore.",
-      "C": "Non è la scelta migliore: \"materializza la value proposition in qualcosa che il cliente può valutare e acquistare\" sposta l'attenzione su un aspetto diverso dal concetto di scambio di valore.",
-      "D": "Non è la scelta migliore: \"trasforma un bisogno generale in una preferenza verso una soluzione concreta\" non identifica il ruolo specifico del concetto di scambio di valore in questa domanda."
+      "A": "È corretta perché interpreta scambio di valore a partire dalla sua definizione nel corso: il processo attraverso cui valore viene trasferito tra venditore e acquirente. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di value proposition, mentre la domanda richiede scambio di valore.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di offerta di marketing, mentre la domanda richiede scambio di valore.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di desiderio, mentre la domanda richiede scambio di valore."
     }
   },
   {
@@ -284,6 +326,12 @@
       "B": "la fase in cui si definiscono obiettivi, segmentazione, target e posizionamento",
       "C": "la fase in cui si lavora sulle leve del marketing mix per eseguire la strategia",
       "D": "il modello classico composto da prodotto, prezzo, distribuzione e promozione"
+    },
+    "rationales": {
+      "A": "Fase analitica è il concetto richiesto: nel corso riduce l'asimmetria informativa prima delle scelte strategiche. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di fase strategica, mentre la domanda richiede fase analitica.",
+      "C": "Non è corretta perché descrive la definizione di fase operativa, mentre la domanda richiede fase analitica.",
+      "D": "Non è corretta perché descrive la definizione di marketing mix 4P, mentre la domanda richiede fase analitica."
     }
   },
   {
@@ -300,6 +348,12 @@
       "B": "trasforma l'analisi in scelte di mercato e direzione competitiva",
       "C": "traduce posizionamento e obiettivi in prodotto, prezzo, distribuzione e promozione",
       "D": "organizza le leve controllabili con cui l'impresa porta valore al mercato"
+    },
+    "rationales": {
+      "A": "È corretta perché interpreta fase analitica a partire dalla sua definizione nel corso: la fase in cui si raccolgono e interpretano informazioni su ambiente, consumatori, concorrenza e impresa. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di fase strategica, mentre la domanda richiede fase analitica.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di fase operativa, mentre la domanda richiede fase analitica.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di marketing mix 4P, mentre la domanda richiede fase analitica."
     }
   },
   {
@@ -316,6 +370,12 @@
       "B": "la fase in cui si raccolgono e interpretano informazioni su ambiente, consumatori, concorrenza e impresa",
       "C": "la fase in cui si lavora sulle leve del marketing mix per eseguire la strategia",
       "D": "il modello classico composto da prodotto, prezzo, distribuzione e promozione"
+    },
+    "rationales": {
+      "A": "Fase strategica è il concetto richiesto: nel corso trasforma l'analisi in scelte di mercato e direzione competitiva. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di fase analitica, mentre la domanda richiede fase strategica.",
+      "C": "Non è corretta perché descrive la definizione di fase operativa, mentre la domanda richiede fase strategica.",
+      "D": "Non è corretta perché descrive la definizione di marketing mix 4P, mentre la domanda richiede fase strategica."
     }
   },
   {
@@ -332,6 +392,12 @@
       "B": "riduce l'asimmetria informativa prima delle scelte strategiche",
       "C": "traduce posizionamento e obiettivi in prodotto, prezzo, distribuzione e promozione",
       "D": "organizza le leve controllabili con cui l'impresa porta valore al mercato"
+    },
+    "rationales": {
+      "A": "È corretta perché interpreta fase strategica a partire dalla sua definizione nel corso: la fase in cui si definiscono obiettivi, segmentazione, target e posizionamento. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di fase analitica, mentre la domanda richiede fase strategica.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di fase operativa, mentre la domanda richiede fase strategica.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di marketing mix 4P, mentre la domanda richiede fase strategica."
     }
   },
   {
@@ -348,6 +414,12 @@
       "B": "la fase in cui si definiscono obiettivi, segmentazione, target e posizionamento",
       "C": "il modello classico composto da prodotto, prezzo, distribuzione e promozione",
       "D": "la fase in cui si raccolgono e interpretano informazioni su ambiente, consumatori, concorrenza e impresa"
+    },
+    "rationales": {
+      "A": "Fase operativa è il concetto richiesto: nel corso traduce posizionamento e obiettivi in prodotto, prezzo, distribuzione e promozione. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di fase strategica, mentre la domanda richiede fase operativa.",
+      "C": "Non è corretta perché descrive la definizione di marketing mix 4P, mentre la domanda richiede fase operativa.",
+      "D": "Non è corretta perché descrive la definizione di fase analitica, mentre la domanda richiede fase operativa."
     }
   },
   {
@@ -366,10 +438,10 @@
       "D": "riduce l'asimmetria informativa prima delle scelte strategiche"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di fase operativa in relazione con \"traduce posizionamento e obiettivi in prodotto, prezzo, distribuzione e promozione\".",
-      "B": "Non è la scelta migliore: \"trasforma l'analisi in scelte di mercato e direzione competitiva\" descrive un concetto diverso dal concetto di fase operativa.",
-      "C": "Non è la scelta migliore: \"organizza le leve controllabili con cui l'impresa porta valore al mercato\" sposta l'attenzione su un aspetto diverso dal concetto di fase operativa.",
-      "D": "Non è la scelta migliore: \"riduce l'asimmetria informativa prima delle scelte strategiche\" non identifica il ruolo specifico del concetto di fase operativa in questa domanda."
+      "A": "È corretta perché interpreta fase operativa a partire dalla sua definizione nel corso: la fase in cui si lavora sulle leve del marketing mix per eseguire la strategia. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di fase strategica, mentre la domanda richiede fase operativa.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di marketing mix 4P, mentre la domanda richiede fase operativa.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di fase analitica, mentre la domanda richiede fase operativa."
     }
   },
   {
@@ -386,6 +458,12 @@
       "B": "la fase in cui si lavora sulle leve del marketing mix per eseguire la strategia",
       "C": "uno schema che mette in relazione punti di forza e debolezza interni con opportunità e minacce esterne",
       "D": "la fase in cui si definiscono obiettivi, segmentazione, target e posizionamento"
+    },
+    "rationales": {
+      "A": "Marketing mix 4P è il concetto richiesto: nel corso organizza le leve controllabili con cui l'impresa porta valore al mercato. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di fase operativa, mentre la domanda richiede marketing mix 4P.",
+      "C": "Non è corretta perché descrive la definizione di SWOT analysis, mentre la domanda richiede marketing mix 4P.",
+      "D": "Non è corretta perché descrive la definizione di fase strategica, mentre la domanda richiede marketing mix 4P."
     }
   },
   {
@@ -404,10 +482,10 @@
       "D": "trasforma l'analisi in scelte di mercato e direzione competitiva"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di marketing mix 4P in relazione con \"organizza le leve controllabili con cui l'impresa porta valore al mercato\".",
-      "B": "Non è la scelta migliore: \"traduce posizionamento e obiettivi in prodotto, prezzo, distribuzione e promozione\" descrive un concetto diverso dal concetto di marketing mix 4P.",
-      "C": "Non è la scelta migliore: \"aiuta a collegare analisi interna e ambiente competitivo\" sposta l'attenzione su un aspetto diverso dal concetto di marketing mix 4P.",
-      "D": "Non è la scelta migliore: \"trasforma l'analisi in scelte di mercato e direzione competitiva\" non identifica il ruolo specifico del concetto di marketing mix 4P in questa domanda."
+      "A": "È corretta perché interpreta marketing mix 4P a partire dalla sua definizione nel corso: il modello classico composto da prodotto, prezzo, distribuzione e promozione. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di fase operativa, mentre la domanda richiede marketing mix 4P.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di SWOT analysis, mentre la domanda richiede marketing mix 4P.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di fase strategica, mentre la domanda richiede marketing mix 4P."
     }
   },
   {
@@ -424,6 +502,12 @@
       "B": "il modello classico composto da prodotto, prezzo, distribuzione e promozione",
       "C": "la fase in cui si lavora sulle leve del marketing mix per eseguire la strategia",
       "D": "la fase in cui si definiscono obiettivi, segmentazione, target e posizionamento"
+    },
+    "rationales": {
+      "A": "SWOT analysis è il concetto richiesto: nel corso aiuta a collegare analisi interna e ambiente competitivo. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di marketing mix 4P, mentre la domanda richiede SWOT analysis.",
+      "C": "Non è corretta perché descrive la definizione di fase operativa, mentre la domanda richiede SWOT analysis.",
+      "D": "Non è corretta perché descrive la definizione di fase strategica, mentre la domanda richiede SWOT analysis."
     }
   },
   {
@@ -442,10 +526,10 @@
       "D": "trasforma l'analisi in scelte di mercato e direzione competitiva"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di SWOT analysis in relazione con \"aiuta a collegare analisi interna e ambiente competitivo\".",
-      "B": "Non è la scelta migliore: \"organizza le leve controllabili con cui l'impresa porta valore al mercato\" descrive un concetto diverso dal concetto di SWOT analysis.",
-      "C": "Non è la scelta migliore: \"traduce posizionamento e obiettivi in prodotto, prezzo, distribuzione e promozione\" sposta l'attenzione su un aspetto diverso dal concetto di SWOT analysis.",
-      "D": "Non è la scelta migliore: \"trasforma l'analisi in scelte di mercato e direzione competitiva\" non identifica il ruolo specifico del concetto di SWOT analysis in questa domanda."
+      "A": "È corretta perché interpreta SWOT analysis a partire dalla sua definizione nel corso: uno schema che mette in relazione punti di forza e debolezza interni con opportunità e minacce esterne. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di marketing mix 4P, mentre la domanda richiede SWOT analysis.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di fase operativa, mentre la domanda richiede SWOT analysis.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di fase strategica, mentre la domanda richiede SWOT analysis."
     }
   },
   {
@@ -462,6 +546,12 @@
       "B": "la valutazione e selezione dei segmenti che l'impresa decide di servire",
       "C": "la strategia con cui il brand occupa una posizione distintiva nella mente del pubblico rispetto ai concorrenti",
       "D": "uno strumento che rappresenta la percezione delle marche rispetto a dimensioni rilevanti per il consumatore"
+    },
+    "rationales": {
+      "A": "Segmentazione è il concetto richiesto: nel corso permette di non trattare tutto il pubblico come una massa indifferenziata. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di targeting, mentre la domanda richiede segmentazione.",
+      "C": "Non è corretta perché descrive la definizione di posizionamento, mentre la domanda richiede segmentazione.",
+      "D": "Non è corretta perché descrive la definizione di mappa percettiva, mentre la domanda richiede segmentazione."
     }
   },
   {
@@ -478,6 +568,12 @@
       "B": "concentra risorse e offerta sui gruppi più coerenti con obiettivi e capacità aziendali",
       "C": "orienta la percezione del valore e differenzia l'offerta",
       "D": "supporta le scelte di posizionamento visualizzando vicinanze e differenze competitive"
+    },
+    "rationales": {
+      "A": "È corretta perché interpreta segmentazione a partire dalla sua definizione nel corso: la suddivisione del mercato in gruppi omogenei internamente e distinguibili tra loro. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di targeting, mentre la domanda richiede segmentazione.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di posizionamento, mentre la domanda richiede segmentazione.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di mappa percettiva, mentre la domanda richiede segmentazione."
     }
   },
   {
@@ -494,6 +590,12 @@
       "B": "la suddivisione del mercato in gruppi omogenei internamente e distinguibili tra loro",
       "C": "la strategia con cui il brand occupa una posizione distintiva nella mente del pubblico rispetto ai concorrenti",
       "D": "uno strumento che rappresenta la percezione delle marche rispetto a dimensioni rilevanti per il consumatore"
+    },
+    "rationales": {
+      "A": "Targeting è il concetto richiesto: nel corso concentra risorse e offerta sui gruppi più coerenti con obiettivi e capacità aziendali. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di segmentazione, mentre la domanda richiede targeting.",
+      "C": "Non è corretta perché descrive la definizione di posizionamento, mentre la domanda richiede targeting.",
+      "D": "Non è corretta perché descrive la definizione di mappa percettiva, mentre la domanda richiede targeting."
     }
   },
   {
@@ -512,10 +614,10 @@
       "D": "supporta le scelte di posizionamento visualizzando vicinanze e differenze competitive"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di targeting in relazione con \"concentra risorse e offerta sui gruppi più coerenti con obiettivi e capacità aziendali\".",
-      "B": "Non è la scelta migliore: \"permette di non trattare tutto il pubblico come una massa indifferenziata\" descrive un concetto diverso dal concetto di targeting.",
-      "C": "Non è la scelta migliore: \"orienta la percezione del valore e differenzia l'offerta\" sposta l'attenzione su un aspetto diverso dal concetto di targeting.",
-      "D": "Non è la scelta migliore: \"supporta le scelte di posizionamento visualizzando vicinanze e differenze competitive\" non identifica il ruolo specifico del concetto di targeting in questa domanda."
+      "A": "È corretta perché interpreta targeting a partire dalla sua definizione nel corso: la valutazione e selezione dei segmenti che l'impresa decide di servire. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di segmentazione, mentre la domanda richiede targeting.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di posizionamento, mentre la domanda richiede targeting.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di mappa percettiva, mentre la domanda richiede targeting."
     }
   },
   {
@@ -532,6 +634,12 @@
       "B": "la valutazione e selezione dei segmenti che l'impresa decide di servire",
       "C": "uno strumento che rappresenta la percezione delle marche rispetto a dimensioni rilevanti per il consumatore",
       "D": "la suddivisione del mercato in gruppi omogenei internamente e distinguibili tra loro"
+    },
+    "rationales": {
+      "A": "Posizionamento è il concetto richiesto: nel corso orienta la percezione del valore e differenzia l'offerta. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di targeting, mentre la domanda richiede posizionamento.",
+      "C": "Non è corretta perché descrive la definizione di mappa percettiva, mentre la domanda richiede posizionamento.",
+      "D": "Non è corretta perché descrive la definizione di segmentazione, mentre la domanda richiede posizionamento."
     }
   },
   {
@@ -550,10 +658,10 @@
       "D": "permette di non trattare tutto il pubblico come una massa indifferenziata"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di posizionamento in relazione con \"orienta la percezione del valore e differenzia l'offerta\".",
-      "B": "Non è la scelta migliore: \"concentra risorse e offerta sui gruppi più coerenti con obiettivi e capacità aziendali\" descrive un concetto diverso dal concetto di posizionamento.",
-      "C": "Non è la scelta migliore: \"supporta le scelte di posizionamento visualizzando vicinanze e differenze competitive\" sposta l'attenzione su un aspetto diverso dal concetto di posizionamento.",
-      "D": "Non è la scelta migliore: \"permette di non trattare tutto il pubblico come una massa indifferenziata\" non identifica il ruolo specifico del concetto di posizionamento in questa domanda."
+      "A": "È corretta perché interpreta posizionamento a partire dalla sua definizione nel corso: la strategia con cui il brand occupa una posizione distintiva nella mente del pubblico rispetto ai concorrenti. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di targeting, mentre la domanda richiede posizionamento.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di mappa percettiva, mentre la domanda richiede posizionamento.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di segmentazione, mentre la domanda richiede posizionamento."
     }
   },
   {
@@ -570,6 +678,12 @@
       "B": "la strategia con cui il brand occupa una posizione distintiva nella mente del pubblico rispetto ai concorrenti",
       "C": "la valutazione e selezione dei segmenti che l'impresa decide di servire",
       "D": "la suddivisione del mercato in gruppi omogenei internamente e distinguibili tra loro"
+    },
+    "rationales": {
+      "A": "Mappa percettiva è il concetto richiesto: nel corso supporta le scelte di posizionamento visualizzando vicinanze e differenze competitive. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di posizionamento, mentre la domanda richiede mappa percettiva.",
+      "C": "Non è corretta perché descrive la definizione di targeting, mentre la domanda richiede mappa percettiva.",
+      "D": "Non è corretta perché descrive la definizione di segmentazione, mentre la domanda richiede mappa percettiva."
     }
   },
   {
@@ -586,6 +700,12 @@
       "B": "orienta la percezione del valore e differenzia l'offerta",
       "C": "concentra risorse e offerta sui gruppi più coerenti con obiettivi e capacità aziendali",
       "D": "permette di non trattare tutto il pubblico come una massa indifferenziata"
+    },
+    "rationales": {
+      "A": "È corretta perché interpreta mappa percettiva a partire dalla sua definizione nel corso: uno strumento che rappresenta la percezione delle marche rispetto a dimensioni rilevanti per il consumatore. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di posizionamento, mentre la domanda richiede mappa percettiva.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di targeting, mentre la domanda richiede mappa percettiva.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di segmentazione, mentre la domanda richiede mappa percettiva."
     }
   },
   {
@@ -602,6 +722,12 @@
       "B": "un orientamento customer-centric che cerca di comprendere e soddisfare meglio il cliente",
       "C": "un orientamento human-centric legato ai valori, allo spirito umano e alle cause sociali",
       "D": "l'approccio che integra tradizionale e digitale, online e offline, M2M e H2H"
+    },
+    "rationales": {
+      "A": "Marketing 1.0 è il concetto richiesto: nel corso rappresenta la fase in cui il mercato viene trattato in modo poco differenziato. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di Marketing 2.0, mentre la domanda richiede Marketing 1.0.",
+      "C": "Non è corretta perché descrive la definizione di Marketing 3.0, mentre la domanda richiede Marketing 1.0.",
+      "D": "Non è corretta perché descrive la definizione di Marketing 4.0, mentre la domanda richiede Marketing 1.0."
     }
   },
   {
@@ -618,6 +744,12 @@
       "B": "sposta l'attenzione dal prodotto indifferenziato ai bisogni dei consumatori",
       "C": "porta il brand oltre la sola soddisfazione funzionale del cliente",
       "D": "rafforza engagement e advocacy bilanciando tecnologia e relazione umana"
+    },
+    "rationales": {
+      "A": "È corretta perché interpreta Marketing 1.0 a partire dalla sua definizione nel corso: un orientamento product-driven centrato sul prodotto e sulla vendita. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di Marketing 2.0, mentre la domanda richiede Marketing 1.0.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di Marketing 3.0, mentre la domanda richiede Marketing 1.0.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di Marketing 4.0, mentre la domanda richiede Marketing 1.0."
     }
   },
   {
@@ -634,6 +766,12 @@
       "B": "un orientamento product-driven centrato sul prodotto e sulla vendita",
       "C": "un orientamento human-centric legato ai valori, allo spirito umano e alle cause sociali",
       "D": "l'approccio che integra tradizionale e digitale, online e offline, M2M e H2H"
+    },
+    "rationales": {
+      "A": "Marketing 2.0 è il concetto richiesto: nel corso sposta l'attenzione dal prodotto indifferenziato ai bisogni dei consumatori. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di Marketing 1.0, mentre la domanda richiede Marketing 2.0.",
+      "C": "Non è corretta perché descrive la definizione di Marketing 3.0, mentre la domanda richiede Marketing 2.0.",
+      "D": "Non è corretta perché descrive la definizione di Marketing 4.0, mentre la domanda richiede Marketing 2.0."
     }
   },
   {
@@ -652,10 +790,10 @@
       "D": "rafforza engagement e advocacy bilanciando tecnologia e relazione umana"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di Marketing 2.0 in relazione con \"sposta l'attenzione dal prodotto indifferenziato ai bisogni dei consumatori\".",
-      "B": "Non è la scelta migliore: \"rappresenta la fase in cui il mercato viene trattato in modo poco differenziato\" descrive un concetto diverso dal concetto di Marketing 2.0.",
-      "C": "Non è la scelta migliore: \"porta il brand oltre la sola soddisfazione funzionale del cliente\" sposta l'attenzione su un aspetto diverso dal concetto di Marketing 2.0.",
-      "D": "Non è la scelta migliore: \"rafforza engagement e advocacy bilanciando tecnologia e relazione umana\" non identifica il ruolo specifico del concetto di Marketing 2.0 in questa domanda."
+      "A": "È corretta perché interpreta Marketing 2.0 a partire dalla sua definizione nel corso: un orientamento customer-centric che cerca di comprendere e soddisfare meglio il cliente. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di Marketing 1.0, mentre la domanda richiede Marketing 2.0.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di Marketing 3.0, mentre la domanda richiede Marketing 2.0.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di Marketing 4.0, mentre la domanda richiede Marketing 2.0."
     }
   },
   {
@@ -672,6 +810,12 @@
       "B": "un orientamento customer-centric che cerca di comprendere e soddisfare meglio il cliente",
       "C": "l'approccio che integra tradizionale e digitale, online e offline, M2M e H2H",
       "D": "un orientamento product-driven centrato sul prodotto e sulla vendita"
+    },
+    "rationales": {
+      "A": "Marketing 3.0 è il concetto richiesto: nel corso porta il brand oltre la sola soddisfazione funzionale del cliente. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di Marketing 2.0, mentre la domanda richiede Marketing 3.0.",
+      "C": "Non è corretta perché descrive la definizione di Marketing 4.0, mentre la domanda richiede Marketing 3.0.",
+      "D": "Non è corretta perché descrive la definizione di Marketing 1.0, mentre la domanda richiede Marketing 3.0."
     }
   },
   {
@@ -690,10 +834,10 @@
       "D": "rappresenta la fase in cui il mercato viene trattato in modo poco differenziato"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di Marketing 3.0 in relazione con \"porta il brand oltre la sola soddisfazione funzionale del cliente\".",
-      "B": "Non è la scelta migliore: \"sposta l'attenzione dal prodotto indifferenziato ai bisogni dei consumatori\" descrive un concetto diverso dal concetto di Marketing 3.0.",
-      "C": "Non è la scelta migliore: \"rafforza engagement e advocacy bilanciando tecnologia e relazione umana\" sposta l'attenzione su un aspetto diverso dal concetto di Marketing 3.0.",
-      "D": "Non è la scelta migliore: \"rappresenta la fase in cui il mercato viene trattato in modo poco differenziato\" non identifica il ruolo specifico del concetto di Marketing 3.0 in questa domanda."
+      "A": "È corretta perché interpreta Marketing 3.0 a partire dalla sua definizione nel corso: un orientamento human-centric legato ai valori, allo spirito umano e alle cause sociali. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di Marketing 2.0, mentre la domanda richiede Marketing 3.0.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di Marketing 4.0, mentre la domanda richiede Marketing 3.0.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di Marketing 1.0, mentre la domanda richiede Marketing 3.0."
     }
   },
   {
@@ -711,6 +855,12 @@
       "B": "un orientamento human-centric legato ai valori, allo spirito umano e alle cause sociali",
       "C": "il passaggio da segmenti decisi unilateralmente dall'azienda a comunità di clienti connesse e riconosciute",
       "D": "un orientamento customer-centric che cerca di comprendere e soddisfare meglio il cliente"
+    },
+    "rationales": {
+      "A": "Marketing 4.0 è il concetto richiesto: nel corso rafforza engagement e advocacy bilanciando tecnologia e relazione umana. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di Marketing 3.0, mentre la domanda richiede Marketing 4.0.",
+      "C": "Non è corretta perché descrive la definizione di customer community confirmation, mentre la domanda richiede Marketing 4.0.",
+      "D": "Non è corretta perché descrive la definizione di Marketing 2.0, mentre la domanda richiede Marketing 4.0."
     }
   },
   {
@@ -730,10 +880,10 @@
       "D": "sposta l'attenzione dal prodotto indifferenziato ai bisogni dei consumatori"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di Marketing 4.0 in relazione con \"rafforza engagement e advocacy bilanciando tecnologia e relazione umana\".",
-      "B": "Non è la scelta migliore: \"porta il brand oltre la sola soddisfazione funzionale del cliente\" descrive un concetto diverso dal concetto di Marketing 4.0.",
-      "C": "Non è la scelta migliore: \"rende più orizzontale e partecipata la relazione tra brand e mercato\" sposta l'attenzione su un aspetto diverso dal concetto di Marketing 4.0.",
-      "D": "Non è la scelta migliore: \"sposta l'attenzione dal prodotto indifferenziato ai bisogni dei consumatori\" non identifica il ruolo specifico del concetto di Marketing 4.0 in questa domanda."
+      "A": "È corretta perché interpreta Marketing 4.0 a partire dalla sua definizione nel corso: l'approccio che integra tradizionale e digitale, online e offline, M2M e H2H. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di Marketing 3.0, mentre la domanda richiede Marketing 4.0.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di customer community confirmation, mentre la domanda richiede Marketing 4.0.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di Marketing 2.0, mentre la domanda richiede Marketing 4.0."
     }
   },
   {
@@ -751,6 +901,12 @@
       "B": "l'approccio che integra tradizionale e digitale, online e offline, M2M e H2H",
       "C": "il passaggio dal solo positioning a carattere e codici riconoscibili del brand",
       "D": "un orientamento human-centric legato ai valori, allo spirito umano e alle cause sociali"
+    },
+    "rationales": {
+      "A": "Customer community confirmation è il concetto richiesto: nel corso rende più orizzontale e partecipata la relazione tra brand e mercato. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di Marketing 4.0, mentre la domanda richiede customer community confirmation.",
+      "C": "Non è corretta perché descrive la definizione di brand characters and codes, mentre la domanda richiede customer community confirmation.",
+      "D": "Non è corretta perché descrive la definizione di Marketing 3.0, mentre la domanda richiede customer community confirmation."
     }
   },
   {
@@ -768,6 +924,12 @@
       "B": "rafforza engagement e advocacy bilanciando tecnologia e relazione umana",
       "C": "mantiene coerenza identitaria anche quando linguaggi e touchpoint cambiano",
       "D": "porta il brand oltre la sola soddisfazione funzionale del cliente"
+    },
+    "rationales": {
+      "A": "È corretta perché interpreta customer community confirmation a partire dalla sua definizione nel corso: il passaggio da segmenti decisi unilateralmente dall'azienda a comunità di clienti connesse e riconosciute. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di Marketing 4.0, mentre la domanda richiede customer community confirmation.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di brand characters and codes, mentre la domanda richiede customer community confirmation.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di Marketing 3.0, mentre la domanda richiede customer community confirmation."
     }
   },
   {
@@ -784,6 +946,12 @@
       "B": "il passaggio da segmenti decisi unilateralmente dall'azienda a comunità di clienti connesse e riconosciute",
       "C": "il coinvolgimento dei clienti nello sviluppo o nel miglioramento dell'offerta",
       "D": "l'approccio che integra tradizionale e digitale, online e offline, M2M e H2H"
+    },
+    "rationales": {
+      "A": "Brand characters and codes è il concetto richiesto: nel corso mantiene coerenza identitaria anche quando linguaggi e touchpoint cambiano. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di customer community confirmation, mentre la domanda richiede brand characters and codes.",
+      "C": "Non è corretta perché descrive la definizione di co-creation, mentre la domanda richiede brand characters and codes.",
+      "D": "Non è corretta perché descrive la definizione di Marketing 4.0, mentre la domanda richiede brand characters and codes."
     }
   },
   {
@@ -802,10 +970,10 @@
       "D": "rafforza engagement e advocacy bilanciando tecnologia e relazione umana"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di brand characters and codes in relazione con \"mantiene coerenza identitaria anche quando linguaggi e touchpoint cambiano\".",
-      "B": "Non è la scelta migliore: \"rende più orizzontale e partecipata la relazione tra brand e mercato\" descrive un concetto diverso dal concetto di brand characters and codes.",
-      "C": "Non è la scelta migliore: \"trasforma il cliente da destinatario passivo a parte attiva della creazione di valore\" sposta l'attenzione su un aspetto diverso dal concetto di brand characters and codes.",
-      "D": "Non è la scelta migliore: \"rafforza engagement e advocacy bilanciando tecnologia e relazione umana\" non identifica il ruolo specifico del concetto di brand characters and codes in questa domanda."
+      "A": "È corretta perché interpreta brand characters and codes a partire dalla sua definizione nel corso: il passaggio dal solo positioning a carattere e codici riconoscibili del brand. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di customer community confirmation, mentre la domanda richiede brand characters and codes.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di co-creation, mentre la domanda richiede brand characters and codes.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di Marketing 4.0, mentre la domanda richiede brand characters and codes."
     }
   },
   {
@@ -823,6 +991,12 @@
       "B": "il passaggio dal solo positioning a carattere e codici riconoscibili del brand",
       "C": "la logica di prezzo dinamico che varia in relazione a domanda, dati e contesto",
       "D": "il passaggio da segmenti decisi unilateralmente dall'azienda a comunità di clienti connesse e riconosciute"
+    },
+    "rationales": {
+      "A": "Co-creation è il concetto richiesto: nel corso trasforma il cliente da destinatario passivo a parte attiva della creazione di valore. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di brand characters and codes, mentre la domanda richiede co-creation.",
+      "C": "Non è corretta perché descrive la definizione di currency, mentre la domanda richiede co-creation.",
+      "D": "Non è corretta perché descrive la definizione di customer community confirmation, mentre la domanda richiede co-creation."
     }
   },
   {
@@ -842,10 +1016,10 @@
       "D": "rende più orizzontale e partecipata la relazione tra brand e mercato"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di co-creation in relazione con \"trasforma il cliente da destinatario passivo a parte attiva della creazione di valore\".",
-      "B": "Non è la scelta migliore: \"mantiene coerenza identitaria anche quando linguaggi e touchpoint cambiano\" descrive un concetto diverso dal concetto di co-creation.",
-      "C": "Non è la scelta migliore: \"sostituisce l'idea di prezzo fisso come unica leva del marketing mix digitale\" sposta l'attenzione su un aspetto diverso dal concetto di co-creation.",
-      "D": "Non è la scelta migliore: \"rende più orizzontale e partecipata la relazione tra brand e mercato\" non identifica il ruolo specifico del concetto di co-creation in questa domanda."
+      "A": "È corretta perché interpreta co-creation a partire dalla sua definizione nel corso: il coinvolgimento dei clienti nello sviluppo o nel miglioramento dell'offerta. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di brand characters and codes, mentre la domanda richiede co-creation.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di currency, mentre la domanda richiede co-creation.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di customer community confirmation, mentre la domanda richiede co-creation."
     }
   },
   {
@@ -863,6 +1037,12 @@
       "B": "il coinvolgimento dei clienti nello sviluppo o nel miglioramento dell'offerta",
       "C": "l'attivazione di comunità e canali peer-to-peer per distribuire e far circolare valore",
       "D": "il passaggio dal solo positioning a carattere e codici riconoscibili del brand"
+    },
+    "rationales": {
+      "A": "Currency è il concetto richiesto: nel corso sostituisce l'idea di prezzo fisso come unica leva del marketing mix digitale. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di co-creation, mentre la domanda richiede currency.",
+      "C": "Non è corretta perché descrive la definizione di communal activation, mentre la domanda richiede currency.",
+      "D": "Non è corretta perché descrive la definizione di brand characters and codes, mentre la domanda richiede currency."
     }
   },
   {
@@ -880,6 +1060,12 @@
       "B": "trasforma il cliente da destinatario passivo a parte attiva della creazione di valore",
       "C": "spiega perché nel digitale la distribuzione passa anche da reti e prossimità sociale",
       "D": "mantiene coerenza identitaria anche quando linguaggi e touchpoint cambiano"
+    },
+    "rationales": {
+      "A": "È corretta perché interpreta currency a partire dalla sua definizione nel corso: la logica di prezzo dinamico che varia in relazione a domanda, dati e contesto. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di co-creation, mentre la domanda richiede currency.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di communal activation, mentre la domanda richiede currency.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di brand characters and codes, mentre la domanda richiede currency."
     }
   },
   {
@@ -897,6 +1083,12 @@
       "B": "la logica di prezzo dinamico che varia in relazione a domanda, dati e contesto",
       "C": "il passaggio da promozione come monologo del brand a dialogo continuo con i clienti",
       "D": "il coinvolgimento dei clienti nello sviluppo o nel miglioramento dell'offerta"
+    },
+    "rationales": {
+      "A": "Communal activation è il concetto richiesto: nel corso spiega perché nel digitale la distribuzione passa anche da reti e prossimità sociale. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di currency, mentre la domanda richiede communal activation.",
+      "C": "Non è corretta perché descrive la definizione di conversation, mentre la domanda richiede communal activation.",
+      "D": "Non è corretta perché descrive la definizione di co-creation, mentre la domanda richiede communal activation."
     }
   },
   {
@@ -914,6 +1106,12 @@
       "B": "sostituisce l'idea di prezzo fisso come unica leva del marketing mix digitale",
       "C": "rende social, review, forum e community spazi di relazione e ascolto",
       "D": "trasforma il cliente da destinatario passivo a parte attiva della creazione di valore"
+    },
+    "rationales": {
+      "A": "È corretta perché interpreta communal activation a partire dalla sua definizione nel corso: l'attivazione di comunità e canali peer-to-peer per distribuire e far circolare valore. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di currency, mentre la domanda richiede communal activation.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di conversation, mentre la domanda richiede communal activation.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di co-creation, mentre la domanda richiede communal activation."
     }
   },
   {
@@ -931,6 +1129,12 @@
       "B": "l'attivazione di comunità e canali peer-to-peer per distribuire e far circolare valore",
       "C": "ciò che l'azienda comunica e vuole rappresentare come marca",
       "D": "la logica di prezzo dinamico che varia in relazione a domanda, dati e contesto"
+    },
+    "rationales": {
+      "A": "Conversation è il concetto richiesto: nel corso rende social, review, forum e community spazi di relazione e ascolto. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di communal activation, mentre la domanda richiede conversation.",
+      "C": "Non è corretta perché descrive la definizione di brand identity, mentre la domanda richiede conversation.",
+      "D": "Non è corretta perché descrive la definizione di currency, mentre la domanda richiede conversation."
     }
   },
   {
@@ -950,10 +1154,10 @@
       "D": "sostituisce l'idea di prezzo fisso come unica leva del marketing mix digitale"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di conversation in relazione con \"rende social, review, forum e community spazi di relazione e ascolto\".",
-      "B": "Non è la scelta migliore: \"spiega perché nel digitale la distribuzione passa anche da reti e prossimità sociale\" descrive un concetto diverso dal concetto di conversation.",
-      "C": "Non è la scelta migliore: \"costruisce l'intenzione espressiva del brand prima della percezione pubblica\" sposta l'attenzione su un aspetto diverso dal concetto di conversation.",
-      "D": "Non è la scelta migliore: \"sostituisce l'idea di prezzo fisso come unica leva del marketing mix digitale\" non identifica il ruolo specifico del concetto di conversation in questa domanda."
+      "A": "È corretta perché interpreta conversation a partire dalla sua definizione nel corso: il passaggio da promozione come monologo del brand a dialogo continuo con i clienti. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di communal activation, mentre la domanda richiede conversation.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di brand identity, mentre la domanda richiede conversation.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di currency, mentre la domanda richiede conversation."
     }
   },
   {
@@ -970,6 +1174,12 @@
       "B": "il passaggio da promozione come monologo del brand a dialogo continuo con i clienti",
       "C": "la percezione reale e attuale che il pubblico ha della marca",
       "D": "l'attivazione di comunità e canali peer-to-peer per distribuire e far circolare valore"
+    },
+    "rationales": {
+      "A": "Brand identity è il concetto richiesto: nel corso costruisce l'intenzione espressiva del brand prima della percezione pubblica. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di conversation, mentre la domanda richiede brand identity.",
+      "C": "Non è corretta perché descrive la definizione di brand image, mentre la domanda richiede brand identity.",
+      "D": "Non è corretta perché descrive la definizione di communal activation, mentre la domanda richiede brand identity."
     }
   },
   {
@@ -988,10 +1198,10 @@
       "D": "spiega perché nel digitale la distribuzione passa anche da reti e prossimità sociale"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di brand identity in relazione con \"costruisce l'intenzione espressiva del brand prima della percezione pubblica\".",
-      "B": "Non è la scelta migliore: \"rende social, review, forum e community spazi di relazione e ascolto\" descrive un concetto diverso dal concetto di brand identity.",
-      "C": "Non è la scelta migliore: \"permette di valutare se ciò che l'azienda comunica viene recepito come previsto\" sposta l'attenzione su un aspetto diverso dal concetto di brand identity.",
-      "D": "Non è la scelta migliore: \"spiega perché nel digitale la distribuzione passa anche da reti e prossimità sociale\" non identifica il ruolo specifico del concetto di brand identity in questa domanda."
+      "A": "È corretta perché interpreta brand identity a partire dalla sua definizione nel corso: ciò che l'azienda comunica e vuole rappresentare come marca. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di conversation, mentre la domanda richiede brand identity.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di brand image, mentre la domanda richiede brand identity.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di communal activation, mentre la domanda richiede brand identity."
     }
   },
   {
@@ -1008,6 +1218,12 @@
       "B": "ciò che l'azienda comunica e vuole rappresentare come marca",
       "C": "il livello di conoscenza e ricordo della marca da parte del pubblico",
       "D": "il passaggio da promozione come monologo del brand a dialogo continuo con i clienti"
+    },
+    "rationales": {
+      "A": "Brand image è il concetto richiesto: nel corso permette di valutare se ciò che l'azienda comunica viene recepito come previsto. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di brand identity, mentre la domanda richiede brand image.",
+      "C": "Non è corretta perché descrive la definizione di brand awareness, mentre la domanda richiede brand image.",
+      "D": "Non è corretta perché descrive la definizione di conversation, mentre la domanda richiede brand image."
     }
   },
   {
@@ -1026,10 +1242,10 @@
       "D": "rende social, review, forum e community spazi di relazione e ascolto"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di brand image in relazione con \"permette di valutare se ciò che l'azienda comunica viene recepito come previsto\".",
-      "B": "Non è la scelta migliore: \"costruisce l'intenzione espressiva del brand prima della percezione pubblica\" descrive un concetto diverso dal concetto di brand image.",
-      "C": "Non è la scelta migliore: \"misura quanto il brand entra nel set mentale dei consumatori\" sposta l'attenzione su un aspetto diverso dal concetto di brand image.",
-      "D": "Non è la scelta migliore: \"rende social, review, forum e community spazi di relazione e ascolto\" non identifica il ruolo specifico del concetto di brand image in questa domanda."
+      "A": "È corretta perché interpreta brand image a partire dalla sua definizione nel corso: la percezione reale e attuale che il pubblico ha della marca. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di brand identity, mentre la domanda richiede brand image.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di brand awareness, mentre la domanda richiede brand image.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di conversation, mentre la domanda richiede brand image."
     }
   },
   {
@@ -1046,6 +1262,12 @@
       "B": "la percezione reale e attuale che il pubblico ha della marca",
       "C": "il valore complessivo e reputazionale accumulato dalla marca nel tempo",
       "D": "ciò che l'azienda comunica e vuole rappresentare come marca"
+    },
+    "rationales": {
+      "A": "Brand awareness è il concetto richiesto: nel corso misura quanto il brand entra nel set mentale dei consumatori. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di brand image, mentre la domanda richiede brand awareness.",
+      "C": "Non è corretta perché descrive la definizione di brand equity, mentre la domanda richiede brand awareness.",
+      "D": "Non è corretta perché descrive la definizione di brand identity, mentre la domanda richiede brand awareness."
     }
   },
   {
@@ -1062,6 +1284,12 @@
       "B": "permette di valutare se ciò che l'azienda comunica viene recepito come previsto",
       "C": "rende il brand un asset capace di generare preferenza e valore economico",
       "D": "costruisce l'intenzione espressiva del brand prima della percezione pubblica"
+    },
+    "rationales": {
+      "A": "È corretta perché interpreta brand awareness a partire dalla sua definizione nel corso: il livello di conoscenza e ricordo della marca da parte del pubblico. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di brand image, mentre la domanda richiede brand awareness.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di brand equity, mentre la domanda richiede brand awareness.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di brand identity, mentre la domanda richiede brand awareness."
     }
   },
   {
@@ -1078,6 +1306,12 @@
       "B": "il livello di conoscenza e ricordo della marca da parte del pubblico",
       "C": "la fiducia riposta dal consumatore nella marca",
       "D": "la percezione reale e attuale che il pubblico ha della marca"
+    },
+    "rationales": {
+      "A": "Brand equity è il concetto richiesto: nel corso rende il brand un asset capace di generare preferenza e valore economico. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di brand awareness, mentre la domanda richiede brand equity.",
+      "C": "Non è corretta perché descrive la definizione di brand trust, mentre la domanda richiede brand equity.",
+      "D": "Non è corretta perché descrive la definizione di brand image, mentre la domanda richiede brand equity."
     }
   },
   {
@@ -1096,10 +1330,10 @@
       "D": "permette di valutare se ciò che l'azienda comunica viene recepito come previsto"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di brand equity in relazione con \"rende il brand un asset capace di generare preferenza e valore economico\".",
-      "B": "Non è la scelta migliore: \"misura quanto il brand entra nel set mentale dei consumatori\" descrive un concetto diverso dal concetto di brand equity.",
-      "C": "Non è la scelta migliore: \"riduce incertezza e rischio percepito, soprattutto nei contesti digitali\" sposta l'attenzione su un aspetto diverso dal concetto di brand equity.",
-      "D": "Non è la scelta migliore: \"permette di valutare se ciò che l'azienda comunica viene recepito come previsto\" non identifica il ruolo specifico del concetto di brand equity in questa domanda."
+      "A": "È corretta perché interpreta brand equity a partire dalla sua definizione nel corso: il valore complessivo e reputazionale accumulato dalla marca nel tempo. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di brand awareness, mentre la domanda richiede brand equity.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di brand trust, mentre la domanda richiede brand equity.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di brand image, mentre la domanda richiede brand equity."
     }
   },
   {
@@ -1117,6 +1351,12 @@
       "B": "il valore complessivo e reputazionale accumulato dalla marca nel tempo",
       "C": "il coinvolgimento attivo e partecipativo dei consumatori con un marchio",
       "D": "il livello di conoscenza e ricordo della marca da parte del pubblico"
+    },
+    "rationales": {
+      "A": "Brand trust è il concetto richiesto: nel corso riduce incertezza e rischio percepito, soprattutto nei contesti digitali. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di brand equity, mentre la domanda richiede brand trust.",
+      "C": "Non è corretta perché descrive la definizione di brand engagement, mentre la domanda richiede brand trust.",
+      "D": "Non è corretta perché descrive la definizione di brand awareness, mentre la domanda richiede brand trust."
     }
   },
   {
@@ -1136,10 +1376,10 @@
       "D": "misura quanto il brand entra nel set mentale dei consumatori"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di brand trust in relazione con \"riduce incertezza e rischio percepito, soprattutto nei contesti digitali\".",
-      "B": "Non è la scelta migliore: \"rende il brand un asset capace di generare preferenza e valore economico\" descrive un concetto diverso dal concetto di brand trust.",
-      "C": "Non è la scelta migliore: \"indica una relazione cognitiva, emotiva o comportamentale oltre la semplice esposizione\" sposta l'attenzione su un aspetto diverso dal concetto di brand trust.",
-      "D": "Non è la scelta migliore: \"misura quanto il brand entra nel set mentale dei consumatori\" non identifica il ruolo specifico del concetto di brand trust in questa domanda."
+      "A": "È corretta perché interpreta brand trust a partire dalla sua definizione nel corso: la fiducia riposta dal consumatore nella marca. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di brand equity, mentre la domanda richiede brand trust.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di brand engagement, mentre la domanda richiede brand trust.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di brand awareness, mentre la domanda richiede brand trust."
     }
   },
   {
@@ -1180,6 +1420,12 @@
       "B": "riduce incertezza e rischio percepito, soprattutto nei contesti digitali",
       "C": "trasforma clienti soddisfatti in promotori attivi della marca",
       "D": "rende il brand un asset capace di generare preferenza e valore economico"
+    },
+    "rationales": {
+      "A": "È corretta perché interpreta brand engagement a partire dalla sua definizione nel corso: il coinvolgimento attivo e partecipativo dei consumatori con un marchio. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di brand trust, mentre la domanda richiede brand engagement.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di brand advocacy, mentre la domanda richiede brand engagement.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di brand equity, mentre la domanda richiede brand engagement."
     }
   },
   {
@@ -1197,6 +1443,12 @@
       "B": "il coinvolgimento attivo e partecipativo dei consumatori con un marchio",
       "C": "la fiducia riposta dal consumatore nella marca",
       "D": "il valore complessivo e reputazionale accumulato dalla marca nel tempo"
+    },
+    "rationales": {
+      "A": "Brand advocacy è il concetto richiesto: nel corso trasforma clienti soddisfatti in promotori attivi della marca. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di brand engagement, mentre la domanda richiede brand advocacy.",
+      "C": "Non è corretta perché descrive la definizione di brand trust, mentre la domanda richiede brand advocacy.",
+      "D": "Non è corretta perché descrive la definizione di brand equity, mentre la domanda richiede brand advocacy."
     }
   },
   {
@@ -1214,6 +1466,12 @@
       "B": "indica una relazione cognitiva, emotiva o comportamentale oltre la semplice esposizione",
       "C": "riduce incertezza e rischio percepito, soprattutto nei contesti digitali",
       "D": "rende il brand un asset capace di generare preferenza e valore economico"
+    },
+    "rationales": {
+      "A": "È corretta perché interpreta brand advocacy a partire dalla sua definizione nel corso: il sostegno esplicito e spontaneo dei consumatori verso il brand. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di brand engagement, mentre la domanda richiede brand advocacy.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di brand trust, mentre la domanda richiede brand advocacy.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di brand equity, mentre la domanda richiede brand advocacy."
     }
   },
   {
@@ -1230,6 +1488,12 @@
       "B": "il sistema con cui l'impresa sviluppa valore economico usando tecnologie digitali",
       "C": "l'uso di strumenti digitali per attività operative di comunicazione con basso impatto strategico",
       "D": "l'uso del digitale con obiettivi di business e integrazione tra strategie online e offline"
+    },
+    "rationales": {
+      "A": "Orientamento all'e-business è il concetto richiesto: nel corso ridefinisce fornitura, distribuzione, offerta e relazione con il cliente. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di business model digitale, mentre la domanda richiede orientamento all'e-business.",
+      "C": "Non è corretta perché descrive la definizione di digital marketing tattico, mentre la domanda richiede orientamento all'e-business.",
+      "D": "Non è corretta perché descrive la definizione di digital marketing strategico, mentre la domanda richiede orientamento all'e-business."
     }
   },
   {
@@ -1248,10 +1512,10 @@
       "D": "coordina canali e azioni in ottica omnicanale"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di orientamento all'e-business in relazione con \"ridefinisce fornitura, distribuzione, offerta e relazione con il cliente\".",
-      "B": "Non è la scelta migliore: \"collega tecnologie, clienti, processi e fonti di ricavo\" descrive un concetto diverso dal concetto di orientamento all'e-business.",
-      "C": "Non è la scelta migliore: \"spesso produce siti vetrina o presenze informative scollegate dagli obiettivi di business\" sposta l'attenzione su un aspetto diverso dal concetto di orientamento all'e-business.",
-      "D": "Non è la scelta migliore: \"coordina canali e azioni in ottica omnicanale\" non identifica il ruolo specifico del concetto di orientamento all'e-business in questa domanda."
+      "A": "È corretta perché interpreta orientamento all'e-business a partire dalla sua definizione nel corso: un approccio manageriale che riconfigura in chiave digitale i processi di creazione del valore. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di business model digitale, mentre la domanda richiede orientamento all'e-business.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di digital marketing tattico, mentre la domanda richiede orientamento all'e-business.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di digital marketing strategico, mentre la domanda richiede orientamento all'e-business."
     }
   },
   {
@@ -1293,10 +1557,10 @@
       "D": "coordina canali e azioni in ottica omnicanale"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di business model digitale in relazione con \"collega tecnologie, clienti, processi e fonti di ricavo\".",
-      "B": "Non è la scelta migliore: \"ridefinisce fornitura, distribuzione, offerta e relazione con il cliente\" descrive un concetto diverso dal concetto di business model digitale.",
-      "C": "Non è la scelta migliore: \"spesso produce siti vetrina o presenze informative scollegate dagli obiettivi di business\" sposta l'attenzione su un aspetto diverso dal concetto di business model digitale.",
-      "D": "Non è la scelta migliore: \"coordina canali e azioni in ottica omnicanale\" non identifica il ruolo specifico del concetto di business model digitale in questa domanda."
+      "A": "È corretta perché interpreta business model digitale a partire dalla sua definizione nel corso: il sistema con cui l'impresa sviluppa valore economico usando tecnologie digitali. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di orientamento all'e-business, mentre la domanda richiede business model digitale.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di digital marketing tattico, mentre la domanda richiede business model digitale.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di digital marketing strategico, mentre la domanda richiede business model digitale."
     }
   },
   {
@@ -1313,6 +1577,12 @@
       "B": "il sistema con cui l'impresa sviluppa valore economico usando tecnologie digitali",
       "C": "l'uso del digitale con obiettivi di business e integrazione tra strategie online e offline",
       "D": "un approccio manageriale che riconfigura in chiave digitale i processi di creazione del valore"
+    },
+    "rationales": {
+      "A": "Digital marketing tattico è il concetto richiesto: nel corso spesso produce siti vetrina o presenze informative scollegate dagli obiettivi di business. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di business model digitale, mentre la domanda richiede digital marketing tattico.",
+      "C": "Non è corretta perché descrive la definizione di digital marketing strategico, mentre la domanda richiede digital marketing tattico.",
+      "D": "Non è corretta perché descrive la definizione di orientamento all'e-business, mentre la domanda richiede digital marketing tattico."
     }
   },
   {
@@ -1331,10 +1601,10 @@
       "D": "ridefinisce fornitura, distribuzione, offerta e relazione con il cliente"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di digital marketing tattico in relazione con \"spesso produce siti vetrina o presenze informative scollegate dagli obiettivi di business\".",
-      "B": "Non è la scelta migliore: \"collega tecnologie, clienti, processi e fonti di ricavo\" descrive un concetto diverso dal concetto di digital marketing tattico.",
-      "C": "Non è la scelta migliore: \"coordina canali e azioni in ottica omnicanale\" sposta l'attenzione su un aspetto diverso dal concetto di digital marketing tattico.",
-      "D": "Non è la scelta migliore: \"ridefinisce fornitura, distribuzione, offerta e relazione con il cliente\" non identifica il ruolo specifico del concetto di digital marketing tattico in questa domanda."
+      "A": "È corretta perché interpreta digital marketing tattico a partire dalla sua definizione nel corso: l'uso di strumenti digitali per attività operative di comunicazione con basso impatto strategico. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di business model digitale, mentre la domanda richiede digital marketing tattico.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di digital marketing strategico, mentre la domanda richiede digital marketing tattico.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di orientamento all'e-business, mentre la domanda richiede digital marketing tattico."
     }
   },
   {
@@ -1351,6 +1621,12 @@
       "B": "l'uso di strumenti digitali per attività operative di comunicazione con basso impatto strategico",
       "C": "la situazione in cui il campo di esistenza dell'impresa è all digital",
       "D": "il sistema con cui l'impresa sviluppa valore economico usando tecnologie digitali"
+    },
+    "rationales": {
+      "A": "Digital marketing strategico è il concetto richiesto: nel corso coordina canali e azioni in ottica omnicanale. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di digital marketing tattico, mentre la domanda richiede digital marketing strategico.",
+      "C": "Non è corretta perché descrive la definizione di livello core business digitale, mentre la domanda richiede digital marketing strategico.",
+      "D": "Non è corretta perché descrive la definizione di business model digitale, mentre la domanda richiede digital marketing strategico."
     }
   },
   {
@@ -1367,6 +1643,12 @@
       "B": "spesso produce siti vetrina o presenze informative scollegate dagli obiettivi di business",
       "C": "rende la strategia digitale parte centrale del modello di business",
       "D": "collega tecnologie, clienti, processi e fonti di ricavo"
+    },
+    "rationales": {
+      "A": "È corretta perché interpreta digital marketing strategico a partire dalla sua definizione nel corso: l'uso del digitale con obiettivi di business e integrazione tra strategie online e offline. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di digital marketing tattico, mentre la domanda richiede digital marketing strategico.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di livello core business digitale, mentre la domanda richiede digital marketing strategico.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di business model digitale, mentre la domanda richiede digital marketing strategico."
     }
   },
   {
@@ -1384,6 +1666,12 @@
       "B": "l'uso del digitale con obiettivi di business e integrazione tra strategie online e offline",
       "C": "imprese tradizionali puramente fisiche senza canali digitali rilevanti",
       "D": "l'uso di strumenti digitali per attività operative di comunicazione con basso impatto strategico"
+    },
+    "rationales": {
+      "A": "Livello core business digitale è il concetto richiesto: nel corso rende la strategia digitale parte centrale del modello di business. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di digital marketing strategico, mentre la domanda richiede livello core business digitale.",
+      "C": "Non è corretta perché descrive la definizione di bricks and mortar, mentre la domanda richiede livello core business digitale.",
+      "D": "Non è corretta perché descrive la definizione di digital marketing tattico, mentre la domanda richiede livello core business digitale."
     }
   },
   {
@@ -1403,10 +1691,10 @@
       "D": "spesso produce siti vetrina o presenze informative scollegate dagli obiettivi di business"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di livello core business digitale in relazione con \"rende la strategia digitale parte centrale del modello di business\".",
-      "B": "Non è la scelta migliore: \"coordina canali e azioni in ottica omnicanale\" descrive un concetto diverso dal concetto di livello core business digitale.",
-      "C": "Non è la scelta migliore: \"descrive il grado più basso di presenza online tra gli assetti strutturali\" sposta l'attenzione su un aspetto diverso dal concetto di livello core business digitale.",
-      "D": "Non è la scelta migliore: \"spesso produce siti vetrina o presenze informative scollegate dagli obiettivi di business\" non identifica il ruolo specifico del concetto di livello core business digitale in questa domanda."
+      "A": "È corretta perché interpreta livello core business digitale a partire dalla sua definizione nel corso: la situazione in cui il campo di esistenza dell'impresa è all digital. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di digital marketing strategico, mentre la domanda richiede livello core business digitale.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di bricks and mortar, mentre la domanda richiede livello core business digitale.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di digital marketing tattico, mentre la domanda richiede livello core business digitale."
     }
   },
   {
@@ -1424,6 +1712,12 @@
       "B": "la situazione in cui il campo di esistenza dell'impresa è all digital",
       "C": "imprese nate fisiche che integrano canali e strategie digitali",
       "D": "l'uso del digitale con obiettivi di business e integrazione tra strategie online e offline"
+    },
+    "rationales": {
+      "A": "Bricks and mortar è il concetto richiesto: nel corso descrive il grado più basso di presenza online tra gli assetti strutturali. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di livello core business digitale, mentre la domanda richiede bricks and mortar.",
+      "C": "Non è corretta perché descrive la definizione di click and mortar, mentre la domanda richiede bricks and mortar.",
+      "D": "Non è corretta perché descrive la definizione di digital marketing strategico, mentre la domanda richiede bricks and mortar."
     }
   },
   {
@@ -1443,10 +1737,10 @@
       "D": "coordina canali e azioni in ottica omnicanale"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di bricks and mortar in relazione con \"descrive il grado più basso di presenza online tra gli assetti strutturali\".",
-      "B": "Non è la scelta migliore: \"rende la strategia digitale parte centrale del modello di business\" descrive un concetto diverso dal concetto di bricks and mortar.",
-      "C": "Non è la scelta migliore: \"combina presenza offline e online in modo potenzialmente omnicanale\" sposta l'attenzione su un aspetto diverso dal concetto di bricks and mortar.",
-      "D": "Non è la scelta migliore: \"coordina canali e azioni in ottica omnicanale\" non identifica il ruolo specifico del concetto di bricks and mortar in questa domanda."
+      "A": "È corretta perché interpreta bricks and mortar a partire dalla sua definizione nel corso: imprese tradizionali puramente fisiche senza canali digitali rilevanti. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di livello core business digitale, mentre la domanda richiede bricks and mortar.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di click and mortar, mentre la domanda richiede bricks and mortar.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di digital marketing strategico, mentre la domanda richiede bricks and mortar."
     }
   },
   {
@@ -1464,6 +1758,12 @@
       "B": "imprese tradizionali puramente fisiche senza canali digitali rilevanti",
       "C": "imprese che operano esclusivamente online senza rete fisica tradizionale",
       "D": "la situazione in cui il campo di esistenza dell'impresa è all digital"
+    },
+    "rationales": {
+      "A": "Click and mortar è il concetto richiesto: nel corso combina presenza offline e online in modo potenzialmente omnicanale. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di bricks and mortar, mentre la domanda richiede click and mortar.",
+      "C": "Non è corretta perché descrive la definizione di pure play, mentre la domanda richiede click and mortar.",
+      "D": "Non è corretta perché descrive la definizione di livello core business digitale, mentre la domanda richiede click and mortar."
     }
   },
   {
@@ -1481,6 +1781,12 @@
       "B": "descrive il grado più basso di presenza online tra gli assetti strutturali",
       "C": "rappresenta un assetto strutturale completamente digitale",
       "D": "rende la strategia digitale parte centrale del modello di business"
+    },
+    "rationales": {
+      "A": "È corretta perché interpreta click and mortar a partire dalla sua definizione nel corso: imprese nate fisiche che integrano canali e strategie digitali. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di bricks and mortar, mentre la domanda richiede click and mortar.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di pure play, mentre la domanda richiede click and mortar.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di livello core business digitale, mentre la domanda richiede click and mortar."
     }
   },
   {
@@ -1498,6 +1804,12 @@
       "B": "imprese nate fisiche che integrano canali e strategie digitali",
       "C": "l'interconnessione stretta tra canali fisici e digitali lungo il percorso del cliente",
       "D": "imprese tradizionali puramente fisiche senza canali digitali rilevanti"
+    },
+    "rationales": {
+      "A": "Pure play è il concetto richiesto: nel corso rappresenta un assetto strutturale completamente digitale. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di click and mortar, mentre la domanda richiede pure play.",
+      "C": "Non è corretta perché descrive la definizione di omnicanalità, mentre la domanda richiede pure play.",
+      "D": "Non è corretta perché descrive la definizione di bricks and mortar, mentre la domanda richiede pure play."
     }
   },
   {
@@ -1515,6 +1827,12 @@
       "B": "combina presenza offline e online in modo potenzialmente omnicanale",
       "C": "rende fluida l'esperienza quando il cliente passa tra touchpoint diversi",
       "D": "descrive il grado più basso di presenza online tra gli assetti strutturali"
+    },
+    "rationales": {
+      "A": "È corretta perché interpreta pure play a partire dalla sua definizione nel corso: imprese che operano esclusivamente online senza rete fisica tradizionale. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di click and mortar, mentre la domanda richiede pure play.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di omnicanalità, mentre la domanda richiede pure play.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di bricks and mortar, mentre la domanda richiede pure play."
     }
   },
   {
@@ -1532,6 +1850,12 @@
       "B": "imprese che operano esclusivamente online senza rete fisica tradizionale",
       "C": "informazione codificata in forma binaria tramite 0 e 1",
       "D": "imprese nate fisiche che integrano canali e strategie digitali"
+    },
+    "rationales": {
+      "A": "Omnicanalità è il concetto richiesto: nel corso rende fluida l'esperienza quando il cliente passa tra touchpoint diversi. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di pure play, mentre la domanda richiede omnicanalità.",
+      "C": "Non è corretta perché descrive la definizione di dato digitale, mentre la domanda richiede omnicanalità.",
+      "D": "Non è corretta perché descrive la definizione di click and mortar, mentre la domanda richiede omnicanalità."
     }
   },
   {
@@ -1551,10 +1875,10 @@
       "D": "combina presenza offline e online in modo potenzialmente omnicanale"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di omnicanalità in relazione con \"rende fluida l'esperienza quando il cliente passa tra touchpoint diversi\".",
-      "B": "Non è la scelta migliore: \"rappresenta un assetto strutturale completamente digitale\" descrive un concetto diverso dal concetto di omnicanalità.",
-      "C": "Non è la scelta migliore: \"è la base tecnica della trasformazione e trasmissione digitale\" sposta l'attenzione su un aspetto diverso dal concetto di omnicanalità.",
-      "D": "Non è la scelta migliore: \"combina presenza offline e online in modo potenzialmente omnicanale\" non identifica il ruolo specifico del concetto di omnicanalità in questa domanda."
+      "A": "È corretta perché interpreta omnicanalità a partire dalla sua definizione nel corso: l'interconnessione stretta tra canali fisici e digitali lungo il percorso del cliente. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di pure play, mentre la domanda richiede omnicanalità.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di dato digitale, mentre la domanda richiede omnicanalità.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di click and mortar, mentre la domanda richiede omnicanalità."
     }
   },
   {
@@ -1571,6 +1895,12 @@
       "B": "l'interconnessione stretta tra canali fisici e digitali lungo il percorso del cliente",
       "C": "il bit è l'unità minima del digitale e 8 bit formano un byte",
       "D": "imprese che operano esclusivamente online senza rete fisica tradizionale"
+    },
+    "rationales": {
+      "A": "Dato digitale è il concetto richiesto: nel corso è la base tecnica della trasformazione e trasmissione digitale. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di omnicanalità, mentre la domanda richiede dato digitale.",
+      "C": "Non è corretta perché descrive la definizione di bit e byte, mentre la domanda richiede dato digitale.",
+      "D": "Non è corretta perché descrive la definizione di pure play, mentre la domanda richiede dato digitale."
     }
   },
   {
@@ -1589,10 +1919,10 @@
       "D": "rappresenta un assetto strutturale completamente digitale"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di dato digitale in relazione con \"è la base tecnica della trasformazione e trasmissione digitale\".",
-      "B": "Non è la scelta migliore: \"rende fluida l'esperienza quando il cliente passa tra touchpoint diversi\" descrive un concetto diverso dal concetto di dato digitale.",
-      "C": "Non è la scelta migliore: \"permettono di misurare e organizzare l'informazione digitale\" sposta l'attenzione su un aspetto diverso dal concetto di dato digitale.",
-      "D": "Non è la scelta migliore: \"rappresenta un assetto strutturale completamente digitale\" non identifica il ruolo specifico del concetto di dato digitale in questa domanda."
+      "A": "È corretta perché interpreta dato digitale a partire dalla sua definizione nel corso: informazione codificata in forma binaria tramite 0 e 1. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di omnicanalità, mentre la domanda richiede dato digitale.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di bit e byte, mentre la domanda richiede dato digitale.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di pure play, mentre la domanda richiede dato digitale."
     }
   },
   {
@@ -1609,6 +1939,12 @@
       "B": "informazione codificata in forma binaria tramite 0 e 1",
       "C": "il digitale cambia discretamente tra stati, mentre l'analogico cambia in modo continuo",
       "D": "l'interconnessione stretta tra canali fisici e digitali lungo il percorso del cliente"
+    },
+    "rationales": {
+      "A": "Bit e byte è il concetto richiesto: nel corso permettono di misurare e organizzare l'informazione digitale. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di dato digitale, mentre la domanda richiede bit e byte.",
+      "C": "Non è corretta perché descrive la definizione di digitale vs analogico, mentre la domanda richiede bit e byte.",
+      "D": "Non è corretta perché descrive la definizione di omnicanalità, mentre la domanda richiede bit e byte."
     }
   },
   {
@@ -1627,10 +1963,10 @@
       "D": "rende fluida l'esperienza quando il cliente passa tra touchpoint diversi"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di bit e byte in relazione con \"permettono di misurare e organizzare l'informazione digitale\".",
-      "B": "Non è la scelta migliore: \"è la base tecnica della trasformazione e trasmissione digitale\" descrive un concetto diverso dal concetto di bit e byte.",
-      "C": "Non è la scelta migliore: \"spiega la differenza tra codifica binaria e segnali continui\" sposta l'attenzione su un aspetto diverso dal concetto di bit e byte.",
-      "D": "Non è la scelta migliore: \"rende fluida l'esperienza quando il cliente passa tra touchpoint diversi\" non identifica il ruolo specifico del concetto di bit e byte in questa domanda."
+      "A": "È corretta perché interpreta bit e byte a partire dalla sua definizione nel corso: il bit è l'unità minima del digitale e 8 bit formano un byte. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di dato digitale, mentre la domanda richiede bit e byte.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di digitale vs analogico, mentre la domanda richiede bit e byte.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di omnicanalità, mentre la domanda richiede bit e byte."
     }
   },
   {
@@ -1647,6 +1983,12 @@
       "B": "il bit è l'unità minima del digitale e 8 bit formano un byte",
       "C": "ambienti come internet, web, mobile e TV digitale su cui avvengono interazioni e scambi",
       "D": "informazione codificata in forma binaria tramite 0 e 1"
+    },
+    "rationales": {
+      "A": "Digitale vs analogico è il concetto richiesto: nel corso spiega la differenza tra codifica binaria e segnali continui. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di bit e byte, mentre la domanda richiede digitale vs analogico.",
+      "C": "Non è corretta perché descrive la definizione di piattaforme digitali, mentre la domanda richiede digitale vs analogico.",
+      "D": "Non è corretta perché descrive la definizione di dato digitale, mentre la domanda richiede digitale vs analogico."
     }
   },
   {
@@ -1663,6 +2005,12 @@
       "B": "permettono di misurare e organizzare l'informazione digitale",
       "C": "abilitano contenuti, comunicazioni e servizi digitali",
       "D": "è la base tecnica della trasformazione e trasmissione digitale"
+    },
+    "rationales": {
+      "A": "È corretta perché interpreta digitale vs analogico a partire dalla sua definizione nel corso: il digitale cambia discretamente tra stati, mentre l'analogico cambia in modo continuo. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di bit e byte, mentre la domanda richiede digitale vs analogico.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di piattaforme digitali, mentre la domanda richiede digitale vs analogico.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di dato digitale, mentre la domanda richiede digitale vs analogico."
     }
   },
   {
@@ -1679,6 +2027,12 @@
       "B": "il digitale cambia discretamente tra stati, mentre l'analogico cambia in modo continuo",
       "C": "dispositivi come laptop, tablet, smartphone, TV e wearable usati per accedere ai servizi digitali",
       "D": "il bit è l'unità minima del digitale e 8 bit formano un byte"
+    },
+    "rationales": {
+      "A": "Piattaforme digitali è il concetto richiesto: nel corso abilitano contenuti, comunicazioni e servizi digitali. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di digitale vs analogico, mentre la domanda richiede piattaforme digitali.",
+      "C": "Non è corretta perché descrive la definizione di device digitali, mentre la domanda richiede piattaforme digitali.",
+      "D": "Non è corretta perché descrive la definizione di bit e byte, mentre la domanda richiede piattaforme digitali."
     }
   },
   {
@@ -1697,10 +2051,10 @@
       "D": "permettono di misurare e organizzare l'informazione digitale"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di piattaforme digitali in relazione con \"abilitano contenuti, comunicazioni e servizi digitali\".",
-      "B": "Non è la scelta migliore: \"spiega la differenza tra codifica binaria e segnali continui\" descrive un concetto diverso dal concetto di piattaforme digitali.",
-      "C": "Non è la scelta migliore: \"sono i punti materiali di accesso alle piattaforme\" sposta l'attenzione su un aspetto diverso dal concetto di piattaforme digitali.",
-      "D": "Non è la scelta migliore: \"permettono di misurare e organizzare l'informazione digitale\" non identifica il ruolo specifico del concetto di piattaforme digitali in questa domanda."
+      "A": "È corretta perché interpreta piattaforme digitali a partire dalla sua definizione nel corso: ambienti come internet, web, mobile e TV digitale su cui avvengono interazioni e scambi. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di digitale vs analogico, mentre la domanda richiede piattaforme digitali.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di device digitali, mentre la domanda richiede piattaforme digitali.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di bit e byte, mentre la domanda richiede piattaforme digitali."
     }
   },
   {
@@ -1717,6 +2071,12 @@
       "B": "ambienti come internet, web, mobile e TV digitale su cui avvengono interazioni e scambi",
       "C": "un sistema di reti di computer che consente il trasporto dei dati",
       "D": "il digitale cambia discretamente tra stati, mentre l'analogico cambia in modo continuo"
+    },
+    "rationales": {
+      "A": "Device digitali è il concetto richiesto: nel corso sono i punti materiali di accesso alle piattaforme. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di piattaforme digitali, mentre la domanda richiede device digitali.",
+      "C": "Non è corretta perché descrive la definizione di Internet, mentre la domanda richiede device digitali.",
+      "D": "Non è corretta perché descrive la definizione di digitale vs analogico, mentre la domanda richiede device digitali."
     }
   },
   {
@@ -1735,10 +2095,10 @@
       "D": "spiega la differenza tra codifica binaria e segnali continui"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di device digitali in relazione con \"sono i punti materiali di accesso alle piattaforme\".",
-      "B": "Non è la scelta migliore: \"abilitano contenuti, comunicazioni e servizi digitali\" descrive un concetto diverso dal concetto di device digitali.",
-      "C": "Non è la scelta migliore: \"fornisce l'infrastruttura su cui possono operare web, piattaforme e servizi\" sposta l'attenzione su un aspetto diverso dal concetto di device digitali.",
-      "D": "Non è la scelta migliore: \"spiega la differenza tra codifica binaria e segnali continui\" non identifica il ruolo specifico del concetto di device digitali in questa domanda."
+      "A": "È corretta perché interpreta device digitali a partire dalla sua definizione nel corso: dispositivi come laptop, tablet, smartphone, TV e wearable usati per accedere ai servizi digitali. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di piattaforme digitali, mentre la domanda richiede device digitali.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di Internet, mentre la domanda richiede device digitali.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di digitale vs analogico, mentre la domanda richiede device digitali."
     }
   },
   {
@@ -1755,6 +2115,12 @@
       "B": "dispositivi come laptop, tablet, smartphone, TV e wearable usati per accedere ai servizi digitali",
       "C": "il sistema di navigazione e fruizione dei contenuti presenti su Internet",
       "D": "ambienti come internet, web, mobile e TV digitale su cui avvengono interazioni e scambi"
+    },
+    "rationales": {
+      "A": "Internet è il concetto richiesto: nel corso fornisce l'infrastruttura su cui possono operare web, piattaforme e servizi. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di device digitali, mentre la domanda richiede Internet.",
+      "C": "Non è corretta perché descrive la definizione di Web, mentre la domanda richiede Internet.",
+      "D": "Non è corretta perché descrive la definizione di piattaforme digitali, mentre la domanda richiede Internet."
     }
   },
   {
@@ -1771,6 +2137,12 @@
       "B": "sono i punti materiali di accesso alle piattaforme",
       "C": "permette l'accesso a pagine, siti e contenuti tramite browser e link",
       "D": "abilitano contenuti, comunicazioni e servizi digitali"
+    },
+    "rationales": {
+      "A": "È corretta perché interpreta Internet a partire dalla sua definizione nel corso: un sistema di reti di computer che consente il trasporto dei dati. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di device digitali, mentre la domanda richiede Internet.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di Web, mentre la domanda richiede Internet.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di piattaforme digitali, mentre la domanda richiede Internet."
     }
   },
   {
@@ -1787,6 +2159,12 @@
       "B": "un sistema di reti di computer che consente il trasporto dei dati",
       "C": "un modello interattivo, dinamico e collaborativo contrapposto alla linearità push del marketing tradizionale",
       "D": "dispositivi come laptop, tablet, smartphone, TV e wearable usati per accedere ai servizi digitali"
+    },
+    "rationales": {
+      "A": "Web è il concetto richiesto: nel corso permette l'accesso a pagine, siti e contenuti tramite browser e link. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di Internet, mentre la domanda richiede Web.",
+      "C": "Non è corretta perché descrive la definizione di marketing digitale reticolare, mentre la domanda richiede Web.",
+      "D": "Non è corretta perché descrive la definizione di device digitali, mentre la domanda richiede Web."
     }
   },
   {
@@ -1803,6 +2181,12 @@
       "B": "fornisce l'infrastruttura su cui possono operare web, piattaforme e servizi",
       "C": "rende i flussi di comunicazione bidirezionali e aperti alla co-creazione",
       "D": "sono i punti materiali di accesso alle piattaforme"
+    },
+    "rationales": {
+      "A": "È corretta perché interpreta Web a partire dalla sua definizione nel corso: il sistema di navigazione e fruizione dei contenuti presenti su Internet. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di Internet, mentre la domanda richiede Web.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di marketing digitale reticolare, mentre la domanda richiede Web.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di device digitali, mentre la domanda richiede Web."
     }
   },
   {
@@ -1820,6 +2204,12 @@
       "B": "il sistema di navigazione e fruizione dei contenuti presenti su Internet",
       "C": "l'idea che la capacità dei computer aumenti rapidamente nel tempo, tradizionalmente legata al raddoppio dei transistor",
       "D": "un sistema di reti di computer che consente il trasporto dei dati"
+    },
+    "rationales": {
+      "A": "Marketing digitale reticolare è il concetto richiesto: nel corso rende i flussi di comunicazione bidirezionali e aperti alla co-creazione. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di Web, mentre la domanda richiede marketing digitale reticolare.",
+      "C": "Non è corretta perché descrive la definizione di legge di Moore, mentre la domanda richiede marketing digitale reticolare.",
+      "D": "Non è corretta perché descrive la definizione di Internet, mentre la domanda richiede marketing digitale reticolare."
     }
   },
   {
@@ -1839,10 +2229,10 @@
       "D": "fornisce l'infrastruttura su cui possono operare web, piattaforme e servizi"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di marketing digitale reticolare in relazione con \"rende i flussi di comunicazione bidirezionali e aperti alla co-creazione\".",
-      "B": "Non è la scelta migliore: \"permette l'accesso a pagine, siti e contenuti tramite browser e link\" descrive un concetto diverso dal concetto di marketing digitale reticolare.",
-      "C": "Non è la scelta migliore: \"spiega l'elevata produttività e il progresso delle tecnologie digitali\" sposta l'attenzione su un aspetto diverso dal concetto di marketing digitale reticolare.",
-      "D": "Non è la scelta migliore: \"fornisce l'infrastruttura su cui possono operare web, piattaforme e servizi\" non identifica il ruolo specifico del concetto di marketing digitale reticolare in questa domanda."
+      "A": "È corretta perché interpreta marketing digitale reticolare a partire dalla sua definizione nel corso: un modello interattivo, dinamico e collaborativo contrapposto alla linearità push del marketing tradizionale. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di Web, mentre la domanda richiede marketing digitale reticolare.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di legge di Moore, mentre la domanda richiede marketing digitale reticolare.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di Internet, mentre la domanda richiede marketing digitale reticolare."
     }
   },
   {
@@ -1859,6 +2249,12 @@
       "B": "un modello interattivo, dinamico e collaborativo contrapposto alla linearità push del marketing tradizionale",
       "C": "l'utilità di una tecnologia di rete cresce circa con il quadrato del numero dei suoi utenti o nodi",
       "D": "il sistema di navigazione e fruizione dei contenuti presenti su Internet"
+    },
+    "rationales": {
+      "A": "Legge di Moore è il concetto richiesto: nel corso spiega l'elevata produttività e il progresso delle tecnologie digitali. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di marketing digitale reticolare, mentre la domanda richiede legge di Moore.",
+      "C": "Non è corretta perché descrive la definizione di legge di Metcalfe, mentre la domanda richiede legge di Moore.",
+      "D": "Non è corretta perché descrive la definizione di Web, mentre la domanda richiede legge di Moore."
     }
   },
   {
@@ -1877,10 +2273,10 @@
       "D": "permette l'accesso a pagine, siti e contenuti tramite browser e link"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di legge di Moore in relazione con \"spiega l'elevata produttività e il progresso delle tecnologie digitali\".",
-      "B": "Non è la scelta migliore: \"rende i flussi di comunicazione bidirezionali e aperti alla co-creazione\" descrive un concetto diverso dal concetto di legge di Moore.",
-      "C": "Non è la scelta migliore: \"spiega il potenziale diffusivo e gli effetti di rete\" sposta l'attenzione su un aspetto diverso dal concetto di legge di Moore.",
-      "D": "Non è la scelta migliore: \"permette l'accesso a pagine, siti e contenuti tramite browser e link\" non identifica il ruolo specifico del concetto di legge di Moore in questa domanda."
+      "A": "È corretta perché interpreta legge di Moore a partire dalla sua definizione nel corso: l'idea che la capacità dei computer aumenti rapidamente nel tempo, tradizionalmente legata al raddoppio dei transistor. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di marketing digitale reticolare, mentre la domanda richiede legge di Moore.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di legge di Metcalfe, mentre la domanda richiede legge di Moore.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di Web, mentre la domanda richiede legge di Moore."
     }
   },
   {
@@ -1898,6 +2294,12 @@
       "B": "l'idea che la capacità dei computer aumenti rapidamente nel tempo, tradizionalmente legata al raddoppio dei transistor",
       "C": "la condizione in cui cambiare tecnologia o piattaforma diventa costoso o difficile",
       "D": "un modello interattivo, dinamico e collaborativo contrapposto alla linearità push del marketing tradizionale"
+    },
+    "rationales": {
+      "A": "Legge di Metcalfe è il concetto richiesto: nel corso spiega il potenziale diffusivo e gli effetti di rete. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di legge di Moore, mentre la domanda richiede legge di Metcalfe.",
+      "C": "Non è corretta perché descrive la definizione di lock-in, mentre la domanda richiede legge di Metcalfe.",
+      "D": "Non è corretta perché descrive la definizione di marketing digitale reticolare, mentre la domanda richiede legge di Metcalfe."
     }
   },
   {
@@ -1917,10 +2319,10 @@
       "D": "rende i flussi di comunicazione bidirezionali e aperti alla co-creazione"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di legge di Metcalfe in relazione con \"spiega il potenziale diffusivo e gli effetti di rete\".",
-      "B": "Non è la scelta migliore: \"spiega l'elevata produttività e il progresso delle tecnologie digitali\" descrive un concetto diverso dal concetto di legge di Metcalfe.",
-      "C": "Non è la scelta migliore: \"rafforza la permanenza degli utenti anche quando esistono alternative\" sposta l'attenzione su un aspetto diverso dal concetto di legge di Metcalfe.",
-      "D": "Non è la scelta migliore: \"rende i flussi di comunicazione bidirezionali e aperti alla co-creazione\" non identifica il ruolo specifico del concetto di legge di Metcalfe in questa domanda."
+      "A": "È corretta perché interpreta legge di Metcalfe a partire dalla sua definizione nel corso: l'utilità di una tecnologia di rete cresce circa con il quadrato del numero dei suoi utenti o nodi. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di legge di Moore, mentre la domanda richiede legge di Metcalfe.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di lock-in, mentre la domanda richiede legge di Metcalfe.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di marketing digitale reticolare, mentre la domanda richiede legge di Metcalfe."
     }
   },
   {
@@ -1938,6 +2340,12 @@
       "B": "l'utilità di una tecnologia di rete cresce circa con il quadrato del numero dei suoi utenti o nodi",
       "C": "la tensione tra ampiezza del mercato raggiungibile e ricchezza informativa veicolabile",
       "D": "l'idea che la capacità dei computer aumenti rapidamente nel tempo, tradizionalmente legata al raddoppio dei transistor"
+    },
+    "rationales": {
+      "A": "Lock-in è il concetto richiesto: nel corso rafforza la permanenza degli utenti anche quando esistono alternative. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di legge di Metcalfe, mentre la domanda richiede lock-in.",
+      "C": "Non è corretta perché descrive la definizione di reach e richness, mentre la domanda richiede lock-in.",
+      "D": "Non è corretta perché descrive la definizione di legge di Moore, mentre la domanda richiede lock-in."
     }
   },
   {
@@ -1955,6 +2363,12 @@
       "B": "spiega il potenziale diffusivo e gli effetti di rete",
       "C": "il digitale attenua il trade-off permettendo ampia portata e informazioni profonde",
       "D": "spiega l'elevata produttività e il progresso delle tecnologie digitali"
+    },
+    "rationales": {
+      "A": "È corretta perché interpreta lock-in a partire dalla sua definizione nel corso: la condizione in cui cambiare tecnologia o piattaforma diventa costoso o difficile. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di legge di Metcalfe, mentre la domanda richiede lock-in.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di reach e richness, mentre la domanda richiede lock-in.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di legge di Moore, mentre la domanda richiede lock-in."
     }
   },
   {
@@ -1971,6 +2385,12 @@
       "B": "la condizione in cui cambiare tecnologia o piattaforma diventa costoso o difficile",
       "C": "la possibilità nei mercati digitali di generare valore anche dalla somma di molti prodotti di nicchia",
       "D": "l'utilità di una tecnologia di rete cresce circa con il quadrato del numero dei suoi utenti o nodi"
+    },
+    "rationales": {
+      "A": "Reach e richness è il concetto richiesto: nel corso il digitale attenua il trade-off permettendo ampia portata e informazioni profonde. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di lock-in, mentre la domanda richiede reach e richness.",
+      "C": "Non è corretta perché descrive la definizione di long tail, mentre la domanda richiede reach e richness.",
+      "D": "Non è corretta perché descrive la definizione di legge di Metcalfe, mentre la domanda richiede reach e richness."
     }
   },
   {
@@ -1989,10 +2409,10 @@
       "D": "spiega il potenziale diffusivo e gli effetti di rete"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di reach e richness in relazione con \"il digitale attenua il trade-off permettendo ampia portata e informazioni profonde\".",
-      "B": "Non è la scelta migliore: \"rafforza la permanenza degli utenti anche quando esistono alternative\" descrive un concetto diverso dal concetto di reach e richness.",
-      "C": "Non è la scelta migliore: \"supera il vincolo fisico dello scaffale e riduce la dipendenza dai soli blockbuster\" sposta l'attenzione su un aspetto diverso dal concetto di reach e richness.",
-      "D": "Non è la scelta migliore: \"spiega il potenziale diffusivo e gli effetti di rete\" non identifica il ruolo specifico del concetto di reach e richness in questa domanda."
+      "A": "È corretta perché interpreta reach e richness a partire dalla sua definizione nel corso: la tensione tra ampiezza del mercato raggiungibile e ricchezza informativa veicolabile. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di lock-in, mentre la domanda richiede reach e richness.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di long tail, mentre la domanda richiede reach e richness.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di legge di Metcalfe, mentre la domanda richiede reach e richness."
     }
   },
   {
@@ -2010,6 +2430,12 @@
       "B": "la tensione tra ampiezza del mercato raggiungibile e ricchezza informativa veicolabile",
       "C": "la condizione in cui cambiare tecnologia o piattaforma diventa costoso o difficile",
       "D": "l'utilità di una tecnologia di rete cresce circa con il quadrato del numero dei suoi utenti o nodi"
+    },
+    "rationales": {
+      "A": "Long tail è il concetto richiesto: nel corso supera il vincolo fisico dello scaffale e riduce la dipendenza dai soli blockbuster. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di reach e richness, mentre la domanda richiede long tail.",
+      "C": "Non è corretta perché descrive la definizione di lock-in, mentre la domanda richiede long tail.",
+      "D": "Non è corretta perché descrive la definizione di legge di Metcalfe, mentre la domanda richiede long tail."
     }
   },
   {
@@ -2029,10 +2455,10 @@
       "D": "spiega il potenziale diffusivo e gli effetti di rete"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di long tail in relazione con \"supera il vincolo fisico dello scaffale e riduce la dipendenza dai soli blockbuster\".",
-      "B": "Non è la scelta migliore: \"il digitale attenua il trade-off permettendo ampia portata e informazioni profonde\" descrive un concetto diverso dal concetto di long tail.",
-      "C": "Non è la scelta migliore: \"rafforza la permanenza degli utenti anche quando esistono alternative\" sposta l'attenzione su un aspetto diverso dal concetto di long tail.",
-      "D": "Non è la scelta migliore: \"spiega il potenziale diffusivo e gli effetti di rete\" non identifica il ruolo specifico del concetto di long tail in questa domanda."
+      "A": "È corretta perché interpreta long tail a partire dalla sua definizione nel corso: la possibilità nei mercati digitali di generare valore anche dalla somma di molti prodotti di nicchia. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di reach e richness, mentre la domanda richiede long tail.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di lock-in, mentre la domanda richiede long tail.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di legge di Metcalfe, mentre la domanda richiede long tail."
     }
   },
   {
@@ -2049,6 +2475,12 @@
       "B": "una ricerca che studia comportamenti, interazioni o fenomeni che avvengono online",
       "C": "dati già disponibili e raccolti in precedenza da altre fonti",
       "D": "informazioni raccolte per la prima volta per rispondere a uno specifico problema di ricerca"
+    },
+    "rationales": {
+      "A": "Ricerca web-enabled è il concetto richiesto: nel corso usa strumenti online senza avere necessariamente come oggetto i comportamenti digitali. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di ricerca web-centric, mentre la domanda richiede ricerca web-enabled.",
+      "C": "Non è corretta perché descrive la definizione di dati secondari, mentre la domanda richiede ricerca web-enabled.",
+      "D": "Non è corretta perché descrive la definizione di dati primari, mentre la domanda richiede ricerca web-enabled."
     }
   },
   {
@@ -2065,6 +2497,12 @@
       "B": "mette il web non solo come strumento ma come oggetto dell'indagine",
       "C": "permettono di partire da informazioni esistenti prima di raccogliere dati primari",
       "D": "forniscono risposte dirette e aggiornate, ma richiedono tempo e risorse"
+    },
+    "rationales": {
+      "A": "È corretta perché interpreta ricerca web-enabled a partire dalla sua definizione nel corso: una ricerca in cui il web funge da supporto operativo alla raccolta dati. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di ricerca web-centric, mentre la domanda richiede ricerca web-enabled.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di dati secondari, mentre la domanda richiede ricerca web-enabled.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di dati primari, mentre la domanda richiede ricerca web-enabled."
     }
   },
   {
@@ -2081,6 +2519,12 @@
       "B": "una ricerca in cui il web funge da supporto operativo alla raccolta dati",
       "C": "dati già disponibili e raccolti in precedenza da altre fonti",
       "D": "informazioni raccolte per la prima volta per rispondere a uno specifico problema di ricerca"
+    },
+    "rationales": {
+      "A": "Ricerca web-centric è il concetto richiesto: nel corso mette il web non solo come strumento ma come oggetto dell'indagine. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di ricerca web-enabled, mentre la domanda richiede ricerca web-centric.",
+      "C": "Non è corretta perché descrive la definizione di dati secondari, mentre la domanda richiede ricerca web-centric.",
+      "D": "Non è corretta perché descrive la definizione di dati primari, mentre la domanda richiede ricerca web-centric."
     }
   },
   {
@@ -2097,6 +2541,12 @@
       "B": "usa strumenti online senza avere necessariamente come oggetto i comportamenti digitali",
       "C": "permettono di partire da informazioni esistenti prima di raccogliere dati primari",
       "D": "forniscono risposte dirette e aggiornate, ma richiedono tempo e risorse"
+    },
+    "rationales": {
+      "A": "È corretta perché interpreta ricerca web-centric a partire dalla sua definizione nel corso: una ricerca che studia comportamenti, interazioni o fenomeni che avvengono online. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di ricerca web-enabled, mentre la domanda richiede ricerca web-centric.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di dati secondari, mentre la domanda richiede ricerca web-centric.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di dati primari, mentre la domanda richiede ricerca web-centric."
     }
   },
   {
@@ -2113,6 +2563,12 @@
       "B": "una ricerca che studia comportamenti, interazioni o fenomeni che avvengono online",
       "C": "informazioni raccolte per la prima volta per rispondere a uno specifico problema di ricerca",
       "D": "una ricerca in cui il web funge da supporto operativo alla raccolta dati"
+    },
+    "rationales": {
+      "A": "Dati secondari è il concetto richiesto: nel corso permettono di partire da informazioni esistenti prima di raccogliere dati primari. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di ricerca web-centric, mentre la domanda richiede dati secondari.",
+      "C": "Non è corretta perché descrive la definizione di dati primari, mentre la domanda richiede dati secondari.",
+      "D": "Non è corretta perché descrive la definizione di ricerca web-enabled, mentre la domanda richiede dati secondari."
     }
   },
   {
@@ -2131,10 +2587,10 @@
       "D": "usa strumenti online senza avere necessariamente come oggetto i comportamenti digitali"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di dati secondari in relazione con \"permettono di partire da informazioni esistenti prima di raccogliere dati primari\".",
-      "B": "Non è la scelta migliore: \"mette il web non solo come strumento ma come oggetto dell'indagine\" descrive un concetto diverso dal concetto di dati secondari.",
-      "C": "Non è la scelta migliore: \"forniscono risposte dirette e aggiornate, ma richiedono tempo e risorse\" sposta l'attenzione su un aspetto diverso dal concetto di dati secondari.",
-      "D": "Non è la scelta migliore: \"usa strumenti online senza avere necessariamente come oggetto i comportamenti digitali\" non identifica il ruolo specifico del concetto di dati secondari in questa domanda."
+      "A": "È corretta perché interpreta dati secondari a partire dalla sua definizione nel corso: dati già disponibili e raccolti in precedenza da altre fonti. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di ricerca web-centric, mentre la domanda richiede dati secondari.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di dati primari, mentre la domanda richiede dati secondari.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di ricerca web-enabled, mentre la domanda richiede dati secondari."
     }
   },
   {
@@ -2151,6 +2607,12 @@
       "B": "dati già disponibili e raccolti in precedenza da altre fonti",
       "C": "un questionario inviato agli individui tramite posta elettronica",
       "D": "una ricerca che studia comportamenti, interazioni o fenomeni che avvengono online"
+    },
+    "rationales": {
+      "A": "Dati primari è il concetto richiesto: nel corso forniscono risposte dirette e aggiornate, ma richiedono tempo e risorse. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di dati secondari, mentre la domanda richiede dati primari.",
+      "C": "Non è corretta perché descrive la definizione di e-mail survey, mentre la domanda richiede dati primari.",
+      "D": "Non è corretta perché descrive la definizione di ricerca web-centric, mentre la domanda richiede dati primari."
     }
   },
   {
@@ -2169,10 +2631,10 @@
       "D": "mette il web non solo come strumento ma come oggetto dell'indagine"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di dati primari in relazione con \"forniscono risposte dirette e aggiornate, ma richiedono tempo e risorse\".",
-      "B": "Non è la scelta migliore: \"permettono di partire da informazioni esistenti prima di raccogliere dati primari\" descrive un concetto diverso dal concetto di dati primari.",
-      "C": "Non è la scelta migliore: \"consente di raggiungere contatti specifici con un invito diretto alla compilazione\" sposta l'attenzione su un aspetto diverso dal concetto di dati primari.",
-      "D": "Non è la scelta migliore: \"mette il web non solo come strumento ma come oggetto dell'indagine\" non identifica il ruolo specifico del concetto di dati primari in questa domanda."
+      "A": "È corretta perché interpreta dati primari a partire dalla sua definizione nel corso: informazioni raccolte per la prima volta per rispondere a uno specifico problema di ricerca. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di dati secondari, mentre la domanda richiede dati primari.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di e-mail survey, mentre la domanda richiede dati primari.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di ricerca web-centric, mentre la domanda richiede dati primari."
     }
   },
   {
@@ -2190,6 +2652,12 @@
       "B": "informazioni raccolte per la prima volta per rispondere a uno specifico problema di ricerca",
       "C": "un questionario pubblicato sul web, su pagine, piattaforme o social network",
       "D": "dati già disponibili e raccolti in precedenza da altre fonti"
+    },
+    "rationales": {
+      "A": "E-mail survey è il concetto richiesto: nel corso consente di raggiungere contatti specifici con un invito diretto alla compilazione. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di dati primari, mentre la domanda richiede e-mail survey.",
+      "C": "Non è corretta perché descrive la definizione di web survey, mentre la domanda richiede e-mail survey.",
+      "D": "Non è corretta perché descrive la definizione di dati secondari, mentre la domanda richiede e-mail survey."
     }
   },
   {
@@ -2209,10 +2677,10 @@
       "D": "permettono di partire da informazioni esistenti prima di raccogliere dati primari"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di e-mail survey in relazione con \"consente di raggiungere contatti specifici con un invito diretto alla compilazione\".",
-      "B": "Non è la scelta migliore: \"forniscono risposte dirette e aggiornate, ma richiedono tempo e risorse\" descrive un concetto diverso dal concetto di e-mail survey.",
-      "C": "Non è la scelta migliore: \"rende rapida ed economica la raccolta di risposte online\" sposta l'attenzione su un aspetto diverso dal concetto di e-mail survey.",
-      "D": "Non è la scelta migliore: \"permettono di partire da informazioni esistenti prima di raccogliere dati primari\" non identifica il ruolo specifico del concetto di e-mail survey in questa domanda."
+      "A": "È corretta perché interpreta e-mail survey a partire dalla sua definizione nel corso: un questionario inviato agli individui tramite posta elettronica. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di dati primari, mentre la domanda richiede e-mail survey.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di web survey, mentre la domanda richiede e-mail survey.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di dati secondari, mentre la domanda richiede e-mail survey."
     }
   },
   {
@@ -2229,6 +2697,12 @@
       "B": "un questionario inviato agli individui tramite posta elettronica",
       "C": "una domanda che lascia libertà di risposta all'intervistato",
       "D": "informazioni raccolte per la prima volta per rispondere a uno specifico problema di ricerca"
+    },
+    "rationales": {
+      "A": "Web survey è il concetto richiesto: nel corso rende rapida ed economica la raccolta di risposte online. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di e-mail survey, mentre la domanda richiede web survey.",
+      "C": "Non è corretta perché descrive la definizione di domanda aperta, mentre la domanda richiede web survey.",
+      "D": "Non è corretta perché descrive la definizione di dati primari, mentre la domanda richiede web survey."
     }
   },
   {
@@ -2245,6 +2719,12 @@
       "B": "consente di raggiungere contatti specifici con un invito diretto alla compilazione",
       "C": "permette approfondimenti ma richiede più lavoro di codifica e analisi",
       "D": "forniscono risposte dirette e aggiornate, ma richiedono tempo e risorse"
+    },
+    "rationales": {
+      "A": "È corretta perché interpreta web survey a partire dalla sua definizione nel corso: un questionario pubblicato sul web, su pagine, piattaforme o social network. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di e-mail survey, mentre la domanda richiede web survey.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di domanda aperta, mentre la domanda richiede web survey.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di dati primari, mentre la domanda richiede web survey."
     }
   },
   {
@@ -2261,6 +2741,12 @@
       "B": "un questionario pubblicato sul web, su pagine, piattaforme o social network",
       "C": "una domanda in cui il rispondente sceglie tra alternative già proposte",
       "D": "un questionario inviato agli individui tramite posta elettronica"
+    },
+    "rationales": {
+      "A": "Domanda aperta è il concetto richiesto: nel corso permette approfondimenti ma richiede più lavoro di codifica e analisi. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di web survey, mentre la domanda richiede domanda aperta.",
+      "C": "Non è corretta perché descrive la definizione di domanda chiusa, mentre la domanda richiede domanda aperta.",
+      "D": "Non è corretta perché descrive la definizione di e-mail survey, mentre la domanda richiede domanda aperta."
     }
   },
   {
@@ -2279,10 +2765,10 @@
       "D": "consente di raggiungere contatti specifici con un invito diretto alla compilazione"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di domanda aperta in relazione con \"permette approfondimenti ma richiede più lavoro di codifica e analisi\".",
-      "B": "Non è la scelta migliore: \"rende rapida ed economica la raccolta di risposte online\" descrive un concetto diverso dal concetto di domanda aperta.",
-      "C": "Non è la scelta migliore: \"facilita codifica, confronto e analisi quantitativa delle risposte\" sposta l'attenzione su un aspetto diverso dal concetto di domanda aperta.",
-      "D": "Non è la scelta migliore: \"consente di raggiungere contatti specifici con un invito diretto alla compilazione\" non identifica il ruolo specifico del concetto di domanda aperta in questa domanda."
+      "A": "È corretta perché interpreta domanda aperta a partire dalla sua definizione nel corso: una domanda che lascia libertà di risposta all'intervistato. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di web survey, mentre la domanda richiede domanda aperta.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di domanda chiusa, mentre la domanda richiede domanda aperta.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di e-mail survey, mentre la domanda richiede domanda aperta."
     }
   },
   {
@@ -2299,6 +2785,12 @@
       "B": "una domanda che lascia libertà di risposta all'intervistato",
       "C": "una domanda chiusa con due sole alternative di risposta",
       "D": "un questionario pubblicato sul web, su pagine, piattaforme o social network"
+    },
+    "rationales": {
+      "A": "Domanda chiusa è il concetto richiesto: nel corso facilita codifica, confronto e analisi quantitativa delle risposte. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di domanda aperta, mentre la domanda richiede domanda chiusa.",
+      "C": "Non è corretta perché descrive la definizione di domanda dicotomica, mentre la domanda richiede domanda chiusa.",
+      "D": "Non è corretta perché descrive la definizione di web survey, mentre la domanda richiede domanda chiusa."
     }
   },
   {
@@ -2317,10 +2809,10 @@
       "D": "rende rapida ed economica la raccolta di risposte online"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di domanda chiusa in relazione con \"facilita codifica, confronto e analisi quantitativa delle risposte\".",
-      "B": "Non è la scelta migliore: \"permette approfondimenti ma richiede più lavoro di codifica e analisi\" descrive un concetto diverso dal concetto di domanda chiusa.",
-      "C": "Non è la scelta migliore: \"serve quando la variabile può essere rilevata con una scelta binaria\" sposta l'attenzione su un aspetto diverso dal concetto di domanda chiusa.",
-      "D": "Non è la scelta migliore: \"rende rapida ed economica la raccolta di risposte online\" non identifica il ruolo specifico del concetto di domanda chiusa in questa domanda."
+      "A": "È corretta perché interpreta domanda chiusa a partire dalla sua definizione nel corso: una domanda in cui il rispondente sceglie tra alternative già proposte. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di domanda aperta, mentre la domanda richiede domanda chiusa.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di domanda dicotomica, mentre la domanda richiede domanda chiusa.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di web survey, mentre la domanda richiede domanda chiusa."
     }
   },
   {
@@ -2337,6 +2829,12 @@
       "B": "una domanda in cui il rispondente sceglie tra alternative già proposte",
       "C": "una domanda chiusa che propone più alternative selezionabili o una scelta tra varie opzioni",
       "D": "una domanda che lascia libertà di risposta all'intervistato"
+    },
+    "rationales": {
+      "A": "Domanda dicotomica è il concetto richiesto: nel corso serve quando la variabile può essere rilevata con una scelta binaria. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di domanda chiusa, mentre la domanda richiede domanda dicotomica.",
+      "C": "Non è corretta perché descrive la definizione di domanda a risposta multipla, mentre la domanda richiede domanda dicotomica.",
+      "D": "Non è corretta perché descrive la definizione di domanda aperta, mentre la domanda richiede domanda dicotomica."
     }
   },
   {
@@ -2353,6 +2851,12 @@
       "B": "facilita codifica, confronto e analisi quantitativa delle risposte",
       "C": "permette di misurare preferenze o categorie in modo strutturato",
       "D": "permette approfondimenti ma richiede più lavoro di codifica e analisi"
+    },
+    "rationales": {
+      "A": "È corretta perché interpreta domanda dicotomica a partire dalla sua definizione nel corso: una domanda chiusa con due sole alternative di risposta. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di domanda chiusa, mentre la domanda richiede domanda dicotomica.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di domanda a risposta multipla, mentre la domanda richiede domanda dicotomica.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di domanda aperta, mentre la domanda richiede domanda dicotomica."
     }
   },
   {
@@ -2369,6 +2873,12 @@
       "B": "una domanda chiusa con due sole alternative di risposta",
       "C": "una scala di atteggiamento che misura il grado di accordo o intensità rispetto a un'affermazione",
       "D": "una domanda in cui il rispondente sceglie tra alternative già proposte"
+    },
+    "rationales": {
+      "A": "Domanda a risposta multipla è il concetto richiesto: nel corso permette di misurare preferenze o categorie in modo strutturato. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di domanda dicotomica, mentre la domanda richiede domanda a risposta multipla.",
+      "C": "Non è corretta perché descrive la definizione di scala Likert, mentre la domanda richiede domanda a risposta multipla.",
+      "D": "Non è corretta perché descrive la definizione di domanda chiusa, mentre la domanda richiede domanda a risposta multipla."
     }
   },
   {
@@ -2385,6 +2895,12 @@
       "B": "serve quando la variabile può essere rilevata con una scelta binaria",
       "C": "trasforma percezioni e opinioni in dati confrontabili",
       "D": "facilita codifica, confronto e analisi quantitativa delle risposte"
+    },
+    "rationales": {
+      "A": "È corretta perché interpreta domanda a risposta multipla a partire dalla sua definizione nel corso: una domanda chiusa che propone più alternative selezionabili o una scelta tra varie opzioni. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di domanda dicotomica, mentre la domanda richiede domanda a risposta multipla.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di scala Likert, mentre la domanda richiede domanda a risposta multipla.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di domanda chiusa, mentre la domanda richiede domanda a risposta multipla."
     }
   },
   {
@@ -2401,6 +2917,12 @@
       "B": "una domanda chiusa che propone più alternative selezionabili o una scelta tra varie opzioni",
       "C": "domande usate per indirizzare i rispondenti verso sezioni pertinenti del questionario",
       "D": "una domanda chiusa con due sole alternative di risposta"
+    },
+    "rationales": {
+      "A": "Scala Likert è il concetto richiesto: nel corso trasforma percezioni e opinioni in dati confrontabili. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di domanda a risposta multipla, mentre la domanda richiede scala Likert.",
+      "C": "Non è corretta perché descrive la definizione di domande filtro, mentre la domanda richiede scala Likert.",
+      "D": "Non è corretta perché descrive la definizione di domanda dicotomica, mentre la domanda richiede scala Likert."
     }
   },
   {
@@ -2419,10 +2941,10 @@
       "D": "serve quando la variabile può essere rilevata con una scelta binaria"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di scala Likert in relazione con \"trasforma percezioni e opinioni in dati confrontabili\".",
-      "B": "Non è la scelta migliore: \"permette di misurare preferenze o categorie in modo strutturato\" descrive un concetto diverso dal concetto di scala Likert.",
-      "C": "Non è la scelta migliore: \"evitano di porre domande irrilevanti o non applicabili\" sposta l'attenzione su un aspetto diverso dal concetto di scala Likert.",
-      "D": "Non è la scelta migliore: \"serve quando la variabile può essere rilevata con una scelta binaria\" non identifica il ruolo specifico del concetto di scala Likert in questa domanda."
+      "A": "È corretta perché interpreta scala Likert a partire dalla sua definizione nel corso: una scala di atteggiamento che misura il grado di accordo o intensità rispetto a un'affermazione. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di domanda a risposta multipla, mentre la domanda richiede scala Likert.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di domande filtro, mentre la domanda richiede scala Likert.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di domanda dicotomica, mentre la domanda richiede scala Likert."
     }
   },
   {
@@ -2439,6 +2961,12 @@
       "B": "una scala di atteggiamento che misura il grado di accordo o intensità rispetto a un'affermazione",
       "C": "l'ordine consigliato: introduzione e privacy, domande semplici, domande centrali, socio-demografiche finali",
       "D": "una domanda chiusa che propone più alternative selezionabili o una scelta tra varie opzioni"
+    },
+    "rationales": {
+      "A": "Domande filtro è il concetto richiesto: nel corso evitano di porre domande irrilevanti o non applicabili. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di scala Likert, mentre la domanda richiede domande filtro.",
+      "C": "Non è corretta perché descrive la definizione di sequenza del questionario, mentre la domanda richiede domande filtro.",
+      "D": "Non è corretta perché descrive la definizione di domanda a risposta multipla, mentre la domanda richiede domande filtro."
     }
   },
   {
@@ -2457,10 +2985,10 @@
       "D": "permette di misurare preferenze o categorie in modo strutturato"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di domande filtro in relazione con \"evitano di porre domande irrilevanti o non applicabili\".",
-      "B": "Non è la scelta migliore: \"trasforma percezioni e opinioni in dati confrontabili\" descrive un concetto diverso dal concetto di domande filtro.",
-      "C": "Non è la scelta migliore: \"riduce abbandono, stress e distorsioni nelle risposte\" sposta l'attenzione su un aspetto diverso dal concetto di domande filtro.",
-      "D": "Non è la scelta migliore: \"permette di misurare preferenze o categorie in modo strutturato\" non identifica il ruolo specifico del concetto di domande filtro in questa domanda."
+      "A": "È corretta perché interpreta domande filtro a partire dalla sua definizione nel corso: domande usate per indirizzare i rispondenti verso sezioni pertinenti del questionario. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di scala Likert, mentre la domanda richiede domande filtro.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di sequenza del questionario, mentre la domanda richiede domande filtro.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di domanda a risposta multipla, mentre la domanda richiede domande filtro."
     }
   },
   {
@@ -2477,6 +3005,12 @@
       "B": "domande usate per indirizzare i rispondenti verso sezioni pertinenti del questionario",
       "C": "una prova preliminare del questionario prima della somministrazione completa",
       "D": "una scala di atteggiamento che misura il grado di accordo o intensità rispetto a un'affermazione"
+    },
+    "rationales": {
+      "A": "Sequenza del questionario è il concetto richiesto: nel corso riduce abbandono, stress e distorsioni nelle risposte. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di domande filtro, mentre la domanda richiede sequenza del questionario.",
+      "C": "Non è corretta perché descrive la definizione di pre-test del questionario, mentre la domanda richiede sequenza del questionario.",
+      "D": "Non è corretta perché descrive la definizione di scala Likert, mentre la domanda richiede sequenza del questionario."
     }
   },
   {
@@ -2495,10 +3029,10 @@
       "D": "trasforma percezioni e opinioni in dati confrontabili"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di sequenza del questionario in relazione con \"riduce abbandono, stress e distorsioni nelle risposte\".",
-      "B": "Non è la scelta migliore: \"evitano di porre domande irrilevanti o non applicabili\" descrive un concetto diverso dal concetto di sequenza del questionario.",
-      "C": "Non è la scelta migliore: \"serve a individuare ambiguità, errori e problemi di comprensione\" sposta l'attenzione su un aspetto diverso dal concetto di sequenza del questionario.",
-      "D": "Non è la scelta migliore: \"trasforma percezioni e opinioni in dati confrontabili\" non identifica il ruolo specifico del concetto di sequenza del questionario in questa domanda."
+      "A": "È corretta perché interpreta sequenza del questionario a partire dalla sua definizione nel corso: l'ordine consigliato: introduzione e privacy, domande semplici, domande centrali, socio-demografiche finali. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di domande filtro, mentre la domanda richiede sequenza del questionario.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di pre-test del questionario, mentre la domanda richiede sequenza del questionario.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di scala Likert, mentre la domanda richiede sequenza del questionario."
     }
   },
   {
@@ -2515,6 +3049,12 @@
       "B": "l'ordine consigliato: introduzione e privacy, domande semplici, domande centrali, socio-demografiche finali",
       "C": "la capacità del campione di riflettere correttamente la popolazione di riferimento",
       "D": "domande usate per indirizzare i rispondenti verso sezioni pertinenti del questionario"
+    },
+    "rationales": {
+      "A": "Pre-test del questionario è il concetto richiesto: nel corso serve a individuare ambiguità, errori e problemi di comprensione. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di sequenza del questionario, mentre la domanda richiede pre-test del questionario.",
+      "C": "Non è corretta perché descrive la definizione di rappresentatività del campione online, mentre la domanda richiede pre-test del questionario.",
+      "D": "Non è corretta perché descrive la definizione di domande filtro, mentre la domanda richiede pre-test del questionario."
     }
   },
   {
@@ -2531,6 +3071,12 @@
       "B": "riduce abbandono, stress e distorsioni nelle risposte",
       "C": "è una criticità perché online non sempre si controlla chi risponde e quanto il target sia coperto",
       "D": "evitano di porre domande irrilevanti o non applicabili"
+    },
+    "rationales": {
+      "A": "È corretta perché interpreta pre-test del questionario a partire dalla sua definizione nel corso: una prova preliminare del questionario prima della somministrazione completa. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di sequenza del questionario, mentre la domanda richiede pre-test del questionario.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di rappresentatività del campione online, mentre la domanda richiede pre-test del questionario.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di domande filtro, mentre la domanda richiede pre-test del questionario."
     }
   },
   {
@@ -2547,6 +3093,12 @@
       "B": "una prova preliminare del questionario prima della somministrazione completa",
       "C": "la capacità dello strumento di misurare davvero ciò che intende misurare",
       "D": "l'ordine consigliato: introduzione e privacy, domande semplici, domande centrali, socio-demografiche finali"
+    },
+    "rationales": {
+      "A": "Rappresentatività del campione online è il concetto richiesto: nel corso è una criticità perché online non sempre si controlla chi risponde e quanto il target sia coperto. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di pre-test del questionario, mentre la domanda richiede rappresentatività del campione online.",
+      "C": "Non è corretta perché descrive la definizione di validità della misurazione online, mentre la domanda richiede rappresentatività del campione online.",
+      "D": "Non è corretta perché descrive la definizione di sequenza del questionario, mentre la domanda richiede rappresentatività del campione online."
     }
   },
   {
@@ -2565,10 +3117,10 @@
       "D": "riduce abbandono, stress e distorsioni nelle risposte"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di rappresentatività del campione online in relazione con \"è una criticità perché online non sempre si controlla chi risponde e quanto il target sia coperto\".",
-      "B": "Non è la scelta migliore: \"serve a individuare ambiguità, errori e problemi di comprensione\" descrive un concetto diverso dal concetto di rappresentatività del campione online.",
-      "C": "Non è la scelta migliore: \"può essere influenzata da browser, dispositivi, contesto e interpretazione delle scale\" sposta l'attenzione su un aspetto diverso dal concetto di rappresentatività del campione online.",
-      "D": "Non è la scelta migliore: \"riduce abbandono, stress e distorsioni nelle risposte\" non identifica il ruolo specifico del concetto di rappresentatività del campione online in questa domanda."
+      "A": "È corretta perché interpreta rappresentatività del campione online a partire dalla sua definizione nel corso: la capacità del campione di riflettere correttamente la popolazione di riferimento. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di pre-test del questionario, mentre la domanda richiede rappresentatività del campione online.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di validità della misurazione online, mentre la domanda richiede rappresentatività del campione online.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di sequenza del questionario, mentre la domanda richiede rappresentatività del campione online."
     }
   },
   {
@@ -2585,6 +3137,12 @@
       "B": "la capacità del campione di riflettere correttamente la popolazione di riferimento",
       "C": "una prova preliminare del questionario prima della somministrazione completa",
       "D": "l'ordine consigliato: introduzione e privacy, domande semplici, domande centrali, socio-demografiche finali"
+    },
+    "rationales": {
+      "A": "Validità della misurazione online è il concetto richiesto: nel corso può essere influenzata da browser, dispositivi, contesto e interpretazione delle scale. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di rappresentatività del campione online, mentre la domanda richiede validità della misurazione online.",
+      "C": "Non è corretta perché descrive la definizione di pre-test del questionario, mentre la domanda richiede validità della misurazione online.",
+      "D": "Non è corretta perché descrive la definizione di sequenza del questionario, mentre la domanda richiede validità della misurazione online."
     }
   },
   {
@@ -2603,10 +3161,10 @@
       "D": "riduce abbandono, stress e distorsioni nelle risposte"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di validità della misurazione online in relazione con \"può essere influenzata da browser, dispositivi, contesto e interpretazione delle scale\".",
-      "B": "Non è la scelta migliore: \"è una criticità perché online non sempre si controlla chi risponde e quanto il target sia coperto\" descrive un concetto diverso dal concetto di validità della misurazione online.",
-      "C": "Non è la scelta migliore: \"serve a individuare ambiguità, errori e problemi di comprensione\" sposta l'attenzione su un aspetto diverso dal concetto di validità della misurazione online.",
-      "D": "Non è la scelta migliore: \"riduce abbandono, stress e distorsioni nelle risposte\" non identifica il ruolo specifico del concetto di validità della misurazione online in questa domanda."
+      "A": "È corretta perché interpreta validità della misurazione online a partire dalla sua definizione nel corso: la capacità dello strumento di misurare davvero ciò che intende misurare. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di rappresentatività del campione online, mentre la domanda richiede validità della misurazione online.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di pre-test del questionario, mentre la domanda richiede validità della misurazione online.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di sequenza del questionario, mentre la domanda richiede validità della misurazione online."
     }
   },
   {
@@ -2645,6 +3203,12 @@
       "B": "partecipa alla narrazione e può influenzare altri consumatori",
       "C": "permette di osservare interazioni, aspettative, emozioni e ostacoli nel tempo",
       "D": "rende osservabile dove il cliente incontra o valuta l'impresa"
+    },
+    "rationales": {
+      "A": "È corretta perché interpreta nuovo consumatore iperconnesso a partire dalla sua definizione nel corso: un consumatore attivo, connesso e capace di usare molteplici fonti e touchpoint. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di prosumer, mentre la domanda richiede nuovo consumatore iperconnesso.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di customer journey, mentre la domanda richiede nuovo consumatore iperconnesso.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di touchpoint, mentre la domanda richiede nuovo consumatore iperconnesso."
     }
   },
   {
@@ -2661,6 +3225,12 @@
       "B": "un consumatore attivo, connesso e capace di usare molteplici fonti e touchpoint",
       "C": "il processo complessivo che il cliente vive prima, durante e dopo l'accesso all'offerta",
       "D": "un momento di interazione tra consumatore e brand su una piattaforma o dispositivo specifico"
+    },
+    "rationales": {
+      "A": "Prosumer è il concetto richiesto: nel corso partecipa alla narrazione e può influenzare altri consumatori. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di nuovo consumatore iperconnesso, mentre la domanda richiede prosumer.",
+      "C": "Non è corretta perché descrive la definizione di customer journey, mentre la domanda richiede prosumer.",
+      "D": "Non è corretta perché descrive la definizione di touchpoint, mentre la domanda richiede prosumer."
     }
   },
   {
@@ -2677,6 +3247,12 @@
       "B": "modifica la relazione brand-cliente rendendola più informata e partecipativa",
       "C": "permette di osservare interazioni, aspettative, emozioni e ostacoli nel tempo",
       "D": "rende osservabile dove il cliente incontra o valuta l'impresa"
+    },
+    "rationales": {
+      "A": "È corretta perché interpreta prosumer a partire dalla sua definizione nel corso: un consumatore che ricerca, richiede e produce contenuti o valore per il brand. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di nuovo consumatore iperconnesso, mentre la domanda richiede prosumer.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di customer journey, mentre la domanda richiede prosumer.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di touchpoint, mentre la domanda richiede prosumer."
     }
   },
   {
@@ -2693,6 +3269,12 @@
       "B": "un consumatore che ricerca, richiede e produce contenuti o valore per il brand",
       "C": "un momento di interazione tra consumatore e brand su una piattaforma o dispositivo specifico",
       "D": "un consumatore attivo, connesso e capace di usare molteplici fonti e touchpoint"
+    },
+    "rationales": {
+      "A": "Customer journey è il concetto richiesto: nel corso permette di osservare interazioni, aspettative, emozioni e ostacoli nel tempo. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di prosumer, mentre la domanda richiede customer journey.",
+      "C": "Non è corretta perché descrive la definizione di touchpoint, mentre la domanda richiede customer journey.",
+      "D": "Non è corretta perché descrive la definizione di nuovo consumatore iperconnesso, mentre la domanda richiede customer journey."
     }
   },
   {
@@ -2711,10 +3293,10 @@
       "D": "modifica la relazione brand-cliente rendendola più informata e partecipativa"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di customer journey in relazione con \"permette di osservare interazioni, aspettative, emozioni e ostacoli nel tempo\".",
-      "B": "Non è la scelta migliore: \"partecipa alla narrazione e può influenzare altri consumatori\" descrive un concetto diverso dal concetto di customer journey.",
-      "C": "Non è la scelta migliore: \"rende osservabile dove il cliente incontra o valuta l'impresa\" sposta l'attenzione su un aspetto diverso dal concetto di customer journey.",
-      "D": "Non è la scelta migliore: \"modifica la relazione brand-cliente rendendola più informata e partecipativa\" non identifica il ruolo specifico del concetto di customer journey in questa domanda."
+      "A": "È corretta perché interpreta customer journey a partire dalla sua definizione nel corso: il processo complessivo che il cliente vive prima, durante e dopo l'accesso all'offerta. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di prosumer, mentre la domanda richiede customer journey.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di touchpoint, mentre la domanda richiede customer journey.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di nuovo consumatore iperconnesso, mentre la domanda richiede customer journey."
     }
   },
   {
@@ -2731,6 +3313,12 @@
       "B": "il processo complessivo che il cliente vive prima, durante e dopo l'accesso all'offerta",
       "C": "un modello lineare in cui il consumatore restringe progressivamente il set di marche fino all'acquisto",
       "D": "un consumatore che ricerca, richiede e produce contenuti o valore per il brand"
+    },
+    "rationales": {
+      "A": "Touchpoint è il concetto richiesto: nel corso rende osservabile dove il cliente incontra o valuta l'impresa. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di customer journey, mentre la domanda richiede touchpoint.",
+      "C": "Non è corretta perché descrive la definizione di funnel tradizionale, mentre la domanda richiede touchpoint.",
+      "D": "Non è corretta perché descrive la definizione di prosumer, mentre la domanda richiede touchpoint."
     }
   },
   {
@@ -2749,10 +3337,10 @@
       "D": "partecipa alla narrazione e può influenzare altri consumatori"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di touchpoint in relazione con \"rende osservabile dove il cliente incontra o valuta l'impresa\".",
-      "B": "Non è la scelta migliore: \"permette di osservare interazioni, aspettative, emozioni e ostacoli nel tempo\" descrive un concetto diverso dal concetto di touchpoint.",
-      "C": "Non è la scelta migliore: \"rappresenta il percorso classico prima dei modelli circolari e multi-touchpoint\" sposta l'attenzione su un aspetto diverso dal concetto di touchpoint.",
-      "D": "Non è la scelta migliore: \"partecipa alla narrazione e può influenzare altri consumatori\" non identifica il ruolo specifico del concetto di touchpoint in questa domanda."
+      "A": "È corretta perché interpreta touchpoint a partire dalla sua definizione nel corso: un momento di interazione tra consumatore e brand su una piattaforma o dispositivo specifico. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di customer journey, mentre la domanda richiede touchpoint.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di funnel tradizionale, mentre la domanda richiede touchpoint.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di prosumer, mentre la domanda richiede touchpoint."
     }
   },
   {
@@ -2769,6 +3357,12 @@
       "B": "un momento di interazione tra consumatore e brand su una piattaforma o dispositivo specifico",
       "C": "un percorso circolare con considerazione iniziale, valutazione attiva, momento d'acquisto ed esperienza post-acquisto",
       "D": "il processo complessivo che il cliente vive prima, durante e dopo l'accesso all'offerta"
+    },
+    "rationales": {
+      "A": "Funnel tradizionale è il concetto richiesto: nel corso rappresenta il percorso classico prima dei modelli circolari e multi-touchpoint. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di touchpoint, mentre la domanda richiede funnel tradizionale.",
+      "C": "Non è corretta perché descrive la definizione di consumer decision journey McKinsey, mentre la domanda richiede funnel tradizionale.",
+      "D": "Non è corretta perché descrive la definizione di customer journey, mentre la domanda richiede funnel tradizionale."
     }
   },
   {
@@ -2787,10 +3381,10 @@
       "D": "permette di osservare interazioni, aspettative, emozioni e ostacoli nel tempo"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di funnel tradizionale in relazione con \"rappresenta il percorso classico prima dei modelli circolari e multi-touchpoint\".",
-      "B": "Non è la scelta migliore: \"rende osservabile dove il cliente incontra o valuta l'impresa\" descrive un concetto diverso dal concetto di funnel tradizionale.",
-      "C": "Non è la scelta migliore: \"sostituisce la visione puramente lineare del funnel tradizionale\" sposta l'attenzione su un aspetto diverso dal concetto di funnel tradizionale.",
-      "D": "Non è la scelta migliore: \"permette di osservare interazioni, aspettative, emozioni e ostacoli nel tempo\" non identifica il ruolo specifico del concetto di funnel tradizionale in questa domanda."
+      "A": "È corretta perché interpreta funnel tradizionale a partire dalla sua definizione nel corso: un modello lineare in cui il consumatore restringe progressivamente il set di marche fino all'acquisto. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di touchpoint, mentre la domanda richiede funnel tradizionale.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di consumer decision journey McKinsey, mentre la domanda richiede funnel tradizionale.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di customer journey, mentre la domanda richiede funnel tradizionale."
     }
   },
   {
@@ -2829,6 +3423,12 @@
       "B": "rappresenta il percorso classico prima dei modelli circolari e multi-touchpoint",
       "C": "è fortemente influenzata da recensioni, passaparola ed esperienze consumer-driven",
       "D": "rende osservabile dove il cliente incontra o valuta l'impresa"
+    },
+    "rationales": {
+      "A": "È corretta perché interpreta consumer decision journey McKinsey a partire dalla sua definizione nel corso: un percorso circolare con considerazione iniziale, valutazione attiva, momento d'acquisto ed esperienza post-acquisto. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di funnel tradizionale, mentre la domanda richiede consumer decision journey McKinsey.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di valutazione attiva, mentre la domanda richiede consumer decision journey McKinsey.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di touchpoint, mentre la domanda richiede consumer decision journey McKinsey."
     }
   },
   {
@@ -2845,6 +3445,12 @@
       "B": "un percorso circolare con considerazione iniziale, valutazione attiva, momento d'acquisto ed esperienza post-acquisto",
       "C": "l'anello di fedeltà alimentato dall'esperienza post-acquisto",
       "D": "un modello lineare in cui il consumatore restringe progressivamente il set di marche fino all'acquisto"
+    },
+    "rationales": {
+      "A": "Valutazione attiva è il concetto richiesto: nel corso è fortemente influenzata da recensioni, passaparola ed esperienze consumer-driven. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di consumer decision journey McKinsey, mentre la domanda richiede valutazione attiva.",
+      "C": "Non è corretta perché descrive la definizione di loyalty loop, mentre la domanda richiede valutazione attiva.",
+      "D": "Non è corretta perché descrive la definizione di funnel tradizionale, mentre la domanda richiede valutazione attiva."
     }
   },
   {
@@ -2863,10 +3469,10 @@
       "D": "rappresenta il percorso classico prima dei modelli circolari e multi-touchpoint"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di valutazione attiva in relazione con \"è fortemente influenzata da recensioni, passaparola ed esperienze consumer-driven\".",
-      "B": "Non è la scelta migliore: \"sostituisce la visione puramente lineare del funnel tradizionale\" descrive un concetto diverso dal concetto di valutazione attiva.",
-      "C": "Non è la scelta migliore: \"può accorciare o riattivare percorsi decisionali successivi\" sposta l'attenzione su un aspetto diverso dal concetto di valutazione attiva.",
-      "D": "Non è la scelta migliore: \"rappresenta il percorso classico prima dei modelli circolari e multi-touchpoint\" non identifica il ruolo specifico del concetto di valutazione attiva in questa domanda."
+      "A": "È corretta perché interpreta valutazione attiva a partire dalla sua definizione nel corso: la fase in cui il consumatore raccoglie informazioni e può aggiungere o togliere marche dal set considerato. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di consumer decision journey McKinsey, mentre la domanda richiede valutazione attiva.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di loyalty loop, mentre la domanda richiede valutazione attiva.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di funnel tradizionale, mentre la domanda richiede valutazione attiva."
     }
   },
   {
@@ -2907,10 +3513,10 @@
       "D": "sostituisce la visione puramente lineare del funnel tradizionale"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di loyalty loop in relazione con \"può accorciare o riattivare percorsi decisionali successivi\".",
-      "B": "Non è la scelta migliore: \"è fortemente influenzata da recensioni, passaparola ed esperienze consumer-driven\" descrive un concetto diverso dal concetto di loyalty loop.",
-      "C": "Non è la scelta migliore: \"è cruciale per alimentare il loyalty loop\" sposta l'attenzione su un aspetto diverso dal concetto di loyalty loop.",
-      "D": "Non è la scelta migliore: \"sostituisce la visione puramente lineare del funnel tradizionale\" non identifica il ruolo specifico del concetto di loyalty loop in questa domanda."
+      "A": "È corretta perché interpreta loyalty loop a partire dalla sua definizione nel corso: l'anello di fedeltà alimentato dall'esperienza post-acquisto. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di valutazione attiva, mentre la domanda richiede loyalty loop.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di esperienza post-acquisto, mentre la domanda richiede loyalty loop.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di consumer decision journey McKinsey, mentre la domanda richiede loyalty loop."
     }
   },
   {
@@ -2927,6 +3533,12 @@
       "B": "l'anello di fedeltà alimentato dall'esperienza post-acquisto",
       "C": "il momento in cui il consumatore cerca online informazioni, recensioni e confronti prima dell'acquisto",
       "D": "la fase in cui il consumatore raccoglie informazioni e può aggiungere o togliere marche dal set considerato"
+    },
+    "rationales": {
+      "A": "Esperienza post-acquisto è il concetto richiesto: nel corso è cruciale per alimentare il loyalty loop. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di loyalty loop, mentre la domanda richiede esperienza post-acquisto.",
+      "C": "Non è corretta perché descrive la definizione di ZMOT, mentre la domanda richiede esperienza post-acquisto.",
+      "D": "Non è corretta perché descrive la definizione di valutazione attiva, mentre la domanda richiede esperienza post-acquisto."
     }
   },
   {
@@ -2943,6 +3555,12 @@
       "B": "può accorciare o riattivare percorsi decisionali successivi",
       "C": "anticipa il contatto diretto con prodotto o venditore e influenza la decisione",
       "D": "è fortemente influenzata da recensioni, passaparola ed esperienze consumer-driven"
+    },
+    "rationales": {
+      "A": "È corretta perché interpreta esperienza post-acquisto a partire dalla sua definizione nel corso: la fase in cui l'uso del prodotto costruisce aspettative e influenza futuri percorsi decisionali. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di loyalty loop, mentre la domanda richiede esperienza post-acquisto.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di ZMOT, mentre la domanda richiede esperienza post-acquisto.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di valutazione attiva, mentre la domanda richiede esperienza post-acquisto."
     }
   },
   {
@@ -2982,6 +3600,12 @@
       "B": "è cruciale per alimentare il loyalty loop",
       "C": "riguarda la scelta nel punto di acquisto o nella pagina prodotto",
       "D": "può accorciare o riattivare percorsi decisionali successivi"
+    },
+    "rationales": {
+      "A": "È corretta perché interpreta ZMOT a partire dalla sua definizione nel corso: il momento in cui il consumatore cerca online informazioni, recensioni e confronti prima dell'acquisto. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di esperienza post-acquisto, mentre la domanda richiede ZMOT.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di FMOT, mentre la domanda richiede ZMOT.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di loyalty loop, mentre la domanda richiede ZMOT."
     }
   },
   {
@@ -2999,6 +3623,12 @@
       "B": "il momento in cui il consumatore cerca online informazioni, recensioni e confronti prima dell'acquisto",
       "C": "il Second Moment of Truth, cioè l'esperienza d'uso del prodotto dopo l'acquisto",
       "D": "la fase in cui l'uso del prodotto costruisce aspettative e influenza futuri percorsi decisionali"
+    },
+    "rationales": {
+      "A": "FMOT è il concetto richiesto: nel corso riguarda la scelta nel punto di acquisto o nella pagina prodotto. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di ZMOT, mentre la domanda richiede FMOT.",
+      "C": "Non è corretta perché descrive la definizione di SMOT, mentre la domanda richiede FMOT.",
+      "D": "Non è corretta perché descrive la definizione di esperienza post-acquisto, mentre la domanda richiede FMOT."
     }
   },
   {
@@ -3018,10 +3648,10 @@
       "D": "è cruciale per alimentare il loyalty loop"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di FMOT in relazione con \"riguarda la scelta nel punto di acquisto o nella pagina prodotto\".",
-      "B": "Non è la scelta migliore: \"anticipa il contatto diretto con prodotto o venditore e influenza la decisione\" descrive un concetto diverso dal concetto di FMOT.",
-      "C": "Non è la scelta migliore: \"può generare contenuti e passaparola che diventano ZMOT per altri consumatori\" sposta l'attenzione su un aspetto diverso dal concetto di FMOT.",
-      "D": "Non è la scelta migliore: \"è cruciale per alimentare il loyalty loop\" non identifica il ruolo specifico del concetto di FMOT in questa domanda."
+      "A": "È corretta perché interpreta FMOT a partire dalla sua definizione nel corso: il First Moment of Truth, cioè il momento dello scaffale fisico o digitale in cui il consumatore incontra l'offerta. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di ZMOT, mentre la domanda richiede FMOT.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di SMOT, mentre la domanda richiede FMOT.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di esperienza post-acquisto, mentre la domanda richiede FMOT."
     }
   },
   {
@@ -3038,6 +3668,12 @@
       "B": "il First Moment of Truth, cioè il momento dello scaffale fisico o digitale in cui il consumatore incontra l'offerta",
       "C": "interazioni progettate e controllate direttamente dall'impresa",
       "D": "il momento in cui il consumatore cerca online informazioni, recensioni e confronti prima dell'acquisto"
+    },
+    "rationales": {
+      "A": "SMOT è il concetto richiesto: nel corso può generare contenuti e passaparola che diventano ZMOT per altri consumatori. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di FMOT, mentre la domanda richiede SMOT.",
+      "C": "Non è corretta perché descrive la definizione di touchpoint brand-owned, mentre la domanda richiede SMOT.",
+      "D": "Non è corretta perché descrive la definizione di ZMOT, mentre la domanda richiede SMOT."
     }
   },
   {
@@ -3056,10 +3692,10 @@
       "D": "anticipa il contatto diretto con prodotto o venditore e influenza la decisione"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di SMOT in relazione con \"può generare contenuti e passaparola che diventano ZMOT per altri consumatori\".",
-      "B": "Non è la scelta migliore: \"riguarda la scelta nel punto di acquisto o nella pagina prodotto\" descrive un concetto diverso dal concetto di SMOT.",
-      "C": "Non è la scelta migliore: \"sono touchpoint su cui il brand ha maggiore governo\" sposta l'attenzione su un aspetto diverso dal concetto di SMOT.",
-      "D": "Non è la scelta migliore: \"anticipa il contatto diretto con prodotto o venditore e influenza la decisione\" non identifica il ruolo specifico del concetto di SMOT in questa domanda."
+      "A": "È corretta perché interpreta SMOT a partire dalla sua definizione nel corso: il Second Moment of Truth, cioè l'esperienza d'uso del prodotto dopo l'acquisto. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di FMOT, mentre la domanda richiede SMOT.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di touchpoint brand-owned, mentre la domanda richiede SMOT.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di ZMOT, mentre la domanda richiede SMOT."
     }
   },
   {
@@ -3076,6 +3712,12 @@
       "B": "il Second Moment of Truth, cioè l'esperienza d'uso del prodotto dopo l'acquisto",
       "C": "azioni del cliente durante la journey che l'impresa non controlla direttamente",
       "D": "il First Moment of Truth, cioè il momento dello scaffale fisico o digitale in cui il consumatore incontra l'offerta"
+    },
+    "rationales": {
+      "A": "Touchpoint brand-owned è il concetto richiesto: nel corso sono touchpoint su cui il brand ha maggiore governo. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di SMOT, mentre la domanda richiede touchpoint brand-owned.",
+      "C": "Non è corretta perché descrive la definizione di touchpoint customer-owned, mentre la domanda richiede touchpoint brand-owned.",
+      "D": "Non è corretta perché descrive la definizione di FMOT, mentre la domanda richiede touchpoint brand-owned."
     }
   },
   {
@@ -3094,10 +3736,10 @@
       "D": "riguarda la scelta nel punto di acquisto o nella pagina prodotto"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di touchpoint brand-owned in relazione con \"sono touchpoint su cui il brand ha maggiore governo\".",
-      "B": "Non è la scelta migliore: \"può generare contenuti e passaparola che diventano ZMOT per altri consumatori\" descrive un concetto diverso dal concetto di touchpoint brand-owned.",
-      "C": "Non è la scelta migliore: \"mostrano come il cliente costruisce esperienza anche fuori dai canali gestiti\" sposta l'attenzione su un aspetto diverso dal concetto di touchpoint brand-owned.",
-      "D": "Non è la scelta migliore: \"riguarda la scelta nel punto di acquisto o nella pagina prodotto\" non identifica il ruolo specifico del concetto di touchpoint brand-owned in questa domanda."
+      "A": "È corretta perché interpreta touchpoint brand-owned a partire dalla sua definizione nel corso: interazioni progettate e controllate direttamente dall'impresa. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di SMOT, mentre la domanda richiede touchpoint brand-owned.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di touchpoint customer-owned, mentre la domanda richiede touchpoint brand-owned.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di FMOT, mentre la domanda richiede touchpoint brand-owned."
     }
   },
   {
@@ -3114,6 +3756,12 @@
       "B": "interazioni progettate e controllate direttamente dall'impresa",
       "C": "una rappresentazione narrativa e visuale dell'esperienza del cliente lungo fasi e touchpoint",
       "D": "il Second Moment of Truth, cioè l'esperienza d'uso del prodotto dopo l'acquisto"
+    },
+    "rationales": {
+      "A": "Touchpoint customer-owned è il concetto richiesto: nel corso mostrano come il cliente costruisce esperienza anche fuori dai canali gestiti. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di touchpoint brand-owned, mentre la domanda richiede touchpoint customer-owned.",
+      "C": "Non è corretta perché descrive la definizione di customer journey map, mentre la domanda richiede touchpoint customer-owned.",
+      "D": "Non è corretta perché descrive la definizione di SMOT, mentre la domanda richiede touchpoint customer-owned."
     }
   },
   {
@@ -3130,6 +3778,12 @@
       "B": "sono touchpoint su cui il brand ha maggiore governo",
       "C": "aiuta a individuare frizioni, insight e opportunità di miglioramento",
       "D": "può generare contenuti e passaparola che diventano ZMOT per altri consumatori"
+    },
+    "rationales": {
+      "A": "È corretta perché interpreta touchpoint customer-owned a partire dalla sua definizione nel corso: azioni del cliente durante la journey che l'impresa non controlla direttamente. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di touchpoint brand-owned, mentre la domanda richiede touchpoint customer-owned.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di customer journey map, mentre la domanda richiede touchpoint customer-owned.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di SMOT, mentre la domanda richiede touchpoint customer-owned."
     }
   },
   {
@@ -3146,6 +3800,12 @@
       "B": "azioni del cliente durante la journey che l'impresa non controlla direttamente",
       "C": "la fase in cui si definiscono segmento/persona e parti del percorso da coprire",
       "D": "interazioni progettate e controllate direttamente dall'impresa"
+    },
+    "rationales": {
+      "A": "Customer journey map è il concetto richiesto: nel corso aiuta a individuare frizioni, insight e opportunità di miglioramento. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di touchpoint customer-owned, mentre la domanda richiede customer journey map.",
+      "C": "Non è corretta perché descrive la definizione di scoping della journey map, mentre la domanda richiede customer journey map.",
+      "D": "Non è corretta perché descrive la definizione di touchpoint brand-owned, mentre la domanda richiede customer journey map."
     }
   },
   {
@@ -3164,10 +3824,10 @@
       "D": "sono touchpoint su cui il brand ha maggiore governo"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di customer journey map in relazione con \"aiuta a individuare frizioni, insight e opportunità di miglioramento\".",
-      "B": "Non è la scelta migliore: \"mostrano come il cliente costruisce esperienza anche fuori dai canali gestiti\" descrive un concetto diverso dal concetto di customer journey map.",
-      "C": "Non è la scelta migliore: \"delimita il perimetro dell'analisi prima della raccolta dati\" sposta l'attenzione su un aspetto diverso dal concetto di customer journey map.",
-      "D": "Non è la scelta migliore: \"sono touchpoint su cui il brand ha maggiore governo\" non identifica il ruolo specifico del concetto di customer journey map in questa domanda."
+      "A": "È corretta perché interpreta customer journey map a partire dalla sua definizione nel corso: una rappresentazione narrativa e visuale dell'esperienza del cliente lungo fasi e touchpoint. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di touchpoint customer-owned, mentre la domanda richiede customer journey map.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di scoping della journey map, mentre la domanda richiede customer journey map.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di touchpoint brand-owned, mentre la domanda richiede customer journey map."
     }
   },
   {
@@ -3185,6 +3845,12 @@
       "B": "una rappresentazione narrativa e visuale dell'esperienza del cliente lungo fasi e touchpoint",
       "C": "una caratterizzazione fittizia dei clienti migliori basata su informazioni reali",
       "D": "azioni del cliente durante la journey che l'impresa non controlla direttamente"
+    },
+    "rationales": {
+      "A": "Scoping della journey map è il concetto richiesto: nel corso delimita il perimetro dell'analisi prima della raccolta dati. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di customer journey map, mentre la domanda richiede scoping della journey map.",
+      "C": "Non è corretta perché descrive la definizione di buyer persona, mentre la domanda richiede scoping della journey map.",
+      "D": "Non è corretta perché descrive la definizione di touchpoint customer-owned, mentre la domanda richiede scoping della journey map."
     }
   },
   {
@@ -3204,10 +3870,10 @@
       "D": "mostrano come il cliente costruisce esperienza anche fuori dai canali gestiti"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di scoping della journey map in relazione con \"delimita il perimetro dell'analisi prima della raccolta dati\".",
-      "B": "Non è la scelta migliore: \"aiuta a individuare frizioni, insight e opportunità di miglioramento\" descrive un concetto diverso dal concetto di scoping della journey map.",
-      "C": "Non è la scelta migliore: \"aiuta a progettare contenuti, soluzioni e campagne più aderenti ai segmenti\" sposta l'attenzione su un aspetto diverso dal concetto di scoping della journey map.",
-      "D": "Non è la scelta migliore: \"mostrano come il cliente costruisce esperienza anche fuori dai canali gestiti\" non identifica il ruolo specifico del concetto di scoping della journey map in questa domanda."
+      "A": "È corretta perché interpreta scoping della journey map a partire dalla sua definizione nel corso: la fase in cui si definiscono segmento/persona e parti del percorso da coprire. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di customer journey map, mentre la domanda richiede scoping della journey map.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di buyer persona, mentre la domanda richiede scoping della journey map.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di touchpoint customer-owned, mentre la domanda richiede scoping della journey map."
     }
   },
   {
@@ -3225,6 +3891,12 @@
       "B": "la fase in cui si definiscono segmento/persona e parti del percorso da coprire",
       "C": "la soddisfazione deriva dal confronto tra performance percepita e aspettative",
       "D": "una rappresentazione narrativa e visuale dell'esperienza del cliente lungo fasi e touchpoint"
+    },
+    "rationales": {
+      "A": "Buyer persona è il concetto richiesto: nel corso aiuta a progettare contenuti, soluzioni e campagne più aderenti ai segmenti. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di scoping della journey map, mentre la domanda richiede buyer persona.",
+      "C": "Non è corretta perché descrive la definizione di disconfirmation paradigm, mentre la domanda richiede buyer persona.",
+      "D": "Non è corretta perché descrive la definizione di customer journey map, mentre la domanda richiede buyer persona."
     }
   },
   {
@@ -3242,6 +3914,12 @@
       "B": "delimita il perimetro dell'analisi prima della raccolta dati",
       "C": "spiega perché la customer satisfaction non dipende solo dalla qualità tecnica assoluta",
       "D": "aiuta a individuare frizioni, insight e opportunità di miglioramento"
+    },
+    "rationales": {
+      "A": "È corretta perché interpreta buyer persona a partire dalla sua definizione nel corso: una caratterizzazione fittizia dei clienti migliori basata su informazioni reali. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di scoping della journey map, mentre la domanda richiede buyer persona.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di disconfirmation paradigm, mentre la domanda richiede buyer persona.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di customer journey map, mentre la domanda richiede buyer persona."
     }
   },
   {
@@ -3258,6 +3936,12 @@
       "B": "una caratterizzazione fittizia dei clienti migliori basata su informazioni reali",
       "C": "un livello di soddisfazione superiore legato al superamento significativo delle aspettative",
       "D": "la fase in cui si definiscono segmento/persona e parti del percorso da coprire"
+    },
+    "rationales": {
+      "A": "Disconfirmation paradigm è il concetto richiesto: nel corso spiega perché la customer satisfaction non dipende solo dalla qualità tecnica assoluta. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di buyer persona, mentre la domanda richiede disconfirmation paradigm.",
+      "C": "Non è corretta perché descrive la definizione di customer delight, mentre la domanda richiede disconfirmation paradigm.",
+      "D": "Non è corretta perché descrive la definizione di scoping della journey map, mentre la domanda richiede disconfirmation paradigm."
     }
   },
   {
@@ -3274,6 +3958,12 @@
       "B": "aiuta a progettare contenuti, soluzioni e campagne più aderenti ai segmenti",
       "C": "può rafforzare fedeltà, passaparola e relazione con il brand",
       "D": "delimita il perimetro dell'analisi prima della raccolta dati"
+    },
+    "rationales": {
+      "A": "È corretta perché interpreta disconfirmation paradigm a partire dalla sua definizione nel corso: la soddisfazione deriva dal confronto tra performance percepita e aspettative. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di buyer persona, mentre la domanda richiede disconfirmation paradigm.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di customer delight, mentre la domanda richiede disconfirmation paradigm.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di scoping della journey map, mentre la domanda richiede disconfirmation paradigm."
     }
   },
   {
@@ -3290,6 +3980,12 @@
       "B": "la soddisfazione deriva dal confronto tra performance percepita e aspettative",
       "C": "uno stato psicologico e comportamentale che include interazioni oltre l'acquisto",
       "D": "una caratterizzazione fittizia dei clienti migliori basata su informazioni reali"
+    },
+    "rationales": {
+      "A": "Customer delight è il concetto richiesto: nel corso può rafforzare fedeltà, passaparola e relazione con il brand. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di disconfirmation paradigm, mentre la domanda richiede customer delight.",
+      "C": "Non è corretta perché descrive la definizione di customer engagement, mentre la domanda richiede customer delight.",
+      "D": "Non è corretta perché descrive la definizione di buyer persona, mentre la domanda richiede customer delight."
     }
   },
   {
@@ -3308,10 +4004,10 @@
       "D": "aiuta a progettare contenuti, soluzioni e campagne più aderenti ai segmenti"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di customer delight in relazione con \"può rafforzare fedeltà, passaparola e relazione con il brand\".",
-      "B": "Non è la scelta migliore: \"spiega perché la customer satisfaction non dipende solo dalla qualità tecnica assoluta\" descrive un concetto diverso dal concetto di customer delight.",
-      "C": "Non è la scelta migliore: \"può generare co-creazione, partecipazione e valore o anche effetti negativi\" sposta l'attenzione su un aspetto diverso dal concetto di customer delight.",
-      "D": "Non è la scelta migliore: \"aiuta a progettare contenuti, soluzioni e campagne più aderenti ai segmenti\" non identifica il ruolo specifico del concetto di customer delight in questa domanda."
+      "A": "È corretta perché interpreta customer delight a partire dalla sua definizione nel corso: un livello di soddisfazione superiore legato al superamento significativo delle aspettative. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di disconfirmation paradigm, mentre la domanda richiede customer delight.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di customer engagement, mentre la domanda richiede customer delight.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di buyer persona, mentre la domanda richiede customer delight."
     }
   },
   {
@@ -3329,6 +4025,12 @@
       "B": "un livello di soddisfazione superiore legato al superamento significativo delle aspettative",
       "C": "la soddisfazione deriva dal confronto tra performance percepita e aspettative",
       "D": "una caratterizzazione fittizia dei clienti migliori basata su informazioni reali"
+    },
+    "rationales": {
+      "A": "Customer engagement è il concetto richiesto: nel corso può generare co-creazione, partecipazione e valore o anche effetti negativi. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di customer delight, mentre la domanda richiede customer engagement.",
+      "C": "Non è corretta perché descrive la definizione di disconfirmation paradigm, mentre la domanda richiede customer engagement.",
+      "D": "Non è corretta perché descrive la definizione di buyer persona, mentre la domanda richiede customer engagement."
     }
   },
   {
@@ -3348,10 +4050,10 @@
       "D": "aiuta a progettare contenuti, soluzioni e campagne più aderenti ai segmenti"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di customer engagement in relazione con \"può generare co-creazione, partecipazione e valore o anche effetti negativi\".",
-      "B": "Non è la scelta migliore: \"può rafforzare fedeltà, passaparola e relazione con il brand\" descrive un concetto diverso dal concetto di customer engagement.",
-      "C": "Non è la scelta migliore: \"spiega perché la customer satisfaction non dipende solo dalla qualità tecnica assoluta\" sposta l'attenzione su un aspetto diverso dal concetto di customer engagement.",
-      "D": "Non è la scelta migliore: \"aiuta a progettare contenuti, soluzioni e campagne più aderenti ai segmenti\" non identifica il ruolo specifico del concetto di customer engagement in questa domanda."
+      "A": "È corretta perché interpreta customer engagement a partire dalla sua definizione nel corso: uno stato psicologico e comportamentale che include interazioni oltre l'acquisto. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di customer delight, mentre la domanda richiede customer engagement.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di disconfirmation paradigm, mentre la domanda richiede customer engagement.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di buyer persona, mentre la domanda richiede customer engagement."
     }
   },
   {
@@ -3414,6 +4116,12 @@
       "B": "la logica con cui un'organizzazione crea, distribuisce e cattura valore",
       "C": "i gruppi di clienti a cui l'impresa intende offrire valore",
       "D": "i modi con cui l'impresa raggiunge i segmenti e consegna la value proposition"
+    },
+    "rationales": {
+      "A": "Business Model Canvas è il concetto richiesto: nel corso aiuta a visualizzare le componenti chiave del modello d'impresa. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di business model, mentre la domanda richiede Business Model Canvas.",
+      "C": "Non è corretta perché descrive la definizione di customer segments nel Business Model Canvas, mentre la domanda richiede Business Model Canvas.",
+      "D": "Non è corretta perché descrive la definizione di channels nel Business Model Canvas, mentre la domanda richiede Business Model Canvas."
     }
   },
   {
@@ -3430,6 +4138,12 @@
       "B": "racconta come l'impresa funziona economicamente e strategicamente",
       "C": "orientano value proposition, canali, relazioni e ricavi",
       "D": "collegano offerta e cliente lungo comunicazione, distribuzione e vendita"
+    },
+    "rationales": {
+      "A": "È corretta perché interpreta Business Model Canvas a partire dalla sua definizione nel corso: uno schema che descrive value proposition, segmenti, canali, relazioni, ricavi, risorse, attività, partner e costi. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di business model, mentre la domanda richiede Business Model Canvas.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di customer segments nel Business Model Canvas, mentre la domanda richiede Business Model Canvas.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di channels nel Business Model Canvas, mentre la domanda richiede Business Model Canvas."
     }
   },
   {
@@ -3447,6 +4161,12 @@
       "B": "uno schema che descrive value proposition, segmenti, canali, relazioni, ricavi, risorse, attività, partner e costi",
       "C": "i modi con cui l'impresa raggiunge i segmenti e consegna la value proposition",
       "D": "la logica con cui un'organizzazione crea, distribuisce e cattura valore"
+    },
+    "rationales": {
+      "A": "Customer segments nel Business Model Canvas è il concetto richiesto: nel corso orientano value proposition, canali, relazioni e ricavi. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di Business Model Canvas, mentre la domanda richiede customer segments nel Business Model Canvas.",
+      "C": "Non è corretta perché descrive la definizione di channels nel Business Model Canvas, mentre la domanda richiede customer segments nel Business Model Canvas.",
+      "D": "Non è corretta perché descrive la definizione di business model, mentre la domanda richiede customer segments nel Business Model Canvas."
     }
   },
   {
@@ -3466,10 +4186,10 @@
       "D": "racconta come l'impresa funziona economicamente e strategicamente"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di customer segments nel Business Model Canvas in relazione con \"orientano value proposition, canali, relazioni e ricavi\".",
-      "B": "Non è la scelta migliore: \"aiuta a visualizzare le componenti chiave del modello d'impresa\" descrive un concetto diverso dal concetto di customer segments nel Business Model Canvas.",
-      "C": "Non è la scelta migliore: \"collegano offerta e cliente lungo comunicazione, distribuzione e vendita\" sposta l'attenzione su un aspetto diverso dal concetto di customer segments nel Business Model Canvas.",
-      "D": "Non è la scelta migliore: \"racconta come l'impresa funziona economicamente e strategicamente\" non identifica il ruolo specifico del concetto di customer segments nel Business Model Canvas in questa domanda."
+      "A": "È corretta perché interpreta customer segments nel Business Model Canvas a partire dalla sua definizione nel corso: i gruppi di clienti a cui l'impresa intende offrire valore. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di Business Model Canvas, mentre la domanda richiede customer segments nel Business Model Canvas.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di channels nel Business Model Canvas, mentre la domanda richiede customer segments nel Business Model Canvas.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di business model, mentre la domanda richiede customer segments nel Business Model Canvas."
     }
   },
   {
@@ -3486,6 +4206,12 @@
       "B": "i gruppi di clienti a cui l'impresa intende offrire valore",
       "C": "il tipo di relazione che l'impresa stabilisce con ciascun segmento",
       "D": "uno schema che descrive value proposition, segmenti, canali, relazioni, ricavi, risorse, attività, partner e costi"
+    },
+    "rationales": {
+      "A": "Channels nel Business Model Canvas è il concetto richiesto: nel corso collegano offerta e cliente lungo comunicazione, distribuzione e vendita. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di customer segments nel Business Model Canvas, mentre la domanda richiede channels nel Business Model Canvas.",
+      "C": "Non è corretta perché descrive la definizione di customer relationships nel Business Model Canvas, mentre la domanda richiede channels nel Business Model Canvas.",
+      "D": "Non è corretta perché descrive la definizione di Business Model Canvas, mentre la domanda richiede channels nel Business Model Canvas."
     }
   },
   {
@@ -3504,10 +4230,10 @@
       "D": "aiuta a visualizzare le componenti chiave del modello d'impresa"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di channels nel Business Model Canvas in relazione con \"collegano offerta e cliente lungo comunicazione, distribuzione e vendita\".",
-      "B": "Non è la scelta migliore: \"orientano value proposition, canali, relazioni e ricavi\" descrive un concetto diverso dal concetto di channels nel Business Model Canvas.",
-      "C": "Non è la scelta migliore: \"definisce assistenza, automazione, community o personalizzazione del rapporto\" sposta l'attenzione su un aspetto diverso dal concetto di channels nel Business Model Canvas.",
-      "D": "Non è la scelta migliore: \"aiuta a visualizzare le componenti chiave del modello d'impresa\" non identifica il ruolo specifico del concetto di channels nel Business Model Canvas in questa domanda."
+      "A": "È corretta perché interpreta channels nel Business Model Canvas a partire dalla sua definizione nel corso: i modi con cui l'impresa raggiunge i segmenti e consegna la value proposition. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di customer segments nel Business Model Canvas, mentre la domanda richiede channels nel Business Model Canvas.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di customer relationships nel Business Model Canvas, mentre la domanda richiede channels nel Business Model Canvas.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di Business Model Canvas, mentre la domanda richiede channels nel Business Model Canvas."
     }
   },
   {
@@ -3525,6 +4251,12 @@
       "B": "i modi con cui l'impresa raggiunge i segmenti e consegna la value proposition",
       "C": "il modo specifico in cui l'impresa genera fatturato dai segmenti serviti",
       "D": "i gruppi di clienti a cui l'impresa intende offrire valore"
+    },
+    "rationales": {
+      "A": "Customer relationships nel Business Model Canvas è il concetto richiesto: nel corso definisce assistenza, automazione, community o personalizzazione del rapporto. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di channels nel Business Model Canvas, mentre la domanda richiede customer relationships nel Business Model Canvas.",
+      "C": "Non è corretta perché descrive la definizione di revenue model, mentre la domanda richiede customer relationships nel Business Model Canvas.",
+      "D": "Non è corretta perché descrive la definizione di customer segments nel Business Model Canvas, mentre la domanda richiede customer relationships nel Business Model Canvas."
     }
   },
   {
@@ -3542,6 +4274,12 @@
       "B": "collegano offerta e cliente lungo comunicazione, distribuzione e vendita",
       "C": "è una componente del business model dedicata ai flussi di ricavo",
       "D": "orientano value proposition, canali, relazioni e ricavi"
+    },
+    "rationales": {
+      "A": "È corretta perché interpreta customer relationships nel Business Model Canvas a partire dalla sua definizione nel corso: il tipo di relazione che l'impresa stabilisce con ciascun segmento. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di channels nel Business Model Canvas, mentre la domanda richiede customer relationships nel Business Model Canvas.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di revenue model, mentre la domanda richiede customer relationships nel Business Model Canvas.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di customer segments nel Business Model Canvas, mentre la domanda richiede customer relationships nel Business Model Canvas."
     }
   },
   {
@@ -3558,6 +4296,12 @@
       "B": "il tipo di relazione che l'impresa stabilisce con ciascun segmento",
       "C": "l'insieme dei principali costi necessari per far funzionare il business model",
       "D": "i modi con cui l'impresa raggiunge i segmenti e consegna la value proposition"
+    },
+    "rationales": {
+      "A": "Revenue model è il concetto richiesto: nel corso è una componente del business model dedicata ai flussi di ricavo. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di customer relationships nel Business Model Canvas, mentre la domanda richiede revenue model.",
+      "C": "Non è corretta perché descrive la definizione di cost structure, mentre la domanda richiede revenue model.",
+      "D": "Non è corretta perché descrive la definizione di channels nel Business Model Canvas, mentre la domanda richiede revenue model."
     }
   },
   {
@@ -3574,6 +4318,12 @@
       "B": "definisce assistenza, automazione, community o personalizzazione del rapporto",
       "C": "aiuta a valutare sostenibilità economica e formula di profitto",
       "D": "collegano offerta e cliente lungo comunicazione, distribuzione e vendita"
+    },
+    "rationales": {
+      "A": "È corretta perché interpreta revenue model a partire dalla sua definizione nel corso: il modo specifico in cui l'impresa genera fatturato dai segmenti serviti. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di customer relationships nel Business Model Canvas, mentre la domanda richiede revenue model.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di cost structure, mentre la domanda richiede revenue model.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di channels nel Business Model Canvas, mentre la domanda richiede revenue model."
     }
   },
   {
@@ -3590,6 +4340,12 @@
       "B": "il modo specifico in cui l'impresa genera fatturato dai segmenti serviti",
       "C": "un modello in cui una versione base gratuita convive con funzionalità premium a pagamento",
       "D": "il tipo di relazione che l'impresa stabilisce con ciascun segmento"
+    },
+    "rationales": {
+      "A": "Cost structure è il concetto richiesto: nel corso aiuta a valutare sostenibilità economica e formula di profitto. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di revenue model, mentre la domanda richiede cost structure.",
+      "C": "Non è corretta perché descrive la definizione di freemium, mentre la domanda richiede cost structure.",
+      "D": "Non è corretta perché descrive la definizione di customer relationships nel Business Model Canvas, mentre la domanda richiede cost structure."
     }
   },
   {
@@ -3608,10 +4364,10 @@
       "D": "definisce assistenza, automazione, community o personalizzazione del rapporto"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di cost structure in relazione con \"aiuta a valutare sostenibilità economica e formula di profitto\".",
-      "B": "Non è la scelta migliore: \"è una componente del business model dedicata ai flussi di ricavo\" descrive un concetto diverso dal concetto di cost structure.",
-      "C": "Non è la scelta migliore: \"riduce la barriera d'ingresso e monetizza gli utenti che percepiscono valore aggiuntivo\" sposta l'attenzione su un aspetto diverso dal concetto di cost structure.",
-      "D": "Non è la scelta migliore: \"definisce assistenza, automazione, community o personalizzazione del rapporto\" non identifica il ruolo specifico del concetto di cost structure in questa domanda."
+      "A": "È corretta perché interpreta cost structure a partire dalla sua definizione nel corso: l'insieme dei principali costi necessari per far funzionare il business model. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di revenue model, mentre la domanda richiede cost structure.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di freemium, mentre la domanda richiede cost structure.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di customer relationships nel Business Model Canvas, mentre la domanda richiede cost structure."
     }
   },
   {
@@ -3628,6 +4384,12 @@
       "B": "l'insieme dei principali costi necessari per far funzionare il business model",
       "C": "un modello di ricavo basato sulla vendita di spazi o visibilità pubblicitaria",
       "D": "il modo specifico in cui l'impresa genera fatturato dai segmenti serviti"
+    },
+    "rationales": {
+      "A": "Freemium è il concetto richiesto: nel corso riduce la barriera d'ingresso e monetizza gli utenti che percepiscono valore aggiuntivo. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di cost structure, mentre la domanda richiede freemium.",
+      "C": "Non è corretta perché descrive la definizione di advertising based revenue, mentre la domanda richiede freemium.",
+      "D": "Non è corretta perché descrive la definizione di revenue model, mentre la domanda richiede freemium."
     }
   },
   {
@@ -3646,10 +4408,10 @@
       "D": "è una componente del business model dedicata ai flussi di ricavo"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di freemium in relazione con \"riduce la barriera d'ingresso e monetizza gli utenti che percepiscono valore aggiuntivo\".",
-      "B": "Non è la scelta migliore: \"aiuta a valutare sostenibilità economica e formula di profitto\" descrive un concetto diverso dal concetto di freemium.",
-      "C": "Non è la scelta migliore: \"monetizza l'attenzione o il traffico generato dalla piattaforma\" sposta l'attenzione su un aspetto diverso dal concetto di freemium.",
-      "D": "Non è la scelta migliore: \"è una componente del business model dedicata ai flussi di ricavo\" non identifica il ruolo specifico del concetto di freemium in questa domanda."
+      "A": "È corretta perché interpreta freemium a partire dalla sua definizione nel corso: un modello in cui una versione base gratuita convive con funzionalità premium a pagamento. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di cost structure, mentre la domanda richiede freemium.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di advertising based revenue, mentre la domanda richiede freemium.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di revenue model, mentre la domanda richiede freemium."
     }
   },
   {
@@ -3667,6 +4429,12 @@
       "B": "un modello in cui una versione base gratuita convive con funzionalità premium a pagamento",
       "C": "un modello in cui si genera ricavo indirizzando traffico o vendite verso un altro soggetto",
       "D": "l'insieme dei principali costi necessari per far funzionare il business model"
+    },
+    "rationales": {
+      "A": "Advertising based revenue è il concetto richiesto: nel corso monetizza l'attenzione o il traffico generato dalla piattaforma. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di freemium, mentre la domanda richiede advertising based revenue.",
+      "C": "Non è corretta perché descrive la definizione di affiliation, mentre la domanda richiede advertising based revenue.",
+      "D": "Non è corretta perché descrive la definizione di cost structure, mentre la domanda richiede advertising based revenue."
     }
   },
   {
@@ -3686,10 +4454,10 @@
       "D": "aiuta a valutare sostenibilità economica e formula di profitto"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di advertising based revenue in relazione con \"monetizza l'attenzione o il traffico generato dalla piattaforma\".",
-      "B": "Non è la scelta migliore: \"riduce la barriera d'ingresso e monetizza gli utenti che percepiscono valore aggiuntivo\" descrive un concetto diverso dal concetto di advertising based revenue.",
-      "C": "Non è la scelta migliore: \"premia la capacità di portare utenti qualificati a un'offerta di terzi\" sposta l'attenzione su un aspetto diverso dal concetto di advertising based revenue.",
-      "D": "Non è la scelta migliore: \"aiuta a valutare sostenibilità economica e formula di profitto\" non identifica il ruolo specifico del concetto di advertising based revenue in questa domanda."
+      "A": "È corretta perché interpreta advertising based revenue a partire dalla sua definizione nel corso: un modello di ricavo basato sulla vendita di spazi o visibilità pubblicitaria. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di freemium, mentre la domanda richiede advertising based revenue.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di affiliation, mentre la domanda richiede advertising based revenue.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di cost structure, mentre la domanda richiede advertising based revenue."
     }
   },
   {
@@ -3706,6 +4474,12 @@
       "B": "un modello di ricavo basato sulla vendita di spazi o visibilità pubblicitaria",
       "C": "un modello in cui la piattaforma trattiene una commissione sulle transazioni abilitate",
       "D": "un modello in cui una versione base gratuita convive con funzionalità premium a pagamento"
+    },
+    "rationales": {
+      "A": "Affiliation è il concetto richiesto: nel corso premia la capacità di portare utenti qualificati a un'offerta di terzi. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di advertising based revenue, mentre la domanda richiede affiliation.",
+      "C": "Non è corretta perché descrive la definizione di commission based model, mentre la domanda richiede affiliation.",
+      "D": "Non è corretta perché descrive la definizione di freemium, mentre la domanda richiede affiliation."
     }
   },
   {
@@ -3722,6 +4496,12 @@
       "B": "monetizza l'attenzione o il traffico generato dalla piattaforma",
       "C": "è tipico di marketplace che mettono in contatto domanda e offerta",
       "D": "riduce la barriera d'ingresso e monetizza gli utenti che percepiscono valore aggiuntivo"
+    },
+    "rationales": {
+      "A": "È corretta perché interpreta affiliation a partire dalla sua definizione nel corso: un modello in cui si genera ricavo indirizzando traffico o vendite verso un altro soggetto. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di advertising based revenue, mentre la domanda richiede affiliation.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di commission based model, mentre la domanda richiede affiliation.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di freemium, mentre la domanda richiede affiliation."
     }
   },
   {
@@ -3738,6 +4518,12 @@
       "B": "un modello in cui si genera ricavo indirizzando traffico o vendite verso un altro soggetto",
       "C": "una piattaforma che mette in relazione due gruppi distinti di utenti che traggono beneficio reciproco",
       "D": "un modello di ricavo basato sulla vendita di spazi o visibilità pubblicitaria"
+    },
+    "rationales": {
+      "A": "Commission based model è il concetto richiesto: nel corso è tipico di marketplace che mettono in contatto domanda e offerta. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di affiliation, mentre la domanda richiede commission based model.",
+      "C": "Non è corretta perché descrive la definizione di two-sided platform, mentre la domanda richiede commission based model.",
+      "D": "Non è corretta perché descrive la definizione di advertising based revenue, mentre la domanda richiede commission based model."
     }
   },
   {
@@ -3756,10 +4542,10 @@
       "D": "monetizza l'attenzione o il traffico generato dalla piattaforma"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di commission based model in relazione con \"è tipico di marketplace che mettono in contatto domanda e offerta\".",
-      "B": "Non è la scelta migliore: \"premia la capacità di portare utenti qualificati a un'offerta di terzi\" descrive un concetto diverso dal concetto di commission based model.",
-      "C": "Non è la scelta migliore: \"deve attrarre entrambe le parti perché il valore dipende dalla presenza dell'altra\" sposta l'attenzione su un aspetto diverso dal concetto di commission based model.",
-      "D": "Non è la scelta migliore: \"monetizza l'attenzione o il traffico generato dalla piattaforma\" non identifica il ruolo specifico del concetto di commission based model in questa domanda."
+      "A": "È corretta perché interpreta commission based model a partire dalla sua definizione nel corso: un modello in cui la piattaforma trattiene una commissione sulle transazioni abilitate. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di affiliation, mentre la domanda richiede commission based model.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di two-sided platform, mentre la domanda richiede commission based model.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di advertising based revenue, mentre la domanda richiede commission based model."
     }
   },
   {
@@ -3777,6 +4563,12 @@
       "B": "un modello in cui la piattaforma trattiene una commissione sulle transazioni abilitate",
       "C": "l'aumento di valore di una piattaforma al crescere del numero di utenti",
       "D": "un modello in cui si genera ricavo indirizzando traffico o vendite verso un altro soggetto"
+    },
+    "rationales": {
+      "A": "Two-sided platform è il concetto richiesto: nel corso deve attrarre entrambe le parti perché il valore dipende dalla presenza dell'altra. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di commission based model, mentre la domanda richiede two-sided platform.",
+      "C": "Non è corretta perché descrive la definizione di network effect, mentre la domanda richiede two-sided platform.",
+      "D": "Non è corretta perché descrive la definizione di affiliation, mentre la domanda richiede two-sided platform."
     }
   },
   {
@@ -3796,10 +4588,10 @@
       "D": "premia la capacità di portare utenti qualificati a un'offerta di terzi"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di two-sided platform in relazione con \"deve attrarre entrambe le parti perché il valore dipende dalla presenza dell'altra\".",
-      "B": "Non è la scelta migliore: \"è tipico di marketplace che mettono in contatto domanda e offerta\" descrive un concetto diverso dal concetto di two-sided platform.",
-      "C": "Non è la scelta migliore: \"spiega perché le piattaforme possono diventare più utili e attrattive con la scala\" sposta l'attenzione su un aspetto diverso dal concetto di two-sided platform.",
-      "D": "Non è la scelta migliore: \"premia la capacità di portare utenti qualificati a un'offerta di terzi\" non identifica il ruolo specifico del concetto di two-sided platform in questa domanda."
+      "A": "È corretta perché interpreta two-sided platform a partire dalla sua definizione nel corso: una piattaforma che mette in relazione due gruppi distinti di utenti che traggono beneficio reciproco. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di commission based model, mentre la domanda richiede two-sided platform.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di network effect, mentre la domanda richiede two-sided platform.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di affiliation, mentre la domanda richiede two-sided platform."
     }
   },
   {
@@ -3817,6 +4609,12 @@
       "B": "una piattaforma che mette in relazione due gruppi distinti di utenti che traggono beneficio reciproco",
       "C": "un insieme di piattaforme digitali commerciali che facilitano lo scambio di beni e servizi tra attori",
       "D": "un modello in cui la piattaforma trattiene una commissione sulle transazioni abilitate"
+    },
+    "rationales": {
+      "A": "Network effect è il concetto richiesto: nel corso spiega perché le piattaforme possono diventare più utili e attrattive con la scala. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di two-sided platform, mentre la domanda richiede network effect.",
+      "C": "Non è corretta perché descrive la definizione di sharing economy, mentre la domanda richiede network effect.",
+      "D": "Non è corretta perché descrive la definizione di commission based model, mentre la domanda richiede network effect."
     }
   },
   {
@@ -3834,6 +4632,12 @@
       "B": "deve attrarre entrambe le parti perché il valore dipende dalla presenza dell'altra",
       "C": "si colloca lungo un continuum tra condivisione e scambio economico",
       "D": "è tipico di marketplace che mettono in contatto domanda e offerta"
+    },
+    "rationales": {
+      "A": "È corretta perché interpreta network effect a partire dalla sua definizione nel corso: l'aumento di valore di una piattaforma al crescere del numero di utenti. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di two-sided platform, mentre la domanda richiede network effect.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di sharing economy, mentre la domanda richiede network effect.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di commission based model, mentre la domanda richiede network effect."
     }
   },
   {
@@ -3850,6 +4654,12 @@
       "B": "l'aumento di valore di una piattaforma al crescere del numero di utenti",
       "C": "una pratica orientata alla condivisione con bassa enfasi su denaro e transazione bilanciata",
       "D": "una piattaforma che mette in relazione due gruppi distinti di utenti che traggono beneficio reciproco"
+    },
+    "rationales": {
+      "A": "Sharing economy è il concetto richiesto: nel corso si colloca lungo un continuum tra condivisione e scambio economico. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di network effect, mentre la domanda richiede sharing economy.",
+      "C": "Non è corretta perché descrive la definizione di pure sharing, mentre la domanda richiede sharing economy.",
+      "D": "Non è corretta perché descrive la definizione di two-sided platform, mentre la domanda richiede sharing economy."
     }
   },
   {
@@ -3866,6 +4676,12 @@
       "B": "spiega perché le piattaforme possono diventare più utili e attrattive con la scala",
       "C": "valorizza comunità, socializzazione e accesso più che profitto immediato",
       "D": "deve attrarre entrambe le parti perché il valore dipende dalla presenza dell'altra"
+    },
+    "rationales": {
+      "A": "È corretta perché interpreta sharing economy a partire dalla sua definizione nel corso: un insieme di piattaforme digitali commerciali che facilitano lo scambio di beni e servizi tra attori. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di network effect, mentre la domanda richiede sharing economy.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di pure sharing, mentre la domanda richiede sharing economy.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di two-sided platform, mentre la domanda richiede sharing economy."
     }
   },
   {
@@ -3882,6 +4698,12 @@
       "B": "un insieme di piattaforme digitali commerciali che facilitano lo scambio di beni e servizi tra attori",
       "C": "una pratica che combina elementi di sharing e di exchange",
       "D": "l'aumento di valore di una piattaforma al crescere del numero di utenti"
+    },
+    "rationales": {
+      "A": "Pure sharing è il concetto richiesto: nel corso valorizza comunità, socializzazione e accesso più che profitto immediato. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di sharing economy, mentre la domanda richiede pure sharing.",
+      "C": "Non è corretta perché descrive la definizione di dual-mode sharing, mentre la domanda richiede pure sharing.",
+      "D": "Non è corretta perché descrive la definizione di network effect, mentre la domanda richiede pure sharing."
     }
   },
   {
@@ -3900,10 +4722,10 @@
       "D": "spiega perché le piattaforme possono diventare più utili e attrattive con la scala"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di pure sharing in relazione con \"valorizza comunità, socializzazione e accesso più che profitto immediato\".",
-      "B": "Non è la scelta migliore: \"si colloca lungo un continuum tra condivisione e scambio economico\" descrive un concetto diverso dal concetto di pure sharing.",
-      "C": "Non è la scelta migliore: \"richiede comunicazione coerente perché contiene sia comunità sia transazione\" sposta l'attenzione su un aspetto diverso dal concetto di pure sharing.",
-      "D": "Non è la scelta migliore: \"spiega perché le piattaforme possono diventare più utili e attrattive con la scala\" non identifica il ruolo specifico del concetto di pure sharing in questa domanda."
+      "A": "È corretta perché interpreta pure sharing a partire dalla sua definizione nel corso: una pratica orientata alla condivisione con bassa enfasi su denaro e transazione bilanciata. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di sharing economy, mentre la domanda richiede pure sharing.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di dual-mode sharing, mentre la domanda richiede pure sharing.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di network effect, mentre la domanda richiede pure sharing."
     }
   },
   {
@@ -3920,6 +4742,12 @@
       "B": "una pratica orientata alla condivisione con bassa enfasi su denaro e transazione bilanciata",
       "C": "l'insieme delle attività commerciali prima, durante e dopo lo scambio realizzate tramite sistemi digitali",
       "D": "un insieme di piattaforme digitali commerciali che facilitano lo scambio di beni e servizi tra attori"
+    },
+    "rationales": {
+      "A": "Dual-mode sharing è il concetto richiesto: nel corso richiede comunicazione coerente perché contiene sia comunità sia transazione. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di pure sharing, mentre la domanda richiede dual-mode sharing.",
+      "C": "Non è corretta perché descrive la definizione di e-commerce, mentre la domanda richiede dual-mode sharing.",
+      "D": "Non è corretta perché descrive la definizione di sharing economy, mentre la domanda richiede dual-mode sharing."
     }
   },
   {
@@ -3938,10 +4766,10 @@
       "D": "si colloca lungo un continuum tra condivisione e scambio economico"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di dual-mode sharing in relazione con \"richiede comunicazione coerente perché contiene sia comunità sia transazione\".",
-      "B": "Non è la scelta migliore: \"valorizza comunità, socializzazione e accesso più che profitto immediato\" descrive un concetto diverso dal concetto di dual-mode sharing.",
-      "C": "Non è la scelta migliore: \"estende la transazione includendo informazione, relazione, pagamento e servizio\" sposta l'attenzione su un aspetto diverso dal concetto di dual-mode sharing.",
-      "D": "Non è la scelta migliore: \"si colloca lungo un continuum tra condivisione e scambio economico\" non identifica il ruolo specifico del concetto di dual-mode sharing in questa domanda."
+      "A": "È corretta perché interpreta dual-mode sharing a partire dalla sua definizione nel corso: una pratica che combina elementi di sharing e di exchange. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di pure sharing, mentre la domanda richiede dual-mode sharing.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di e-commerce, mentre la domanda richiede dual-mode sharing.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di sharing economy, mentre la domanda richiede dual-mode sharing."
     }
   },
   {
@@ -3958,6 +4786,12 @@
       "B": "una pratica che combina elementi di sharing e di exchange",
       "C": "commercio elettronico tra due organizzazioni",
       "D": "una pratica orientata alla condivisione con bassa enfasi su denaro e transazione bilanciata"
+    },
+    "rationales": {
+      "A": "E-commerce è il concetto richiesto: nel corso estende la transazione includendo informazione, relazione, pagamento e servizio. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di dual-mode sharing, mentre la domanda richiede e-commerce.",
+      "C": "Non è corretta perché descrive la definizione di B2B e-commerce, mentre la domanda richiede e-commerce.",
+      "D": "Non è corretta perché descrive la definizione di pure sharing, mentre la domanda richiede e-commerce."
     }
   },
   {
@@ -3976,10 +4810,10 @@
       "D": "valorizza comunità, socializzazione e accesso più che profitto immediato"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di e-commerce in relazione con \"estende la transazione includendo informazione, relazione, pagamento e servizio\".",
-      "B": "Non è la scelta migliore: \"richiede comunicazione coerente perché contiene sia comunità sia transazione\" descrive un concetto diverso dal concetto di e-commerce.",
-      "C": "Non è la scelta migliore: \"rappresenta una delle categorie più rilevanti in termini economici\" sposta l'attenzione su un aspetto diverso dal concetto di e-commerce.",
-      "D": "Non è la scelta migliore: \"valorizza comunità, socializzazione e accesso più che profitto immediato\" non identifica il ruolo specifico del concetto di e-commerce in questa domanda."
+      "A": "È corretta perché interpreta e-commerce a partire dalla sua definizione nel corso: l'insieme delle attività commerciali prima, durante e dopo lo scambio realizzate tramite sistemi digitali. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di dual-mode sharing, mentre la domanda richiede e-commerce.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di B2B e-commerce, mentre la domanda richiede e-commerce.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di pure sharing, mentre la domanda richiede e-commerce."
     }
   },
   {
@@ -3996,6 +4830,12 @@
       "B": "l'insieme delle attività commerciali prima, durante e dopo lo scambio realizzate tramite sistemi digitali",
       "C": "commercio elettronico tra impresa fornitrice e acquirente finale",
       "D": "una pratica che combina elementi di sharing e di exchange"
+    },
+    "rationales": {
+      "A": "B2B e-commerce è il concetto richiesto: nel corso rappresenta una delle categorie più rilevanti in termini economici. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di e-commerce, mentre la domanda richiede B2B e-commerce.",
+      "C": "Non è corretta perché descrive la definizione di B2C e-commerce, mentre la domanda richiede B2B e-commerce.",
+      "D": "Non è corretta perché descrive la definizione di dual-mode sharing, mentre la domanda richiede B2B e-commerce."
     }
   },
   {
@@ -4012,6 +4852,12 @@
       "B": "estende la transazione includendo informazione, relazione, pagamento e servizio",
       "C": "è la forma più intuitiva per il consumatore finale online",
       "D": "richiede comunicazione coerente perché contiene sia comunità sia transazione"
+    },
+    "rationales": {
+      "A": "È corretta perché interpreta B2B e-commerce a partire dalla sua definizione nel corso: commercio elettronico tra due organizzazioni. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di e-commerce, mentre la domanda richiede B2B e-commerce.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di B2C e-commerce, mentre la domanda richiede B2B e-commerce.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di dual-mode sharing, mentre la domanda richiede B2B e-commerce."
     }
   },
   {
@@ -4028,6 +4874,12 @@
       "B": "commercio elettronico tra due organizzazioni",
       "C": "commercio elettronico tra consumatori privati",
       "D": "l'insieme delle attività commerciali prima, durante e dopo lo scambio realizzate tramite sistemi digitali"
+    },
+    "rationales": {
+      "A": "B2C e-commerce è il concetto richiesto: nel corso è la forma più intuitiva per il consumatore finale online. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di B2B e-commerce, mentre la domanda richiede B2C e-commerce.",
+      "C": "Non è corretta perché descrive la definizione di C2C e-commerce, mentre la domanda richiede B2C e-commerce.",
+      "D": "Non è corretta perché descrive la definizione di e-commerce, mentre la domanda richiede B2C e-commerce."
     }
   },
   {
@@ -4046,10 +4898,10 @@
       "D": "estende la transazione includendo informazione, relazione, pagamento e servizio"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di B2C e-commerce in relazione con \"è la forma più intuitiva per il consumatore finale online\".",
-      "B": "Non è la scelta migliore: \"rappresenta una delle categorie più rilevanti in termini economici\" descrive un concetto diverso dal concetto di B2C e-commerce.",
-      "C": "Non è la scelta migliore: \"abilita scambi peer-to-peer spesso mediati da marketplace\" sposta l'attenzione su un aspetto diverso dal concetto di B2C e-commerce.",
-      "D": "Non è la scelta migliore: \"estende la transazione includendo informazione, relazione, pagamento e servizio\" non identifica il ruolo specifico del concetto di B2C e-commerce in questa domanda."
+      "A": "È corretta perché interpreta B2C e-commerce a partire dalla sua definizione nel corso: commercio elettronico tra impresa fornitrice e acquirente finale. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di B2B e-commerce, mentre la domanda richiede B2C e-commerce.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di C2C e-commerce, mentre la domanda richiede B2C e-commerce.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di e-commerce, mentre la domanda richiede B2C e-commerce."
     }
   },
   {
@@ -4066,6 +4918,12 @@
       "B": "commercio elettronico tra impresa fornitrice e acquirente finale",
       "C": "una relazione in cui l'individuo offre beni, idee o condizioni a un'organizzazione",
       "D": "commercio elettronico tra due organizzazioni"
+    },
+    "rationales": {
+      "A": "C2C e-commerce è il concetto richiesto: nel corso abilita scambi peer-to-peer spesso mediati da marketplace. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di B2C e-commerce, mentre la domanda richiede C2C e-commerce.",
+      "C": "Non è corretta perché descrive la definizione di C2B e-commerce, mentre la domanda richiede C2C e-commerce.",
+      "D": "Non è corretta perché descrive la definizione di B2B e-commerce, mentre la domanda richiede C2C e-commerce."
     }
   },
   {
@@ -4084,10 +4942,10 @@
       "D": "rappresenta una delle categorie più rilevanti in termini economici"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di C2C e-commerce in relazione con \"abilita scambi peer-to-peer spesso mediati da marketplace\".",
-      "B": "Non è la scelta migliore: \"è la forma più intuitiva per il consumatore finale online\" descrive un concetto diverso dal concetto di C2C e-commerce.",
-      "C": "Non è la scelta migliore: \"ribalta la direzione classica della vendita impresa-cliente\" sposta l'attenzione su un aspetto diverso dal concetto di C2C e-commerce.",
-      "D": "Non è la scelta migliore: \"rappresenta una delle categorie più rilevanti in termini economici\" non identifica il ruolo specifico del concetto di C2C e-commerce in questa domanda."
+      "A": "È corretta perché interpreta C2C e-commerce a partire dalla sua definizione nel corso: commercio elettronico tra consumatori privati. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di B2C e-commerce, mentre la domanda richiede C2C e-commerce.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di C2B e-commerce, mentre la domanda richiede C2C e-commerce.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di B2B e-commerce, mentre la domanda richiede C2C e-commerce."
     }
   },
   {
@@ -4104,6 +4962,12 @@
       "B": "commercio elettronico tra consumatori privati",
       "C": "un'estensione del B2C in cui i consumatori interagiscono per scoprire prodotti e decidere insieme",
       "D": "commercio elettronico tra impresa fornitrice e acquirente finale"
+    },
+    "rationales": {
+      "A": "C2B e-commerce è il concetto richiesto: nel corso ribalta la direzione classica della vendita impresa-cliente. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di C2C e-commerce, mentre la domanda richiede C2B e-commerce.",
+      "C": "Non è corretta perché descrive la definizione di social commerce, mentre la domanda richiede C2B e-commerce.",
+      "D": "Non è corretta perché descrive la definizione di B2C e-commerce, mentre la domanda richiede C2B e-commerce."
     }
   },
   {
@@ -4120,6 +4984,12 @@
       "B": "abilita scambi peer-to-peer spesso mediati da marketplace",
       "C": "integra relazione sociale, informazione e acquisto",
       "D": "è la forma più intuitiva per il consumatore finale online"
+    },
+    "rationales": {
+      "A": "È corretta perché interpreta C2B e-commerce a partire dalla sua definizione nel corso: una relazione in cui l'individuo offre beni, idee o condizioni a un'organizzazione. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di C2C e-commerce, mentre la domanda richiede C2B e-commerce.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di social commerce, mentre la domanda richiede C2B e-commerce.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di B2C e-commerce, mentre la domanda richiede C2B e-commerce."
     }
   },
   {
@@ -4137,6 +5007,12 @@
       "B": "una relazione in cui l'individuo offre beni, idee o condizioni a un'organizzazione",
       "C": "la riduzione del rischio percepito prima e dopo l'acquisto online",
       "D": "commercio elettronico tra consumatori privati"
+    },
+    "rationales": {
+      "A": "Social commerce è il concetto richiesto: nel corso integra relazione sociale, informazione e acquisto. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di C2B e-commerce, mentre la domanda richiede social commerce.",
+      "C": "Non è corretta perché descrive la definizione di fiducia nell'e-commerce, mentre la domanda richiede social commerce.",
+      "D": "Non è corretta perché descrive la definizione di C2C e-commerce, mentre la domanda richiede social commerce."
     }
   },
   {
@@ -4154,6 +5030,12 @@
       "B": "ribalta la direzione classica della vendita impresa-cliente",
       "C": "è critica perché il cliente non ha contatto fisico immediato con venditore e prodotto",
       "D": "abilita scambi peer-to-peer spesso mediati da marketplace"
+    },
+    "rationales": {
+      "A": "È corretta perché interpreta social commerce a partire dalla sua definizione nel corso: un'estensione del B2C in cui i consumatori interagiscono per scoprire prodotti e decidere insieme. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di C2B e-commerce, mentre la domanda richiede social commerce.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di fiducia nell'e-commerce, mentre la domanda richiede social commerce.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di C2C e-commerce, mentre la domanda richiede social commerce."
     }
   },
   {
@@ -4171,6 +5053,12 @@
       "B": "un'estensione del B2C in cui i consumatori interagiscono per scoprire prodotti e decidere insieme",
       "C": "la mancanza di contatto diretto con prodotto e venditore che può ostacolare l'acquisto",
       "D": "una relazione in cui l'individuo offre beni, idee o condizioni a un'organizzazione"
+    },
+    "rationales": {
+      "A": "Fiducia nell'e-commerce è il concetto richiesto: nel corso è critica perché il cliente non ha contatto fisico immediato con venditore e prodotto. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di social commerce, mentre la domanda richiede fiducia nell'e-commerce.",
+      "C": "Non è corretta perché descrive la definizione di distanza fisica nell'e-commerce, mentre la domanda richiede fiducia nell'e-commerce.",
+      "D": "Non è corretta perché descrive la definizione di C2B e-commerce, mentre la domanda richiede fiducia nell'e-commerce."
     }
   },
   {
@@ -4190,10 +5078,10 @@
       "D": "ribalta la direzione classica della vendita impresa-cliente"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di fiducia nell'e-commerce in relazione con \"è critica perché il cliente non ha contatto fisico immediato con venditore e prodotto\".",
-      "B": "Non è la scelta migliore: \"integra relazione sociale, informazione e acquisto\" descrive un concetto diverso dal concetto di fiducia nell'e-commerce.",
-      "C": "Non è la scelta migliore: \"va ridotta con contenuti visuali, descrizioni, video e realtà aumentata\" sposta l'attenzione su un aspetto diverso dal concetto di fiducia nell'e-commerce.",
-      "D": "Non è la scelta migliore: \"ribalta la direzione classica della vendita impresa-cliente\" non identifica il ruolo specifico del concetto di fiducia nell'e-commerce in questa domanda."
+      "A": "È corretta perché interpreta fiducia nell'e-commerce a partire dalla sua definizione nel corso: la riduzione del rischio percepito prima e dopo l'acquisto online. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di social commerce, mentre la domanda richiede fiducia nell'e-commerce.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di distanza fisica nell'e-commerce, mentre la domanda richiede fiducia nell'e-commerce.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di C2B e-commerce, mentre la domanda richiede fiducia nell'e-commerce."
     }
   },
   {
@@ -4210,6 +5098,12 @@
       "B": "la riduzione del rischio percepito prima e dopo l'acquisto online",
       "C": "una possibile frizione nel percorso d'acquisto online",
       "D": "un'estensione del B2C in cui i consumatori interagiscono per scoprire prodotti e decidere insieme"
+    },
+    "rationales": {
+      "A": "Distanza fisica nell'e-commerce è il concetto richiesto: nel corso va ridotta con contenuti visuali, descrizioni, video e realtà aumentata. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di fiducia nell'e-commerce, mentre la domanda richiede distanza fisica nell'e-commerce.",
+      "C": "Non è corretta perché descrive la definizione di registrazione obbligatoria, mentre la domanda richiede distanza fisica nell'e-commerce.",
+      "D": "Non è corretta perché descrive la definizione di social commerce, mentre la domanda richiede distanza fisica nell'e-commerce."
     }
   },
   {
@@ -4228,10 +5122,10 @@
       "D": "integra relazione sociale, informazione e acquisto"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di distanza fisica nell'e-commerce in relazione con \"va ridotta con contenuti visuali, descrizioni, video e realtà aumentata\".",
-      "B": "Non è la scelta migliore: \"è critica perché il cliente non ha contatto fisico immediato con venditore e prodotto\" descrive un concetto diverso dal concetto di distanza fisica nell'e-commerce.",
-      "C": "Non è la scelta migliore: \"può aumentare abbandono se imposta prima del checkout senza valore percepito\" sposta l'attenzione su un aspetto diverso dal concetto di distanza fisica nell'e-commerce.",
-      "D": "Non è la scelta migliore: \"integra relazione sociale, informazione e acquisto\" non identifica il ruolo specifico del concetto di distanza fisica nell'e-commerce in questa domanda."
+      "A": "È corretta perché interpreta distanza fisica nell'e-commerce a partire dalla sua definizione nel corso: la mancanza di contatto diretto con prodotto e venditore che può ostacolare l'acquisto. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di fiducia nell'e-commerce, mentre la domanda richiede distanza fisica nell'e-commerce.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di registrazione obbligatoria, mentre la domanda richiede distanza fisica nell'e-commerce.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di social commerce, mentre la domanda richiede distanza fisica nell'e-commerce."
     }
   },
   {
@@ -4249,6 +5143,12 @@
       "B": "la mancanza di contatto diretto con prodotto e venditore che può ostacolare l'acquisto",
       "C": "la pagina cruciale in cui l'utente verifica prodotti, costi e decisione prima dell'acquisto",
       "D": "la riduzione del rischio percepito prima e dopo l'acquisto online"
+    },
+    "rationales": {
+      "A": "Registrazione obbligatoria è il concetto richiesto: nel corso può aumentare abbandono se imposta prima del checkout senza valore percepito. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di distanza fisica nell'e-commerce, mentre la domanda richiede registrazione obbligatoria.",
+      "C": "Non è corretta perché descrive la definizione di carrello e-commerce, mentre la domanda richiede registrazione obbligatoria.",
+      "D": "Non è corretta perché descrive la definizione di fiducia nell'e-commerce, mentre la domanda richiede registrazione obbligatoria."
     }
   },
   {
@@ -4268,10 +5168,10 @@
       "D": "è critica perché il cliente non ha contatto fisico immediato con venditore e prodotto"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di registrazione obbligatoria in relazione con \"può aumentare abbandono se imposta prima del checkout senza valore percepito\".",
-      "B": "Non è la scelta migliore: \"va ridotta con contenuti visuali, descrizioni, video e realtà aumentata\" descrive un concetto diverso dal concetto di registrazione obbligatoria.",
-      "C": "Non è la scelta migliore: \"è un punto delicato in cui frizioni, costi inattesi o complessità possono generare abbandono\" sposta l'attenzione su un aspetto diverso dal concetto di registrazione obbligatoria.",
-      "D": "Non è la scelta migliore: \"è critica perché il cliente non ha contatto fisico immediato con venditore e prodotto\" non identifica il ruolo specifico del concetto di registrazione obbligatoria in questa domanda."
+      "A": "È corretta perché interpreta registrazione obbligatoria a partire dalla sua definizione nel corso: una possibile frizione nel percorso d'acquisto online. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di distanza fisica nell'e-commerce, mentre la domanda richiede registrazione obbligatoria.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di carrello e-commerce, mentre la domanda richiede registrazione obbligatoria.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di fiducia nell'e-commerce, mentre la domanda richiede registrazione obbligatoria."
     }
   },
   {
@@ -4289,6 +5189,12 @@
       "B": "una possibile frizione nel percorso d'acquisto online",
       "C": "il costo sostenuto per ottenere un nuovo cliente",
       "D": "la mancanza di contatto diretto con prodotto e venditore che può ostacolare l'acquisto"
+    },
+    "rationales": {
+      "A": "Carrello e-commerce è il concetto richiesto: nel corso è un punto delicato in cui frizioni, costi inattesi o complessità possono generare abbandono. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di registrazione obbligatoria, mentre la domanda richiede carrello e-commerce.",
+      "C": "Non è corretta perché descrive la definizione di costo di acquisizione cliente, mentre la domanda richiede carrello e-commerce.",
+      "D": "Non è corretta perché descrive la definizione di distanza fisica nell'e-commerce, mentre la domanda richiede carrello e-commerce."
     }
   },
   {
@@ -4306,6 +5212,12 @@
       "B": "può aumentare abbandono se imposta prima del checkout senza valore percepito",
       "C": "è critico perché traffico e conversioni devono essere economicamente sostenibili",
       "D": "va ridotta con contenuti visuali, descrizioni, video e realtà aumentata"
+    },
+    "rationales": {
+      "A": "È corretta perché interpreta carrello e-commerce a partire dalla sua definizione nel corso: la pagina cruciale in cui l'utente verifica prodotti, costi e decisione prima dell'acquisto. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di registrazione obbligatoria, mentre la domanda richiede carrello e-commerce.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di costo di acquisizione cliente, mentre la domanda richiede carrello e-commerce.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di distanza fisica nell'e-commerce, mentre la domanda richiede carrello e-commerce."
     }
   },
   {
@@ -4323,6 +5235,12 @@
       "B": "la pagina cruciale in cui l'utente verifica prodotti, costi e decisione prima dell'acquisto",
       "C": "uno strumento usato per garantire identità del sito e sicurezza del canale di trasferimento dati",
       "D": "una possibile frizione nel percorso d'acquisto online"
+    },
+    "rationales": {
+      "A": "Costo di acquisizione cliente è il concetto richiesto: nel corso è critico perché traffico e conversioni devono essere economicamente sostenibili. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di carrello e-commerce, mentre la domanda richiede costo di acquisizione cliente.",
+      "C": "Non è corretta perché descrive la definizione di certificato digitale, mentre la domanda richiede costo di acquisizione cliente.",
+      "D": "Non è corretta perché descrive la definizione di registrazione obbligatoria, mentre la domanda richiede costo di acquisizione cliente."
     }
   },
   {
@@ -4342,10 +5260,10 @@
       "D": "può aumentare abbandono se imposta prima del checkout senza valore percepito"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di costo di acquisizione cliente in relazione con \"è critico perché traffico e conversioni devono essere economicamente sostenibili\".",
-      "B": "Non è la scelta migliore: \"è un punto delicato in cui frizioni, costi inattesi o complessità possono generare abbandono\" descrive un concetto diverso dal concetto di costo di acquisizione cliente.",
-      "C": "Non è la scelta migliore: \"aumenta fiducia e sicurezza nelle transazioni online\" sposta l'attenzione su un aspetto diverso dal concetto di costo di acquisizione cliente.",
-      "D": "Non è la scelta migliore: \"può aumentare abbandono se imposta prima del checkout senza valore percepito\" non identifica il ruolo specifico del concetto di costo di acquisizione cliente in questa domanda."
+      "A": "È corretta perché interpreta costo di acquisizione cliente a partire dalla sua definizione nel corso: il costo sostenuto per ottenere un nuovo cliente. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di carrello e-commerce, mentre la domanda richiede costo di acquisizione cliente.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di certificato digitale, mentre la domanda richiede costo di acquisizione cliente.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di registrazione obbligatoria, mentre la domanda richiede costo di acquisizione cliente."
     }
   },
   {
@@ -4363,6 +5281,12 @@
       "B": "il costo sostenuto per ottenere un nuovo cliente",
       "C": "l'assistenza che accompagna l'utente nelle fasi delicate del rapporto con lo store digitale",
       "D": "la pagina cruciale in cui l'utente verifica prodotti, costi e decisione prima dell'acquisto"
+    },
+    "rationales": {
+      "A": "Certificato digitale è il concetto richiesto: nel corso aumenta fiducia e sicurezza nelle transazioni online. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di costo di acquisizione cliente, mentre la domanda richiede certificato digitale.",
+      "C": "Non è corretta perché descrive la definizione di customer care online, mentre la domanda richiede certificato digitale.",
+      "D": "Non è corretta perché descrive la definizione di carrello e-commerce, mentre la domanda richiede certificato digitale."
     }
   },
   {
@@ -4382,10 +5306,10 @@
       "D": "è un punto delicato in cui frizioni, costi inattesi o complessità possono generare abbandono"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di certificato digitale in relazione con \"aumenta fiducia e sicurezza nelle transazioni online\".",
-      "B": "Non è la scelta migliore: \"è critico perché traffico e conversioni devono essere economicamente sostenibili\" descrive un concetto diverso dal concetto di certificato digitale.",
-      "C": "Non è la scelta migliore: \"compensa l'assenza di rapporto umano diretto e riduce incertezza\" sposta l'attenzione su un aspetto diverso dal concetto di certificato digitale.",
-      "D": "Non è la scelta migliore: \"è un punto delicato in cui frizioni, costi inattesi o complessità possono generare abbandono\" non identifica il ruolo specifico del concetto di certificato digitale in questa domanda."
+      "A": "È corretta perché interpreta certificato digitale a partire dalla sua definizione nel corso: uno strumento usato per garantire identità del sito e sicurezza del canale di trasferimento dati. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di costo di acquisizione cliente, mentre la domanda richiede certificato digitale.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di customer care online, mentre la domanda richiede certificato digitale.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di carrello e-commerce, mentre la domanda richiede certificato digitale."
     }
   },
   {
@@ -4403,6 +5327,12 @@
       "B": "uno strumento usato per garantire identità del sito e sicurezza del canale di trasferimento dati",
       "C": "il costo sostenuto per ottenere un nuovo cliente",
       "D": "la pagina cruciale in cui l'utente verifica prodotti, costi e decisione prima dell'acquisto"
+    },
+    "rationales": {
+      "A": "Customer care online è il concetto richiesto: nel corso compensa l'assenza di rapporto umano diretto e riduce incertezza. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di certificato digitale, mentre la domanda richiede customer care online.",
+      "C": "Non è corretta perché descrive la definizione di costo di acquisizione cliente, mentre la domanda richiede customer care online.",
+      "D": "Non è corretta perché descrive la definizione di carrello e-commerce, mentre la domanda richiede customer care online."
     }
   },
   {
@@ -4420,6 +5350,12 @@
       "B": "aumenta fiducia e sicurezza nelle transazioni online",
       "C": "è critico perché traffico e conversioni devono essere economicamente sostenibili",
       "D": "è un punto delicato in cui frizioni, costi inattesi o complessità possono generare abbandono"
+    },
+    "rationales": {
+      "A": "È corretta perché interpreta customer care online a partire dalla sua definizione nel corso: l'assistenza che accompagna l'utente nelle fasi delicate del rapporto con lo store digitale. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di certificato digitale, mentre la domanda richiede customer care online.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di costo di acquisizione cliente, mentre la domanda richiede customer care online.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di carrello e-commerce, mentre la domanda richiede customer care online."
     }
   },
   {
@@ -4436,6 +5372,12 @@
       "B": "la conversione di documenti o informazioni in formato digitale",
       "C": "l'automazione e ottimizzazione di processi aziendali tramite strumenti digitali",
       "D": "un cambiamento strategico e culturale che ridefinisce come l'azienda opera e genera valore attraverso il digitale"
+    },
+    "rationales": {
+      "A": "Innovazione è il concetto richiesto: nel corso distingue il miglioramento utile dalla semplice creazione di qualcosa di nuovo. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di digitalizzazione, mentre la domanda richiede innovazione.",
+      "C": "Non è corretta perché descrive la definizione di digitalizzazione dei processi, mentre la domanda richiede innovazione.",
+      "D": "Non è corretta perché descrive la definizione di trasformazione digitale, mentre la domanda richiede innovazione."
     }
   },
   {
@@ -4452,6 +5394,12 @@
       "B": "è il primo livello del passaggio al digitale",
       "C": "usa il digitale per rendere più efficienti attività esistenti",
       "D": "tocca modello di business, processi, organizzazione ed esperienza cliente"
+    },
+    "rationales": {
+      "A": "È corretta perché interpreta innovazione a partire dalla sua definizione nel corso: l'applicazione di nuove idee per migliorare prodotti, servizi o processi generando valore. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di digitalizzazione, mentre la domanda richiede innovazione.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di digitalizzazione dei processi, mentre la domanda richiede innovazione.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di trasformazione digitale, mentre la domanda richiede innovazione."
     }
   },
   {
@@ -4468,6 +5416,12 @@
       "B": "l'applicazione di nuove idee per migliorare prodotti, servizi o processi generando valore",
       "C": "l'automazione e ottimizzazione di processi aziendali tramite strumenti digitali",
       "D": "un cambiamento strategico e culturale che ridefinisce come l'azienda opera e genera valore attraverso il digitale"
+    },
+    "rationales": {
+      "A": "Digitalizzazione è il concetto richiesto: nel corso è il primo livello del passaggio al digitale. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di innovazione, mentre la domanda richiede digitalizzazione.",
+      "C": "Non è corretta perché descrive la definizione di digitalizzazione dei processi, mentre la domanda richiede digitalizzazione.",
+      "D": "Non è corretta perché descrive la definizione di trasformazione digitale, mentre la domanda richiede digitalizzazione."
     }
   },
   {
@@ -4486,10 +5440,10 @@
       "D": "tocca modello di business, processi, organizzazione ed esperienza cliente"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di digitalizzazione in relazione con \"è il primo livello del passaggio al digitale\".",
-      "B": "Non è la scelta migliore: \"distingue il miglioramento utile dalla semplice creazione di qualcosa di nuovo\" descrive un concetto diverso dal concetto di digitalizzazione.",
-      "C": "Non è la scelta migliore: \"usa il digitale per rendere più efficienti attività esistenti\" sposta l'attenzione su un aspetto diverso dal concetto di digitalizzazione.",
-      "D": "Non è la scelta migliore: \"tocca modello di business, processi, organizzazione ed esperienza cliente\" non identifica il ruolo specifico del concetto di digitalizzazione in questa domanda."
+      "A": "È corretta perché interpreta digitalizzazione a partire dalla sua definizione nel corso: la conversione di documenti o informazioni in formato digitale. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di innovazione, mentre la domanda richiede digitalizzazione.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di digitalizzazione dei processi, mentre la domanda richiede digitalizzazione.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di trasformazione digitale, mentre la domanda richiede digitalizzazione."
     }
   },
   {
@@ -4506,6 +5460,12 @@
       "B": "la conversione di documenti o informazioni in formato digitale",
       "C": "un cambiamento strategico e culturale che ridefinisce come l'azienda opera e genera valore attraverso il digitale",
       "D": "l'applicazione di nuove idee per migliorare prodotti, servizi o processi generando valore"
+    },
+    "rationales": {
+      "A": "Digitalizzazione dei processi è il concetto richiesto: nel corso usa il digitale per rendere più efficienti attività esistenti. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di digitalizzazione, mentre la domanda richiede digitalizzazione dei processi.",
+      "C": "Non è corretta perché descrive la definizione di trasformazione digitale, mentre la domanda richiede digitalizzazione dei processi.",
+      "D": "Non è corretta perché descrive la definizione di innovazione, mentre la domanda richiede digitalizzazione dei processi."
     }
   },
   {
@@ -4524,10 +5484,10 @@
       "D": "distingue il miglioramento utile dalla semplice creazione di qualcosa di nuovo"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di digitalizzazione dei processi in relazione con \"usa il digitale per rendere più efficienti attività esistenti\".",
-      "B": "Non è la scelta migliore: \"è il primo livello del passaggio al digitale\" descrive un concetto diverso dal concetto di digitalizzazione dei processi.",
-      "C": "Non è la scelta migliore: \"tocca modello di business, processi, organizzazione ed esperienza cliente\" sposta l'attenzione su un aspetto diverso dal concetto di digitalizzazione dei processi.",
-      "D": "Non è la scelta migliore: \"distingue il miglioramento utile dalla semplice creazione di qualcosa di nuovo\" non identifica il ruolo specifico del concetto di digitalizzazione dei processi in questa domanda."
+      "A": "È corretta perché interpreta digitalizzazione dei processi a partire dalla sua definizione nel corso: l'automazione e ottimizzazione di processi aziendali tramite strumenti digitali. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di digitalizzazione, mentre la domanda richiede digitalizzazione dei processi.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di trasformazione digitale, mentre la domanda richiede digitalizzazione dei processi.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di innovazione, mentre la domanda richiede digitalizzazione dei processi."
     }
   },
   {
@@ -4545,6 +5505,12 @@
       "B": "l'automazione e ottimizzazione di processi aziendali tramite strumenti digitali",
       "C": "la promessa distintiva che spiega perché scegliere un'offerta rispetto a un'alternativa specifica",
       "D": "la conversione di documenti o informazioni in formato digitale"
+    },
+    "rationales": {
+      "A": "Trasformazione digitale è il concetto richiesto: nel corso tocca modello di business, processi, organizzazione ed esperienza cliente. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di digitalizzazione dei processi, mentre la domanda richiede trasformazione digitale.",
+      "C": "Non è corretta perché descrive la definizione di USP, mentre la domanda richiede trasformazione digitale.",
+      "D": "Non è corretta perché descrive la definizione di digitalizzazione, mentre la domanda richiede trasformazione digitale."
     }
   },
   {
@@ -4564,10 +5530,10 @@
       "D": "è il primo livello del passaggio al digitale"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di trasformazione digitale in relazione con \"tocca modello di business, processi, organizzazione ed esperienza cliente\".",
-      "B": "Non è la scelta migliore: \"usa il digitale per rendere più efficienti attività esistenti\" descrive un concetto diverso dal concetto di trasformazione digitale.",
-      "C": "Non è la scelta migliore: \"aiuta a emergere in un contesto digitale con molti messaggi e poca attenzione\" sposta l'attenzione su un aspetto diverso dal concetto di trasformazione digitale.",
-      "D": "Non è la scelta migliore: \"è il primo livello del passaggio al digitale\" non identifica il ruolo specifico del concetto di trasformazione digitale in questa domanda."
+      "A": "È corretta perché interpreta trasformazione digitale a partire dalla sua definizione nel corso: un cambiamento strategico e culturale che ridefinisce come l'azienda opera e genera valore attraverso il digitale. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di digitalizzazione dei processi, mentre la domanda richiede trasformazione digitale.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di USP, mentre la domanda richiede trasformazione digitale.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di digitalizzazione, mentre la domanda richiede trasformazione digitale."
     }
   },
   {
@@ -4585,6 +5551,12 @@
       "B": "un cambiamento strategico e culturale che ridefinisce come l'azienda opera e genera valore attraverso il digitale",
       "C": "ciò che l'azienda dichiara di essere, spesso più superficiale e imitabile",
       "D": "l'automazione e ottimizzazione di processi aziendali tramite strumenti digitali"
+    },
+    "rationales": {
+      "A": "USP è il concetto richiesto: nel corso aiuta a emergere in un contesto digitale con molti messaggi e poca attenzione. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di trasformazione digitale, mentre la domanda richiede USP.",
+      "C": "Non è corretta perché descrive la definizione di USP comunicativa, mentre la domanda richiede USP.",
+      "D": "Non è corretta perché descrive la definizione di digitalizzazione dei processi, mentre la domanda richiede USP."
     }
   },
   {
@@ -4602,6 +5574,12 @@
       "B": "tocca modello di business, processi, organizzazione ed esperienza cliente",
       "C": "rappresenta il livello dichiarativo della promessa di valore",
       "D": "usa il digitale per rendere più efficienti attività esistenti"
+    },
+    "rationales": {
+      "A": "È corretta perché interpreta USP a partire dalla sua definizione nel corso: la promessa distintiva che spiega perché scegliere un'offerta rispetto a un'alternativa specifica. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di trasformazione digitale, mentre la domanda richiede USP.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di USP comunicativa, mentre la domanda richiede USP.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di digitalizzazione dei processi, mentre la domanda richiede USP."
     }
   },
   {
@@ -4619,6 +5597,12 @@
       "B": "la promessa distintiva che spiega perché scegliere un'offerta rispetto a un'alternativa specifica",
       "C": "ciò che genera un'asimmetria competitiva reale percepita dal mercato",
       "D": "un cambiamento strategico e culturale che ridefinisce come l'azienda opera e genera valore attraverso il digitale"
+    },
+    "rationales": {
+      "A": "USP comunicativa è il concetto richiesto: nel corso rappresenta il livello dichiarativo della promessa di valore. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di USP, mentre la domanda richiede USP comunicativa.",
+      "C": "Non è corretta perché descrive la definizione di USP strutturale, mentre la domanda richiede USP comunicativa.",
+      "D": "Non è corretta perché descrive la definizione di trasformazione digitale, mentre la domanda richiede USP comunicativa."
     }
   },
   {
@@ -4638,10 +5622,10 @@
       "D": "tocca modello di business, processi, organizzazione ed esperienza cliente"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di USP comunicativa in relazione con \"rappresenta il livello dichiarativo della promessa di valore\".",
-      "B": "Non è la scelta migliore: \"aiuta a emergere in un contesto digitale con molti messaggi e poca attenzione\" descrive un concetto diverso dal concetto di USP comunicativa.",
-      "C": "Non è la scelta migliore: \"rende più credibile e difendibile la promessa comunicativa\" sposta l'attenzione su un aspetto diverso dal concetto di USP comunicativa.",
-      "D": "Non è la scelta migliore: \"tocca modello di business, processi, organizzazione ed esperienza cliente\" non identifica il ruolo specifico del concetto di USP comunicativa in questa domanda."
+      "A": "È corretta perché interpreta USP comunicativa a partire dalla sua definizione nel corso: ciò che l'azienda dichiara di essere, spesso più superficiale e imitabile. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di USP, mentre la domanda richiede USP comunicativa.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di USP strutturale, mentre la domanda richiede USP comunicativa.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di trasformazione digitale, mentre la domanda richiede USP comunicativa."
     }
   },
   {
@@ -4659,6 +5643,12 @@
       "B": "ciò che l'azienda dichiara di essere, spesso più superficiale e imitabile",
       "C": "la situazione in cui il consumatore non sa ancora di aver bisogno del prodotto",
       "D": "la promessa distintiva che spiega perché scegliere un'offerta rispetto a un'alternativa specifica"
+    },
+    "rationales": {
+      "A": "USP strutturale è il concetto richiesto: nel corso rende più credibile e difendibile la promessa comunicativa. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di USP comunicativa, mentre la domanda richiede USP strutturale.",
+      "C": "Non è corretta perché descrive la definizione di domanda latente, mentre la domanda richiede USP strutturale.",
+      "D": "Non è corretta perché descrive la definizione di USP, mentre la domanda richiede USP strutturale."
     }
   },
   {
@@ -4678,10 +5668,10 @@
       "D": "aiuta a emergere in un contesto digitale con molti messaggi e poca attenzione"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di USP strutturale in relazione con \"rende più credibile e difendibile la promessa comunicativa\".",
-      "B": "Non è la scelta migliore: \"rappresenta il livello dichiarativo della promessa di valore\" descrive un concetto diverso dal concetto di USP strutturale.",
-      "C": "Non è la scelta migliore: \"richiede comunicazione capace di attivare consapevolezza\" sposta l'attenzione su un aspetto diverso dal concetto di USP strutturale.",
-      "D": "Non è la scelta migliore: \"aiuta a emergere in un contesto digitale con molti messaggi e poca attenzione\" non identifica il ruolo specifico del concetto di USP strutturale in questa domanda."
+      "A": "È corretta perché interpreta USP strutturale a partire dalla sua definizione nel corso: ciò che genera un'asimmetria competitiva reale percepita dal mercato. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di USP comunicativa, mentre la domanda richiede USP strutturale.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di domanda latente, mentre la domanda richiede USP strutturale.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di USP, mentre la domanda richiede USP strutturale."
     }
   },
   {
@@ -4699,6 +5689,12 @@
       "B": "ciò che genera un'asimmetria competitiva reale percepita dal mercato",
       "C": "la situazione in cui l'utente sa cosa vuole e cerca attivamente una soluzione",
       "D": "ciò che l'azienda dichiara di essere, spesso più superficiale e imitabile"
+    },
+    "rationales": {
+      "A": "Domanda latente è il concetto richiesto: nel corso richiede comunicazione capace di attivare consapevolezza. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di USP strutturale, mentre la domanda richiede domanda latente.",
+      "C": "Non è corretta perché descrive la definizione di domanda consapevole, mentre la domanda richiede domanda latente.",
+      "D": "Non è corretta perché descrive la definizione di USP comunicativa, mentre la domanda richiede domanda latente."
     }
   },
   {
@@ -4716,6 +5712,12 @@
       "B": "rende più credibile e difendibile la promessa comunicativa",
       "C": "si intercetta spesso con motori di ricerca e contenuti coerenti con l'intento",
       "D": "rappresenta il livello dichiarativo della promessa di valore"
+    },
+    "rationales": {
+      "A": "È corretta perché interpreta domanda latente a partire dalla sua definizione nel corso: la situazione in cui il consumatore non sa ancora di aver bisogno del prodotto. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di USP strutturale, mentre la domanda richiede domanda latente.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di domanda consapevole, mentre la domanda richiede domanda latente.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di USP comunicativa, mentre la domanda richiede domanda latente."
     }
   },
   {
@@ -4733,6 +5735,12 @@
       "B": "la situazione in cui il consumatore non sa ancora di aver bisogno del prodotto",
       "C": "il flusso di utenti in target e realmente interessati al prodotto o servizio",
       "D": "ciò che genera un'asimmetria competitiva reale percepita dal mercato"
+    },
+    "rationales": {
+      "A": "Domanda consapevole è il concetto richiesto: nel corso si intercetta spesso con motori di ricerca e contenuti coerenti con l'intento. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di domanda latente, mentre la domanda richiede domanda consapevole.",
+      "C": "Non è corretta perché descrive la definizione di traffico qualificato, mentre la domanda richiede domanda consapevole.",
+      "D": "Non è corretta perché descrive la definizione di USP strutturale, mentre la domanda richiede domanda consapevole."
     }
   },
   {
@@ -4750,6 +5758,12 @@
       "B": "richiede comunicazione capace di attivare consapevolezza",
       "C": "conta più del semplice volume di visite perché aumenta probabilità di conversione",
       "D": "rende più credibile e difendibile la promessa comunicativa"
+    },
+    "rationales": {
+      "A": "È corretta perché interpreta domanda consapevole a partire dalla sua definizione nel corso: la situazione in cui l'utente sa cosa vuole e cerca attivamente una soluzione. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di domanda latente, mentre la domanda richiede domanda consapevole.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di traffico qualificato, mentre la domanda richiede domanda consapevole.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di USP strutturale, mentre la domanda richiede domanda consapevole."
     }
   },
   {
@@ -4767,6 +5781,12 @@
       "B": "la situazione in cui l'utente sa cosa vuole e cerca attivamente una soluzione",
       "C": "l'ottimizzazione del sito e dei contenuti per ottenere traffico organico dai motori di ricerca",
       "D": "la situazione in cui il consumatore non sa ancora di aver bisogno del prodotto"
+    },
+    "rationales": {
+      "A": "Traffico qualificato è il concetto richiesto: nel corso conta più del semplice volume di visite perché aumenta probabilità di conversione. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di domanda consapevole, mentre la domanda richiede traffico qualificato.",
+      "C": "Non è corretta perché descrive la definizione di SEO, mentre la domanda richiede traffico qualificato.",
+      "D": "Non è corretta perché descrive la definizione di domanda latente, mentre la domanda richiede traffico qualificato."
     }
   },
   {
@@ -4786,10 +5806,10 @@
       "D": "richiede comunicazione capace di attivare consapevolezza"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di traffico qualificato in relazione con \"conta più del semplice volume di visite perché aumenta probabilità di conversione\".",
-      "B": "Non è la scelta migliore: \"si intercetta spesso con motori di ricerca e contenuti coerenti con l'intento\" descrive un concetto diverso dal concetto di traffico qualificato.",
-      "C": "Non è la scelta migliore: \"mira a rendere una pagina rilevante e autorevole rispetto alle query degli utenti\" sposta l'attenzione su un aspetto diverso dal concetto di traffico qualificato.",
-      "D": "Non è la scelta migliore: \"richiede comunicazione capace di attivare consapevolezza\" non identifica il ruolo specifico del concetto di traffico qualificato in questa domanda."
+      "A": "È corretta perché interpreta traffico qualificato a partire dalla sua definizione nel corso: il flusso di utenti in target e realmente interessati al prodotto o servizio. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di domanda consapevole, mentre la domanda richiede traffico qualificato.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di SEO, mentre la domanda richiede traffico qualificato.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di domanda latente, mentre la domanda richiede traffico qualificato."
     }
   },
   {
@@ -4807,6 +5827,12 @@
       "B": "il flusso di utenti in target e realmente interessati al prodotto o servizio",
       "C": "attività di marketing sui motori di ricerca, in particolare visibilità a pagamento tramite annunci",
       "D": "la situazione in cui l'utente sa cosa vuole e cerca attivamente una soluzione"
+    },
+    "rationales": {
+      "A": "SEO è il concetto richiesto: nel corso mira a rendere una pagina rilevante e autorevole rispetto alle query degli utenti. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di traffico qualificato, mentre la domanda richiede SEO.",
+      "C": "Non è corretta perché descrive la definizione di SEM e SEA, mentre la domanda richiede SEO.",
+      "D": "Non è corretta perché descrive la definizione di domanda consapevole, mentre la domanda richiede SEO."
     }
   },
   {
@@ -4826,10 +5852,10 @@
       "D": "si intercetta spesso con motori di ricerca e contenuti coerenti con l'intento"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di SEO in relazione con \"mira a rendere una pagina rilevante e autorevole rispetto alle query degli utenti\".",
-      "B": "Non è la scelta migliore: \"conta più del semplice volume di visite perché aumenta probabilità di conversione\" descrive un concetto diverso dal concetto di SEO.",
-      "C": "Non è la scelta migliore: \"consentono risultati più rapidi ma richiedono budget pubblicitario\" sposta l'attenzione su un aspetto diverso dal concetto di SEO.",
-      "D": "Non è la scelta migliore: \"si intercetta spesso con motori di ricerca e contenuti coerenti con l'intento\" non identifica il ruolo specifico del concetto di SEO in questa domanda."
+      "A": "È corretta perché interpreta SEO a partire dalla sua definizione nel corso: l'ottimizzazione del sito e dei contenuti per ottenere traffico organico dai motori di ricerca. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di traffico qualificato, mentre la domanda richiede SEO.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di SEM e SEA, mentre la domanda richiede SEO.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di domanda consapevole, mentre la domanda richiede SEO."
     }
   },
   {
@@ -4847,6 +5873,12 @@
       "B": "l'ottimizzazione del sito e dei contenuti per ottenere traffico organico dai motori di ricerca",
       "C": "la fase in cui i bot del motore di ricerca scansionano URL, codice e contenuti",
       "D": "il flusso di utenti in target e realmente interessati al prodotto o servizio"
+    },
+    "rationales": {
+      "A": "SEM e SEA è il concetto richiesto: nel corso consentono risultati più rapidi ma richiedono budget pubblicitario. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di SEO, mentre la domanda richiede SEM e SEA.",
+      "C": "Non è corretta perché descrive la definizione di crawling, mentre la domanda richiede SEM e SEA.",
+      "D": "Non è corretta perché descrive la definizione di traffico qualificato, mentre la domanda richiede SEM e SEA."
     }
   },
   {
@@ -4866,10 +5898,10 @@
       "D": "conta più del semplice volume di visite perché aumenta probabilità di conversione"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di SEM e SEA in relazione con \"consentono risultati più rapidi ma richiedono budget pubblicitario\".",
-      "B": "Non è la scelta migliore: \"mira a rendere una pagina rilevante e autorevole rispetto alle query degli utenti\" descrive un concetto diverso dal concetto di SEM e SEA.",
-      "C": "Non è la scelta migliore: \"è il primo passaggio perché una pagina possa essere scoperta\" sposta l'attenzione su un aspetto diverso dal concetto di SEM e SEA.",
-      "D": "Non è la scelta migliore: \"conta più del semplice volume di visite perché aumenta probabilità di conversione\" non identifica il ruolo specifico del concetto di SEM e SEA in questa domanda."
+      "A": "È corretta perché interpreta SEM e SEA a partire dalla sua definizione nel corso: attività di marketing sui motori di ricerca, in particolare visibilità a pagamento tramite annunci. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di SEO, mentre la domanda richiede SEM e SEA.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di crawling, mentre la domanda richiede SEM e SEA.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di traffico qualificato, mentre la domanda richiede SEM e SEA."
     }
   },
   {
@@ -4886,6 +5918,12 @@
       "B": "attività di marketing sui motori di ricerca, in particolare visibilità a pagamento tramite annunci",
       "C": "la fase in cui il motore archivia e organizza il contenuto trovato nell'indice",
       "D": "l'ottimizzazione del sito e dei contenuti per ottenere traffico organico dai motori di ricerca"
+    },
+    "rationales": {
+      "A": "Crawling è il concetto richiesto: nel corso è il primo passaggio perché una pagina possa essere scoperta. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di SEM e SEA, mentre la domanda richiede crawling.",
+      "C": "Non è corretta perché descrive la definizione di indexing, mentre la domanda richiede crawling.",
+      "D": "Non è corretta perché descrive la definizione di SEO, mentre la domanda richiede crawling."
     }
   },
   {
@@ -4902,6 +5940,12 @@
       "B": "consentono risultati più rapidi ma richiedono budget pubblicitario",
       "C": "fa diventare la pagina candidata a comparire per le query",
       "D": "mira a rendere una pagina rilevante e autorevole rispetto alle query degli utenti"
+    },
+    "rationales": {
+      "A": "È corretta perché interpreta crawling a partire dalla sua definizione nel corso: la fase in cui i bot del motore di ricerca scansionano URL, codice e contenuti. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di SEM e SEA, mentre la domanda richiede crawling.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di indexing, mentre la domanda richiede crawling.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di SEO, mentre la domanda richiede crawling."
     }
   },
   {
@@ -4918,6 +5962,12 @@
       "B": "la fase in cui i bot del motore di ricerca scansionano URL, codice e contenuti",
       "C": "la fase in cui il motore ordina le pagine in base alla pertinenza rispetto alla query",
       "D": "attività di marketing sui motori di ricerca, in particolare visibilità a pagamento tramite annunci"
+    },
+    "rationales": {
+      "A": "Indexing è il concetto richiesto: nel corso fa diventare la pagina candidata a comparire per le query. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di crawling, mentre la domanda richiede indexing.",
+      "C": "Non è corretta perché descrive la definizione di ranking, mentre la domanda richiede indexing.",
+      "D": "Non è corretta perché descrive la definizione di SEM e SEA, mentre la domanda richiede indexing."
     }
   },
   {
@@ -4936,10 +5986,10 @@
       "D": "consentono risultati più rapidi ma richiedono budget pubblicitario"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di indexing in relazione con \"fa diventare la pagina candidata a comparire per le query\".",
-      "B": "Non è la scelta migliore: \"è il primo passaggio perché una pagina possa essere scoperta\" descrive un concetto diverso dal concetto di indexing.",
-      "C": "Non è la scelta migliore: \"determina la visibilità effettiva nella SERP\" sposta l'attenzione su un aspetto diverso dal concetto di indexing.",
-      "D": "Non è la scelta migliore: \"consentono risultati più rapidi ma richiedono budget pubblicitario\" non identifica il ruolo specifico del concetto di indexing in questa domanda."
+      "A": "È corretta perché interpreta indexing a partire dalla sua definizione nel corso: la fase in cui il motore archivia e organizza il contenuto trovato nell'indice. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di crawling, mentre la domanda richiede indexing.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di ranking, mentre la domanda richiede indexing.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di SEM e SEA, mentre la domanda richiede indexing."
     }
   },
   {
@@ -4956,6 +6006,12 @@
       "B": "la fase in cui il motore archivia e organizza il contenuto trovato nell'indice",
       "C": "l'ottimizzazione di pagine web e contenuti interni al sito",
       "D": "la fase in cui i bot del motore di ricerca scansionano URL, codice e contenuti"
+    },
+    "rationales": {
+      "A": "Ranking è il concetto richiesto: nel corso determina la visibilità effettiva nella SERP. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di indexing, mentre la domanda richiede ranking.",
+      "C": "Non è corretta perché descrive la definizione di SEO on-page, mentre la domanda richiede ranking.",
+      "D": "Non è corretta perché descrive la definizione di crawling, mentre la domanda richiede ranking."
     }
   },
   {
@@ -4974,10 +6030,10 @@
       "D": "è il primo passaggio perché una pagina possa essere scoperta"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di ranking in relazione con \"determina la visibilità effettiva nella SERP\".",
-      "B": "Non è la scelta migliore: \"fa diventare la pagina candidata a comparire per le query\" descrive un concetto diverso dal concetto di ranking.",
-      "C": "Non è la scelta migliore: \"lavora su elementi che il sito controlla direttamente\" sposta l'attenzione su un aspetto diverso dal concetto di ranking.",
-      "D": "Non è la scelta migliore: \"è il primo passaggio perché una pagina possa essere scoperta\" non identifica il ruolo specifico del concetto di ranking in questa domanda."
+      "A": "È corretta perché interpreta ranking a partire dalla sua definizione nel corso: la fase in cui il motore ordina le pagine in base alla pertinenza rispetto alla query. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di indexing, mentre la domanda richiede ranking.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di SEO on-page, mentre la domanda richiede ranking.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di crawling, mentre la domanda richiede ranking."
     }
   },
   {
@@ -4995,6 +6051,12 @@
       "B": "la fase in cui il motore ordina le pagine in base alla pertinenza rispetto alla query",
       "C": "le azioni esterne al sito che contribuiscono al posizionamento",
       "D": "la fase in cui il motore archivia e organizza il contenuto trovato nell'indice"
+    },
+    "rationales": {
+      "A": "SEO on-page è il concetto richiesto: nel corso lavora su elementi che il sito controlla direttamente. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di ranking, mentre la domanda richiede SEO on-page.",
+      "C": "Non è corretta perché descrive la definizione di SEO off-page, mentre la domanda richiede SEO on-page.",
+      "D": "Non è corretta perché descrive la definizione di indexing, mentre la domanda richiede SEO on-page."
     }
   },
   {
@@ -5012,6 +6074,12 @@
       "B": "determina la visibilità effettiva nella SERP",
       "C": "costruisce autorevolezza tramite segnali come menzioni e backlink",
       "D": "fa diventare la pagina candidata a comparire per le query"
+    },
+    "rationales": {
+      "A": "È corretta perché interpreta SEO on-page a partire dalla sua definizione nel corso: l'ottimizzazione di pagine web e contenuti interni al sito. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di ranking, mentre la domanda richiede SEO on-page.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di SEO off-page, mentre la domanda richiede SEO on-page.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di indexing, mentre la domanda richiede SEO on-page."
     }
   },
   {
@@ -5029,6 +6097,12 @@
       "B": "l'ottimizzazione di pagine web e contenuti interni al sito",
       "C": "l'ottimizzazione degli aspetti tecnici del sito che permettono scansione, indicizzazione e buona esperienza",
       "D": "la fase in cui il motore ordina le pagine in base alla pertinenza rispetto alla query"
+    },
+    "rationales": {
+      "A": "SEO off-page è il concetto richiesto: nel corso costruisce autorevolezza tramite segnali come menzioni e backlink. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di SEO on-page, mentre la domanda richiede SEO off-page.",
+      "C": "Non è corretta perché descrive la definizione di SEO tecnica, mentre la domanda richiede SEO off-page.",
+      "D": "Non è corretta perché descrive la definizione di ranking, mentre la domanda richiede SEO off-page."
     }
   },
   {
@@ -5046,6 +6120,12 @@
       "B": "lavora su elementi che il sito controlla direttamente",
       "C": "lavora dietro le quinte su struttura, performance e accessibilità tecnica",
       "D": "determina la visibilità effettiva nella SERP"
+    },
+    "rationales": {
+      "A": "È corretta perché interpreta SEO off-page a partire dalla sua definizione nel corso: le azioni esterne al sito che contribuiscono al posizionamento. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di SEO on-page, mentre la domanda richiede SEO off-page.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di SEO tecnica, mentre la domanda richiede SEO off-page.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di ranking, mentre la domanda richiede SEO off-page."
     }
   },
   {
@@ -5063,6 +6143,12 @@
       "B": "le azioni esterne al sito che contribuiscono al posizionamento",
       "C": "il motivo principale per cui un utente esegue una ricerca online",
       "D": "l'ottimizzazione di pagine web e contenuti interni al sito"
+    },
+    "rationales": {
+      "A": "SEO tecnica è il concetto richiesto: nel corso lavora dietro le quinte su struttura, performance e accessibilità tecnica. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di SEO off-page, mentre la domanda richiede SEO tecnica.",
+      "C": "Non è corretta perché descrive la definizione di search intent, mentre la domanda richiede SEO tecnica.",
+      "D": "Non è corretta perché descrive la definizione di SEO on-page, mentre la domanda richiede SEO tecnica."
     }
   },
   {
@@ -5082,10 +6168,10 @@
       "D": "lavora su elementi che il sito controlla direttamente"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di SEO tecnica in relazione con \"lavora dietro le quinte su struttura, performance e accessibilità tecnica\".",
-      "B": "Non è la scelta migliore: \"costruisce autorevolezza tramite segnali come menzioni e backlink\" descrive un concetto diverso dal concetto di SEO tecnica.",
-      "C": "Non è la scelta migliore: \"guida la creazione di contenuti pertinenti e il miglioramento del traffico qualificato\" sposta l'attenzione su un aspetto diverso dal concetto di SEO tecnica.",
-      "D": "Non è la scelta migliore: \"lavora su elementi che il sito controlla direttamente\" non identifica il ruolo specifico del concetto di SEO tecnica in questa domanda."
+      "A": "È corretta perché interpreta SEO tecnica a partire dalla sua definizione nel corso: l'ottimizzazione degli aspetti tecnici del sito che permettono scansione, indicizzazione e buona esperienza. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di SEO off-page, mentre la domanda richiede SEO tecnica.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di search intent, mentre la domanda richiede SEO tecnica.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di SEO on-page, mentre la domanda richiede SEO tecnica."
     }
   },
   {
@@ -5103,6 +6189,12 @@
       "B": "l'ottimizzazione degli aspetti tecnici del sito che permettono scansione, indicizzazione e buona esperienza",
       "C": "un intento di ricerca in cui l'utente cerca una risposta o spiegazione",
       "D": "le azioni esterne al sito che contribuiscono al posizionamento"
+    },
+    "rationales": {
+      "A": "Search intent è il concetto richiesto: nel corso guida la creazione di contenuti pertinenti e il miglioramento del traffico qualificato. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di SEO tecnica, mentre la domanda richiede search intent.",
+      "C": "Non è corretta perché descrive la definizione di intento informazionale, mentre la domanda richiede search intent.",
+      "D": "Non è corretta perché descrive la definizione di SEO off-page, mentre la domanda richiede search intent."
     }
   },
   {
@@ -5122,10 +6214,10 @@
       "D": "costruisce autorevolezza tramite segnali come menzioni e backlink"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di search intent in relazione con \"guida la creazione di contenuti pertinenti e il miglioramento del traffico qualificato\".",
-      "B": "Non è la scelta migliore: \"lavora dietro le quinte su struttura, performance e accessibilità tecnica\" descrive un concetto diverso dal concetto di search intent.",
-      "C": "Non è la scelta migliore: \"di solito indica una fase fredda o iniziale del percorso\" sposta l'attenzione su un aspetto diverso dal concetto di search intent.",
-      "D": "Non è la scelta migliore: \"costruisce autorevolezza tramite segnali come menzioni e backlink\" non identifica il ruolo specifico del concetto di search intent in questa domanda."
+      "A": "È corretta perché interpreta search intent a partire dalla sua definizione nel corso: il motivo principale per cui un utente esegue una ricerca online. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di SEO tecnica, mentre la domanda richiede search intent.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di intento informazionale, mentre la domanda richiede search intent.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di SEO off-page, mentre la domanda richiede search intent."
     }
   },
   {
@@ -5143,6 +6235,12 @@
       "B": "il motivo principale per cui un utente esegue una ricerca online",
       "C": "un intento in cui l'utente cerca un sito, una pagina o un luogo specifico",
       "D": "l'ottimizzazione degli aspetti tecnici del sito che permettono scansione, indicizzazione e buona esperienza"
+    },
+    "rationales": {
+      "A": "Intento informazionale è il concetto richiesto: nel corso di solito indica una fase fredda o iniziale del percorso. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di search intent, mentre la domanda richiede intento informazionale.",
+      "C": "Non è corretta perché descrive la definizione di intento navigazionale, mentre la domanda richiede intento informazionale.",
+      "D": "Non è corretta perché descrive la definizione di SEO tecnica, mentre la domanda richiede intento informazionale."
     }
   },
   {
@@ -5162,10 +6260,10 @@
       "D": "lavora dietro le quinte su struttura, performance e accessibilità tecnica"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di intento informazionale in relazione con \"di solito indica una fase fredda o iniziale del percorso\".",
-      "B": "Non è la scelta migliore: \"guida la creazione di contenuti pertinenti e il miglioramento del traffico qualificato\" descrive un concetto diverso dal concetto di intento informazionale.",
-      "C": "Non è la scelta migliore: \"indica che la destinazione è già nota almeno in parte\" sposta l'attenzione su un aspetto diverso dal concetto di intento informazionale.",
-      "D": "Non è la scelta migliore: \"lavora dietro le quinte su struttura, performance e accessibilità tecnica\" non identifica il ruolo specifico del concetto di intento informazionale in questa domanda."
+      "A": "È corretta perché interpreta intento informazionale a partire dalla sua definizione nel corso: un intento di ricerca in cui l'utente cerca una risposta o spiegazione. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di search intent, mentre la domanda richiede intento informazionale.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di intento navigazionale, mentre la domanda richiede intento informazionale.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di SEO tecnica, mentre la domanda richiede intento informazionale."
     }
   },
   {
@@ -5183,6 +6281,12 @@
       "B": "un intento di ricerca in cui l'utente cerca una risposta o spiegazione",
       "C": "un intento in cui l'utente sta investigando e confrontando prima dell'acquisto",
       "D": "il motivo principale per cui un utente esegue una ricerca online"
+    },
+    "rationales": {
+      "A": "Intento navigazionale è il concetto richiesto: nel corso indica che la destinazione è già nota almeno in parte. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di intento informazionale, mentre la domanda richiede intento navigazionale.",
+      "C": "Non è corretta perché descrive la definizione di intento commerciale, mentre la domanda richiede intento navigazionale.",
+      "D": "Non è corretta perché descrive la definizione di search intent, mentre la domanda richiede intento navigazionale."
     }
   },
   {
@@ -5200,6 +6304,12 @@
       "B": "di solito indica una fase fredda o iniziale del percorso",
       "C": "rappresenta un lead più caldo e una fase avanzata della journey",
       "D": "guida la creazione di contenuti pertinenti e il miglioramento del traffico qualificato"
+    },
+    "rationales": {
+      "A": "È corretta perché interpreta intento navigazionale a partire dalla sua definizione nel corso: un intento in cui l'utente cerca un sito, una pagina o un luogo specifico. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di intento informazionale, mentre la domanda richiede intento navigazionale.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di intento commerciale, mentre la domanda richiede intento navigazionale.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di search intent, mentre la domanda richiede intento navigazionale."
     }
   },
   {
@@ -5242,10 +6352,10 @@
       "D": "di solito indica una fase fredda o iniziale del percorso"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di intento commerciale in relazione con \"rappresenta un lead più caldo e una fase avanzata della journey\".",
-      "B": "Non è la scelta migliore: \"indica che la destinazione è già nota almeno in parte\" descrive un concetto diverso dal concetto di intento commerciale.",
-      "C": "Non è la scelta migliore: \"richiede pagine capaci di ridurre frizioni e sostenere la conversione\" sposta l'attenzione su un aspetto diverso dal concetto di intento commerciale.",
-      "D": "Non è la scelta migliore: \"di solito indica una fase fredda o iniziale del percorso\" non identifica il ruolo specifico del concetto di intento commerciale in questa domanda."
+      "A": "È corretta perché interpreta intento commerciale a partire dalla sua definizione nel corso: un intento in cui l'utente sta investigando e confrontando prima dell'acquisto. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di intento navigazionale, mentre la domanda richiede intento commerciale.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di intento transazionale, mentre la domanda richiede intento commerciale.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di intento informazionale, mentre la domanda richiede intento commerciale."
     }
   },
   {
@@ -5263,6 +6373,12 @@
       "B": "un intento in cui l'utente sta investigando e confrontando prima dell'acquisto",
       "C": "una risposta generata dall'IA di Google mostrata sopra i risultati organici sintetizzando più fonti",
       "D": "un intento in cui l'utente cerca un sito, una pagina o un luogo specifico"
+    },
+    "rationales": {
+      "A": "Intento transazionale è il concetto richiesto: nel corso richiede pagine capaci di ridurre frizioni e sostenere la conversione. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di intento commerciale, mentre la domanda richiede intento transazionale.",
+      "C": "Non è corretta perché descrive la definizione di AI Overview, mentre la domanda richiede intento transazionale.",
+      "D": "Non è corretta perché descrive la definizione di intento navigazionale, mentre la domanda richiede intento transazionale."
     }
   },
   {
@@ -5282,10 +6398,10 @@
       "D": "indica che la destinazione è già nota almeno in parte"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di intento transazionale in relazione con \"richiede pagine capaci di ridurre frizioni e sostenere la conversione\".",
-      "B": "Non è la scelta migliore: \"rappresenta un lead più caldo e una fase avanzata della journey\" descrive un concetto diverso dal concetto di intento transazionale.",
-      "C": "Non è la scelta migliore: \"trasforma il motore di ricerca in motore di risposta e può ridurre il click verso i siti\" sposta l'attenzione su un aspetto diverso dal concetto di intento transazionale.",
-      "D": "Non è la scelta migliore: \"indica che la destinazione è già nota almeno in parte\" non identifica il ruolo specifico del concetto di intento transazionale in questa domanda."
+      "A": "È corretta perché interpreta intento transazionale a partire dalla sua definizione nel corso: un intento in cui l'utente è già orientato a compiere un acquisto o un'azione. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di intento commerciale, mentre la domanda richiede intento transazionale.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di AI Overview, mentre la domanda richiede intento transazionale.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di intento navigazionale, mentre la domanda richiede intento transazionale."
     }
   },
   {
@@ -5326,6 +6442,12 @@
       "B": "richiede pagine capaci di ridurre frizioni e sostenere la conversione",
       "C": "nasce con i risultati AI e premia qualità, specificità e strutturazione del contenuto",
       "D": "rappresenta un lead più caldo e una fase avanzata della journey"
+    },
+    "rationales": {
+      "A": "È corretta perché interpreta AI Overview a partire dalla sua definizione nel corso: una risposta generata dall'IA di Google mostrata sopra i risultati organici sintetizzando più fonti. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di intento transazionale, mentre la domanda richiede AI Overview.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di GEO, mentre la domanda richiede AI Overview.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di intento commerciale, mentre la domanda richiede AI Overview."
     }
   },
   {
@@ -5343,6 +6465,12 @@
       "B": "una risposta generata dall'IA di Google mostrata sopra i risultati organici sintetizzando più fonti",
       "C": "l'attività di trovare e analizzare le parole o frasi usate dal pubblico nei motori di ricerca",
       "D": "un intento in cui l'utente è già orientato a compiere un acquisto o un'azione"
+    },
+    "rationales": {
+      "A": "GEO è il concetto richiesto: nel corso nasce con i risultati AI e premia qualità, specificità e strutturazione del contenuto. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di AI Overview, mentre la domanda richiede GEO.",
+      "C": "Non è corretta perché descrive la definizione di keyword research, mentre la domanda richiede GEO.",
+      "D": "Non è corretta perché descrive la definizione di intento transazionale, mentre la domanda richiede GEO."
     }
   },
   {
@@ -5360,6 +6488,12 @@
       "B": "trasforma il motore di ricerca in motore di risposta e può ridurre il click verso i siti",
       "C": "la keyword diventa proxy della domanda e dell'intento dell'utente",
       "D": "richiede pagine capaci di ridurre frizioni e sostenere la conversione"
+    },
+    "rationales": {
+      "A": "È corretta perché interpreta GEO a partire dalla sua definizione nel corso: Generative Engine Optimization, cioè ottimizzazione dei contenuti per essere usati o citati da motori generativi. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di AI Overview, mentre la domanda richiede GEO.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di keyword research, mentre la domanda richiede GEO.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di intento transazionale, mentre la domanda richiede GEO."
     }
   },
   {
@@ -5377,6 +6511,12 @@
       "B": "Generative Engine Optimization, cioè ottimizzazione dei contenuti per essere usati o citati da motori generativi",
       "C": "query di ricerca più lunghe e specifiche con volumi più bassi e spesso conversione più alta",
       "D": "una risposta generata dall'IA di Google mostrata sopra i risultati organici sintetizzando più fonti"
+    },
+    "rationales": {
+      "A": "Keyword research è il concetto richiesto: nel corso la keyword diventa proxy della domanda e dell'intento dell'utente. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di GEO, mentre la domanda richiede keyword research.",
+      "C": "Non è corretta perché descrive la definizione di keyword long-tail, mentre la domanda richiede keyword research.",
+      "D": "Non è corretta perché descrive la definizione di AI Overview, mentre la domanda richiede keyword research."
     }
   },
   {
@@ -5396,10 +6536,10 @@
       "D": "trasforma il motore di ricerca in motore di risposta e può ridurre il click verso i siti"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di keyword research in relazione con \"la keyword diventa proxy della domanda e dell'intento dell'utente\".",
-      "B": "Non è la scelta migliore: \"nasce con i risultati AI e premia qualità, specificità e strutturazione del contenuto\" descrive un concetto diverso dal concetto di keyword research.",
-      "C": "Non è la scelta migliore: \"sono utili perché più vicine a bisogni precisi e meno competitive\" sposta l'attenzione su un aspetto diverso dal concetto di keyword research.",
-      "D": "Non è la scelta migliore: \"trasforma il motore di ricerca in motore di risposta e può ridurre il click verso i siti\" non identifica il ruolo specifico del concetto di keyword research in questa domanda."
+      "A": "È corretta perché interpreta keyword research a partire dalla sua definizione nel corso: l'attività di trovare e analizzare le parole o frasi usate dal pubblico nei motori di ricerca. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di GEO, mentre la domanda richiede keyword research.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di keyword long-tail, mentre la domanda richiede keyword research.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di AI Overview, mentre la domanda richiede keyword research."
     }
   },
   {
@@ -5417,6 +6557,12 @@
       "B": "l'attività di trovare e analizzare le parole o frasi usate dal pubblico nei motori di ricerca",
       "C": "il numero di volte in cui una keyword viene cercata in un intervallo di tempo",
       "D": "Generative Engine Optimization, cioè ottimizzazione dei contenuti per essere usati o citati da motori generativi"
+    },
+    "rationales": {
+      "A": "Keyword long-tail è il concetto richiesto: nel corso sono utili perché più vicine a bisogni precisi e meno competitive. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di keyword research, mentre la domanda richiede keyword long-tail.",
+      "C": "Non è corretta perché descrive la definizione di volume di ricerca, mentre la domanda richiede keyword long-tail.",
+      "D": "Non è corretta perché descrive la definizione di GEO, mentre la domanda richiede keyword long-tail."
     }
   },
   {
@@ -5436,10 +6582,10 @@
       "D": "nasce con i risultati AI e premia qualità, specificità e strutturazione del contenuto"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di keyword long-tail in relazione con \"sono utili perché più vicine a bisogni precisi e meno competitive\".",
-      "B": "Non è la scelta migliore: \"la keyword diventa proxy della domanda e dell'intento dell'utente\" descrive un concetto diverso dal concetto di keyword long-tail.",
-      "C": "Non è la scelta migliore: \"aiuta a stimare il potenziale traffico ma va letto insieme a rilevanza e concorrenza\" sposta l'attenzione su un aspetto diverso dal concetto di keyword long-tail.",
-      "D": "Non è la scelta migliore: \"nasce con i risultati AI e premia qualità, specificità e strutturazione del contenuto\" non identifica il ruolo specifico del concetto di keyword long-tail in questa domanda."
+      "A": "È corretta perché interpreta keyword long-tail a partire dalla sua definizione nel corso: query di ricerca più lunghe e specifiche con volumi più bassi e spesso conversione più alta. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di keyword research, mentre la domanda richiede keyword long-tail.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di volume di ricerca, mentre la domanda richiede keyword long-tail.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di GEO, mentre la domanda richiede keyword long-tail."
     }
   },
   {
@@ -5457,6 +6603,12 @@
       "B": "query di ricerca più lunghe e specifiche con volumi più bassi e spesso conversione più alta",
       "C": "il grado di fiducia e autorevolezza percepito dai motori di ricerca verso una fonte",
       "D": "l'attività di trovare e analizzare le parole o frasi usate dal pubblico nei motori di ricerca"
+    },
+    "rationales": {
+      "A": "Volume di ricerca è il concetto richiesto: nel corso aiuta a stimare il potenziale traffico ma va letto insieme a rilevanza e concorrenza. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di keyword long-tail, mentre la domanda richiede volume di ricerca.",
+      "C": "Non è corretta perché descrive la definizione di autorità SEO, mentre la domanda richiede volume di ricerca.",
+      "D": "Non è corretta perché descrive la definizione di keyword research, mentre la domanda richiede volume di ricerca."
     }
   },
   {
@@ -5476,10 +6628,10 @@
       "D": "la keyword diventa proxy della domanda e dell'intento dell'utente"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di volume di ricerca in relazione con \"aiuta a stimare il potenziale traffico ma va letto insieme a rilevanza e concorrenza\".",
-      "B": "Non è la scelta migliore: \"sono utili perché più vicine a bisogni precisi e meno competitive\" descrive un concetto diverso dal concetto di volume di ricerca.",
-      "C": "Non è la scelta migliore: \"influenza la capacità di competere su keyword presidiate da fonti forti\" sposta l'attenzione su un aspetto diverso dal concetto di volume di ricerca.",
-      "D": "Non è la scelta migliore: \"la keyword diventa proxy della domanda e dell'intento dell'utente\" non identifica il ruolo specifico del concetto di volume di ricerca in questa domanda."
+      "A": "È corretta perché interpreta volume di ricerca a partire dalla sua definizione nel corso: il numero di volte in cui una keyword viene cercata in un intervallo di tempo. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di keyword long-tail, mentre la domanda richiede volume di ricerca.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di autorità SEO, mentre la domanda richiede volume di ricerca.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di keyword research, mentre la domanda richiede volume di ricerca."
     }
   },
   {
@@ -5497,6 +6649,12 @@
       "B": "il numero di volte in cui una keyword viene cercata in un intervallo di tempo",
       "C": "link provenienti da siti affidabili che possono rafforzare autorità e posizionamento organico",
       "D": "query di ricerca più lunghe e specifiche con volumi più bassi e spesso conversione più alta"
+    },
+    "rationales": {
+      "A": "Autorità SEO è il concetto richiesto: nel corso influenza la capacità di competere su keyword presidiate da fonti forti. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di volume di ricerca, mentre la domanda richiede autorità SEO.",
+      "C": "Non è corretta perché descrive la definizione di backlink autorevoli, mentre la domanda richiede autorità SEO.",
+      "D": "Non è corretta perché descrive la definizione di keyword long-tail, mentre la domanda richiede autorità SEO."
     }
   },
   {
@@ -5514,6 +6672,12 @@
       "B": "aiuta a stimare il potenziale traffico ma va letto insieme a rilevanza e concorrenza",
       "C": "sono un segnale esterno di fiducia per la SEO off-page",
       "D": "sono utili perché più vicine a bisogni precisi e meno competitive"
+    },
+    "rationales": {
+      "A": "È corretta perché interpreta autorità SEO a partire dalla sua definizione nel corso: il grado di fiducia e autorevolezza percepito dai motori di ricerca verso una fonte. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di volume di ricerca, mentre la domanda richiede autorità SEO.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di backlink autorevoli, mentre la domanda richiede autorità SEO.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di keyword long-tail, mentre la domanda richiede autorità SEO."
     }
   },
   {
@@ -5531,6 +6695,12 @@
       "B": "il grado di fiducia e autorevolezza percepito dai motori di ricerca verso una fonte",
       "C": "attività promozionali online realizzate tramite sponsorizzazioni a pagamento",
       "D": "il numero di volte in cui una keyword viene cercata in un intervallo di tempo"
+    },
+    "rationales": {
+      "A": "Backlink autorevoli è il concetto richiesto: nel corso sono un segnale esterno di fiducia per la SEO off-page. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di autorità SEO, mentre la domanda richiede backlink autorevoli.",
+      "C": "Non è corretta perché descrive la definizione di digital advertising, mentre la domanda richiede backlink autorevoli.",
+      "D": "Non è corretta perché descrive la definizione di volume di ricerca, mentre la domanda richiede backlink autorevoli."
     }
   },
   {
@@ -5550,10 +6720,10 @@
       "D": "aiuta a stimare il potenziale traffico ma va letto insieme a rilevanza e concorrenza"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di backlink autorevoli in relazione con \"sono un segnale esterno di fiducia per la SEO off-page\".",
-      "B": "Non è la scelta migliore: \"influenza la capacità di competere su keyword presidiate da fonti forti\" descrive un concetto diverso dal concetto di backlink autorevoli.",
-      "C": "Non è la scelta migliore: \"permette targeting, flessibilità, modifiche rapide e budget scalabile\" sposta l'attenzione su un aspetto diverso dal concetto di backlink autorevoli.",
-      "D": "Non è la scelta migliore: \"aiuta a stimare il potenziale traffico ma va letto insieme a rilevanza e concorrenza\" non identifica il ruolo specifico del concetto di backlink autorevoli in questa domanda."
+      "A": "È corretta perché interpreta backlink autorevoli a partire dalla sua definizione nel corso: link provenienti da siti affidabili che possono rafforzare autorità e posizionamento organico. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di autorità SEO, mentre la domanda richiede backlink autorevoli.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di digital advertising, mentre la domanda richiede backlink autorevoli.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di volume di ricerca, mentre la domanda richiede backlink autorevoli."
     }
   },
   {
@@ -5570,6 +6740,12 @@
       "B": "link provenienti da siti affidabili che possono rafforzare autorità e posizionamento organico",
       "C": "annunci mostrati nelle pagine dei risultati dei motori di ricerca",
       "D": "il grado di fiducia e autorevolezza percepito dai motori di ricerca verso una fonte"
+    },
+    "rationales": {
+      "A": "Digital advertising è il concetto richiesto: nel corso permette targeting, flessibilità, modifiche rapide e budget scalabile. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di backlink autorevoli, mentre la domanda richiede digital advertising.",
+      "C": "Non è corretta perché descrive la definizione di search advertising, mentre la domanda richiede digital advertising.",
+      "D": "Non è corretta perché descrive la definizione di autorità SEO, mentre la domanda richiede digital advertising."
     }
   },
   {
@@ -5588,10 +6764,10 @@
       "D": "influenza la capacità di competere su keyword presidiate da fonti forti"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di digital advertising in relazione con \"permette targeting, flessibilità, modifiche rapide e budget scalabile\".",
-      "B": "Non è la scelta migliore: \"sono un segnale esterno di fiducia per la SEO off-page\" descrive un concetto diverso dal concetto di digital advertising.",
-      "C": "Non è la scelta migliore: \"intercetta utenti che stanno formulando una query esplicita\" sposta l'attenzione su un aspetto diverso dal concetto di digital advertising.",
-      "D": "Non è la scelta migliore: \"influenza la capacità di competere su keyword presidiate da fonti forti\" non identifica il ruolo specifico del concetto di digital advertising in questa domanda."
+      "A": "È corretta perché interpreta digital advertising a partire dalla sua definizione nel corso: attività promozionali online realizzate tramite sponsorizzazioni a pagamento. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di backlink autorevoli, mentre la domanda richiede digital advertising.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di search advertising, mentre la domanda richiede digital advertising.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di autorità SEO, mentre la domanda richiede digital advertising."
     }
   },
   {
@@ -5609,6 +6785,12 @@
       "B": "attività promozionali online realizzate tramite sponsorizzazioni a pagamento",
       "C": "annunci con elementi testuali e visivi che appaiono su siti, app o dispositivi",
       "D": "link provenienti da siti affidabili che possono rafforzare autorità e posizionamento organico"
+    },
+    "rationales": {
+      "A": "Search advertising è il concetto richiesto: nel corso intercetta utenti che stanno formulando una query esplicita. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di digital advertising, mentre la domanda richiede search advertising.",
+      "C": "Non è corretta perché descrive la definizione di display advertising, mentre la domanda richiede search advertising.",
+      "D": "Non è corretta perché descrive la definizione di backlink autorevoli, mentre la domanda richiede search advertising."
     }
   },
   {
@@ -5626,6 +6808,12 @@
       "B": "permette targeting, flessibilità, modifiche rapide e budget scalabile",
       "C": "lavora sulla visibilità in spazi pubblicitari esterni alla SERP organica",
       "D": "sono un segnale esterno di fiducia per la SEO off-page"
+    },
+    "rationales": {
+      "A": "È corretta perché interpreta search advertising a partire dalla sua definizione nel corso: annunci mostrati nelle pagine dei risultati dei motori di ricerca. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di digital advertising, mentre la domanda richiede search advertising.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di display advertising, mentre la domanda richiede search advertising.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di backlink autorevoli, mentre la domanda richiede search advertising."
     }
   },
   {
@@ -5642,6 +6830,12 @@
       "B": "annunci mostrati nelle pagine dei risultati dei motori di ricerca",
       "C": "annunci video mostrati prima, durante o dopo un contenuto video",
       "D": "attività promozionali online realizzate tramite sponsorizzazioni a pagamento"
+    },
+    "rationales": {
+      "A": "Display advertising è il concetto richiesto: nel corso lavora sulla visibilità in spazi pubblicitari esterni alla SERP organica. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di search advertising, mentre la domanda richiede display advertising.",
+      "C": "Non è corretta perché descrive la definizione di video advertising in-stream, mentre la domanda richiede display advertising.",
+      "D": "Non è corretta perché descrive la definizione di digital advertising, mentre la domanda richiede display advertising."
     }
   },
   {
@@ -5658,6 +6852,12 @@
       "B": "intercetta utenti che stanno formulando una query esplicita",
       "C": "sfrutta il contesto di fruizione video per veicolare messaggi promozionali",
       "D": "permette targeting, flessibilità, modifiche rapide e budget scalabile"
+    },
+    "rationales": {
+      "A": "È corretta perché interpreta display advertising a partire dalla sua definizione nel corso: annunci con elementi testuali e visivi che appaiono su siti, app o dispositivi. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di search advertising, mentre la domanda richiede display advertising.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di video advertising in-stream, mentre la domanda richiede display advertising.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di digital advertising, mentre la domanda richiede display advertising."
     }
   },
   {
@@ -5674,6 +6874,12 @@
       "B": "annunci con elementi testuali e visivi che appaiono su siti, app o dispositivi",
       "C": "annunci video mostrati in contenuti streaming trasmessi via Internet",
       "D": "annunci mostrati nelle pagine dei risultati dei motori di ricerca"
+    },
+    "rationales": {
+      "A": "Video advertising in-stream è il concetto richiesto: nel corso sfrutta il contesto di fruizione video per veicolare messaggi promozionali. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di display advertising, mentre la domanda richiede video advertising in-stream.",
+      "C": "Non è corretta perché descrive la definizione di OTT advertising, mentre la domanda richiede video advertising in-stream.",
+      "D": "Non è corretta perché descrive la definizione di search advertising, mentre la domanda richiede video advertising in-stream."
     }
   },
   {
@@ -5692,10 +6898,10 @@
       "D": "intercetta utenti che stanno formulando una query esplicita"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di video advertising in-stream in relazione con \"sfrutta il contesto di fruizione video per veicolare messaggi promozionali\".",
-      "B": "Non è la scelta migliore: \"lavora sulla visibilità in spazi pubblicitari esterni alla SERP organica\" descrive un concetto diverso dal concetto di video advertising in-stream.",
-      "C": "Non è la scelta migliore: \"raggiunge utenti su servizi over-the-top non via satellite o cavo tradizionale\" sposta l'attenzione su un aspetto diverso dal concetto di video advertising in-stream.",
-      "D": "Non è la scelta migliore: \"intercetta utenti che stanno formulando una query esplicita\" non identifica il ruolo specifico del concetto di video advertising in-stream in questa domanda."
+      "A": "È corretta perché interpreta video advertising in-stream a partire dalla sua definizione nel corso: annunci video mostrati prima, durante o dopo un contenuto video. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di display advertising, mentre la domanda richiede video advertising in-stream.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di OTT advertising, mentre la domanda richiede video advertising in-stream.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di search advertising, mentre la domanda richiede video advertising in-stream."
     }
   },
   {
@@ -5712,6 +6918,12 @@
       "B": "annunci video mostrati prima, durante o dopo un contenuto video",
       "C": "il costo pagato ogni volta che un utente clicca su un annuncio",
       "D": "annunci con elementi testuali e visivi che appaiono su siti, app o dispositivi"
+    },
+    "rationales": {
+      "A": "OTT advertising è il concetto richiesto: nel corso raggiunge utenti su servizi over-the-top non via satellite o cavo tradizionale. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di video advertising in-stream, mentre la domanda richiede OTT advertising.",
+      "C": "Non è corretta perché descrive la definizione di CPC, mentre la domanda richiede OTT advertising.",
+      "D": "Non è corretta perché descrive la definizione di display advertising, mentre la domanda richiede OTT advertising."
     }
   },
   {
@@ -5730,10 +6942,10 @@
       "D": "lavora sulla visibilità in spazi pubblicitari esterni alla SERP organica"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di OTT advertising in relazione con \"raggiunge utenti su servizi over-the-top non via satellite o cavo tradizionale\".",
-      "B": "Non è la scelta migliore: \"sfrutta il contesto di fruizione video per veicolare messaggi promozionali\" descrive un concetto diverso dal concetto di OTT advertising.",
-      "C": "Non è la scelta migliore: \"misura l'efficienza economica della generazione di click paid\" sposta l'attenzione su un aspetto diverso dal concetto di OTT advertising.",
-      "D": "Non è la scelta migliore: \"lavora sulla visibilità in spazi pubblicitari esterni alla SERP organica\" non identifica il ruolo specifico del concetto di OTT advertising in questa domanda."
+      "A": "È corretta perché interpreta OTT advertising a partire dalla sua definizione nel corso: annunci video mostrati in contenuti streaming trasmessi via Internet. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di video advertising in-stream, mentre la domanda richiede OTT advertising.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di CPC, mentre la domanda richiede OTT advertising.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di display advertising, mentre la domanda richiede OTT advertising."
     }
   },
   {
@@ -5750,6 +6962,12 @@
       "B": "annunci video mostrati in contenuti streaming trasmessi via Internet",
       "C": "il costo sostenuto per mille impression pubblicitarie",
       "D": "annunci video mostrati prima, durante o dopo un contenuto video"
+    },
+    "rationales": {
+      "A": "CPC è il concetto richiesto: nel corso misura l'efficienza economica della generazione di click paid. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di OTT advertising, mentre la domanda richiede CPC.",
+      "C": "Non è corretta perché descrive la definizione di CPM, mentre la domanda richiede CPC.",
+      "D": "Non è corretta perché descrive la definizione di video advertising in-stream, mentre la domanda richiede CPC."
     }
   },
   {
@@ -5768,10 +6986,10 @@
       "D": "sfrutta il contesto di fruizione video per veicolare messaggi promozionali"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di CPC in relazione con \"misura l'efficienza economica della generazione di click paid\".",
-      "B": "Non è la scelta migliore: \"raggiunge utenti su servizi over-the-top non via satellite o cavo tradizionale\" descrive un concetto diverso dal concetto di CPC.",
-      "C": "Non è la scelta migliore: \"è utile per campagne orientate alla copertura o alla visibilità\" sposta l'attenzione su un aspetto diverso dal concetto di CPC.",
-      "D": "Non è la scelta migliore: \"sfrutta il contesto di fruizione video per veicolare messaggi promozionali\" non identifica il ruolo specifico del concetto di CPC in questa domanda."
+      "A": "È corretta perché interpreta CPC a partire dalla sua definizione nel corso: il costo pagato ogni volta che un utente clicca su un annuncio. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di OTT advertising, mentre la domanda richiede CPC.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di CPM, mentre la domanda richiede CPC.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di video advertising in-stream, mentre la domanda richiede CPC."
     }
   },
   {
@@ -5788,6 +7006,12 @@
       "B": "il costo pagato ogni volta che un utente clicca su un annuncio",
       "C": "il ritorno sulla spesa pubblicitaria, cioè ricavi attribuiti alla campagna rispetto al budget speso",
       "D": "annunci video mostrati in contenuti streaming trasmessi via Internet"
+    },
+    "rationales": {
+      "A": "CPM è il concetto richiesto: nel corso è utile per campagne orientate alla copertura o alla visibilità. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di CPC, mentre la domanda richiede CPM.",
+      "C": "Non è corretta perché descrive la definizione di ROAS, mentre la domanda richiede CPM.",
+      "D": "Non è corretta perché descrive la definizione di OTT advertising, mentre la domanda richiede CPM."
     }
   },
   {
@@ -5804,6 +7028,12 @@
       "B": "misura l'efficienza economica della generazione di click paid",
       "C": "valuta la resa economica specifica dell'investimento advertising",
       "D": "raggiunge utenti su servizi over-the-top non via satellite o cavo tradizionale"
+    },
+    "rationales": {
+      "A": "È corretta perché interpreta CPM a partire dalla sua definizione nel corso: il costo sostenuto per mille impression pubblicitarie. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di CPC, mentre la domanda richiede CPM.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di ROAS, mentre la domanda richiede CPM.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di OTT advertising, mentre la domanda richiede CPM."
     }
   },
   {
@@ -5820,6 +7050,12 @@
       "B": "il costo sostenuto per mille impression pubblicitarie",
       "C": "il rapporto tra spesa pubblicitaria e vendite attribuite agli annunci",
       "D": "il costo pagato ogni volta che un utente clicca su un annuncio"
+    },
+    "rationales": {
+      "A": "ROAS è il concetto richiesto: nel corso valuta la resa economica specifica dell'investimento advertising. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di CPM, mentre la domanda richiede ROAS.",
+      "C": "Non è corretta perché descrive la definizione di ACOS, mentre la domanda richiede ROAS.",
+      "D": "Non è corretta perché descrive la definizione di CPC, mentre la domanda richiede ROAS."
     }
   },
   {
@@ -5838,10 +7074,10 @@
       "D": "misura l'efficienza economica della generazione di click paid"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di ROAS in relazione con \"valuta la resa economica specifica dell'investimento advertising\".",
-      "B": "Non è la scelta migliore: \"è utile per campagne orientate alla copertura o alla visibilità\" descrive un concetto diverso dal concetto di ROAS.",
-      "C": "Non è la scelta migliore: \"indica quanto pesa l'advertising sulle vendite generate\" sposta l'attenzione su un aspetto diverso dal concetto di ROAS.",
-      "D": "Non è la scelta migliore: \"misura l'efficienza economica della generazione di click paid\" non identifica il ruolo specifico del concetto di ROAS in questa domanda."
+      "A": "È corretta perché interpreta ROAS a partire dalla sua definizione nel corso: il ritorno sulla spesa pubblicitaria, cioè ricavi attribuiti alla campagna rispetto al budget speso. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di CPM, mentre la domanda richiede ROAS.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di ACOS, mentre la domanda richiede ROAS.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di CPC, mentre la domanda richiede ROAS."
     }
   },
   {
@@ -5858,6 +7094,12 @@
       "B": "il ritorno sulla spesa pubblicitaria, cioè ricavi attribuiti alla campagna rispetto al budget speso",
       "C": "l'analisi dei dati di traffico e comportamento degli utenti su siti e piattaforme digitali",
       "D": "il costo sostenuto per mille impression pubblicitarie"
+    },
+    "rationales": {
+      "A": "ACOS è il concetto richiesto: nel corso indica quanto pesa l'advertising sulle vendite generate. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di ROAS, mentre la domanda richiede ACOS.",
+      "C": "Non è corretta perché descrive la definizione di digital analytics, mentre la domanda richiede ACOS.",
+      "D": "Non è corretta perché descrive la definizione di CPM, mentre la domanda richiede ACOS."
     }
   },
   {
@@ -5876,10 +7118,10 @@
       "D": "è utile per campagne orientate alla copertura o alla visibilità"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di ACOS in relazione con \"indica quanto pesa l'advertising sulle vendite generate\".",
-      "B": "Non è la scelta migliore: \"valuta la resa economica specifica dell'investimento advertising\" descrive un concetto diverso dal concetto di ACOS.",
-      "C": "Non è la scelta migliore: \"serve a migliorare esperienza, visibilità, contenuti e conversioni\" sposta l'attenzione su un aspetto diverso dal concetto di ACOS.",
-      "D": "Non è la scelta migliore: \"è utile per campagne orientate alla copertura o alla visibilità\" non identifica il ruolo specifico del concetto di ACOS in questa domanda."
+      "A": "È corretta perché interpreta ACOS a partire dalla sua definizione nel corso: il rapporto tra spesa pubblicitaria e vendite attribuite agli annunci. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di ROAS, mentre la domanda richiede ACOS.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di digital analytics, mentre la domanda richiede ACOS.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di CPM, mentre la domanda richiede ACOS."
     }
   },
   {
@@ -5920,6 +7162,12 @@
       "B": "indica quanto pesa l'advertising sulle vendite generate",
       "C": "permette di capire da quali canali arrivano utenti nuovi o esistenti",
       "D": "valuta la resa economica specifica dell'investimento advertising"
+    },
+    "rationales": {
+      "A": "È corretta perché interpreta digital analytics a partire dalla sua definizione nel corso: l'analisi dei dati di traffico e comportamento degli utenti su siti e piattaforme digitali. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di ACOS, mentre la domanda richiede digital analytics.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di acquisizione in digital analytics, mentre la domanda richiede digital analytics.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di ROAS, mentre la domanda richiede digital analytics."
     }
   },
   {
@@ -5959,6 +7207,12 @@
       "B": "serve a migliorare esperienza, visibilità, contenuti e conversioni",
       "C": "aiuta a valutare se gli utenti interagiscono oltre la prima pagina",
       "D": "indica quanto pesa l'advertising sulle vendite generate"
+    },
+    "rationales": {
+      "A": "È corretta perché interpreta acquisizione in digital analytics a partire dalla sua definizione nel corso: la fase in cui si crea awareness e si cattura interesse portando utenti al sito. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di digital analytics, mentre la domanda richiede acquisizione in digital analytics.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di frequenza di rimbalzo, mentre la domanda richiede acquisizione in digital analytics.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di ACOS, mentre la domanda richiede acquisizione in digital analytics."
     }
   },
   {
@@ -5975,6 +7229,12 @@
       "B": "la fase in cui si crea awareness e si cattura interesse portando utenti al sito",
       "C": "il traffico arrivato al sito tramite ricerca gratuita non a pagamento",
       "D": "l'analisi dei dati di traffico e comportamento degli utenti su siti e piattaforme digitali"
+    },
+    "rationales": {
+      "A": "Frequenza di rimbalzo è il concetto richiesto: nel corso aiuta a valutare se gli utenti interagiscono oltre la prima pagina. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di acquisizione in digital analytics, mentre la domanda richiede frequenza di rimbalzo.",
+      "C": "Non è corretta perché descrive la definizione di acquisizione organica, mentre la domanda richiede frequenza di rimbalzo.",
+      "D": "Non è corretta perché descrive la definizione di digital analytics, mentre la domanda richiede frequenza di rimbalzo."
     }
   },
   {
@@ -5993,10 +7253,10 @@
       "D": "serve a migliorare esperienza, visibilità, contenuti e conversioni"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di frequenza di rimbalzo in relazione con \"aiuta a valutare se gli utenti interagiscono oltre la prima pagina\".",
-      "B": "Non è la scelta migliore: \"permette di capire da quali canali arrivano utenti nuovi o esistenti\" descrive un concetto diverso dal concetto di frequenza di rimbalzo.",
-      "C": "Non è la scelta migliore: \"distingue visite provenienti da risultati organici rispetto a CPC o referral\" sposta l'attenzione su un aspetto diverso dal concetto di frequenza di rimbalzo.",
-      "D": "Non è la scelta migliore: \"serve a migliorare esperienza, visibilità, contenuti e conversioni\" non identifica il ruolo specifico del concetto di frequenza di rimbalzo in questa domanda."
+      "A": "È corretta perché interpreta frequenza di rimbalzo a partire dalla sua definizione nel corso: il rapporto tra visite di una sola pagina e totale delle visite. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di acquisizione in digital analytics, mentre la domanda richiede frequenza di rimbalzo.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di acquisizione organica, mentre la domanda richiede frequenza di rimbalzo.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di digital analytics, mentre la domanda richiede frequenza di rimbalzo."
     }
   },
   {
@@ -6014,6 +7274,12 @@
       "B": "il rapporto tra visite di una sola pagina e totale delle visite",
       "C": "un'azione desiderata compiuta dall'utente sul sito che genera una conversione",
       "D": "la fase in cui si crea awareness e si cattura interesse portando utenti al sito"
+    },
+    "rationales": {
+      "A": "Acquisizione organica è il concetto richiesto: nel corso distingue visite provenienti da risultati organici rispetto a CPC o referral. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di frequenza di rimbalzo, mentre la domanda richiede acquisizione organica.",
+      "C": "Non è corretta perché descrive la definizione di obiettivo completato, mentre la domanda richiede acquisizione organica.",
+      "D": "Non è corretta perché descrive la definizione di acquisizione in digital analytics, mentre la domanda richiede acquisizione organica."
     }
   },
   {
@@ -6033,10 +7299,10 @@
       "D": "permette di capire da quali canali arrivano utenti nuovi o esistenti"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di acquisizione organica in relazione con \"distingue visite provenienti da risultati organici rispetto a CPC o referral\".",
-      "B": "Non è la scelta migliore: \"aiuta a valutare se gli utenti interagiscono oltre la prima pagina\" descrive un concetto diverso dal concetto di acquisizione organica.",
-      "C": "Non è la scelta migliore: \"traduce un comportamento rilevante in dato misurabile\" sposta l'attenzione su un aspetto diverso dal concetto di acquisizione organica.",
-      "D": "Non è la scelta migliore: \"permette di capire da quali canali arrivano utenti nuovi o esistenti\" non identifica il ruolo specifico del concetto di acquisizione organica in questa domanda."
+      "A": "È corretta perché interpreta acquisizione organica a partire dalla sua definizione nel corso: il traffico arrivato al sito tramite ricerca gratuita non a pagamento. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di frequenza di rimbalzo, mentre la domanda richiede acquisizione organica.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di obiettivo completato, mentre la domanda richiede acquisizione organica.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di acquisizione in digital analytics, mentre la domanda richiede acquisizione organica."
     }
   },
   {
@@ -6053,6 +7319,12 @@
       "B": "il traffico arrivato al sito tramite ricerca gratuita non a pagamento",
       "C": "l'uso della posta elettronica per inviare messaggi diretti a clienti o potenziali clienti",
       "D": "il rapporto tra visite di una sola pagina e totale delle visite"
+    },
+    "rationales": {
+      "A": "Obiettivo completato è il concetto richiesto: nel corso traduce un comportamento rilevante in dato misurabile. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di acquisizione organica, mentre la domanda richiede obiettivo completato.",
+      "C": "Non è corretta perché descrive la definizione di email marketing, mentre la domanda richiede obiettivo completato.",
+      "D": "Non è corretta perché descrive la definizione di frequenza di rimbalzo, mentre la domanda richiede obiettivo completato."
     }
   },
   {
@@ -6071,10 +7343,10 @@
       "D": "aiuta a valutare se gli utenti interagiscono oltre la prima pagina"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di obiettivo completato in relazione con \"traduce un comportamento rilevante in dato misurabile\".",
-      "B": "Non è la scelta migliore: \"distingue visite provenienti da risultati organici rispetto a CPC o referral\" descrive un concetto diverso dal concetto di obiettivo completato.",
-      "C": "Non è la scelta migliore: \"mira a costruire relazione di valore e spingere alla conversione\" sposta l'attenzione su un aspetto diverso dal concetto di obiettivo completato.",
-      "D": "Non è la scelta migliore: \"aiuta a valutare se gli utenti interagiscono oltre la prima pagina\" non identifica il ruolo specifico del concetto di obiettivo completato in questa domanda."
+      "A": "È corretta perché interpreta obiettivo completato a partire dalla sua definizione nel corso: un'azione desiderata compiuta dall'utente sul sito che genera una conversione. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di acquisizione organica, mentre la domanda richiede obiettivo completato.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di email marketing, mentre la domanda richiede obiettivo completato.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di frequenza di rimbalzo, mentre la domanda richiede obiettivo completato."
     }
   },
   {
@@ -6091,6 +7363,12 @@
       "B": "un'azione desiderata compiuta dall'utente sul sito che genera una conversione",
       "C": "un'email periodica inviata per informare su novità, prodotti, promozioni o aggiornamenti",
       "D": "il traffico arrivato al sito tramite ricerca gratuita non a pagamento"
+    },
+    "rationales": {
+      "A": "Email marketing è il concetto richiesto: nel corso mira a costruire relazione di valore e spingere alla conversione. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di obiettivo completato, mentre la domanda richiede email marketing.",
+      "C": "Non è corretta perché descrive la definizione di newsletter, mentre la domanda richiede email marketing.",
+      "D": "Non è corretta perché descrive la definizione di acquisizione organica, mentre la domanda richiede email marketing."
     }
   },
   {
@@ -6107,6 +7385,12 @@
       "B": "traduce un comportamento rilevante in dato misurabile",
       "C": "mantiene vivo il rapporto con gli iscritti attraverso contenuti pertinenti",
       "D": "distingue visite provenienti da risultati organici rispetto a CPC o referral"
+    },
+    "rationales": {
+      "A": "È corretta perché interpreta email marketing a partire dalla sua definizione nel corso: l'uso della posta elettronica per inviare messaggi diretti a clienti o potenziali clienti. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di obiettivo completato, mentre la domanda richiede email marketing.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di newsletter, mentre la domanda richiede email marketing.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di acquisizione organica, mentre la domanda richiede email marketing."
     }
   },
   {
@@ -6123,6 +7407,12 @@
       "B": "l'uso della posta elettronica per inviare messaggi diretti a clienti o potenziali clienti",
       "C": "un'email inviata in risposta a un'azione specifica del cliente",
       "D": "un'azione desiderata compiuta dall'utente sul sito che genera una conversione"
+    },
+    "rationales": {
+      "A": "Newsletter è il concetto richiesto: nel corso mantiene vivo il rapporto con gli iscritti attraverso contenuti pertinenti. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di email marketing, mentre la domanda richiede newsletter.",
+      "C": "Non è corretta perché descrive la definizione di email transazionale, mentre la domanda richiede newsletter.",
+      "D": "Non è corretta perché descrive la definizione di obiettivo completato, mentre la domanda richiede newsletter."
     }
   },
   {
@@ -6141,10 +7431,10 @@
       "D": "traduce un comportamento rilevante in dato misurabile"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di newsletter in relazione con \"mantiene vivo il rapporto con gli iscritti attraverso contenuti pertinenti\".",
-      "B": "Non è la scelta migliore: \"mira a costruire relazione di valore e spingere alla conversione\" descrive un concetto diverso dal concetto di newsletter.",
-      "C": "Non è la scelta migliore: \"conferma o supporta una transazione, iscrizione o richiesta\" sposta l'attenzione su un aspetto diverso dal concetto di newsletter.",
-      "D": "Non è la scelta migliore: \"traduce un comportamento rilevante in dato misurabile\" non identifica il ruolo specifico del concetto di newsletter in questa domanda."
+      "A": "È corretta perché interpreta newsletter a partire dalla sua definizione nel corso: un'email periodica inviata per informare su novità, prodotti, promozioni o aggiornamenti. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di email marketing, mentre la domanda richiede newsletter.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di email transazionale, mentre la domanda richiede newsletter.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di obiettivo completato, mentre la domanda richiede newsletter."
     }
   },
   {
@@ -6162,6 +7452,12 @@
       "B": "un'email periodica inviata per informare su novità, prodotti, promozioni o aggiornamenti",
       "C": "un'email usata per recuperare utenti che hanno abbandonato il carrello o non completato l'acquisto",
       "D": "l'uso della posta elettronica per inviare messaggi diretti a clienti o potenziali clienti"
+    },
+    "rationales": {
+      "A": "Email transazionale è il concetto richiesto: nel corso conferma o supporta una transazione, iscrizione o richiesta. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di newsletter, mentre la domanda richiede email transazionale.",
+      "C": "Non è corretta perché descrive la definizione di email di remarketing, mentre la domanda richiede email transazionale.",
+      "D": "Non è corretta perché descrive la definizione di email marketing, mentre la domanda richiede email transazionale."
     }
   },
   {
@@ -6181,10 +7477,10 @@
       "D": "mira a costruire relazione di valore e spingere alla conversione"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di email transazionale in relazione con \"conferma o supporta una transazione, iscrizione o richiesta\".",
-      "B": "Non è la scelta migliore: \"mantiene vivo il rapporto con gli iscritti attraverso contenuti pertinenti\" descrive un concetto diverso dal concetto di email transazionale.",
-      "C": "Non è la scelta migliore: \"riattiva un'intenzione già emersa nel percorso di conversione\" sposta l'attenzione su un aspetto diverso dal concetto di email transazionale.",
-      "D": "Non è la scelta migliore: \"mira a costruire relazione di valore e spingere alla conversione\" non identifica il ruolo specifico del concetto di email transazionale in questa domanda."
+      "A": "È corretta perché interpreta email transazionale a partire dalla sua definizione nel corso: un'email inviata in risposta a un'azione specifica del cliente. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di newsletter, mentre la domanda richiede email transazionale.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di email di remarketing, mentre la domanda richiede email transazionale.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di email marketing, mentre la domanda richiede email transazionale."
     }
   },
   {
@@ -6225,6 +7521,12 @@
       "B": "conferma o supporta una transazione, iscrizione o richiesta",
       "C": "ha forte impatto sull'apertura dell'email",
       "D": "mantiene vivo il rapporto con gli iscritti attraverso contenuti pertinenti"
+    },
+    "rationales": {
+      "A": "È corretta perché interpreta email di remarketing a partire dalla sua definizione nel corso: un'email usata per recuperare utenti che hanno abbandonato il carrello o non completato l'acquisto. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di email transazionale, mentre la domanda richiede email di remarketing.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di oggetto della newsletter, mentre la domanda richiede email di remarketing.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di newsletter, mentre la domanda richiede email di remarketing."
     }
   },
   {
@@ -6241,6 +7543,12 @@
       "B": "un'email usata per recuperare utenti che hanno abbandonato il carrello o non completato l'acquisto",
       "C": "l'adattamento del messaggio a dati demografici, comportamenti e livelli di coinvolgimento",
       "D": "un'email inviata in risposta a un'azione specifica del cliente"
+    },
+    "rationales": {
+      "A": "Oggetto della newsletter è il concetto richiesto: nel corso ha forte impatto sull'apertura dell'email. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di email di remarketing, mentre la domanda richiede oggetto della newsletter.",
+      "C": "Non è corretta perché descrive la definizione di personalizzazione email, mentre la domanda richiede oggetto della newsletter.",
+      "D": "Non è corretta perché descrive la definizione di email transazionale, mentre la domanda richiede oggetto della newsletter."
     }
   },
   {
@@ -6257,6 +7565,12 @@
       "B": "riattiva un'intenzione già emersa nel percorso di conversione",
       "C": "aumenta engagement e percezione di rilevanza del brand",
       "D": "conferma o supporta una transazione, iscrizione o richiesta"
+    },
+    "rationales": {
+      "A": "È corretta perché interpreta oggetto della newsletter a partire dalla sua definizione nel corso: la prima informazione letta dal destinatario, che deve essere chiara, breve e coinvolgente. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di email di remarketing, mentre la domanda richiede oggetto della newsletter.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di personalizzazione email, mentre la domanda richiede oggetto della newsletter.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di email transazionale, mentre la domanda richiede oggetto della newsletter."
     }
   },
   {
@@ -6273,6 +7587,12 @@
       "B": "la prima informazione letta dal destinatario, che deve essere chiara, breve e coinvolgente",
       "C": "l'invio automatico di email a specifici iscritti in momenti ideali predefiniti",
       "D": "un'email usata per recuperare utenti che hanno abbandonato il carrello o non completato l'acquisto"
+    },
+    "rationales": {
+      "A": "Personalizzazione email è il concetto richiesto: nel corso aumenta engagement e percezione di rilevanza del brand. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di oggetto della newsletter, mentre la domanda richiede personalizzazione email.",
+      "C": "Non è corretta perché descrive la definizione di automazione email, mentre la domanda richiede personalizzazione email.",
+      "D": "Non è corretta perché descrive la definizione di email di remarketing, mentre la domanda richiede personalizzazione email."
     }
   },
   {
@@ -6291,10 +7611,10 @@
       "D": "riattiva un'intenzione già emersa nel percorso di conversione"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di personalizzazione email in relazione con \"aumenta engagement e percezione di rilevanza del brand\".",
-      "B": "Non è la scelta migliore: \"ha forte impatto sull'apertura dell'email\" descrive un concetto diverso dal concetto di personalizzazione email.",
-      "C": "Non è la scelta migliore: \"riduce lavoro manuale e aumenta tempestività ed efficacia\" sposta l'attenzione su un aspetto diverso dal concetto di personalizzazione email.",
-      "D": "Non è la scelta migliore: \"riattiva un'intenzione già emersa nel percorso di conversione\" non identifica il ruolo specifico del concetto di personalizzazione email in questa domanda."
+      "A": "È corretta perché interpreta personalizzazione email a partire dalla sua definizione nel corso: l'adattamento del messaggio a dati demografici, comportamenti e livelli di coinvolgimento. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di oggetto della newsletter, mentre la domanda richiede personalizzazione email.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di automazione email, mentre la domanda richiede personalizzazione email.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di email di remarketing, mentre la domanda richiede personalizzazione email."
     }
   },
   {
@@ -6311,6 +7631,12 @@
       "B": "l'adattamento del messaggio a dati demografici, comportamenti e livelli di coinvolgimento",
       "C": "la creazione e distribuzione di contenuti di valore, pertinenti e coerenti per attrarre e fidelizzare un pubblico definito",
       "D": "la prima informazione letta dal destinatario, che deve essere chiara, breve e coinvolgente"
+    },
+    "rationales": {
+      "A": "Automazione email è il concetto richiesto: nel corso riduce lavoro manuale e aumenta tempestività ed efficacia. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di personalizzazione email, mentre la domanda richiede automazione email.",
+      "C": "Non è corretta perché descrive la definizione di content marketing, mentre la domanda richiede automazione email.",
+      "D": "Non è corretta perché descrive la definizione di oggetto della newsletter, mentre la domanda richiede automazione email."
     }
   },
   {
@@ -6329,10 +7655,10 @@
       "D": "ha forte impatto sull'apertura dell'email"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di automazione email in relazione con \"riduce lavoro manuale e aumenta tempestività ed efficacia\".",
-      "B": "Non è la scelta migliore: \"aumenta engagement e percezione di rilevanza del brand\" descrive un concetto diverso dal concetto di automazione email.",
-      "C": "Non è la scelta migliore: \"costruisce fiducia e guida azioni profittevoli senza interrompere l'utente\" sposta l'attenzione su un aspetto diverso dal concetto di automazione email.",
-      "D": "Non è la scelta migliore: \"ha forte impatto sull'apertura dell'email\" non identifica il ruolo specifico del concetto di automazione email in questa domanda."
+      "A": "È corretta perché interpreta automazione email a partire dalla sua definizione nel corso: l'invio automatico di email a specifici iscritti in momenti ideali predefiniti. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di personalizzazione email, mentre la domanda richiede automazione email.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di content marketing, mentre la domanda richiede automazione email.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di oggetto della newsletter, mentre la domanda richiede automazione email."
     }
   },
   {
@@ -6375,10 +7701,10 @@
       "D": "aumenta engagement e percezione di rilevanza del brand"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di content marketing in relazione con \"costruisce fiducia e guida azioni profittevoli senza interrompere l'utente\".",
-      "B": "Non è la scelta migliore: \"riduce lavoro manuale e aumenta tempestività ed efficacia\" descrive un concetto diverso dal concetto di content marketing.",
-      "C": "Non è la scelta migliore: \"si contrappone alla pubblicità push che mette il prodotto davanti all'utente\" sposta l'attenzione su un aspetto diverso dal concetto di content marketing.",
-      "D": "Non è la scelta migliore: \"aumenta engagement e percezione di rilevanza del brand\" non identifica il ruolo specifico del concetto di content marketing in questa domanda."
+      "A": "È corretta perché interpreta content marketing a partire dalla sua definizione nel corso: la creazione e distribuzione di contenuti di valore, pertinenti e coerenti per attrarre e fidelizzare un pubblico definito. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di automazione email, mentre la domanda richiede content marketing.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di content marketing pull, mentre la domanda richiede content marketing.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di personalizzazione email, mentre la domanda richiede content marketing."
     }
   },
   {
@@ -6395,6 +7721,12 @@
       "B": "la creazione e distribuzione di contenuti di valore, pertinenti e coerenti per attrarre e fidelizzare un pubblico definito",
       "C": "lo strumento per programmare, coordinare e gestire creazione, pubblicazione e promozione dei contenuti",
       "D": "l'invio automatico di email a specifici iscritti in momenti ideali predefiniti"
+    },
+    "rationales": {
+      "A": "Content marketing pull è il concetto richiesto: nel corso si contrappone alla pubblicità push che mette il prodotto davanti all'utente. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di content marketing, mentre la domanda richiede content marketing pull.",
+      "C": "Non è corretta perché descrive la definizione di piano editoriale, mentre la domanda richiede content marketing pull.",
+      "D": "Non è corretta perché descrive la definizione di automazione email, mentre la domanda richiede content marketing pull."
     }
   },
   {
@@ -6411,6 +7743,12 @@
       "B": "costruisce fiducia e guida azioni profittevoli senza interrompere l'utente",
       "C": "assicura coerenza, qualità e allineamento agli obiettivi di content marketing",
       "D": "riduce lavoro manuale e aumenta tempestività ed efficacia"
+    },
+    "rationales": {
+      "A": "È corretta perché interpreta content marketing pull a partire dalla sua definizione nel corso: la logica per cui contenuti utili attraggono l'utente che cerca valore. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di content marketing, mentre la domanda richiede content marketing pull.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di piano editoriale, mentre la domanda richiede content marketing pull.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di automazione email, mentre la domanda richiede content marketing pull."
     }
   },
   {
@@ -6427,6 +7765,12 @@
       "B": "la logica per cui contenuti utili attraggono l'utente che cerca valore",
       "C": "un modello del percorso decisionale composto da attenzione, interesse, desiderio e azione",
       "D": "la creazione e distribuzione di contenuti di valore, pertinenti e coerenti per attrarre e fidelizzare un pubblico definito"
+    },
+    "rationales": {
+      "A": "Piano editoriale è il concetto richiesto: nel corso assicura coerenza, qualità e allineamento agli obiettivi di content marketing. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di content marketing pull, mentre la domanda richiede piano editoriale.",
+      "C": "Non è corretta perché descrive la definizione di modello AIDA, mentre la domanda richiede piano editoriale.",
+      "D": "Non è corretta perché descrive la definizione di content marketing, mentre la domanda richiede piano editoriale."
     }
   },
   {
@@ -6445,10 +7789,10 @@
       "D": "costruisce fiducia e guida azioni profittevoli senza interrompere l'utente"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di piano editoriale in relazione con \"assicura coerenza, qualità e allineamento agli obiettivi di content marketing\".",
-      "B": "Non è la scelta migliore: \"si contrappone alla pubblicità push che mette il prodotto davanti all'utente\" descrive un concetto diverso dal concetto di piano editoriale.",
-      "C": "Non è la scelta migliore: \"aiuta a collegare contenuti e comunicazione a stadi psicologici progressivi\" sposta l'attenzione su un aspetto diverso dal concetto di piano editoriale.",
-      "D": "Non è la scelta migliore: \"costruisce fiducia e guida azioni profittevoli senza interrompere l'utente\" non identifica il ruolo specifico del concetto di piano editoriale in questa domanda."
+      "A": "È corretta perché interpreta piano editoriale a partire dalla sua definizione nel corso: lo strumento per programmare, coordinare e gestire creazione, pubblicazione e promozione dei contenuti. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di content marketing pull, mentre la domanda richiede piano editoriale.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di modello AIDA, mentre la domanda richiede piano editoriale.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di content marketing, mentre la domanda richiede piano editoriale."
     }
   },
   {
@@ -6466,6 +7810,12 @@
       "B": "lo strumento per programmare, coordinare e gestire creazione, pubblicazione e promozione dei contenuti",
       "C": "la classificazione dei canali in Paid, Earned, Shared e Owned media",
       "D": "la logica per cui contenuti utili attraggono l'utente che cerca valore"
+    },
+    "rationales": {
+      "A": "Modello AIDA è il concetto richiesto: nel corso aiuta a collegare contenuti e comunicazione a stadi psicologici progressivi. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di piano editoriale, mentre la domanda richiede modello AIDA.",
+      "C": "Non è corretta perché descrive la definizione di modello PESO, mentre la domanda richiede modello AIDA.",
+      "D": "Non è corretta perché descrive la definizione di content marketing pull, mentre la domanda richiede modello AIDA."
     }
   },
   {
@@ -6485,10 +7835,10 @@
       "D": "si contrappone alla pubblicità push che mette il prodotto davanti all'utente"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di modello AIDA in relazione con \"aiuta a collegare contenuti e comunicazione a stadi psicologici progressivi\".",
-      "B": "Non è la scelta migliore: \"assicura coerenza, qualità e allineamento agli obiettivi di content marketing\" descrive un concetto diverso dal concetto di modello AIDA.",
-      "C": "Non è la scelta migliore: \"aiuta a pianificare la distribuzione integrata dei contenuti\" sposta l'attenzione su un aspetto diverso dal concetto di modello AIDA.",
-      "D": "Non è la scelta migliore: \"si contrappone alla pubblicità push che mette il prodotto davanti all'utente\" non identifica il ruolo specifico del concetto di modello AIDA in questa domanda."
+      "A": "È corretta perché interpreta modello AIDA a partire dalla sua definizione nel corso: un modello del percorso decisionale composto da attenzione, interesse, desiderio e azione. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di piano editoriale, mentre la domanda richiede modello AIDA.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di modello PESO, mentre la domanda richiede modello AIDA.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di content marketing pull, mentre la domanda richiede modello AIDA."
     }
   },
   {
@@ -6505,6 +7855,12 @@
       "B": "un modello del percorso decisionale composto da attenzione, interesse, desiderio e azione",
       "C": "contenuto ad alto impatto progettato per ispirare, catturare attenzione ed essere memorabile",
       "D": "lo strumento per programmare, coordinare e gestire creazione, pubblicazione e promozione dei contenuti"
+    },
+    "rationales": {
+      "A": "Modello PESO è il concetto richiesto: nel corso aiuta a pianificare la distribuzione integrata dei contenuti. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di modello AIDA, mentre la domanda richiede modello PESO.",
+      "C": "Non è corretta perché descrive la definizione di contenuto Hero, mentre la domanda richiede modello PESO.",
+      "D": "Non è corretta perché descrive la definizione di piano editoriale, mentre la domanda richiede modello PESO."
     }
   },
   {
@@ -6521,6 +7877,12 @@
       "B": "aiuta a collegare contenuti e comunicazione a stadi psicologici progressivi",
       "C": "serve a momenti di grande visibilità nel framework Hero-Hub-Help",
       "D": "assicura coerenza, qualità e allineamento agli obiettivi di content marketing"
+    },
+    "rationales": {
+      "A": "È corretta perché interpreta modello PESO a partire dalla sua definizione nel corso: la classificazione dei canali in Paid, Earned, Shared e Owned media. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di modello AIDA, mentre la domanda richiede modello PESO.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di contenuto Hero, mentre la domanda richiede modello PESO.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di piano editoriale, mentre la domanda richiede modello PESO."
     }
   },
   {
@@ -6537,6 +7899,12 @@
       "B": "la classificazione dei canali in Paid, Earned, Shared e Owned media",
       "C": "contenuto regolare che offre valore continuo e sostiene engagement e fedeltà",
       "D": "un modello del percorso decisionale composto da attenzione, interesse, desiderio e azione"
+    },
+    "rationales": {
+      "A": "Contenuto Hero è il concetto richiesto: nel corso serve a momenti di grande visibilità nel framework Hero-Hub-Help. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di modello PESO, mentre la domanda richiede contenuto Hero.",
+      "C": "Non è corretta perché descrive la definizione di contenuto Hub, mentre la domanda richiede contenuto Hero.",
+      "D": "Non è corretta perché descrive la definizione di modello AIDA, mentre la domanda richiede contenuto Hero."
     }
   },
   {
@@ -6553,6 +7921,12 @@
       "B": "aiuta a pianificare la distribuzione integrata dei contenuti",
       "C": "mantiene la relazione con il pubblico nel tempo",
       "D": "aiuta a collegare contenuti e comunicazione a stadi psicologici progressivi"
+    },
+    "rationales": {
+      "A": "È corretta perché interpreta contenuto Hero a partire dalla sua definizione nel corso: contenuto ad alto impatto progettato per ispirare, catturare attenzione ed essere memorabile. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di modello PESO, mentre la domanda richiede contenuto Hero.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di contenuto Hub, mentre la domanda richiede contenuto Hero.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di modello AIDA, mentre la domanda richiede contenuto Hero."
     }
   },
   {
@@ -6569,6 +7943,12 @@
       "B": "contenuto ad alto impatto progettato per ispirare, catturare attenzione ed essere memorabile",
       "C": "contenuto pratico che risponde a domande quotidiane e bisogni informativi specifici",
       "D": "la classificazione dei canali in Paid, Earned, Shared e Owned media"
+    },
+    "rationales": {
+      "A": "Contenuto Hub è il concetto richiesto: nel corso mantiene la relazione con il pubblico nel tempo. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di contenuto Hero, mentre la domanda richiede contenuto Hub.",
+      "C": "Non è corretta perché descrive la definizione di contenuto Help, mentre la domanda richiede contenuto Hub.",
+      "D": "Non è corretta perché descrive la definizione di modello PESO, mentre la domanda richiede contenuto Hub."
     }
   },
   {
@@ -6587,10 +7967,10 @@
       "D": "aiuta a pianificare la distribuzione integrata dei contenuti"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di contenuto Hub in relazione con \"mantiene la relazione con il pubblico nel tempo\".",
-      "B": "Non è la scelta migliore: \"serve a momenti di grande visibilità nel framework Hero-Hub-Help\" descrive un concetto diverso dal concetto di contenuto Hub.",
-      "C": "Non è la scelta migliore: \"attira nuovi pubblici tramite ricerca e costruisce fiducia\" sposta l'attenzione su un aspetto diverso dal concetto di contenuto Hub.",
-      "D": "Non è la scelta migliore: \"aiuta a pianificare la distribuzione integrata dei contenuti\" non identifica il ruolo specifico del concetto di contenuto Hub in questa domanda."
+      "A": "È corretta perché interpreta contenuto Hub a partire dalla sua definizione nel corso: contenuto regolare che offre valore continuo e sostiene engagement e fedeltà. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di contenuto Hero, mentre la domanda richiede contenuto Hub.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di contenuto Help, mentre la domanda richiede contenuto Hub.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di modello PESO, mentre la domanda richiede contenuto Hub."
     }
   },
   {
@@ -6608,6 +7988,12 @@
       "B": "contenuto regolare che offre valore continuo e sostiene engagement e fedeltà",
       "C": "contenuto ad alto impatto progettato per ispirare, catturare attenzione ed essere memorabile",
       "D": "la classificazione dei canali in Paid, Earned, Shared e Owned media"
+    },
+    "rationales": {
+      "A": "Contenuto Help è il concetto richiesto: nel corso attira nuovi pubblici tramite ricerca e costruisce fiducia. La trappola è confonderlo con aspetti vicini ma più specifici o operativi.",
+      "B": "Non è corretta perché descrive la definizione di contenuto Hub, mentre la domanda richiede contenuto Help.",
+      "C": "Non è corretta perché descrive la definizione di contenuto Hero, mentre la domanda richiede contenuto Help.",
+      "D": "Non è corretta perché descrive la definizione di modello PESO, mentre la domanda richiede contenuto Help."
     }
   },
   {
@@ -6627,10 +8013,10 @@
       "D": "aiuta a pianificare la distribuzione integrata dei contenuti"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di contenuto Help in relazione con \"attira nuovi pubblici tramite ricerca e costruisce fiducia\".",
-      "B": "Non è la scelta migliore: \"mantiene la relazione con il pubblico nel tempo\" descrive un concetto diverso dal concetto di contenuto Help.",
-      "C": "Non è la scelta migliore: \"serve a momenti di grande visibilità nel framework Hero-Hub-Help\" sposta l'attenzione su un aspetto diverso dal concetto di contenuto Help.",
-      "D": "Non è la scelta migliore: \"aiuta a pianificare la distribuzione integrata dei contenuti\" non identifica il ruolo specifico del concetto di contenuto Help in questa domanda."
+      "A": "È corretta perché interpreta contenuto Help a partire dalla sua definizione nel corso: contenuto pratico che risponde a domande quotidiane e bisogni informativi specifici. Le altre alternative richiamano concetti o applicazioni diverse.",
+      "B": "Non è corretta perché descrive la funzione nel web marketing di contenuto Hub, mentre la domanda richiede contenuto Help.",
+      "C": "Non è corretta perché descrive la funzione nel web marketing di contenuto Hero, mentre la domanda richiede contenuto Help.",
+      "D": "Non è corretta perché descrive la funzione nel web marketing di modello PESO, mentre la domanda richiede contenuto Help."
     }
   },
   {
@@ -6647,6 +8033,12 @@
       "B": "la necessità di sicurezza o appartenenza collocata nella piramide di Maslow",
       "C": "scegliere uno smartphone premium per soddisfare un bisogno di connessione e status",
       "D": "un abbonamento digitale con app, assistenza, contenuti e community"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con marketing management: il processo di pianificazione ed esecuzione di concezione, prezzo, promozione e distribuzione per creare scambi di valore. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di bisogno, mentre la domanda richiede marketing management.",
+      "C": "Non è corretta perché descrive un esempio applicato di desiderio, mentre la domanda richiede marketing management.",
+      "D": "Non è corretta perché descrive un esempio applicato di offerta di marketing, mentre la domanda richiede marketing management."
     }
   },
   {
@@ -6663,6 +8055,12 @@
       "B": "un'impresa analizza bisogni, definisce offerta e promuove un servizio coerente con il target",
       "C": "scegliere uno smartphone premium per soddisfare un bisogno di connessione e status",
       "D": "un abbonamento digitale con app, assistenza, contenuti e community"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con bisogno: uno stato di privazione fisica o psicologica che può essere soddisfatto. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di marketing management, mentre la domanda richiede bisogno.",
+      "C": "Non è corretta perché descrive un esempio applicato di desiderio, mentre la domanda richiede bisogno.",
+      "D": "Non è corretta perché descrive un esempio applicato di offerta di marketing, mentre la domanda richiede bisogno."
     }
   },
   {
@@ -6679,6 +8077,12 @@
       "B": "la necessità di sicurezza o appartenenza collocata nella piramide di Maslow",
       "C": "un abbonamento digitale con app, assistenza, contenuti e community",
       "D": "un'impresa analizza bisogni, definisce offerta e promuove un servizio coerente con il target"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con desiderio: la forma specifica che un bisogno assume in base a cultura, personalità e contesto. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di bisogno, mentre la domanda richiede desiderio.",
+      "C": "Non è corretta perché descrive un esempio applicato di offerta di marketing, mentre la domanda richiede desiderio.",
+      "D": "Non è corretta perché descrive un esempio applicato di marketing management, mentre la domanda richiede desiderio."
     }
   },
   {
@@ -6695,6 +8099,12 @@
       "B": "scegliere uno smartphone premium per soddisfare un bisogno di connessione e status",
       "C": "Dropbox promette accesso semplice e sincronizzato ai file tra dispositivi",
       "D": "la necessità di sicurezza o appartenenza collocata nella piramide di Maslow"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con offerta di marketing: una combinazione di prodotti, servizi, informazioni o esperienze proposta al mercato. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di desiderio, mentre la domanda richiede offerta di marketing.",
+      "C": "Non è corretta perché descrive un esempio applicato di value proposition, mentre la domanda richiede offerta di marketing.",
+      "D": "Non è corretta perché descrive un esempio applicato di bisogno, mentre la domanda richiede offerta di marketing."
     }
   },
   {
@@ -6714,10 +8124,10 @@
       "D": "scegliere uno smartphone premium per soddisfare un bisogno di connessione e status"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di value proposition in relazione con \"Dropbox promette accesso semplice e sincronizzato ai file tra dispositivi\".",
-      "B": "Non è la scelta migliore: \"un abbonamento digitale con app, assistenza, contenuti e community\" descrive un concetto diverso dal concetto di value proposition.",
-      "C": "Non è la scelta migliore: \"un utente paga un abbonamento perché percepisce benefici superiori al costo\" sposta l'attenzione su un aspetto diverso dal concetto di value proposition.",
-      "D": "Non è la scelta migliore: \"scegliere uno smartphone premium per soddisfare un bisogno di connessione e status\" non identifica il ruolo specifico del concetto di value proposition in questa domanda."
+      "A": "È corretta perché il caso resta coerente con value proposition: l'insieme dei benefici promessi al cliente in cambio del valore che trasferisce all'impresa. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di offerta di marketing, mentre la domanda richiede value proposition.",
+      "C": "Non è corretta perché descrive un esempio applicato di scambio di valore, mentre la domanda richiede value proposition.",
+      "D": "Non è corretta perché descrive un esempio applicato di desiderio, mentre la domanda richiede value proposition."
     }
   },
   {
@@ -6734,6 +8144,12 @@
       "B": "Dropbox promette accesso semplice e sincronizzato ai file tra dispositivi",
       "C": "un abbonamento digitale con app, assistenza, contenuti e community",
       "D": "scegliere uno smartphone premium per soddisfare un bisogno di connessione e status"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con scambio di valore: il processo attraverso cui valore viene trasferito tra venditore e acquirente. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di value proposition, mentre la domanda richiede scambio di valore.",
+      "C": "Non è corretta perché descrive un esempio applicato di offerta di marketing, mentre la domanda richiede scambio di valore.",
+      "D": "Non è corretta perché descrive un esempio applicato di desiderio, mentre la domanda richiede scambio di valore."
     }
   },
   {
@@ -6750,6 +8166,12 @@
       "B": "scegliere un segmento prioritario e costruire una posizione distintiva",
       "C": "definire packaging, pricing, canali e attività promozionali di un'offerta",
       "D": "decidere assortimento, livello di prezzo, canali e comunicazione di lancio"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con fase analitica: la fase in cui si raccolgono e interpretano informazioni su ambiente, consumatori, concorrenza e impresa. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di fase strategica, mentre la domanda richiede fase analitica.",
+      "C": "Non è corretta perché descrive un esempio applicato di fase operativa, mentre la domanda richiede fase analitica.",
+      "D": "Non è corretta perché descrive un esempio applicato di marketing mix 4P, mentre la domanda richiede fase analitica."
     }
   },
   {
@@ -6766,6 +8188,12 @@
       "B": "analisi PESTEL, concorrenza, customer journey e punti di forza interni",
       "C": "definire packaging, pricing, canali e attività promozionali di un'offerta",
       "D": "decidere assortimento, livello di prezzo, canali e comunicazione di lancio"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con fase strategica: la fase in cui si definiscono obiettivi, segmentazione, target e posizionamento. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di fase analitica, mentre la domanda richiede fase strategica.",
+      "C": "Non è corretta perché descrive un esempio applicato di fase operativa, mentre la domanda richiede fase strategica.",
+      "D": "Non è corretta perché descrive un esempio applicato di marketing mix 4P, mentre la domanda richiede fase strategica."
     }
   },
   {
@@ -6782,6 +8210,12 @@
       "B": "scegliere un segmento prioritario e costruire una posizione distintiva",
       "C": "scegliere il segmento prioritario e il posizionamento competitivo da presidiare",
       "D": "analisi PESTEL, concorrenza, customer journey e punti di forza interni"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con fase operativa: la fase in cui si lavora sulle leve del marketing mix per eseguire la strategia. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di fase strategica, mentre la domanda richiede fase operativa.",
+      "C": "Non è corretta perché sposta la risposta fuori dal perimetro di fase operativa: non chiarisce un esempio applicato secondo la fonte del corso.",
+      "D": "Non è corretta perché descrive un esempio applicato di fase analitica, mentre la domanda richiede fase operativa."
     }
   },
   {
@@ -6798,6 +8232,12 @@
       "B": "definire missione, valori e personalità che il brand vuole trasmettere",
       "C": "classificare una community forte come strength e una nuova normativa come threat",
       "D": "scegliere un segmento prioritario e costruire una posizione distintiva"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con marketing mix 4P: il modello classico composto da prodotto, prezzo, distribuzione e promozione. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché sposta la risposta fuori dal perimetro di marketing mix 4P: non chiarisce un esempio applicato secondo la fonte del corso.",
+      "C": "Non è corretta perché descrive un esempio applicato di SWOT analysis, mentre la domanda richiede marketing mix 4P.",
+      "D": "Non è corretta perché descrive un esempio applicato di fase strategica, mentre la domanda richiede marketing mix 4P."
     }
   },
   {
@@ -6816,10 +8256,10 @@
       "D": "scegliere un segmento prioritario e costruire una posizione distintiva"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di SWOT analysis in relazione con \"classificare una community forte come strength e una nuova normativa come threat\".",
-      "B": "Non è la scelta migliore: \"decidere assortimento, livello di prezzo, canali e comunicazione di lancio\" descrive un concetto diverso dal concetto di SWOT analysis.",
-      "C": "Non è la scelta migliore: \"definire packaging, pricing, canali e attività promozionali di un'offerta\" sposta l'attenzione su un aspetto diverso dal concetto di SWOT analysis.",
-      "D": "Non è la scelta migliore: \"scegliere un segmento prioritario e costruire una posizione distintiva\" non identifica il ruolo specifico del concetto di SWOT analysis in questa domanda."
+      "A": "È corretta perché il caso resta coerente con SWOT analysis: uno schema che mette in relazione punti di forza e debolezza interni con opportunità e minacce esterne. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di marketing mix 4P, mentre la domanda richiede SWOT analysis.",
+      "C": "Non è corretta perché descrive un esempio applicato di fase operativa, mentre la domanda richiede SWOT analysis.",
+      "D": "Non è corretta perché descrive un esempio applicato di fase strategica, mentre la domanda richiede SWOT analysis."
     }
   },
   {
@@ -6836,6 +8276,12 @@
       "B": "scegliere giovani professionisti digitali come pubblico prioritario dopo aver segmentato",
       "C": "presentare un servizio come il più semplice e affidabile per uno specifico target",
       "D": "collocare marche di snack per prezzo percepito e naturalità"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con segmentazione: la suddivisione del mercato in gruppi omogenei internamente e distinguibili tra loro. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di targeting, mentre la domanda richiede segmentazione.",
+      "C": "Non è corretta perché descrive un esempio applicato di posizionamento, mentre la domanda richiede segmentazione.",
+      "D": "Non è corretta perché descrive un esempio applicato di mappa percettiva, mentre la domanda richiede segmentazione."
     }
   },
   {
@@ -6852,6 +8298,12 @@
       "B": "separare clienti per comportamenti d'acquisto, bisogni o caratteristiche psicografiche",
       "C": "presentare un servizio come il più semplice e affidabile per uno specifico target",
       "D": "collocare marche di snack per prezzo percepito e naturalità"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con targeting: la valutazione e selezione dei segmenti che l'impresa decide di servire. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di segmentazione, mentre la domanda richiede targeting.",
+      "C": "Non è corretta perché descrive un esempio applicato di posizionamento, mentre la domanda richiede targeting.",
+      "D": "Non è corretta perché descrive un esempio applicato di mappa percettiva, mentre la domanda richiede targeting."
     }
   },
   {
@@ -6868,6 +8320,12 @@
       "B": "scegliere giovani professionisti digitali come pubblico prioritario dopo aver segmentato",
       "C": "collocare marche di snack per prezzo percepito e naturalità",
       "D": "separare clienti per comportamenti d'acquisto, bisogni o caratteristiche psicografiche"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con posizionamento: la strategia con cui il brand occupa una posizione distintiva nella mente del pubblico rispetto ai concorrenti. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di targeting, mentre la domanda richiede posizionamento.",
+      "C": "Non è corretta perché descrive un esempio applicato di mappa percettiva, mentre la domanda richiede posizionamento.",
+      "D": "Non è corretta perché descrive un esempio applicato di segmentazione, mentre la domanda richiede posizionamento."
     }
   },
   {
@@ -6884,6 +8342,12 @@
       "B": "presentare un servizio come il più semplice e affidabile per uno specifico target",
       "C": "scegliere giovani professionisti digitali come pubblico prioritario dopo aver segmentato",
       "D": "separare clienti per comportamenti d'acquisto, bisogni o caratteristiche psicografiche"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con mappa percettiva: uno strumento che rappresenta la percezione delle marche rispetto a dimensioni rilevanti per il consumatore. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di posizionamento, mentre la domanda richiede mappa percettiva.",
+      "C": "Non è corretta perché descrive un esempio applicato di targeting, mentre la domanda richiede mappa percettiva.",
+      "D": "Non è corretta perché descrive un esempio applicato di segmentazione, mentre la domanda richiede mappa percettiva."
     }
   },
   {
@@ -6900,6 +8364,12 @@
       "B": "adattare l'offerta a segmenti con esigenze diverse",
       "C": "un'impresa costruisce valore collegandosi a temi sociali e ambientali coerenti",
       "D": "usare dati e automazione senza perdere autenticità e contatto umano"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con Marketing 1.0: un orientamento product-driven centrato sul prodotto e sulla vendita. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di Marketing 2.0, mentre la domanda richiede Marketing 1.0.",
+      "C": "Non è corretta perché descrive un esempio applicato di Marketing 3.0, mentre la domanda richiede Marketing 1.0.",
+      "D": "Non è corretta perché descrive un esempio applicato di Marketing 4.0, mentre la domanda richiede Marketing 1.0."
     }
   },
   {
@@ -6918,10 +8388,10 @@
       "D": "usare dati e automazione senza perdere autenticità e contatto umano"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di Marketing 2.0 in relazione con \"adattare l'offerta a segmenti con esigenze diverse\".",
-      "B": "Non è la scelta migliore: \"comunicare principalmente le caratteristiche del prodotto a un pubblico ampio\" descrive un concetto diverso dal concetto di Marketing 2.0.",
-      "C": "Non è la scelta migliore: \"un'impresa costruisce valore collegandosi a temi sociali e ambientali coerenti\" sposta l'attenzione su un aspetto diverso dal concetto di Marketing 2.0.",
-      "D": "Non è la scelta migliore: \"usare dati e automazione senza perdere autenticità e contatto umano\" non identifica il ruolo specifico del concetto di Marketing 2.0 in questa domanda."
+      "A": "È corretta perché il caso resta coerente con Marketing 2.0: un orientamento customer-centric che cerca di comprendere e soddisfare meglio il cliente. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di Marketing 1.0, mentre la domanda richiede Marketing 2.0.",
+      "C": "Non è corretta perché descrive un esempio applicato di Marketing 3.0, mentre la domanda richiede Marketing 2.0.",
+      "D": "Non è corretta perché descrive un esempio applicato di Marketing 4.0, mentre la domanda richiede Marketing 2.0."
     }
   },
   {
@@ -6938,6 +8408,12 @@
       "B": "adattare l'offerta a segmenti con esigenze diverse",
       "C": "usare dati e automazione senza perdere autenticità e contatto umano",
       "D": "comunicare principalmente le caratteristiche del prodotto a un pubblico ampio"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con Marketing 3.0: un orientamento human-centric legato ai valori, allo spirito umano e alle cause sociali. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di Marketing 2.0, mentre la domanda richiede Marketing 3.0.",
+      "C": "Non è corretta perché descrive un esempio applicato di Marketing 4.0, mentre la domanda richiede Marketing 3.0.",
+      "D": "Non è corretta perché descrive un esempio applicato di Marketing 1.0, mentre la domanda richiede Marketing 3.0."
     }
   },
   {
@@ -6955,6 +8431,12 @@
       "B": "un'impresa costruisce valore collegandosi a temi sociali e ambientali coerenti",
       "C": "un brand entra in una community già attiva mostrando coerenza e ascolto",
       "D": "adattare l'offerta a segmenti con esigenze diverse"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con Marketing 4.0: l'approccio che integra tradizionale e digitale, online e offline, M2M e H2H. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di Marketing 3.0, mentre la domanda richiede Marketing 4.0.",
+      "C": "Non è corretta perché descrive un esempio applicato di customer community confirmation, mentre la domanda richiede Marketing 4.0.",
+      "D": "Non è corretta perché descrive un esempio applicato di Marketing 2.0, mentre la domanda richiede Marketing 4.0."
     }
   },
   {
@@ -6972,6 +8454,12 @@
       "B": "usare dati e automazione senza perdere autenticità e contatto umano",
       "C": "un brand conserva tono, simboli e personalità coerenti su app, social e store",
       "D": "un'impresa costruisce valore collegandosi a temi sociali e ambientali coerenti"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con customer community confirmation: il passaggio da segmenti decisi unilateralmente dall'azienda a comunità di clienti connesse e riconosciute. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di Marketing 4.0, mentre la domanda richiede customer community confirmation.",
+      "C": "Non è corretta perché descrive un esempio applicato di brand characters and codes, mentre la domanda richiede customer community confirmation.",
+      "D": "Non è corretta perché descrive un esempio applicato di Marketing 3.0, mentre la domanda richiede customer community confirmation."
     }
   },
   {
@@ -6988,6 +8476,12 @@
       "B": "un brand entra in una community già attiva mostrando coerenza e ascolto",
       "C": "una community contribuisce a progettare nuove funzionalità di un servizio",
       "D": "usare dati e automazione senza perdere autenticità e contatto umano"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con brand characters and codes: il passaggio dal solo positioning a carattere e codici riconoscibili del brand. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di customer community confirmation, mentre la domanda richiede brand characters and codes.",
+      "C": "Non è corretta perché descrive un esempio applicato di co-creation, mentre la domanda richiede brand characters and codes.",
+      "D": "Non è corretta perché descrive un esempio applicato di Marketing 4.0, mentre la domanda richiede brand characters and codes."
     }
   },
   {
@@ -7005,6 +8499,12 @@
       "B": "un brand conserva tono, simboli e personalità coerenti su app, social e store",
       "C": "un prezzo che cambia in base a disponibilità, domanda o profilo d'acquisto",
       "D": "un brand entra in una community già attiva mostrando coerenza e ascolto"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con co-creation: il coinvolgimento dei clienti nello sviluppo o nel miglioramento dell'offerta. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di brand characters and codes, mentre la domanda richiede co-creation.",
+      "C": "Non è corretta perché descrive un esempio applicato di currency, mentre la domanda richiede co-creation.",
+      "D": "Non è corretta perché descrive un esempio applicato di customer community confirmation, mentre la domanda richiede co-creation."
     }
   },
   {
@@ -7024,10 +8524,10 @@
       "D": "un brand conserva tono, simboli e personalità coerenti su app, social e store"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di currency in relazione con \"un prezzo che cambia in base a disponibilità, domanda o profilo d'acquisto\".",
-      "B": "Non è la scelta migliore: \"una community contribuisce a progettare nuove funzionalità di un servizio\" descrive un concetto diverso dal concetto di currency.",
-      "C": "Non è la scelta migliore: \"una piattaforma che abilita scambi tra utenti e valorizza la partecipazione della community\" sposta l'attenzione su un aspetto diverso dal concetto di currency.",
-      "D": "Non è la scelta migliore: \"un brand conserva tono, simboli e personalità coerenti su app, social e store\" non identifica il ruolo specifico del concetto di currency in questa domanda."
+      "A": "È corretta perché il caso resta coerente con currency: la logica di prezzo dinamico che varia in relazione a domanda, dati e contesto. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di co-creation, mentre la domanda richiede currency.",
+      "C": "Non è corretta perché descrive un esempio applicato di communal activation, mentre la domanda richiede currency.",
+      "D": "Non è corretta perché descrive un esempio applicato di brand characters and codes, mentre la domanda richiede currency."
     }
   },
   {
@@ -7045,6 +8545,12 @@
       "B": "un prezzo che cambia in base a disponibilità, domanda o profilo d'acquisto",
       "C": "rispondere alle recensioni e integrare feedback nella comunicazione",
       "D": "una community contribuisce a progettare nuove funzionalità di un servizio"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con communal activation: l'attivazione di comunità e canali peer-to-peer per distribuire e far circolare valore. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di currency, mentre la domanda richiede communal activation.",
+      "C": "Non è corretta perché descrive un esempio applicato di conversation, mentre la domanda richiede communal activation.",
+      "D": "Non è corretta perché descrive un esempio applicato di co-creation, mentre la domanda richiede communal activation."
     }
   },
   {
@@ -7062,6 +8568,12 @@
       "B": "una piattaforma che abilita scambi tra utenti e valorizza la partecipazione della community",
       "C": "definire valori, tono, simboli e promessa che l'impresa vuole trasmettere",
       "D": "un prezzo che cambia in base a disponibilità, domanda o profilo d'acquisto"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con conversation: il passaggio da promozione come monologo del brand a dialogo continuo con i clienti. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di communal activation, mentre la domanda richiede conversation.",
+      "C": "Non è corretta perché descrive un esempio applicato di brand identity, mentre la domanda richiede conversation.",
+      "D": "Non è corretta perché descrive un esempio applicato di currency, mentre la domanda richiede conversation."
     }
   },
   {
@@ -7078,6 +8590,12 @@
       "B": "rispondere alle recensioni e integrare feedback nella comunicazione",
       "C": "una marca percepita come sostenibile anche oltre ciò che dichiara nelle campagne",
       "D": "una piattaforma che abilita scambi tra utenti e valorizza la partecipazione della community"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con brand identity: ciò che l'azienda comunica e vuole rappresentare come marca. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di conversation, mentre la domanda richiede brand identity.",
+      "C": "Non è corretta perché descrive un esempio applicato di brand image, mentre la domanda richiede brand identity.",
+      "D": "Non è corretta perché descrive un esempio applicato di communal activation, mentre la domanda richiede brand identity."
     }
   },
   {
@@ -7094,6 +8612,12 @@
       "B": "definire valori, tono, simboli e promessa che l'impresa vuole trasmettere",
       "C": "essere top of mind nella categoria bevande",
       "D": "rispondere alle recensioni e integrare feedback nella comunicazione"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con brand image: la percezione reale e attuale che il pubblico ha della marca. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di brand identity, mentre la domanda richiede brand image.",
+      "C": "Non è corretta perché descrive un esempio applicato di brand awareness, mentre la domanda richiede brand image.",
+      "D": "Non è corretta perché descrive un esempio applicato di conversation, mentre la domanda richiede brand image."
     }
   },
   {
@@ -7110,6 +8634,12 @@
       "B": "una marca percepita come sostenibile anche oltre ciò che dichiara nelle campagne",
       "C": "un marchio forte permette premium price e fiducia più elevata",
       "D": "definire valori, tono, simboli e promessa che l'impresa vuole trasmettere"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con brand awareness: il livello di conoscenza e ricordo della marca da parte del pubblico. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di brand image, mentre la domanda richiede brand awareness.",
+      "C": "Non è corretta perché descrive un esempio applicato di brand equity, mentre la domanda richiede brand awareness.",
+      "D": "Non è corretta perché descrive un esempio applicato di brand identity, mentre la domanda richiede brand awareness."
     }
   },
   {
@@ -7128,10 +8658,10 @@
       "D": "una marca percepita come sostenibile anche oltre ciò che dichiara nelle campagne"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di brand equity in relazione con \"un marchio forte permette premium price e fiducia più elevata\".",
-      "B": "Non è la scelta migliore: \"essere top of mind nella categoria bevande\" descrive un concetto diverso dal concetto di brand equity.",
-      "C": "Non è la scelta migliore: \"un cliente acquista online perché ritiene affidabile il venditore\" sposta l'attenzione su un aspetto diverso dal concetto di brand equity.",
-      "D": "Non è la scelta migliore: \"una marca percepita come sostenibile anche oltre ciò che dichiara nelle campagne\" non identifica il ruolo specifico del concetto di brand equity in questa domanda."
+      "A": "È corretta perché il caso resta coerente con brand equity: il valore complessivo e reputazionale accumulato dalla marca nel tempo. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di brand awareness, mentre la domanda richiede brand equity.",
+      "C": "Non è corretta perché descrive un esempio applicato di brand trust, mentre la domanda richiede brand equity.",
+      "D": "Non è corretta perché descrive un esempio applicato di brand image, mentre la domanda richiede brand equity."
     }
   },
   {
@@ -7149,6 +8679,12 @@
       "B": "un marchio forte permette premium price e fiducia più elevata",
       "C": "commentare, condividere o contribuire a iniziative del brand",
       "D": "essere top of mind nella categoria bevande"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con brand trust: la fiducia riposta dal consumatore nella marca. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di brand equity, mentre la domanda richiede brand trust.",
+      "C": "Non è corretta perché descrive un esempio applicato di brand engagement, mentre la domanda richiede brand trust.",
+      "D": "Non è corretta perché descrive un esempio applicato di brand awareness, mentre la domanda richiede brand trust."
     }
   },
   {
@@ -7166,6 +8702,12 @@
       "B": "un cliente acquista online perché ritiene affidabile il venditore",
       "C": "un utente consiglia spontaneamente un servizio nella propria community",
       "D": "un marchio forte permette premium price e fiducia più elevata"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con brand engagement: il coinvolgimento attivo e partecipativo dei consumatori con un marchio. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di brand trust, mentre la domanda richiede brand engagement.",
+      "C": "Non è corretta perché descrive un esempio applicato di brand advocacy, mentre la domanda richiede brand engagement.",
+      "D": "Non è corretta perché descrive un esempio applicato di brand equity, mentre la domanda richiede brand engagement."
     }
   },
   {
@@ -7183,6 +8725,12 @@
       "B": "commentare, condividere o contribuire a iniziative del brand",
       "C": "un cliente acquista online perché ritiene affidabile il venditore",
       "D": "un marchio forte permette premium price e fiducia più elevata"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con brand advocacy: il sostegno esplicito e spontaneo dei consumatori verso il brand. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di brand engagement, mentre la domanda richiede brand advocacy.",
+      "C": "Non è corretta perché descrive un esempio applicato di brand trust, mentre la domanda richiede brand advocacy.",
+      "D": "Non è corretta perché descrive un esempio applicato di brand equity, mentre la domanda richiede brand advocacy."
     }
   },
   {
@@ -7199,6 +8747,12 @@
       "B": "Spotify cambia il modello musicale da vendita di supporti a streaming in abbonamento",
       "C": "un sito brochure aggiornato raramente e non integrato con canali o CRM",
       "D": "un retailer integra sito, store fisici, CRM e campagne coordinate"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con orientamento all'e-business: un approccio manageriale che riconfigura in chiave digitale i processi di creazione del valore. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di business model digitale, mentre la domanda richiede orientamento all'e-business.",
+      "C": "Non è corretta perché descrive un esempio applicato di digital marketing tattico, mentre la domanda richiede orientamento all'e-business.",
+      "D": "Non è corretta perché descrive un esempio applicato di digital marketing strategico, mentre la domanda richiede orientamento all'e-business."
     }
   },
   {
@@ -7216,6 +8770,12 @@
       "B": "un'impresa integra sistemi informativi, e-commerce e processi con partner e clienti",
       "C": "un sito brochure aggiornato raramente e non integrato con canali o CRM",
       "D": "un retailer integra sito, store fisici, CRM e campagne coordinate"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con business model digitale: il sistema con cui l'impresa sviluppa valore economico usando tecnologie digitali. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di orientamento all'e-business, mentre la domanda richiede business model digitale.",
+      "C": "Non è corretta perché descrive un esempio applicato di digital marketing tattico, mentre la domanda richiede business model digitale.",
+      "D": "Non è corretta perché descrive un esempio applicato di digital marketing strategico, mentre la domanda richiede business model digitale."
     }
   },
   {
@@ -7234,10 +8794,10 @@
       "D": "un'impresa integra sistemi informativi, e-commerce e processi con partner e clienti"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di digital marketing tattico in relazione con \"un sito brochure aggiornato raramente e non integrato con canali o CRM\".",
-      "B": "Non è la scelta migliore: \"Spotify cambia il modello musicale da vendita di supporti a streaming in abbonamento\" descrive un concetto diverso dal concetto di digital marketing tattico.",
-      "C": "Non è la scelta migliore: \"un retailer integra sito, store fisici, CRM e campagne coordinate\" sposta l'attenzione su un aspetto diverso dal concetto di digital marketing tattico.",
-      "D": "Non è la scelta migliore: \"un'impresa integra sistemi informativi, e-commerce e processi con partner e clienti\" non identifica il ruolo specifico del concetto di digital marketing tattico in questa domanda."
+      "A": "È corretta perché il caso resta coerente con digital marketing tattico: l'uso di strumenti digitali per attività operative di comunicazione con basso impatto strategico. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di business model digitale, mentre la domanda richiede digital marketing tattico.",
+      "C": "Non è corretta perché descrive un esempio applicato di digital marketing strategico, mentre la domanda richiede digital marketing tattico.",
+      "D": "Non è corretta perché descrive un esempio applicato di orientamento all'e-business, mentre la domanda richiede digital marketing tattico."
     }
   },
   {
@@ -7254,6 +8814,12 @@
       "B": "un sito brochure aggiornato raramente e non integrato con canali o CRM",
       "C": "una piattaforma nata online che genera valore quasi interamente tramite canali digitali",
       "D": "Spotify cambia il modello musicale da vendita di supporti a streaming in abbonamento"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con digital marketing strategico: l'uso del digitale con obiettivi di business e integrazione tra strategie online e offline. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di digital marketing tattico, mentre la domanda richiede digital marketing strategico.",
+      "C": "Non è corretta perché descrive un esempio applicato di livello core business digitale, mentre la domanda richiede digital marketing strategico.",
+      "D": "Non è corretta perché descrive un esempio applicato di business model digitale, mentre la domanda richiede digital marketing strategico."
     }
   },
   {
@@ -7271,6 +8837,12 @@
       "B": "un retailer integra sito, store fisici, CRM e campagne coordinate",
       "C": "un negozio di quartiere che vende solo nel punto vendita",
       "D": "un sito brochure aggiornato raramente e non integrato con canali o CRM"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con livello core business digitale: la situazione in cui il campo di esistenza dell'impresa è all digital. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di digital marketing strategico, mentre la domanda richiede livello core business digitale.",
+      "C": "Non è corretta perché descrive un esempio applicato di bricks and mortar, mentre la domanda richiede livello core business digitale.",
+      "D": "Non è corretta perché descrive un esempio applicato di digital marketing tattico, mentre la domanda richiede livello core business digitale."
     }
   },
   {
@@ -7288,6 +8860,12 @@
       "B": "una piattaforma nata online che genera valore quasi interamente tramite canali digitali",
       "C": "Zara con punti vendita fisici e sito e-commerce",
       "D": "un retailer integra sito, store fisici, CRM e campagne coordinate"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con bricks and mortar: imprese tradizionali puramente fisiche senza canali digitali rilevanti. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di livello core business digitale, mentre la domanda richiede bricks and mortar.",
+      "C": "Non è corretta perché descrive un esempio applicato di click and mortar, mentre la domanda richiede bricks and mortar.",
+      "D": "Non è corretta perché descrive un esempio applicato di digital marketing strategico, mentre la domanda richiede bricks and mortar."
     }
   },
   {
@@ -7305,6 +8883,12 @@
       "B": "un negozio di quartiere che vende solo nel punto vendita",
       "C": "un marketplace nato e gestito solo via piattaforma online",
       "D": "una piattaforma nata online che genera valore quasi interamente tramite canali digitali"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con click and mortar: imprese nate fisiche che integrano canali e strategie digitali. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di bricks and mortar, mentre la domanda richiede click and mortar.",
+      "C": "Non è corretta perché descrive un esempio applicato di pure play, mentre la domanda richiede click and mortar.",
+      "D": "Non è corretta perché descrive un esempio applicato di livello core business digitale, mentre la domanda richiede click and mortar."
     }
   },
   {
@@ -7322,6 +8906,12 @@
       "B": "Zara con punti vendita fisici e sito e-commerce",
       "C": "iniziare un acquisto da smartphone, proseguirlo da desktop e ritirare in negozio",
       "D": "un negozio di quartiere che vende solo nel punto vendita"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con pure play: imprese che operano esclusivamente online senza rete fisica tradizionale. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di click and mortar, mentre la domanda richiede pure play.",
+      "C": "Non è corretta perché descrive un esempio applicato di omnicanalità, mentre la domanda richiede pure play.",
+      "D": "Non è corretta perché descrive un esempio applicato di bricks and mortar, mentre la domanda richiede pure play."
     }
   },
   {
@@ -7341,10 +8931,10 @@
       "D": "Zara con punti vendita fisici e sito e-commerce"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di omnicanalità in relazione con \"iniziare un acquisto da smartphone, proseguirlo da desktop e ritirare in negozio\".",
-      "B": "Non è la scelta migliore: \"un marketplace nato e gestito solo via piattaforma online\" descrive un concetto diverso dal concetto di omnicanalità.",
-      "C": "Non è la scelta migliore: \"un file composto da bit organizzati in byte\" sposta l'attenzione su un aspetto diverso dal concetto di omnicanalità.",
-      "D": "Non è la scelta migliore: \"Zara con punti vendita fisici e sito e-commerce\" non identifica il ruolo specifico del concetto di omnicanalità in questa domanda."
+      "A": "È corretta perché il caso resta coerente con omnicanalità: l'interconnessione stretta tra canali fisici e digitali lungo il percorso del cliente. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di pure play, mentre la domanda richiede omnicanalità.",
+      "C": "Non è corretta perché descrive un esempio applicato di dato digitale, mentre la domanda richiede omnicanalità.",
+      "D": "Non è corretta perché descrive un esempio applicato di click and mortar, mentre la domanda richiede omnicanalità."
     }
   },
   {
@@ -7361,6 +8951,12 @@
       "B": "iniziare un acquisto da smartphone, proseguirlo da desktop e ritirare in negozio",
       "C": "una sequenza di 8 bit rappresenta un byte",
       "D": "un marketplace nato e gestito solo via piattaforma online"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con dato digitale: informazione codificata in forma binaria tramite 0 e 1. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di omnicanalità, mentre la domanda richiede dato digitale.",
+      "C": "Non è corretta perché descrive un esempio applicato di bit e byte, mentre la domanda richiede dato digitale.",
+      "D": "Non è corretta perché descrive un esempio applicato di pure play, mentre la domanda richiede dato digitale."
     }
   },
   {
@@ -7377,6 +8973,12 @@
       "B": "un file composto da bit organizzati in byte",
       "C": "un CD codifica dati digitali, un vinile è associato a un supporto analogico",
       "D": "iniziare un acquisto da smartphone, proseguirlo da desktop e ritirare in negozio"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con bit e byte: il bit è l'unità minima del digitale e 8 bit formano un byte. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di dato digitale, mentre la domanda richiede bit e byte.",
+      "C": "Non è corretta perché descrive un esempio applicato di digitale vs analogico, mentre la domanda richiede bit e byte.",
+      "D": "Non è corretta perché descrive un esempio applicato di omnicanalità, mentre la domanda richiede bit e byte."
     }
   },
   {
@@ -7393,6 +8995,12 @@
       "B": "una sequenza di 8 bit rappresenta un byte",
       "C": "il web come piattaforma che ospita siti, contenuti e social network",
       "D": "un file composto da bit organizzati in byte"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con digitale vs analogico: il digitale cambia discretamente tra stati, mentre l'analogico cambia in modo continuo. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di bit e byte, mentre la domanda richiede digitale vs analogico.",
+      "C": "Non è corretta perché descrive un esempio applicato di piattaforme digitali, mentre la domanda richiede digitale vs analogico.",
+      "D": "Non è corretta perché descrive un esempio applicato di dato digitale, mentre la domanda richiede digitale vs analogico."
     }
   },
   {
@@ -7409,6 +9017,12 @@
       "B": "un CD codifica dati digitali, un vinile è associato a un supporto analogico",
       "C": "uno smartwatch o uno smartphone che consente l'uso di app e web",
       "D": "una sequenza di 8 bit rappresenta un byte"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con piattaforme digitali: ambienti come internet, web, mobile e TV digitale su cui avvengono interazioni e scambi. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di digitale vs analogico, mentre la domanda richiede piattaforme digitali.",
+      "C": "Non è corretta perché descrive un esempio applicato di device digitali, mentre la domanda richiede piattaforme digitali.",
+      "D": "Non è corretta perché descrive un esempio applicato di bit e byte, mentre la domanda richiede piattaforme digitali."
     }
   },
   {
@@ -7425,6 +9039,12 @@
       "B": "il web come piattaforma che ospita siti, contenuti e social network",
       "C": "la rete che permette a un sito web di essere raggiunto",
       "D": "un CD codifica dati digitali, un vinile è associato a un supporto analogico"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con device digitali: dispositivi come laptop, tablet, smartphone, TV e wearable usati per accedere ai servizi digitali. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di piattaforme digitali, mentre la domanda richiede device digitali.",
+      "C": "Non è corretta perché descrive un esempio applicato di Internet, mentre la domanda richiede device digitali.",
+      "D": "Non è corretta perché descrive un esempio applicato di digitale vs analogico, mentre la domanda richiede device digitali."
     }
   },
   {
@@ -7443,10 +9063,10 @@
       "D": "il web come piattaforma che ospita siti, contenuti e social network"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di Internet in relazione con \"la rete che permette a un sito web di essere raggiunto\".",
-      "B": "Non è la scelta migliore: \"uno smartwatch o uno smartphone che consente l'uso di app e web\" descrive un concetto diverso dal concetto di Internet.",
-      "C": "Non è la scelta migliore: \"consultare una pagina informativa tramite browser\" sposta l'attenzione su un aspetto diverso dal concetto di Internet.",
-      "D": "Non è la scelta migliore: \"il web come piattaforma che ospita siti, contenuti e social network\" non identifica il ruolo specifico del concetto di Internet in questa domanda."
+      "A": "È corretta perché il caso resta coerente con Internet: un sistema di reti di computer che consente il trasporto dei dati. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di device digitali, mentre la domanda richiede Internet.",
+      "C": "Non è corretta perché descrive un esempio applicato di Web, mentre la domanda richiede Internet.",
+      "D": "Non è corretta perché descrive un esempio applicato di piattaforme digitali, mentre la domanda richiede Internet."
     }
   },
   {
@@ -7463,6 +9083,12 @@
       "B": "la rete che permette a un sito web di essere raggiunto",
       "C": "clienti che commentano, condividono e influenzano la narrazione del brand",
       "D": "uno smartwatch o uno smartphone che consente l'uso di app e web"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con Web: il sistema di navigazione e fruizione dei contenuti presenti su Internet. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di Internet, mentre la domanda richiede Web.",
+      "C": "Non è corretta perché descrive un esempio applicato di marketing digitale reticolare, mentre la domanda richiede Web.",
+      "D": "Non è corretta perché descrive un esempio applicato di device digitali, mentre la domanda richiede Web."
     }
   },
   {
@@ -7480,6 +9106,12 @@
       "B": "consultare una pagina informativa tramite browser",
       "C": "maggiore potenza di calcolo disponibile a costi relativamente più accessibili",
       "D": "la rete che permette a un sito web di essere raggiunto"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con marketing digitale reticolare: un modello interattivo, dinamico e collaborativo contrapposto alla linearità push del marketing tradizionale. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di Web, mentre la domanda richiede marketing digitale reticolare.",
+      "C": "Non è corretta perché descrive un esempio applicato di legge di Moore, mentre la domanda richiede marketing digitale reticolare.",
+      "D": "Non è corretta perché descrive un esempio applicato di Internet, mentre la domanda richiede marketing digitale reticolare."
     }
   },
   {
@@ -7496,6 +9128,12 @@
       "B": "clienti che commentano, condividono e influenzano la narrazione del brand",
       "C": "una piattaforma diventa più utile man mano che aumentano gli utenti collegati",
       "D": "consultare una pagina informativa tramite browser"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con legge di Moore: l'idea che la capacità dei computer aumenti rapidamente nel tempo, tradizionalmente legata al raddoppio dei transistor. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di marketing digitale reticolare, mentre la domanda richiede legge di Moore.",
+      "C": "Non è corretta perché descrive un esempio applicato di legge di Metcalfe, mentre la domanda richiede legge di Moore.",
+      "D": "Non è corretta perché descrive un esempio applicato di Web, mentre la domanda richiede legge di Moore."
     }
   },
   {
@@ -7513,6 +9151,12 @@
       "B": "maggiore potenza di calcolo disponibile a costi relativamente più accessibili",
       "C": "abitudini e costi di migrazione rendono difficile abbandonare una tastiera o un ecosistema software",
       "D": "clienti che commentano, condividono e influenzano la narrazione del brand"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con legge di Metcalfe: l'utilità di una tecnologia di rete cresce circa con il quadrato del numero dei suoi utenti o nodi. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di legge di Moore, mentre la domanda richiede legge di Metcalfe.",
+      "C": "Non è corretta perché descrive un esempio applicato di lock-in, mentre la domanda richiede legge di Metcalfe.",
+      "D": "Non è corretta perché descrive un esempio applicato di marketing digitale reticolare, mentre la domanda richiede legge di Metcalfe."
     }
   },
   {
@@ -7530,6 +9174,12 @@
       "B": "una piattaforma diventa più utile man mano che aumentano gli utenti collegati",
       "C": "un sito può raggiungere molti utenti e offrire schede prodotto dettagliate",
       "D": "maggiore potenza di calcolo disponibile a costi relativamente più accessibili"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con lock-in: la condizione in cui cambiare tecnologia o piattaforma diventa costoso o difficile. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di legge di Metcalfe, mentre la domanda richiede lock-in.",
+      "C": "Non è corretta perché descrive un esempio applicato di reach e richness, mentre la domanda richiede lock-in.",
+      "D": "Non è corretta perché descrive un esempio applicato di legge di Moore, mentre la domanda richiede lock-in."
     }
   },
   {
@@ -7548,10 +9198,10 @@
       "D": "una piattaforma diventa più utile man mano che aumentano gli utenti collegati"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di reach e richness in relazione con \"un sito può raggiungere molti utenti e offrire schede prodotto dettagliate\".",
-      "B": "Non è la scelta migliore: \"abitudini e costi di migrazione rendono difficile abbandonare una tastiera o un ecosistema software\" descrive un concetto diverso dal concetto di reach e richness.",
-      "C": "Non è la scelta migliore: \"un e-commerce vende milioni di titoli, inclusi libri di nicchia poco richiesti singolarmente\" sposta l'attenzione su un aspetto diverso dal concetto di reach e richness.",
-      "D": "Non è la scelta migliore: \"una piattaforma diventa più utile man mano che aumentano gli utenti collegati\" non identifica il ruolo specifico del concetto di reach e richness in questa domanda."
+      "A": "È corretta perché il caso resta coerente con reach e richness: la tensione tra ampiezza del mercato raggiungibile e ricchezza informativa veicolabile. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di lock-in, mentre la domanda richiede reach e richness.",
+      "C": "Non è corretta perché descrive un esempio applicato di long tail, mentre la domanda richiede reach e richness.",
+      "D": "Non è corretta perché descrive un esempio applicato di legge di Metcalfe, mentre la domanda richiede reach e richness."
     }
   },
   {
@@ -7569,6 +9219,12 @@
       "B": "un sito può raggiungere molti utenti e offrire schede prodotto dettagliate",
       "C": "abitudini e costi di migrazione rendono difficile abbandonare una tastiera o un ecosistema software",
       "D": "una piattaforma diventa più utile man mano che aumentano gli utenti collegati"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con long tail: la possibilità nei mercati digitali di generare valore anche dalla somma di molti prodotti di nicchia. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di reach e richness, mentre la domanda richiede long tail.",
+      "C": "Non è corretta perché descrive un esempio applicato di lock-in, mentre la domanda richiede long tail.",
+      "D": "Non è corretta perché descrive un esempio applicato di legge di Metcalfe, mentre la domanda richiede long tail."
     }
   },
   {
@@ -7585,6 +9241,12 @@
       "B": "analizzare come gli utenti confrontano recensioni su un marketplace",
       "C": "usare report di settore o statistiche pubbliche per stimare un mercato",
       "D": "progettare una survey online per capire le preferenze di un nuovo target"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con ricerca web-enabled: una ricerca in cui il web funge da supporto operativo alla raccolta dati. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di ricerca web-centric, mentre la domanda richiede ricerca web-enabled.",
+      "C": "Non è corretta perché descrive un esempio applicato di dati secondari, mentre la domanda richiede ricerca web-enabled.",
+      "D": "Non è corretta perché descrive un esempio applicato di dati primari, mentre la domanda richiede ricerca web-enabled."
     }
   },
   {
@@ -7601,6 +9263,12 @@
       "B": "somministrare online un questionario su abitudini alimentari offline",
       "C": "usare report di settore o statistiche pubbliche per stimare un mercato",
       "D": "progettare una survey online per capire le preferenze di un nuovo target"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con ricerca web-centric: una ricerca che studia comportamenti, interazioni o fenomeni che avvengono online. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di ricerca web-enabled, mentre la domanda richiede ricerca web-centric.",
+      "C": "Non è corretta perché descrive un esempio applicato di dati secondari, mentre la domanda richiede ricerca web-centric.",
+      "D": "Non è corretta perché descrive un esempio applicato di dati primari, mentre la domanda richiede ricerca web-centric."
     }
   },
   {
@@ -7617,6 +9285,12 @@
       "B": "analizzare come gli utenti confrontano recensioni su un marketplace",
       "C": "progettare una survey online per capire le preferenze di un nuovo target",
       "D": "somministrare online un questionario su abitudini alimentari offline"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con dati secondari: dati già disponibili e raccolti in precedenza da altre fonti. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di ricerca web-centric, mentre la domanda richiede dati secondari.",
+      "C": "Non è corretta perché descrive un esempio applicato di dati primari, mentre la domanda richiede dati secondari.",
+      "D": "Non è corretta perché descrive un esempio applicato di ricerca web-enabled, mentre la domanda richiede dati secondari."
     }
   },
   {
@@ -7631,8 +9305,14 @@
     "options": {
       "A": "progettare una survey online per capire le preferenze di un nuovo target",
       "B": "usare report di settore o statistiche pubbliche per stimare un mercato",
-      "C": "mandare un link survey a una lista di clienti selezionati",
+      "C": "riutilizzare un dataset pubblicato da un ente esterno per un'altra ricerca",
       "D": "analizzare come gli utenti confrontano recensioni su un marketplace"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con dati primari: informazioni raccolte per la prima volta per rispondere a uno specifico problema di ricerca. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di dati secondari, mentre la domanda richiede dati primari.",
+      "C": "Non è corretta perché descrive un uso di dati già raccolti da altri, quindi dati secondari, non dati primari raccolti per la ricerca specifica.",
+      "D": "Non è corretta perché descrive un esempio applicato di ricerca web-centric, mentre la domanda richiede dati primari."
     }
   },
   {
@@ -7652,10 +9332,10 @@
       "D": "usare report di settore o statistiche pubbliche per stimare un mercato"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di e-mail survey in relazione con \"mandare un link survey a una lista di clienti selezionati\".",
-      "B": "Non è la scelta migliore: \"progettare una survey online per capire le preferenze di un nuovo target\" descrive un concetto diverso dal concetto di e-mail survey.",
-      "C": "Non è la scelta migliore: \"inserire un questionario su una landing page o diffonderlo via social\" sposta l'attenzione su un aspetto diverso dal concetto di e-mail survey.",
-      "D": "Non è la scelta migliore: \"usare report di settore o statistiche pubbliche per stimare un mercato\" non identifica il ruolo specifico del concetto di e-mail survey in questa domanda."
+      "A": "È corretta perché il caso resta coerente con e-mail survey: un questionario inviato agli individui tramite posta elettronica. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di dati primari, mentre la domanda richiede e-mail survey.",
+      "C": "Non è corretta perché descrive un esempio applicato di web survey, mentre la domanda richiede e-mail survey.",
+      "D": "Non è corretta perché descrive un esempio applicato di dati secondari, mentre la domanda richiede e-mail survey."
     }
   },
   {
@@ -7672,6 +9352,12 @@
       "B": "mandare un link survey a una lista di clienti selezionati",
       "C": "chiedere di descrivere con parole proprie l'esperienza con un servizio",
       "D": "progettare una survey online per capire le preferenze di un nuovo target"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con web survey: un questionario pubblicato sul web, su pagine, piattaforme o social network. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di e-mail survey, mentre la domanda richiede web survey.",
+      "C": "Non è corretta perché descrive un esempio applicato di domanda aperta, mentre la domanda richiede web survey.",
+      "D": "Non è corretta perché descrive un esempio applicato di dati primari, mentre la domanda richiede web survey."
     }
   },
   {
@@ -7688,6 +9374,12 @@
       "B": "inserire un questionario su una landing page o diffonderlo via social",
       "C": "scegliere una risposta tra tre opzioni predefinite",
       "D": "mandare un link survey a una lista di clienti selezionati"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con domanda aperta: una domanda che lascia libertà di risposta all'intervistato. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di web survey, mentre la domanda richiede domanda aperta.",
+      "C": "Non è corretta perché descrive un esempio applicato di domanda chiusa, mentre la domanda richiede domanda aperta.",
+      "D": "Non è corretta perché descrive un esempio applicato di e-mail survey, mentre la domanda richiede domanda aperta."
     }
   },
   {
@@ -7704,6 +9396,12 @@
       "B": "chiedere di descrivere con parole proprie l'esperienza con un servizio",
       "C": "chiedere se l'utente ha mai acquistato online: sì o no",
       "D": "inserire un questionario su una landing page o diffonderlo via social"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con domanda chiusa: una domanda in cui il rispondente sceglie tra alternative già proposte. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di domanda aperta, mentre la domanda richiede domanda chiusa.",
+      "C": "Non è corretta perché descrive un esempio applicato di domanda dicotomica, mentre la domanda richiede domanda chiusa.",
+      "D": "Non è corretta perché descrive un esempio applicato di web survey, mentre la domanda richiede domanda chiusa."
     }
   },
   {
@@ -7720,6 +9418,12 @@
       "B": "scegliere una risposta tra tre opzioni predefinite",
       "C": "chiedere quali canali usa il cliente tra sito, social, app e negozio",
       "D": "chiedere di descrivere con parole proprie l'esperienza con un servizio"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con domanda dicotomica: una domanda chiusa con due sole alternative di risposta. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di domanda chiusa, mentre la domanda richiede domanda dicotomica.",
+      "C": "Non è corretta perché descrive un esempio applicato di domanda a risposta multipla, mentre la domanda richiede domanda dicotomica.",
+      "D": "Non è corretta perché descrive un esempio applicato di domanda aperta, mentre la domanda richiede domanda dicotomica."
     }
   },
   {
@@ -7735,7 +9439,13 @@
       "A": "chiedere quali canali usa il cliente tra sito, social, app e negozio",
       "B": "chiedere se l'utente ha mai acquistato online: sì o no",
       "C": "valutare da per niente d'accordo a molto d'accordo la fiducia verso un brand",
-      "D": "scegliere una risposta tra tre opzioni predefinite"
+      "D": "chiedere di descrivere liberamente l'esperienza con il servizio"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con domanda a risposta multipla: una domanda chiusa che propone più alternative selezionabili o una scelta tra varie opzioni. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di domanda dicotomica, mentre la domanda richiede domanda a risposta multipla.",
+      "C": "Non è corretta perché descrive un esempio applicato di scala Likert, mentre la domanda richiede domanda a risposta multipla.",
+      "D": "Non è corretta perché descrive una domanda aperta: il rispondente formula il testo liberamente invece di scegliere tra alternative proposte."
     }
   },
   {
@@ -7754,10 +9464,10 @@
       "D": "chiedere se l'utente ha mai acquistato online: sì o no"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di scala Likert in relazione con \"valutare da per niente d'accordo a molto d'accordo la fiducia verso un brand\".",
-      "B": "Non è la scelta migliore: \"chiedere quali canali usa il cliente tra sito, social, app e negozio\" descrive un concetto diverso dal concetto di scala Likert.",
-      "C": "Non è la scelta migliore: \"chiedere se l'utente ha comprato online prima di domande sul checkout\" sposta l'attenzione su un aspetto diverso dal concetto di scala Likert.",
-      "D": "Non è la scelta migliore: \"chiedere se l'utente ha mai acquistato online: sì o no\" non identifica il ruolo specifico del concetto di scala Likert in questa domanda."
+      "A": "È corretta perché il caso resta coerente con scala Likert: una scala di atteggiamento che misura il grado di accordo o intensità rispetto a un'affermazione. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di domanda a risposta multipla, mentre la domanda richiede scala Likert.",
+      "C": "Non è corretta perché descrive un esempio applicato di domande filtro, mentre la domanda richiede scala Likert.",
+      "D": "Non è corretta perché descrive un esempio applicato di domanda dicotomica, mentre la domanda richiede scala Likert."
     }
   },
   {
@@ -7774,6 +9484,12 @@
       "B": "valutare da per niente d'accordo a molto d'accordo la fiducia verso un brand",
       "C": "mettere dati personali alla fine e domande facili all'inizio",
       "D": "chiedere quali canali usa il cliente tra sito, social, app e negozio"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con domande filtro: domande usate per indirizzare i rispondenti verso sezioni pertinenti del questionario. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di scala Likert, mentre la domanda richiede domande filtro.",
+      "C": "Non è corretta perché descrive un esempio applicato di sequenza del questionario, mentre la domanda richiede domande filtro.",
+      "D": "Non è corretta perché descrive un esempio applicato di domanda a risposta multipla, mentre la domanda richiede domande filtro."
     }
   },
   {
@@ -7790,6 +9506,12 @@
       "B": "chiedere se l'utente ha comprato online prima di domande sul checkout",
       "C": "testare una survey su pochi rispondenti prima del lancio",
       "D": "valutare da per niente d'accordo a molto d'accordo la fiducia verso un brand"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con sequenza del questionario: l'ordine consigliato: introduzione e privacy, domande semplici, domande centrali, socio-demografiche finali. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di domande filtro, mentre la domanda richiede sequenza del questionario.",
+      "C": "Non è corretta perché descrive un esempio applicato di pre-test del questionario, mentre la domanda richiede sequenza del questionario.",
+      "D": "Non è corretta perché descrive un esempio applicato di scala Likert, mentre la domanda richiede sequenza del questionario."
     }
   },
   {
@@ -7806,6 +9528,12 @@
       "B": "mettere dati personali alla fine e domande facili all'inizio",
       "C": "una web survey molto diffusa ma compilata solo da utenti giovani può essere distorta",
       "D": "chiedere se l'utente ha comprato online prima di domande sul checkout"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con pre-test del questionario: una prova preliminare del questionario prima della somministrazione completa. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di sequenza del questionario, mentre la domanda richiede pre-test del questionario.",
+      "C": "Non è corretta perché descrive un esempio applicato di rappresentatività del campione online, mentre la domanda richiede pre-test del questionario.",
+      "D": "Non è corretta perché descrive un esempio applicato di domande filtro, mentre la domanda richiede pre-test del questionario."
     }
   },
   {
@@ -7822,6 +9550,12 @@
       "B": "testare una survey su pochi rispondenti prima del lancio",
       "C": "una scala visualizzata male su mobile altera la qualità della risposta",
       "D": "mettere dati personali alla fine e domande facili all'inizio"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con rappresentatività del campione online: la capacità del campione di riflettere correttamente la popolazione di riferimento. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di pre-test del questionario, mentre la domanda richiede rappresentatività del campione online.",
+      "C": "Non è corretta perché descrive un esempio applicato di validità della misurazione online, mentre la domanda richiede rappresentatività del campione online.",
+      "D": "Non è corretta perché descrive un esempio applicato di sequenza del questionario, mentre la domanda richiede rappresentatività del campione online."
     }
   },
   {
@@ -7838,6 +9572,12 @@
       "B": "una web survey molto diffusa ma compilata solo da utenti giovani può essere distorta",
       "C": "testare una survey su pochi rispondenti prima del lancio",
       "D": "mettere dati personali alla fine e domande facili all'inizio"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con validità della misurazione online: la capacità dello strumento di misurare davvero ciò che intende misurare. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di rappresentatività del campione online, mentre la domanda richiede validità della misurazione online.",
+      "C": "Non è corretta perché descrive un esempio applicato di pre-test del questionario, mentre la domanda richiede validità della misurazione online.",
+      "D": "Non è corretta perché descrive un esempio applicato di sequenza del questionario, mentre la domanda richiede validità della misurazione online."
     }
   },
   {
@@ -7856,10 +9596,10 @@
       "D": "una recensione, un sito, un punto vendita o una email di conferma"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di nuovo consumatore iperconnesso in relazione con \"un utente confronta recensioni, social, sito e negozio prima di decidere\".",
-      "B": "Non è la scelta migliore: \"un cliente pubblica recensioni e contenuti che guidano le scelte altrui\" descrive un concetto diverso dal concetto di nuovo consumatore iperconnesso.",
-      "C": "Non è la scelta migliore: \"seguire un cliente dalla ricerca online al consumo e al ricordo dell'esperienza\" sposta l'attenzione su un aspetto diverso dal concetto di nuovo consumatore iperconnesso.",
-      "D": "Non è la scelta migliore: \"una recensione, un sito, un punto vendita o una email di conferma\" non identifica il ruolo specifico del concetto di nuovo consumatore iperconnesso in questa domanda."
+      "A": "È corretta perché il caso resta coerente con nuovo consumatore iperconnesso: un consumatore attivo, connesso e capace di usare molteplici fonti e touchpoint. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di prosumer, mentre la domanda richiede nuovo consumatore iperconnesso.",
+      "C": "Non è corretta perché descrive un esempio applicato di customer journey, mentre la domanda richiede nuovo consumatore iperconnesso.",
+      "D": "Non è corretta perché descrive un esempio applicato di touchpoint, mentre la domanda richiede nuovo consumatore iperconnesso."
     }
   },
   {
@@ -7876,6 +9616,12 @@
       "B": "un utente confronta recensioni, social, sito e negozio prima di decidere",
       "C": "seguire un cliente dalla ricerca online al consumo e al ricordo dell'esperienza",
       "D": "una recensione, un sito, un punto vendita o una email di conferma"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con prosumer: un consumatore che ricerca, richiede e produce contenuti o valore per il brand. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di nuovo consumatore iperconnesso, mentre la domanda richiede prosumer.",
+      "C": "Non è corretta perché descrive un esempio applicato di customer journey, mentre la domanda richiede prosumer.",
+      "D": "Non è corretta perché descrive un esempio applicato di touchpoint, mentre la domanda richiede prosumer."
     }
   },
   {
@@ -7892,6 +9638,12 @@
       "B": "un cliente pubblica recensioni e contenuti che guidano le scelte altrui",
       "C": "una recensione, un sito, un punto vendita o una email di conferma",
       "D": "un utente confronta recensioni, social, sito e negozio prima di decidere"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con customer journey: il processo complessivo che il cliente vive prima, durante e dopo l'accesso all'offerta. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di prosumer, mentre la domanda richiede customer journey.",
+      "C": "Non è corretta perché descrive un esempio applicato di touchpoint, mentre la domanda richiede customer journey.",
+      "D": "Non è corretta perché descrive un esempio applicato di nuovo consumatore iperconnesso, mentre la domanda richiede customer journey."
     }
   },
   {
@@ -7908,6 +9660,12 @@
       "B": "seguire un cliente dalla ricerca online al consumo e al ricordo dell'esperienza",
       "C": "passare da consapevolezza a considerazione e infine acquisto",
       "D": "un cliente pubblica recensioni e contenuti che guidano le scelte altrui"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con touchpoint: un momento di interazione tra consumatore e brand su una piattaforma o dispositivo specifico. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di customer journey, mentre la domanda richiede touchpoint.",
+      "C": "Non è corretta perché descrive un esempio applicato di funnel tradizionale, mentre la domanda richiede touchpoint.",
+      "D": "Non è corretta perché descrive un esempio applicato di prosumer, mentre la domanda richiede touchpoint."
     }
   },
   {
@@ -7924,6 +9682,12 @@
       "B": "una recensione, un sito, un punto vendita o una email di conferma",
       "C": "il consumatore aggiunge o rimuove brand durante la valutazione attiva",
       "D": "seguire un cliente dalla ricerca online al consumo e al ricordo dell'esperienza"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con funnel tradizionale: un modello lineare in cui il consumatore restringe progressivamente il set di marche fino all'acquisto. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di touchpoint, mentre la domanda richiede funnel tradizionale.",
+      "C": "Non è corretta perché descrive un esempio applicato di consumer decision journey McKinsey, mentre la domanda richiede funnel tradizionale.",
+      "D": "Non è corretta perché descrive un esempio applicato di customer journey, mentre la domanda richiede funnel tradizionale."
     }
   },
   {
@@ -7940,6 +9704,12 @@
       "B": "passare da consapevolezza a considerazione e infine acquisto",
       "C": "un cliente scopre un nuovo brand leggendo confronti e recensioni online",
       "D": "una recensione, un sito, un punto vendita o una email di conferma"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con consumer decision journey McKinsey: un percorso circolare con considerazione iniziale, valutazione attiva, momento d'acquisto ed esperienza post-acquisto. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di funnel tradizionale, mentre la domanda richiede consumer decision journey McKinsey.",
+      "C": "Non è corretta perché descrive un esempio applicato di valutazione attiva, mentre la domanda richiede consumer decision journey McKinsey.",
+      "D": "Non è corretta perché descrive un esempio applicato di touchpoint, mentre la domanda richiede consumer decision journey McKinsey."
     }
   },
   {
@@ -7978,6 +9748,12 @@
       "B": "un cliente scopre un nuovo brand leggendo confronti e recensioni online",
       "C": "dopo l'acquisto un cliente valuta l'assistenza e decide se riacquistare",
       "D": "il consumatore aggiunge o rimuove brand durante la valutazione attiva"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con loyalty loop: l'anello di fedeltà alimentato dall'esperienza post-acquisto. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di valutazione attiva, mentre la domanda richiede loyalty loop.",
+      "C": "Non è corretta perché descrive un esempio applicato di esperienza post-acquisto, mentre la domanda richiede loyalty loop.",
+      "D": "Non è corretta perché descrive un esempio applicato di consumer decision journey McKinsey, mentre la domanda richiede loyalty loop."
     }
   },
   {
@@ -7994,6 +9770,12 @@
       "B": "un'esperienza positiva porta il cliente a riacquistare senza rivalutare troppe alternative",
       "C": "vedere una pubblicità e poi cercare recensioni YouTube prima di comprare",
       "D": "un cliente scopre un nuovo brand leggendo confronti e recensioni online"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con esperienza post-acquisto: la fase in cui l'uso del prodotto costruisce aspettative e influenza futuri percorsi decisionali. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di loyalty loop, mentre la domanda richiede esperienza post-acquisto.",
+      "C": "Non è corretta perché descrive un esempio applicato di ZMOT, mentre la domanda richiede esperienza post-acquisto.",
+      "D": "Non è corretta perché descrive un esempio applicato di valutazione attiva, mentre la domanda richiede esperienza post-acquisto."
     }
   },
   {
@@ -8011,6 +9793,12 @@
       "B": "dopo l'acquisto un cliente valuta l'assistenza e decide se riacquistare",
       "C": "valutare un prodotto nella scheda e-commerce prima di metterlo nel carrello",
       "D": "un'esperienza positiva porta il cliente a riacquistare senza rivalutare troppe alternative"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con ZMOT: il momento in cui il consumatore cerca online informazioni, recensioni e confronti prima dell'acquisto. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di esperienza post-acquisto, mentre la domanda richiede ZMOT.",
+      "C": "Non è corretta perché descrive un esempio applicato di FMOT, mentre la domanda richiede ZMOT.",
+      "D": "Non è corretta perché descrive un esempio applicato di loyalty loop, mentre la domanda richiede ZMOT."
     }
   },
   {
@@ -8028,6 +9816,12 @@
       "B": "vedere una pubblicità e poi cercare recensioni YouTube prima di comprare",
       "C": "provare un prodotto a casa e condividere una recensione",
       "D": "dopo l'acquisto un cliente valuta l'assistenza e decide se riacquistare"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con FMOT: il First Moment of Truth, cioè il momento dello scaffale fisico o digitale in cui il consumatore incontra l'offerta. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di ZMOT, mentre la domanda richiede FMOT.",
+      "C": "Non è corretta perché descrive un esempio applicato di SMOT, mentre la domanda richiede FMOT.",
+      "D": "Non è corretta perché descrive un esempio applicato di esperienza post-acquisto, mentre la domanda richiede FMOT."
     }
   },
   {
@@ -8044,6 +9838,12 @@
       "B": "valutare un prodotto nella scheda e-commerce prima di metterlo nel carrello",
       "C": "sito aziendale, app, programma loyalty o pubblicità proprietaria",
       "D": "vedere una pubblicità e poi cercare recensioni YouTube prima di comprare"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con SMOT: il Second Moment of Truth, cioè l'esperienza d'uso del prodotto dopo l'acquisto. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di FMOT, mentre la domanda richiede SMOT.",
+      "C": "Non è corretta perché descrive un esempio applicato di touchpoint brand-owned, mentre la domanda richiede SMOT.",
+      "D": "Non è corretta perché descrive un esempio applicato di ZMOT, mentre la domanda richiede SMOT."
     }
   },
   {
@@ -8062,10 +9862,10 @@
       "D": "valutare un prodotto nella scheda e-commerce prima di metterlo nel carrello"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di touchpoint brand-owned in relazione con \"sito aziendale, app, programma loyalty o pubblicità proprietaria\".",
-      "B": "Non è la scelta migliore: \"provare un prodotto a casa e condividere una recensione\" descrive un concetto diverso dal concetto di touchpoint brand-owned.",
-      "C": "Non è la scelta migliore: \"un utente modifica un prodotto o cerca soluzioni autonome prima di contattare il brand\" sposta l'attenzione su un aspetto diverso dal concetto di touchpoint brand-owned.",
-      "D": "Non è la scelta migliore: \"valutare un prodotto nella scheda e-commerce prima di metterlo nel carrello\" non identifica il ruolo specifico del concetto di touchpoint brand-owned in questa domanda."
+      "A": "È corretta perché il caso resta coerente con touchpoint brand-owned: interazioni progettate e controllate direttamente dall'impresa. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di SMOT, mentre la domanda richiede touchpoint brand-owned.",
+      "C": "Non è corretta perché descrive un esempio applicato di touchpoint customer-owned, mentre la domanda richiede touchpoint brand-owned.",
+      "D": "Non è corretta perché descrive un esempio applicato di FMOT, mentre la domanda richiede touchpoint brand-owned."
     }
   },
   {
@@ -8082,6 +9882,12 @@
       "B": "sito aziendale, app, programma loyalty o pubblicità proprietaria",
       "C": "mappare bisogni, emozioni, canali e ostacoli dalla ricerca al post-acquisto",
       "D": "provare un prodotto a casa e condividere una recensione"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con touchpoint customer-owned: azioni del cliente durante la journey che l'impresa non controlla direttamente. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di touchpoint brand-owned, mentre la domanda richiede touchpoint customer-owned.",
+      "C": "Non è corretta perché descrive un esempio applicato di customer journey map, mentre la domanda richiede touchpoint customer-owned.",
+      "D": "Non è corretta perché descrive un esempio applicato di SMOT, mentre la domanda richiede touchpoint customer-owned."
     }
   },
   {
@@ -8098,6 +9904,12 @@
       "B": "un utente modifica un prodotto o cerca soluzioni autonome prima di contattare il brand",
       "C": "scegliere di mappare il percorso di una buyer persona nel pre-acquisto",
       "D": "sito aziendale, app, programma loyalty o pubblicità proprietaria"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con customer journey map: una rappresentazione narrativa e visuale dell'esperienza del cliente lungo fasi e touchpoint. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di touchpoint customer-owned, mentre la domanda richiede customer journey map.",
+      "C": "Non è corretta perché descrive un esempio applicato di scoping della journey map, mentre la domanda richiede customer journey map.",
+      "D": "Non è corretta perché descrive un esempio applicato di touchpoint brand-owned, mentre la domanda richiede customer journey map."
     }
   },
   {
@@ -8115,6 +9927,12 @@
       "B": "mappare bisogni, emozioni, canali e ostacoli dalla ricerca al post-acquisto",
       "C": "descrivere obiettivi, obiezioni e preferenze comunicative di un cliente tipo",
       "D": "un utente modifica un prodotto o cerca soluzioni autonome prima di contattare il brand"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con scoping della journey map: la fase in cui si definiscono segmento/persona e parti del percorso da coprire. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di customer journey map, mentre la domanda richiede scoping della journey map.",
+      "C": "Non è corretta perché descrive un esempio applicato di buyer persona, mentre la domanda richiede scoping della journey map.",
+      "D": "Non è corretta perché descrive un esempio applicato di touchpoint customer-owned, mentre la domanda richiede scoping della journey map."
     }
   },
   {
@@ -8132,6 +9950,12 @@
       "B": "scegliere di mappare il percorso di una buyer persona nel pre-acquisto",
       "C": "un cliente è soddisfatto se l'esperienza supera ciò che si aspettava",
       "D": "mappare bisogni, emozioni, canali e ostacoli dalla ricerca al post-acquisto"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con buyer persona: una caratterizzazione fittizia dei clienti migliori basata su informazioni reali. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di scoping della journey map, mentre la domanda richiede buyer persona.",
+      "C": "Non è corretta perché descrive un esempio applicato di disconfirmation paradigm, mentre la domanda richiede buyer persona.",
+      "D": "Non è corretta perché descrive un esempio applicato di customer journey map, mentre la domanda richiede buyer persona."
     }
   },
   {
@@ -8148,6 +9972,12 @@
       "B": "descrivere obiettivi, obiezioni e preferenze comunicative di un cliente tipo",
       "C": "un servizio sorprende positivamente il cliente oltre la promessa attesa",
       "D": "scegliere di mappare il percorso di una buyer persona nel pre-acquisto"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con disconfirmation paradigm: la soddisfazione deriva dal confronto tra performance percepita e aspettative. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di buyer persona, mentre la domanda richiede disconfirmation paradigm.",
+      "C": "Non è corretta perché descrive un esempio applicato di customer delight, mentre la domanda richiede disconfirmation paradigm.",
+      "D": "Non è corretta perché descrive un esempio applicato di scoping della journey map, mentre la domanda richiede disconfirmation paradigm."
     }
   },
   {
@@ -8166,10 +9996,10 @@
       "D": "descrivere obiettivi, obiezioni e preferenze comunicative di un cliente tipo"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di customer delight in relazione con \"un servizio sorprende positivamente il cliente oltre la promessa attesa\".",
-      "B": "Non è la scelta migliore: \"un cliente è soddisfatto se l'esperienza supera ciò che si aspettava\" descrive un concetto diverso dal concetto di customer delight.",
-      "C": "Non è la scelta migliore: \"un cliente partecipa alla community e produce contenuti sul brand\" sposta l'attenzione su un aspetto diverso dal concetto di customer delight.",
-      "D": "Non è la scelta migliore: \"descrivere obiettivi, obiezioni e preferenze comunicative di un cliente tipo\" non identifica il ruolo specifico del concetto di customer delight in questa domanda."
+      "A": "È corretta perché il caso resta coerente con customer delight: un livello di soddisfazione superiore legato al superamento significativo delle aspettative. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di disconfirmation paradigm, mentre la domanda richiede customer delight.",
+      "C": "Non è corretta perché descrive un esempio applicato di customer engagement, mentre la domanda richiede customer delight.",
+      "D": "Non è corretta perché descrive un esempio applicato di buyer persona, mentre la domanda richiede customer delight."
     }
   },
   {
@@ -8187,6 +10017,12 @@
       "B": "un servizio sorprende positivamente il cliente oltre la promessa attesa",
       "C": "un cliente è soddisfatto se l'esperienza supera ciò che si aspettava",
       "D": "descrivere obiettivi, obiezioni e preferenze comunicative di un cliente tipo"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con customer engagement: uno stato psicologico e comportamentale che include interazioni oltre l'acquisto. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di customer delight, mentre la domanda richiede customer engagement.",
+      "C": "Non è corretta perché descrive un esempio applicato di disconfirmation paradigm, mentre la domanda richiede customer engagement.",
+      "D": "Non è corretta perché descrive un esempio applicato di buyer persona, mentre la domanda richiede customer engagement."
     }
   },
   {
@@ -8203,6 +10039,12 @@
       "B": "mappare clienti, canali, ricavi e risorse di una piattaforma digitale",
       "C": "distinguere utenti free, clienti premium e aziende partner",
       "D": "app, sito e marketplace come canali per distribuire un servizio"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con business model: la logica con cui un'organizzazione crea, distribuisce e cattura valore. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di Business Model Canvas, mentre la domanda richiede business model.",
+      "C": "Non è corretta perché descrive un esempio applicato di customer segments nel Business Model Canvas, mentre la domanda richiede business model.",
+      "D": "Non è corretta perché descrive un esempio applicato di channels nel Business Model Canvas, mentre la domanda richiede business model."
     }
   },
   {
@@ -8219,6 +10061,12 @@
       "B": "un servizio crea valore con piattaforma, consegna digitale e ricavi in abbonamento",
       "C": "distinguere utenti free, clienti premium e aziende partner",
       "D": "app, sito e marketplace come canali per distribuire un servizio"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con Business Model Canvas: uno schema che descrive value proposition, segmenti, canali, relazioni, ricavi, risorse, attività, partner e costi. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di business model, mentre la domanda richiede Business Model Canvas.",
+      "C": "Non è corretta perché descrive un esempio applicato di customer segments nel Business Model Canvas, mentre la domanda richiede Business Model Canvas.",
+      "D": "Non è corretta perché descrive un esempio applicato di channels nel Business Model Canvas, mentre la domanda richiede Business Model Canvas."
     }
   },
   {
@@ -8236,6 +10084,12 @@
       "B": "mappare clienti, canali, ricavi e risorse di una piattaforma digitale",
       "C": "app, sito e marketplace come canali per distribuire un servizio",
       "D": "un servizio crea valore con piattaforma, consegna digitale e ricavi in abbonamento"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con customer segments nel Business Model Canvas: i gruppi di clienti a cui l'impresa intende offrire valore. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di Business Model Canvas, mentre la domanda richiede customer segments nel Business Model Canvas.",
+      "C": "Non è corretta perché descrive un esempio applicato di channels nel Business Model Canvas, mentre la domanda richiede customer segments nel Business Model Canvas.",
+      "D": "Non è corretta perché descrive un esempio applicato di business model, mentre la domanda richiede customer segments nel Business Model Canvas."
     }
   },
   {
@@ -8252,6 +10106,12 @@
       "B": "distinguere utenti free, clienti premium e aziende partner",
       "C": "self-service, community o assistenza dedicata per gruppi diversi di clienti",
       "D": "mappare clienti, canali, ricavi e risorse di una piattaforma digitale"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con channels nel Business Model Canvas: i modi con cui l'impresa raggiunge i segmenti e consegna la value proposition. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di customer segments nel Business Model Canvas, mentre la domanda richiede channels nel Business Model Canvas.",
+      "C": "Non è corretta perché descrive un esempio applicato di customer relationships nel Business Model Canvas, mentre la domanda richiede channels nel Business Model Canvas.",
+      "D": "Non è corretta perché descrive un esempio applicato di Business Model Canvas, mentre la domanda richiede channels nel Business Model Canvas."
     }
   },
   {
@@ -8271,10 +10131,10 @@
       "D": "distinguere utenti free, clienti premium e aziende partner"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di customer relationships nel Business Model Canvas in relazione con \"self-service, community o assistenza dedicata per gruppi diversi di clienti\".",
-      "B": "Non è la scelta migliore: \"app, sito e marketplace come canali per distribuire un servizio\" descrive un concetto diverso dal concetto di customer relationships nel Business Model Canvas.",
-      "C": "Non è la scelta migliore: \"abbonamento, advertising, commissione o affiliazione\" sposta l'attenzione su un aspetto diverso dal concetto di customer relationships nel Business Model Canvas.",
-      "D": "Non è la scelta migliore: \"distinguere utenti free, clienti premium e aziende partner\" non identifica il ruolo specifico del concetto di customer relationships nel Business Model Canvas in questa domanda."
+      "A": "È corretta perché il caso resta coerente con customer relationships nel Business Model Canvas: il tipo di relazione che l'impresa stabilisce con ciascun segmento. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di channels nel Business Model Canvas, mentre la domanda richiede customer relationships nel Business Model Canvas.",
+      "C": "Non è corretta perché descrive un esempio applicato di revenue model, mentre la domanda richiede customer relationships nel Business Model Canvas.",
+      "D": "Non è corretta perché descrive un esempio applicato di customer segments nel Business Model Canvas, mentre la domanda richiede customer relationships nel Business Model Canvas."
     }
   },
   {
@@ -8291,6 +10151,12 @@
       "B": "self-service, community o assistenza dedicata per gruppi diversi di clienti",
       "C": "costi di piattaforma, logistica, acquisizione clienti e assistenza",
       "D": "app, sito e marketplace come canali per distribuire un servizio"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con revenue model: il modo specifico in cui l'impresa genera fatturato dai segmenti serviti. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di customer relationships nel Business Model Canvas, mentre la domanda richiede revenue model.",
+      "C": "Non è corretta perché descrive un esempio applicato di cost structure, mentre la domanda richiede revenue model.",
+      "D": "Non è corretta perché descrive un esempio applicato di channels nel Business Model Canvas, mentre la domanda richiede revenue model."
     }
   },
   {
@@ -8307,6 +10173,12 @@
       "B": "abbonamento, advertising, commissione o affiliazione",
       "C": "Spotify offre accesso gratuito limitato e piano premium",
       "D": "self-service, community o assistenza dedicata per gruppi diversi di clienti"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con cost structure: l'insieme dei principali costi necessari per far funzionare il business model. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di revenue model, mentre la domanda richiede cost structure.",
+      "C": "Non è corretta perché descrive un esempio applicato di freemium, mentre la domanda richiede cost structure.",
+      "D": "Non è corretta perché descrive un esempio applicato di customer relationships nel Business Model Canvas, mentre la domanda richiede cost structure."
     }
   },
   {
@@ -8323,6 +10195,12 @@
       "B": "costi di piattaforma, logistica, acquisizione clienti e assistenza",
       "C": "un sito gratuito guadagna mostrando annunci a target specifici",
       "D": "abbonamento, advertising, commissione o affiliazione"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con freemium: un modello in cui una versione base gratuita convive con funzionalità premium a pagamento. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di cost structure, mentre la domanda richiede freemium.",
+      "C": "Non è corretta perché descrive un esempio applicato di advertising based revenue, mentre la domanda richiede freemium.",
+      "D": "Non è corretta perché descrive un esempio applicato di revenue model, mentre la domanda richiede freemium."
     }
   },
   {
@@ -8340,6 +10218,12 @@
       "B": "Spotify offre accesso gratuito limitato e piano premium",
       "C": "un blog riceve una commissione per acquisti generati tramite link affiliato",
       "D": "costi di piattaforma, logistica, acquisizione clienti e assistenza"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con advertising based revenue: un modello di ricavo basato sulla vendita di spazi o visibilità pubblicitaria. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di freemium, mentre la domanda richiede advertising based revenue.",
+      "C": "Non è corretta perché descrive un esempio applicato di affiliation, mentre la domanda richiede advertising based revenue.",
+      "D": "Non è corretta perché descrive un esempio applicato di cost structure, mentre la domanda richiede advertising based revenue."
     }
   },
   {
@@ -8356,6 +10240,12 @@
       "B": "un sito gratuito guadagna mostrando annunci a target specifici",
       "C": "una piattaforma incassa una percentuale per ogni vendita conclusa",
       "D": "Spotify offre accesso gratuito limitato e piano premium"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con affiliation: un modello in cui si genera ricavo indirizzando traffico o vendite verso un altro soggetto. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di advertising based revenue, mentre la domanda richiede affiliation.",
+      "C": "Non è corretta perché descrive un esempio applicato di commission based model, mentre la domanda richiede affiliation.",
+      "D": "Non è corretta perché descrive un esempio applicato di freemium, mentre la domanda richiede affiliation."
     }
   },
   {
@@ -8374,10 +10264,10 @@
       "D": "un sito gratuito guadagna mostrando annunci a target specifici"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di commission based model in relazione con \"una piattaforma incassa una percentuale per ogni vendita conclusa\".",
-      "B": "Non è la scelta migliore: \"un blog riceve una commissione per acquisti generati tramite link affiliato\" descrive un concetto diverso dal concetto di commission based model.",
-      "C": "Non è la scelta migliore: \"Vinted ha bisogno sia di venditori sia di acquirenti\" sposta l'attenzione su un aspetto diverso dal concetto di commission based model.",
-      "D": "Non è la scelta migliore: \"un sito gratuito guadagna mostrando annunci a target specifici\" non identifica il ruolo specifico del concetto di commission based model in questa domanda."
+      "A": "È corretta perché il caso resta coerente con commission based model: un modello in cui la piattaforma trattiene una commissione sulle transazioni abilitate. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di affiliation, mentre la domanda richiede commission based model.",
+      "C": "Non è corretta perché descrive un esempio applicato di two-sided platform, mentre la domanda richiede commission based model.",
+      "D": "Non è corretta perché descrive un esempio applicato di advertising based revenue, mentre la domanda richiede commission based model."
     }
   },
   {
@@ -8395,6 +10285,12 @@
       "B": "una piattaforma incassa una percentuale per ogni vendita conclusa",
       "C": "un'app di messaggistica diventa più utile quando la usano più persone",
       "D": "un blog riceve una commissione per acquisti generati tramite link affiliato"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con two-sided platform: una piattaforma che mette in relazione due gruppi distinti di utenti che traggono beneficio reciproco. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di commission based model, mentre la domanda richiede two-sided platform.",
+      "C": "Non è corretta perché descrive un esempio applicato di network effect, mentre la domanda richiede two-sided platform.",
+      "D": "Non è corretta perché descrive un esempio applicato di affiliation, mentre la domanda richiede two-sided platform."
     }
   },
   {
@@ -8412,6 +10308,12 @@
       "B": "Vinted ha bisogno sia di venditori sia di acquirenti",
       "C": "una piattaforma abilita accesso temporaneo o scambio tra utenti",
       "D": "una piattaforma incassa una percentuale per ogni vendita conclusa"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con network effect: l'aumento di valore di una piattaforma al crescere del numero di utenti. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di two-sided platform, mentre la domanda richiede network effect.",
+      "C": "Non è corretta perché descrive un esempio applicato di sharing economy, mentre la domanda richiede network effect.",
+      "D": "Non è corretta perché descrive un esempio applicato di commission based model, mentre la domanda richiede network effect."
     }
   },
   {
@@ -8428,6 +10330,12 @@
       "B": "un'app di messaggistica diventa più utile quando la usano più persone",
       "C": "un negozio online che vende prodotti propri senza interazione tra utenti",
       "D": "Vinted ha bisogno sia di venditori sia di acquirenti"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con sharing economy: un insieme di piattaforme digitali commerciali che facilitano lo scambio di beni e servizi tra attori. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di network effect, mentre la domanda richiede sharing economy.",
+      "C": "Non è corretta perché sposta la risposta fuori dal perimetro di sharing economy: non chiarisce un esempio applicato secondo la fonte del corso.",
+      "D": "Non è corretta perché descrive un esempio applicato di two-sided platform, mentre la domanda richiede sharing economy."
     }
   },
   {
@@ -8444,6 +10352,12 @@
       "B": "una piattaforma abilita accesso temporaneo o scambio tra utenti",
       "C": "piattaforme come Airbnb o Uber presentano accesso peer-to-peer ma anche pagamento",
       "D": "un'app di messaggistica diventa più utile quando la usano più persone"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con pure sharing: una pratica orientata alla condivisione con bassa enfasi su denaro e transazione bilanciata. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di sharing economy, mentre la domanda richiede pure sharing.",
+      "C": "Non è corretta perché descrive un esempio applicato di dual-mode sharing, mentre la domanda richiede pure sharing.",
+      "D": "Non è corretta perché descrive un esempio applicato di network effect, mentre la domanda richiede pure sharing."
     }
   },
   {
@@ -8460,6 +10374,12 @@
       "B": "utenti che si scambiano beni gratuitamente in una community",
       "C": "un acquisto online con scheda prodotto, checkout, pagamento e assistenza post-vendita",
       "D": "una piattaforma abilita accesso temporaneo o scambio tra utenti"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con dual-mode sharing: una pratica che combina elementi di sharing e di exchange. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di pure sharing, mentre la domanda richiede dual-mode sharing.",
+      "C": "Non è corretta perché descrive un esempio applicato di e-commerce, mentre la domanda richiede dual-mode sharing.",
+      "D": "Non è corretta perché descrive un esempio applicato di sharing economy, mentre la domanda richiede dual-mode sharing."
     }
   },
   {
@@ -8478,10 +10398,10 @@
       "D": "utenti che si scambiano beni gratuitamente in una community"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di e-commerce in relazione con \"un acquisto online con scheda prodotto, checkout, pagamento e assistenza post-vendita\".",
-      "B": "Non è la scelta migliore: \"piattaforme come Airbnb o Uber presentano accesso peer-to-peer ma anche pagamento\" descrive un concetto diverso dal concetto di e-commerce.",
-      "C": "Non è la scelta migliore: \"una piattaforma che vende forniture aziendali ad altre imprese\" sposta l'attenzione su un aspetto diverso dal concetto di e-commerce.",
-      "D": "Non è la scelta migliore: \"utenti che si scambiano beni gratuitamente in una community\" non identifica il ruolo specifico del concetto di e-commerce in questa domanda."
+      "A": "È corretta perché il caso resta coerente con e-commerce: l'insieme delle attività commerciali prima, durante e dopo lo scambio realizzate tramite sistemi digitali. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di dual-mode sharing, mentre la domanda richiede e-commerce.",
+      "C": "Non è corretta perché descrive un esempio applicato di B2B e-commerce, mentre la domanda richiede e-commerce.",
+      "D": "Non è corretta perché descrive un esempio applicato di pure sharing, mentre la domanda richiede e-commerce."
     }
   },
   {
@@ -8498,6 +10418,12 @@
       "B": "un acquisto online con scheda prodotto, checkout, pagamento e assistenza post-vendita",
       "C": "un cliente compra scarpe dal sito di un retailer",
       "D": "piattaforme come Airbnb o Uber presentano accesso peer-to-peer ma anche pagamento"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con B2B e-commerce: commercio elettronico tra due organizzazioni. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di e-commerce, mentre la domanda richiede B2B e-commerce.",
+      "C": "Non è corretta perché descrive un esempio applicato di B2C e-commerce, mentre la domanda richiede B2B e-commerce.",
+      "D": "Non è corretta perché descrive un esempio applicato di dual-mode sharing, mentre la domanda richiede B2B e-commerce."
     }
   },
   {
@@ -8514,6 +10440,12 @@
       "B": "una piattaforma che vende forniture aziendali ad altre imprese",
       "C": "un privato vende un oggetto usato a un altro privato su una piattaforma",
       "D": "un acquisto online con scheda prodotto, checkout, pagamento e assistenza post-vendita"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con B2C e-commerce: commercio elettronico tra impresa fornitrice e acquirente finale. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di B2B e-commerce, mentre la domanda richiede B2C e-commerce.",
+      "C": "Non è corretta perché descrive un esempio applicato di C2C e-commerce, mentre la domanda richiede B2C e-commerce.",
+      "D": "Non è corretta perché descrive un esempio applicato di e-commerce, mentre la domanda richiede B2C e-commerce."
     }
   },
   {
@@ -8530,6 +10462,12 @@
       "B": "un cliente compra scarpe dal sito di un retailer",
       "C": "un utente propone un'invenzione brevettata o condizioni di prezzo a un'azienda",
       "D": "una piattaforma che vende forniture aziendali ad altre imprese"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con C2C e-commerce: commercio elettronico tra consumatori privati. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di B2C e-commerce, mentre la domanda richiede C2C e-commerce.",
+      "C": "Non è corretta perché descrive un esempio applicato di C2B e-commerce, mentre la domanda richiede C2C e-commerce.",
+      "D": "Non è corretta perché descrive un esempio applicato di B2B e-commerce, mentre la domanda richiede C2C e-commerce."
     }
   },
   {
@@ -8546,6 +10484,12 @@
       "B": "un privato vende un oggetto usato a un altro privato su una piattaforma",
       "C": "utenti condividono recensioni e consigli dentro un percorso di shopping online",
       "D": "un cliente compra scarpe dal sito di un retailer"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con C2B e-commerce: una relazione in cui l'individuo offre beni, idee o condizioni a un'organizzazione. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di C2C e-commerce, mentre la domanda richiede C2B e-commerce.",
+      "C": "Non è corretta perché descrive un esempio applicato di social commerce, mentre la domanda richiede C2B e-commerce.",
+      "D": "Non è corretta perché descrive un esempio applicato di B2C e-commerce, mentre la domanda richiede C2B e-commerce."
     }
   },
   {
@@ -8563,6 +10507,12 @@
       "B": "un utente propone un'invenzione brevettata o condizioni di prezzo a un'azienda",
       "C": "recensioni, trasparenza e sicurezza aiutano il primo acquisto",
       "D": "un privato vende un oggetto usato a un altro privato su una piattaforma"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con social commerce: un'estensione del B2C in cui i consumatori interagiscono per scoprire prodotti e decidere insieme. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di C2B e-commerce, mentre la domanda richiede social commerce.",
+      "C": "Non è corretta perché descrive un esempio applicato di fiducia nell'e-commerce, mentre la domanda richiede social commerce.",
+      "D": "Non è corretta perché descrive un esempio applicato di C2C e-commerce, mentre la domanda richiede social commerce."
     }
   },
   {
@@ -8582,10 +10532,10 @@
       "D": "un utente propone un'invenzione brevettata o condizioni di prezzo a un'azienda"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di fiducia nell'e-commerce in relazione con \"recensioni, trasparenza e sicurezza aiutano il primo acquisto\".",
-      "B": "Non è la scelta migliore: \"utenti condividono recensioni e consigli dentro un percorso di shopping online\" descrive un concetto diverso dal concetto di fiducia nell'e-commerce.",
-      "C": "Non è la scelta migliore: \"foto degli utenti, video prodotto e AR riducono l'incertezza\" sposta l'attenzione su un aspetto diverso dal concetto di fiducia nell'e-commerce.",
-      "D": "Non è la scelta migliore: \"un utente propone un'invenzione brevettata o condizioni di prezzo a un'azienda\" non identifica il ruolo specifico del concetto di fiducia nell'e-commerce in questa domanda."
+      "A": "È corretta perché il caso resta coerente con fiducia nell'e-commerce: la riduzione del rischio percepito prima e dopo l'acquisto online. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di social commerce, mentre la domanda richiede fiducia nell'e-commerce.",
+      "C": "Non è corretta perché descrive un esempio applicato di distanza fisica nell'e-commerce, mentre la domanda richiede fiducia nell'e-commerce.",
+      "D": "Non è corretta perché descrive un esempio applicato di C2B e-commerce, mentre la domanda richiede fiducia nell'e-commerce."
     }
   },
   {
@@ -8602,6 +10552,12 @@
       "B": "recensioni, trasparenza e sicurezza aiutano il primo acquisto",
       "C": "permettere checkout come ospite riduce la barriera all'acquisto",
       "D": "utenti condividono recensioni e consigli dentro un percorso di shopping online"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con distanza fisica nell'e-commerce: la mancanza di contatto diretto con prodotto e venditore che può ostacolare l'acquisto. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di fiducia nell'e-commerce, mentre la domanda richiede distanza fisica nell'e-commerce.",
+      "C": "Non è corretta perché descrive un esempio applicato di registrazione obbligatoria, mentre la domanda richiede distanza fisica nell'e-commerce.",
+      "D": "Non è corretta perché descrive un esempio applicato di social commerce, mentre la domanda richiede distanza fisica nell'e-commerce."
     }
   },
   {
@@ -8619,6 +10575,12 @@
       "B": "foto degli utenti, video prodotto e AR riducono l'incertezza",
       "C": "un carrello chiaro mostra prezzo finale, spedizione e passaggi successivi",
       "D": "recensioni, trasparenza e sicurezza aiutano il primo acquisto"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con registrazione obbligatoria: una possibile frizione nel percorso d'acquisto online. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di distanza fisica nell'e-commerce, mentre la domanda richiede registrazione obbligatoria.",
+      "C": "Non è corretta perché descrive un esempio applicato di carrello e-commerce, mentre la domanda richiede registrazione obbligatoria.",
+      "D": "Non è corretta perché descrive un esempio applicato di fiducia nell'e-commerce, mentre la domanda richiede registrazione obbligatoria."
     }
   },
   {
@@ -8636,6 +10598,12 @@
       "B": "permettere checkout come ospite riduce la barriera all'acquisto",
       "C": "valutare quanto costa trasformare campagne e visite in nuovi acquirenti",
       "D": "foto degli utenti, video prodotto e AR riducono l'incertezza"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con carrello e-commerce: la pagina cruciale in cui l'utente verifica prodotti, costi e decisione prima dell'acquisto. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di registrazione obbligatoria, mentre la domanda richiede carrello e-commerce.",
+      "C": "Non è corretta perché descrive un esempio applicato di costo di acquisizione cliente, mentre la domanda richiede carrello e-commerce.",
+      "D": "Non è corretta perché descrive un esempio applicato di distanza fisica nell'e-commerce, mentre la domanda richiede carrello e-commerce."
     }
   },
   {
@@ -8653,6 +10621,12 @@
       "B": "un carrello chiaro mostra prezzo finale, spedizione e passaggi successivi",
       "C": "un certificato SSL protegge lo scambio di informazioni tra cliente e sito",
       "D": "permettere checkout come ospite riduce la barriera all'acquisto"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con costo di acquisizione cliente: il costo sostenuto per ottenere un nuovo cliente. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di carrello e-commerce, mentre la domanda richiede costo di acquisizione cliente.",
+      "C": "Non è corretta perché descrive un esempio applicato di certificato digitale, mentre la domanda richiede costo di acquisizione cliente.",
+      "D": "Non è corretta perché descrive un esempio applicato di registrazione obbligatoria, mentre la domanda richiede costo di acquisizione cliente."
     }
   },
   {
@@ -8670,6 +10644,12 @@
       "B": "valutare quanto costa trasformare campagne e visite in nuovi acquirenti",
       "C": "chat, FAQ e supporto post-vendita aiutano durante acquisto e reso",
       "D": "un carrello chiaro mostra prezzo finale, spedizione e passaggi successivi"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con certificato digitale: uno strumento usato per garantire identità del sito e sicurezza del canale di trasferimento dati. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di costo di acquisizione cliente, mentre la domanda richiede certificato digitale.",
+      "C": "Non è corretta perché descrive un esempio applicato di customer care online, mentre la domanda richiede certificato digitale.",
+      "D": "Non è corretta perché descrive un esempio applicato di carrello e-commerce, mentre la domanda richiede certificato digitale."
     }
   },
   {
@@ -8689,10 +10669,10 @@
       "D": "un carrello chiaro mostra prezzo finale, spedizione e passaggi successivi"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di customer care online in relazione con \"chat, FAQ e supporto post-vendita aiutano durante acquisto e reso\".",
-      "B": "Non è la scelta migliore: \"un certificato SSL protegge lo scambio di informazioni tra cliente e sito\" descrive un concetto diverso dal concetto di customer care online.",
-      "C": "Non è la scelta migliore: \"valutare quanto costa trasformare campagne e visite in nuovi acquirenti\" sposta l'attenzione su un aspetto diverso dal concetto di customer care online.",
-      "D": "Non è la scelta migliore: \"un carrello chiaro mostra prezzo finale, spedizione e passaggi successivi\" non identifica il ruolo specifico del concetto di customer care online in questa domanda."
+      "A": "È corretta perché il caso resta coerente con customer care online: l'assistenza che accompagna l'utente nelle fasi delicate del rapporto con lo store digitale. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di certificato digitale, mentre la domanda richiede customer care online.",
+      "C": "Non è corretta perché descrive un esempio applicato di costo di acquisizione cliente, mentre la domanda richiede customer care online.",
+      "D": "Non è corretta perché descrive un esempio applicato di carrello e-commerce, mentre la domanda richiede customer care online."
     }
   },
   {
@@ -8709,6 +10689,12 @@
       "B": "convertire fatture cartacee in fatture elettroniche o CD in MP3",
       "C": "usare un CRM per gestire clienti o vendere musica online tramite iTunes",
       "D": "passare dalla vendita di musica online allo streaming come Spotify"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con innovazione: l'applicazione di nuove idee per migliorare prodotti, servizi o processi generando valore. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di digitalizzazione, mentre la domanda richiede innovazione.",
+      "C": "Non è corretta perché descrive un esempio applicato di digitalizzazione dei processi, mentre la domanda richiede innovazione.",
+      "D": "Non è corretta perché descrive un esempio applicato di trasformazione digitale, mentre la domanda richiede innovazione."
     }
   },
   {
@@ -8725,6 +10711,12 @@
       "B": "Netflix come innovazione del modello di fruizione rispetto al noleggio fisico",
       "C": "usare un CRM per gestire clienti o vendere musica online tramite iTunes",
       "D": "passare dalla vendita di musica online allo streaming come Spotify"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con digitalizzazione: la conversione di documenti o informazioni in formato digitale. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di innovazione, mentre la domanda richiede digitalizzazione.",
+      "C": "Non è corretta perché descrive un esempio applicato di digitalizzazione dei processi, mentre la domanda richiede digitalizzazione.",
+      "D": "Non è corretta perché descrive un esempio applicato di trasformazione digitale, mentre la domanda richiede digitalizzazione."
     }
   },
   {
@@ -8741,6 +10733,12 @@
       "B": "convertire fatture cartacee in fatture elettroniche o CD in MP3",
       "C": "passare dalla vendita di musica online allo streaming come Spotify",
       "D": "Netflix come innovazione del modello di fruizione rispetto al noleggio fisico"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con digitalizzazione dei processi: l'automazione e ottimizzazione di processi aziendali tramite strumenti digitali. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di digitalizzazione, mentre la domanda richiede digitalizzazione dei processi.",
+      "C": "Non è corretta perché descrive un esempio applicato di trasformazione digitale, mentre la domanda richiede digitalizzazione dei processi.",
+      "D": "Non è corretta perché descrive un esempio applicato di innovazione, mentre la domanda richiede digitalizzazione dei processi."
     }
   },
   {
@@ -8758,6 +10756,12 @@
       "B": "usare un CRM per gestire clienti o vendere musica online tramite iTunes",
       "C": "chiarire il beneficio unico per un segmento e contesto d'acquisto specifico",
       "D": "convertire fatture cartacee in fatture elettroniche o CD in MP3"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con trasformazione digitale: un cambiamento strategico e culturale che ridefinisce come l'azienda opera e genera valore attraverso il digitale. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di digitalizzazione dei processi, mentre la domanda richiede trasformazione digitale.",
+      "C": "Non è corretta perché descrive un esempio applicato di USP, mentre la domanda richiede trasformazione digitale.",
+      "D": "Non è corretta perché descrive un esempio applicato di digitalizzazione, mentre la domanda richiede trasformazione digitale."
     }
   },
   {
@@ -8775,6 +10779,12 @@
       "B": "passare dalla vendita di musica online allo streaming come Spotify",
       "C": "un claim pubblicitario che comunica unicità senza provarla strutturalmente",
       "D": "usare un CRM per gestire clienti o vendere musica online tramite iTunes"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con USP: la promessa distintiva che spiega perché scegliere un'offerta rispetto a un'alternativa specifica. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di trasformazione digitale, mentre la domanda richiede USP.",
+      "C": "Non è corretta perché descrive un esempio applicato di USP comunicativa, mentre la domanda richiede USP.",
+      "D": "Non è corretta perché descrive un esempio applicato di digitalizzazione dei processi, mentre la domanda richiede USP."
     }
   },
   {
@@ -8794,10 +10804,10 @@
       "D": "passare dalla vendita di musica online allo streaming come Spotify"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di USP comunicativa in relazione con \"un claim pubblicitario che comunica unicità senza provarla strutturalmente\".",
-      "B": "Non è la scelta migliore: \"chiarire il beneficio unico per un segmento e contesto d'acquisto specifico\" descrive un concetto diverso dal concetto di USP comunicativa.",
-      "C": "Non è la scelta migliore: \"Amazon riduce sistematicamente l'attrito nell'esperienza d'acquisto\" sposta l'attenzione su un aspetto diverso dal concetto di USP comunicativa.",
-      "D": "Non è la scelta migliore: \"passare dalla vendita di musica online allo streaming come Spotify\" non identifica il ruolo specifico del concetto di USP comunicativa in questa domanda."
+      "A": "È corretta perché il caso resta coerente con USP comunicativa: ciò che l'azienda dichiara di essere, spesso più superficiale e imitabile. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di USP, mentre la domanda richiede USP comunicativa.",
+      "C": "Non è corretta perché descrive un esempio applicato di USP strutturale, mentre la domanda richiede USP comunicativa.",
+      "D": "Non è corretta perché descrive un esempio applicato di trasformazione digitale, mentre la domanda richiede USP comunicativa."
     }
   },
   {
@@ -8815,6 +10825,12 @@
       "B": "un claim pubblicitario che comunica unicità senza provarla strutturalmente",
       "C": "un utente scopre un problema tramite contenuti o advertising prima di cercare una soluzione",
       "D": "chiarire il beneficio unico per un segmento e contesto d'acquisto specifico"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con USP strutturale: ciò che genera un'asimmetria competitiva reale percepita dal mercato. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di USP comunicativa, mentre la domanda richiede USP strutturale.",
+      "C": "Non è corretta perché descrive un esempio applicato di domanda latente, mentre la domanda richiede USP strutturale.",
+      "D": "Non è corretta perché descrive un esempio applicato di USP, mentre la domanda richiede USP strutturale."
     }
   },
   {
@@ -8832,6 +10848,12 @@
       "B": "Amazon riduce sistematicamente l'attrito nell'esperienza d'acquisto",
       "C": "digitare su Google una soluzione specifica a un problema già riconosciuto",
       "D": "un claim pubblicitario che comunica unicità senza provarla strutturalmente"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con domanda latente: la situazione in cui il consumatore non sa ancora di aver bisogno del prodotto. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di USP strutturale, mentre la domanda richiede domanda latente.",
+      "C": "Non è corretta perché descrive un esempio applicato di domanda consapevole, mentre la domanda richiede domanda latente.",
+      "D": "Non è corretta perché descrive un esempio applicato di USP comunicativa, mentre la domanda richiede domanda latente."
     }
   },
   {
@@ -8849,6 +10871,12 @@
       "B": "un utente scopre un problema tramite contenuti o advertising prima di cercare una soluzione",
       "C": "visitatori che arrivano da query coerenti con l'offerta e il bisogno",
       "D": "Amazon riduce sistematicamente l'attrito nell'esperienza d'acquisto"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con domanda consapevole: la situazione in cui l'utente sa cosa vuole e cerca attivamente una soluzione. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di domanda latente, mentre la domanda richiede domanda consapevole.",
+      "C": "Non è corretta perché descrive un esempio applicato di traffico qualificato, mentre la domanda richiede domanda consapevole.",
+      "D": "Non è corretta perché descrive un esempio applicato di USP strutturale, mentre la domanda richiede domanda consapevole."
     }
   },
   {
@@ -8866,6 +10894,12 @@
       "B": "digitare su Google una soluzione specifica a un problema già riconosciuto",
       "C": "ottimizzare titoli, contenuti, struttura tecnica e segnali esterni per la SERP",
       "D": "un utente scopre un problema tramite contenuti o advertising prima di cercare una soluzione"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con traffico qualificato: il flusso di utenti in target e realmente interessati al prodotto o servizio. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di domanda consapevole, mentre la domanda richiede traffico qualificato.",
+      "C": "Non è corretta perché descrive un esempio applicato di SEO, mentre la domanda richiede traffico qualificato.",
+      "D": "Non è corretta perché descrive un esempio applicato di domanda latente, mentre la domanda richiede traffico qualificato."
     }
   },
   {
@@ -8883,6 +10917,12 @@
       "B": "visitatori che arrivano da query coerenti con l'offerta e il bisogno",
       "C": "pagare annunci testuali sopra i risultati organici per una keyword",
       "D": "digitare su Google una soluzione specifica a un problema già riconosciuto"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con SEO: l'ottimizzazione del sito e dei contenuti per ottenere traffico organico dai motori di ricerca. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di traffico qualificato, mentre la domanda richiede SEO.",
+      "C": "Non è corretta perché descrive un esempio applicato di SEM e SEA, mentre la domanda richiede SEO.",
+      "D": "Non è corretta perché descrive un esempio applicato di domanda consapevole, mentre la domanda richiede SEO."
     }
   },
   {
@@ -8902,10 +10942,10 @@
       "D": "visitatori che arrivano da query coerenti con l'offerta e il bisogno"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di SEM e SEA in relazione con \"pagare annunci testuali sopra i risultati organici per una keyword\".",
-      "B": "Non è la scelta migliore: \"ottimizzare titoli, contenuti, struttura tecnica e segnali esterni per la SERP\" descrive un concetto diverso dal concetto di SEM e SEA.",
-      "C": "Non è la scelta migliore: \"Googlebot visita pagine e segue link di un sito\" sposta l'attenzione su un aspetto diverso dal concetto di SEM e SEA.",
-      "D": "Non è la scelta migliore: \"visitatori che arrivano da query coerenti con l'offerta e il bisogno\" non identifica il ruolo specifico del concetto di SEM e SEA in questa domanda."
+      "A": "È corretta perché il caso resta coerente con SEM e SEA: attività di marketing sui motori di ricerca, in particolare visibilità a pagamento tramite annunci. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di SEO, mentre la domanda richiede SEM e SEA.",
+      "C": "Non è corretta perché descrive un esempio applicato di crawling, mentre la domanda richiede SEM e SEA.",
+      "D": "Non è corretta perché descrive un esempio applicato di traffico qualificato, mentre la domanda richiede SEM e SEA."
     }
   },
   {
@@ -8922,6 +10962,12 @@
       "B": "pagare annunci testuali sopra i risultati organici per una keyword",
       "C": "una pagina accessibile viene salvata nel database del motore di ricerca",
       "D": "ottimizzare titoli, contenuti, struttura tecnica e segnali esterni per la SERP"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con crawling: la fase in cui i bot del motore di ricerca scansionano URL, codice e contenuti. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di SEM e SEA, mentre la domanda richiede crawling.",
+      "C": "Non è corretta perché descrive un esempio applicato di indexing, mentre la domanda richiede crawling.",
+      "D": "Non è corretta perché descrive un esempio applicato di SEO, mentre la domanda richiede crawling."
     }
   },
   {
@@ -8938,6 +10984,12 @@
       "B": "Googlebot visita pagine e segue link di un sito",
       "C": "una pagina già indicizzata viene mostrata più in alto perché risponde meglio all'intento",
       "D": "pagare annunci testuali sopra i risultati organici per una keyword"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con indexing: la fase in cui il motore archivia e organizza il contenuto trovato nell'indice. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di crawling, mentre la domanda richiede indexing.",
+      "C": "Non è corretta perché descrive un esempio applicato di ranking, mentre la domanda richiede indexing.",
+      "D": "Non è corretta perché descrive un esempio applicato di SEM e SEA, mentre la domanda richiede indexing."
     }
   },
   {
@@ -8954,6 +11006,12 @@
       "B": "una pagina accessibile viene salvata nel database del motore di ricerca",
       "C": "migliorare titoli, URL, heading, contenuto e struttura informativa",
       "D": "Googlebot visita pagine e segue link di un sito"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con ranking: la fase in cui il motore ordina le pagine in base alla pertinenza rispetto alla query. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di indexing, mentre la domanda richiede ranking.",
+      "C": "Non è corretta perché descrive un esempio applicato di SEO on-page, mentre la domanda richiede ranking.",
+      "D": "Non è corretta perché descrive un esempio applicato di crawling, mentre la domanda richiede ranking."
     }
   },
   {
@@ -8971,6 +11029,12 @@
       "B": "una pagina già indicizzata viene mostrata più in alto perché risponde meglio all'intento",
       "C": "un sito autorevole linka una guida del brand e ne rafforza la credibilità",
       "D": "una pagina accessibile viene salvata nel database del motore di ricerca"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con SEO on-page: l'ottimizzazione di pagine web e contenuti interni al sito. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di ranking, mentre la domanda richiede SEO on-page.",
+      "C": "Non è corretta perché descrive un esempio applicato di SEO off-page, mentre la domanda richiede SEO on-page.",
+      "D": "Non è corretta perché descrive un esempio applicato di indexing, mentre la domanda richiede SEO on-page."
     }
   },
   {
@@ -8988,6 +11052,12 @@
       "B": "migliorare titoli, URL, heading, contenuto e struttura informativa",
       "C": "migliorare codice, velocità, sitemap o problemi di indicizzazione",
       "D": "una pagina già indicizzata viene mostrata più in alto perché risponde meglio all'intento"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con SEO off-page: le azioni esterne al sito che contribuiscono al posizionamento. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di SEO on-page, mentre la domanda richiede SEO off-page.",
+      "C": "Non è corretta perché descrive un esempio applicato di SEO tecnica, mentre la domanda richiede SEO off-page.",
+      "D": "Non è corretta perché descrive un esempio applicato di ranking, mentre la domanda richiede SEO off-page."
     }
   },
   {
@@ -9007,10 +11077,10 @@
       "D": "migliorare titoli, URL, heading, contenuto e struttura informativa"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di SEO tecnica in relazione con \"migliorare codice, velocità, sitemap o problemi di indicizzazione\".",
-      "B": "Non è la scelta migliore: \"un sito autorevole linka una guida del brand e ne rafforza la credibilità\" descrive un concetto diverso dal concetto di SEO tecnica.",
-      "C": "Non è la scelta migliore: \"capire se l'utente vuole informarsi, confrontare o comprare\" sposta l'attenzione su un aspetto diverso dal concetto di SEO tecnica.",
-      "D": "Non è la scelta migliore: \"migliorare titoli, URL, heading, contenuto e struttura informativa\" non identifica il ruolo specifico del concetto di SEO tecnica in questa domanda."
+      "A": "È corretta perché il caso resta coerente con SEO tecnica: l'ottimizzazione degli aspetti tecnici del sito che permettono scansione, indicizzazione e buona esperienza. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di SEO off-page, mentre la domanda richiede SEO tecnica.",
+      "C": "Non è corretta perché descrive un esempio applicato di search intent, mentre la domanda richiede SEO tecnica.",
+      "D": "Non è corretta perché descrive un esempio applicato di SEO on-page, mentre la domanda richiede SEO tecnica."
     }
   },
   {
@@ -9028,6 +11098,12 @@
       "B": "migliorare codice, velocità, sitemap o problemi di indicizzazione",
       "C": "cercare 'che cos'è il content marketing'",
       "D": "un sito autorevole linka una guida del brand e ne rafforza la credibilità"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con search intent: il motivo principale per cui un utente esegue una ricerca online. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di SEO tecnica, mentre la domanda richiede search intent.",
+      "C": "Non è corretta perché descrive un esempio applicato di intento informazionale, mentre la domanda richiede search intent.",
+      "D": "Non è corretta perché descrive un esempio applicato di SEO off-page, mentre la domanda richiede search intent."
     }
   },
   {
@@ -9045,6 +11121,12 @@
       "B": "capire se l'utente vuole informarsi, confrontare o comprare",
       "C": "digitare il nome di una marca per raggiungere il suo sito ufficiale",
       "D": "migliorare codice, velocità, sitemap o problemi di indicizzazione"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con intento informazionale: un intento di ricerca in cui l'utente cerca una risposta o spiegazione. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di search intent, mentre la domanda richiede intento informazionale.",
+      "C": "Non è corretta perché descrive un esempio applicato di intento navigazionale, mentre la domanda richiede intento informazionale.",
+      "D": "Non è corretta perché descrive un esempio applicato di SEO tecnica, mentre la domanda richiede intento informazionale."
     }
   },
   {
@@ -9062,6 +11144,12 @@
       "B": "cercare 'che cos'è il content marketing'",
       "C": "cercare 'miglior CRM per piccole imprese confronto prezzi'",
       "D": "capire se l'utente vuole informarsi, confrontare o comprare"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con intento navigazionale: un intento in cui l'utente cerca un sito, una pagina o un luogo specifico. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di intento informazionale, mentre la domanda richiede intento navigazionale.",
+      "C": "Non è corretta perché descrive un esempio applicato di intento commerciale, mentre la domanda richiede intento navigazionale.",
+      "D": "Non è corretta perché descrive un esempio applicato di search intent, mentre la domanda richiede intento navigazionale."
     }
   },
   {
@@ -9079,6 +11167,12 @@
       "B": "digitare il nome di una marca per raggiungere il suo sito ufficiale",
       "C": "cercare 'compra scarpe running numero 42 spedizione rapida'",
       "D": "cercare 'che cos'è il content marketing'"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con intento commerciale: un intento in cui l'utente sta investigando e confrontando prima dell'acquisto. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di intento navigazionale, mentre la domanda richiede intento commerciale.",
+      "C": "Non è corretta perché descrive un esempio applicato di intento transazionale, mentre la domanda richiede intento commerciale.",
+      "D": "Non è corretta perché descrive un esempio applicato di intento informazionale, mentre la domanda richiede intento commerciale."
     }
   },
   {
@@ -9096,6 +11190,12 @@
       "B": "cercare 'miglior CRM per piccole imprese confronto prezzi'",
       "C": "l'utente ottiene una sintesi direttamente in SERP senza aprire subito un risultato",
       "D": "digitare il nome di una marca per raggiungere il suo sito ufficiale"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con intento transazionale: un intento in cui l'utente è già orientato a compiere un acquisto o un'azione. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di intento commerciale, mentre la domanda richiede intento transazionale.",
+      "C": "Non è corretta perché descrive un esempio applicato di AI Overview, mentre la domanda richiede intento transazionale.",
+      "D": "Non è corretta perché descrive un esempio applicato di intento navigazionale, mentre la domanda richiede intento transazionale."
     }
   },
   {
@@ -9115,10 +11215,10 @@
       "D": "cercare 'miglior CRM per piccole imprese confronto prezzi'"
     },
     "rationales": {
-      "A": "È corretta: mette il concetto di AI Overview in relazione con \"l'utente ottiene una sintesi direttamente in SERP senza aprire subito un risultato\".",
-      "B": "Non è la scelta migliore: \"cercare 'compra scarpe running numero 42 spedizione rapida'\" descrive un concetto diverso dal concetto di AI Overview.",
-      "C": "Non è la scelta migliore: \"scrivere contenuti autorevoli e semanticamente chiari per comparire nelle risposte AI\" sposta l'attenzione su un aspetto diverso dal concetto di AI Overview.",
-      "D": "Non è la scelta migliore: \"cercare 'miglior CRM per piccole imprese confronto prezzi'\" non identifica il ruolo specifico del concetto di AI Overview in questa domanda."
+      "A": "È corretta perché il caso resta coerente con AI Overview: una risposta generata dall'IA di Google mostrata sopra i risultati organici sintetizzando più fonti. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di intento transazionale, mentre la domanda richiede AI Overview.",
+      "C": "Non è corretta perché descrive un esempio applicato di GEO, mentre la domanda richiede AI Overview.",
+      "D": "Non è corretta perché descrive un esempio applicato di intento commerciale, mentre la domanda richiede AI Overview."
     }
   },
   {
@@ -9136,6 +11236,12 @@
       "B": "l'utente ottiene una sintesi direttamente in SERP senza aprire subito un risultato",
       "C": "studiare termini, sinonimi, volumi e competitor per progettare contenuti",
       "D": "cercare 'compra scarpe running numero 42 spedizione rapida'"
+    },
+    "rationales": {
+      "A": "È corretta perché il caso resta coerente con GEO: Generative Engine Optimization, cioè ottimizzazione dei contenuti per essere usati o citati da motori generativi. Non descrive solo una metrica o un canale scollegato dal concetto.",
+      "B": "Non è corretta perché descrive un esempio applicato di AI Overview, mentre la domanda richiede GEO.",
+      "C": "Non è corretta perché descrive un esempio applicato di keyword research, mentre la domanda richiede GEO.",
+      "D": "Non è corretta perché descrive un esempio applicato di intento transazionale, mentre la domanda richiede GEO."
     }
   },
   {
@@ -9192,19 +11298,19 @@
       "fondamenti",
       "digitale"
     ],
-    "source": "NotebookLM Web Marketing / Quiz Marketing / 3d7a6e33 / Marketing 4.0",
-    "text": "Cosa caratterizza il concetto di 'Brand Activism' rispetto alla tradizionale CSR?",
+    "source": "converted-md/appunti-web-marketing/Web Marketing.md / Marketing 6.0 e brand activism",
+    "text": "Che cosa indica il concetto di 'brand activism' negli sviluppi più recenti del marketing?",
     "options": {
-      "A": "L'attivismo si focalizza sulla 'giustizia' e sul fare la differenza nel mondo",
-      "B": "La CSR ha un impatto esterno più alto dell'attivismo",
-      "C": "La CSR non si occupa di etica",
-      "D": "L'attivismo ignora gli obiettivi di profitto"
+      "A": "La presa di posizione attiva delle aziende su temi sociali, politici e ambientali cruciali.",
+      "B": "La rinuncia completa alla dimensione commerciale del brand.",
+      "C": "La riduzione del marketing alla sola automazione dei contenuti tramite AI.",
+      "D": "Il ritorno a una comunicazione di prodotto senza valori o cause sociali."
     },
     "rationales": {
-      "A": "Mentre la CSR punta a essere un 'buon cittadino', l'attivismo prende posizione su temi controversi per il cambiamento sociale.",
-      "B": "Al contrario, l'attivismo cerca un impatto sociale esterno molto più radicale (giustizia sociale).",
-      "C": "La CSR si occupa eccome di etica, ma spesso in modo più conservativo o interno (es. catena di fornitura).",
-      "D": "Le aziende che praticano attivismo restano entità commerciali, ma integrano la causa nel loro modello di business."
+      "A": "È corretta: negli appunti il brand activism è descritto come evoluzione in cui le aziende prendono posizione su temi sociali, politici e ambientali cruciali.",
+      "B": "Il brand activism non elimina la natura commerciale del brand: aggiunge una postura valoriale e pubblica.",
+      "C": "L'automazione tramite AI richiama soprattutto il marketing 5.0, non la definizione di brand activism.",
+      "D": "È l'opposto del concetto: qui il brand non si limita al prodotto, ma prende posizione su temi rilevanti."
     }
   },
   {
@@ -9800,19 +11906,19 @@
       "digitale",
       "operational"
     ],
-    "source": "NotebookLM Web Marketing / SEO Quiz / 721a30f2 / Operational digital marketing",
-    "text": "Per le query di brand (Navigazionali), cosa suggerisce il materiale riguardo al budget PPC?",
+    "source": "converted-md/appunti-web-marketing/Web Marketing.md / search intent",
+    "text": "Quale contenuto risponde meglio a un intento di ricerca commerciale?",
     "options": {
-      "A": "Di usarlo se necessario, ma si potrebbe evitare se si è già ben posizionati organicamente.",
-      "B": "Di raddoppiare sempre il budget per superare la concorrenza.",
-      "C": "Di evitarlo completamente in ogni circostanza.",
-      "D": "Di usarlo solo per attirare nuovi utenti che non conoscono il brand."
+      "A": "Una comparazione tra alternative, funzionalità e criteri di scelta prima dell'acquisto.",
+      "B": "La sola homepage del brand, pensata per chi cerca un sito specifico già noto.",
+      "C": "Una pagina di conferma ordine mostrata dopo il pagamento.",
+      "D": "Un contenuto generico che risponde a una curiosità iniziale senza confronto tra opzioni."
     },
     "rationales": {
-      "A": "Il PPC per intenti navigazionali serve spesso come protezione, ma è opzionale se la SEO organica è eccellente.",
-      "B": "Non è sempre necessario spendere di più se il posizionamento organico è già dominante.",
-      "C": "In alcuni casi è necessario per difendere il brand da competitor che fanno bidding sul tuo nome.",
-      "D": "Per definizione, l'intento navigazionale attira utenti che conoscono già il brand."
+      "A": "È corretta: l'intento commerciale riguarda utenti interessati all'acquisto che stanno ancora investigando e confrontando.",
+      "B": "Questa risposta è più adatta a un intento navigazionale, dove l'utente cerca un sito, una pagina o un luogo specifico.",
+      "C": "La conferma ordine appartiene al dopo-acquisto, non alla fase in cui l'utente confronta prima di decidere.",
+      "D": "Un contenuto generico informativo risponde meglio a lead freddi che cercano una risposta iniziale."
     }
   },
   {
@@ -9948,7 +12054,7 @@
     },
     "rationales": {
       "A": "La copertura conta le persone singole raggiunte, a differenza delle impressioni che contano le visualizzazioni totali.",
-      "B": "Questo è il numero totale di clic.",
+      "B": "Non è corretta perché i click misurano l'interazione con l'annuncio, mentre la copertura misura quante persone uniche sono state raggiunte.",
       "C": "Questo è il Costo per Acquisizione (CPA).",
       "D": "Questa è una specifica tecnica del contenuto video, non una metrica di audience."
     }
@@ -10007,19 +12113,19 @@
       "digitale",
       "operational"
     ],
-    "source": "NotebookLM Web Marketing / SEO Quiz / 721a30f2 / Operational digital marketing",
-    "text": "Quale elemento è cruciale per convincere un cliente con intento 'Commerciale'?",
+    "source": "converted-md/appunti-web-marketing/Web Marketing.md / search intent",
+    "text": "Quale contenuto risponde meglio a un intento di ricerca transazionale?",
     "options": {
-      "A": "Comparazioni di prodotti ed elenchi di funzionalità dettagliate.",
-      "B": "Una definizione da dizionario del prodotto.",
-      "C": "Un video sulla storia dell'azienda fondata nel 1900.",
-      "D": "Nascondere il prezzo fino alla fine del processo."
+      "A": "Una pagina prodotto o checkout chiara, con prezzo, disponibilità e invito all'acquisto.",
+      "B": "Un articolo introduttivo che spiega il significato generale della categoria.",
+      "C": "Una pagina istituzionale pensata solo per chi cerca l'indirizzo dell'azienda.",
+      "D": "Una comparazione esplorativa tra molte alternative senza possibilità di acquisto."
     },
     "rationales": {
-      "A": "Gli utenti in questa fase hanno bisogno di prove e confronti per capire quale soluzione sia la migliore per loro.",
-      "B": "Le definizioni generiche non aiutano l'utente a decidere tra due opzioni d'acquisto.",
-      "C": "La storia aziendale può aiutare il brand, ma non è l'elemento decisivo per chi confronta specifiche tecniche.",
-      "D": "La trasparenza è fondamentale nella fase commerciale per permettere una valutazione corretta."
+      "A": "È corretta: l'intento transazionale riguarda utenti già decisi ad acquistare, quindi la pagina deve facilitare l'azione.",
+      "B": "Un contenuto introduttivo risponde meglio a un intento informazionale, non a chi è pronto all'acquisto.",
+      "C": "Questa risposta è più vicina all'intento navigazionale, in cui l'utente cerca un sito o luogo specifico.",
+      "D": "Il confronto tra alternative serve soprattutto all'intento commerciale, prima della decisione finale."
     }
   }
 ];

@@ -996,33 +996,71 @@
     function renderFeedback(q, selected, revealed) {
       const parts = [];
       let className = "feedback";
+      const correctRationale = getUsableRationale(q, q.answer);
+      const selectedRationale = selected ? getUsableRationale(q, selected) : "";
 
       if (!selected && !revealed) {
         parts.push("<p>Scegli una risposta.</p>");
       } else if (selected === q.answer) {
         className = "feedback good";
         parts.push("<p>Corretto.</p>");
-        if (q.rationales?.[q.answer]) {
-          parts.push(`<p><strong>Perché:</strong> ${escapeHtml(q.rationales[q.answer])}</p>`);
+        if (correctRationale) {
+          parts.push(`<p><strong>Spiegazione:</strong> ${escapeHtml(correctRationale)}</p>`);
         }
       } else if (revealed && !selected) {
         parts.push("<p>Risposta corretta evidenziata.</p>");
-        if (q.rationales?.[q.answer]) {
-          parts.push(`<p><strong>Perché:</strong> ${escapeHtml(q.rationales[q.answer])}</p>`);
+        if (correctRationale) {
+          parts.push(`<p><strong>Spiegazione:</strong> ${escapeHtml(correctRationale)}</p>`);
+        } else {
+          parts.push(`<p><strong>Risposta corretta:</strong> ${escapeHtml(q.options[q.answer])}</p>`);
         }
       } else {
         className = "feedback bad";
         parts.push("<p>Non corretta. La risposta giusta è evidenziata.</p>");
-        if (q.rationales?.[selected]) {
-          parts.push(`<p><strong>La tua scelta:</strong> ${escapeHtml(q.rationales[selected])}</p>`);
+        if (selectedRationale) {
+          parts.push(`<p><strong>La tua scelta:</strong> ${escapeHtml(selectedRationale)}</p>`);
         }
-        if (q.rationales?.[q.answer]) {
-          parts.push(`<p><strong>Risposta corretta:</strong> ${escapeHtml(q.rationales[q.answer])}</p>`);
+        if (correctRationale) {
+          parts.push(`<p><strong>Spiegazione:</strong> ${escapeHtml(correctRationale)}</p>`);
+        } else {
+          parts.push(`<p><strong>Risposta corretta:</strong> ${escapeHtml(q.options[q.answer])}</p>`);
         }
       }
 
       els.feedback.className = className;
       els.feedback.innerHTML = parts.join("");
+    }
+
+    function getUsableRationale(q, letter) {
+      const rationale = q.rationales?.[letter] || "";
+      if (isTautologicalRationale(rationale, q.options?.[letter])) return "";
+      return rationale;
+    }
+
+    function isTautologicalRationale(rationale, option) {
+      const normalized = normalizeForCompare(rationale);
+      const normalizedOption = normalizeForCompare(option);
+      if (!normalized || !normalizedOption) return true;
+      if (normalized.length < 35) return true;
+      if (/^(supported by the source evidence|this option does not match the source evidence|correct answer|wrong answer)$/.test(normalized)) return true;
+      if (/mette il concetto\b.*\bin relazione con/.test(normalized)) return true;
+      const stripped = normalized
+        .replace(/^(perche|perche la risposta corretta e|la risposta corretta e|risposta corretta|corretto perche|non e corretto perche|questa opzione e corretta perche|questa opzione non e corretta perche)\s+/, "")
+        .trim();
+      if (stripped === normalizedOption) return true;
+      if (normalizedOption.length > 25 && normalized.includes(normalizedOption)) return true;
+      return normalized.includes(normalizedOption) && stripped.split(" ").length <= normalizedOption.split(" ").length + 4;
+    }
+
+    function normalizeForCompare(value) {
+      return String(value || "")
+        .trim()
+        .toLowerCase()
+        .normalize("NFD")
+        .replace(/[\u0300-\u036f]/g, "")
+        .replace(/[^a-z0-9]+/g, " ")
+        .trim()
+        .replace(/\s+/g, " ");
     }
 
     function choose(letter) {
@@ -1038,14 +1076,14 @@
     }
 
     function renderStats() {
-      const activeQuestions = getActiveQuestions();
-      const answered = activeQuestions.filter(q => state.answers[q.id]?.selected);
+      const visibleQuestions = order.map(id => questionById.get(id)).filter(Boolean);
+      const answered = visibleQuestions.filter(q => state.answers[q.id]?.selected);
       const correct = answered.filter(q => state.answers[q.id].selected === q.answer);
       const percent = answered.length ? Math.round((correct.length / answered.length) * 100) : 0;
       els.scoreStat.textContent = correct.length;
       els.percentStat.textContent = `${percent}%`;
       els.doneStat.textContent = answered.length;
-      els.leftStat.textContent = activeQuestions.length - answered.length;
+      els.leftStat.textContent = visibleQuestions.length - answered.length;
     }
 
     function renderTopicList() {
